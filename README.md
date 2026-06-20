@@ -11,6 +11,10 @@ empirical-percentile fingerprint** against a frozen 314-song corpus distribution
 
 The measurement layer is deterministic and reproducible. Generation is an LLM and is pluggable.
 
+> **For agents (no prior context):** read **[`ONBOARDING.md`](ONBOARDING.md)** (repo map + the exact function to
+> call for each task) and **[`AGENT.md`](AGENT.md)** (the operating prompt: grammar → axes → retrieve → compose →
+> measure → loop). Provenance of the corpus is in [`DATA_PROVENANCE.md`](DATA_PROVENANCE.md).
+
 ## Install
 ```bash
 pip install -e .            # core measurement (numpy, scipy, scikit-learn, pretty_midi, music21)
