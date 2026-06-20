@@ -1,0 +1,1036 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Libretto: a validated, deterministic structural-assessment environment for symbolic music, within which an LLM agent composes and is steered.">
+<title>Libretto — a structural-assessment environment for symbolic music</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+  :root{ --ink:#1d1f23; --muted:#5b6470; --line:#e7e9ee; --accent:#2166ac; --soft:#f6f8fb; --gen:#2166ac; --real:#1a7a3a; }
+  html{ scroll-behavior:smooth; }
+  body{ font-family:'Lato',-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; color:var(--ink); }
+  .title,.subtitle,.section-title,.sub-h{ font-family:'Newsreader','Lato',serif; }
+  .navbar{ border-bottom:1px solid var(--line); }
+  .navbar-item.brand{ font-weight:900; letter-spacing:.5px; }
+  /* make the top nav a single horizontally-scrollable strip (it has many items) */
+  .navbar > .container{ display:flex; flex-wrap:nowrap; align-items:stretch; }
+  .navbar-brand{ flex:0 0 auto; }
+  .navbar-menu{ display:flex !important; flex:1 1 auto; min-width:0; overflow-x:auto; overflow-y:hidden;
+    padding:0; box-shadow:none; background:transparent; }
+  .navbar-end{ display:flex; flex-wrap:nowrap; margin-left:auto; }
+  .navbar-item{ white-space:nowrap; flex:0 0 auto; }
+  .navbar-menu{ scrollbar-width:thin; }
+  .navbar-menu::-webkit-scrollbar{ height:5px; }
+  .navbar-menu::-webkit-scrollbar-thumb{ background:#d3d8e0; border-radius:3px; }
+  .hero-libretto{ background:linear-gradient(180deg,#fff,var(--soft)); padding:3.2rem 1rem 2.4rem; }
+  .pub-title{ font-size:3rem; font-weight:900; letter-spacing:-.5px; }
+  .pub-tagline{ color:var(--muted); font-size:1.28rem; max-width:48rem; margin:.6rem auto 1.4rem; }
+  .authors{ font-size:1.12rem; } .authors a{ color:var(--accent); } .aff{ color:var(--muted); }
+  .linkbtns .button{ border-radius:999px; background:#23272e; color:#fff; border:none; margin:.25rem; font-weight:700; }
+  .linkbtns .button:hover{ background:#000; }
+  .section-title{ font-size:2rem; font-weight:700; text-align:center; margin-bottom:.4rem; }
+  .section-sub{ text-align:center; color:var(--muted); max-width:50rem; margin:0 auto 2rem; }
+  .sub-h{ font-size:1.4rem; font-weight:700; margin:2rem 0 .2rem; border-bottom:1px solid var(--line); padding-bottom:.3rem; }
+  .sub-note{ color:var(--muted); margin:.1rem 0 1rem; }
+  .content-narrow{ max-width:52rem; margin:0 auto; }
+  .abstract{ font-size:1.08rem; line-height:1.8; }
+  figure.fig{ margin:0 0 1rem; } figure.fig img{ border:1px solid var(--line); border-radius:10px; background:#fff; width:100%; }
+  figure.fig figcaption{ color:var(--muted); font-size:.95rem; margin-top:.6rem; } figure.fig figcaption b{ color:var(--ink); }
+  .statband{ background:var(--accent); color:#fff; }
+  .statband .stat .num{ font-size:2.1rem; font-weight:900; font-family:'Newsreader',serif; line-height:1.1; }
+  .statband .stat .lab{ font-size:.92rem; opacity:.92; }
+  .diag{ background:#fff8e6; border:1px solid #e6c65a; border-radius:10px; padding:1rem 1.2rem; font-size:.98rem; }
+  .diag code{ background:#fbeec2; color:#7a5b00; }
+  table.mini{ width:100%; border-collapse:collapse; font-size:.95rem; }
+  table.mini th,table.mini td{ border:1px solid var(--line); padding:.45rem .7rem; text-align:left; } table.mini th{ background:var(--soft); }
+  .alt{ background:var(--soft); }
+  .footer{ background:#fff; border-top:1px solid var(--line); color:var(--muted); } .footer a{ color:var(--accent); }
+  .tag-ok{ color:#1a7a3a; font-weight:700; } hr.sep{ background:var(--line); height:1px; border:none; }
+  /* audio */
+  .audiogrid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:1rem; }
+  .acard{ border:1px solid var(--line); border-radius:12px; padding:.9rem 1rem; background:#fff; }
+  .acard .alabel{ font-weight:700; margin-bottom:.5rem; }
+  .acard audio{ width:100%; }
+  .acard.pair .abrow{ display:grid; grid-template-columns:1fr; gap:.5rem; }
+  .atag{ display:inline-block; font-size:.78rem; font-weight:700; padding:.05rem .5rem; border-radius:999px; margin-bottom:.25rem; }
+  .atag.gen{ background:#e7eff7; color:var(--gen); } .atag.real{ background:#e6f4ec; color:var(--real); }
+  details.more{ margin:1rem 0 0; } details.more summary{ cursor:pointer; color:var(--accent); font-weight:700; }
+  .alist{ margin-top:.8rem; display:grid; gap:.5rem; }
+  .arow{ display:grid; grid-template-columns:minmax(180px,1fr) 2fr; align-items:center; gap:.6rem; border-bottom:1px solid var(--line); padding-bottom:.4rem; }
+  .arow.pairrow{ grid-template-columns:minmax(170px,1.3fr) auto 1.5fr auto 1.5fr; }
+  .arow audio{ width:100%; height:34px; } .arow .mini{ font-size:.72rem; font-weight:700; }
+  .arow .mini.gen{ color:var(--gen); } .arow .mini.real{ color:var(--real); }
+  .songlist{ columns:3 250px; column-gap:1.6rem; margin-top:.9rem; font-size:.84rem; }
+  .songlist div{ break-inside:avoid; padding:.12rem 0; color:var(--muted); }
+  .songlist div b{ color:var(--ink); font-weight:700; }
+  section{ scroll-margin-top:64px; }
+  .usagebox{ border:1px solid var(--line); border-radius:12px; padding:1.4rem 1.7rem; max-height:78vh; overflow:auto; background:#fff; }
+  .usagebox h1{ font-size:1.5rem; margin:.2rem 0 .8rem; } .usagebox h2{ font-size:1.2rem; border:none; margin-top:1.6rem; }
+  .usagebox h3{ font-size:1.02rem; margin-top:1.1rem; }
+  .usagebox table{ border-collapse:collapse; font-size:.8rem; display:block; overflow-x:auto; margin:1rem 0; }
+  .usagebox th,.usagebox td{ border:1px solid var(--line); padding:.32rem .5rem; text-align:left; vertical-align:top; }
+  .usagebox th{ background:var(--soft); }
+  .usagebox pre{ background:#23272e; color:#eef; border-radius:8px; padding:.9rem 1rem; overflow-x:auto; font-size:.8rem; }
+  .usagebox code{ background:#f1f3f6; padding:.08rem .32rem; border-radius:3px; font-size:.88em; }
+  .usagebox pre code{ background:none; padding:0; color:#eef; }
+  .usagebox blockquote{ border-left:3px solid var(--line); margin:.6rem 0; padding:.1rem .9rem; color:var(--muted); }
+  .usagebox a{ color:var(--accent); }
+  .grammarbox{ background:#1d2027; color:#e8eaf0; border-radius:12px; padding:1.3rem 1.5rem; margin:0;
+    font:13.5px/1.8 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; overflow-x:auto; box-shadow:0 8px 28px rgba(20,30,50,.16); }
+  .grammarbox .g-k{ color:#8b94a3; } .grammarbox .g-d{ color:#586074; }
+  .grammarbox .g-bar{ color:#7fb3ff; font-weight:700; } .grammarbox .g-ch{ color:#7ee2a8; font-weight:700; }
+  .grammarbox .g-v{ color:#e6c06b; } .grammarbox .g-s{ color:#7fb3ff; } .grammarbox .g-p{ color:#ff8aa0; font-weight:700; }
+  .glegend{ list-style:none; margin:.2rem 0 0; padding:0; font-size:.96rem; }
+  .glegend li{ padding:.5rem 0; border-bottom:1px solid var(--line); }
+  .glegend .t{ font-family:ui-monospace,Menlo,Consolas,monospace; font-weight:700; }
+  .glegend .tk{ color:#5b6470; } .glegend .tch{ color:#1a7a3a; } .glegend .tv{ color:#9a7b1e; }
+  .glegend .ts{ color:#2166ac; } .glegend .tp{ color:#c0395a; }
+  .flowwrap{ overflow-x:auto; padding:.4rem 0 .2rem; }
+  svg.flow{ width:100%; min-width:780px; height:auto; display:block; margin:0 auto; }
+  svg.flow .bt{ font:700 14px 'Lato',sans-serif; fill:#1d1f23; }
+  svg.flow .bs{ font:11px 'Lato',sans-serif; fill:#5b6470; }
+  svg.flow .bdg{ font:700 12px 'Lato',sans-serif; fill:#fff; }
+  svg.flow .flab{ font:italic 11.5px 'Lato',sans-serif; fill:#7a828f; }
+  svg.flow .ffail{ font:700 12.5px 'Lato',sans-serif; fill:#c0395a; }
+  .trywrap{ display:grid; grid-template-columns:1fr 1fr; gap:1.3rem; align-items:start; }
+  @media(max-width:820px){ .trywrap{ grid-template-columns:1fr; } }
+  .tryta{ width:100%; min-height:250px; font:12.5px/1.65 ui-monospace,Menlo,Consolas,monospace; padding:.85rem 1rem;
+    border:1px solid var(--line); border-radius:10px; background:#1d2027; color:#e8eaf0; resize:vertical; }
+  #roll{ width:100%; height:300px; border:1px solid var(--line); border-radius:10px; background:#fff; display:block; }
+  .trybtns{ margin:.7rem 0 .3rem; } .trybtns button{ border-radius:999px; border:none; background:#23272e; color:#fff;
+    font-weight:700; padding:.42rem 1.15rem; margin-right:.5rem; cursor:pointer; }
+  .trybtns button:hover{ background:#000; } #trystatus{ color:var(--muted); font-size:.85rem; }
+  .vlegend{ font-size:.8rem; color:var(--muted); display:flex; flex-wrap:wrap; gap:.7rem; }
+  .vlegend i{ display:inline-block; width:11px; height:11px; border-radius:2px; margin-right:.3rem; vertical-align:middle; }
+  .readout{ display:flex; flex-wrap:wrap; gap:.5rem; margin:.8rem 0 .35rem; }
+  .readout .chip{ background:var(--soft); border:1px solid var(--line); border-radius:999px; padding:.26rem .75rem; font-size:.82rem; }
+  .readout .chip b{ color:var(--accent); }
+  .readnote{ font-size:.82rem; color:var(--muted); line-height:1.5; }
+  .acard .dl{ margin-top:.55rem; font-size:.86rem; }
+  .acard .dl a{ color:var(--accent); font-weight:700; text-decoration:none; }
+  .acard .dl a:hover{ text-decoration:underline; }
+</style>
+</head>
+<body>
+<nav class="navbar is-fixed-top is-white" role="navigation">
+  <div class="container">
+    <div class="navbar-brand"><a class="navbar-item brand" href="#top">LIBRETTO</a></div>
+    <div class="navbar-menu"><div class="navbar-end">
+      <a class="navbar-item" href="#abstract">Abstract</a>
+      <a class="navbar-item" href="#overview">Overview</a>
+      <a class="navbar-item" href="#grammar">Grammar</a>
+      <a class="navbar-item" href="#try">Try it</a>
+      <a class="navbar-item" href="#environment">Environment</a>
+      <a class="navbar-item" href="#data">Data</a>
+      <a class="navbar-item" href="#validation">Validation</a>
+      <a class="navbar-item" href="#steering">Steering</a>
+      <a class="navbar-item" href="#results">Results</a>
+      <a class="navbar-item" href="#listen">Listen</a>
+      <a class="navbar-item" href="#interpretability">Interpretability</a>
+      <a class="navbar-item" href="#usage">Get started</a>
+      <a class="navbar-item" href="#code">Code</a>
+    </div></div>
+  </div>
+</nav>
+<div style="height:3.25rem"></div>
+<header class="hero-libretto" id="top">
+  <div class="container has-text-centered">
+    <h1 class="pub-title">Libretto <span style="font-size:.46em; font-weight:400; color:var(--muted);">(谱文)</span></h1>
+    <p class="pub-tagline">A validated, deterministic structural-assessment environment for symbolic music,
+      within which an LLM agent composes and is steered.</p>
+    <p class="authors"><a href="mailto:yichen_xu@berkeley.edu">Yichen Xu</a></p>
+    <p class="aff">UC Berkeley</p>
+    <div class="linkbtns" style="margin-top:1.3rem">
+      <a class="button" href="libretto.pdf" target="_blank"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>Paper</span></a>
+      <a class="button" href="https://github.com/Xyc-arch/Libretto" target="_blank"><span class="icon"><i class="fab fa-github"></i></span><span>Code</span></a>
+      <a class="button" href="#listen"><span class="icon"><i class="fas fa-music"></i></span><span>Listen</span></a>
+    </div>
+  </div>
+</header>
+<section class="statband"><div class="container">
+  <div class="columns is-mobile is-multiline has-text-centered" style="padding:1.4rem 0">
+    <div class="column stat"><div class="num">29</div><div class="lab">structural axes</div></div>
+    <div class="column stat"><div class="num">314</div><div class="lab">real-song corpus</div></div>
+    <div class="column stat"><div class="num">0.019%</div><div class="lab">round-trip note loss</div></div>
+    <div class="column stat"><div class="num">2&rarr;6 / 8</div><div class="lab">retrieval (newgen pass)</div></div>
+    <div class="column stat"><div class="num">12&rarr;39%</div><div class="lab">loop (gap-fill pass)</div></div>
+    <div class="column stat"><div class="num">62&rarr;94%</div><div class="lab">loop (newgen pass)</div></div>
+  </div>
+</div></section>
+<section class="section" id="abstract"><div class="container content-narrow">
+  <h2 class="section-title">Abstract</h2>
+  <p class="abstract">Large language models can write music notation, but we lack a rigorous way to say whether what
+    they write is structurally sound &mdash; and to steer them when it is not. We present <b>Libretto</b>, a validated,
+    deterministic environment for symbolic music in which an LLM agent composes within a text grammar and is assessed
+    and steered by a structural-assessment engine. The engine places any piece in a <b>29-axis fingerprint</b> of
+    token-derived, decorrelated structural features (rhythm, harmony, melody, texture, form), each scored as an
+    empirical percentile against a frozen 314-song corpus; the axes are <i>descriptive</i>, not a learned
+    &ldquo;quality&rdquo; score. We show the gates <b>discriminate</b>: real human music sits at a mean of 3.4 extreme
+    axes (admitted), while degenerate generations pile up to 4&ndash;6, and a strict note-level copy gate cleanly
+    separates novel material (&le;0.29) from near-duplicates (&ge;0.31). On this substrate we add two interventions
+    &mdash; a <b>monotone-safe self-evolving loop</b> that returns non-prescriptive &ldquo;dosage&rdquo; feedback to
+    the agent, and <b>mandatory retrieval</b> of corpus-grounded idiom concepts plus centroid-nearest real exemplars.
+    Across four applications (held-out gap-filling, component morphing, from-scratch generation, single-voice
+    pedagogy), retrieval triples from-scratch pass rate (2/8&rarr;6/8) by de-degenerating the fingerprint, and the
+    loop roughly triples gap-filling pass rate (12%&rarr;39%) and lifts from-scratch generation to 94%. Because every
+    axis is deterministic and grounded, a failure is fully <b>legible</b>: a generated gap-fill&rsquo;s
+    &ldquo;~2-chords-per-bar conveyor belt&rdquo; and all-stepwise melody are pinpointed to specific axes at the
+    95th&ndash;100th percentile. The grammar round-trips to MIDI with 0.019% note loss, and the validated core is
+    frozen under a sha256 manifest.</p>
+</div></section>
+<hr class="sep">
+<section class="section alt" id="overview"><div class="container">
+  <h2 class="section-title">How it works</h2>
+  <p class="section-sub">An LLM composes in the grammar; the deterministic engine scores it on the 29 axes and
+    <b>steers</b> it — retrieve, compose, measure, and loop until it clears the gates.</p>
+  <div class="flowwrap">
+  <svg class="flow" viewBox="0 0 1000 405" role="img" aria-label="Libretto workflow diagram">
+    <defs>
+      <marker id="ah" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#5b6470"/></marker>
+      <marker id="ahr" markerWidth="9" markerHeight="9" refX="6.5" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#c0395a"/></marker>
+    </defs>
+    <rect x="300" y="14" width="400" height="52" rx="13" fill="#eef3fb" stroke="#bcd0ea"/>
+    <text x="500" y="36" text-anchor="middle" class="bt">Frozen substrate</text>
+    <text x="500" y="54" text-anchor="middle" class="bs">314-song corpus → 29-axis fingerprint distribution</text>
+    <path d="M380,66 C250,110 124,150 124,196" fill="none" stroke="#b9c2cf" stroke-width="1.4" stroke-dasharray="4 4" marker-end="url(#ah)"/>
+    <path d="M620,66 C648,120 638,150 638,196" fill="none" stroke="#b9c2cf" stroke-width="1.4" stroke-dasharray="4 4" marker-end="url(#ah)"/>
+    <text x="500" y="118" text-anchor="middle" class="flab">percentile-scored against the frozen corpus</text>
+    <g><rect x="12" y="198" width="224" height="98" rx="14" fill="#f6f8fb" stroke="#cfd8e3"/>
+       <circle cx="34" cy="220" r="12" fill="#2166ac"/><text x="34" y="224" text-anchor="middle" class="bdg">1</text>
+       <text x="128" y="244" text-anchor="middle" class="bt">Retrieve</text>
+       <text x="124" y="266" text-anchor="middle" class="bs">KB concepts · real exemplars</text>
+       <text x="124" y="282" text-anchor="middle" class="bs">· genre target bands</text></g>
+    <g><rect x="264" y="198" width="224" height="98" rx="14" fill="#f6f8fb" stroke="#cfd8e3"/>
+       <circle cx="286" cy="220" r="12" fill="#b8860b"/><text x="286" y="224" text-anchor="middle" class="bdg">2</text>
+       <text x="380" y="244" text-anchor="middle" class="bt">Compose (LLM)</text>
+       <text x="376" y="266" text-anchor="middle" class="bs">write the grammar — aim</text>
+       <text x="376" y="282" text-anchor="middle" class="bs">mid-band, never copy</text></g>
+    <g><rect x="516" y="198" width="244" height="98" rx="14" fill="#f6f8fb" stroke="#cfd8e3"/>
+       <circle cx="538" cy="220" r="12" fill="#1a9850"/><text x="538" y="224" text-anchor="middle" class="bdg">3</text>
+       <text x="642" y="244" text-anchor="middle" class="bt">Measure &amp; gate</text>
+       <text x="638" y="266" text-anchor="middle" class="bs">29-axis fingerprint, then gate:</text>
+       <text x="638" y="282" text-anchor="middle" class="bs">non-degeneracy · novelty · fit · length</text></g>
+    <g><rect x="788" y="198" width="200" height="98" rx="14" fill="#eaf5ee" stroke="#a8d4b8"/>
+       <circle cx="810" cy="220" r="12" fill="#1a7a3a"/><text x="810" y="225" text-anchor="middle" class="bdg">✓</text>
+       <text x="892" y="244" text-anchor="middle" class="bt">Pass → MIDI</text>
+       <text x="888" y="266" text-anchor="middle" class="bs">gaptask · morph</text>
+       <text x="888" y="282" text-anchor="middle" class="bs">newgen · education</text></g>
+    <path d="M236,247 L260,247" fill="none" stroke="#5b6470" stroke-width="1.6" marker-end="url(#ah)"/>
+    <path d="M488,247 L512,247" fill="none" stroke="#5b6470" stroke-width="1.6" marker-end="url(#ah)"/>
+    <path d="M760,247 L784,247" fill="none" stroke="#5b6470" stroke-width="1.6" marker-end="url(#ah)"/>
+    <path d="M638,296 C638,374 376,374 376,298" fill="none" stroke="#c0395a" stroke-width="1.8" marker-end="url(#ahr)"/>
+    <text x="507" y="392" text-anchor="middle" class="ffail">✗ fail → dosage feedback · ≤3 rounds (pick-best)</text>
+  </svg>
+  </div>
+</div></section>
+<hr class="sep">
+<section class="section" id="grammar"><div class="container">
+  <h2 class="section-title">How music is represented</h2>
+  <p class="section-sub">One compact, human-legible text grammar — exact pitch, rhythm, and voices, and nothing
+    else. The same text round-trips to MIDI; the LLM reads and writes only this.</p>
+  <div class="columns is-vcentered">
+    <div class="column is-7"><pre class="grammarbox"><span class="g-k">KEY:</span> C major <span class="g-d">|</span> <span class="g-k">METER:</span> 4/4 <span class="g-d">|</span> <span class="g-k">TEMPO:</span> 120 <span class="g-d">|</span> <span class="g-k">GRID:</span> 16th <span class="g-d">|</span> <span class="g-k">BARS:</span> 2
+<span class="g-k">VOICES:</span> Melody, Piano, Bass
+<span class="g-bar">@1</span> <span class="g-ch">[C]</span>
+  <span class="g-v">Melody</span>: E4<span class="g-s">@1>2</span> G4<span class="g-s">@5>2</span> C5<span class="g-s">@9>4</span> G4<span class="g-s">@13>2</span>
+  <span class="g-v">Piano</span> : C4<span class="g-p">+</span>E4<span class="g-p">+</span>G4<span class="g-s">@1>8</span> C4<span class="g-p">+</span>E4<span class="g-p">+</span>G4<span class="g-s">@9>8</span>
+  <span class="g-v">Bass</span>  : C2<span class="g-s">@1>4</span> G2<span class="g-s">@9>4</span>
+<span class="g-bar">@2</span> <span class="g-ch">[G]</span>
+  <span class="g-v">Melody</span>: D4<span class="g-s">@1>2</span> G4<span class="g-s">@5>2</span> B4<span class="g-s">@9>4</span> D5<span class="g-s">@13>2</span>
+  <span class="g-v">Piano</span> : G3<span class="g-p">+</span>B3<span class="g-p">+</span>D4<span class="g-s">@1>8</span> G3<span class="g-p">+</span>B3<span class="g-p">+</span>D4<span class="g-s">@9>8</span>
+  <span class="g-v">Bass</span>  : G2<span class="g-s">@1>4</span> D3<span class="g-s">@9>4</span></pre></div>
+    <div class="column is-5">
+      <ul class="glegend">
+        <li><span class="t tk">header</span> &mdash; key · time signature · tempo · grid resolution · #bars</li>
+        <li><span class="t tch">[C]</span> &mdash; the bar's chord (always present)</li>
+        <li><span class="t tv">Melody / Piano / Bass</span> &mdash; the named voices (parts)</li>
+        <li><span class="t">E4</span> &mdash; an exact pitch (scientific; middle&nbsp;C = C4)</li>
+        <li><span class="t ts">@5&gt;2</span> &mdash; onset at slot 5, lasts 2 slots
+            <span style="color:var(--muted)">(in 4/4 the four beats are slots 1·5·9·13)</span></li>
+        <li><span class="t">C4<span class="tp">+</span>E4<span class="tp">+</span>G4</span> &mdash; <span class="tp t">+</span> stacks notes into a chord</li>
+      </ul>
+      <p class="sub-note" style="margin-top:1rem">Note content is exact and reversible; velocity, micro-timing,
+        and timbre are intentionally dropped.</p>
+    </div>
+  </div>
+</div></section>
+<hr class="sep">
+<section class="section" id="try"><div class="container">
+  <h2 class="section-title">Try the grammar</h2>
+  <p class="section-sub">Edit the grammar on the left — it renders to a piano-roll instantly, and you can play it.
+    Runs entirely in your browser (no server).</p>
+  <div class="trywrap">
+    <div><textarea id="grammar-in" class="tryta" spellcheck="false"></textarea></div>
+    <div>
+      <canvas id="roll" width="900" height="300"></canvas>
+      <div class="trybtns"><button id="play">&#9654; Play</button><button id="stop">&#9632; Stop</button>
+        <span id="trystatus"></span></div>
+      <div class="vlegend" id="vleg"></div>
+      <div class="readout" id="tryreadout"></div>
+      <p class="readnote">&uarr; these structural axes are read <b>directly</b> from the text — every note's bar
+        and slot is explicit, so they're exact lookups (off-beat notes are outlined). In ABC or raw MIDI you'd
+        first have to reconstruct absolute timing (relative durations / tick deltas) before any of these is even
+        well-defined.</p>
+    </div>
+  </div>
+</div></section>
+<hr class="sep">
+<section class="section" id="environment"><div class="container">
+  <h2 class="section-title">The 29-axis environment</h2>
+  <p class="section-sub">Any piece is placed in a coordinate system of 29 token-derived structural axes, each a
+    percentile against a frozen 314-song corpus. The axes are decorrelated (max |r| = 0.77, 12 of 406 pairs &ge; 0.5)
+    and carry real &mdash; if soft &mdash; genre signal.</p>
+  <div class="columns is-vcentered">
+    <div class="column is-7"><figure class="fig"><img src="static/images/F3_axis_structure.png" alt="Axis structure">
+      <figcaption><b>Axis structure.</b> (left) 29&times;29 correlation heatmap &mdash; mostly pale (decorrelated);
+        (middle) the classifier reads one song as a genre <i>blend</i>; (right) 5-fold CV confusion (acc 0.384,
+        &asymp;3&times; chance).</figcaption></figure></div>
+    <div class="column is-5"><figure class="fig"><img src="static/images/F_genre_radar_overlaid.png" alt="Genre radar">
+      <figcaption><b>Genre fingerprints.</b> Mean percentile on all 29 axes (50 = corpus-typical) &mdash; each genre a
+        legible structural signature.</figcaption></figure></div>
+  </div>
+  <figure class="fig"><img src="static/images/F_axis_profile_heatmap.png" alt="Per-piece axis profiles">
+    <figcaption><b>Per-piece profiles.</b> Where each generated piece sits on every axis (&bull; = extreme). Passing
+      pieces show few &bull;; failures show clustered extremes the loop must fix.</figcaption></figure>
+</div></section>
+<section class="section alt" id="data"><div class="container content-narrow">
+  <h2 class="section-title">Data &amp; provenance</h2>
+  <p class="abstract">Percentiles are scored against a frozen reference of <b>314 real songs</b> that <b>we curate</b>
+    across 8 genres from the <a href="https://colinraffel.com/projects/lmd/">Clean MIDI subset</a> (~17k files,
+    2,199 artists) of the <b>Lakh MIDI Dataset</b> (Raffel, 2016; CC-BY 4.0). The 314-song selection and genre
+    labels are ours; the source MIDIs &mdash; and their artist/title, <i>&ldquo;with some inaccuracy&rdquo;</i>
+    &mdash; come from clean_midi (community transcriptions, hence anonymized <code>Part{n}</code> voices and
+    occasional near-duplicates, which the copy gate accounts for).</p>
+  <table class="mini" style="max-width:34rem;margin:1.2rem auto">
+    <thead><tr><th>genre</th><th>n</th><th>genre</th><th>n</th></tr></thead>
+    <tbody>
+      <tr><td>Pop/Rock</td><td>70</td><td>Funk/Soul</td><td>30</td></tr>
+      <tr><td>Electronic</td><td>34</td><td>Jazz</td><td>28</td></tr>
+      <tr><td>Classical</td><td>30</td><td>Latin/Reggae/World</td><td>28</td></tr>
+      <tr><td>Folk/Country</td><td>25</td><td>Film/Score</td><td>10</td></tr>
+    </tbody>
+  </table>
+  <details class="more"><summary>The 314 curated songs (artist &mdash; title)</summary>
+    <div class="songlist"><div><b>101 Strings</b> &mdash; Theme From The Godfather</div>
+<div><b>2 Unlimited</b> &mdash; No One.1</div>
+<div><b>2 Unlimited</b> &mdash; Twilight Zone.1</div>
+<div><b>808 State</b> &mdash; Pacific 202</div>
+<div><b>a-ha</b> &mdash; Take On Me.3</div>
+<div><b>a-ha</b> &mdash; The Living Daylights.1</div>
+<div><b>ABBA</b> &mdash; Dancing Queen</div>
+<div><b>ABBA</b> &mdash; Dancing Queen.4</div>
+<div><b>ABBA</b> &mdash; Gimme! Gimme! Gimme!.1</div>
+<div><b>ABBA</b> &mdash; Mamma Mia</div>
+<div><b>ABBA</b> &mdash; The Winner Takes It All</div>
+<div><b>Acoustic Alchemy</b> &mdash; The Blue Chip Bop</div>
+<div><b>Adamo</b> &mdash; Lei</div>
+<div><b>Adamski</b> &mdash; Love and Life</div>
+<div><b>Adiemus</b> &mdash; Kayama.1</div>
+<div><b>Adriano Celentano</b> &mdash; Azzurro.1</div>
+<div><b>Al Green</b> &mdash; Let&#x27;s Stay Together</div>
+<div><b>Angelo Branduardi</b> &mdash; Si puo fare</div>
+<div><b>Annie Cordy</b> &mdash; Tata Yoyo</div>
+<div><b>Aretha Franklin</b> &mdash; (You Make Me Feel Like a) Natural Woman.1</div>
+<div><b>Astrud Gilberto</b> &mdash; Once I Loved</div>
+<div><b>Average White Band</b> &mdash; Cut the Cake</div>
+<div><b>Average White Band</b> &mdash; Pick Up The Pieces.1</div>
+<div><b>Bach Johann Sebastian</b> &mdash; 2-Part Invention No. 1 in C major, BWV 772.3</div>
+<div><b>Bach Johann Sebastian</b> &mdash; Brandenburgisches Konzert Nr. 1 F-Dur, BWV 1046: IV. Menuet - Trio - Menuet - Polonaise - Menuet - Trio - Menuet.1</div>
+<div><b>Bach Johann Sebastian</b> &mdash; Flute Sonata in B minor, BWV 1030: I. Andante</div>
+<div><b>Barry White</b> &mdash; You&#x27;re The First, The Last, My Everything</div>
+<div><b>Barry White</b> &mdash; Youre the First the Last My Everyting</div>
+<div><b>Battisti</b> &mdash; Vento nel vento</div>
+<div><b>Bee Gees</b> &mdash; How Deep Is Your Love</div>
+<div><b>Bee Gees</b> &mdash; Too Much Heaven.2</div>
+<div><b>Billy Joel</b> &mdash; Piano Man</div>
+<div><b>Billy Joel</b> &mdash; Piano Man.6</div>
+<div><b>Billy Joel</b> &mdash; Shameless</div>
+<div><b>Bob Dylan</b> &mdash; Blowin&#x27; in the Wind.2</div>
+<div><b>Bob Dylan</b> &mdash; Lay Lady Lay.1</div>
+<div><b>Bob Dylan</b> &mdash; Like A Rolling Stone</div>
+<div><b>Bob Marley</b> &mdash; Three Little Birds</div>
+<div><b>Bon Jovi</b> &mdash; Keep the Faith.1</div>
+<div><b>Boston</b> &mdash; More Than A Feeling.1</div>
+<div><b>Boston</b> &mdash; More Than A Feeling.3</div>
+<div><b>Bryan Adams</b> &mdash; Thought I&#x27;d Died and Gone to Heaven.1</div>
+<div><b>Buena Vista Social Club</b> &mdash; El cuarto de Tula</div>
+<div><b>Buena Vista Social Club</b> &mdash; Murmullo</div>
+<div><b>Camaleonti</b> &mdash; L&#x27;ora dell&#x27;amore.3</div>
+<div><b>Cameo</b> &mdash; Back and Forth</div>
+<div><b>Carpenters</b> &mdash; Close to You</div>
+<div><b>Carpenters</b> &mdash; Top of the World.1</div>
+<div><b>Chic</b> &mdash; Falling in Love With You</div>
+<div><b>Chicago</b> &mdash; 25 or 6 to 4</div>
+<div><b>Chicago</b> &mdash; Hard to Say Im Sorry</div>
+<div><b>Chick Corea</b> &mdash; Sometime Ago</div>
+<div><b>Chick Corea</b> &mdash; Spain</div>
+<div><b>Chopin Frederic</b> &mdash; Etude c moll opus 10 Nr.12</div>
+<div><b>Chopin Frederic</b> &mdash; Larghetto</div>
+<div><b>Chopin Frederic</b> &mdash; Nocturne In C Minor, Op. 48 Nr. 1</div>
+<div><b>Claude Debussy</b> &mdash; Arabesque Nr. 1 in E-dur L66 1 (feat. harp: Paola Larini).1</div>
+<div><b>Claude Debussy</b> &mdash; V. Pour l&#x27;Egyptienne</div>
+<div><b>Claude Debussy</b> &mdash; VI. Pour remercier la pluie au matin</div>
+<div><b>Commodores</b> &mdash; Night Shift</div>
+<div><b>Corona</b> &mdash; Rhythm of the Night.1</div>
+<div><b>Creedence Clearwater Revival</b> &mdash; Born On The Bayou.1</div>
+<div><b>Creedence Clearwater Revival</b> &mdash; Suzie Q</div>
+<div><b>Crosby, Stills, Nash &amp; Young</b> &mdash; Carry On</div>
+<div><b>Crosby, Stills, Nash &amp; Young</b> &mdash; Ohio</div>
+<div><b>Crosby, Stills, Nash &amp; Young</b> &mdash; Southern Cross</div>
+<div><b>Culture Beat</b> &mdash; Anything</div>
+<div><b>Culture Beat</b> &mdash; Mr Vain (Mr Trance).1</div>
+<div><b>Curtis Mayfield</b> &mdash; Move On Up</div>
+<div><b>Cyndi Lauper</b> &mdash; I Drove All Night</div>
+<div><b>Daft Punk</b> &mdash; Around the World   Harder Better Faster Stronger.1</div>
+<div><b>Daft Punk</b> &mdash; One More Time.1</div>
+<div><b>Dave Brubeck</b> &mdash; Take Five.2</div>
+<div><b>David Bowie</b> &mdash; Let&#x27;s Dance</div>
+<div><b>David Bowie</b> &mdash; Suffragette City</div>
+<div><b>Depeche Mode</b> &mdash; Strange Love</div>
+<div><b>Diana Ross</b> &mdash; Theme From Mahogany (Do You Know Where You&#x27;re Going To?)</div>
+<div><b>Diana Ross</b> &mdash; Upside Down</div>
+<div><b>Dire Straits</b> &mdash; Private Investigations.1</div>
+<div><b>Dire Straits</b> &mdash; Sultans of Swing.3</div>
+<div><b>Doe Maar</b> &mdash; Smoorverliefd</div>
+<div><b>Dr. Alban</b> &mdash; It&#x27;s My Life</div>
+<div><b>Dr. Alban</b> &mdash; Look Who&#x27;s Talking</div>
+<div><b>Duke Ellington</b> &mdash; Don&#x27;t Get Around Much Anymore</div>
+<div><b>Duke Ellington</b> &mdash; Rockin&#x27; in Rhythm</div>
+<div><b>Duran Duran</b> &mdash; New Moon on Monday.1</div>
+<div><b>Duran Duran</b> &mdash; The Reflex.2</div>
+<div><b>Dvorak</b> &mdash; Four Romantic Pieces, op. 75: III. Allegro appassionato</div>
+<div><b>Dvorak</b> &mdash; Serenade op. 22 - 1 Waltz</div>
+<div><b>Dvorak</b> &mdash; Symphonie nr. 9 E-moll op. 95: II. Largo</div>
+<div><b>Dvorak</b> &mdash; Symphony No. 2 in B major, Op. 4 B 12 : II. Poco adagio</div>
+<div><b>Eagles</b> &mdash; Desperado</div>
+<div><b>Eagles</b> &mdash; Hotel California</div>
+<div><b>Eagles</b> &mdash; Please Come Home for Christmas</div>
+<div><b>Eagles</b> &mdash; Take It to the Limit</div>
+<div><b>Earth, Wind &amp; Fire</b> &mdash; Boogie Wonderland</div>
+<div><b>Earth, Wind &amp; Fire</b> &mdash; Got To Get You Into My Life (bonus track)</div>
+<div><b>Earth, Wind &amp; Fire</b> &mdash; September (bonus track)</div>
+<div><b>Earth, Wind &amp; Fire</b> &mdash; Sing A Song (bonus track).2</div>
+<div><b>Eddy Grant</b> &mdash; Gimme Hope Jo&#x27;Anna.1</div>
+<div><b>Edvard Grieg</b> &mdash; Elfin Dance, Op.12 No.4</div>
+<div><b>Edvard Grieg</b> &mdash; I Love Thee</div>
+<div><b>Edvard Grieg</b> &mdash; Varen</div>
+<div><b>Eiffel 65</b> &mdash; Another Race</div>
+<div><b>Elton John</b> &mdash; Daniel</div>
+<div><b>Elton John</b> &mdash; I Guess That&#x27;s Why They Call It the Blues</div>
+<div><b>Elton John</b> &mdash; Rocket Man</div>
+<div><b>Elton John</b> &mdash; Your Song</div>
+<div><b>Erasure</b> &mdash; Blue Savannah.1</div>
+<div><b>Faithless</b> &mdash; Insomnia (D Donatis mix)</div>
+<div><b>Fatboy Slim</b> &mdash; Going Out of My Head</div>
+<div><b>Fatboy Slim</b> &mdash; Praise You</div>
+<div><b>Fleetwood Mac</b> &mdash; Albatros.1</div>
+<div><b>Fleetwood Mac</b> &mdash; Dreams</div>
+<div><b>Foreigner</b> &mdash; Blue Morning, Blue Day</div>
+<div><b>Foreigner</b> &mdash; Hot Blooded</div>
+<div><b>Four Tops</b> &mdash; Reach Out I&#x27;ll Be There.2</div>
+<div><b>Frank Sinatra</b> &mdash; Young At Heart</div>
+<div><b>Genesis</b> &mdash; I Can&#x27;t Dance.5</div>
+<div><b>Genesis</b> &mdash; Mama</div>
+<div><b>Genesis</b> &mdash; The Knife</div>
+<div><b>George Benson</b> &mdash; Feel Like Making Love</div>
+<div><b>George Benson</b> &mdash; On Broadway.1</div>
+<div><b>George Frideric Handel</b> &mdash; Alcina, HWV 34: Act I. 6. Gavotte</div>
+<div><b>George Frideric Handel</b> &mdash; Messiah: 44. Halleluja!</div>
+<div><b>George Frideric Handel</b> &mdash; Passacaglia</div>
+<div><b>Gillespie Dizzy</b> &mdash; A Night in Tunesia</div>
+<div><b>Gillespie Dizzy</b> &mdash; Salt Peanuts</div>
+<div><b>Gipsy Kings</b> &mdash; Baila Me</div>
+<div><b>Gipsy Kings</b> &mdash; Bamboleo</div>
+<div><b>Glen Campbell</b> &mdash; Dreams Of The Everyday Housewife</div>
+<div><b>Glen Campbell</b> &mdash; Gentle On My Mind</div>
+<div><b>Gloria Estefan</b> &mdash; Words Get in the Way</div>
+<div><b>Gordon Lightfoot</b> &mdash; Rainy Day People</div>
+<div><b>Gordon Lightfoot</b> &mdash; Sundown.1</div>
+<div><b>Haddaway</b> &mdash; What Is Love.4</div>
+<div><b>Hall &amp; Oates</b> &mdash; Everytime You Go Away.1</div>
+<div><b>Hall &amp; Oates</b> &mdash; Rich Girl</div>
+<div><b>Henry Mancini</b> &mdash; Baby Elephant Walk</div>
+<div><b>Henry Mancini</b> &mdash; Le Jazz Hot</div>
+<div><b>Henry Mancini</b> &mdash; Moon River</div>
+<div><b>Henry Mancini</b> &mdash; Natasha&#x27;s Theme</div>
+<div><b>Henry Mancini</b> &mdash; The Days of Wine and Roses</div>
+<div><b>Herbie Hancock</b> &mdash; My Funny Valentine</div>
+<div><b>Huey Lewis &amp; The News</b> &mdash; I Want a New Drug</div>
+<div><b>Huey Lewis &amp; The News</b> &mdash; Perfect World</div>
+<div><b>James Brown</b> &mdash; Sex Machine (Get Up I Feel Like Being A)</div>
+<div><b>James Taylor</b> &mdash; Carolina in My Mind</div>
+<div><b>James Taylor</b> &mdash; Fire &amp; Rain</div>
+<div><b>James Taylor</b> &mdash; Handy Man</div>
+<div><b>Jean Michel Jarre</b> &mdash; Oxygene, Part 6</div>
+<div><b>Jean Michel Jarre</b> &mdash; Souvenir of China</div>
+<div><b>Jimmy Cliff</b> &mdash; I Can See Clearly Now.1</div>
+<div><b>Jimmy Cliff</b> &mdash; Reggae Night</div>
+<div><b>Johannes Brahms</b> &mdash; Danza Ungherese n. 8 in la minore - Presto</div>
+<div><b>Johannes Brahms</b> &mdash; Hungarian Dance Nr 1 In G Minor</div>
+<div><b>Johannes Brahms</b> &mdash; Liebeslieder Waltz, Op. 52, No. 6</div>
+<div><b>John Denver</b> &mdash; Back Home Again</div>
+<div><b>John Denver</b> &mdash; Poems, Prayers and Promises</div>
+<div><b>John Denver</b> &mdash; Take Me Home Country Roads.1</div>
+<div><b>Johnny Cash</b> &mdash; Folsom Prison Blues</div>
+<div><b>Journey</b> &mdash; Don&#x27;t Stop Believin&#x27;</div>
+<div><b>Journey</b> &mdash; Faithfully.3</div>
+<div><b>Journey</b> &mdash; Open Arms.3</div>
+<div><b>Julio Iglesias</b> &mdash; Begin the Beguine</div>
+<div><b>Julio Iglesias</b> &mdash; Quiereme mucho</div>
+<div><b>Kansas</b> &mdash; Magnum Opus</div>
+<div><b>Kenny G</b> &mdash; Songbird</div>
+<div><b>Kool &amp; The Gang</b> &mdash; Celebration.1</div>
+<div><b>Kraftwerk</b> &mdash; Music Non Stop</div>
+<div><b>Kraftwerk</b> &mdash; The Robots</div>
+<div><b>La Bouche</b> &mdash; Be My Lover.1</div>
+<div><b>La Bouche</b> &mdash; Falling in Love (Radio Version)</div>
+<div><b>Led Zeppelin</b> &mdash; Heartbreak</div>
+<div><b>Led Zeppelin</b> &mdash; Stairway To Heaven</div>
+<div><b>Lionel Richie</b> &mdash; All Night Long</div>
+<div><b>Los Lobos</b> &mdash; La Bamba</div>
+<div><b>Lou Reed</b> &mdash; Walk On The Wild Side.2</div>
+<div><b>Louis Armstrong</b> &mdash; (What a) Wonderful World.3</div>
+<div><b>Louis Armstrong</b> &mdash; What A Wonderful World.2</div>
+<div><b>Ludwig van Beethoven</b> &mdash; 5th Symphony.1</div>
+<div><b>Ludwig van Beethoven</b> &mdash; Fur Elise.1</div>
+<div><b>Ludwig van Beethoven</b> &mdash; Pathetique</div>
+<div><b>Lunapop</b> &mdash; Se ci sarai</div>
+<div><b>Madonna</b> &mdash; Like a Prayer</div>
+<div><b>Madonna</b> &mdash; Like A Virgin.4</div>
+<div><b>Madonna</b> &mdash; Papa Don&#x27;t Preach.4</div>
+<div><b>Madonna</b> &mdash; The Power Of Goodbye.2</div>
+<div><b>Marvin Gaye</b> &mdash; (Sexual) Healing</div>
+<div><b>Matt Bianco</b> &mdash; Half a Minute.1</div>
+<div><b>Michael Jackson</b> &mdash; Beat It</div>
+<div><b>Michael Jackson</b> &mdash; Thriller</div>
+<div><b>Moby</b> &mdash; The Blue Terror of Lawns</div>
+<div><b>Nat King Cole</b> &mdash; Route 66.1</div>
+<div><b>Nat King Cole</b> &mdash; When Sunny Get&#x27;s Blue</div>
+<div><b>New Order</b> &mdash; Bizarre Love Triangle</div>
+<div><b>New Order</b> &mdash; World</div>
+<div><b>Nomadi</b> &mdash; Canto alla luna</div>
+<div><b>Ohio Players</b> &mdash; Love Rollercoaster</div>
+<div><b>Ornella Vanoni</b> &mdash; Tristezza</div>
+<div><b>Ornella Vanoni</b> &mdash; Viaggerai (Mares de ti)</div>
+<div><b>Oscar Peterson</b> &mdash; Emily</div>
+<div><b>Oscar Peterson</b> &mdash; I&#x27;ve Got a Crush on You</div>
+<div><b>Pat Metheny</b> &mdash; American Garage</div>
+<div><b>Pat Metheny</b> &mdash; Are You Going With Me</div>
+<div><b>Patti Smith</b> &mdash; Because The Night</div>
+<div><b>Pet Shop Boys</b> &mdash; Before</div>
+<div><b>Pet Shop Boys</b> &mdash; Se a Vida E (That&#x27;s the Way Life Is).1</div>
+<div><b>Pet Shop Boys</b> &mdash; Where the Streets Have No Name</div>
+<div><b>Peter Tosh</b> &mdash; Johnny B Goode</div>
+<div><b>Peter, Paul &amp; Mary</b> &mdash; I Dig Rock &#x27;n&#x27; Roll Music</div>
+<div><b>Peter, Paul &amp; Mary</b> &mdash; Leaving on a Jet Plane</div>
+<div><b>Peter, Paul &amp; Mary</b> &mdash; Puff.2</div>
+<div><b>Phil Collins</b> &mdash; Another Day in Paradise.1</div>
+<div><b>Phil Collins</b> &mdash; Sussudio</div>
+<div><b>Pink Floyd</b> &mdash; Hey You.2</div>
+<div><b>Pink Floyd</b> &mdash; Money</div>
+<div><b>Pink Floyd</b> &mdash; The Great Gig in the Sky</div>
+<div><b>Pink Floyd</b> &mdash; Wish You Were Here</div>
+<div><b>Prince</b> &mdash; Purple Rain</div>
+<div><b>Queen</b> &mdash; Bohemian Rhapsody</div>
+<div><b>Queen</b> &mdash; In Only Seven Days</div>
+<div><b>Queen</b> &mdash; Killer Queen</div>
+<div><b>Queen</b> &mdash; We Are The Champions.3</div>
+<div><b>Reinhardt Django</b> &mdash; Minor Swing</div>
+<div><b>Rick James</b> &mdash; Give It To Me Baby</div>
+<div><b>Rick James</b> &mdash; Super Freak</div>
+<div><b>Ricky Martin</b> &mdash; Vuelve.1</div>
+<div><b>Rod Stewart</b> &mdash; Rhythm of My Heart</div>
+<div><b>Roy Black</b> &mdash; Du bist nicht allein.1</div>
+<div><b>Salvatore Adamo</b> &mdash; Vous permettez Monsieur ?</div>
+<div><b>Santana</b> &mdash; Maria Maria</div>
+<div><b>Santana</b> &mdash; She&#x27;s Not There.1</div>
+<div><b>Sergio Mendes</b> &mdash; Never Gonna Let You Go</div>
+<div><b>Simon &amp; Garfunkel</b> &mdash; Bridge Over Troubled Water</div>
+<div><b>Simon &amp; Garfunkel</b> &mdash; Bridge Over Troubled Water.2</div>
+<div><b>Simon &amp; Garfunkel</b> &mdash; I Am a Rock</div>
+<div><b>Simon &amp; Garfunkel</b> &mdash; Scarborough Fair.1</div>
+<div><b>Simon &amp; Garfunkel</b> &mdash; The Sound of Silence</div>
+<div><b>Sly &amp; The Family Stone</b> &mdash; I Want to Take You Higher</div>
+<div><b>Smash Mouth</b> &mdash; Then the Morning Comes</div>
+<div><b>Snap</b> &mdash; Rhythm Is a Dancer.6</div>
+<div><b>Snap</b> &mdash; Welcome to Tomorrow</div>
+<div><b>Spyro Gyra</b> &mdash; Morning Dance</div>
+<div><b>Spyro Gyra</b> &mdash; Swamp Thing</div>
+<div><b>Stan Getz</b> &mdash; Desafinado</div>
+<div><b>Stan Getz</b> &mdash; The Girl From Ipanema (Garota de Ipanema).1</div>
+<div><b>Steely Dan</b> &mdash; Aja.2</div>
+<div><b>Steely Dan</b> &mdash; Kid Charlemagne.1</div>
+<div><b>Steely Dan</b> &mdash; Peg</div>
+<div><b>Stevie Wonder</b> &mdash; Isn&#x27;t She Lovely</div>
+<div><b>Stevie Wonder</b> &mdash; You Are the Sunshine of My Life</div>
+<div><b>Sting</b> &mdash; Russians</div>
+<div><b>Supertramp</b> &mdash; Crime of the Century.1</div>
+<div><b>Supertramp</b> &mdash; The Logical Song</div>
+<div><b>Supertramp</b> &mdash; The Logical Song.1</div>
+<div><b>Technotronic</b> &mdash; Move This.2</div>
+<div><b>The Beach Boys</b> &mdash; Cool, Cool Water</div>
+<div><b>The Beach Boys</b> &mdash; Do It Again</div>
+<div><b>The Beach Boys</b> &mdash; God Only Knows</div>
+<div><b>The Beach Boys</b> &mdash; Good Vibrations</div>
+<div><b>The Beatles</b> &mdash; Birthday.4</div>
+<div><b>The Beatles</b> &mdash; Hey Jude</div>
+<div><b>The Beatles</b> &mdash; Penny Lane</div>
+<div><b>The Beatles</b> &mdash; Tell Me What You See</div>
+<div><b>The Byrds</b> &mdash; Eight Miles High</div>
+<div><b>The Byrds</b> &mdash; Mr. Tambourine Man</div>
+<div><b>The Doors</b> &mdash; Riders on the Storm.1</div>
+<div><b>The Four Seasons</b> &mdash; Big Girls Don&#x27;t Cry</div>
+<div><b>The Four Seasons</b> &mdash; Dawn (Go Away).1</div>
+<div><b>The Four Seasons</b> &mdash; I&#x27;ve Got You Under My Skin</div>
+<div><b>The Gap Band</b> &mdash; Oops Up Side Your Head</div>
+<div><b>The Gap Band</b> &mdash; You Dropped the Bomb on Me</div>
+<div><b>The Isley Brothers</b> &mdash; Harvest for the World (Prelude)</div>
+<div><b>The Kinks</b> &mdash; Chirpy Chirpy Cheep Cheep.1</div>
+<div><b>The Kinks</b> &mdash; You Really Got Me</div>
+<div><b>The Police</b> &mdash; Can&#x27;t Stand Losing You.2</div>
+<div><b>The Police</b> &mdash; Every Breath You Take</div>
+<div><b>The Police</b> &mdash; Wrapped Around Your Finger.1</div>
+<div><b>The Prodigy</b> &mdash; One Love</div>
+<div><b>The Prodigy</b> &mdash; Wind It Up</div>
+<div><b>The Rolling Stones</b> &mdash; Lady Jane.2</div>
+<div><b>The Rolling Stones</b> &mdash; You Can&#x27;t Always Get What You Want</div>
+<div><b>The Temptations</b> &mdash; Cloud Nine</div>
+<div><b>The Who</b> &mdash; My Generation</div>
+<div><b>The Who</b> &mdash; Pinball Wizard</div>
+<div><b>Thelonious Monk</b> &mdash; Blue Monk</div>
+<div><b>Thelonious Monk</b> &mdash; Nice Work If You Can Get It</div>
+<div><b>Tina Turner</b> &mdash; Private Dancer</div>
+<div><b>Tina Turner</b> &mdash; The Best.2</div>
+<div><b>Toto</b> &mdash; Africa</div>
+<div><b>Toto</b> &mdash; Georgy Porgy.1</div>
+<div><b>Toto</b> &mdash; I Won&#x27;t Hold You Back</div>
+<div><b>Tower of Power</b> &mdash; Soul With A Capital S</div>
+<div><b>U2</b> &mdash; Discotheque</div>
+<div><b>U2</b> &mdash; With or Without You</div>
+<div><b>U2</b> &mdash; With or Without You.2</div>
+<div><b>UB40</b> &mdash; (I Can&#x27;t Help) Falling In Love With You.2</div>
+<div><b>UB40</b> &mdash; Kingston Town.1</div>
+<div><b>Vangelis</b> &mdash; 1492: Conquest of Paradise</div>
+<div><b>Vangelis</b> &mdash; Bladerunner</div>
+<div><b>Vangelis</b> &mdash; Chariots of Fire.5</div>
+<div><b>Vangelis</b> &mdash; Chung Kuo</div>
+<div><b>Vangelis</b> &mdash; Voices</div>
+<div><b>Weather Report</b> &mdash; Birdland</div>
+<div><b>Whitney Houston</b> &mdash; Greatest Love of All.4</div>
+<div><b>Whitney Houston</b> &mdash; Hold Me</div>
+<div><b>Whitney Houston</b> &mdash; I Wanna Dance With Somebody (Who Loves Me)</div>
+<div><b>Willeke Alberti</b> &mdash; Het wijnfeest</div>
+<div><b>Willeke Alberti</b> &mdash; Ome Jan</div>
+<div><b>Willie Nelson</b> &mdash; Always on My Mind</div>
+<div><b>Wolfgang Amadeus Mozart</b> &mdash; Eine kleine Nachtmusik</div>
+<div><b>Wolfgang Amadeus Mozart</b> &mdash; Serenade D-Dur KV 250 (248b) &quot;Haffner-Serenade&quot; - 1. Allegro maestoso - Allegro molto</div>
+<div><b>Wolfgang Amadeus Mozart</b> &mdash; Serenade D-Dur KV 250 (248b) &quot;Haffner-Serenade&quot; - 2. Andante</div></div></details>
+</div></section>
+<section class="section" id="validation"><div class="container content-narrow">
+  <h2 class="section-title">The metric is not gamed</h2>
+  <p class="section-sub">The gates are calibrated against ground truth and <b>discriminate</b> real music from
+    degenerate or copied output &mdash; a deterministic, auditable target rather than a learned score.</p>
+  <table class="mini"><thead><tr><th>gate</th><th>real / good output</th><th>degenerate / copy</th><th>threshold</th></tr></thead>
+    <tbody>
+      <tr><td>C1 non-degeneracy (#extreme axes/29)</td><td>real songs <b>mean 3.4</b></td>
+          <td>gap-task <b>FAIL 4.36</b> vs <b>PASS 2.25</b>; un-grounded newgen <b>5.9</b></td><td>budget 4&ndash;6</td></tr>
+      <tr><td><b>Novelty / copy-risk</b> (note-level — one metric, per-task reference)</td>
+          <td>gap-fill &amp; newgen passing <b>&le;0.29</b>; education drills <b>0.065</b></td>
+          <td>gap-fill flagged <b>&ge;0.31</b> (17/51 caught)</td>
+          <td>&lt;0.30 vs corpus/answer · education &lt;0.50 vs shown example</td></tr>
+      <tr><td>fidelity (grammar&harr;MIDI)</td><td>pitch exact, <b>0.019%</b> loss</td>
+          <td>velocity/micro-timing/drums dropped by design</td><td>&mdash;</td></tr>
+    </tbody></table>
+  <p class="has-text-centered" style="margin-top:1rem"><span class="tag-ok">Frozen core certified</span> &mdash;
+    distribution + encoder/decoder + metric definitions match a pinned sha256 manifest (v2.0.0); guard tests for the
+    29-axis shape, exact round-trip, determinism, and copy self-match all pass.</p>
+</div></section>
+<section class="section" id="steering"><div class="container">
+  <h2 class="section-title">Steering the agent</h2>
+  <p class="section-sub">Two interventions sit on the substrate: mandatory <b>retrieval</b> (corpus idiom concepts +
+    centroid-nearest real exemplars) and a monotone-safe <b>self-evolving loop</b> (&le;3 rounds, pick-best) that
+    feeds non-prescriptive dosage feedback back to the agent.</p>
+  <div class="columns">
+    <div class="column is-6"><figure class="fig"><img src="static/images/F5_retrieval_ablation.png" alt="Retrieval ablation">
+      <figcaption><b>Why retrieval helps.</b> OFF (orange) pins axes at the degenerate walls; ON (blue) pulls them
+        into the corpus-normal band &mdash; non-degeneration, not copying. Pass 2/8&rarr;6/8.</figcaption></figure></div>
+    <div class="column is-6"><figure class="fig"><img src="static/images/F_loop_per_song.png" alt="Loop per song">
+      <figcaption><b>The loop, per song.</b> Single-shot (grey) &rarr; loop-best (green = passes); green connectors =
+        failures the loop turned into passes. Gap-task 12&rarr;39%, newgen 62&rarr;94%.</figcaption></figure></div>
+  </div>
+</div></section>
+<section class="section alt" id="results"><div class="container">
+  <h2 class="section-title">Four applications, one environment</h2>
+  <p class="section-sub">One grammar and one assessment engine support held-out gap-filling (n=51), component morphing
+    (n=21), from-scratch generation (n=8/16), and single-voice pedagogy (n=32).</p>
+  <figure class="fig"><img src="static/images/R_app_gallery.png" alt="Generated music across four applications">
+    <figcaption><b>Generated output across the four applications</b> (piano-roll; colour = distinct voices).</figcaption></figure>
+  <div class="columns">
+    <div class="column is-6"><figure class="fig"><img src="static/images/R3_gaptask_triptych.png" alt="Gap-task triptych">
+      <figcaption><b>Gap-filling.</b> Context | generated fill | held-out answer.</figcaption></figure></div>
+    <div class="column is-6"><figure class="fig"><img src="static/images/R4_morph_gradual.png" alt="Gradual morph">
+      <figcaption><b>Morphing.</b> A&rarr;B with a monotone progress curve + copy crossfade.</figcaption></figure></div>
+  </div>
+</div></section>
+
+<section class="section" id="listen">
+  <div class="container">
+    <h2 class="section-title">Listen</h2>
+    <p class="section-sub">Audio rendered from the generated grammar (grammar &rarr; MIDI &rarr; General-MIDI synthesis).
+      A few typical samples per task; the rest are browsable below.</p>
+
+    <h3 class="sub-h">From-scratch generation (newgen)</h3>
+    <p class="sub-note">One typical sample per genre.</p>
+    <div class="audiogrid"><div class="acard"><div class="alabel">Funk/Soul</div><audio controls preload="none" src="static/audio/newgen/funk_soul_rnb__opus_ON.mp3"></audio></div>
+<div class="acard"><div class="alabel">Electronic</div><audio controls preload="none" src="static/audio/newgen/electronic_dance__opus_ON.mp3"></audio></div>
+<div class="acard"><div class="alabel">Latin</div><audio controls preload="none" src="static/audio/newgen/latin_reggae_world__opus_ON.mp3"></audio></div>
+<div class="acard"><div class="alabel">Film</div><audio controls preload="none" src="static/audio/newgen/film_score__opus_ON.mp3"></audio></div>
+<div class="acard"><div class="alabel">Jazz</div><audio controls preload="none" src="static/audio/newgen/jazz_v1__opus_r2.mp3"></audio></div>
+<div class="acard"><div class="alabel">Pop/Rock</div><audio controls preload="none" src="static/audio/newgen/core_pop_rock__opus_ON.mp3"></audio></div></div>
+    <details class="more"><summary>All 22 newgen samples — browse &amp; listen</summary>
+      <div class="alist"><div class="arow"><span>Classical</span><audio controls preload="none" src="static/audio/newgen/classical__opus_OFF.mp3"></audio></div>
+<div class="arow"><span>Classical · v1</span><audio controls preload="none" src="static/audio/newgen/classical_v1__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Classical · v2</span><audio controls preload="none" src="static/audio/newgen/classical_v2__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Pop/Rock · v2</span><audio controls preload="none" src="static/audio/newgen/core_pop_rock_v2__opus_r2.mp3"></audio></div>
+<div class="arow"><span>Electronic · v1</span><audio controls preload="none" src="static/audio/newgen/electronic_dance_v1__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Electronic · v2</span><audio controls preload="none" src="static/audio/newgen/electronic_dance_v2__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Film · v1</span><audio controls preload="none" src="static/audio/newgen/film_score_v1__opus_r2.mp3"></audio></div>
+<div class="arow"><span>Film · v2</span><audio controls preload="none" src="static/audio/newgen/film_score_v2__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Folk · v1</span><audio controls preload="none" src="static/audio/newgen/folk_country_v1__opus_r2.mp3"></audio></div>
+<div class="arow"><span>Folk · v2</span><audio controls preload="none" src="static/audio/newgen/folk_country_v2__opus_r2.mp3"></audio></div>
+<div class="arow"><span>Funk/Soul · v1</span><audio controls preload="none" src="static/audio/newgen/funk_soul_rnb_v1__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Funk/Soul · v2</span><audio controls preload="none" src="static/audio/newgen/funk_soul_rnb_v2__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Jazz</span><audio controls preload="none" src="static/audio/newgen/jazz__opus_ON.mp3"></audio></div>
+<div class="arow"><span>Jazz · v2</span><audio controls preload="none" src="static/audio/newgen/jazz_v2__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Latin · v1</span><audio controls preload="none" src="static/audio/newgen/latin_reggae_world_v1__opus_r1.mp3"></audio></div>
+<div class="arow"><span>Latin · v2</span><audio controls preload="none" src="static/audio/newgen/latin_reggae_world_v2__opus_r1.mp3"></audio></div></div></details>
+
+    <h3 class="sub-h">Style morphing (morph)</h3>
+    <p class="sub-note">Each clip glides from one style to another (real source &rarr; generated transition &rarr; real target).</p>
+    <div class="audiogrid"><div class="acard"><div class="alabel">Electronic &rarr; Folk</div><audio controls preload="none" src="static/audio/morph/b3_electronic_folk__opus_r2__full.mp3"></audio></div>
+<div class="acard"><div class="alabel">Folk &rarr; Classical</div><audio controls preload="none" src="static/audio/morph/b4_folk_classical__opus_r1__full.mp3"></audio></div>
+<div class="acard"><div class="alabel">Folk &rarr; Electronic</div><audio controls preload="none" src="static/audio/morph/folk_to_electronic__mixed_r1__full.mp3"></audio></div>
+<div class="acard"><div class="alabel">Funk/Soul &rarr; Jazz</div><audio controls preload="none" src="static/audio/morph/funk_to_jazz__mixed_r1__full.mp3"></audio></div>
+<div class="acard"><div class="alabel">Jazz &rarr; Classical</div><audio controls preload="none" src="static/audio/morph/jazz_to_classical__mixed_r2__full.mp3"></audio></div>
+<div class="acard"><div class="alabel">Pop/Rock &rarr; Electronic</div><audio controls preload="none" src="static/audio/morph/pop_to_electronic__mixed_r2__full.mp3"></audio></div></div>
+    <details class="more"><summary>All 16 morph clips — browse &amp; listen</summary>
+      <div class="alist"><div class="arow"><span>Funk/Soul &rarr; Latin</span><audio controls preload="none" src="static/audio/morph/b3_funk_latin__opus_r3__full.mp3"></audio></div>
+<div class="arow"><span>Latin &rarr; Jazz</span><audio controls preload="none" src="static/audio/morph/b3_latin_jazz__opus_r3__full.mp3"></audio></div>
+<div class="arow"><span>Electronic &rarr; Pop/Rock</span><audio controls preload="none" src="static/audio/morph/b4_electronic_pop__opus_r3__full.mp3"></audio></div>
+<div class="arow"><span>Film &rarr; Jazz</span><audio controls preload="none" src="static/audio/morph/b4_film_jazz__opus_r2__full.mp3"></audio></div>
+<div class="arow"><span>Jazz &rarr; Funk/Soul</span><audio controls preload="none" src="static/audio/morph/b4_jazz_funk__opus_r2__full.mp3"></audio></div>
+<div class="arow"><span>Pop/Rock &rarr; Folk</span><audio controls preload="none" src="static/audio/morph/b4_pop_folk__opus_r3__full.mp3"></audio></div>
+<div class="arow"><span>Classical &rarr; Pop/Rock</span><audio controls preload="none" src="static/audio/morph/classical_to_pop__mixed_r3__full.mp3"></audio></div>
+<div class="arow"><span>Folk &rarr; Latin</span><audio controls preload="none" src="static/audio/morph/folk_to_latin__mixed_r1__full.mp3"></audio></div>
+<div class="arow"><span>Funk/Soul &rarr; Latin</span><audio controls preload="none" src="static/audio/morph/funk_to_latin__mixed_r2__full.mp3"></audio></div>
+<div class="arow"><span>Latin &rarr; Electronic</span><audio controls preload="none" src="static/audio/morph/latin_to_electronic__mixed_r1__full.mp3"></audio></div></div></details>
+
+    <h3 class="sub-h">Gap-filling (gaptask) — model fill vs. real held-out region</h3>
+    <p class="sub-note">A/B the model's generated region against the true held-out answer for the same gap.</p>
+    <div class="audiogrid"><div class="acard pair"><div class="alabel">song 0150 cont · Jazz · continuation</div><div class="abrow"><div><span class="atag gen">model fill</span><audio controls preload="none" src="static/audio/gaptask/song_0150_cont__sonnet_r3__gen_region.mp3"></audio></div><div><span class="atag real">real held-out</span><audio controls preload="none" src="static/audio/gaptask/song_0150_cont__real_region.mp3"></audio></div></div></div>
+<div class="acard pair"><div class="alabel">song 0223 cont · Funk/Soul · continuation</div><div class="abrow"><div><span class="atag gen">model fill</span><audio controls preload="none" src="static/audio/gaptask/song_0223_cont__opus_ss__gen_region.mp3"></audio></div><div><span class="atag real">real held-out</span><audio controls preload="none" src="static/audio/gaptask/song_0223_cont__real_region.mp3"></audio></div></div></div>
+<div class="acard pair"><div class="alabel">song 0188 cont · Classical · continuation</div><div class="abrow"><div><span class="atag gen">model fill</span><audio controls preload="none" src="static/audio/gaptask/song_0188_cont__opus_ss__gen_region.mp3"></audio></div><div><span class="atag real">real held-out</span><audio controls preload="none" src="static/audio/gaptask/song_0188_cont__real_region.mp3"></audio></div></div></div>
+<div class="acard pair"><div class="alabel">song 0121 infill · Pop/Rock · infill</div><div class="abrow"><div><span class="atag gen">model fill</span><audio controls preload="none" src="static/audio/gaptask/song_0121_infill__sonnet_ss__gen_region.mp3"></audio></div><div><span class="atag real">real held-out</span><audio controls preload="none" src="static/audio/gaptask/song_0121_infill__real_region.mp3"></audio></div></div></div>
+<div class="acard pair"><div class="alabel">song 0306 cont · Latin · continuation</div><div class="abrow"><div><span class="atag gen">model fill</span><audio controls preload="none" src="static/audio/gaptask/song_0306_cont__sonnet_r2__gen_region.mp3"></audio></div><div><span class="atag real">real held-out</span><audio controls preload="none" src="static/audio/gaptask/song_0306_cont__real_region.mp3"></audio></div></div></div>
+<div class="acard pair"><div class="alabel">song 0287 start · Film · opening</div><div class="abrow"><div><span class="atag gen">model fill</span><audio controls preload="none" src="static/audio/gaptask/song_0287_start__opus_r2__gen_region.mp3"></audio></div><div><span class="atag real">real held-out</span><audio controls preload="none" src="static/audio/gaptask/song_0287_start__real_region.mp3"></audio></div></div></div></div>
+    <details class="more"><summary>All 29 gap-fill pairs — browse &amp; listen</summary>
+      <div class="alist"><div class="arow pairrow"><span>song 0062 start · Pop/Rock · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0062_start__sonnet_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0062_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0075 cont · Pop/Rock · continuation</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0075_cont__sonnet_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0075_cont__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0083 start · Pop/Rock · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0083_start__opus_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0083_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0102 start · Pop/Rock · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0102_start__opus_r3__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0102_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0108 start · Pop/Rock · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0108_start__sonnet_ss__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0108_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0110 cont · Pop/Rock · continuation</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0110_cont__opus_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0110_cont__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0119 start · Pop/Rock · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0119_start__opus_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0119_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0138 start · Jazz · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0138_start__opus_r3__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0138_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0152 cont · Jazz · continuation</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0152_cont__sonnet_r1__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0152_cont__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0175 start · Classical · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0175_start__sonnet_r1__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0175_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0177 start · Classical · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0177_start__opus_ss__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0177_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0179 cont · Classical · continuation</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0179_cont__opus_r3__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0179_cont__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0182 cont · Classical · continuation</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0182_cont__sonnet_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0182_cont__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0232 start · Funk/Soul · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0232_start__sonnet_r3__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0232_start__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0234 infill · Funk/Soul · infill</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0234_infill__sonnet_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0234_infill__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0248 cont · Funk/Soul · continuation</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0248_cont__opus_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0248_cont__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0253 infill · Folk · infill</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0253_infill__sonnet_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0253_infill__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0259 infill · Folk · infill</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0259_infill__sonnet_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0259_infill__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0282 infill · Film · infill</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0282_infill__sonnet_r3__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0282_infill__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0284 infill · Film · infill</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0284_infill__opus_r3__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0284_infill__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0293 infill · Latin · infill</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0293_infill__opus_ss__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0293_infill__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0304 infill · Latin · infill</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0304_infill__opus_r2__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0304_infill__real_region.mp3"></audio></div>
+<div class="arow pairrow"><span>song 0310 start · Latin · opening</span><span class="mini gen">fill</span><audio controls preload="none" src="static/audio/gaptask/song_0310_start__opus_r3__gen_region.mp3"></audio><span class="mini real">real</span><audio controls preload="none" src="static/audio/gaptask/song_0310_start__real_region.mp3"></audio></div></div></details>
+
+    <h3 class="sub-h">Education — single-voice lessons (play · MIDI · score)</h3>
+    <p class="sub-note">Eight guided drills across keys &amp; modes — listen, or download the MIDI and the engraved score (PDF).</p>
+    <div class="audiogrid"><div class="acard"><div class="alabel">A harmonic minor</div><audio controls preload="none" src="static/education/h1_Aharmmin.mp3"></audio><div class="dl"><a href="static/education/h1_Aharmmin.mid" download>MIDI</a> &middot; <a href="static/education/h1_Aharmmin.pdf" target="_blank">Score (PDF)</a></div></div>
+<div class="acard"><div class="alabel">D major</div><audio controls preload="none" src="static/education/h2_Dmaj.mp3"></audio><div class="dl"><a href="static/education/h2_Dmaj.mid" download>MIDI</a> &middot; <a href="static/education/h2_Dmaj.pdf" target="_blank">Score (PDF)</a></div></div>
+<div class="acard"><div class="alabel">F major</div><audio controls preload="none" src="static/education/h3_Fmaj.mp3"></audio><div class="dl"><a href="static/education/h3_Fmaj.mid" download>MIDI</a> &middot; <a href="static/education/h3_Fmaj.pdf" target="_blank">Score (PDF)</a></div></div>
+<div class="acard"><div class="alabel">B♭ major</div><audio controls preload="none" src="static/education/h4_Bbmaj.mp3"></audio><div class="dl"><a href="static/education/h4_Bbmaj.mid" download>MIDI</a> &middot; <a href="static/education/h4_Bbmaj.pdf" target="_blank">Score (PDF)</a></div></div>
+<div class="acard"><div class="alabel">E Dorian</div><audio controls preload="none" src="static/education/h5_Edorian.mp3"></audio><div class="dl"><a href="static/education/h5_Edorian.mid" download>MIDI</a> &middot; <a href="static/education/h5_Edorian.pdf" target="_blank">Score (PDF)</a></div></div>
+<div class="acard"><div class="alabel">G Mixolydian</div><audio controls preload="none" src="static/education/h6_Gmixo.mp3"></audio><div class="dl"><a href="static/education/h6_Gmixo.mid" download>MIDI</a> &middot; <a href="static/education/h6_Gmixo.pdf" target="_blank">Score (PDF)</a></div></div>
+<div class="acard"><div class="alabel">C harmonic minor</div><audio controls preload="none" src="static/education/h7_Charmmin.mp3"></audio><div class="dl"><a href="static/education/h7_Charmmin.mid" download>MIDI</a> &middot; <a href="static/education/h7_Charmmin.pdf" target="_blank">Score (PDF)</a></div></div>
+<div class="acard"><div class="alabel">F♯ minor</div><audio controls preload="none" src="static/education/h8_F%23min.mp3"></audio><div class="dl"><a href="static/education/h8_F%23min.mid" download>MIDI</a> &middot; <a href="static/education/h8_F%23min.pdf" target="_blank">Score (PDF)</a></div></div></div>
+  </div>
+</section>
+
+<section class="section alt" id="interpretability"><div class="container">
+  <h2 class="section-title">A failure you can read off the score</h2>
+  <p class="section-sub">Because every axis is deterministic and grounded, the metric&rsquo;s verdict is not a black
+    box. A failing gap-fill is legible as visible musical structure, pinned to specific axes.</p>
+  <div class="columns is-vcentered">
+    <div class="column is-8"><figure class="fig"><img src="static/images/R2_song0308_annotated.png" alt="song 0308 diagnostic roll">
+      <figcaption><b>song&nbsp;0308 &mdash; a failing gap-fill.</b> Melody (top) relentlessly stepwise; harmony ~2
+        chords per bar (the &ldquo;conveyor belt&rdquo;); every bar distinct.</figcaption></figure></div>
+    <div class="column is-4"><div class="diag">
+      <p style="font-weight:700;margin-bottom:.5rem">Grounded diagnosis</p>
+      <p>FAILS with <b>6 extreme axes vs a budget of 3</b>:</p>
+      <ul style="margin:.5rem 0 .6rem 1.1rem">
+        <li>harmonic rhythm <code>100th pct</code></li><li>chord variety <code>99th</code></li>
+        <li>average note length <code>96th</code></li><li>stepwise motion <code>95th</code></li>
+        <li>bar distinctness <code>100th</code></li><li>density variation <code>3rd</code></li></ul>
+      <p>Not a copy (copy-risk <b>0.134</b>), rhythmically aligned (beat <b>86%</b>) &mdash; the failure is purely
+        structural, and every flagged axis is visible in the roll.</p>
+    </div></div>
+  </div>
+</div></section>
+<section class="section" id="usage"><div class="container">
+  <h2 class="section-title">Get started</h2>
+  <p class="section-sub">The package onboarding (<code>libretto/ONBOARDING.md</code>) — structure, what each task
+    implements, and how to reproduce. Scroll within the panel.</p>
+  <div id="usage-md" class="usagebox">Loading…</div>
+</div></section>
+<section class="section alt" id="code"><div class="container content-narrow has-text-centered">
+  <h2 class="section-title">Code &amp; data</h2>
+  <p class="section-sub">The Libretto package (grammar codec, the 29-axis engine, the loop and retrieval, the four
+    applications) and the full results bundle are open.</p>
+  <div class="linkbtns">
+    <a class="button" href="https://github.com/Xyc-arch/Libretto" target="_blank"><span class="icon"><i class="fab fa-github"></i></span><span>GitHub repository</span></a>
+    <a class="button" href="#results"><span class="icon"><i class="fas fa-database"></i></span><span>Results &amp; figures</span></a>
+  </div>
+  <div class="content" style="margin-top:2rem; text-align:left">
+    <h3 style="font-family:'Newsreader',serif">Citation</h3>
+    <pre style="background:#23272e;color:#eee;border-radius:8px;padding:1rem;overflow:auto">@misc{xu2026libretto,
+  title        = {Libretto: a deterministic structural-assessment
+                  environment for symbolic music},
+  author       = {Xu, Yichen},
+  year         = {2026},
+  howpublished = {\url{https://github.com/Xyc-arch/Libretto}},
+  note         = {Preprint; code and data available}
+}</pre>
+  </div>
+</div></section>
+<footer class="footer"><div class="container content has-text-centered" style="padding:2rem 1rem">
+  <p>Frozen core certified v2.0.0 &middot; figures, numbers, and audio generated by the deterministic pipeline.</p>
+  <p style="font-size:.85rem">This page adapts the
+    <a href="https://github.com/eliahuhorwitz/Academic-project-page-template">Academic Project Page Template</a>
+    (the Nerfies template), used under the MIT License.</p>
+</div></footer>
+<script type="text/markdown" id="md-usage"># Libretto — onboarding
+
+Libretto is a **descriptive, deterministic structural-assessment environment for symbolic music**. It encodes
+MIDI as a text **grammar**, scores any piece on a **29-axis empirical-percentile fingerprint** against a frozen
+314-song corpus, and **steers an LLM** to compose music that passes deterministic gates. The measurement layer
+is fully reproducible; the LLM is a pluggable seam.
+
+This package (`libretto/`) is self-contained — corpus, distribution, prompts, knowledge bases, tasks, and tests
+all ship inside it. Nothing outside this directory is required to run or reproduce it.
+
+## Get it running (no install needed)
+Python ≥ 3.11. The code imports itself as `libretto.*`, so keep this folder named `libretto/` and run from the
+directory **containing** it.
+```bash
+pip install -r libretto/requirements.txt      # numpy, scipy, scikit-learn, pretty_midi, music21
+pip install "anthropic>=0.40"                  # optional — only for the built-in ClaudeGenerator (needs ANTHROPIC_API_KEY)
+python3 -c "from libretto.core import Song; print('ok')"
+```
+Edit any module and it takes effect immediately (run-in-place). `pip install -e .` also works if pyproject.toml
+is at the repo root (see "Packaging note" at the end).
+
+## Repository structure
+```
+libretto/
+├── __init__.py            # data_root(), DISTRIBUTION_VERSION ("29-axis / 314-song / 2026-06-13"), __version__
+├── VERSION  FROZEN.md  FROZEN_CORE.sha256  CHANGELOG.md  README.md  requirements.txt  pyproject.toml
+├── core/                  # deterministic measurement layer (frozen) — NO LLM
+│   ├── understanding_probe.py   # Song: parse grammar text → events
+│   ├── metric_discovery.py      # metrics_for(song, path) → 35 raw metrics (the 29 axes + dropped candidates)
+│   ├── within_song_variation.py # wsv() — the 29th axis
+│   ├── fingerprint.py           # profile(path) → 29-axis percentiles vs the frozen corpus
+│   ├── midi_to_grammar.py       # encode (MIDI → grammar)        decode counterpart below
+│   ├── grammar_to_midi.py       # decode (grammar → MIDI)
+│   ├── copy_risk.py             # note-level novelty / copy detection
+│   ├── band_check.py · genre_band_check.py · axis_feedback.py   # loop feedback: out-of-band axes → musical nudges
+│   └── gaptask_channel_check.py · pattern_catalog.py
+├── generation/
+│   ├── interface.py       # Generator protocol + ClaudeGenerator + EchoGenerator
+│   └── prompts/           # _shared.md (grammar spec) + gaptask/newgen/newgen_extend/morph .md
+├── tasks/                 # one dir each; every task has a SKILL.md runbook
+│   ├── gaptask/  newgen/  newgen_extend/  morph/  education/  genre_loop/
+│   │                      # setup (build prompt+retrieval) · *_measure (gate) · refine_loop (≤3-round loop)
+├── data/                  # frozen artifacts
+│   ├── corpus_distribution_314.json   # THE reference (29 axes × 314 songs + genre bands)
+│   ├── corpus_fps.json · metric_corpus.json · within_song_variation_dist.json · newgen_calibration.json
+│   ├── grammar/song_*.txt             # the 314-song corpus (text grammar)
+│   ├── answer_key/grammar_truth.json  # per-song artist/title/genre (curated from Lakh clean_midi)
+│   ├── composing-kb/                  # 34 corpus-attested idiom concepts (newgen retrieval)
+│   └── kb_theory/                     # 128 single-voice pedagogy concepts (education retrieval)
+├── tests/                 # pytest (round-trip, 29-axis shape, determinism, copy self-match)
+├── tools/check_frozen_core.py         # sha256 integrity of the frozen core
+└── experiments/           # scripts/notes from the validation runs
+```
+
+## What you can do — and where each piece lives
+
+**Shared core (any piece, no LLM)** — `libretto.core`:
+- `fingerprint.profile(path)` → per-axis percentiles (0–100; ≤5 or ≥95 = degenerate extreme).
+- `copy_risk.copy_risk(path)` → note-level novelty (from-scratch gate `< 0.30`).
+- `grammar_to_midi.decode` (= `decode_to_midi`) / `midi_to_grammar.encode` (= `encode_from_midi`) — render / ingest.
+- `band_check`, `genre_band_check`, `axis_feedback` — turn out-of-band axes into musical nudges (loop feedback).
+
+**Every task = 4 verbs: SETUP (build prompt + retrieval) → GENERATE (your model) → EVAL (measure/gate) → LOOP
+(optional, ≤3 rounds, pick-best).** Exactly where each is implemented:
+
+| task | SETUP (prompt) | RETRIEVAL | EVAL / gate | LOOP |
+|---|---|---|---|---|
+| **newgen** | `newgen/newgen_setup.py` → `build_genre_prompt(genre)` / `build_brief_prompt(brief)` | `newgen/retrieval.py` → `build_retrieval(genre)` (bands+KB+exemplars; called by setup) · thresholds `newgen/calibrate.py` → `c1_budget/fit_threshold/copy_threshold(genre)` | per-round `newgen/refine_loop.py` → `piece_fitness(path,*,genre)` · full `newgen/newgen_measure.py` → `measure(piece,target)` | `newgen/refine_loop.py` → `RefinementLoop(gen,max_iter=3).run(prompt,*,genre,workdir,label)` + `dosage_feedback(fit)` |
+| **gaptask** | `gaptask/holdout42_setup.py` (writes ctx + held-out region; neighbors via `holdout_select.py`) | context = the surrounding bars (neighbors auto-selected; no KB) | loop-time `gaptask/refine_loop.py` → `region_fitness(region,ctx,*,genre,target_bars,neighbor_ids)` (**never sees the answer**) · final `final_grade(region,real,ctx,*,genre,neighbor_ids)` | `gaptask/refine_loop.py` → `RefinementLoop(gen).run(case,workdir,brief_builder)` + `dosage_feedback(fit)` |
+| **morph** | `morph/morph_setup.py` → `main(A,B,S=6,seg_bars=9)` | references = the real A & B components (no KB) | `morph/morph_measure.py` → `main(path,A,B,S)` · per-segment `morph_component_measure.py` | *single-pass* (no refine_loop) |
+| **education** | `education/setup.py` → `build_prompt(spec)` · concept pick `education/curriculum.py` → `autoscale(...)` | `education/retrieval.py` → `build_context(concept_ids, with_exemplar=True)` (kb_theory) | `education/measure.py` → `measure(path,case)` · `education/grade.py` → `difficulty_grade/detect_training/analyze` | `education/refine_loop.py` → `RefinementLoop(gen).run(spec,workdir,label)` + `feedback(report)` |
+| **newgen_extend** | `newgen_extend/newgen_extend_setup.py` → `main(sid,typ)` | source-song context | `newgen_extend/newgen_extend_measure.py` → `main(sid,typ,rpath)` | *single-pass* (no refine_loop) |
+| **genre_loop** | reference/demo only (just `__init__.py`) | — | — | — |
+
+**The model seam** — `libretto/generation/interface.py`: implement the `Generator` protocol
+(`generate(prompt, context) -> grammar_text`); built-ins `ClaudeGenerator()` (needs `ANTHROPIC_API_KEY`) and
+`EchoGenerator()` (tests). `load_prompt(task)` loads the task's prompt template from `generation/prompts/`.
+The grammar spec the model must follow is `generation/prompts/_shared.md`; per-axis formulas are in
+`core/metric_discovery.py`.
+
+### End-to-end example (newgen)
+```python
+from libretto.tasks.newgen.newgen_setup import build_genre_prompt
+from libretto.tasks.newgen.refine_loop import RefinementLoop, piece_fitness, dosage_feedback
+from libretto.generation.interface import ClaudeGenerator   # or your own Generator
+from libretto.core import decode_to_midi
+
+prompt, case = build_genre_prompt("jazz")                    # SETUP (+ retrieval baked in)
+loop = RefinementLoop(ClaudeGenerator(), max_iter=3)         # GENERATE + EVAL + LOOP
+best, rounds = loop.run(prompt, genre="jazz", workdir="out/", label="jazz")
+#   each round: generate → piece_fitness(path, genre="jazz") → if failing, dosage_feedback(fit) → regenerate
+#   best = {bars, c1_pass, copy_pass, genre_fit, converged, score, ...}   (pick-best, monotone-safe)
+decode_to_midi(best["path"], "out/jazz.mid")                 # render the winner
+```
+Swap `build_genre_prompt`→the task's setup and `RefinementLoop`→the task's loop (per the table) for the others.
+
+## Reproduce exactly
+The **measurement layer is deterministic** — same input → identical output — so any agent reproduces the same
+fingerprints, gates, and renders bit-for-bit. **Generation (the LLM) is not** reproducible.
+```bash
+python3 libretto/tools/check_frozen_core.py     # sha256 of the 5 frozen-core files == pinned v2.0.0 manifest
+python3 -m pytest libretto/tests/               # round-trip · 29-axis shape · determinism · copy self-match
+```
+The **frozen core** = `data/corpus_distribution_314.json`, `core/midi_to_grammar.py`, `core/grammar_to_midi.py`,
+`core/metric_discovery.py`, `core/within_song_variation.py`. Changing any of these moves *all* fingerprints and
+`check_frozen_core.py` will flag it — treat that as a deliberate re-validation + version bump, not a routine edit.
+Everything else (tasks, prompts, generators, KB, tools) is free to modify. `FROZEN.md` records the contract.
+
+## Packaging note (before you ship)
+`pyproject.toml` declares `packages = ["libretto", "libretto.core", …]`, i.e. it expects `libretto/` to be a
+package directory at the **repo root**. So the GitHub repo should expose this folder as `libretto/` with
+`pyproject.toml` at the root (one level up from the package). Two small things to confirm for a clean
+`pip install`: (1) move `pyproject.toml`/`README`/`VERSION` to the repo root if you want install-from-clone, and
+(2) the `package-data` glob currently omits `data/kb_theory/**` — add it (and `data/answer_key`) so the education
+KB ships when installed. Shipping the **source tree** as-is (run-in-place) needs neither fix.
+</script>
+<script>
+  var _u = document.getElementById('md-usage');
+  if (_u && window.marked) document.getElementById('usage-md').innerHTML = marked.parse(_u.textContent);
+</script>
+<script>
+/* ---- grammar converter: parse -> piano-roll -> play (client-side) ---- */
+(function(){
+  var PAL=["#1f77b4","#d62728","#2ca02c","#9467bd","#ff7f0e","#17becf","#8c564b","#e377c2","#7f7f7f","#bcbd22"];
+  var EX=`KEY: C major | METER: 4/4 | TEMPO: 120 | GRID: 16th | BARS: 2
+VOICES: Melody, Piano, Bass
+@1 [C]
+  Melody: E4@1>2 G4@5>2 C5@9>4 G4@13>2
+  Piano : C4+E4+G4@1>8 C4+E4+G4@9>8
+  Bass  : C2@1>4 G2@9>4
+@2 [G]
+  Melody: D4@1>2 G4@5>2 B4@9>4 D5@13>2
+  Piano : G3+B3+D4@1>8 G3+B3+D4@9>8
+  Bass  : G2@1>4 D3@9>4`;
+  var PC={C:0,D:2,E:4,F:5,G:7,A:9,B:11};
+  function pitchMidi(p){ var m=/^([A-Ga-g])([#b]*)(-?\d+)$/.exec(p.trim()); if(!m)return null;
+    var v=PC[m[1].toUpperCase()]; for(var i=0;i<m[2].length;i++) v+=(m[2][i]==='#'?1:-1); return 12*(parseInt(m[3],10)+1)+v; }
+  function parse(t){
+    var lines=t.split(/\r?\n/), bar_ql=4, grid=16, tempo=120, voices=[], ev=[], cur=null, cg=16, h=lines[0]||"";
+    var mm=/(\d+)\s*\/\s*(\d+)/.exec(((/METER:\s*([^|]+)/.exec(h)||[])[1])||"4/4"); if(mm) bar_ql=(+mm[1])*4/(+mm[2]);
+    var gm=/GRID:\s*(\d+)/.exec(h); if(gm){ grid=+gm[1]; cg=grid; }
+    var tm=/TEMPO:\s*([\d.]+)/.exec(h); if(tm) tempo=+tm[1];
+    for(var i=1;i<lines.length;i++){ var ln=lines[i];
+      var bm=/^@(\d+)\s*\[(.*?)\](?:\s*\(grid:(\d+)(t?)\))?/.exec(ln);
+      if(bm){ cur=+bm[1]; cg=bm[3]?+bm[3]:grid; continue; }
+      if(/^VOICES/.test(ln)){ voices=ln.split(":")[1].split(",").map(function(s){return s.trim();}); continue; }
+      if(cur==null || !/^\s/.test(ln)) continue;
+      var ci=ln.indexOf(":"); if(ci<0) continue; var name=ln.slice(0,ci).trim(), rest=ln.slice(ci+1), sq=4/cg;
+      rest.trim().split(/\s+/).forEach(function(tok){ var m=/^(.+)@(\d+)>(\d+)$/.exec(tok); if(!m) return;
+        var onb=(+m[2]-1)*sq, dur=(+m[3])*sq, abs=(cur-1)*bar_ql+onb;
+        m[1].split("+").forEach(function(p){ var mi=pitchMidi(p); if(mi!=null) ev.push({voice:name,abs:abs,dur:dur,midi:mi,bar:cur}); }); });
+    }
+    return {ev:ev,bar_ql:bar_ql,tempo:tempo,voices:voices};
+  }
+  function draw(song){
+    var cv=document.getElementById('roll'); if(!cv) return; var dpr=window.devicePixelRatio||1;
+    var W=cv.clientWidth||900, H=300; cv.width=W*dpr; cv.height=H*dpr; var ctx=cv.getContext('2d'); ctx.setTransform(dpr,0,0,dpr,0,0);
+    ctx.fillStyle="#fff"; ctx.fillRect(0,0,W,H); var ev=song.ev; if(!ev.length) return;
+    var xmax=Math.max.apply(null,ev.map(function(e){return e.abs+e.dur;}));
+    var ymin=Math.min.apply(null,ev.map(function(e){return e.midi;})), ymax=Math.max.apply(null,ev.map(function(e){return e.midi;}));
+    var padL=8,padR=8,padT=12,padB=12, pw=W-padL-padR, ph=H-padT-padB, sx=pw/(xmax||1), sy=ph/(((ymax-ymin)||1)+2);
+    function X(b){return padL+b*sx;} function Y(m){return padT+(ymax-m+1)*sy;}
+    ctx.strokeStyle="#eee"; ctx.lineWidth=1;
+    for(var b=0;b<=xmax+0.01;b+=song.bar_ql){ ctx.beginPath(); ctx.moveTo(X(b),padT); ctx.lineTo(X(b),H-padB); ctx.stroke(); }
+    var vc={}; song.voices.forEach(function(v,i){ vc[v]=PAL[i%PAL.length]; });
+    ctx.globalAlpha=.85;
+    ev.forEach(function(e){ var hh=Math.min(sy,9), x=X(e.abs), y=Y(e.midi)-hh/2, w=Math.max(e.dur*sx-1,2), h=Math.max(hh,3);
+      ctx.fillStyle=vc[e.voice]||PAL[0]; ctx.fillRect(x,y,w,h);
+      if(Math.abs(e.abs-Math.round(e.abs))>1e-6){ ctx.globalAlpha=1; ctx.strokeStyle="#1d1f23"; ctx.lineWidth=1.2; ctx.strokeRect(x-0.5,y-0.5,w+1,h+1); ctx.globalAlpha=.85; } });
+    ctx.globalAlpha=1;
+    var leg=document.getElementById('vleg');
+    leg.innerHTML=song.voices.map(function(v,i){ return '<span><i style="background:'+PAL[i%PAL.length]+'"></i>'+v+'</span>'; }).join('');
+  }
+  var TONE="https://cdn.jsdelivr.net/npm/tone@14.8.49/build/Tone.js", synth=null, loaded=false;
+  function status(t){ var s=document.getElementById('trystatus'); if(s) s.textContent=t||""; }
+  function loadTone(cb){ if(loaded&&window.Tone){cb();return;} var s=document.createElement('script'); s.src=TONE;
+    s.onload=function(){loaded=true;cb();}; s.onerror=function(){status('audio failed to load');}; document.head.appendChild(s); }
+  function play(){ var song=parse(document.getElementById('grammar-in').value); if(!song.ev.length){status('nothing to play');return;}
+    status('loading audio…'); loadTone(function(){ Tone.start().then(function(){
+      if(!synth) synth=new Tone.PolySynth(Tone.Synth).toDestination(); synth.releaseAll();
+      var spb=60/(song.tempo||120), t0=Tone.now()+0.12, end=0;
+      song.ev.forEach(function(e){ try{ synth.triggerAttackRelease(Tone.Frequency(e.midi,"midi"), Math.max(e.dur*spb,0.05), t0+e.abs*spb, 0.7); }catch(_){}
+        end=Math.max(end,e.abs+e.dur); });
+      status('playing…'); setTimeout(function(){status('');}, (end*spb+0.4)*1000);
+    }); });
+  }
+  function readout(song){ var el=document.getElementById('tryreadout'); if(!el) return; var ev=song.ev;
+    if(!ev.length){ el.innerHTML=''; return; }
+    var on={}; ev.forEach(function(e){ on[e.voice+'|'+e.abs]=e.abs; }); var ks=Object.keys(on);
+    var non=ks.filter(function(k){ var a=on[k]; return Math.abs(a-Math.round(a))>1e-6; }).length;
+    var bars=Math.max.apply(null,ev.map(function(e){return e.bar;}));
+    var chips=[['bars',bars],['voices',song.voices.length],['notes/bar',(ev.length/bars).toFixed(1)],
+      ['syncopation',(100*non/ks.length).toFixed(0)+'%'],['mean simultaneity',(ev.length/ks.length).toFixed(2)]];
+    el.innerHTML=chips.map(function(c){ return '<span class="chip">'+c[0]+' <b>'+c[1]+'</b></span>'; }).join('');
+  }
+  function init(){ var ta=document.getElementById('grammar-in'); if(!ta) return; ta.value=EX;
+    function up(){ try{ var song=parse(ta.value); draw(song); readout(song); status(''); }catch(e){ status('parse error'); } }
+    ta.addEventListener('input', up); window.addEventListener('resize', up);
+    document.getElementById('play').addEventListener('click', play);
+    document.getElementById('stop').addEventListener('click', function(){ if(synth) synth.releaseAll(); status('stopped'); });
+    up();
+  }
+  if(document.readyState!=='loading') init(); else document.addEventListener('DOMContentLoaded', init);
+})();
+</script>
+</body></html>
