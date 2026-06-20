@@ -1,8 +1,13 @@
-# libretto
+# Libretto (谱文)
 
 A **descriptive** symbolic-music fingerprint environment. MIDI → a text "grammar" → a **29-axis
 empirical-percentile fingerprint** against a frozen 314-song corpus distribution. Coordinates measure
 *typicality / structure / proximity*, **NOT quality**.
+
+<p align="center">
+  <img src="libretto/assets/workflow.png" width="920" alt="Libretto workflow"><br>
+  <em>Build the environment (corpus → grammar → 29 axes) · steer the agent (retrieve → compose → measure → gate, with a self-evolving loop) · four applications.</em>
+</p>
 
 The measurement layer is deterministic and reproducible. Generation is an LLM and is pluggable.
 
