@@ -1,5 +1,7 @@
 # Libretto (谱文)
 
+**🌐 Project page & demos (listen / try the grammar): [libretto.site](https://libretto.site)**
+
 A **descriptive** symbolic-music fingerprint environment. MIDI → a text "grammar" → a **29-axis
 empirical-percentile fingerprint** against a frozen 314-song corpus distribution. Coordinates measure
 *typicality / structure / proximity*, **NOT quality**.
@@ -46,21 +48,23 @@ libretto/
                 band_check, encode/decode, gaptask_channel_check) — reproducible, frozen
   data/         frozen artifacts (distribution, fps, grammar corpus, answer key, KB) — see FROZEN.md
   generation/   Generator protocol + ClaudeGenerator/EchoGenerator + per-task prompt templates
-  tasks/        gaptask / newgen / newgen_extend / morph — each a SKILL.md runbook + reference scripts
+  tasks/        gaptask / newgen / morph / education (+ newgen_extend, genre_loop) — each a SKILL.md runbook
   tests/        round-trip, 29-axis shape, copy_risk self-match, determinism
 ```
 
 ## The four tasks
 | task | what | success (structural) |
 |---|---|---|
-| **gaptask** | regenerate a held-out real region (has ground truth) | proximity to REAL + beat% (89–98% out-of-sample); gate C1/C2/C3-note + channel-check |
-| **newgen** | compose a whole piece from scratch | length + non-degenerate + new (copy_risk<0.30) + genre-fit |
-| **newgen_extend** | extend/insert into a real song (no leakage) | coheres + non-degenerate + new + boundary |
-| **morph** | bridge song A's component into song B's | exact ends + gradual monotonic crossfade A→B |
-| **genre_loop** | self-evolving loop: compose toward a genre by feedback-driven dosage refinement | split axes converge into the genre band (mid-band, not ceiling); spread retained |
-See each `tasks/<task>/SKILL.md` for the runbook. The loop's per-round engine is `core.genre_band_check`
-(general & genre-adaptive) / `core.band_profile` (global); canonical round-by-round data ships under
-`tasks/genre_loop/refdata/`.
+| **gaptask** | regenerate a held-out real region (has ground truth) | proximity to the real region + beat% (89–98% out-of-sample); gate C1/C2/C3-note + channel-check |
+| **newgen** | compose a whole piece from scratch | length + non-degenerate + novel (copy_risk < 0.30) + genre-fit |
+| **morph** | bridge song A's component into song B's | exact real ends + gradual, monotonic A→B crossfade |
+| **education** | single-voice piano practice drill (key · meter · concept) | single-channel + in-key + the taught challenge detected + requirements met + novelty (copy_vs_shown < 0.50) |
+
+See each `tasks/<task>/SKILL.md` for the runbook. A **self-evolving loop** steers gaptask/newgen/education
+(generate → measure → dosage feedback → regenerate, ≤3 rounds, pick-best); its per-round engine is
+`core.genre_band_check` (genre-adaptive) / `core.band_profile` (global). Two auxiliary tasks ship too:
+`newgen_extend` (extend/insert into a real song, no leakage) and `genre_loop` (loop reference data under
+`tasks/genre_loop/refdata/`).
 
 ## Reproducibility contract
 - **Deterministic & reproducible:** `libretto.core` and every task's `measure` / `render`. Same input →
