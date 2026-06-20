@@ -1,0 +1,598 @@
+KEY: A major | METER: 4/4 | TEMPO: 92 | GRID: 16th (adaptive) | BARS: 102
+VOICES: Bass, Organ, Trumpet, Strings, Choir, Vocal, Guitar
+@1 [-]
+@2 [-]
+@3 [-]
+@4 [-]
+@5 [A | Bm] (grid:4)
+  Bass   : A1@1>2 B1@3>2
+  Organ  : A3+C#4+E4@1>2 B3+D4+F#4@3>2
+  Strings: A4+C#5+E5@1>2 B4+D5+F#5@3>2
+  Choir  : A3@1>2 B3@3>2
+@6 [C#m | D] (grid:4)
+  Bass   : C#2@1>2 D2@3>2
+  Organ  : C#4+E4+G#4@1>2 D4+F#4+A4@3>2
+  Strings: C#5+E5+G#5@1>2 D5+F#5+A5@3>2
+  Choir  : C#4@1>2 D4@3>2
+@7 [Bm | F#m] (grid:4)
+  Bass   : B1@1>2 A1@3>2
+  Organ  : B3+D4+F#4@1>4 A3+C#4@3>2
+  Strings: B4+D5+F#5@1>4 A4+C#5@3>2
+  Choir  : B3@1>4
+@8 [Bm | E] (grid:4)
+  Bass   : B1@1>2 E1@3>2
+  Organ  : B3+D4+F#4@1>2 E3+G#3+B3@3>2
+  Strings: B4+D5+F#5@1>2 E4+G#4+B4+E5+G#5@3>2
+  Choir  : B3@1>4 E4@3>2
+@9 [A | Bm]
+  Bass   : G1+A1@1>8 B1@9>8
+  Organ  : A3+C#4+E4@1>8 B3+D4+F#4@9>8
+  Trumpet: A4@2>1 G#4@4>1 A4@5>1 E4@6>1 F#4@8>1 A4@10>1 G#4@12>1 A4@13>1
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A3@1>8 B3@9>8
+@10 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#4+E4+G#4@1>8 D4+F#4+A4@9>8
+  Trumpet: A4@3>1 G#4@4>1 A4@5>1 E4@6>1 F#4@8>1 A4@10>1 G#4@12>1 A4@13>2
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : C#4@1>8 D4@9>8
+@11 [Bm | F#m] (grid:4)
+  Bass   : B1@1>2 A1@3>2
+  Organ  : B3+D4+F#4@1>4 A3+C#4@3>2
+  Trumpet: B4@1>2 A4@3>2
+  Strings: B4+D5+F#5@1>4 A4+C#5@3>2
+  Choir  : B3+B4+D5@1>4 A4+C#5@3>2
+@12 [Bm | E]
+  Bass   : B1@1>8 E1+E2@9>8
+  Organ  : B3+D4+F#4@1>8 E3+G#3+B3@9>8
+  Trumpet: B4@1>7 E5@10>1 E5@12>1 E5@13>1 E5@14>1
+  Strings: B4+D5+F#5@1>8 E4+G#4+B4+E5+G#5@9>8
+  Choir  : B3+B4+D5@1>16 E4+B4+E5@9>8
+  Vocal  : A4@16>1
+@13 [A]
+  Bass   : A1@1>10 A1@11>2 A1@13>2 A1@15>2
+  Organ  : A3+C#4+E4@1>16
+  Strings: A4+C#5+E5@1>14
+  Vocal  : C#5@1>1 E5@2>1 E5@4>2 C#5@6>2 E5@9>7
+@14 [D]
+  Bass   : D2@1>12 D2@13>2 C#2@15>2
+  Organ  : A3+D4+F#4@1>16
+  Strings: A4+D5+F#5@1>16
+  Vocal  : B4@3>1 B4@4>1 C#5@6>2 C#5@9>6
+@15 [Bm]
+  Bass   : B1@1>8 B1@11>2 B1@13>2 B1@15>2
+  Organ  : B3+D4+F#4@1>16
+  Strings: B4+D5+F#5@1>16
+  Vocal  : A4@1>2 F#4@3>1 A4@5>1 F#4@6>2 A4@9>8
+@16 [E]
+  Bass   : E2@1>12 E2@13>2 F#2@15>2
+  Organ  : B3+E4+G#4@1>16
+  Strings: B4+E5+F#5+G#5@1>16
+  Vocal  : C#5@3>1 C#5@4>2 C#5@6>1 C#5@8>1 B4@9>6 A4+C#5@16>1
+@17 [A]
+  Bass   : A1@1>14 A1@15>2
+  Organ  : A4+C#5+E5@1>16
+  Strings: A4+C#5+E5@1>16
+  Vocal  : E5@2>1 E5@4>1 C#5@6>2 E5@9>8
+@18 [D]
+  Bass   : D2@1>12 D2@15>2
+  Organ  : A4+D5+F#5@1>16
+  Strings: A4+D5+F#5@1>16
+  Vocal  : B4@3>1 B4@4>1 C#5@6>2 C#5@9>5
+@19 [Bm | D]
+  Bass   : B1@1>6 B1@7>2 D2@9>6 D2@15>2
+  Organ  : B4+D5+F#5@1>8 A4+D5+F#5@9>8
+  Strings: B4+D5+F#5@1>8 A4+D5+F#5@9>8
+  Vocal  : A4@1>1 F#4@3>1 A4@5>2 F#4@7>1 A4@9>1 A4@11>1 A4@12>1 A4@14>1 B4@16>1
+@20 [A] (grid:8)
+  Bass   : A1@1>4 A1@5>1 A1@7>1 A1@8>1
+  Organ  : A4+C#5+E5@1>8
+  Strings: A4+E5@1>8 C#5@2>7
+  Vocal  : B4@1>1 A4@2>4 F#5@7>1 F#5@8>1
+@21 [A | Bm] (grid:24t)
+  Bass   : A1@1>12 B1@13>12
+  Organ  : A3+C#4+E4@1>12 B3+D4+F#4@13>12
+  Strings: A4+C#5+E5@1>12 B4+D5+F#5@13>12
+  Choir  : A3@1>12 B3@13>12
+  Vocal  : E5@1>3 C#5@4>2 E5@5>10 C#5@19>6
+@22 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#4+E4+G#4@1>8 D4+F#4+A4@9>8
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : C#4@1>8 D4@9>8
+  Vocal  : A4@1>1 F#4@2>1 A4@4>12
+@23 [Bm | F#m]
+  Bass   : B1@1>8 A1@9>8
+  Organ  : B3+D4+F#4@1>16 A3+C#4@9>8
+  Strings: B4+D5+F#5@1>16 A4+C#5@9>8
+  Choir  : B3@1>16
+  Vocal  : A4@1>2 A4@3>1 A4@4>3 A4@7>1 A4@9>1 A4@11>1 A4@12>3 B4@15>2
+@24 [Bm | E] (grid:12t)
+  Bass   : B1@1>6 E1@7>6
+  Organ  : B3+D4+F#4@1>6 E3+G#3+B3@7>6
+  Strings: B4+D5+F#5@1>6 E4+G#4+B4+E5+G#5@7>6
+  Choir  : B3@1>12 E4@7>6
+  Vocal  : B4@1>8 F#5@10>2 F#5@11>2
+@25 [A | Bm] (grid:24t)
+  Bass   : G1+A1@1>12 B1@13>12
+  Organ  : A3+C#4+E4@1>12 B3+D4+F#4@13>12
+  Strings: A4+C#5+E5@1>12 B4+D5+F#5@13>12
+  Choir  : A3@1>12 B3@13>12
+  Vocal  : E5@1>3 C#5@4>2 E5@5>10 C#5@19>4
+@26 [C#m | D] (grid:12t)
+  Bass   : C#2@1>6 D2@7>6
+  Organ  : C#4+E4+G#4@1>6 D4+F#4+A4@7>6
+  Strings: C#5+E5+G#5@1>6 D5+F#5+A5@7>6
+  Choir  : C#4@1>6 D4@7>6
+  Vocal  : A4@1>1 F#4@2>1 A4@3>9
+@27 [Bm | F#m] (grid:24t)
+  Bass   : B1@1>12 A1@13>12
+  Organ  : B3+D4+F#4@1>24 A3+C#4@13>12
+  Strings: B4+D5+F#5@1>24 A4+C#5@13>12
+  Choir  : B3+B4+D5@1>24 A4+C#5@13>10
+  Vocal  : A4@1>2 A4@4>2 A4@5>3 A4@10>3 A4@13>3 A4@16>2 A4@17>4 B4@22>3
+@28 [Bm | E] (grid:4)
+  Bass   : B1@1>2 E1+E2@3>2
+  Organ  : B3+D4+F#4@1>2 E3+G#3+B3@3>2
+  Strings: B4+D5+F#5@1>2 E4+G#4+B4+E5+G#5@3>2
+  Choir  : B3+B4+D5@1>4 E4+B4+E5@3>2
+  Vocal  : B4@1>4
+@29 [A | Bm]
+  Bass   : A1@1>8 B1@9>8
+  Organ  : A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A4+C#5@1>8 G#4+B4@9>8 F#4+A4@16>1
+  Vocal  : C#5+E5@1>3 A4+C#5@4>5 A4+C#5@10>1 G#4+B4@12>1 F#4+A4@13>1 A4+C#5@15>1
+@30 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>6
+  Choir  : F#4+A4@1>7 G#4+B4@8>8
+  Vocal  : C#5+E5@1>2 B4+C#5@3>1 C#5+E5@4>5 A4+C#5@10>1 G#4+A4+B4@12>1 F#4@13>2 A4+C#5@15>2
+@31 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : A4+C#5@1>8 B4+D5@9>8
+  Vocal  : C#5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 B4+E5@10>1 C#5+E5@12>1 D5+F#5@13>2 G#4+F#5@15>1
+@32 [A]
+  Bass   : A1@1>14 A1@15>2
+  Organ  : A4+C#5+E5@1>14
+  Trumpet: E5@10>1 E5@12>1 E5@13>1 E5@14>1
+  Strings: A4+C#5+E5@1>16
+  Choir  : A4+C#5@1>15
+  Vocal  : A4+E5@1>12
+@33 [A]
+  Bass   : A1@1>10 A1@11>2 A1@13>2 A1@15>2
+  Organ  : A3+C#4+E4@1>16
+  Strings: A4+C#5+E5@1>14
+  Vocal  : C#5@1>1 E5@2>1 E5@4>2 C#5@6>2 E5@9>7
+@34 [D]
+  Bass   : D2@1>12 D2@13>2 C#2@15>2
+  Organ  : A3+D4+F#4@1>16
+  Strings: A4+D5+F#5@1>16
+  Vocal  : B4@3>1 B4@4>1 C#5@6>2 C#5@9>6
+@35 [Bm]
+  Bass   : B1@1>8 B1@11>2 B1@13>2 B1@15>2
+  Organ  : B3+D4+F#4@1>16
+  Strings: B4+D5+F#5@1>16
+  Vocal  : A4@1>2 F#4@3>1 A4@5>1 F#4@6>2 A4@9>8
+@36 [E]
+  Bass   : E2@1>12 E2@13>2 F#2@15>2
+  Organ  : B3+E4+G#4@1>16
+  Strings: B4+E5+F#5+G#5@1>16
+  Vocal  : C#5@3>1 C#5@4>2 C#5@6>1 C#5@8>1 B4@9>6 A4+C#5@16>1
+@37 [A]
+  Bass   : A1@1>14 A1@15>2
+  Organ  : A4+C#5+E5@1>16
+  Strings: A4+C#5+E5@1>16
+  Vocal  : E5@2>1 E5@4>1 C#5@6>2 E5@9>8
+@38 [D]
+  Bass   : D2@1>12 D2@15>2
+  Organ  : A4+D5+F#5@1>16
+  Strings: A4+D5+F#5@1>16
+  Vocal  : B4@3>1 B4@4>1 C#5@6>2 C#5@9>5
+@39 [Bm | D]
+  Bass   : B1@1>6 B1@7>2 D2@9>6 D2@15>2
+  Organ  : B4+D5+F#5@1>8 A4+D5+F#5@9>8
+  Strings: B4+D5+F#5@1>8 A4+D5+F#5@9>8
+  Vocal  : A4@1>1 F#4@3>1 A4@5>2 F#4@7>1 A4@9>1 A4@11>1 A4@12>1 A4@14>1 B4@16>1
+@40 [A] (grid:8)
+  Bass   : A1@1>4 A1@5>1 A1@7>1 A1@8>1
+  Organ  : A4+C#5+E5@1>8
+  Strings: A4+E5@1>8 C#5@2>7
+  Vocal  : B4@1>1 A4@2>4 F#5@7>1 F#5@8>1
+@41 [A | Bm] (grid:24t)
+  Bass   : A1@1>12 B1@13>12
+  Organ  : A3+C#4+E4@1>12 B3+D4+F#4@13>12
+  Strings: A4+C#5+E5@1>12 B4+D5+F#5@13>12
+  Choir  : A3@1>12 B3@13>12
+  Vocal  : E5@1>3 C#5@4>2 E5@5>10 C#5@19>6
+@42 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#4+E4+G#4@1>8 D4+F#4+A4@9>8
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : C#4@1>8 D4@9>8
+  Vocal  : A4@1>1 F#4@2>1 A4@4>12
+@43 [Bm | F#m]
+  Bass   : B1@1>8 A1@9>8
+  Organ  : B3+D4+F#4@1>16 A3+C#4@9>8
+  Strings: B4+D5+F#5@1>16 A4+C#5@9>8
+  Choir  : B3@1>16
+  Vocal  : A4@1>2 A4@3>1 A4@4>3 A4@7>1 A4@9>1 A4@11>1 A4@12>3 B4@15>2
+@44 [Bm | E] (grid:12t)
+  Bass   : B1@1>6 E1@7>6
+  Organ  : B3+D4+F#4@1>6 E3+G#3+B3@7>6
+  Strings: B4+D5+F#5@1>6 E4+G#4+B4+E5+G#5@7>6
+  Choir  : B3@1>12 E4@7>6
+  Vocal  : B4@1>8 F#5@10>2 F#5@11>2
+@45 [A | Bm] (grid:24t)
+  Bass   : G1+A1@1>12 B1@13>12
+  Organ  : A3+C#4+E4@1>12 B3+D4+F#4@13>12
+  Strings: A4+C#5+E5@1>12 B4+D5+F#5@13>12
+  Choir  : A3@1>12 B3@13>12
+  Vocal  : E5@1>3 C#5@4>2 E5@5>10 C#5@19>4
+@46 [C#m | D] (grid:12t)
+  Bass   : C#2@1>6 D2@7>6
+  Organ  : C#4+E4+G#4@1>6 D4+F#4+A4@7>6
+  Strings: C#5+E5+G#5@1>6 D5+F#5+A5@7>6
+  Choir  : C#4@1>6 D4@7>6
+  Vocal  : A4@1>1 F#4@2>1 A4@3>9
+@47 [Bm | F#m] (grid:24t)
+  Bass   : B1@1>12 A1@13>12
+  Organ  : B3+D4+F#4@1>24 A3+C#4@13>12
+  Strings: B4+D5+F#5@1>24 A4+C#5@13>12
+  Choir  : B3+B4+D5@1>24 A4+C#5@13>10
+  Vocal  : A4@1>2 A4@4>2 A4@5>3 A4@10>3 A4@13>3 A4@16>2 A4@17>4 B4@22>3
+@48 [Bm | E] (grid:4)
+  Bass   : B1@1>2 E1+E2@3>2
+  Organ  : B3+D4+F#4@1>2 E3+G#3+B3@3>2
+  Strings: B4+D5+F#5@1>2 E4+G#4+B4+E5+G#5@3>2
+  Choir  : B3+B4+D5@1>4 E4+B4+E5@3>2
+  Vocal  : B4@1>4
+@49 [A | Bm]
+  Bass   : A1@1>8 B1@9>8
+  Organ  : A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A4+C#5@1>8 G#4+B4@9>8 F#4+A4@16>1
+  Vocal  : C#5+E5@1>3 A4+C#5@4>5 A4+C#5@10>1 G#4+B4@12>1 F#4+A4@13>1 A4+C#5@15>1
+@50 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: E5@2>1 E5@4>1 E5@5>1 E5@6>1 E5@8>6
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>6
+  Choir  : F#4+A4@1>7 G#4+B4@8>8
+  Vocal  : C5+C#5+D5+Eb5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 A4+C#5@10>1 G#4+A4+B4@12>1 F#4@13>2 A4+C#5@15>2
+@51 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: F#5@2>1 E5@4>1 C#5@5>1 E5@6>1 E5@8>9
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : A4+C#5@1>8 B4+D5@9>8
+  Vocal  : C#5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 B4+E5@10>1 C#5+E5@12>1 D5+F#5@13>2 G#4+F#5@15>1
+@52 [A]
+  Bass   : A1@1>14 A1@15>2
+  Organ  : A4+C#5+E5@1>14
+  Trumpet: E5@10>1 E5@12>1 E5@13>1 E5@14>1
+  Strings: A4+C#5+E5@1>16
+  Choir  : A4+C#5@1>15
+  Vocal  : A4+E5@1>12
+@53 [F]
+  Bass   : F1@1>13 F1@15>2
+  Organ  : F4+A4+C5@1>16
+  Trumpet: F4+A4+C5@1>13
+  Strings: F4+A4+C5@1>16
+  Choir  : F4+A4@1>15
+  Vocal  : C5@1>1 C5@3>1 C5@4>3 A4@7>2 C5@9>1 C5@10>1 D5@12>5
+@54 [Em] (grid:24t)
+  Bass   : E1@1>18 E1@19>3 E1@22>3
+  Organ  : E4+G4+B4@1>24
+  Trumpet: E4+G4+B4@1>24 D5+G5@19>2 G4+B4@22>2
+  Strings: E4+G4+B4@1>24
+  Choir  : E4+G4@1>22
+  Vocal  : C5@4>2 B4@7>3 A4@10>2 A4@11>4 G4@15>10
+@55 [F]
+  Bass   : F1@1>13 F1@15>2
+  Organ  : F4+A4+C5@1>16
+  Trumpet: F4+A4+C5@1>15
+  Strings: F4+A4+C5@1>16
+  Choir  : F4@1>15
+  Vocal  : C5@3>2 C5@6>2 C5@9>1 C5@10>1 D5@12>5
+@56 [Em]
+  Bass   : E1@1>11 E1@13>1 E1@15>2
+  Organ  : E4+G4+B4@1>16
+  Trumpet: E4+G4+B4@3>1 E4+G4+B4@6>1 E4+G4+B4@9>1 E4+G4+B4@12>1 E4+G4+B4@13>1 E4+G4+B4@15>1
+  Strings: E4+G4+B4@1>16
+  Choir  : E4@1>15 F4@16>1
+  Vocal  : B4@3>1 B4@5>2 A4@7>1 A4@8>3 G4@11>6
+@57 [F] (grid:24t)
+  Bass   : F1@1>20 F1@22>3
+  Organ  : F4+A4+C5@1>24
+  Trumpet: F4+A4+C5@1>21
+  Strings: F4+A4+C5@1>24
+  Choir  : F4@1>22
+  Vocal  : C5@4>3 C5@9>2 C5@10>2 C5@13>2 C5@15>2 D5@17>8
+@58 [Em]
+  Bass   : E1@1>11 E1@13>2 E1@15>2
+  Organ  : E4+G4+B4@1>16
+  Trumpet: E4+G4+B4@1>1 E4+G4+B4@2>1 E4+G4+B4@5>1 E4+G4+B4@11>1 E4+G4+B4@14>1
+  Strings: E4+G4+B4@1>16
+  Choir  : E4@1>15
+  Vocal  : B4@3>1 B4@5>2 A4@7>1 A4@8>3 G4@11>6
+@59 [F]
+  Bass   : F1@1>16
+  Organ  : F4+A4+C5@1>16
+  Trumpet: F4+A4+C5@1>16
+  Strings: F4+A4+C5@1>16
+  Choir  : F4@1>15
+  Vocal  : C5@3>2 C5@6>2 C5@9>1 C5@10>1 C5@12>5
+@60 [G] (grid:24t)
+  Bass   : G1@1>24
+  Organ  : G4+B4+D5@1>24
+  Trumpet: G#5+B5@1>9 C6+C#6@11>2 B5+D6@13>12
+  Strings: G4+B4+D5@1>24
+  Choir  : G4@1>24
+  Vocal  : D5@4>3 D5@9>3 D5@13>12
+@61 [E] (grid:4)
+  Organ  : E4@1>2
+  Strings: E4@1>3
+  Choir  : E4@1>1
+  Guitar : E3+B3@1>4
+@62 [E | A] (grid:12t)
+  Vocal  : A4@12>1
+  Guitar : E3+B3@1>3 A3+C#4+E4@12>1
+@63 [A]
+  Bass   : A1@1>10 A1@11>2 A1@13>2 A1@15>2
+  Organ  : A3+C#4+E4@1>16
+  Vocal  : C#5@1>1 E5@2>1 E5@4>2 C#5@6>2 E5@9>7
+  Guitar : A3+C#4+E4@1>10 A3+D4+F#4@16>1
+@64 [D]
+  Bass   : D2@1>12 D2@13>2 C#2@15>2
+  Organ  : A3+D4+F#4@1>16
+  Vocal  : B4@3>1 B4@4>1 C#5@6>2 C#5@9>6
+  Guitar : A3+D4+F#4@1>13 B3+D4+F#4@16>1
+@65 [Bm]
+  Bass   : B1@1>8 B1@11>2 B1@13>2 B1@15>2
+  Organ  : B3+D4+F#4@1>16
+  Vocal  : A4@1>2 F#4@3>1 A4@5>1 F#4@6>2 A4@9>8
+  Guitar : B3+D4+F#4@1>11 B3+E4+G#4@16>1
+@66 [E]
+  Bass   : E2@1>12 E2@13>2 F#2@15>2
+  Organ  : B3+E4+G#4@1>16
+  Vocal  : C#5@3>1 C#5@4>2 C#5@6>1 C#5@8>1 B4@9>6 A4+C#5@16>1
+  Guitar : B3+E4+G#4@1>11 A3+C#4+E4@16>1
+@67 [A]
+  Bass   : A1@1>14 A1@15>2
+  Organ  : A4+C#5+E5@1>16
+  Vocal  : E5@2>1 E5@4>1 C#5@6>2 E5@9>8
+  Guitar : A3+C#4+E4@1>11 A3+D4+F#4@16>1
+@68 [D]
+  Bass   : D2@1>12 D2@15>2
+  Organ  : A4+D5+F#5@1>16
+  Vocal  : B4@3>1 B4@4>1 C#5@6>2 C#5@9>5
+  Guitar : A3+D4+F#4@1>12 B3+D4+F#4@16>1
+@69 [Bm | D]
+  Bass   : B1@1>6 B1@7>2 D2@9>6 D2@15>2
+  Organ  : B4+D5+F#5@1>8 A4+D5+F#5@9>8
+  Vocal  : A4@1>1 F#4@3>1 A4@5>2 F#4@7>1 A4@9>1 A4@11>1 A4@12>1 A4@14>1 B4@16>1
+  Guitar : B3+D4+F#4@1>11 A3+C#4+E4@16>1
+@70 [A] (grid:8)
+  Bass   : A1@1>4 A1@5>1 A1@7>1 A1@8>1
+  Organ  : A4+C#5+E5@1>8
+  Vocal  : B4@1>1 A4@2>4 F#5@7>1 F#5@8>1
+  Guitar : A3+C#4+E4@1>6
+@71 [A | Bm] (grid:24t)
+  Bass   : A1@1>12 B1@13>12
+  Organ  : A3+C#4+E4@1>12 B3+D4+F#4@13>12
+  Strings: A4+C#5+E5@1>12 B4+D5+F#5@13>12
+  Choir  : A3@1>12 B3@13>12
+  Vocal  : E5@1>3 C#5@4>2 E5@5>10 C#5@19>6
+@72 [C#m | D] (grid:12t)
+  Bass   : C#2@1>6 D2@7>6
+  Organ  : C#4+E4+G#4@1>6 D4+F#4+A4@7>6
+  Trumpet: A4@8>1 G#4+A4@9>1 E4@11>2
+  Strings: C#5+E5+G#5@1>6 D5+F#5+A5@7>6
+  Choir  : C#4@1>6 D4@7>6
+  Vocal  : A4@1>1 F#4@2>1 A4@3>9
+@73 [Bm | F#m]
+  Bass   : B1@1>8 A1@9>8
+  Organ  : B3+D4+F#4@1>16 A3+C#4@9>8
+  Trumpet: B4@1>7 A4@9>7
+  Strings: B4+D5+F#5@1>16 A4+C#5@9>8
+  Choir  : B3@1>16
+  Vocal  : A4@1>2 A4@3>1 A4@4>3 A4@7>1 A4@9>1 A4@11>1 A4@12>3 B4@15>2
+@74 [Bm | E] (grid:12t)
+  Bass   : B1@1>6 E1@7>6
+  Organ  : B3+D4+F#4@1>6 E3+G#3+B3@7>6
+  Trumpet: B4@1>5 E5@7>6
+  Strings: B4+D5+F#5@1>6 E4+G#4+B4+E5+G#5@7>6
+  Choir  : B3@1>12 E4@7>6
+  Vocal  : B4@1>8 F#5@10>2 F#5@11>2
+@75 [A | Bm]
+  Bass   : G1+A1@1>8 B1@9>8
+  Organ  : A3+C#4+E4@1>8 B3+D4+F#4@9>8
+  Trumpet: A4@10>1 G#4+A4@12>1 E4@14>1
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A3@1>8 B3@9>8
+  Vocal  : E5@1>2 C#5@3>1 E5@4>7 C#5@13>3
+@76 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#4+E4+G#4@1>8 D4+F#4+A4@9>8
+  Trumpet: A4@6>1 A4@8>1 A4@10>1 G#4@12>1 A4@13>1 E4@14>2
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : C#4@1>8 D4@9>8
+  Vocal  : A4@1>1 F#4@2>1 A4@4>12
+@77 [Bm | F#m] (grid:24t)
+  Bass   : B1@1>12 A1@13>12
+  Organ  : B3+D4+F#4@1>24 A3+C#4@13>12
+  Trumpet: B4@1>10 A4@11>12
+  Strings: B4+D5+F#5@1>24 A4+C#5@13>12
+  Choir  : B3+B4+D5@1>24 A4+C#5@13>10
+  Vocal  : A4@1>2 A4@4>2 A4@5>3 A4@10>3 A4@13>3 A4@16>2 A4@17>4 B4@22>3
+@78 [Bm | E] (grid:4)
+  Bass   : B1@1>2 E1+E2@3>2
+  Organ  : B3+D4+F#4@1>2 E3+G#3+B3@3>2
+  Trumpet: B4@1>2 E5@3>2
+  Strings: B4+D5+F#5@1>2 E4+G#4+B4+E5+G#5@3>2
+  Choir  : B3+B4+D5@1>4 E4+B4+E5@3>2
+  Vocal  : B4@1>4
+@79 [A | Bm]
+  Bass   : A1@1>8 B1@9>8
+  Organ  : A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A4+C#5@1>8 G#4+B4@9>8 F#4+A4@16>1
+  Vocal  : C#5+E5@1>3 A4+C#5@4>5 A4+C#5@10>1 G#4+B4@12>1 F#4+A4@13>1 A4+C#5@15>1
+@80 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: E5@2>1 E5@4>1 E5@5>1 E5@6>1 E5@8>6
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>6
+  Choir  : F#4+A4@1>7 G#4+B4@8>8
+  Vocal  : C5+C#5+D5+Eb5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 A4+C#5@10>1 G#4+A4+B4@12>1 F#4@13>2 A4+C#5@15>2
+@81 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: F#5@2>1 E5@4>1 C#5@5>1 E5@6>1 E5@8>9
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : A4+C#5@1>8 B4+D5@9>8
+  Vocal  : C#5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 B4+E5@10>1 C#5+E5@12>1 D5+F#5@13>2 G#4+F#5@15>1
+@82 [A]
+  Bass   : A1@1>14 A1@15>2
+  Organ  : A4+C#5+E5@1>14
+  Trumpet: E5@10>1 E5@12>1 E5@13>1 E5@14>1
+  Strings: A4+C#5+E5@1>16
+  Choir  : A4+C#5@1>15
+  Vocal  : A4+E5@1>12
+@83 [A | Bm]
+  Bass   : A1@1>8 B1@9>8
+  Organ  : A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Trumpet: F4+A4+C5@1>13
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A4+C#5@1>8 G#4+B4@9>8 F#4+A4@16>1
+  Vocal  : C5+C#5+E5@1>3 A4+C#5@4>5 A4+C#5@10>1 G#4+B4@12>1 F#4+A4@13>1 A4+C#5@15>1
+@84 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: E5@2>1 E5@4>1 E5@5>1 E5@6>1 E5@8>6
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>6
+  Choir  : F#4+A4@1>7 G#4+B4@8>8
+  Vocal  : C5+C#5+D5+Eb5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 A4+C#5@10>1 G#4+A4+B4@12>1 F#4@13>2 A4+C#5@15>2
+@85 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: F#5@2>1 E5@4>1 C#5@5>1 E5@6>1 E5@8>9
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : A4+C#5@1>8 B4+D5@9>8
+  Vocal  : C#5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 B4+E5@10>1 C#5+E5@12>1 D5+F#5@13>2 G#4+F#5@15>1
+@86 [A]
+  Bass   : A1@1>14 A1@15>2
+  Organ  : A4+C#5+E5@1>14
+  Trumpet: E5@10>1 E5@12>1 E5@13>1 E5@14>1
+  Strings: A4+C#5+E5@1>16
+  Choir  : A4+C#5@1>15
+  Vocal  : A4+E5@1>12 F#5@13>1 F#5@15>2
+@87 [A | Bm] (grid:24t)
+  Bass   : A1@1>12 B1@13>12
+  Organ  : A3+C#4+E4@1>12 B3+D4+F#4@13>12
+  Strings: A4+C#5+E5@1>12 B4+D5+F#5@13>12
+  Choir  : A3@1>12 B3@13>12
+  Vocal  : E5@1>3 C#5@4>2 E5@5>10 C#5@19>6
+@88 [C#m | D] (grid:12t)
+  Bass   : C#2@1>6 D2@7>6
+  Organ  : C#4+E4+G#4@1>6 D4+F#4+A4@7>6
+  Trumpet: A4@8>1 G#4+A4@9>1 E4@11>2
+  Strings: C#5+E5+G#5@1>6 D5+F#5+A5@7>6
+  Choir  : C#4@1>6 D4@7>6
+  Vocal  : A4@1>1 F#4@2>1 A4@3>9
+@89 [Bm | F#m]
+  Bass   : B1@1>8 A1@9>8
+  Organ  : B3+D4+F#4@1>16 A3+C#4@9>8
+  Trumpet: B4@1>7 A4@9>7
+  Strings: B4+D5+F#5@1>16 A4+C#5@9>8
+  Choir  : B3@1>16
+  Vocal  : A4@1>2 A4@3>1 A4@4>3 A4@7>1 A4@9>1 A4@11>1 A4@12>3 B4@15>2
+@90 [Bm | E] (grid:12t)
+  Bass   : B1@1>6 E1@7>6
+  Organ  : B3+D4+F#4@1>6 E3+G#3+B3@7>6
+  Trumpet: B4@1>5 E5@7>6
+  Strings: B4+D5+F#5@1>6 E4+G#4+B4+E5+G#5@7>6
+  Choir  : B3@1>12 E4@7>6
+  Vocal  : B4@1>8 F#5@10>2 F#5@11>2
+@91 [A | Bm]
+  Bass   : G1+A1@1>8 B1@9>8
+  Organ  : A3+C#4+E4@1>8 B3+D4+F#4@9>8
+  Trumpet: A4@10>1 G#4+A4@12>1 E4@14>1
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A3@1>8 B3@9>8
+  Vocal  : E5@1>2 C#5@3>1 E5@4>7 C#5@13>3
+@92 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#4+E4+G#4@1>8 D4+F#4+A4@9>8
+  Trumpet: A4@6>1 A4@8>1 A4@10>1 G#4@12>1 A4@13>1 E4@14>2
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : C#4@1>8 D4@9>8
+  Vocal  : A4@1>1 F#4@2>1 A4@4>12
+@93 [Bm | F#m] (grid:24t)
+  Bass   : B1@1>12 A1@13>12
+  Organ  : B3+D4+F#4@1>24 A3+C#4@13>12
+  Trumpet: B4@1>10 A4@11>12
+  Strings: B4+D5+F#5@1>24 A4+C#5@13>12
+  Choir  : B3+B4+D5@1>24 A4+C#5@13>10
+  Vocal  : A4@1>2 A4@4>2 A4@5>3 A4@10>3 A4@13>3 A4@16>2 A4@17>4 B4@22>3
+@94 [Bm | E] (grid:4)
+  Bass   : B1@1>2 E1+E2@3>2
+  Organ  : B3+D4+F#4@1>2 E3+G#3+B3@3>2
+  Trumpet: B4@1>2 E5@3>2
+  Strings: B4+D5+F#5@1>2 E4+G#4+B4+E5+G#5@3>2
+  Choir  : B3+B4+D5@1>4 E4+B4+E5@3>2
+  Vocal  : B4@1>4
+@95 [A | Bm]
+  Bass   : A1@1>8 B1@9>8
+  Organ  : A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A4+C#5@1>8 G#4+B4@9>8 F#4+A4@16>1
+  Vocal  : C#5+E5@1>3 A4+C#5@4>5 A4+C#5@10>1 G#4+B4@12>1 F#4+A4@13>1 A4+C#5@15>1
+@96 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: E5@2>1 E5@4>1 E5@5>1 E5@6>1 E5@8>6
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>6
+  Choir  : F#4+A4@1>7 G#4+B4@8>8
+  Vocal  : C5+C#5+D5+Eb5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 A4+C#5@10>1 G#4+A4+B4@12>1 F#4@13>2 A4+C#5@15>2
+@97 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: F#5@2>1 E5@4>1 C#5@5>1 E5@6>1 E5@8>9
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : A4+C#5@1>8 B4+D5@9>8
+  Vocal  : C#5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 B4+E5@10>1 C#5+E5@12>1 D5+F#5@13>2 G#4+F#5@15>1
+@98 [A]
+  Bass   : A1@1>14 A1@15>2
+  Organ  : A4+C#5+E5@1>14
+  Trumpet: E5@10>1 E5@12>1 E5@13>1 E5@14>1
+  Strings: A4+C#5+E5@1>16
+  Choir  : A4+C#5@1>15
+  Vocal  : A4+E5@1>12
+@99 [A | Bm]
+  Bass   : A1@1>8 B1@9>8
+  Organ  : A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Trumpet: F4+A4+C5@1>13
+  Strings: A4+C#5+E5@1>8 B4+D5+F#5@9>8
+  Choir  : A4+C#5@1>8 G#4+B4@9>8 F#4+A4@16>1
+  Vocal  : C5+C#5+E5@1>3 A4+C#5@4>5 A4+C#5@10>1 G#4+B4@12>1 F#4+A4@13>1 A4+C#5@15>1
+@100 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: E5@2>1 E5@4>1 E5@5>1 E5@6>1 E5@8>6
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>6
+  Choir  : F#4+A4@1>7 G#4+B4@8>8
+  Vocal  : C5+C#5+D5+Eb5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 A4+C#5@10>1 G#4+A4+B4@12>1 F#4@13>2 A4+C#5@15>2
+@101 [C#m | D]
+  Bass   : C#2@1>8 D2@9>8
+  Organ  : C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Trumpet: F#5@2>1 E5@4>1 C#5@5>1 E5@6>1 E5@8>9
+  Strings: C#5+E5+G#5@1>8 D5+F#5+A5@9>8
+  Choir  : A4+C#5@1>8 B4+D5@9>8
+  Vocal  : C#5+E5@1>1 B4+C#5@3>1 C#5+E5@4>5 B4+E5@10>1 C#5+E5@12>1 D5+F#5@13>2 G#4+F#5@15>1
+@102 [C#] (grid:4)
+  Choir  : C#5@1>4

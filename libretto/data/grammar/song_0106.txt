@@ -1,0 +1,401 @@
+KEY: G major | METER: 3/4 | TEMPO: 92 | GRID: 8th (adaptive) | BARS: 111
+VOICES: piano, guitar, bass, strings, cello
+@1 [-]
+@2 [D]
+  piano  : D3+A4@1>5 F#3@2>1 A3+E5@3>3 D4@4>1 A3@5>2 F#5@6>1
+@3 [D]
+  piano  : D4+D5@1>2 A3@2>1 D3+A4@3>2 D4@5>1
+@4 [A | C#m]
+  piano  : C#3+E4+A4@1>3 E3@2>1 A3+E5@3>3 C#4@4>2 E4@5>1 C#5@6>1
+@5 [Bm]
+  piano  : B2+C#5+D5@1>4 D3@2>3 F#3@3>2 B3@5>2
+@6 [Bm]
+  piano  : B2+F#4+D5@1>4 D3@2>1 F#3+E4+C#5@3>3 B3@4>1 F#3@5>2 F#4+D5@6>1
+@7 [A] (grid:24t)
+  piano  : A2+E4+C#5@1>14 C#3@4>9 E3+C#4+A4@7>8 A3@13>2 F#4@16>2 A4@17>2
+@8 [G]
+  piano  : G2+A4+B4@1>5 D3@2>1 G3@3>1 B3@4>1 D4@5>2 G4@6>1
+@9 [D | G]
+  piano  : D4+A4@1>1 G4@2>1 D4@3>2 G3@4>1 B3@5>2
+@10 [D]
+  piano  : D3+A3@1>6 F#3@2>2 E4@3>2 D4@4>2 A3@5>1 F#4@6>1
+@11 [D | F#m]
+  piano  : D3+D4@1>3 F#3@2>2 A3@3>2
+@12 [A]
+  piano  : C#3+A3@1>4 E3@2>2 A3+E4@3>2 C#4@6>1
+@13 [G] (grid:4)
+  piano  : B2+G3+D4@1>3
+@14 [Bm]
+  piano  : B2+D4@1>4 F#3@2>2 C#4@3>3 B3@4>1 F#3@5>2 D4@6>1
+@15 [A | F#m]
+  piano  : A2+C#4@1>4 E3@2>2 A3@3>2 F#3@6>1
+@16 [G]
+  piano  : G2+B3@1>2 D3@2>1 G3@3>1 B3@4>1 D4@5>2 G4@6>1
+@17 [D | G]
+  piano  : D4+A4@1>1 G4@2>1 D4@3>2 G3@4>1 B3@5>2
+@18 [D]
+  piano  : D3+A3@1>6 F#3@2>1 E4@3>2 D4@4>2 A3@5>1 F#4@6>1
+@19 [D | F#m]
+  piano  : D3+D4@1>3 F#3@2>3 A3@3>2
+@20 [A]
+  piano  : C#3+A3@1>4 E3@2>2 A3+E4@3>3 C#4@6>1
+@21 [G] (grid:4)
+  piano  : B2+G3+D4@1>2
+@22 [Bm]
+  piano  : B2+D4@1>4 F#3@2>2 C#4@3>3 B3@4>2 F#3@5>2 D4@6>1
+@23 [A | F#m]
+  piano  : A2+C#4@1>4 E3@2>2 A3@3>2 F#3@6>1
+@24 [G]
+  piano  : G2+F#3+B3@1>2 D3@2>1 G3@3>1 B3@4>1 D4@5>2 G4@6>1
+@25 [G | D]
+  piano  : D4+A4@1>1 G4@2>2 D4@4>1 E4@5>1
+@26 [Em]
+  piano  : E3+G3+B3+E4@1>2 E3+G3+B3+E4@3>3 E3+G3+B3@5>1 D4@6>1
+  bass   : E2@1>6
+@27 [Em]
+  piano  : E3+G3+B3+E4@1>4 B3@2>3 E3+G3@3>1 E3+G3@5>1 E4@6>1
+  bass   : E2@1>5 D2@6>1
+@28 [Bm] (grid:4)
+  piano  : B2+F#3+D4+F#4@1>1 B2+F#3+E4@2>1 B2+F#3+D4@3>1
+  bass   : B1@1>3
+@29 [B | C#aug] (grid:4)
+  piano  : B2+F#3+B3@1>2 B2+F#3@2>1 C#3+A3+C#4@3>1
+  bass   : B1@1>2 C#2@3>1
+@30 [D]
+  piano  : D3+D4@1>5 F#3@2>1 A3@3>2 F#3@4>1 D4@5>2 A3@6>1
+  bass   : D2@1>6
+@31 [A]
+  piano  : A2+C#4@1>5 E3@2>1 D4@3>2 C#4@5>1
+  bass   : A1@1>6
+@32 [G]
+  piano  : G2+A3+C#4@1>5 B3@2>3 D3@3>2 G3@4>2 A3@5>2 D3@6>1
+  bass   : G1@1>6
+@33 [Em | G]
+  piano  : G2+A3+E4@1>5 D3@3>3 G3@4>1 A3+E4@5>1 G3@6>1
+  bass   : G1@1>6
+@34 [G]
+  piano  : G2+B3+D4+G4@1>5 D3@3>3 G3@4>1 B3+D4+G4@5>1 G3@6>1
+  bass   : G1@1>6
+@35 [G] (grid:24t)
+  piano  : G2+B3+D4@1>14 D3@4>10 B3+D4+F#4@7>4 G3@10>4 B3+D4+G4@13>2
+  bass   : G1@1>4 G1@5>8 A1@13>3 C2@16>3
+@36 [D]
+  piano  : D2+A4@1>5 A2@2>1 D3+D4+F#4@3>4 A2@5>2 F#4@6>1
+  guitar : E5@1>6
+  bass   : D1@1>6
+  strings: A4@1>6
+  cello  : A4@1>6
+@37 [D]
+  piano  : D2+A4@1>5 A2@2>4 D4+F#4@3>1 D3@4>1 D4+F#4@5>1 D3+D4@6>1
+  guitar : D5@1>6
+  bass   : D1@1>4 D1@6>1
+  strings: A4@1>6
+  cello  : A4@1>6
+@38 [F#m]
+  piano  : F#2+A4@1>4 C#3@2>4 C#4+F#4+A4@3>2 F#3@5>2 B4@6>1
+  guitar : E5@1>6
+  bass   : F#1@1>6
+  strings: A4@1>6
+  cello  : A4@1>6
+@39 [F#m | D7]
+  piano  : F#2+C#4+B4@1>4 A4@2>1 C#3+C#4+F#4@3>3 F#3@4>2 C#4@5>1 F#4@6>1
+  guitar : D5@1>6
+  bass   : F#1@1>3 A1@4>1 D2@5>2
+  strings: A4@1>2 B4@3>1 A4@4>1 G4@5>1 F#4@6>1
+  cello  : A4@1>2 B4@3>1 A4@4>1 G4@5>1 F#4@6>1
+@40 [Em7]
+  piano  : G2+A4@1>4 D3@2>1 G3+B3+D4+G4@3>4 D3@5>2 F#4@6>1
+  bass   : G1@1>6
+  strings: E4@1>6
+  cello  : E4@1>6
+@41 [G | Em7]
+  piano  : G2+E4@1>3 D3@2>1 G3@3>3 D3@4>1 F#4@5>1 G4@6>1
+  bass   : D2@1>3 A1@4>3
+  strings: D4@1>4 E4@5>2
+  cello  : D4@1>4 E4@5>2
+@42 [Am | F#m7]
+  piano  : C3+A4@1>5 E3@2>3 G3+G4@3>2 F#4@5>2
+  bass   : C2@1>6
+  strings: A4@1>6
+  cello  : A4@1>6
+@43 [Am | C7] (grid:16)
+  piano  : C3+F#4@1>11 E4@2>1 D4@3>6 E3@5>6 G3@7>1 E4@9>4 A3@11>1
+  bass   : C2@1>4 A2@5>4 Bb2@9>3
+  strings: A4@1>4 G4@5>4 F#4@9>2 E4@11>2
+  cello  : A4@1>4 G4@5>4 F#4@9>2 E4@11>2
+@44 [D]
+  piano  : D2+A4@1>4 A2@2>1 D3+D4+F#4@3>3 A2@5>2 F#4@6>1
+  guitar : E5@1>6
+  bass   : D1@1>6
+  strings: D4@1>6
+  cello  : D4@1>6
+@45 [D] (grid:24t)
+  piano  : D2+D4+A4@1>12 A2@4>9 D3+D4+F#4@7>4 D3+F#4@13>3 D4@16>3
+  guitar : D5@1>12
+  bass   : D1@1>9 A1@10>3 D2@13>4 A1@16>3
+  strings: D4@1>10 E4@11>3 G4@16>3
+  cello  : D4@1>10 E4@11>3 G4@16>3
+@46 [F#m]
+  piano  : F#2+A4@1>5 C#3@2>5 C#4+F#4+A4@3>3 F#3@5>2 C#4+F#4@6>1
+  guitar : E5@1>6
+  bass   : F#1@1>6
+  strings: F#4@1>6
+  cello  : F#4@1>6
+@47 [F#m | Bm7]
+  piano  : F#2+C#4+B4@1>4 A4@2>1 C#3+F#4@3>3 F#3@4>2 C#4@5>1 F#4@6>1
+  guitar : D5@1>4
+  bass   : F#1@1>2 A1@3>2 D2@5>2
+  strings: F#4@1>2 A4@3>2 B4@5>2
+  cello  : F#4@1>2 A4@3>2 B4@5>2
+@48 [G]
+  piano  : G2+F#4+A4@1>4 D3@2>2 B3+D4+G4@3>4 G3@4>3 F#4@5>2 D3@6>1
+  bass   : G1@1>6
+  strings: D5@1>6
+  cello  : D5@1>6
+@49 [G] (grid:16)
+  piano  : G2+E4@1>7 D3@5>4 G3@7>3 F#4@9>2 G4@11>2
+  bass   : G1@1>8 B1@9>2 D2@11>2
+  strings: D5@1>3 E5@4>2 D5@6>7
+  cello  : D5@1>3 E5@4>2 D5@6>7
+@50 [Am7 | C] (grid:12t)
+  piano  : C3+D4+A4@1>9 G4@4>5 F#4@9>2
+  bass   : C2@1>9
+  strings: C5@1>9
+  cello  : C5@1>9
+@51 [C7] (grid:24t)
+  piano  : C3+E4+F#4@1>6 D4@4>4
+  bass   : Bb2@1>18
+  strings: C5@1>18 D5@17>2
+  cello  : C5@1>18 D5@17>2
+@52 [D]
+  piano  : D3+A4@1>5 F#3@2>1 A3+E5@3>3 D4@4>1 A3@5>2 F#5@6>1
+  bass   : D2@1>6
+  strings: D5@1>6
+  cello  : D5@1>6
+@53 [D]
+  piano  : D4+D5@1>2 A3@2>1 D3+A4@3>2 D4@5>1
+  bass   : D2@1>6
+  strings: D5@1>6
+  cello  : D5@1>6
+@54 [A | C#m]
+  piano  : C#3+E4+A4@1>3 E3@2>1 A3+E5@3>3 C#4@4>2 E4@5>1 C#5@6>1
+  bass   : C#2@1>6
+  strings: D5@1>3
+  cello  : D5@1>3
+@55 [Bm | G7]
+  piano  : B2+C#5+D5@1>4 D3@2>3 F#3@3>2 B3@5>2
+  bass   : B1@1>4 G2@5>2
+@56 [Bm]
+  piano  : B2+F#4+D5@1>4 D3@2>1 F#3+E4+C#5@3>3 B3@4>1 F#3@5>2 F#4+D5@6>1
+  bass   : B1@1>4 F#2@5>1 A2@6>1
+@57 [A] (grid:24t)
+  piano  : A2+E4+C#5@1>14 C#3@4>9 E3+C#4+A4@7>8 A3@13>2 F#4@16>2 A4@17>2
+  bass   : A1@1>15 B1@16>3
+@58 [G]
+  piano  : G2+A4+B4@1>5 D3@2>1 G3@3>1 B3@4>1 D4@5>2 G4@6>1
+  bass   : G1@1>6
+@59 [G]
+  piano  : D4+A4@1>1 G4@2>1 D4@3>2 G3@4>1 B3@5>2
+  bass   : G1@1>2 D2@3>2 E2@5>2
+@60 [D]
+  piano  : D3+A3@1>6 F#3@2>2 E4@3>2 D4@4>2 A3@5>1 F#4@6>1
+  bass   : D2@1>6
+@61 [D]
+  piano  : D3+D4@1>3 F#3@2>2 A3@3>2
+  bass   : D2@1>5 D2@6>1
+@62 [A] (grid:24t)
+  piano  : C#3+A3@1>12 E3@4>8 A3+E4@7>8 C#4@16>3
+  bass   : C#2@1>15 E2@16>2 D2@17>2
+@63 [G] (grid:4)
+  piano  : B2+G3+D4@1>3
+  bass   : B1@1>3
+@64 [Bm]
+  piano  : B2+D4@1>4 F#3@2>2 C#4@3>3 B3@4>1 F#3@5>2 D4@6>1
+  bass   : B1@1>6
+@65 [A | D7]
+  piano  : A2+C#4@1>4 E3@2>2 A3@3>2 F#3@6>1
+  bass   : A1@1>4 C#2@5>1 D2@6>1
+@66 [G]
+  piano  : G2+B3@1>2 D3@2>1 G3@3>1 B3@4>1 D4@5>2 G4@6>1
+  bass   : G1@1>6
+@67 [G]
+  piano  : D4+A4@1>1 G4@2>1 D4@3>2 G3@4>1 B3@5>2
+  bass   : G1@1>3 D2@4>1 E2@5>2
+@68 [D]
+  piano  : D3+A3@1>6 F#3@2>1 E4@3>2 D4@4>2 A3@5>1 F#4@6>1
+  bass   : D2@1>6
+@69 [D | F#m]
+  piano  : D3+D4@1>3 F#3@2>3 A3@3>2
+  bass   : D2@1>2 A2@3>1 G2@4>1 F#2@5>2
+@70 [A]
+  piano  : C#3+A3@1>4 E3@2>2 A3+E4@3>3 C#4@6>1
+  bass   : C#2@1>6
+@71 [G] (grid:4)
+  piano  : B2+G3+D4@1>2
+  bass   : B1@1>2 D2@3>1
+@72 [Bm]
+  piano  : B2+D4@1>4 F#3@2>2 C#4@3>3 B3@4>2 F#3@5>2 D4@6>1
+  bass   : B1@1>5 C#2@6>1
+@73 [A | D]
+  piano  : A2+C#4@1>4 E3@2>2 A3@3>2 F#3@6>1
+  bass   : A1@1>4 D2@5>2
+@74 [G]
+  piano  : G2+F#3+B3@1>2 D3@2>1 G3@3>1 B3@4>1 D4@5>2 G4@6>1
+  bass   : G1@1>6
+@75 [G]
+  piano  : D4+A4@1>1 G4@2>2 D4@4>1 E4@5>1
+  bass   : G1@1>6
+@76 [Em]
+  piano  : E3+G3+B3+E4@1>2 E3+G3+B3+E4@3>3 E3+G3+B3@5>1 D4@6>1
+  bass   : E2@1>6
+@77 [Em] (grid:24t)
+  piano  : E3+G3+B3+E4@1>10 B3@4>9 E3+G3@7>3 E3+G3@13>2 E4@16>3
+  bass   : E2@1>18 F#2@16>2 G2@17>2
+@78 [Bm] (grid:4)
+  piano  : B2+F#3+D4+F#4@1>1 B2+F#3+E4@2>1 B2+F#3+D4@3>1
+  bass   : B1@1>3
+@79 [B | C#aug] (grid:4)
+  piano  : B2+F#3+B3@1>2 B2+F#3@2>1 C#3+A3+C#4@3>1
+  bass   : B1@1>2 C#2@3>1
+@80 [D]
+  piano  : D3+D4@1>5 F#3@2>1 A3@3>2 F#3@4>1 D4@5>2 A3@6>1
+  bass   : D2@1>4 E2@5>1 C#2@6>1
+@81 [A]
+  piano  : A2+C#4@1>5 E3@2>1 D4@3>2 C#4@5>1
+  bass   : A1@1>6
+@82 [G]
+  piano  : G2+A3+C#4@1>5 B3@2>3 D3@3>2 G3@4>2 A3@5>2 D3@6>1
+  bass   : G1@1>6
+@83 [Em | G]
+  piano  : G2+A3+E4@1>5 D3@3>3 G3@4>1 A3+E4@5>1 G3@6>1
+  bass   : G1@1>6
+@84 [G]
+  piano  : G2+B3+D4+G4@1>5 D3@3>3 G3@4>1 B3+D4+G4@5>1 G3@6>1
+  bass   : G1@1>6
+@85 [G]
+  piano  : G2+B3+D4@1>5 D3@2>4 B3+D4+F#4@3>2 G3@4>2 B3+D4+G4@5>1
+  bass   : G1@1>1 B1@2>1 D2@3>2 C#2@5>1 B1@6>1
+@86 [D]
+  piano  : D2+A4@1>5 A2@2>1 D3+D4+F#4@3>4 A2@5>2 F#4@6>1
+  guitar : E5@1>6
+  bass   : D1@1>6
+  strings: D4@1>6
+  cello  : D4@1>6
+@87 [D]
+  piano  : D2+A4@1>5 A2@2>4 D4+F#4@3>1 D3@4>1 D4+F#4@5>1 D3+D4@6>1
+  guitar : D5@1>4
+  bass   : D1@1>5 A1@6>1
+  strings: D4@1>4 E4@5>1 G4@6>1
+  cello  : D4@1>4 E4@5>1 G4@6>1
+@88 [F#m]
+  piano  : F#2+A4@1>4 C#3@2>4 C#4+F#4+A4@3>2 F#3@5>2 B4@6>1
+  guitar : E5@1>6
+  bass   : F#1+B1@1>6
+  strings: F#4@1>6
+  cello  : F#4@1>6
+@89 [D7 | F#m]
+  piano  : F#2+C#4+B4@1>4 A4@2>1 C#3+C#4+F#4@3>3 F#3@4>2 C#4@5>1 F#4@6>1
+  guitar : D5@1>5
+  bass   : F#1@1>4 A1@5>1 B1@6>1
+  strings: F#4@1>2 D5@3>2 C#5@4>1 B4@5>1 A4@6>1
+  cello  : F#4@1>2 D5@3>2 C#5@4>1 B4@5>1 A4@6>1
+@90 [G]
+  piano  : G2+A4@1>4 D3@2>1 G3+B3+D4+G4@3>4 D3@5>2 F#4@6>1
+  bass   : G1@1>6
+  strings: G4@1>6
+  cello  : G4@1>6
+@91 [Em | G] (grid:24t)
+  piano  : G2+E4@1>10 D3@4>3 G3@7>10 D3@10>3 F#4@13>3 G4@16>3
+  bass   : G1@1>10 G2@10>3 D2@13>4
+  strings: G4@1>12 E4@13>3 A4@15>4
+  cello  : G4@1>12 E4@13>3 A4@15>4
+@92 [C7 | Edim]
+  piano  : C3+A4@1>5 E3@2>3 G3+G4@3>2 F#4@5>2
+  bass   : C2@1>6
+  strings: Bb4@1>6
+  cello  : Bb4@1>6
+@93 [C7] (grid:16)
+  piano  : C3+F#4@1>11 E4@2>1 D4@3>6 E3@5>6 G3@7>1 E4@9>4 A3@11>1
+  bass   : C2@1>4 G2@5>4 Bb2@9>4
+  strings: Bb4@1>4 C5@5>5 D5@9>4
+  cello  : Bb4@1>4 C5@5>5 D5@9>4
+@94 [D]
+  piano  : D2+A4@1>4 A2@2>1 D3+D4+F#4@3>3 A2@5>2 F#4@6>1
+  guitar : E5@1>6
+  bass   : D1@1>6
+  strings: D5@1>6
+  cello  : D5@1>6
+@95 [D]
+  piano  : D2+D4+A4@1>4 A2@2>3 D3+D4+F#4@3>2 D3+F#4@5>1 D4@6>1
+  guitar : D5@1>4
+  bass   : D1@1>3 A1@4>1 D2@5>2
+  strings: D5@1>4 C#5@5>1 B4@6>1
+  cello  : D5@1>4 C#5@5>1 B4@6>1
+@96 [F#m]
+  piano  : F#2+A4@1>5 C#3@2>5 C#4+F#4+A4@3>3 F#3@5>2 C#4+F#4@6>1
+  guitar : E5@1>6
+  bass   : F#1@1>5
+  strings: A4@1>6
+  cello  : A4@1>6
+@97 [F#m]
+  piano  : F#2+C#4+B4@1>4 A4@2>1 C#3+F#4@3>3 F#3@4>2 C#4@5>1 F#4@6>1
+  guitar : D5@1>5
+  bass   : F#1@1>3 C#2@4>1 F#2@5>2
+  strings: A4@1>6
+  cello  : A4@1>6
+@98 [G]
+  piano  : G2+F#4+A4@1>4 D3@2>2 B3+D4+G4@3>4 G3@4>3 F#4@5>2 D3@6>1
+  bass   : G1@1>6
+  strings: B4@1>6
+  cello  : B4@1>6
+@99 [Em7 | G]
+  piano  : G2+E4@1>4 D3@3>2 G3@4>2 F#4@5>1 G4@6>1
+  bass   : G1@1>2 D2@3>2 G2@5>2
+  strings: B4@1>6
+  cello  : B4@1>6
+@100 [Am7 | C] (grid:12t)
+  piano  : C3+D4+A4@1>9 G4@4>5 F#4@9>2
+  bass   : C2@1>9
+  strings: C5@1>9
+  cello  : C5@1>9
+@101 [C]
+  piano  : C3+E4+F#4@1>2 D4@2>2
+  bass   : C2@1>6
+  strings: C5@1>6
+  cello  : C5@1>6
+@102 [D]
+  piano  : D3+A4@1>5 F#3@2>1 A3+E5@3>4 D4@4>1 A3@5>2 F#5@6>1
+  bass   : D2@1>6
+  strings: D5+D6@1>6
+@103 [D]
+  piano  : D4+D5@1>2 A3@2>1 D3+A4@3>2 D4@5>2
+  bass   : D2@1>3 G2@4>1 F#2@5>2
+  strings: D5+D6@1>6
+@104 [Am | D7]
+  piano  : C3+A4@1>5 F#3@2>1 C4+E5@3>3 F#3@4>1 A3@5>1 C4+F#5@6>1
+  bass   : C2@1>6
+  strings: D5+D6@1>6
+@105 [D7]
+  piano  : C4+D5@1>2 A3@2>3 A4@3>3 C4@5>2
+  bass   : C2@1>4 D2@5>1 E2@6>1
+  strings: D5+D6@1>6
+@106 [G | Bm]
+  piano  : B2+A4@1>2 G3@2>2 A3+E5@3>3 B3@4>1 D3@5>1 F#5@6>1
+  bass   : B1@1>6
+  strings: D5+D6@1>6
+@107 [D7 | Daug]
+  piano  : C3+D5@1>2 F#3@2>1 A3+C5@3>2 D4@4>1 E4+Bb4@5>1
+  bass   : C2@1>6
+  strings: D5+D6@1>6
+@108 [D]
+  piano  : D3+F#4+A4@1>2 A3@2>1 D4@3>1 E4@4>3 F#4+A4@5>2 D5@6>1
+  bass   : D2@1>6
+  strings: D3+D4+D5+F#5+A5+D6@1>6
+@109 [D] (grid:4)
+  piano  : E4+F#4+A4+D5+E5@1>1
+  bass   : D2@1>3
+  strings: D3+D4+D5+F#5+A5+D6@1>3
+@110 [D] (grid:4)
+  bass   : D2@1>3
+@111 [D] (grid:4)
+  bass   : D2@1>1

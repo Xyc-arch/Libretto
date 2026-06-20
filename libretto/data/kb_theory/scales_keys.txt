@@ -1,0 +1,372 @@
+# kb_theory: scales, modes & keys
+
+CONCEPT: Major scale
+ID: TS-MAJOR-SCALE
+CATEGORY: scale
+LEVEL: beginner
+WHAT: The major scale is the bright, "happy" default scale. Formula of whole/half steps:
+W-W-H-W-W-W-H (intervals 1-2-3-4-5-6-7-8). Shown here in C: C D E F G A B C.
+The two half steps (E-F and B-C) give it its stable, resolved sound.
+CHALLENGE: Play eight even quarter-notes ascending one octave, keeping steady tempo and tone.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 F4@13>4
+@2 [G]
+  Piano: G4@1>4 A4@5>4 B4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Natural minor scale
+ID: TS-NATURAL-MINOR
+CATEGORY: scale
+LEVEL: beginner
+WHAT: The natural minor scale sounds sad/dark. Formula: W-H-W-W-H-W-W.
+Shown in A: A B C D E F G A. Flatted 3rd, 6th and 7th relative to the major scale
+give it its melancholy color. Same notes as C major but starting on A (relative minor).
+CHALLENGE: Play eight even quarter-notes ascending; hear the lowered 3rd/6th/7th vs major.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Am]
+  Piano: A3@1>4 B3@5>4 C4@9>4 D4@13>4
+@2 [Em]
+  Piano: E4@1>4 F4@5>4 G4@9>4 A4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Harmonic minor scale
+ID: TS-HARMONIC-MINOR
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: Natural minor with a RAISED 7th degree, creating a leading tone back to the tonic.
+In A: A B C D E F G# A. The augmented-2nd gap between b6 (F) and #7 (G#) gives the
+exotic, dramatic, "Middle-Eastern" flavor and a strong pull to the tonic.
+CHALLENGE: Negotiate the wide augmented-2nd leap (F to G#) smoothly and in time.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Am]
+  Piano: A3@1>4 B3@5>4 C4@9>4 D4@13>4
+@2 [E]
+  Piano: E4@1>4 F4@5>4 G#4@9>4 A4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Melodic minor scale (ascending)
+ID: TS-MELODIC-MINOR
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: Ascending melodic minor RAISES both the 6th and 7th degrees vs natural minor,
+smoothing the path to the tonic. In A: A B C D E F# G# A. (Classically the descending
+form reverts to natural minor; this entry shows the ascending form only.)
+CHALLENGE: Play ascending one octave raising 6 and 7; keep the top tetrachord smooth.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Am]
+  Piano: A3@1>4 B3@5>4 C4@9>4 D4@13>4
+@2 [E]
+  Piano: E4@1>4 F#4@5>4 G#4@9>4 A4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Major pentatonic scale
+ID: TS-MAJOR-PENTATONIC
+CATEGORY: scale
+LEVEL: beginner
+WHAT: A 5-note scale: the major scale with the 4th and 7th removed (1-2-3-5-6).
+In C: C D E G A C. No half steps, so it has an open, folk/singalong sound and avoids
+dissonance — every note sounds "right" over the home chord.
+CHALLENGE: Play the 6 notes (5 + octave) evenly; feel the gaps where 4 and 7 are skipped.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 G4@13>4
+@2 [C]
+  Piano: A4@1>4 C5@9>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Minor pentatonic scale
+ID: TS-MINOR-PENTATONIC
+CATEGORY: scale
+LEVEL: beginner
+WHAT: A 5-note scale, the backbone of blues and rock soloing. Formula 1-b3-4-5-b7.
+In A: A C D E G A. Easy to improvise with — all notes sit well over a minor or
+blues groove.
+CHALLENGE: Play the 6 notes evenly ascending; this is the core shape for rock/blues licks.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Am]
+  Piano: A3@1>4 C4@5>4 D4@9>4 E4@13>4
+@2 [Am]
+  Piano: G4@1>4 A4@9>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Blues scale
+ID: TS-BLUES-SCALE
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: The minor pentatonic with an added "blue note" (the b5/#4) between the 4th and 5th.
+In A: A C D Eb E G A. The chromatic Eb-E gives the gritty, expressive blues inflection.
+CHALLENGE: Squeeze the chromatic blue note (Eb to E) in tightly without rushing.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Am]
+  Piano: A3@1>4 C4@5>4 D4@9>4 Eb4@13>4
+@2 [Am]
+  Piano: E4@1>4 G4@5>4 A4@9>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Chromatic scale
+ID: TS-CHROMATIC-SCALE
+CATEGORY: scale
+LEVEL: beginner
+WHAT: All 12 pitches in order, each a half step apart: C C# D D# E F F# G G# A A# B C.
+No tonal hierarchy — every note is equidistant. Useful for runs, ornaments and
+modulation. Shown here as 12 eighth-notes plus the octave.
+CHALLENGE: Play 12 even half-steps ascending with smooth finger crossings, no bumps.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 C#4@3>2 D4@5>2 D#4@7>2 E4@9>2 F4@11>2 F#4@13>2 G4@15>2
+@2 [C]
+  Piano: G#4@1>2 A4@3>2 A#4@5>2 B4@7>2 C5@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Whole-tone scale
+ID: TS-WHOLE-TONE
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: A 6-note scale built entirely of whole steps: C D E F# G# A# C. Having no half
+steps and no perfect 5th, it sounds ambiguous, floating and dreamy (impressionist /
+Debussy color). There are only two distinct whole-tone scales.
+CHALLENGE: Play six equal whole steps; notice there is no "home" — the sound is suspended.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 F#4@13>4
+@2 [C]
+  Piano: G#4@1>4 A#4@5>4 C5@9>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Dorian mode
+ID: TS-DORIAN
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: The 2nd mode of the major scale; a minor mode with a RAISED 6th (1-2-b3-4-5-6-b7).
+D Dorian uses only white keys: D E F G A B C D. Minor but brighter/jazzier than natural
+minor thanks to the natural 6th (B). Common in folk, jazz and modal rock.
+CHALLENGE: Hear the minor 3rd but bright natural 6th; play evenly up one octave.
+GRAMMAR-BEGIN
+KEY: D minor | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Dm]
+  Piano: D4@1>4 E4@5>4 F4@9>4 G4@13>4
+@2 [Dm]
+  Piano: A4@1>4 B4@5>4 C5@9>4 D5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Phrygian mode
+ID: TS-PHRYGIAN
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: The 3rd mode of the major scale; a minor mode with a LOWERED 2nd (1-b2-b3-4-5-b6-b7).
+E Phrygian uses only white keys: E F G A B C D E. The flat 2nd (F right above E) gives
+the dark, tense, Spanish/flamenco color.
+CHALLENGE: Lead off with the half step E-F to feel the Phrygian "Spanish" tension.
+GRAMMAR-BEGIN
+KEY: E minor | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Em]
+  Piano: E4@1>4 F4@5>4 G4@9>4 A4@13>4
+@2 [Em]
+  Piano: B4@1>4 C5@5>4 D5@9>4 E5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Lydian mode
+ID: TS-LYDIAN
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: The 4th mode of the major scale; major with a RAISED 4th (1-2-3-#4-5-6-7).
+F Lydian uses only white keys: F G A B C D E F. The sharp 4th (B over F) gives a
+bright, floating, "magical/film-score" lift vs the plain major scale.
+CHALLENGE: Highlight the raised 4th (B) — the one note that makes it Lydian, not major.
+GRAMMAR-BEGIN
+KEY: F major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [F]
+  Piano: F4@1>4 G4@5>4 A4@9>4 B4@13>4
+@2 [C]
+  Piano: C5@1>4 D5@5>4 E5@9>4 F5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Mixolydian mode
+ID: TS-MIXOLYDIAN
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: The 5th mode of the major scale; major with a LOWERED 7th (1-2-3-4-5-6-b7).
+G Mixolydian uses only white keys: G A B C D E F G. The flat 7th (F) gives the
+dominant, bluesy/rock sound — bright but not fully resolved.
+CHALLENGE: Hear the lowered 7th (F natural) replacing the leading tone; keep it even.
+GRAMMAR-BEGIN
+KEY: G major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [G]
+  Piano: G3@1>4 A3@5>4 B3@9>4 C4@13>4
+@2 [G]
+  Piano: D4@1>4 E4@5>4 F4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Aeolian mode
+ID: TS-AEOLIAN
+CATEGORY: scale
+LEVEL: beginner
+WHAT: The 6th mode of the major scale — IDENTICAL to the natural minor scale
+(1-2-b3-4-5-b6-b7). A Aeolian uses only white keys: A B C D E F G A. Listed as a mode
+to show its place in the modal system; sound and notes equal natural minor.
+CHALLENGE: Play the natural-minor octave evenly; recognize Aeolian = natural minor.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Am]
+  Piano: A3@1>4 B3@5>4 C4@9>4 D4@13>4
+@2 [Em]
+  Piano: E4@1>4 F4@5>4 G4@9>4 A4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Locrian mode
+ID: TS-LOCRIAN
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: The 7th mode of the major scale; the darkest/most unstable mode
+(1-b2-b3-4-b5-b6-b7). B Locrian uses only white keys: B C D E F G A B. The diminished
+5th (F over B) means the tonic chord is diminished — it never feels resolved/at rest.
+CHALLENGE: Sit with the unstable b5 (F over B); the scale resists feeling "home".
+GRAMMAR-BEGIN
+KEY: B minor | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Bdim]
+  Piano: B3@1>4 C4@5>4 D4@9>4 E4@13>4
+@2 [Bdim]
+  Piano: F4@1>4 G4@5>4 A4@9>4 B4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: C major (key)
+ID: TS-KEY-C-MAJOR
+CATEGORY: key
+LEVEL: beginner
+WHAT: C major has NO sharps or flats — all white keys. Scale: C D E F G A B C.
+The most common beginner key because there are no accidentals to read or finger.
+Relative minor is A minor.
+CHALLENGE: Play the C-major octave on all white keys; the reference "no accidentals" key.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 F4@13>4
+@2 [G]
+  Piano: G4@1>4 A4@5>4 B4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: G major (key)
+ID: TS-KEY-G-MAJOR
+CATEGORY: key
+LEVEL: beginner
+WHAT: G major has ONE sharp: F#. Scale: G A B C D E F# G. The single accidental (F#)
+keeps the leading-tone half step intact. Relative minor is E minor.
+CHALLENGE: Remember the single sharp (F#); every F in the key is played as F#.
+GRAMMAR-BEGIN
+KEY: G major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [G]
+  Piano: G3@1>4 A3@5>4 B3@9>4 C4@13>4
+@2 [D]
+  Piano: D4@1>4 E4@5>4 F#4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: F major (key)
+ID: TS-KEY-F-MAJOR
+CATEGORY: key
+LEVEL: beginner
+WHAT: F major has ONE flat: Bb. Scale: F G A Bb C D E F. The flatted 4th degree (Bb)
+is the only accidental. Relative minor is D minor.
+CHALLENGE: Remember the single flat (Bb); every B in the key is played as Bb.
+GRAMMAR-BEGIN
+KEY: F major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [F]
+  Piano: F4@1>4 G4@5>4 A4@9>4 Bb4@13>4
+@2 [C]
+  Piano: C5@1>4 D5@5>4 E5@9>4 F5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: A minor (key)
+ID: TS-KEY-A-MINOR
+CATEGORY: key
+LEVEL: beginner
+WHAT: A minor is the relative minor of C major — NO sharps or flats, all white keys.
+Natural-minor scale: A B C D E F G A. Shares its key signature with C major but centers
+on A, giving a sad/dark tonal home.
+CHALLENGE: Play the white-key minor octave from A; same notes as C major, different home.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Am]
+  Piano: A3@1>4 B3@5>4 C4@9>4 D4@13>4
+@2 [Em]
+  Piano: E4@1>4 F4@5>4 G4@9>4 A4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: E minor (key)
+ID: TS-KEY-E-MINOR
+CATEGORY: key
+LEVEL: beginner
+WHAT: E minor has ONE sharp: F# (relative minor of G major). Natural-minor scale:
+E F# G A B C D E. A favorite key on guitar and a common beginner minor key on piano.
+CHALLENGE: Keep the single sharp (F#) in mind on an otherwise white-key minor scale.
+GRAMMAR-BEGIN
+KEY: E minor | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Em]
+  Piano: E4@1>4 F#4@5>4 G4@9>4 A4@13>4
+@2 [Bm]
+  Piano: B4@1>4 C5@5>4 D5@9>4 E5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: D minor (key)
+ID: TS-KEY-D-MINOR
+CATEGORY: key
+LEVEL: beginner
+WHAT: D minor has ONE flat: Bb (relative minor of F major). Natural-minor scale:
+D E F G A Bb C D. The flatted 6th degree (Bb) is the only accidental.
+CHALLENGE: Hold the single flat (Bb) on the way up the D-minor octave.
+GRAMMAR-BEGIN
+KEY: D minor | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Dm]
+  Piano: D4@1>4 E4@5>4 F4@9>4 G4@13>4
+@2 [Am]
+  Piano: A4@1>4 Bb4@5>4 C5@9>4 D5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Beginner-friendly keys for piano
+ID: TS-KEY-BEGINNER-FRIENDLY
+CATEGORY: key
+LEVEL: beginner
+WHAT: The easiest keys to start on have few accidentals: C major (none) and its relative
+A minor (none); G major (1#: F#) and E minor (1#: F#); F major (1b: Bb) and D minor
+(1b: Bb). Few accidentals means simpler reading and fingering. The grammar shows a short
+C-major then A-minor scale pair (same notes, different tonal center).
+CHALLENGE: Practice scales in these low-accidental keys first; bar 1 C major, bar 2 A minor.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F4@7>2 G4@9>2 A4@11>2 B4@13>2 C5@15>2
+@2 [Am]
+  Piano: A3@1>2 B3@3>2 C4@5>2 D4@7>2 E4@9>2 F4@11>2 G4@13>2 A4@15>2
+GRAMMAR-END
+================================================================================

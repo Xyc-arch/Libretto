@@ -1,0 +1,857 @@
+KEY: C major | METER: 4/4 | TEMPO: 191 | GRID: 24t (adaptive) | BARS: 135
+VOICES: Piano, Bass, Strings, Melody, Guitar Solo, Part6, Part7, Rhythm Guitar
+@1 [-]
+@2 [G | Am] (grid:4)
+  Piano        : G1@2>1 A1@3>1 B1@4>1
+  Bass         : G1@2>1 A1@3>1 B1@4>1
+  Guitar Solo  : B4@2>1 C5@3>1 D5@4>1
+@3 [C]
+  Piano        : C2@1>6 G3+C4+E4@7>3 G1@13>10 G3+C4+E4@19>6
+  Bass         : C2@1>6 C2@10>2 G1@13>10
+  Strings      : E4+G4+C5@1>22
+  Guitar Solo  : E5@1>9 E5@11>6 E5@21>4
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@4 [C7] (grid:8)
+  Piano        : C2@1>2 G3+Bb3+C4+E4@3>1 D2@5>2 E2+G3+Bb3+C4+E4@7>2
+  Bass         : C2@1>2 C2@4>1 D2@5>2 E2@7>2
+  Strings      : E4+G4+Bb4+C5@1>8
+  Guitar Solo  : E5@1>3 D5@5>2 C5@7>1
+  Rhythm Guitar: G3+Bb3+C4+E4@3>2 G3+Bb3+C4+E4@7>2
+@5 [F] (grid:8)
+  Piano        : F2@1>2 A3+C4+F4@3>2 C2@5>4 A3+C4+F4@7>2
+  Bass         : F2@1>2 F2@4>1 C2@5>4
+  Strings      : F4+A4+C5@1>8
+  Guitar Solo  : A4@1>4 C5@5>2
+  Rhythm Guitar: A3+C4+F4@3>2 A3+C4+F4@7>2
+@6 [F] (grid:8)
+  Piano        : F2@1>2 A3+C4+F4@3>2 E2@5>2 D2+A3+C4+F4@7>2
+  Bass         : F2@1>2 F2@4>1 E2@5>2 D2@7>2
+  Strings      : F4+A4+C5@1>8
+  Guitar Solo  : D5@1>4 B4@5>2 A4@7>2
+  Rhythm Guitar: A3+C4+F4@3>2 A3+C4+F4@7>2
+@7 [C] (grid:8)
+  Piano        : C2@1>2 G3+C4+E4@3>2 G1@5>2 C2+G3+C4+E4@7>2
+  Bass         : C2@1>2 C2@4>1 G1@5>2 C2@7>2
+  Strings      : E4+G4+C5@1>8
+  Guitar Solo  : G4@1>3 C5@5>2 G4@8>1
+  Rhythm Guitar: G3+C4+E4@3>2 G3+C4+E4@7>2
+@8 [G7] (grid:8)
+  Piano        : G2@1>2 F3+G3+B3+D4@3>2 D2@5>4 F3+G3+B3+D4@7>1
+  Bass         : G2@1>2 G2@4>1 D2@5>4
+  Strings      : D4+F4+G4+B4@1>7
+  Guitar Solo  : F5@1>2 D5@3>2 C5@5>4
+  Rhythm Guitar: G3+B3+D4+G4@3>2 G3+B3+D4+G4@7>2
+@9 [C] (grid:8)
+  Piano        : C2+G3+C4+E4@1>8
+  Bass         : C2@1>2 C2@4>1 C2@5>4
+  Strings      : E4+G4+C5@1>8
+  Guitar Solo  : C5@1>6
+  Part6        : G4+D5@5>1 G4+E5@6>1 G4+D5@8>1
+  Rhythm Guitar: G3+C4+E4@1>7
+@10 [C]
+  Piano        : G3+C4+E4@9>8
+  Bass         : C2@1>15 G2@19>4
+  Part6        : G4+E5@1>3 G4+C5@4>2 E4+A4@7>3 E4+G4@10>2 E4+A4@13>3 E4+B4@16>2 E4+A4@19>3 E4+G4@22>2
+@11 [C | Dm7] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Guitar Solo  : C5+E5@1>4 D5+F5@5>4
+  Part6        : C4+E4+G4+C5+E5@1>2 C4+E4@4>1 C4+F4+G4+C5+F5@5>3 D4@6>2
+@12 [C | F] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Guitar Solo  : E5+G5@1>4 F5+A5@5>4
+  Part6        : C4+E4+G4+C5+E5@1>2 C4+E4@4>1 C4+F4+G4+C5+F5@5>3 D4@6>2
+@13 [C | Dm] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Guitar Solo  : E5+G5@1>4 D5+F5@5>4
+  Part6        : C4+E4+G4+C5+E5@1>2 C4+E4@4>1 F4+G4+C5+F5@5>3 D4@6>2
+@14 [C | G] (grid:12t)
+  Piano        : G1+G2@8>2 A1+A2@11>2
+  Bass         : C2@1>2 G1@4>2 A1@7>2 B1@10>2
+  Guitar Solo  : C5+E5@1>11
+  Part6        : C4+E4+G4+C5+E5@1>1 G3+G4+B4+D5@4>8 A3@7>2 B3@10>2
+@15 [C]
+  Piano        : B1+B2@3>4 C2@9>6 G3+C4+E4@15>3 C2@21>10
+  Bass         : C2@1>6 C2@10>2 C2@13>10
+  Strings      : E4+G4+C5@1>22
+  Melody       : G4@1>3 E5@7>3 D5@10>8 C5@19>3
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@16 [G7]
+  Piano        : G3+C4+E4@3>4 G2@9>6 G3+B3+D4@15>6 F2@21>10
+  Bass         : G2@1>6 G2@10>2 F2@13>10
+  Strings      : D4+G4+B4@1>10 F4+A4+C5@13>6 D4+G4+B4@19>4
+  Melody       : B4@1>4 C5@7>2 A4@10>6 B4@16>6
+  Rhythm Guitar: G3+B3+D4+G4@7>6 G3+B3+D4+G4@19>6
+@17 [C] (grid:12t)
+  Piano        : G3+B3+D4@2>2 C2@5>3 G3+C4+E4@8>2 G2@11>5
+  Bass         : C2@1>3 C2@5>1 G2@7>5
+  Strings      : E4+G4+C5@1>12
+  Melody       : G4@1>12
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@18 [C7] (grid:12t)
+  Piano        : G3+C4+E4@2>2 C2@5>3 G3+C4+E4@8>2 C2@11>2
+  Bass         : C2@1>3 C2@5>1 C2@7>2 D2@10>2
+  Strings      : E4+G4+C5@1>8 D4+F4+G4+B4@10>3
+  Melody       : E5@6>3 F5@10>1 G5@12>1
+  Rhythm Guitar: G3+C4+E4@4>3 B3+D4+F4+G4@10>3
+@19 [Em]
+  Piano        : D2+F3+G3+B3+D4@3>4 E2@9>6 G3+B3+E4@15>4 E2@21>10
+  Bass         : E2@1>6 E2@10>2 E2@13>10
+  Strings      : E4+G4+B4@1>24
+  Melody       : G5@1>4 G5@7>2 G5@10>3 E5@16>4
+  Rhythm Guitar: G3+B3+E4@7>6 G3+B3+E4@19>6
+@20 [Dm | G7] (grid:12t)
+  Piano        : G3+B3+E4@2>2 D2@5>4 A3+C4+D4+F4@8>2 G2@11>6
+  Bass         : D2@1>3 D2@5>1 G2@7>6
+  Strings      : D4+F4+A4+C5@1>5 D4+F4+G4+B4@7>5
+  Melody       : D5@1>3 E5@4>2 F5@7>1 D5@9>2 E5@12>1
+  Rhythm Guitar: A3+C4+D4+F4@4>3 B3+D4+F4+G4@10>3
+@21 [C] (grid:12t)
+  Piano        : F3+G3+B3+D4@2>2 C2@5>4 G3+C4+E4@8>2 G2@11>6
+  Bass         : C2@1>4 C2@5>1 G2@7>6
+  Strings      : E4+G4+C5@1>12
+  Melody       : E5@1>10
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@22 [C] (grid:12t)
+  Piano        : G3+C4+E4@2>2 C2@5>4 G3+C4+E4@8>2 D2@11>2
+  Bass         : C2@1>4 C2@5>1 D2@7>2 E2@10>2
+  Strings      : E4+G4+C5@1>5 F4+Bb4+D5@7>3 E4+G4+C5@10>2
+  Melody       : F5@7>3 G5@10>2
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@23 [F]
+  Piano        : E2+G3+C4+E4@3>4 F2@9>8 A3+C4+F4@15>4 F2@21>10
+  Bass         : F2@1>8 F2@10>2 F2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : A5@1>6 A5@10>8 F5@19>3
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@24 [G7] (grid:16)
+  Piano        : A3+C4+F4@2>1 G2@6>5 F3+G3+B3+D4@10>4 G2@12>1 G2@14>3
+  Bass         : G2@1>5 G2@7>1 G2@9>3 F2@13>4
+  Strings      : D4+F4+G4+B4@1>15
+  Melody       : D5@1>7 D5@9>2 A5@13>4
+  Rhythm Guitar: G3+B3+D4+G4@5>4 G3+B3+D4+G4@13>4
+@25 [Em | Bm7]
+  Piano        : F2+F3+G3+B3+D4@3>6 E2@9>6 G3+B3+E4@15>6 D2@21>12
+  Bass         : E2@1>6 E2@10>2 D2@13>12
+  Strings      : E4+G4+B4@1>12 F4+A4+B4+D5@13>10
+  Melody       : G5@1>9 F5@13>2 G5@16>6
+  Rhythm Guitar: G3+B3+E4@7>6 A3+B3+D4+F4@19>6
+@26 [A]
+  Piano        : A3+B3+D4+F4@3>4 A1@9>8 A3+C#4+E4@15>6 A1@21>6
+  Bass         : A1@1>6 A1@10>2 A1@13>6 E2@19>6
+  Strings      : E4+A4+C#5@1>22
+  Melody       : E5@1>12 D5@16>2 E5@19>3
+  Rhythm Guitar: A3+C#4+E4@7>6 A3+C#4+E4@19>6
+@27 [Dm]
+  Piano        : E2+A3+C#4+E4@3>6 D2@9>8 A3+D4+F4@15>3 A1@21>10
+  Bass         : D2@1>8 D2@10>2 A1@13>10
+  Strings      : F4+A4+D5@1>22
+  Melody       : F5@7>3 F5@13>3 E5@19>3 F5@22>3
+  Rhythm Guitar: A3+D4+F4@7>8 A3+D4+F4@19>6
+@28 [Dm7]
+  Piano        : A3+D4+F4@3>6 D2@9>6 A3+C4+D4+F4@15>4 A1@21>4
+  Bass         : D2@1>6 D2@10>2 A1@13>4 D2@19>6
+  Strings      : F4+A4+C5+D5@1>12 D4+F4+G#4+C5@13>10
+  Melody       : F5@1>2 E5@7>2 D5@13>3 C5@19>2 G4@22>3
+  Rhythm Guitar: A3+C4+D4+F4@7>6 G#3+C4+D4+F4@19>6
+@29 [G] (grid:12t)
+  Piano        : D2+G#3+C4+D4+F4@2>3 G2@5>3 G3+C4+F4@8>3 D2@11>5
+  Bass         : G2@1>3 G2@5>1 D2@7>5
+  Strings      : D4+F4+G4+C5@1>11
+  Melody       : G4@1>11
+  Rhythm Guitar: G3+C4+D4+G4@4>3 G3+C4+D4+G4@10>3
+@30 [G7] (grid:12t)
+  Piano        : G3+C4+F4@2>2 G2+G3+B3+D4@5>3 G1+G2@8>2 A1+A2@11>2
+  Bass         : G2@1>2 G1@4>2 A1@7>2 B1@10>2
+  Strings      : D4+F4+G4+B4@1>11
+  Part7        : B3@4>3 C4@7>3 D4@10>3
+  Rhythm Guitar: B3+D4+F4+G4@4>3 B3+D4+F4+G4@10>3
+@31 [C] (grid:12t)
+  Piano        : B1+B2@2>2 C2@5>3 G3+C4+E4@8>2 C2@11>5
+  Bass         : C2@1>3 C2@5>1 C2@7>5
+  Strings      : E4+G4+C5@1>11
+  Melody       : G4@1>2 E5@4>3 D5@7>2 C5@10>2
+  Part7        : E4@1>12
+  Rhythm Guitar: B3+D4+F4+G4@1>1 G3+C4+E4@4>3 G3+C4+E4@10>3
+@32 [G | Bm7]
+  Piano        : G3+C4+E4@3>4 G2@9>6 G3+B3+D4@15>6 F2@21>10
+  Bass         : G2@1>6 G2@10>2 F2@13>10
+  Strings      : D4+G4+B4@1>10 F4+A4+C5@13>6 D4+G4+B4@19>4
+  Melody       : B4@1>3 C5@7>4 A4@13>4 B4@19>3 G4@22>3
+  Part7        : F4@1>24
+  Rhythm Guitar: G3+B3+D4+G4@7>6 G3+B3+D4+G4@19>6
+@33 [C] (grid:12t)
+  Piano        : G3+B3+D4@2>2 C2@5>3 G3+C4+E4@8>2 G2@11>5
+  Bass         : C2@1>3 C2@5>1 G2@7>5
+  Strings      : E4+G4+C5@1>12
+  Melody       : G4@1>12
+  Part7        : E4@1>5 C4@7>3 D4@10>3
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@34 [C7] (grid:12t)
+  Piano        : G3+C4+E4@2>2 C2@5>3 G3+C4+E4@8>2 C2@11>2
+  Bass         : C2@1>3 C2@5>1 C2@7>2 D2@10>2
+  Strings      : E4+G4+C5@1>8 D4+F4+G4+B4@10>3
+  Melody       : E5@6>3 F5@10>2
+  Part7        : E4@1>5 G3@7>6
+  Rhythm Guitar: G3+C4+E4@4>3 B3+D4+F4+G4@10>3
+@35 [Em]
+  Piano        : D2+F3+G3+B3+D4@3>4 E2@9>6 G3+B3+E4@15>4 E2@21>10
+  Bass         : E2@1>6 E2@10>2 E2@13>10
+  Strings      : E4+G4+B4@1>24
+  Melody       : G5@1>3 G5@4>4 G5@10>4 E5@16>9
+  Part7        : B3@1>22
+  Rhythm Guitar: G3+B3+E4@7>6 G3+B3+E4@19>6
+@36 [Dm7 | G7]
+  Piano        : G3+B3+E4@3>3 D2@9>6 A3+C4+D4+F4@15>4 G2@21>12
+  Bass         : D2@1>6 D2@10>2 G2@13>12
+  Strings      : D4+F4+A4+C5@1>10 D4+F4+G4+B4@13>10
+  Melody       : D5@1>3 E5@7>4 F5@13>2 D5@16>4 E5@22>3
+  Part7        : A3@1>10 D4@13>10
+  Rhythm Guitar: A3+C4+D4+F4@7>6 B3+D4+F4+G4@19>6
+@37 [C] (grid:12t)
+  Piano        : F3+G3+B3+D4@2>2 C2@5>4 G3+C4+E4@8>2 G2@11>6
+  Bass         : C2@1>4 C2@5>1 G2@7>6
+  Strings      : E4+G4+C5@1>12
+  Melody       : E5@1>10
+  Part7        : E4@1>12
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@38 [C] (grid:16)
+  Piano        : G3+C4+E4@2>2 C2@6>5 G3+C4+E4@10>3 C2@12>1 D2@14>3
+  Bass         : C2@1>5 C2@7>1 D2@9>3 E2@13>3
+  Strings      : E4+G4+C5@1>7 F4+Bb4+D5@9>4 E4+G4+C5@13>3
+  Melody       : F5@7>6 G5@13>2
+  Part7        : E4@1>1 F4@9>4 G4@13>4
+  Rhythm Guitar: G3+C4+E4@5>4 G3+C4+E4@13>4
+@39 [F]
+  Piano        : E2+G3+C4+E4@3>4 F2@9>8 A3+C4+F4@15>4 F2@21>10
+  Bass         : F2@1>8 F2@10>2 F2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : A5@1>8 A5@10>3 F5@16>8
+  Part7        : A4@1>24
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@40 [G7] (grid:16)
+  Piano        : A3+C4+F4@2>1 G2@6>5 F3+G3+B3+D4@10>4 G2@12>1 G2@14>3
+  Bass         : G2@1>5 G2@7>1 G2@9>3 F2@13>4
+  Strings      : D4+F4+G4+B4@1>15
+  Melody       : D5@1>5 D5@9>3 A5@12>4
+  Part7        : B4@1>16
+  Rhythm Guitar: G3+B3+D4+G4@5>4 G3+B3+D4+G4@13>4
+@41 [Em | Bm7]
+  Piano        : F2+F3+G3+B3+D4@3>6 E2@9>6 G3+B3+E4@15>6 D2@21>12
+  Bass         : E2@1>6 E2@10>2 D2@13>12
+  Strings      : E4+G4+B4@1>12 F4+A4+B4+D5@13>10
+  Melody       : G5@1>9 F5@13>2 G5@16>3 E5@22>3
+  Part7        : G4@1>12 F4@13>10
+  Rhythm Guitar: G3+B3+E4@7>6 A3+B3+D4+F4@19>6
+@42 [A] (grid:12t)
+  Piano        : A3+B3+D4+F4@2>2 A1@5>4 A3+C#4+E4@8>3 A1@11>3
+  Bass         : A1@1>3 A1@5>1 A1@7>3 E2@10>3
+  Strings      : E4+A4+C#5@1>11
+  Melody       : E5@1>4 D5@7>2 E5@10>2
+  Part7        : E4@1>10
+  Rhythm Guitar: A3+C#4+E4@4>3 A3+C#4+E4@10>3
+@43 [Dm7]
+  Piano        : E2+A3+C#4+E4@3>6 D2@9>8 A3+C4+D4+F4@15>3 A1@21>10
+  Bass         : D2@1>8 D2@10>2 A1@13>10
+  Strings      : F4+A4+C5+D5@1>22
+  Melody       : F5@1>6 E5@7>2 F5@10>4 E5@19>3 F5@22>3
+  Part7        : A3@1>22
+  Rhythm Guitar: A3+D4+F4@7>6 A3+D4+F4@19>6
+@44 [Dm7]
+  Piano        : A3+C4+D4+F4@3>6 D2@9>6 G#3+C4+D4+F4@15>4 A1@21>4
+  Bass         : D2@1>6 D2@10>2 A1@13>4 D2@19>6
+  Strings      : D4+F4+G#4+C5@1>21
+  Melody       : F5@1>2 E5@4>8 D5@13>4 C5@19>4
+  Part7        : G#3@1>22
+  Rhythm Guitar: A3+C4+D4+F4@7>6 A3+C4+D4+F4@19>6
+@45 [C] (grid:12t)
+  Piano        : D2+G#3+C4+D4+F4@2>3 G2@5>3 G3+C4+F4@8>3 D2@11>5
+  Bass         : G2@1>3 G2@5>1 D2@7>5
+  Strings      : D4+F4+G4+C5@1>11
+  Melody       : G4@4>9
+  Part7        : C4@1>11
+  Rhythm Guitar: G3+C4+D4+G4@4>3 G3+C4+D4+G4@10>3
+@46 [G7] (grid:12t)
+  Piano        : G3+C4+F4@2>2 G2+G3+B3+D4@5>3 G1+G2@8>2 A1+A2@11>2
+  Bass         : G2@1>2 G1@4>2 A1@7>2 B1@10>2
+  Strings      : D4+F4+G4+B4@1>11
+  Melody       : G4@1>1 E4+G4@4>3 A4+C5@7>2 B4+D5@10>2
+  Part7        : B3@1>2 B3@4>3 C4@7>3 D4@10>3
+  Rhythm Guitar: B3+D4+F4+G4@4>3 B3+D4+F4+G4@10>3
+@47 [C]
+  Piano        : B1+B2@3>4 C2@9>6 G3+C4+E4@15>4 G2@21>10
+  Bass         : C2@1>6 C2@10>2 G2@13>10
+  Strings      : E4+G4+C5@1>22
+  Melody       : C5+E5@7>3 C5+E5@13>6 C5+E5@19>2 C5+F5@22>3
+  Part7        : E4@1>24
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@48 [C] (grid:16)
+  Piano        : G3+C4+E4@2>3 C2@6>5 G3+Bb3+C4+E4@10>2 C2@12>1 D2@14>3
+  Bass         : C2@1>4 C2@7>1 D2@9>3 E2@13>3
+  Strings      : E4+G4+Bb4+C5@1>8 F4+A4+D5@9>3 E4+G4+C5@13>3
+  Melody       : C5+F5@1>3 C5+E5@5>2 A4+D5@7>3 A4+C5@11>2
+  Part7        : E4@1>2 E4+E5@5>4 F4+F5@9>4 G4+G5@13>4
+  Rhythm Guitar: G3+Bb3+C4+E4@5>4 G3+Bb3+C4+E4@13>4
+@49 [F]
+  Piano        : E2+G3+C4+E4@3>4 F2@9>8 A3+C4+F4@15>3 C2@21>10
+  Bass         : F2@1>8 F2@10>2 C2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : F5+A5@7>4 F5+A5@13>3 F5+A5@19>2 F5+Bb5@22>3
+  Part7        : A4+A5@1>24
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@50 [F7] (grid:16)
+  Piano        : A3+C4+F4@2>2 F2@6>5 A3+C4+F4@10>1 F2@12>1 E2@14>3
+  Bass         : F2@1>5 F2@7>1 E2@9>3 D2@13>3
+  Strings      : F4+Bb4+D5@1>3 F4+A4+C5@5>8 F4+A4+D5@13>4
+  Melody       : F5+Bb5@1>3 F5+A5@5>1 E5+G5@9>3 D5+F5@13>1 C5+E5@15>2
+  Part7        : F4+F5@1>8 C4+C5@9>8
+  Rhythm Guitar: A3+C4+F4@5>4 A3+D4+F4@13>4
+@51 [C]
+  Piano        : D2+A3+D4+F4@3>4 C2@9>6 G3+C4+E4@15>2 G2@21>4
+  Bass         : C2@1>6 C2@10>2 G2@13>4 C2@19>3
+  Strings      : E4+G4+C5@1>22
+  Melody       : C5+E5@1>4 E5+G5@7>3 E5+G5@13>3 C5+E5@19>3 A4+D5@22>3
+  Part7        : G3+G4@1>6 C4+C5@7>6 E4+E5@13>12
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@52 [Dm | G]
+  Piano        : C2+G3+C4+E4@3>3 D2@9>8 A3+D4+F4@15>2 G2@21>12
+  Bass         : D2@1>8 D2@10>2 G2@13>12
+  Strings      : F4+A4+D5@1>10 D4+G4+B4@13>10
+  Melody       : A4+D5@1>2 C5+E5@7>3 D5+F5@13>2 F5+A5@16>9
+  Part7        : D4+D5@1>12 B3+B4@13>12
+  Rhythm Guitar: A3+D4+F4@7>6 B3+D4+G4@19>6
+@53 [C] (grid:12t)
+  Piano        : G3+B3+D4@2>2 C2@5>4 G3+C4+E4@8>2 G2@11>6
+  Bass         : C2@1>4 C2@5>1 G2@7>6
+  Strings      : E4+G4+C5@1>11
+  Melody       : F5+A5@1>1 E5+G5@4>9
+  Part7        : E4+E5@1>4 C4+C5@7>3 E4+E5@9>1
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@54 [C7] (grid:12t)
+  Piano        : G3+C4+E4@2>1 C2@5>1 C2+G3+Bb3+C4+E4@8>2 D2@11>2
+  Bass         : C2@1>1 C2@4>2 D2@7>2 E2@10>2
+  Strings      : E4+G4+Bb4+C5@1>5 F4+Bb4+D5@7>3 E4+G4+C5@10>3
+  Melody       : E5+G5@1>2 D5+F5@7>2 E5+G5@10>2
+  Part7        : E4+E5@1>1 D4+D5@2>2 C4+C5@3>2 D4+D5@6>3 E4+E5@10>3
+  Rhythm Guitar: G3+Bb3+C4+E4@4>3 G3+C4+E4@10>3
+@55 [F]
+  Piano        : E2+G3+C4+E4@3>4 F2@9>8 A3+C4+F4@15>2 C2@21>10
+  Bass         : F2@1>8 F2@10>2 C2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : F5+A5@1>10 E5+G5@13>2 F5+A5@16>3 G5+B5@22>3
+  Part7        : F4+F5@1>12 C4+C5@13>10
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@56 [G]
+  Piano        : A3+C4+F4@3>3 G2@9>6 F3+G3+B3+D4@15>3 D2@21>10
+  Bass         : G2@1>6 G2@10>2 D2@13>10
+  Strings      : D4+F4+G4+B4@1>22
+  Melody       : G5+B5@1>9 F5+A5@13>3 G5+B5@16>8
+  Part7        : G4+G5@1>12 D4+D5@13>12
+  Rhythm Guitar: G3+B3+D4+G4@7>6 G3+B3+D4+G4@19>6
+@57 [C]
+  Piano        : F3+G3+B3+D4@3>2 C2@9>8 G3+C4+E4@15>2 G1@21>4
+  Bass         : C2@1>6 C2@10>2 G1@13>4 C2@19>4
+  Strings      : E4+G4+C5@1>21
+  Melody       : G5+C6@1>3 G5+C6@7>3 G5+C6@13>2 E5+G5@16>6 F5+A5@22>3
+  Part7        : C4+C5@1>10 G3+G4@13>12
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@58 [F] (grid:16)
+  Piano        : C2+G3+C4+E4@2>3 F2@6>4 A3+C4+F4@10>2 F2@12>1 E2@14>3
+  Bass         : F2@1>4 F2@7>1 E2@9>3 D2@13>3
+  Strings      : F4+A4+C5@1>7 E4+G4+C5@9>4 F4+A4+C5@13>4
+  Melody       : F5+A5@1>6 E5+G5@9>1 C5+F5@11>4
+  Part7        : A3+A4@1>7 F3+F4@9>7
+  Rhythm Guitar: A3+C4+F4@5>4 A3+C4+F4@13>4
+@59 [C] (grid:12t)
+  Piano        : D2+A3+C4+F4@2>2 C2@5>3 G3+C4+E4@8>2 G1@11>2
+  Bass         : C2@1>3 C2@5>1 G1@7>2 C2@10>2
+  Strings      : E4+G4+C5@1>11
+  Melody       : C5+E5@1>1 E5+G5@4>2 D5+F5@7>2 C5+E5@10>2
+  Part7        : E3+E4@1>5 G3+G4@7>6
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@60 [Dm7 | G]
+  Piano        : C2+G3+C4+E4@3>4 D2@9>8 A3+C4+D4+F4@15>2 A1@21>4
+  Bass         : D2@1>6 D2@10>2 A1@13>4 G1@19>4
+  Strings      : F4+A4+C5+D5@1>16 D4+F4+G4+B4@19>4
+  Melody       : A4+D5@1>6 G4+C5@13>3 G4+B4@16>3 G4+C5@22>3
+  Part7        : A3+A4@1>12 B3+B4@13>12
+  Rhythm Guitar: A3+C4+D4+F4@7>6 G3+B3+D4+G4@19>4
+@61 [C]
+  Piano        : G1+F3+G3+B3+D4@3>4 C2+G3+C4+E4@9>15
+  Bass         : C2@1>6 C2@10>2 C2@13>12
+  Melody       : G4+C5@1>21
+  Part6        : G4+D5@13>2 G4+E5@16>3 G4+D5@22>2
+  Part7        : C4+C5@1>14
+  Rhythm Guitar: G3+C4+E4@1>12
+@62 [C | Am7] (grid:8)
+  Bass         : C2@1>5 G2@7>2
+  Part6        : G4+E5@1>1 G4+C5@2>1 E4+A4@3>1 E4+G4@4>1 E4+A4@5>1 E4+B4@6>1 E4+A4@7>1 E4+G4@8>1
+@63 [C] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Part6        : C4+E4+G4+C5+E5@1>3 C4+E4@4>1 C4+F4+G4+C5+F5@5>3 D4@6>2
+@64 [C] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Part6        : C4+E4+G4+C5+E5@1>2 C4+E4@4>1 C4+F4+G4+C5+F5@5>2 D4@6>2
+@65 [C] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Part6        : C4+E4+G4+C5+E5@1>2 C4+E4@4>1 F4+G4+C5+F5@5>3 D4@6>2
+@66 [G] (grid:12t)
+  Piano        : G1+G2@8>2 A1+A2@11>2
+  Bass         : C2@1>2 G1@4>2 A1@7>2 B1@10>2
+  Guitar Solo  : G4@7>3 C5@10>1
+  Part6        : C4+E4+G4+C5+E5@1>1 G3+G4+B4+D5@4>8 A3@7>2 B3@10>2
+@67 [C]
+  Piano        : B1+B2@3>4 C2@9>8 G3+C4+E4@15>3 C2@21>10
+  Bass         : C2@1>6 C2@10>2 C2@13>10
+  Strings      : E4+G4+C5@1>22
+  Melody       : G4@1>3 E5@7>3 D5@10>8 C5@19>3
+  Guitar Solo  : C5+E5@1>22
+  Part7        : C4@1>22
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@68 [G | Bdim]
+  Piano        : G3+C4+E4@3>4 G2@9>6 G3+B3+D4@15>6 F2@21>10
+  Bass         : G2@1>6 G2@10>2 F2@13>10
+  Strings      : D4+G4+B4@1>10 F4+A4+C5@13>6 D4+G4+B4@19>4
+  Melody       : B4@1>4 C5@7>2 A4@10>6 B4@16>6
+  Part7        : G4@1>12 F4@13>10
+  Rhythm Guitar: G3+B3+D4+G4@7>6 G3+B3+D4+G4@19>6
+@69 [C] (grid:12t)
+  Piano        : G3+B3+D4@2>2 C2@5>3 G3+C4+E4@8>2 G2@11>5
+  Bass         : C2@1>3 C2@5>1 G2@7>5
+  Strings      : E4+G4+C5@1>12
+  Melody       : G4@1>12
+  Part7        : E4@1>12
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@70 [C7] (grid:16)
+  Piano        : G3+C4+E4@2>2 C2@6>4 G3+C4+E4@10>2 C2@12>1 C2@14>3
+  Bass         : C2@1>4 C2@7>1 C2@9>3 D2@13>3
+  Strings      : E4+G4+C5@1>11 D4+F4+G4+B4@13>4
+  Melody       : E5@8>4 F5@13>1 G5@16>1
+  Part7        : E4@1>2
+  Rhythm Guitar: G3+C4+E4@5>4 B3+D4+F4+G4@13>4
+@71 [Em]
+  Piano        : D2+F3+G3+B3+D4@3>4 E2@9>6 G3+B3+E4@15>4 E2@21>10
+  Bass         : E2@1>6 E2@10>2 E2@13>10
+  Strings      : E4+G4+B4@1>24
+  Melody       : G5@1>4 G5@7>2 G5@10>3 E5@16>4
+  Part7        : G4@1>22
+  Rhythm Guitar: G3+B3+E4@7>6 G3+B3+E4@19>6
+@72 [Dm | G7] (grid:12t)
+  Piano        : G3+B3+E4@2>2 D2@5>3 A3+C4+D4+F4@8>2 G2@11>6
+  Bass         : D2@1>3 D2@5>1 G2@7>6
+  Strings      : D4+F4+A4+C5@1>5 D4+F4+G4+B4@7>5
+  Melody       : D5@1>3 E5@4>2 F5@7>1 D5@9>2 E5@12>1
+  Part7        : F4@1>5 G4@7>5
+  Rhythm Guitar: A3+C4+D4+F4@4>3 B3+D4+F4+G4@10>3
+@73 [C] (grid:12t)
+  Piano        : F3+G3+B3+D4@2>2 C2@5>4 G3+C4+E4@8>2 G2@11>5
+  Bass         : C2@1>4 C2@5>1 G2@7>6
+  Strings      : E4+G4+C5@1>12
+  Melody       : E5@1>10
+  Part7        : E4@1>12
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@74 [C] (grid:12t)
+  Piano        : G3+C4+E4@2>2 C2@5>4 G3+C4+E4@8>2 D2@11>2
+  Bass         : C2@1>4 C2@5>1 D2@7>2 E2@10>2
+  Strings      : E4+G4+C5@1>5 F4+Bb4+D5@7>3 E4+G4+C5@10>2
+  Melody       : F5@7>3 G5@10>2
+  Part7        : E4@1>1
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@75 [F]
+  Piano        : E2+G3+C4+E4@3>4 F2@9>8 A3+C4+F4@15>4 F2@21>10
+  Bass         : F2@1>8 F2@10>2 F2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : A5@1>6 A5@10>8 F5@19>3
+  Part7        : C4@1>24
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@76 [G7] (grid:16)
+  Piano        : A3+C4+F4@2>1 G2@6>5 F3+G3+B3+D4@10>4 G2@12>1 G2@14>3
+  Bass         : G2@1>5 G2@7>1 G2@9>3 F2@13>4
+  Strings      : D4+F4+G4+B4@1>15
+  Melody       : D5@1>7 D5@9>2 A5@13>4
+  Part7        : B3@1>14
+  Rhythm Guitar: G3+B3+D4+G4@5>4 G3+B3+D4+G4@13>4
+@77 [Em | Bm7]
+  Piano        : F2+F3+G3+B3+D4@3>6 E2@9>6 G3+B3+E4@15>6 D2@21>12
+  Bass         : E2@1>6 E2@10>2 D2@13>12
+  Strings      : E4+G4+B4@1>12 F4+A4+B4+D5@13>10
+  Melody       : G5@1>9 F5@13>2 G5@16>6
+  Part7        : E4@1>12 D4@13>12
+  Rhythm Guitar: G3+B3+E4@7>6 A3+B3+D4+F4@19>6
+@78 [A]
+  Piano        : A3+B3+D4+F4@3>4 A1@9>8 A3+C#4+E4@15>6 A1@21>6
+  Bass         : A1@1>6 A1@10>2 A1@13>6 E2@19>6
+  Strings      : E4+A4+C#5@1>22
+  Melody       : E5@1>12 D5@16>2 E5@19>3
+  Part7        : C#4@1>20
+  Rhythm Guitar: A3+C#4+E4@7>6 A3+C#4+E4@19>6
+@79 [Dm]
+  Piano        : E2+A3+C#4+E4@3>6 D2@9>8 A3+D4+F4@15>3 A1@21>10
+  Bass         : D2@1>8 D2@10>2 A1@13>10
+  Strings      : F4+A4+D5@1>22
+  Melody       : F5@7>3 F5@13>3 E5@19>3 F5@22>3
+  Part7        : A3@1>22
+  Rhythm Guitar: A3+D4+F4@7>8 A3+D4+F4@19>6
+@80 [Dm7 | Fm]
+  Piano        : A3+D4+F4@3>6 D2@9>6 A3+C4+D4+F4@15>4 A1@21>4
+  Bass         : D2@1>6 D2@10>2 A1@13>4 D2@19>6
+  Strings      : F4+A4+C5+D5@1>12 D4+F4+G#4+C5@13>10
+  Melody       : F5@1>2 E5@7>2 D5@13>3 C5@19>2 G4@22>3
+  Part7        : C4@1>22
+  Rhythm Guitar: A3+C4+D4+F4@7>6 G#3+C4+D4+F4@19>6
+@81 [C] (grid:12t)
+  Piano        : D2+G#3+C4+D4+F4@2>3 G2@5>3 G3+C4+F4@8>3 D2@11>5
+  Bass         : G2@1>3 G2@5>1 D2@7>5
+  Strings      : D4+F4+G4+C5@1>11
+  Melody       : G4@1>11
+  Part7        : C4@1>11
+  Rhythm Guitar: G3+C4+D4+G4@4>3 G3+C4+D4+G4@10>3
+@82 [G7] (grid:12t)
+  Piano        : G3+C4+F4@2>2 G2+G3+B3+D4@5>3 G1+G2@8>2 A1+A2@11>2
+  Bass         : G2@1>2 G1@4>2 A1@7>2 B1@10>2
+  Strings      : D4+F4+G4+B4@1>11
+  Part7        : B3@1>2 B3@4>3 C4@7>3 D4@10>3
+  Rhythm Guitar: B3+D4+F4+G4@4>3 B3+D4+F4+G4@10>3
+@83 [C] (grid:12t)
+  Piano        : B1+B2@2>2 C2@5>3 G3+C4+E4@8>2 C2@11>5
+  Bass         : C2@1>3 C2@5>1 C2@7>5
+  Strings      : E4+G4+C5@1>11
+  Melody       : G4@1>2 E5@4>3 D5@7>2 C5@10>2
+  Part7        : E4@1>12
+  Rhythm Guitar: B3+D4+F4+G4@1>1 G3+C4+E4@4>3 G3+C4+E4@10>3
+@84 [G | Bm7]
+  Piano        : G3+C4+E4@3>4 G2@9>6 G3+B3+D4@15>6 F2@21>10
+  Bass         : G2@1>6 G2@10>2 F2@13>10
+  Strings      : D4+G4+B4@1>10 F4+A4+C5@13>6 D4+G4+B4@19>4
+  Melody       : B4@1>3 C5@7>4 A4@13>4 B4@19>3 G4@22>3
+  Part7        : F4@1>24
+  Rhythm Guitar: G3+B3+D4+G4@7>6 G3+B3+D4+G4@19>6
+@85 [C] (grid:12t)
+  Piano        : G3+B3+D4@2>2 C2@5>3 G3+C4+E4@8>2 G2@11>5
+  Bass         : C2@1>3 C2@5>1 G2@7>5
+  Strings      : E4+G4+C5@1>12
+  Melody       : G4@1>12
+  Part7        : E4@1>5 C4@7>3 D4@10>3
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@86 [C7] (grid:16)
+  Piano        : G3+C4+E4@2>2 C2@6>4 G3+C4+E4@10>2 C2@12>1 C2@14>3
+  Bass         : C2@1>4 C2@7>1 C2@9>3 D2@13>3
+  Strings      : E4+G4+C5@1>11 D4+F4+G4+B4@13>4
+  Melody       : E5@8>4 F5@13>2
+  Part7        : E4@1>7 G3@9>8
+  Rhythm Guitar: G3+C4+E4@5>4 B3+D4+F4+G4@13>4
+@87 [Em]
+  Piano        : D2+F3+G3+B3+D4@3>4 E2@9>6 G3+B3+E4@15>4 E2@21>10
+  Bass         : E2@1>6 E2@10>2 E2@13>10
+  Strings      : E4+G4+B4@1>24
+  Melody       : G5@1>3 G5@4>4 G5@10>4 E5@16>9
+  Part7        : B3@1>22
+  Rhythm Guitar: G3+B3+E4@7>6 G3+B3+E4@19>6
+@88 [Dm7 | G7]
+  Piano        : G3+B3+E4@3>3 D2@9>6 A3+C4+D4+F4@15>4 G2@21>12
+  Bass         : D2@1>6 D2@10>2 G2@13>12
+  Strings      : D4+F4+A4+C5@1>10 D4+F4+G4+B4@13>10
+  Melody       : D5@1>3 E5@7>4 F5@13>2 D5@16>4 E5@22>3
+  Part7        : A3@1>10 D4@13>10
+  Rhythm Guitar: A3+C4+D4+F4@7>6 B3+D4+F4+G4@19>6
+@89 [C] (grid:12t)
+  Piano        : F3+G3+B3+D4@2>2 C2@5>4 G3+C4+E4@8>2 G2@11>6
+  Bass         : C2@1>4 C2@5>1 G2@7>6
+  Strings      : E4+G4+C5@1>12
+  Melody       : E5@1>10
+  Part7        : E4@1>12
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@90 [C] (grid:16)
+  Piano        : G3+C4+E4@2>2 C2@6>5 G3+C4+E4@10>3 C2@12>1 D2@14>3
+  Bass         : C2@1>5 C2@7>1 D2@9>3 E2@13>3
+  Strings      : E4+G4+C5@1>7 F4+Bb4+D5@9>4 E4+G4+C5@13>3
+  Melody       : F5@7>6 G5@13>2
+  Part7        : E4@1>1 F4@9>4 G4@13>4
+  Rhythm Guitar: G3+C4+E4@5>4 G3+C4+E4@13>4
+@91 [F]
+  Piano        : E2+G3+C4+E4@3>4 F2@9>8 A3+C4+F4@15>4 F2@21>10
+  Bass         : F2@1>8 F2@10>2 F2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : A5@1>8 A5@10>3 F5@16>8
+  Part7        : A4@1>24
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@92 [G7] (grid:12t)
+  Piano        : A3+C4+F4@2>2 G2@5>4 F3+G3+B3+D4@8>3 G2@11>2
+  Bass         : G2@1>4 G2@5>1 G2@7>2 F2@10>3
+  Strings      : D4+F4+G4+B4@1>11
+  Melody       : D5@1>4 D5@7>2 A5@9>3
+  Part7        : B4@1>12
+  Rhythm Guitar: G3+B3+D4+G4@4>3 G3+B3+D4+G4@10>3
+@93 [Em | Bm7]
+  Piano        : F2+F3+G3+B3+D4@3>6 E2@9>6 G3+B3+E4@15>6 D2@21>12
+  Bass         : E2@1>6 E2@10>2 D2@13>12
+  Strings      : E4+G4+B4@1>12 F4+A4+B4+D5@13>10
+  Melody       : G5@1>9 F5@13>2 G5@16>3 E5@22>3
+  Part7        : G4@1>12 F4@13>10
+  Rhythm Guitar: G3+B3+E4@7>6 A3+B3+D4+F4@19>6
+@94 [A] (grid:12t)
+  Piano        : A3+B3+D4+F4@2>2 A1@5>4 A3+C#4+E4@8>3 A1@11>3
+  Bass         : A1@1>3 A1@5>1 A1@7>3 E2@10>3
+  Strings      : E4+A4+C#5@1>11
+  Melody       : E5@1>4 D5@7>2 E5@10>2
+  Part7        : E4@1>10
+  Rhythm Guitar: A3+C#4+E4@4>3 A3+C#4+E4@10>3
+@95 [Dm7]
+  Piano        : E2+A3+C#4+E4@3>6 D2@9>8 A3+C4+D4+F4@15>3 A1@21>10
+  Bass         : D2@1>8 D2@10>2 A1@13>10
+  Strings      : F4+A4+C5+D5@1>22
+  Melody       : F5@1>6 E5@7>2 F5@10>4 E5@19>3 F5@22>3
+  Part7        : A3@1>22
+  Rhythm Guitar: A3+D4+F4@7>6 A3+D4+F4@19>6
+@96 [Dm7]
+  Piano        : A3+C4+D4+F4@3>6 D2@9>6 G#3+C4+D4+F4@15>4 A1@21>4
+  Bass         : D2@1>6 D2@10>2 A1@13>4 D2@19>6
+  Strings      : D4+F4+G#4+C5@1>21
+  Melody       : F5@1>2 E5@4>8 D5@13>4 C5@19>4
+  Part7        : G#3@1>22
+  Rhythm Guitar: A3+C4+D4+F4@7>6 A3+C4+D4+F4@19>6
+@97 [C] (grid:12t)
+  Piano        : D2+G#3+C4+D4+F4@2>3 G2@5>3 G3+C4+F4@8>3 D2@11>5
+  Bass         : G2@1>3 G2@5>1 D2@7>5
+  Strings      : D4+F4+G4+C5@1>11
+  Melody       : G4@4>9
+  Part7        : C4@1>11
+  Rhythm Guitar: G3+C4+D4+G4@4>3 G3+C4+D4+G4@10>3
+@98 [G7] (grid:12t)
+  Piano        : G3+C4+F4@2>2 G2+G3+B3+D4@5>3 G1+G2@8>2 A1+A2@11>2
+  Bass         : G2@1>2 G1@4>2 A1@7>2 B1@10>2
+  Strings      : D4+F4+G4+B4@1>11
+  Melody       : G4@1>1 E4+G4@4>3 A4+C5@7>2 B4+D5@10>2
+  Part7        : B3@1>2 B3@4>3 C4@7>3 D4@10>3
+  Rhythm Guitar: B3+D4+F4+G4@4>3 B3+D4+F4+G4@10>3
+@99 [C]
+  Piano        : B1+B2@3>4 C2@9>8 G3+C4+E4@15>4 G2@21>10
+  Bass         : C2@1>6 C2@10>2 G2@13>10
+  Strings      : E4+G4+C5@1>22
+  Melody       : C5+E5@7>3 C5+E5@13>6 C5+E5@19>2 C5+F5@22>3
+  Part7        : E4@1>24
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@100 [C] (grid:16)
+  Piano        : G3+C4+E4@2>3 C2@6>5 G3+Bb3+C4+E4@10>2 C2@12>1 D2@14>3
+  Bass         : C2@1>4 C2@7>1 D2@9>3 E2@13>3
+  Strings      : E4+G4+Bb4+C5@1>8 F4+A4+D5@9>3 E4+G4+C5@13>3
+  Melody       : C5+F5@1>3 C5+E5@5>2 A4+D5@7>3 A4+C5@11>2
+  Part7        : E4@1>2 E4+E5@5>4 F4+F5@9>4 G4+G5@13>4
+  Rhythm Guitar: G3+Bb3+C4+E4@5>4 G3+Bb3+C4+E4@13>4
+@101 [F]
+  Piano        : E2+G3+C4+E4@3>4 F2@9>8 A3+C4+F4@15>3 C2@21>10
+  Bass         : F2@1>8 F2@10>2 C2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : F5+A5@7>4 F5+A5@13>3 F5+A5@19>2 F5+Bb5@22>3
+  Part7        : A4+A5@1>24
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@102 [F7] (grid:16)
+  Piano        : A3+C4+F4@2>2 F2@6>5 A3+C4+F4@10>1 F2@12>1 E2@14>3
+  Bass         : F2@1>5 F2@7>1 E2@9>3 D2@13>3
+  Strings      : F4+Bb4+D5@1>3 F4+A4+C5@5>8 F4+A4+D5@13>4
+  Melody       : F5+Bb5@1>3 F5+A5@5>1 E5+G5@9>3 D5+F5@13>1 C5+E5@15>2
+  Part7        : F4+F5@1>8 C4+C5@9>8
+  Rhythm Guitar: A3+C4+F4@5>4 A3+D4+F4@13>4
+@103 [C]
+  Piano        : D2+A3+D4+F4@3>4 C2@9>6 G3+C4+E4@15>2 G2@21>4
+  Bass         : C2@1>6 C2@10>2 G2@13>4 C2@19>3
+  Strings      : E4+G4+C5@1>22
+  Melody       : C5+E5@1>4 E5+G5@7>3 E5+G5@13>3 C5+E5@19>3 A4+D5@22>3
+  Part7        : G3+G4@1>6 C4+C5@7>6 E4+E5@13>12
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@104 [Dm | G]
+  Piano        : C2+G3+C4+E4@3>3 D2@9>8 A3+D4+F4@15>2 G2@21>12
+  Bass         : D2@1>8 D2@10>2 G2@13>12
+  Strings      : F4+A4+D5@1>10 D4+G4+B4@13>10
+  Melody       : A4+D5@1>2 C5+E5@7>3 D5+F5@13>2 F5+A5@16>9
+  Part7        : D4+D5@1>12 B3+B4@13>12
+  Rhythm Guitar: A3+D4+F4@7>6 B3+D4+G4@19>6
+@105 [C] (grid:12t)
+  Piano        : G3+B3+D4@2>2 C2@5>4 G3+C4+E4@8>1 G2@11>6
+  Bass         : C2@1>4 C2@5>1 G2@7>6
+  Strings      : E4+G4+C5@1>11
+  Melody       : F5+A5@1>1 E5+G5@4>9
+  Part7        : E4+E5@1>4 C4+C5@7>3 E4+E5@9>1
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@106 [C7] (grid:12t)
+  Piano        : G3+C4+E4@2>1 C2@5>1 C2+G3+Bb3+C4+E4@8>2 D2@11>2
+  Bass         : C2@1>1 C2@4>2 D2@7>2 E2@10>2
+  Strings      : E4+G4+Bb4+C5@1>5 F4+Bb4+D5@7>3 E4+G4+C5@10>3
+  Melody       : E5+G5@1>2 D5+F5@7>2 E5+G5@10>2
+  Part7        : E4+E5@1>1 D4+D5@2>2 C4+C5@3>2 D4+D5@6>3 E4+E5@10>3
+  Rhythm Guitar: G3+Bb3+C4+E4@4>3 G3+C4+E4@10>3
+@107 [F]
+  Piano        : E2+G3+C4+E4@3>3 F2@9>8 A3+C4+F4@15>2 C2@21>10
+  Bass         : F2@1>8 F2@10>2 C2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : F5+A5@1>10 E5+G5@13>2 F5+A5@16>3 G5+B5@22>3
+  Part7        : F4+F5@1>12 C4+C5@13>10
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@108 [G]
+  Piano        : A3+C4+F4@3>3 G2@9>6 F3+G3+B3+D4@15>3 D2@21>10
+  Bass         : G2@1>6 G2@10>2 D2@13>10
+  Strings      : D4+F4+G4+B4@1>22
+  Melody       : G5+B5@1>9 F5+A5@13>3 G5+B5@16>8
+  Part7        : G4+G5@1>12 D4+D5@13>12
+  Rhythm Guitar: G3+B3+D4+G4@7>6 G3+B3+D4+G4@19>6
+@109 [C]
+  Piano        : F3+G3+B3+D4@3>2 C2@9>6 G3+C4+E4@15>2 G1@21>4
+  Bass         : C2@1>6 C2@10>2 G1@13>4 C2@19>4
+  Strings      : E4+G4+C5@1>21
+  Melody       : G5+C6@1>3 G5+C6@7>3 G5+C6@13>2 E5+G5@16>6 F5+A5@22>3
+  Part7        : C4+C5@1>10 G3+G4@13>12
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@110 [F] (grid:16)
+  Piano        : C2+G3+C4+E4@2>3 F2@6>4 A3+C4+F4@10>2 F2@12>1 E2@14>3
+  Bass         : F2@1>4 F2@7>1 E2@9>3 D2@13>3
+  Strings      : F4+A4+C5@1>7 E4+G4+C5@9>4 F4+A4+C5@13>4
+  Melody       : F5+A5@1>6 E5+G5@9>1 C5+F5@11>4
+  Part7        : A3+A4@1>7 F3+F4@9>7
+  Rhythm Guitar: A3+C4+F4@5>4 A3+C4+F4@13>4
+@111 [C] (grid:12t)
+  Piano        : D2+A3+C4+F4@2>2 C2@5>3 G3+C4+E4@8>2 G1@11>2
+  Bass         : C2@1>3 C2@5>1 G1@7>2 C2@10>2
+  Strings      : E4+G4+C5@1>11
+  Melody       : C5+E5@1>1 E5+G5@4>3 D5+F5@7>2 C5+E5@10>2
+  Part7        : E3+E4@1>5 G3+G4@7>6
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@112 [Dm7 | G]
+  Piano        : C2+G3+C4+E4@3>4 D2@9>6 A3+C4+D4+F4@15>2 A1@21>4
+  Bass         : D2@1>6 D2@10>2 A1@13>4 G1@19>4
+  Strings      : F4+A4+C5+D5@1>16 D4+F4+G4+B4@19>4
+  Melody       : A4+D5@1>6 G4+C5@13>3 G4+B4@16>3 G4+C5@22>3
+  Part7        : A3+A4@1>12 B3+B4@13>12
+  Rhythm Guitar: A3+C4+D4+F4@7>6 G3+B3+D4+G4@19>4
+@113 [C] (grid:16)
+  Piano        : G1+F3+G3+B3+D4@2>3 C2+G3+C4+E4@6>10 C2@12>1 G2@14>7
+  Bass         : C2@1>5 C2@7>1 G2@9>7
+  Strings      : E4+G4+C5@1>16
+  Melody       : G4+C5@1>14
+  Part7        : C4+C5@1>16
+  Rhythm Guitar: G3+C4+E4@1>3 G3+C4+E4@5>4 G3+C4+E4@13>4
+@114 [C7 | D7] (grid:12t)
+  Piano        : C2@5>2 G1@8>2 A1@11>2
+  Bass         : C2@1>2 G1@4>2 A1@7>2 B1@10>2
+  Melody       : E4+G4@4>3 A4+C5@7>2 B4+D5@10>2
+  Part7        : B3+B4@4>3 C4+C5@7>2 D4+D5@10>3
+  Rhythm Guitar: G3+C4+E4@1>3
+@115 [C] (grid:12t)
+  Piano        : B1@2>2 C2@5>12
+  Bass         : C2@1>12
+  Strings      : E4+G4+C5@1>11
+  Melody       : C5+E5@4>2 C5+E5@7>3 C5+E5@10>1 C5+F5@11>2
+  Part7        : E4+E5@1>12
+  Rhythm Guitar: G3+C4+E4@1>12
+@116 [Am | Dm7]
+  Piano        : C2@15>4 D2@21>4
+  Bass         : C2@7>4 D2@13>4 E2@19>4
+  Melody       : C5+F5@1>4 C5+E5@7>3 A4+D5@10>4 A4+C5@16>3
+  Part7        : E4+E5@7>6 F4+F5@13>6 G4+G5@19>6
+@117 [F] (grid:12t)
+  Piano        : E2@2>2 F2@5>12
+  Bass         : F2@1>12
+  Strings      : F4+A4+C5@1>11
+  Melody       : F5+A5@4>2 F5+A5@7>2 F5+A5@10>1 F5+Bb5@11>2
+  Part7        : A4+A5@1>12
+  Rhythm Guitar: A3+C4+F4@1>12
+@118 [Gm7 | Dm] (grid:12t)
+  Piano        : F2@8>2 E2@11>3
+  Bass         : F2@4>2 E2@7>3 D2@10>2
+  Melody       : F5+Bb5@1>2 F5+A5@4>1 E5+G5@7>2 D5+F5@10>1 C5+E5@11>2
+  Part7        : G4+G5@4>3 F4+F5@7>3 D4+D5@10>3
+@119 [C]
+  Piano        : D2@3>4 C2@9>6 G3+C4+E4@15>2 G2@21>4
+  Bass         : C2@1>6 C2@10>2 G2@13>4 C2@19>3
+  Strings      : E4+G4+C5@1>22
+  Melody       : C5+E5@1>4 E5+G5@7>3 E5+G5@13>3 C5+E5@19>3 A4+D5@22>3
+  Part7        : E4+E5@1>6 C4+C5@7>6 E4+E5@13>12
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@120 [Dm | G]
+  Piano        : C2+G3+C4+E4@3>3 D2@9>8 A3+D4+F4@15>2 G2@21>12
+  Bass         : D2@1>8 D2@10>2 G2@13>12
+  Strings      : F4+A4+D5@1>10 D4+G4+B4@13>10
+  Melody       : A4+D5@1>2 C5+E5@7>3 D5+F5@13>2 F5+A5@16>9
+  Part7        : D4+D5@1>12 B3+B4@13>12
+  Rhythm Guitar: A3+D4+F4@7>6 B3+D4+G4@19>6
+@121 [C] (grid:12t)
+  Piano        : G3+B3+D4@2>2 C2@5>4 G3+C4+E4@8>1 G2@11>6
+  Bass         : C2@1>4 C2@5>1 G2@7>6
+  Strings      : E4+G4+C5@1>11
+  Melody       : F5+A5@1>1 E5+G5@4>9
+  Part7        : E4+E5@1>4 C4+C5@7>3 E4+E5@9>1
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@122 [C7] (grid:12t)
+  Piano        : G3+C4+E4@2>1 C2@5>1 C2+G3+Bb3+C4+E4@8>2 D2@11>2
+  Bass         : C2@1>1 C2@4>2 D2@7>2 E2@10>2
+  Strings      : E4+G4+Bb4+C5@1>5 F4+Bb4+D5@7>3 E4+G4+C5@10>3
+  Melody       : E5+G5@1>2 D5+F5@7>2 E5+G5@10>2
+  Part7        : E4+E5@1>1 D4+D5@2>2 C4+C5@3>2 D4+D5@6>3 E4+E5@10>3
+  Rhythm Guitar: G3+Bb3+C4+E4@4>3 G3+C4+E4@10>3
+@123 [F]
+  Piano        : E2+G3+C4+E4@3>3 F2@9>8 A3+C4+F4@15>2 C2@21>10
+  Bass         : F2@1>8 F2@10>2 C2@13>10
+  Strings      : F4+A4+C5@1>22
+  Melody       : F5+A5@1>10 E5+G5@13>2 F5+A5@16>3 G5+B5@22>3
+  Part7        : F4+F5@1>12 C4+C5@13>10
+  Rhythm Guitar: A3+C4+F4@7>6 A3+C4+F4@19>6
+@124 [G]
+  Piano        : A3+C4+F4@3>4 G2@9>6 F3+G3+B3+D4@15>3 D2@21>10
+  Bass         : G2@1>6 G2@10>2 D2@13>10
+  Strings      : D4+F4+G4+B4@1>22
+  Melody       : G5+B5@1>9 F5+A5@13>3 G5+B5@16>8
+  Part7        : G4+G5@1>12 D4+D5@13>12
+  Rhythm Guitar: G3+B3+D4+G4@7>6 G3+B3+D4+G4@19>6
+@125 [C]
+  Piano        : F3+G3+B3+D4@3>2 C2@9>8 G3+C4+E4@15>2 G1@21>4
+  Bass         : C2@1>6 C2@10>2 G1@13>4 C2@19>4
+  Strings      : E4+G4+C5@1>21
+  Melody       : G5+C6@1>3 G5+C6@7>3 G5+C6@13>2 E5+G5@16>6 F5+A5@22>3
+  Part7        : C4+C5@1>10 G3+G4@13>12
+  Rhythm Guitar: G3+C4+E4@7>6 G3+C4+E4@19>6
+@126 [F] (grid:16)
+  Piano        : C2+G3+C4+E4@2>3 F2@6>4 A3+C4+F4@10>2 F2@12>1 E2@14>3
+  Bass         : F2@1>4 F2@7>1 E2@9>3 D2@13>3
+  Strings      : F4+A4+C5@1>7 E4+G4+C5@9>4 F4+A4+C5@13>4
+  Melody       : F5+A5@1>6 E5+G5@9>1 C5+F5@11>4
+  Part7        : A3+A4@1>7 F3+F4@9>7
+  Rhythm Guitar: A3+C4+F4@5>4 A3+C4+F4@13>4
+@127 [C] (grid:12t)
+  Piano        : D2+A3+C4+F4@2>2 C2@5>3 G3+C4+E4@8>2 G1@11>2
+  Bass         : C2@1>3 C2@5>1 G1@7>2 C2@10>2
+  Strings      : E4+G4+C5@1>11
+  Melody       : C5+E5@1>1 E5+G5@4>3 D5+F5@7>2 C5+E5@10>2
+  Part7        : E3+E4@1>5 G3+G4@7>6
+  Rhythm Guitar: G3+C4+E4@4>3 G3+C4+E4@10>3
+@128 [Dm7 | G]
+  Piano        : C2+G3+C4+E4@3>4 D2@9>6 A3+C4+D4+F4@15>2 A1@21>4
+  Bass         : D2@1>6 D2@10>2 A1@13>4 G1@19>4
+  Strings      : F4+A4+C5+D5@1>16 D4+F4+G4+B4@19>4
+  Melody       : A4+D5@1>6 G4+C5@13>3 G4+B4@16>3 G4+C5@22>3
+  Part7        : A3+A4@1>12 B3+B4@13>12
+  Rhythm Guitar: A3+C4+D4+F4@7>6 G3+B3+D4+G4@19>4
+@129 [C]
+  Piano        : G1+F3+G3+B3+D4@3>4 C2+G3+C4+E4@9>15
+  Bass         : C2@1>6 C2@10>2 C2@13>12
+  Melody       : G4+C5@1>21
+  Part6        : G4+D5@13>2 G4+E5@16>3 G4+D5@22>2
+  Part7        : C4+C5@1>24
+  Rhythm Guitar: G3+C4+E4@1>12
+@130 [C | Am7] (grid:8)
+  Bass         : C2@1>5 G2@7>2
+  Part6        : G4+E5@1>1 G4+C5@2>1 E4+A4@3>1 E4+G4@4>1 E4+A4@5>1 E4+B4@6>1 E4+A4@7>1 E4+G4@8>1
+@131 [C] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Part6        : C4+E4+G4+C5+E5@1>3 C4+E4@4>1 C4+F4+G4+C5+F5@5>3 D4@6>2
+@132 [C] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Part6        : C4+E4+G4+C5+E5@1>2 C4+E4@4>1 C4+F4+G4+C5+F5@5>2 D4@6>2
+@133 [C] (grid:8)
+  Bass         : C2@1>2 C2@4>1 G2@5>2
+  Part6        : C4+E4+G4+C5+E5@1>2 C4+E4@4>1 C4+F4+G4+C5+F5@5>3 D4@6>2
+@134 [G | C] (grid:4)
+  Bass         : C2@1>1 G1@2>1 C2@3>2
+  Guitar Solo  : B4+D5@2>1 C5+E5@3>2
+  Part6        : C4+E4+G4+C5+E5@1>1 G3+B3+G4+B4+D5@2>1 C4+E4+G4+C5+E5@3>2
+@135 [C] (grid:4)
+  Bass         : C2@1>2
+  Guitar Solo  : C5+E5@1>2
+  Part6        : C4+E4+G4+C5+E5@1>2

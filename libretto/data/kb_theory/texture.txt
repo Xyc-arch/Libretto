@@ -1,0 +1,161 @@
+# kb_theory: texture
+CONCEPT: Monophonic
+ID: TX-MONOPHONIC
+CATEGORY: texture
+LEVEL: beginner
+WHAT: Monophonic texture is a single melodic line with no harmony — one note sounding at a
+time, no chords. It is the thinnest, clearest texture; the melody stands completely alone.
+On one piano voice it is simply a line of separate single-note onsets.
+CHALLENGE: Play one unaccompanied line cleanly, never letting two notes sound at once.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Homophonic
+ID: TX-HOMOPHONIC
+CATEGORY: texture
+LEVEL: beginner
+WHAT: Homophonic texture is a single melody supported by chords that move with it — melody
+on top, harmony underneath, all in the same rhythm. On one piano voice the melody note sits
+on top of a block chord (joined with `+`) so the top pitch leads and the lower notes back it.
+CHALLENGE: Sound a melody note as the top of a block chord so it sings above the support.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 84 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C3+E3+G3+E4@1>8 C3+E3+G3+G4@9>8
+@2 [G]
+  Piano: G3+B3+D4+D4@1>8 G3+B3+D4+B4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Polyphonic
+ID: TX-POLYPHONIC
+CATEGORY: texture
+LEVEL: intermediate
+WHAT: Polyphonic texture weaves two or more independent melodic lines together, each with
+its own shape. On a single piano voice this is implied by register separation: a low line and
+a high line interleave in alternating onsets so the ear hears two voices in dialogue.
+CHALLENGE: Alternate a low-register note and a high-register note so the ear follows two lines.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C3@1>2 E4@3>2 D3@5>2 D4@7>2 E3@9>2 C4@11>2 G3@13>4
+@2 [G]
+  Piano: B2@1>2 D4@3>2 D3@5>2 B3@7>2 G2@9>2 G3@11>2 B3@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Unison
+ID: TX-UNISON
+CATEGORY: texture
+LEVEL: beginner
+WHAT: Unison means all parts play the same line. When that line is doubled at the octave it
+is still heard as one melody, just thicker and stronger. On one piano voice, sound each
+melody note together with its octave (joined by `+`) so the two octaves move as one.
+CHALLENGE: Play each melody note locked exactly an octave apart so the doubling sounds as one line.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4+C5@1>4 D4+D5@5>4 E4+E5@9>4 G4+G5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Octaves
+ID: TX-OCTAVES
+CATEGORY: texture
+LEVEL: beginner
+WHAT: Octave doubling reinforces a melody by adding the same note an octave below (or above).
+It is a special case of unison used to thicken and strengthen a line. On one piano voice each
+melody note is joined to its lower octave with `+`.
+CHALLENGE: Double every melody note an octave below, keeping both notes perfectly together.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: E3+E4@1>4 G3+G4@5>4 C4+C5@9>4 G3+G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Arpeggio
+ID: TX-ARPEGGIO
+CATEGORY: texture
+LEVEL: beginner
+WHAT: An arpeggio is a chord played one note at a time instead of all together — a "broken
+chord" sounded in sequence, usually ascending. The same pitches that would form a block chord
+become separate onsets that outline the harmony melodically.
+CHALLENGE: Play the notes of one chord one after another, evenly and ascending.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Alberti Bass
+ID: TX-ALBERTI-BASS
+CATEGORY: texture
+LEVEL: intermediate
+WHAT: Alberti bass is a broken-chord accompaniment pattern that cycles the chord notes in a
+low-high-middle-high order (e.g. C-G-E-G), giving a steady murmuring support under a melody.
+On one piano voice it is a stream of even single-note onsets following that pattern.
+CHALLENGE: Repeat the low-high-mid-high broken-chord pattern evenly without bumping the rhythm.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C3@1>2 G3@3>2 E3@5>2 G3@7>2 C3@9>2 G3@11>2 E3@13>2 G3@15>2
+@2 [G]
+  Piano: B2@1>2 G3@3>2 D3@5>2 G3@7>2 B2@9>2 G3@11>2 D3@13>2 G3@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Block Chords
+ID: TX-BLOCK-CHORDS
+CATEGORY: texture
+LEVEL: beginner
+WHAT: A block chord sounds all its notes together at the same instant. It is the most direct
+way to present harmony — solid, vertical, and rhythmically unified. On one piano voice the
+chord pitches are joined with `+` so they share a single onset and duration.
+CHALLENGE: Strike all chord notes exactly together so they sound as one solid block.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C3+E3+G3@1>8 C3+E3+G3@9>8
+@2 [G]
+  Piano: G3+B3+D4@1>8 G3+B3+D4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Broken Chords
+ID: TX-BROKEN-CHORDS
+CATEGORY: texture
+LEVEL: beginner
+WHAT: A broken chord plays the notes of a chord one at a time rather than together. Unlike a
+strict ascending arpeggio it may move in any order and often repeats notes. On one piano voice
+the same chord tones become separate onsets, outlining the harmony in a flowing line.
+CHALLENGE: Spread a single chord into separate, even onsets instead of striking it all at once.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 G4@3>2 E4@5>2 G4@7>2 C4@9>2 E4@11>2 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Drone
+ID: TX-DRONE
+CATEGORY: texture
+LEVEL: beginner
+WHAT: A drone is a single low note (or interval) held or repeated continuously while a melody
+moves freely above it. The sustained pitch anchors the harmony. On one piano voice the long
+bass note is joined with `+` to the first melody note, then the melody continues above its decay.
+CHALLENGE: Hold a long low note while playing a moving melody above it without re-striking the bass.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C2+E4@1>16 G4@5>4 E4@9>4 C4@13>4
+@2 [C]
+  Piano: C2+D4@1>16 E4@5>4 G4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================

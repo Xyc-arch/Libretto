@@ -1,0 +1,375 @@
+# kb_theory: rhythm
+CONCEPT: Whole note
+ID: TR-WHOLE-NOTE
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: A whole note lasts four beats in 4/4 — the entire bar. On a 16th grid that is a
+duration of 16 slots (>16). It is the longest common single-note value; one onset, held to
+the barline.
+CHALLENGE: Sustain a single pitch for a full bar with steady counting (1-2-3-4) and release exactly on the next downbeat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Half note
+ID: TR-HALF-NOTE
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: A half note lasts two beats — half of a 4/4 bar. On a 16th grid that is 8 slots (>8).
+Two half notes fill one bar: onsets on slots 1 and 9 (beats 1 and 3).
+CHALLENGE: Play two equal two-beat tones, changing pitch exactly on beat 3 while counting 1-2-3-4.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 84 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>8 E4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Quarter note
+ID: TR-QUARTER-NOTE
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: A quarter note lasts one beat. On a 16th grid that is 4 slots (>4). Four quarter notes
+fill a 4/4 bar with onsets on slots 1, 5, 9, 13 (beats 1 2 3 4) — the steady pulse.
+CHALLENGE: Play one note per beat evenly, matching the metronome on 1 2 3 4.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 F4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Eighth note
+ID: TR-EIGHTH-NOTE
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: An eighth note lasts half a beat — two eighths per beat. On a 16th grid that is 2 slots
+(>2). Eight eighths fill a 4/4 bar with onsets on slots 1,3,5,7,9,11,13,15 (count 1-and 2-and
+3-and 4-and).
+CHALLENGE: Play even eighth-notes, "1-and-2-and", keeping the off-beat ("and") as steady as the beat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F4@7>2 G4@9>2 A4@11>2 B4@13>2 C5@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Sixteenth note
+ID: TR-SIXTEENTH-NOTE
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A sixteenth note lasts a quarter of a beat — four sixteenths per beat. On a 16th grid
+that is 1 slot (>1). One full beat of sixteenths sits on slots 1,2,3,4 (count 1-e-and-a).
+CHALLENGE: Play four even sixteenths on one beat, "1-e-and-a", then rest the remaining beats and stay relaxed.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 72 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>1 D4@2>1 E4@3>1 F4@4>1 G4@5>4 C4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Dotted note
+ID: TR-DOTTED-NOTE
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A dot adds half the note's value. A dotted-quarter = quarter + eighth = 1.5 beats = 6
+slots (>6); it is commonly followed by an eighth (>2) to complete the two beats. Here the bar
+is two dotted-quarter + eighth pairs.
+CHALLENGE: Hold the dotted-quarter for one-and-a-half beats, then place the short eighth on the "and" of beat 2.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>6 E4@7>2 G4@9>6 E4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Triplet
+ID: TR-TRIPLET
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A triplet splits one beat into three equal parts instead of two. Tag the bar with
+(grid:12t) so the bar has 12 slots and each beat is triplet-subdivided (beats on 1,4,7,10).
+Three notes on beat 1 are @1>1 @2>1 @3>1.
+CHALLENGE: Play three even notes inside one beat, "1-trip-let", keeping all three equal in length.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C] (grid:12t)
+  Piano: C4@1>1 E4@2>1 G4@3>1 C5@4>9
+GRAMMAR-END
+================================================================================
+CONCEPT: Rest
+ID: TR-REST
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: A rest is silence for a counted duration — encoded simply as a slot with no onset (a
+gap). Here beat 1 sounds (quarter), beat 2 is a quarter rest (slots 5-8 empty), then beats 3
+and 4 sound.
+CHALLENGE: Count the silent beat out loud (rest on beat 2) without rushing the next entry on beat 3.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Tie
+ID: TR-TIE
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A tie joins two note values into one sustained sound. Rather than re-striking, encode
+the combined length as a single longer duration. Here a note held across beats 3-4 of bar 1
+into beats 1-2 of bar 2 is written as a single half-note in each bar held to the barline; the
+sustained tie = one onset spanning the tied value (e.g. a whole-bar hold >16).
+CHALLENGE: Hold one key across the barline without re-pressing it — feel the beat pass while the sound continues.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>8
+@2 [C]
+  Piano: G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Syncopation
+ID: TR-SYNCOPATION
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: Syncopation stresses off-beats — the "and" slots 3, 7, 11, 15 — instead of the strong
+beats 1,5,9,13. Onsets land on the upbeats and are held over the following downbeat, pulling
+the listener's sense of pulse off-center.
+CHALLENGE: Accent the off-beats (the "ands") and hold them over the next beat, resisting the urge to land on the beat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>4 G4@7>4 E4@11>4 C4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — four quarter notes (1 2 3 4)
+ID: TR-PAT-FOUR-QUARTERS
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: The most basic rhythm: one note per beat, counted "1 2 3 4". Four quarters (>4) on
+slots 1, 5, 9, 13 fill the 4/4 bar with an even, walking pulse.
+CHALLENGE: Count "1 2 3 4" aloud and play one even note per beat for the whole bar.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — half + half
+ID: TR-PAT-HALF-HALF
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: Two half notes (>8) per bar, onsets on slots 1 and 9 (beats 1 and 3). Counted "1-2 3-4":
+each tone is held for two beats. A slow, broad two-pulse feel.
+CHALLENGE: Count "1-2 3-4" and change the note only on beats 1 and 3, holding each for two full beats.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 84 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>8 G4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — quarter + two eighths
+ID: TR-PAT-QUARTER-TWO-EIGHTHS
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: A beat of quarter then a beat split into two eighths: counted "1, 2-and". Quarter (>4)
+on slot 1, eighths (>2) on slots 5 and 7. This bar repeats the cell over beats 1-2 and 3-4.
+CHALLENGE: Count "1, 2-and, 3, 4-and" — one steady note then two quick notes, keeping the eighths even.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>2 G4@7>2 C4@9>4 E4@13>2 G4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — two eighths + quarter
+ID: TR-PAT-TWO-EIGHTHS-QUARTER
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: A beat split into two eighths then a beat of quarter: counted "1-and, 2". Eighths (>2) on
+slots 1 and 3, quarter (>4) on slot 5. The bar repeats the cell over beats 1-2 and 3-4.
+CHALLENGE: Count "1-and, 2, 3-and, 4" — two quick notes then one steady note per pair of beats.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>4 G4@9>2 A4@11>2 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — four eighths (1-and-2-and)
+ID: TR-PAT-FOUR-EIGHTHS
+CATEGORY: rhythm
+LEVEL: beginner
+WHAT: Two beats subdivided into four even eighths, counted "1-and-2-and". Eighths (>2) on
+slots 1,3,5,7. The bar shows this cell twice to fill 4/4 (eighths on 1,3,5,7,9,11,13,15).
+CHALLENGE: Play steady eighths "1-and-2-and-3-and-4-and"; keep the "ands" exactly between the beats.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F4@7>2 G4@9>2 F4@11>2 E4@13>2 D4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — dotted-quarter + eighth (long-short)
+ID: TR-PAT-DOTTED-LONG-SHORT
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A "long-short" cell: dotted-quarter (>6, 1.5 beats) then eighth (>2, 0.5 beat) = two
+beats. Onsets on slots 1 and 7, then 9 and 15. Counted "1—and-of-2"; the long note lands on
+the beat, the short note on the "and" of beat 2.
+CHALLENGE: Hold the long dotted note, then snap the short eighth on the off-beat — keep the long/short ratio crisp.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>6 D4@7>2 E4@9>6 F4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — eighth + dotted-quarter (short-long)
+ID: TR-PAT-DOTTED-SHORT-LONG
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A "short-long" cell: eighth (>2, 0.5 beat) then dotted-quarter (>6, 1.5 beats) = two
+beats. Onsets on slots 1 and 3, then 9 and 11. Counted "1-and———"; the short pickup leads
+into the long held note on the "and".
+CHALLENGE: Place the short pickup on the beat, then sustain the long note across the next beat — the reverse of long-short.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>6 G4@9>2 E4@11>6
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — sixteenth-note run (1-e-and-a)
+ID: TR-PAT-SIXTEENTH-RUN
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A run of sixteenth notes (>1), four per beat, counted "1-e-and-a 2-e-and-a". Onsets fall
+on every slot. Here a scalar run covers beats 1-2 (slots 1-8), then quarters close the bar.
+CHALLENGE: Play eight even sixteenths "1-e-and-a 2-e-and-a" cleanly, then resolve onto the steady quarters.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 76 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>1 D4@2>1 E4@3>1 F4@4>1 G4@5>1 A4@6>1 B4@7>1 C5@8>1 G4@9>4 C4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — triplet rhythm (1-trip-let)
+ID: TR-PAT-TRIPLET-RHYTHM
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: Beats subdivided into triplets, counted "1-trip-let 2-trip-let". Tag the bar (grid:12t)
+for 12 slots; each beat (1,4,7,10) holds three eighth-triplets (>1). Two beats of triplets
+then a held note here.
+CHALLENGE: Play even triplets "1-trip-let, 2-trip-let" — three equal notes per beat, no limping.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C] (grid:12t)
+  Piano: C4@1>1 E4@2>1 G4@3>1 E4@4>1 G4@5>1 C5@6>1 G4@7>6
+GRAMMAR-END
+================================================================================
+CONCEPT: Pattern — syncopated rhythm (accents on the "and")
+ID: TR-PAT-SYNCOPATED-RHYTHM
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A syncopated cell stresses the "and" off-beats and ties over the strong beat. Counted
+"1 (2)-and 3 (4)-and": notes start on a beat but the next onset is on the off-beat (slots 3,7,
+11,15), held over the following downbeat so the beat itself is silent of attack.
+CHALLENGE: Land attacks on the "ands" and hold through the next beat; feel the pulse internally while the accent is off it.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>4 G4@7>4 E4@11>4 C4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 4/4 common time
+ID: TR-METER-44
+CATEGORY: meter
+LEVEL: beginner
+WHAT: 4/4 ("common time"): four quarter-note beats per bar, beat 1 strongest, beat 3 a
+secondary stress. On a 16th grid the bar is 16 slots, beats on 1,5,9,13. The default meter for
+most pop and practice music.
+CHALLENGE: Count a steady "1 2 3 4" per bar, feeling beat 1 as the strongest pulse across two bars.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: D4@1>4 G4@5>4 B4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 3/4 waltz
+ID: TR-METER-34
+CATEGORY: meter
+LEVEL: beginner
+WHAT: 3/4 ("waltz"): three quarter-note beats per bar, strong-weak-weak ("ONE-two-three"). On a
+16th grid the bar is 12 slots, beats on 1,5,9. Classic dance and waltz feel with a heavy
+downbeat then two lighter beats.
+CHALLENGE: Count "ONE-two-three" with a bass note on beat 1 and lighter chords on beats 2 and 3.
+GRAMMAR-BEGIN
+KEY: G major | METER: 3/4 | TEMPO: 120 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [G]
+  Piano: G3@1>4 B3+D4@5>4 B3+D4@9>4
+@2 [D]
+  Piano: D3@1>4 A3+D4@5>4 A3+D4@9>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 2/4 march
+ID: TR-METER-24
+CATEGORY: meter
+LEVEL: beginner
+WHAT: 2/4 ("march"): two quarter-note beats per bar, strong-weak ("ONE-two / LEFT-right"). On a
+16th grid the bar is 8 slots, beats on 1 and 5. A brisk, marching two-pulse.
+CHALLENGE: Count "ONE-two" with a firm downbeat — play a bass on 1 and a lighter chord on 2, like marching feet.
+GRAMMAR-BEGIN
+KEY: C major | METER: 2/4 | TEMPO: 112 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C3@1>4 E3+G3@5>4
+@2 [G]
+  Piano: G2@1>4 D3+G3@5>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 6/8 compound duple
+ID: TR-METER-68
+CATEGORY: meter
+LEVEL: intermediate
+WHAT: 6/8 ("compound duple"): six eighth-notes per bar grouped into two dotted-quarter pulses,
+counted "ONE-two-three FOUR-five-six". The bar is 12 slots (each eighth >2); main pulses
+(dotted-quarter) fall on slots 1 and 7. A lilting, rolling feel.
+CHALLENGE: Count "1-2-3 4-5-6" but feel TWO main pulses (on 1 and 4 of the count); keep the six eighths even.
+GRAMMAR-BEGIN
+KEY: C major | METER: 6/8 | TEMPO: 108 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>2 G4@5>2 C5@7>2 G4@9>2 E4@11>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 12/8 slow-blues shuffle
+ID: TR-METER-128
+CATEGORY: meter
+LEVEL: intermediate
+WHAT: 12/8 ("slow blues / shuffle"): four dotted-quarter beats, each subdivided into three
+eighths — a triplet swing feel. Realize with (grid:12t): 12 slots, beats on 1,4,7,10, each
+beat carrying a triplet. The long-short shuffle comes from stressing the first of each triplet.
+CHALLENGE: Feel four shuffled beats, each "long-short" (skip the middle of the triplet); count "1-(2)-3" per beat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 12/8 | TEMPO: 60 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C] (grid:12t)
+  Piano: C4@1>2 E4@3>1 E4@4>2 G4@6>1 G4@7>2 C5@9>1 C5@10>2 G4@12>1
+GRAMMAR-END
+================================================================================

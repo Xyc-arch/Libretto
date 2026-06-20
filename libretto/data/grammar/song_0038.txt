@@ -1,0 +1,1036 @@
+KEY: F# major | METER: 4/4 | TEMPO: 120 | GRID: 16th (adaptive) | BARS: 144
+VOICES: Melody, Part2, Part3, Synth Brass, Bass 1, Synth Brass#2, Synth Pad, Bass 2, Guitar, Part10
+@1 [-]
+@2 [D#m | D#]
+  Bass 1       : F#2@1>2 F#2@4>1 Eb2@5>2 F#2@7>2 Eb2@15>1
+  Bass 2       : F#1@1>2 F#1@4>1 Eb1@5>2 F#1@7>2 Eb1@15>1
+@3 [F#] (grid:6t)
+  Bass 1       : F#2@1>2 F#2@3>1
+  Bass 2       : F#1@1>2 F#1@3>1
+@4 [D#m | D#]
+  Bass 1       : F#2@1>2 F#2@4>1 Eb2@5>2 F#2@7>2 Eb2@15>1
+  Bass 2       : F#1@1>2 F#1@4>1 Eb1@5>2 F#1@7>2 Eb1@15>1
+@5 [F#] (grid:12t)
+  Bass 1       : F#2@1>4 F#2@5>1 F#3@10>3
+  Bass 2       : F#1@1>4 F#1@5>1 F#2@10>3
+@6 [F#]
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 Bb4+Bb5@13>2 Bb4+Bb5@16>1
+  Synth Pad    : F#5+Bb5@1>4
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
+@7 [F#] (grid:24t)
+  Synth Brass  : C#4+F#4+Bb4@1>22
+  Bass 1       : F#2@1>4 F#2@5>3 F#2@10>2
+  Synth Brass#2: G#4+G#5@1>3 F#4+F#5@4>2 G#4+G#5@10>2 Bb4+Bb5@16>2
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@8 [F#]
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 Bb4+Bb5@13>2 Bb4+Bb5@16>1
+  Synth Pad    : F#5+Bb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
+@9 [F#] (grid:24t)
+  Synth Brass  : C#4+F#4+Bb4@1>22
+  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
+  Synth Brass#2: G#4+G#5@1>3 F#4+F#5@4>2 G#4+G#5@10>2 A4+Bb4+A5+Bb5@16>3 G#4+G#5@19>3 F#4+F#5@22>2
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@10 [F#]
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1
+  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 Bb4+Bb5@13>2 Bb4+Bb5@16>1
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
+@11 [F#]
+  Synth Brass  : C#4+F#4+Bb4@1>15
+  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
+  Synth Brass#2: G#4+G#5@1>2 F#4+F#5@3>1 G#4+G#5@7>1 Bb4+Bb5@11>1
+  Synth Pad    : F5+G#5@13>2 Eb5+F#5@15>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
+@12 [D#m]
+  Synth Brass  : Eb4+F#4+Bb4@1>14
+  Bass 1       : B2@1>3 B2@4>3 B2@7>1 B2@15>1 Bb2@16>1
+  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 F#4+F#5@15>1 F#4+F#5@16>1
+  Synth Pad    : Eb5+F#5@1>2
+  Guitar       : B3+F#4@1>2 B3+F#4@4>1
+  Part10       : Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
+@13 [F# | C#7]
+  Synth Brass  : C#4+F#4+B4@1>11 F#4+B4+C#5@13>4
+  Bass 1       : G#2@1>4 Bb2@5>3 G#2@8>1 B2@9>3 G#2@12>1 C#3@13>4
+  Synth Brass#2: F#4+F#5@1>2 G#4+G#5@3>2 Bb4+Bb5@5>1 G#4+G#5@7>9
+  Guitar       : B3+F#4@1>2 B3+F#4@4>1 B3+F#4@9>1 B3+F#4@10>1 B3+F#4@13>1
+  Part10       : C#5+F#5+B5@1>6 C#5+F#5+G#5@7>10
+@14 [F#]
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 C#4+F#4+C#5+F#5@15>1
+  Guitar       : C#4+F#4@1>2 C#4+F#4@4>1
+  Part10       : F#4+Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
+@15 [F#7] (grid:8)
+  Synth Brass  : C#4+F#4+Bb4@1>4 F#4+Bb4@7>1 C#4+F4+G#4@8>1
+  Bass 1       : F#2@1>1 Eb2@2>1 C#2@3>1 F#2@4>1
+  Synth Brass#2: G4+G#4+A4+Bb4+G5+G#5+A5+Bb5@1>1 G#4+G#5@2>1 F#4+F#5@3>1 F#4+F#5+F#6@4>1
+  Synth Pad    : F#5+Bb5@7>1 F5+G#5@8>1
+  Bass 2       : F#1@1>1 Eb1@2>1 C#1@3>1 F#1@4>1
+  Guitar       : C#4+F#4@1>1 C#4+F#4@3>1 C#4+F#4@4>1
+  Part10       : C#5+F#5@1>1 C#5+F5@2>1 C#5+Eb5@3>1 Bb5@4>1
+@16 [C#]
+  Melody       : C#5@5>4 C#5@9>4 C#5@15>1
+  Synth Brass  : C#4+F4+G#4@1>16
+  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
+  Synth Pad    : F5+G#5@1>2
+@17 [C#] (grid:24t)
+  Melody       : Eb5@1>6 C#5@7>3 Eb5@10>2 F5@19>2 F5@22>2
+  Synth Brass  : C#4+F4+G#4@1>24
+  Bass 1       : C#2@1>4 C#2@5>4 C#2@10>2 Bb1@22>2 C#2@23>2
+@18 [F#]
+  Melody       : F#5@1>4 F5@5>2 F#5@7>1 Bb5@11>1 Eb5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : Eb2@1>2 Eb2@4>1 C#2@5>2 Eb2@7>1 C#2@15>1
+  Guitar       : C#4+F#4@1>14
+@19 [D#m] (grid:8)
+  Melody       : Eb5@1>3
+  Synth Brass  : C#4@1>1 Bb4@2>1 F#4@3>1 Eb4@4>1 Bb3+Eb4+F#4@5>2 Bb3+Eb4+F#4@7>2
+  Bass 1       : Eb2@1>2 Eb2@3>2 Eb2@4>1 G#1@5>2 Bb1@7>2
+  Synth Pad    : F#5+Bb5@2>1 Eb5+F#5@3>1 B4+Eb5@4>1 Bb4+C#5@5>1 B4+Eb5@6>1 F#5+Bb5@7>1 F5+G#5@8>1
+  Guitar       : F#4@2>1 Eb4@3>2 Bb3@5>1 Eb4@6>1 F#4@7>1 F4@8>1
+@20 [C#]
+  Melody       : C#5@5>4 Eb5@9>2 C#5@11>1 C#5@15>1
+  Synth Brass  : G#3+C#4+F4@1>16
+  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
+  Synth Pad    : F5+G#5@1>2
+  Guitar       : F4@1>12
+@21 [C#] (grid:24t)
+  Melody       : Eb5@1>6 C#5@7>3 Eb5@10>3 F5@19>2 F5@22>2
+  Synth Brass  : G#3+C#4+F4@1>20
+  Bass 1       : C#2@1>4 C#2@5>4 C#2@10>2 C#2@19>2 Bb1@22>2 C#2@23>2
+@22 [F#] (grid:24t)
+  Melody       : F#5@1>6 F5@7>4 F#5@10>2 Bb5@16>2 Eb5@22>3
+  Synth Brass  : Bb3+C#4+F#4@1>24
+  Bass 1       : Eb2@1>3 Eb2@5>4 Eb2@10>2 C#2@22>2
+  Guitar       : F#4+C#5@1>21
+@23 [D#m7 | F#] (grid:24t)
+  Melody       : Eb5@1>9
+  Synth Brass  : Bb3+C#4+F#4@1>20
+  Bass 1       : Eb2@1>4 Eb2@5>4 C#2@10>2 Eb2@13>6 Bb1@19>6
+  Synth Pad    : Eb5+F#5@13>3 F5+G#5@16>3 F#5+Bb5@19>6
+  Guitar       : F#3+C#4@13>12
+@24 [B | F#]
+  Melody       : B5@3>2 B5@5>1 B5@7>1 B5@9>2 Bb5@11>1 Bb5@15>1
+  Synth Brass  : G#3+Eb4+F#4@1>7 G#3+C#4+F#4@11>2 G#3+C#4+F#4@15>2
+  Bass 1       : G#1@1>2 G#1@8>1 G#1@9>2 Bb1@11>2 B1@13>2 C#2@15>2
+  Synth Pad    : G#5+B5@1>4
+  Guitar       : Eb4+F#4@1>10 Eb4+F#4@11>1 Eb4+F#4@15>1
+@25 [C#]
+  Melody       : G#5@3>2 G#5@7>4 C#5@13>1 C#5@15>2
+  Synth Brass  : G#3+C#4+F4@3>2 G#3+C#4+F4@7>9
+  Bass 1       : C#2@7>1 C#2@9>3 Bb1@12>1 B1@13>3 Bb1@16>1
+  Guitar       : C#4+F4@3>1 C#4+F4@7>7
+@26 [F# | C#]
+  Melody       : Bb5@1>3 Bb5@5>1 C#6@7>4 Bb5@11>1 G#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>7 C#4+F4+G#4@11>2 C#4+F4+G#4@15>2
+  Bass 1       : Bb1@1>1 Bb1@8>1 Bb1@9>2 G#1@11>2 Bb1@13>2 B1@15>1
+  Guitar       : C#4+F#4@1>10 C#4+F4@11>1 C#4+F4@15>1
+@27 [B] (grid:8)
+  Melody       : F#5@2>1 F#5@4>4 Eb5@8>1
+  Synth Brass  : C#4+F#4+Bb4@2>1 B3+Eb4+F#4@4>4
+  Bass 1       : B1@4>1 B1@5>2 Bb1@7>2
+  Synth Pad    : Eb5+F#5@5>1 F5+G#5@6>1 F#5+Bb5@7>2
+  Guitar       : C#4+F#4@2>1 B3+Eb4@4>5
+@28 [G#m7 | C#] (grid:8)
+  Melody       : B5@1>2 B5@3>1 Bb5@4>1 G#5@6>3
+  Synth Brass  : B3+Eb4+F#4@1>2 B3+C#4+F#4@4>1 G#3+C#4+F4@6>3
+  Bass 1       : G#1@1>2 Bb1@4>1 Eb2@6>3
+  Synth Brass#2: B3+Eb4@1>3 F#4@4>1 C#4+F4@6>3
+  Synth Pad    : G#5+B5@1>2 F#5+Bb5@4>1 F5+G#5@6>2
+  Guitar       : B3+Eb4@1>2 C#4+F#4@4>1 C#4+F4@6>3
+  Part10       : G#3@1>2 G#3+C#4@4>1 G#3@6>3
+@29 [C#] (grid:24t)
+  Melody       : G#5@1>6 Bb5@10>2 G#5@13>4 G#5@17>4 Bb5@22>2
+  Synth Brass  : G#3+C#4+F4@1>12
+  Bass 1       : Eb2@1>16
+  Synth Brass#2: C#4+F4@1>18
+  Guitar       : C#4+F4@1>15
+  Part10       : G#3@1>18
+@30 [B7 | A#aug] (grid:8)
+  Melody       : F#5@1>6
+  Synth Brass  : B4@1>1 Bb4@2>1 B4@3>1 C#5@4>1
+  Bass 1       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
+  Synth Brass#2: F#4+B4+B5@1>1 F#4+Bb4+Bb5@2>1 F#4+B4+B5@3>1 G#4+C#5+C#6@4>1
+  Bass 2       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
+  Guitar       : B3@1>1 Bb3@2>1 B3@3>1 C#4@4>1
+  Part10       : Eb4@1>1 Eb4@2>1 Eb4@3>1 C#4@4>1
+@31 [F#]
+  Melody       : Bb5@5>7 Bb5@13>1 Bb5@15>2
+  Part2        : F#4@5>7 F#4@13>1 F#4@15>2
+  Part3        : C#5@5>7 C#5@13>1 C#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>2 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : F#5+Bb5@1>4
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : C#5+C#6@1>2 C#5+C#6@4>1
+@32 [F#] (grid:24t)
+  Melody       : Bb5@1>3 F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
+  Part2        : F#4@1>3 C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
+  Part3        : C#5@1>3 Bb4@4>2 Bb4@7>2 Bb4@10>8 B4@16>2
+  Synth Brass  : C#4+F#4+Bb4@1>20
+  Bass 1       : F#2@1>4 F#2@5>4 F#2@10>2
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@33 [F#]
+  Melody       : Bb5@7>1 Bb5@9>1 Bb5@11>1 Bb5@13>2 C#6@15>1
+  Part2        : F#4@7>1 F#4@9>1 F#4@11>1 F#4@13>2 Bb4@15>1
+  Part3        : C#5@7>1 C#5@9>1 C#5@11>1 C#5@13>2 F#5@15>1
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>2 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : F#5+Bb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@34 [F#] (grid:24t)
+  Melody       : F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
+  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
+  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>6 B4@16>2
+  Synth Brass  : C#4+F#4+Bb4@1>20
+  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@35 [F#]
+  Melody       : Bb5@5>7 Bb5@13>1 Bb5@15>2
+  Part2        : F#4@5>7 F#4@13>1 F#4@15>2
+  Part3        : C#5@5>7 C#5@13>1 C#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : Eb2@1>2 Eb2@4>1 C#2@5>2 Eb2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@36 [F#]
+  Melody       : Bb5@1>2 F#5@3>1 F#5@5>1 F#5@7>4 G#5@11>1
+  Part2        : F#4@1>2 F#4@3>1 C#4@5>1 C#4@7>4 C#4@11>1
+  Part3        : C#5@1>2 C#5@3>1 Bb4@5>1 Bb4@7>4 Bb4@11>1
+  Synth Brass  : C#4+F#4+Bb4@1>13
+  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
+  Synth Pad    : C#5+F5@13>2 B4+Eb5@15>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
+@37 [D#m] (grid:12t)
+  Melody       : F#5@7>1 F#5@10>1
+  Part2        : Eb4@7>1 Eb4@10>1
+  Part3        : B4@7>1 B4@10>1
+  Synth Brass  : Eb4+F#4+Bb4@1>10
+  Bass 1       : B2@1>2 B2@3>2 B2@5>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@3>1 C#4+C#5@12>1
+  Synth Pad    : B4+Eb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@3>1
+  Part10       : B4+F#5@1>2 B4+F#5@3>1
+@38 [B]
+  Melody       : F#5@1>2 G#5@3>1 Bb5@5>2 G#5@7>4 F#5@11>1 F#5@13>3
+  Part2        : Eb4@1>2 F4@3>1 F#4@5>2 F4@7>4 C#4@11>1 C#4@13>3
+  Part3        : B4@1>2 C#5@3>1 C#5@5>2 C#5@7>4 Bb4@11>1 Bb4@13>3
+  Synth Brass  : Eb4+F#4+B4@1>11 Eb4+F#4+B4@13>4
+  Bass 1       : B2@1>2 B2@4>3 B2@7>1 B2@9>4 C#3@13>4
+  Synth Brass#2: F#4+F#5@1>2 G#4+G#5@3>1 Bb4+Bb5@5>1 G#4+G#5@7>4 F#4+F#5@13>2
+  Synth Pad    : F5+G#5@13>2 F#5+Bb5@15>2
+  Guitar       : F#4+B4@1>1 F#4+B4@2>1 F#4+B4@4>1 F#4+B4@9>1 F#4+B4@10>1 F#4+B4@13>1
+@39 [F#]
+  Melody       : Bb5@5>8 Bb5@13>1 Bb5@15>2
+  Part2        : F#4@5>8 F#4@13>1 F#4@15>2
+  Part3        : C#5@5>8 C#5@13>1 C#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : F#5+Bb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@40 [F#] (grid:24t)
+  Melody       : Bb5@1>3 F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
+  Part2        : F#4@1>3 F#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
+  Part3        : C#5@1>3 C#5@4>2 Bb4@7>2 Bb4@10>8 B4@16>2
+  Synth Brass  : C#4+F#4+Bb4@1>20
+  Bass 1       : F#2@1>4 F#2@5>4 F#2@10>2
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@41 [F#]
+  Melody       : Bb5@7>1 Bb5@9>1 Bb5@10>1 Bb5@11>4 C#6@15>1
+  Part2        : F#4@7>1 F#4@9>1 F#4@10>1 F#4@11>4 Bb4@15>1
+  Part3        : C#5@7>1 C#5@9>1 C#5@10>1 C#5@11>4 F#5@15>1
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@42 [F#] (grid:24t)
+  Melody       : F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
+  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
+  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>6 Bb4@16>2
+  Synth Brass  : C#4+F#4+Bb4@1>20
+  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@43 [F#]
+  Melody       : Bb5@5>8 Bb5@13>1 Bb5@15>2
+  Part2        : F#4@5>8 F#4@13>1 F#4@15>2
+  Part3        : C#5@5>8 C#5@13>1 C#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : F#5+Bb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@44 [F#]
+  Melody       : Bb5@1>2 F#5@3>1 F#5@5>1 F#5@7>4 G#5@11>1
+  Part2        : F#4@1>2 C#4@3>1 C#4@5>1 C#4@7>4 C#4@11>1
+  Part3        : C#5@1>2 Bb4@3>1 Bb4@5>1 Bb4@7>5 B4@11>1
+  Synth Brass  : C#4+F#4+Bb4@1>13
+  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
+  Synth Pad    : F5+G#5@13>2 Eb5+F#5@15>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
+@45 [D#m7]
+  Melody       : F#5@9>1 F#5@13>1
+  Part2        : Eb4@9>1 Eb4@13>1
+  Part3        : B4@9>1 B4@13>1
+  Synth Brass  : Eb4+F#4+Bb4@1>14
+  Bass 1       : B2@1>3 B2@4>1 Bb2@5>1 B2@7>2 B2@15>1 Bb2@16>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : Eb5+F#5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : B4+C#6@1>2 B4+C#6@4>1
+@46 [D#m7 | B]
+  Melody       : F#5@1>2 G#5@3>1 Bb5@5>2 G#5@7>4 F#5@11>1 F#5@13>3
+  Part2        : Eb4@1>2 F4@3>1 F#4@5>2 F4@7>4 C#4@11>1 C#4@13>3
+  Part3        : B4@1>2 C#5@3>1 C#5@5>2 C#5@7>4 Bb4@11>1 Bb4@13>3
+  Synth Brass  : Eb4+F#4+Bb4@1>7 Eb4+F#4+B4@9>7
+  Bass 1       : G#2@1>4 Bb2@5>4 B2@9>4 C#3@13>2
+  Synth Brass#2: F#4+F#5@1>2 G#4+G#5@3>1 Bb4+Bb5@5>1 G#4+G#5@7>9
+  Bass 2       : G#1@1>4 Bb1@5>4 B1@9>4 C#2@13>2
+  Guitar       : F#4+Bb4@1>1 F#4+Bb4@3>1 F#4+B4@9>2 F#4+B4@12>1 F#4+B4@13>1
+@47 [F#]
+  Melody       : F#5@1>8 Bb5@11>4 C#6@15>1
+  Part2        : C#4@1>8
+  Part3        : Bb4@1>8
+  Synth Brass  : C#4+F#4+Bb4@1>14
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1 C#5+C#6@16>1
+  Guitar       : F#4+Bb4@1>1 F#4+Bb4@3>1 F#4+Bb4@4>1 F#4+Bb4@16>1
+  Part10       : C#6@1>2 C#6@4>1
+@48 [F#7] (grid:8)
+  Synth Brass  : F#4+Bb4+C#5@1>4 F#4+Bb4@7>1 C#4+F4+G#4@8>1
+  Bass 1       : F#2@1>1 Eb2@2>1 C#2@3>1 F#2@4>1
+  Synth Brass#2: Bb4+Bb5@1>1 G#4+G#5@2>1 F#4+F#5@3>1 F#4+F#5+F#6@4>1
+  Synth Pad    : F#5+Bb5@7>1 F5+G#5@8>1
+  Bass 2       : F#1@1>1 Eb1@2>1 C#1@3>1 F#1@4>1
+  Guitar       : F#4+Bb4@2>1 F#4+Bb4@4>1 F#4+Bb4@8>1
+  Part10       : F#5@1>1 F#5@2>1 F#5@3>1 Bb5@4>1
+@49 [C#]
+  Melody       : C#5@3>1 C#5@5>2 C#5@7>1 C#5@9>4 C#5@15>1
+  Synth Brass  : C#4+F4+G#4@1>16
+  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
+  Synth Pad    : F5+G#5@1>2
+@50 [C#] (grid:24t)
+  Melody       : C#5@1>3 C#5@4>2 C#5@7>3 Eb5@10>3 F5@16>3 F#5@22>3
+  Synth Brass  : C#4+F4+G#4@1>24
+  Bass 1       : C#2@1>4 C#2@5>4 C#2@10>2 Bb1@22>2 C#2@23>2
+@51 [F#]
+  Melody       : F#5@1>4 F5@5>2 F#5@7>1 Bb5@11>1 Eb5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : Eb2@1>2 Eb2@4>1 C#2@5>2 Eb2@7>1 C#2@15>1
+  Guitar       : C#4+F#4@1>14
+@52 [D#m] (grid:8)
+  Melody       : Eb5@1>3
+  Synth Brass  : C#4@1>1 Bb4@2>1 F#4@3>1 Eb4@4>1 Bb3+Eb4+F#4@5>2 Bb3+Eb4+F#4@7>2
+  Bass 1       : Eb2@1>2 Eb2@3>2 Eb2@4>1 G#1@5>2 Bb1@7>2
+  Synth Pad    : F#5+Bb5@2>1 Eb5+F#5@3>1 B4+Eb5@4>1 Bb4+C#5@5>1 B4+Eb5@6>1 F#5+Bb5@7>1 F5+G#5@8>1
+  Guitar       : F#4@2>1 Eb4@3>2 Bb3@5>1 Eb4@6>1 F#4@7>1 F4@8>1
+@53 [C#]
+  Melody       : Eb5@3>2 Eb5@5>3 Eb5@9>2 C#5@11>1 C#5@15>1
+  Synth Brass  : G#3+C#4+F4@1>16
+  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
+  Synth Pad    : F5+G#5@1>2
+  Guitar       : F4@1>12
+@54 [C#] (grid:24t)
+  Melody       : Eb5@1>6 C#5@7>3 Eb5@10>3 F5@19>2 F5@22>2
+  Synth Brass  : G#3+C#4+F4@1>20
+  Bass 1       : C#2@1>4 C#2@5>4 C#2@10>2 C#2@19>2 Bb1@22>2 C#2@23>2
+@55 [F#] (grid:24t)
+  Melody       : F#5@1>6 F5@7>4 F#5@10>2 Bb5@16>2 Eb5@22>3
+  Synth Brass  : Bb3+C#4+F#4@1>24
+  Bass 1       : Eb2@1>3 Eb2@5>4 Eb2@10>2 C#2@22>2
+  Guitar       : F#4+C#5@1>21
+@56 [D#m7 | F#] (grid:24t)
+  Melody       : Eb5@1>9
+  Synth Brass  : Bb3+C#4+F#4@1>20
+  Bass 1       : Eb2@1>4 Eb2@5>4 C#2@10>2 Eb2@13>6 Bb1@19>6
+  Synth Pad    : Eb5+F#5@13>3 F5+G#5@16>3 F#5+Bb5@19>6
+  Guitar       : F#3+C#4@13>12
+@57 [B | F#]
+  Melody       : B5@3>2 B5@5>1 B5@7>1 B5@9>3 Bb5@13>2 Bb5@15>2
+  Synth Brass  : G#3+Eb4+F#4@1>7 G#3+C#4+F#4@11>2 G#3+C#4+F#4@15>2
+  Bass 1       : G#1@1>2 G#1@8>1 G#1@9>2 Bb1@11>2 B1@13>2 C#2@15>2
+  Synth Pad    : G#5+B5@1>4
+  Guitar       : Eb4+F#4@1>10 Eb4+F#4@11>1 Eb4+F#4@15>1
+@58 [C#]
+  Melody       : G#5@3>2 G#5@7>4 C#5@13>1 C#5@15>2
+  Synth Brass  : G#3+C#4+F4@3>2 G#3+C#4+F4@7>9
+  Bass 1       : C#2@7>1 C#2@9>3 Bb1@12>1 B1@13>3 Bb1@16>1
+  Guitar       : C#4+F4@3>1 C#4+F4@7>7
+@59 [F# | C#]
+  Melody       : Bb5@1>3 Bb5@5>1 C#6@7>4 Bb5@11>1 G#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>7 C#4+F4+G#4@11>2 C#4+F4+G#4@15>2
+  Bass 1       : Bb1@1>1 Bb1@8>1 Bb1@9>2 G#1@11>2 Bb1@13>2 B1@15>1
+  Guitar       : C#4+F#4@1>10 C#4+F4@11>1 C#4+F4@15>1
+@60 [B] (grid:8)
+  Melody       : F#5@2>1 F#5@4>4 Eb5@8>1
+  Synth Brass  : C#4+F#4+Bb4@2>1 B3+Eb4+F#4@4>4
+  Bass 1       : B1@4>1 B1@5>2 Bb1@7>2
+  Synth Pad    : Eb5+F#5@5>1 F5+G#5@6>1 F#5+Bb5@7>2
+  Guitar       : C#4+F#4@2>1 B3+Eb4@4>5
+@61 [G#m7 | C#] (grid:8)
+  Melody       : B5@1>2 B5@3>1 Bb5@4>1 G#5@6>3
+  Synth Brass  : B3+Eb4+F#4@1>2 B3+C#4+F#4@4>1 G#3+C#4+F4@6>3
+  Bass 1       : G#1@1>2 Bb1@4>1 Eb2@6>3
+  Synth Brass#2: B3+Eb4@1>3 F#4@4>1 C#4+F4@6>3
+  Synth Pad    : G#5+B5@1>2 F#5+Bb5@4>1 F5+G#5@6>2
+  Guitar       : B3+Eb4@1>2 C#4+F#4@4>1 C#4+F4@6>3
+  Part10       : G#3@1>2 G#3+C#4@4>1 G#3@6>3
+@62 [C#] (grid:24t)
+  Melody       : G#5@1>6 Bb5@10>2 G#5@13>4 G#5@17>4 Bb5@22>2
+  Synth Brass  : G#3+C#4+F4@1>12
+  Bass 1       : Eb2@1>16
+  Synth Brass#2: C#4+F4@1>18
+  Guitar       : C#4+F4@1>15
+  Part10       : G#3@1>18
+@63 [B7 | A#aug] (grid:8)
+  Melody       : F#5@1>6
+  Synth Brass  : B4@1>1 Bb4@2>1 B4@3>1 C#5@4>1
+  Bass 1       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
+  Synth Brass#2: B4+B5@1>1 Bb4+Bb5@2>1 B4+B5@3>1 C#5+C#6@4>1
+  Bass 2       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
+  Guitar       : B3@1>1 Bb3@2>1 B3@3>1 C#4@4>1
+  Part10       : Eb4@1>1 Eb4@2>1 Eb4@3>1 C#4@4>1
+@64 [F#]
+  Melody       : Bb5@5>7 Bb5@13>1 Bb5@15>2
+  Part2        : F#4@5>7 F#4@13>1 F#4@15>2
+  Part3        : C#5@5>7 C#5@13>1 C#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : F#5+Bb5@1>4
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : C#5+C#6@1>2 C#5+C#6@4>1
+@65 [F#] (grid:24t)
+  Melody       : Bb5@1>3 F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
+  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
+  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>6 Bb4@16>2
+  Synth Brass  : C#4+F#4+Bb4@1>20
+  Bass 1       : F#2@1>4 F#2@5>4 F#2@10>2
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@66 [F#]
+  Melody       : Bb5@7>1 Bb5@9>1 Bb5@11>1 Bb5@13>2 C#6@15>1
+  Part2        : F#4@7>1 F#4@9>1 F#4@11>1 F#4@13>2 Bb4@15>1
+  Part3        : C#5@7>1 C#5@9>1 C#5@11>1 C#5@13>2 F#5@15>1
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : F#5+Bb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@67 [F#] (grid:24t)
+  Melody       : F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
+  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
+  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>6 B4@16>2
+  Synth Brass  : C#4+F#4+Bb4@1>20
+  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@68 [F#]
+  Melody       : Bb5@5>7 Bb5@13>1 Bb5@15>2
+  Part2        : F#4@5>7 F#4@13>1 F#4@15>2
+  Part3        : C#5@5>7 C#5@13>1 C#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@69 [F#]
+  Melody       : Bb5@1>2 F#5@3>1 F#5@5>1 F#5@7>4 G#5@11>1
+  Part2        : F#4@1>2 F#4@3>1 C#4@5>1 C#4@7>4 C#4@11>1
+  Part3        : C#5@1>2 C#5@3>1 Bb4@5>1 Bb4@7>4 Bb4@11>1
+  Synth Brass  : C#4+F#4+Bb4@1>13
+  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
+  Synth Pad    : C#5+F5@13>2 B4+Eb5@15>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
+@70 [D#m] (grid:12t)
+  Melody       : F#5@7>1 F#5@10>1
+  Part2        : Eb4@7>1 Eb4@10>1
+  Part3        : B4@7>1 B4@10>1
+  Synth Brass  : Eb4+F#4+Bb4@1>10
+  Bass 1       : B2@1>2 B2@3>2 B2@5>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@3>1 C#4+C#5@12>1
+  Synth Pad    : B4+Eb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@3>1
+  Part10       : B4+F#5@1>2 B4+F#5@3>1
+@71 [B]
+  Melody       : F#5@1>2 G#5@3>1 Bb5@5>2 G#5@7>4 F#5@11>1 F#5@13>3
+  Part2        : Eb4@1>2 F4@3>1 F#4@5>2 F4@7>4 Eb4@11>1 C#4@13>3
+  Part3        : B4@1>2 C#5@3>1 C#5@5>2 C#5@7>4 Bb4@11>1 Bb4@13>3
+  Synth Brass  : Eb4+F#4+B4@1>11 Eb4+F#4+B4@13>4
+  Bass 1       : B2@1>2 B2@4>3 B2@7>1 B2@9>4 C#3@13>4
+  Synth Brass#2: F#4+F#5@1>2 G#4+G#5@3>2 Bb4+Bb5@5>2 G#4+G#5@7>4 F#4+F#5@13>2
+  Synth Pad    : F5+G#5@13>2 F#5+Bb5@15>2
+  Guitar       : F#4+B4@1>1 F#4+B4@4>1 F#4+B4@9>1 F#4+B4@10>1 F#4+B4@13>1
+@72 [F#]
+  Melody       : Bb5@5>8 Bb5@13>1 Bb5@15>2
+  Part2        : F#4@5>8 F#4@13>1 F#4@15>2
+  Part3        : C#5@5>8 C#5@13>1 C#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : F#5+Bb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@73 [F#] (grid:24t)
+  Melody       : Bb5@1>3 F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
+  Part2        : F#4@1>3 C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
+  Part3        : C#5@1>3 Bb4@4>2 Bb4@7>2 Bb4@10>8 B4@16>2
+  Synth Brass  : C#4+F#4+Bb4@1>20
+  Bass 1       : F#2@1>4 F#2@5>4 F#2@10>2
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@74 [F#]
+  Melody       : Bb5@7>1 Bb5@9>1 Bb5@10>1 Bb5@11>4 C#6@15>1
+  Part2        : F#4@7>1 F#4@9>1 F#4@10>1 F#4@11>4 Bb4@15>1
+  Part3        : C#5@7>1 C#5@9>1 C#5@10>1 C#5@11>4 F#5@15>1
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@75 [F#] (grid:24t)
+  Melody       : F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
+  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
+  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>8 B4@16>2
+  Synth Brass  : C#4+F#4+Bb4@1>20
+  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
+  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
+@76 [F#]
+  Melody       : Bb5@5>8 Bb5@13>1 Bb5@15>2
+  Part2        : F#4@5>8 F#4@13>1 F#4@15>2
+  Part3        : C#5@5>8 C#5@13>1 C#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>16
+  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Synth Pad    : F#5+Bb5@1>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
+@77 [F#]
+  Melody       : Bb5@1>2 F#5@3>1 F#5@5>1 F#5@7>4 G#5@11>1
+  Part2        : F#4@1>2 C#4@3>1 C#4@5>1 C#4@7>4 C#4@11>1
+  Part3        : C#5@1>2 Bb4@3>1 Bb4@5>1 Bb4@7>5 B4@11>1
+  Synth Brass  : C#4+F#4+Bb4@1>13
+  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
+  Synth Pad    : F5+G#5@13>2 Eb5+F#5@15>2
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
+@78 [D#m7]
+  Melody       : F#5@9>1 F#5@13>1
+  Part2        : Eb4@9>1 Eb4@13>1
+  Part3        : B4@9>1 B4@13>1
+  Synth Brass  : Eb4+F#4+Bb4@1>14
+  Bass 1       : B2@1>3 B2@4>1 Bb2@5>1 B2@7>2 B2@15>1 Bb2@16>1
+  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
+  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
+  Part10       : B4+C#6@1>2 B4+C#6@4>1
+@79 [D#m7 | B] (grid:8)
+  Melody       : F#5@1>1 G#5@2>1 Bb5@3>1 G#5@4>2 F#5@6>1 F5@7>1 F#5@8>1
+  Part2        : Eb4@1>1 F4@2>1 F#4@3>1 F4@4>2 Eb4@6>1 C#4@7>1 C#4@8>1
+  Part3        : Bb4@1>1 C#5@2>1 C#5@3>1 C#5@4>2 Bb4@6>1 Bb4@7>1 Bb4@8>1
+  Synth Brass  : Eb4+F#4+Bb4@1>4 Eb4+F#4+B4@5>4
+  Bass 1       : G#2@1>2 Bb2@3>2 B2@5>2 C#3@7>1
+  Synth Brass#2: F#4+F#5@1>1 G#4+G#5@2>1 Bb4+Bb5@3>1 G#4+G#5@4>2
+  Bass 2       : G#1@1>2 Bb1@3>2 B1@5>2 C#2@7>1
+  Guitar       : F#4+Bb4@1>1 F#4+Bb4@2>1 F#4+Bb4@3>1 F#4+B4@5>1 F#4+B4@7>1
+@80 [D#m]
+  Melody       : F#5@1>10 Bb5@13>4
+  Part2        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Bb4@7>7 Bb4@16>1
+  Part3        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Eb5@7>7 Bb4@16>1
+  Synth Brass  : Bb3+Eb4+F#4@1>14
+  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1 C#2@16>1
+  Bass 2       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1 C#2@16>1
+  Guitar       : Eb4+F#4@1>1 Eb4+F#4@2>1 Eb4+F#4@3>1 C#4+F4@4>1 C4@5>1 Eb4+F#4@6>1 Eb4@7>1 Eb4+F#4@8>1 C#4+F4@9>3 Eb4+F#4@12>1
+@81 [D#7 | D#m7]
+  Melody       : Bb5@1>4
+  Part2        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Bb4@7>7
+  Part3        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Eb5@7>7
+  Bass 1       : Eb2@1>2 Eb2@4>2 Eb2@7>1 C#2@16>1
+  Bass 2       : Eb2@1>3 Eb2@4>3 Eb2@7>1 C#2@16>1
+  Guitar       : G#3+C#4+F4@1>1 G#3+C#4+F4@2>1 G#3+C#4@3>1 G#3+C#4+F4@4>1 G#3+C#4@5>1 G#3+C#4@6>1 G#3+C#4@7>1 G#3+C#4+F4@9>1 G#3+C#4+F4@10>1 G#3+C#4@11>1 Bb3+Eb4+F#4@12>1
+@82 [C#]
+  Melody       : Bb5@5>1 C#6@7>4 Bb5@11>1 Bb5@13>1 C5+C#6@15>2
+  Synth Brass  : G#3+C#4+F4@1>14
+  Bass 1       : C#2@1>2 C#2@4>1 Bb1@5>2 C#2@7>1
+  Bass 2       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1
+  Guitar       : C#4+F4@1>1 G#3@2>1 G#3@3>1 C#4+F4@4>1 G#3@6>1 G#3@7>1 G#3@8>1 C#4@9>1 G#3@10>1 G#3@11>1 G#3@12>1 C#4@14>1 G#3@15>1 G#3@16>1
+@83 [A#m7]
+  Melody       : C#6@1>3 Bb5@5>7
+  Bass 1       : C#2@1>3 C#2@4>3 C#2@7>1 G#1@9>4 Bb1@13>4
+  Bass 2       : C#2@1>3 C#2@4>3 C#2@7>1 G#1@9>4 Bb1@13>4
+  Guitar       : C#4+F4@1>1 G#3@2>1 G#3+C#4@3>1 C#4+F4@4>1 C#4@6>1 G#3@7>1 B3+Eb4+G#4@9>4 C#4+F4+Bb4@13>4
+@84 [D#m]
+  Part2        : Bb4@1>1 Bb4@3>1 Bb4@4>1 Bb4@7>7 Bb4@16>1
+  Part3        : Bb4@1>1 Bb4@3>1 Bb4@4>1 Eb5@7>7 Bb4@16>1
+  Synth Brass  : Bb3+Eb4+F#4@1>14
+  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>1 Eb2@7>5
+  Bass 2       : Eb2@1>3 Eb2@4>1 C#2@5>1 Eb2@7>5
+  Guitar       : Eb4+F#4@1>1 Eb4+F#4@2>1 Eb4+F#4@3>1 C#4+F4@4>1 C4@5>1 Eb4+F#4@6>1 Eb4@7>1 Eb4+F#4@8>1 C#4+F4@9>3 Eb4+F#4@12>1
+@85 [D#7 | D#m7]
+  Part2        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Bb4@7>7
+  Part3        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Eb5@7>7
+  Bass 1       : Eb2@1>3 Eb2@4>2 Eb2@7>1 C#2@15>1 Eb2@16>1
+  Bass 2       : Eb2@1>3 Eb2@4>2 Eb2@7>1 C#2@15>1 Eb2@16>1
+  Guitar       : G#3+C#4+F4@1>1 G#3+C#4+F4@2>1 G#3+C#4@3>1 G#3+C#4+F4@4>1 G#3+C#4@5>1 G#3+C#4@6>1 G#3+C#4@7>1 G#3+C#4+F4@9>1 G#3+C#4+F4@10>1 G#3+C#4@11>1 Bb3+Eb4+F#4@12>1
+@86 [C#]
+  Melody       : Bb5@5>1 C#6@7>7 Bb5@15>1
+  Synth Brass  : G#3+C#4+F4@1>14
+  Bass 1       : C#2@1>3 C#2@4>3 C#2@7>1
+  Bass 2       : C#2@1>3 C#2@4>3 C#2@7>1
+  Guitar       : C#4+F4@1>1 G#3@2>1 G#3@3>1 C#4+F4@4>1 G#3@6>1 G#3@7>1 G#3@8>1 C#4@9>1 G#3@10>1 G#3@11>1 G#3@12>1 C#4@14>1 G#3@15>1 G#3@16>1
+@87 [A#m7] (grid:24t)
+  Melody       : Eb6@1>6 Bb5@7>2 C#6@10>8 Bb5@19>4
+  Bass 1       : C#2@1>4 C#2@5>3 Bb1@10>2 C#2@13>4 B1@17>4 B1@22>3
+  Synth Pad    : C#5+F5@13>4 Eb5+F#5@17>4 F5+G#5@22>3
+  Bass 2       : C#2@1>4 C#2@5>3 Bb1@10>2 C#2+C#3@13>4 B1+B2@17>4 B1+Bb2@22>3
+  Guitar       : C#4+F4@1>4 C#4+F4@5>2 C#4+F4@13>3 Eb4+F#4@17>3 F4+G#4@22>2
+@88 [B | F#]
+  Melody       : B5@5>4 B5@9>2 Bb5@11>1 Bb5@15>1
+  Synth Brass  : G#3+Eb4+F#4@1>7 G#3+C#4+F#4@11>2 G#3+C#4+F#4@15>2
+  Bass 1       : G#1@1>2 G#1@8>1 G#1@9>2 Bb1@11>2 B1@13>2 C#2@15>2
+  Synth Pad    : G#5+B5@1>4
+  Guitar       : Eb4+F#4@1>9 Eb4+F#4@11>1 C#4+F4@15>1
+@89 [C#]
+  Melody       : G#5@3>1 G#5@7>2 C#5@11>1 C#5@13>1 Eb6@15>2
+  Synth Brass  : G#3+C#4+F4@3>2 G#3+C#4+F4@7>9
+  Bass 1       : C#2@7>1 C#2@9>3 Bb1@12>1 B1@13>3 Bb1@16>1
+  Guitar       : C#4+F4@3>1 C#4+F4@7>9
+@90 [F# | C#]
+  Melody       : Eb6@1>2 C#6@3>1 Bb5@7>4 G#5@11>1 G#5@15>2
+  Synth Brass  : C#4+F#4+Bb4@1>7 C#4+F4+G#4@11>2 C#4+F4+G#4@15>2
+  Bass 1       : Bb1@1>2 Bb1@8>1 Bb1@9>2 G#1@11>2 Bb1@13>2 B1@15>1
+  Synth Pad    : F#5+Bb5@1>4
+  Guitar       : F#4+Bb4@1>3 F#4+Bb4@4>1 F4+G#4@11>1 F4+G#4@15>1
+@91 [D#m7 | B]
+  Melody       : G#5@1>2 Bb5@3>1 F#5@7>1 G#5@9>1 F#5@10>1 Eb5@11>2 C#5@15>1
+  Synth Brass  : C#4+F#4+Bb4@3>2 B3+Eb4+F#4@7>7
+  Bass 1       : B1@7>1 B1@9>4 Bb1@13>4
+  Synth Pad    : C#5+F5@9>2 Eb5+F#5@11>2 F5+G#5@13>4
+  Guitar       : F#4+Bb4@3>1 Eb4+F#4@7>8
+@92 [G#m | C#] (grid:8)
+  Melody       : B5@1>2 B5@3>1 Bb5@4>1 G#5@6>3
+  Synth Brass  : G#3+B3+Eb4@1>2 Bb3+Eb4+F#4@4>1 Bb3+C#4+F4@6>3
+  Bass 1       : G#1@1>2 Bb1@4>1 Eb2@6>3
+  Synth Pad    : G#5+B5@1>2 F#5+Bb5@4>1 Eb5+G#5@6>2
+  Guitar       : G#3+Eb4@1>2 Bb3+F#4@4>1 G#3+F4@6>3
+@93 [C# | G#] (grid:24t)
+  Melody       : G#5@1>8 Bb5@10>2 G#5@13>3 G#5@17>3 Bb5@22>2
+  Synth Brass  : Bb3+C#4+F4@1>12
+  Bass 1       : Eb2@1>15
+  Guitar       : G#3+F4@1>14
+@94 [A#m] (grid:8)
+  Melody       : C#6@1>7
+  Synth Brass  : B4@1>1 Bb4@2>1 B4@3>1 C#5@4>1
+  Bass 1       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
+  Synth Brass#2: B4+B5@1>1 Bb4+Bb5@2>1 B4+B5@3>1 C#5+C#6@4>1
+  Bass 2       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
+  Guitar       : B3@1>1 Bb3@2>1 B3@3>1 C#4@4>1
+@95 [G#]
+  Melody       : C6@5>8 C6@13>1 C6@15>2
+  Part2        : G#4@5>8 G#4@13>1 G#4@15>2
+  Part3        : Eb5@5>8 Eb5@13>1 Eb5@15>2
+  Synth Brass  : G#3+C4+Eb4@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
+  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
+  Synth Pad    : G#5+C6@1>4
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@96 [G#] (grid:24t)
+  Melody       : C6@1>3 G#5@4>2 G#5@7>2 G#5@10>6 Bb5@16>2
+  Part2        : G#4@1>3 Eb4@4>2 Eb4@7>2 Eb4@10>6 Eb4@16>2
+  Part3        : Eb5@1>3 C5@4>2 C5@7>2 C5@10>8 C#5@16>2
+  Synth Brass  : G#3+C4+Eb4@1>20
+  Bass 1       : G#1@1>3 G#1@5>4 G#1@10>2
+  Synth Pad    : G5+Bb5@19>3 G#5+C6@22>3
+  Guitar       : G#4+C5@1>4 G#4+C5@5>2 G#4+C5@13>4 G#4+C5@17>2
+@97 [G#]
+  Melody       : C6@7>1 C6@9>1 C6@10>1 C6@11>4 Eb6@15>1
+  Part2        : G#4@7>1 G#4@9>1 G#4@10>1 G#4@11>4 C5@15>1
+  Part3        : Eb5@7>1 Eb5@9>1 Eb5@10>1 Eb5@11>4 G#5@15>1
+  Synth Brass  : G#3+C4+Eb4@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
+  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@98 [G#]
+  Melody       : G#5@3>1 G#5@5>1 G#5@7>4 Bb5@11>1
+  Part2        : Eb4@3>1 Eb4@5>1 Eb4@7>4 Eb4@11>1
+  Part3        : C5@3>1 C5@5>1 C5@7>5 C#5@11>1
+  Synth Brass  : G#3+C4+Eb4@1>13
+  Bass 1       : G#1@1>2 G#1@4>3 G#1@7>1 G#1@9>3 G#1@12>1 G1@13>3 G1@16>1
+  Synth Brass#2: G#5+C6+Eb6@13>2
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@99 [G#]
+  Melody       : C6@5>8 C6@13>1 C6@15>2
+  Part2        : G#4@5>8 G#4@13>1 G#4@15>2
+  Part3        : Eb5@5>8 Eb5@13>1 Eb5@15>2
+  Synth Brass  : G#3+C4+Eb4@1>16
+  Bass 1       : F1@1>3 F1@4>1 Eb1@5>2 F1@7>1
+  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@100 [G#]
+  Melody       : C6@1>2 G#5@3>1 G#5@5>1 G#5@7>4 Bb5@11>1
+  Part2        : G#4@1>2 Eb4@3>1 Eb4@5>1 Eb4@7>4 Eb4@11>1
+  Part3        : Eb5@1>2 C5@3>1 C5@5>1 C5@7>4 C5@11>1
+  Synth Brass  : G#3+C4+Eb4@1>13
+  Bass 1       : F1@1>3 F1@4>1 F1@7>1 Eb1@8>1 F1@9>3 Eb1@12>1 C2@13>4
+  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@101 [C#]
+  Melody       : G#5@9>1 G#5@13>1
+  Part2        : F4@9>1 F4@13>1
+  Part3        : C#5@9>1 C#5@13>1
+  Synth Brass  : G#3+C#4+F4@1>14
+  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>2 Bb1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : F5+G#5@1>2
+  Guitar       : Eb4+G#4@1>3 Eb4+G#4@4>1
+  Part10       : G#4+F5@1>2 G#4+F5@4>1
+@102 [C# | D#7] (grid:8)
+  Melody       : G#5@1>1 Bb5@2>1 C6@3>1 Bb5@4>2 G#5@6>1 G#5@7>1
+  Part2        : Eb4@1>1 G4@2>1 G#4@3>1 G4@4>2 Eb4@6>1 Eb4@7>1
+  Part3        : C#5@1>1 C#5@2>1 Eb5@3>1 Eb5@4>2 C5@6>1 C5@7>1
+  Synth Brass  : G#3+C#4+F4@1>4 G#3+C#4+F4@5>2 Bb3+Eb4+G4@7>1
+  Bass 1       : C#2@1>2 C#2@3>1 C#2@4>1 C#2@5>2 Eb2@7>2
+  Synth Brass#2: G#4+G#5@1>1 Bb4+Bb5@2>1 C5+C6@3>1 Bb4+G5+Bb5@4>4
+  Synth Pad    : G5+Bb5@7>1 G#5+C6@8>1
+  Bass 2       : C#2@1>2 C#2@3>1 C#2@4>1 C#2@5>2 Eb2@7>2
+  Guitar       : Eb4+G#4@1>1 Eb4+G#4@3>1 Eb4+G#4@5>1 Eb4+G4@7>1
+@103 [G#]
+  Melody       : C6@5>8 C6@13>1 C6@15>2
+  Part2        : G#4@5>8 G#4@13>1 G#4@15>2
+  Part3        : Eb5@5>8 Eb5@13>1 Eb5@15>2
+  Synth Brass  : C4+Eb4+G#4@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
+  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@104 [G#] (grid:24t)
+  Melody       : C6@1>3 G#5@4>2 G#5@7>2 G#5@10>6 Bb5@16>2
+  Part2        : G#4@1>3 Eb4@4>2 Eb4@7>2 Eb4@10>6 Eb4@16>2
+  Part3        : Eb5@1>3 C5@4>2 C5@7>2 C5@10>8 C#5@16>2
+  Synth Brass  : C4+Eb4+G#4@1>20
+  Bass 1       : G#1@1>3 G#1@5>4 G#1@10>2
+  Synth Pad    : G5+Bb5@19>3 G#5+C6@22>3
+  Guitar       : G#4+C5@1>4 G#4+C5@5>2 G#4+C5@13>4 G#4+C5@17>2
+@105 [G#]
+  Melody       : C6@7>1 C6@9>1 C6@10>1 C6@11>4 Eb6@15>1
+  Part2        : G#4@7>1 G#4@9>1 G#4@10>1 G#4@11>4 C5@15>1
+  Part3        : Eb5@7>1 Eb5@9>1 Eb5@10>1 Eb5@11>4 G#5@15>1
+  Synth Brass  : C4+Eb4+G#4@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@106 [G#]
+  Melody       : G#5@3>1 G#5@5>1 G#5@7>4 Bb5@11>1
+  Part2        : Eb4@3>1 Eb4@5>1 Eb4@7>4
+  Part3        : C5@3>1 C5@5>1 C5@7>4
+  Synth Brass  : C4+Eb4+G#4@1>13
+  Bass 1       : G#1@1>3 G#1@4>1 F1@7>1 G#1@8>1 G#1@9>4 G1@13>4
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@107 [G#]
+  Melody       : C6@5>8 C6@13>1 C6@15>2
+  Part2        : G#4@5>8 G#4@13>1 G#4@15>2
+  Part3        : Eb5@5>8 Eb5@13>1 Eb5@15>2
+  Synth Brass  : C4+Eb4+G#4@1>16
+  Bass 1       : F1@1>3 F1@4>1 Eb1@5>2 F1@7>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@108 [G#]
+  Melody       : C6@1>2 G#5@3>1 G#5@5>1 G#5@7>4 Bb5@11>1
+  Part2        : G#4@1>2 Eb4@3>1 Eb4@5>1 Eb4@7>4 Eb4@11>1
+  Part3        : Eb5@1>2 C5@3>1 C5@5>1 C5@7>4 C5@11>1
+  Synth Brass  : C4+Eb4+G#4@1>13
+  Bass 1       : F1@1>3 F1@4>2 F1@7>1 F1@9>3 F1@12>1 C2@13>3 C2@16>1
+  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@109 [C#]
+  Melody       : G#5@9>1 G#5@13>1
+  Part2        : F4@9>1 F4@13>1
+  Part3        : C#5@9>1 C#5@13>1
+  Synth Brass  : G#3+C#4+F4@1>14
+  Bass 1       : C#2@1>3 C#2@4>1 B1@5>2 C#2@7>1 C#2@15>1 C2@16>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : F5+G#5@1>2
+  Guitar       : C#4+F4@1>2 C#4+F4@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@110 [Fm7 | D#]
+  Melody       : G#5@1>2 Bb5@3>1 C6@5>2 Eb6@7>4 C6@11>1
+  Part2        : F4@1>2 G4@3>1 G#4@5>2 G4@7>4
+  Part3        : C#5@1>2 Eb5@3>1 Eb5@5>2 Eb5@7>4
+  Synth Brass  : G#3+C#4+F4@1>7 Bb3+Eb4+G4@9>7
+  Bass 1       : Bb1@1>3 Bb1@4>1 C2@5>3 C2@8>1 C#2@9>3 Bb1@12>1 Eb2@13>4
+  Synth Brass#2: G#4+G#5@1>2 Bb4+Bb5@3>1 C5+C6@5>2 Bb4+G5+Bb5@7>5 G#4+G#5@13>1 G#5+G#6@15>1
+  Bass 2       : Bb1@1>3 Bb1@4>1 C2@5>3 C2@8>1 C#2@9>3 Bb1@12>1 Eb2@13>4
+  Guitar       : C#4+F4@1>2 C#4+F4@4>1 Eb4+G4@9>1 Eb4+G4@13>1 Eb4+G4@14>1
+@111 [G#] (grid:24t)
+  Bass 1       : G#1@1>15
+  Synth Brass#2: Eb5+G#5+C6@1>3 Eb5+G#5+C6@5>2
+  Bass 2       : G#1@1>15
+  Guitar       : G#4+C5@1>6 G#4@15>2 F4@16>2 Eb4@17>2
+@112 [G#]
+  Synth Brass#2: Eb5+G#5+C6@16>1
+  Guitar       : G#3+G#4@10>1 G#3+G#4@12>1 G#3+G#4@14>1 G#3+G#4@16>1
+@113 [G#] (grid:24t)
+  Bass 1       : G#1@1>15
+  Synth Brass#2: Eb5+G#5+C6@1>4
+  Bass 2       : G#1@1>15
+  Guitar       : G#3+G#4@1>4 G#4@21>2 F4@22>2 Eb4@23>2
+@114 [G#]
+  Synth Brass#2: Eb5+G#5+C6@16>1
+  Guitar       : G#3+G#4@10>1 G#3+G#4@12>1 G#3+G#4@14>1 G#3+G#4@16>1
+@115 [G#] (grid:24t)
+  Bass 1       : G#1@1>15
+  Synth Brass#2: Eb5+G#5+C6@1>4
+  Bass 2       : G#1@1>15
+  Guitar       : G#3+G#4@1>4 G#4@21>2 F4@22>2 Eb4@23>2
+@116 [G#]
+  Synth Brass#2: Eb5+G#5+C6@16>1
+  Guitar       : G#3+G#4@10>1 G#3+G#4@12>1 G#3+G#4@14>1 G#3+G#4@16>1
+@117 [G#] (grid:24t)
+  Bass 1       : G#1@1>15
+  Synth Brass#2: Eb5+G#5+C6@1>4
+  Bass 2       : G#1@1>15
+  Guitar       : G#3+G#4@1>4 G#4@21>2 F4@22>2 Eb4@23>2
+@118 [G#]
+  Melody       : C6@1>1 C6@3>1 C6@5>1 C6@7>1 Eb6@8>2 C6@11>1
+  Part2        : G#4@1>1 G#4@3>1 G#4@5>1 G#4@7>1 C5@8>2 G#4@11>1
+  Guitar       : G#3+G#4@10>1 G#3+G#4@12>1 G#3+G#4@14>1 G#4@16>1
+@119 [G#]
+  Melody       : C6@1>1 C6@4>1 C6@5>1 C6@6>1 C6@7>3
+  Part2        : G#4@1>1 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>3
+  Part3        : Eb5@1>1 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>3
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
+  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
+  Synth Pad    : G#5+C6@1>4
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@120 [G#]
+  Melody       : G#5@5>1 Eb5@7>1 F5@8>2 G#5@11>1
+  Synth Brass  : Eb4+G#4+C5@1>13
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>5
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@121 [G#]
+  Melody       : C6@1>1 C6@4>1 C6@5>1 C6@6>1 C6@7>1 G5+G#5+A5+Bb5+B5@8>1 D5+Eb5+E5+F5+F#5@9>1 C5+C#5@10>1
+  Part2        : G#4@1>1 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>1 Eb4+E4+F4+F#4+G4@8>1 Bb3+B3+C4+C#4+D4@9>1 G#3+A3@10>1
+  Part3        : Eb5@1>1 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>1 Bb4+B4+C5+C#5+D5@8>1 F4+F#4+G4+G#4+A4@9>1 Eb4+E4@10>1
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
+  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@122 [G#]
+  Melody       : G#5@5>2 F5@7>1 G#5@8>1 D6+Eb6@13>2 A5+Bb5+B5+C6+C#6+D6@15>1 E5+F5+F#5+G5+G#5@16>1
+  Synth Brass  : Eb4+G#4+C5@1>13
+  Bass 1       : G#1@1>3 G#1@4>1 F1@5>1 G#1@7>1 G#1@8>1 G#1@9>3 G#1@12>1 G1@13>4
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@123 [G#]
+  Melody       : Eb6@1>1 Eb6@4>1 Eb6@5>1 Eb6@6>1 C6@7>2 F#5+G5+G#5+A5+Bb5+B5@9>1 C#5+D5+Eb5+E5+F5@10>1
+  Part2        : G#4@1>1 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>2 D4+Eb4+E4+F4+F#4+G4@9>1 A3+Bb3+B3+C4+C#4@10>1
+  Part3        : Eb5@1>1 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>2 A4+Bb4+B4+C5+C#5+D5@9>1 E4+F4+F#4+G4+G#4@10>1
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : F1@1>3 F1@4>1 Eb1@5>2 F1@7>2
+  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@124 [G# | Fm7]
+  Melody       : G#5@5>1 F5@7>1 G#5@8>2 C6@11>4
+  Synth Brass  : Eb4+G#4+C5@1>13
+  Bass 1       : F1@1>3 F1@4>1 F1@9>3 F1@12>1 C2@13>3 C2@16>1
+  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@125 [C#]
+  Melody       : G#5@9>2 G#5@13>2
+  Part2        : F4@9>2 F4@13>2
+  Part3        : C#5@9>2 C#5@13>2
+  Synth Brass  : F4+G#4+C#5@1>14
+  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 C#2@15>1 C2@16>1
+  Synth Brass#2: G#5+C6+Eb6@1>3 G#5+C6+Eb6@4>1
+  Synth Pad    : F5+G#5@1>2
+  Guitar       : Eb4+G#4@1>2 Eb4+G#4@4>1
+  Part10       : G#4+F5@1>2 G#4+F5@4>1
+@126 [A#m | D#]
+  Melody       : G#5@1>2 Bb5@3>1 C6@5>1 Eb6@7>7 C6@15>2
+  Part2        : F4@1>2 F4@3>1 F4@5>1 G4@7>7 G#4@15>2
+  Part3        : C#5@1>2 C#5@3>1 C#5@5>1 Eb5@7>7 Eb5@15>2
+  Synth Brass  : F4+Bb4+C#5@1>11 G4+Bb4+Eb5@13>4
+  Bass 1       : Bb1@1>4 C2@5>3 Bb1@8>1 C#2@9>3 Bb1@12>1 Eb2@13>4
+  Synth Brass#2: G#4+G#5@1>2 Bb4+Bb5@3>1 C5+C6@5>2 Bb4+Bb5@7>5 G#4+G#5@13>1 G#5+G#6@15>1
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Bass 2       : Bb1@1>4 C2@5>3 Bb1@8>1 C#2@9>3 Bb1@12>1 Eb2@13>4
+  Guitar       : Eb4+G#4@1>2 Eb4+G#4@4>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G4@13>1
+  Part10       : G#5@1>2 Bb5@3>1 C6@5>1 G5@7>7 G5@15>1
+@127 [G#]
+  Melody       : C6@1>1 C6@3>1 C6@5>1 C6@6>1 C6@7>4 C6@12>1 C6@13>1 C6@14>1 C6@15>2
+  Part2        : G#4@1>1 G#4@3>1 G#4@5>1 G#4@6>1 G#4@7>4 G#4@12>1 G#4@13>1 G#4@14>1 G#4@15>2
+  Part3        : Eb5@1>1 Eb5@3>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 Eb5@12>1 Eb5@13>1 Eb5@14>1 Eb5@15>2
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>2 G#1@7>1 F1@15>1
+  Synth Brass#2: Eb5+G#5+C6@1>3 Eb5+G#5+C6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@128 [G#]
+  Melody       : C6@1>2 C6@4>1 C6@5>1 C6@6>1 C6@7>4 F#5+G5+G#5+A5+Bb5+B5@11>1 C#5+D5+Eb5+E5+F5@12>1
+  Part2        : G#4@1>2 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>4 D4+Eb4+E4+F4+F#4+G4@11>1 A3+Bb3+B3+C4+C#4@12>1
+  Part3        : Eb5@1>2 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 A4+Bb4+B4+C5+C#5+D5@11>1 E4+F4+F#4+G4+G#4@12>1
+  Synth Brass  : Eb4+G#4+C5@1>13
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>5
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@129 [G#]
+  Melody       : C6@1>3 C6@4>1 C6@6>1 C6@7>4 C6@12>1 C6@13>1 C6@14>1 C6@15>2
+  Part2        : G#4@1>3 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>4 G#4@12>1 G#4@13>1 G#4@14>1 G#4@15>2
+  Part3        : Eb5@1>3 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 Eb5@12>1 Eb5@13>1 Eb5@14>1 Eb5@15>2
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>2 G#1@7>1 F1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@130 [G#]
+  Melody       : C6@1>2 C6@4>1 C6@5>1 C6@6>1 C6@7>4 F#5+G5+G#5+A5+Bb5+B5@11>1 C#5+D5+Eb5+E5+F5@12>1
+  Part2        : G#4@1>2 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>4 D4+Eb4+E4+F4+F#4+G4@11>1 A3+Bb3+B3+C4+C#4@12>1
+  Part3        : Eb5@1>2 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 A4+Bb4+B4+C5+C#5+D5@11>1 E4+F4+F#4+G4+G#4@12>1
+  Synth Brass  : Eb4+G#4+C5@1>13
+  Bass 1       : G#1@1>2 G#1@4>1 G#1@7>1 F1@8>1 G#1@9>3 G1@13>3
+  Synth Brass#2: G#5+C6+Eb6@9>2 G#5+C6+Eb6@13>2
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@131 [G#]
+  Melody       : Eb6@1>3 Eb6@4>1 Eb6@5>1 Eb6@6>1 C6@7>4 C6@12>1 C6@13>1 C6@14>1 C6@15>2
+  Part2        : G#4@1>3 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>4 G#4@12>1 G#4@13>1 G#4@14>1 G#4@15>2
+  Part3        : Eb5@1>3 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 Eb5@12>1 Eb5@13>1 Eb5@14>1 Eb5@15>2
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : F1@1>2 F1@4>1 Eb1@5>1 F1@7>1 Eb1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@132 [G#]
+  Melody       : C6@1>2 Bb5@5>1 G#5@7>4 C#5+D5+Eb5+E5+F5+F#5@11>1 A4+Bb4+B4+C5@12>1
+  Part2        : G#4@1>2
+  Part3        : Eb5@1>2
+  Synth Brass  : Eb4+G#4+C5@1>13
+  Bass 1       : F1@1>3 F1@4>1 F1@7>1 F1@9>3 F1@12>1 C2@13>3 C2@16>1
+  Synth Brass#2: G#5+C6+Eb6@13>2
+  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@133 [C#]
+  Melody       : G#5@9>2 G#5@13>2
+  Part2        : F4@9>2 F4@13>2
+  Part3        : C#5@9>2 C#5@13>2
+  Synth Brass  : F4+G#4+C#5@1>14
+  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>3 G#5+C6+Eb6@4>1
+  Synth Pad    : F5+G#5@1>2
+  Guitar       : G#4+C#5@1>3 G#4+C#5@4>11
+  Part10       : G#4+F5@1>2 G#4+F5@4>1
+@134 [A#m7 | D#7]
+  Melody       : G#5@1>2 Bb5@3>1 C6@5>1 Eb6@7>8 C6@15>1
+  Part2        : F4@1>2 F4@3>1 F4@5>1 G4@7>8 G4@15>1
+  Part3        : C#5@1>2 C#5@3>1 C#5@5>1 Eb5@7>8 D5@15>1
+  Synth Brass  : F4+Bb4+C#5@1>11 G4+Bb4+Eb5@13>4
+  Bass 1       : C#2@1>3 C#2@4>1 C#2@7>1 C#2@9>4 Eb2@13>2
+  Synth Brass#2: G#4+G#5@1>2 Bb4+Bb5@3>1 C5+C6@5>2 Bb4+Bb5@7>5 G#4+G#5@13>1 G#5+G#6@15>1
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Bass 2       : C#2@1>3 C#2@4>1 C#2@7>1 C#2@9>4 Eb2@13>2
+  Guitar       : G#4+C#5@1>2 G#4+C#5@4>1 G#4+C#5@9>1 G#4+C#5@10>1 G4+C#5@13>1
+  Part10       : G#4@1>2 Bb4@3>1 C5@5>1 G4@7>8
+@135 [G#]
+  Melody       : Bb5@11>2 G#5@13>1
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>2 G#1@7>1 F1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>2 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@136 [G#] (grid:24t)
+  Synth Brass  : Eb4+G#4+C5@1>20
+  Bass 1       : G#1@1>4 G#1@5>2 G#1@10>2 G#1@13>3
+  Synth Pad    : G5+Bb5@19>3 G#5+C6@22>3
+  Guitar       : G#4+C5@1>3 G#4+C5@5>2 G#4+C5@13>3 G#4+C5@17>2
+@137 [G#]
+  Melody       : Bb5@11>2 G#5@13>1
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : G#1@1>3 G#1@4>1 F1@5>1 G#1@7>1 F1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>2 G#4+C5@4>1
+  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
+@138 [G#] (grid:24t)
+  Synth Brass  : Eb4+G#4+C5@1>20
+  Bass 1       : G#1@1>3 G#1@5>2 G#1@10>2 G#1@13>4 G1@19>4
+  Synth Brass#2: G#5+C6+Eb6@13>3 G#5+C6+Eb6@19>3
+  Synth Pad    : G5+Bb5@19>3 G#5+C6@22>3
+  Guitar       : G#4+C5@1>4 G#4+C5@5>2 G#4+C5@13>3 G#4+C5@17>2
+@139 [G#]
+  Melody       : Bb5@3>1 G#5@5>4 F5@11>2 Bb4@13>1
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : F1@1>2 F1@4>1 Eb1@5>1 F1@7>1 Eb1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>2 G#4+C5@4>1
+@140 [G#]
+  Synth Brass  : Eb4+G#4+C5@1>13
+  Bass 1       : F1@1>3 F1@4>1 F1@7>1 F1@9>3 F1@12>1 C2@13>3 C2@16>1
+  Synth Brass#2: G#5+C6+Eb6@13>2
+  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
+  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
+@141 [C#]
+  Synth Brass  : F4+G#4+C#5@1>14
+  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
+  Synth Pad    : F5+G#5@1>2
+  Guitar       : G#4+C#5@1>2 G#4+C#5@4>1
+@142 [A#m7 | Gdim]
+  Synth Brass  : F4+Bb4+C#5@1>11 G4+Bb4+Eb5@13>4
+  Bass 1       : C#2@1>3 C#2@4>1 C#2@7>1 C#2@9>4 Eb2@13>2
+  Synth Brass#2: G#4+G#5@1>2 Bb4+Bb5@3>1 C5+C6@5>2 Bb4+Bb5@7>5 G#4+G#5@13>1 G#5+G#6@15>1
+  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
+  Bass 2       : C#2@1>3 C#2@4>1 C#2@7>1 C#2@9>4 Eb2@13>2
+  Guitar       : G#4+C#5@1>2 G#4+C#5@4>1 G#4+C#5@9>1 G#4+C#5@10>1 G4+C#5@13>1
+@143 [G#]
+  Synth Brass  : Eb4+G#4+C5@1>16
+  Bass 1       : G#1@1>2 G#1@4>1 F1@5>2 G#1@7>1 F1@15>1
+  Synth Brass#2: G#5+C6+Eb6@1>3 G#5+C6+Eb6@4>1
+  Synth Pad    : G#5+C6@1>2
+  Guitar       : G#4+C5@1>2 G#4+C5@4>1
+@144 [G#] (grid:4)
+  Synth Brass  : Eb4+G#4+C5@1>3

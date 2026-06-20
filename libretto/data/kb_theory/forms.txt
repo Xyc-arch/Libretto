@@ -1,0 +1,194 @@
+# kb_theory: forms (musical structure)
+CONCEPT: binary form (A–B)
+ID: TF-BINARY
+CATEGORY: form
+LEVEL: beginner
+WHAT: Binary form is a two-part structure, A then B, with distinct material in each
+section (often A in the tonic, B contrasting). No return of A. The miniature below labels
+each section in the `[chord]`/comment and gives each part its own melodic material.
+CHALLENGE: Hear and play two contrasting sections in a row, shaping a clear end of A
+before starting the new idea in B.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: D4@1>4 G4@5>4 B4@9>4 G4@13>4
+@3 [F]
+  Piano: F4@1>4 A4@5>4 C5@9>4 A4@13>4
+@4 [C]
+  Piano: G4@1>4 E4@5>4 D4@9>4 C4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: ternary form (A–B–A)
+ID: TF-TERNARY
+CATEGORY: form
+LEVEL: beginner
+WHAT: Ternary form is a three-part structure A–B–A: an opening idea (A), a contrasting
+middle (B), then a return of the opening A. The outer A sections share material; B is
+distinct. The miniature uses one bar per section with A repeated.
+CHALLENGE: Play the same A material at the start and the end, with a clearly different B
+in between — and make the return of A feel like a homecoming.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 3
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: D4@1>4 F4@5>4 A4@9>4 F4@13>4
+@3 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: verse–chorus form
+ID: TF-VERSE-CHORUS
+CATEGORY: form
+LEVEL: beginner
+WHAT: Verse–chorus form alternates a VERSE (changing words/melody, often lower energy)
+with a recurring CHORUS (the hook, same each time). The miniature gives the verse its own
+two-bar idea and the chorus a distinct, repeating two-bar idea.
+CHALLENGE: Contrast a calmer verse against a stronger, memorable chorus, and bring the
+chorus back the same way each time.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 104 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: E4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: D4@1>4 D4@5>4 F4@9>4 D4@13>4
+@3 [F]
+  Piano: C5@1>4 A4@5>4 F4@9>4 A4@13>4
+@4 [G]
+  Piano: B4@1>4 G4@5>4 D4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: 12-bar blues
+ID: TF-12BAR-BLUES
+CATEGORY: form
+LEVEL: intermediate
+WHAT: The 12-bar blues is a 12-measure chord progression built on I, IV and V. In C the
+standard layout is: C C C C / F F C C / G F C C (bars 1-4 I, 5-6 IV, 7-8 I, 9 V, 10 IV,
+11-12 I). Below each bar is a whole-note block triad: C=C+E+G, F=F+A+C, G=G+B+D.
+CHALLENGE: Keep place across all twelve bars, feeling where the IV (bar 5) and V (bar 9)
+chords land and resolving home to I.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 12
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [C]
+  Piano: C4+E4+G4@1>16
+@3 [C]
+  Piano: C4+E4+G4@1>16
+@4 [C]
+  Piano: C4+E4+G4@1>16
+@5 [F]
+  Piano: F3+A3+C4@1>16
+@6 [F]
+  Piano: F3+A3+C4@1>16
+@7 [C]
+  Piano: C4+E4+G4@1>16
+@8 [C]
+  Piano: C4+E4+G4@1>16
+@9 [G]
+  Piano: G3+B3+D4@1>16
+@10 [F]
+  Piano: F3+A3+C4@1>16
+@11 [C]
+  Piano: C4+E4+G4@1>16
+@12 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: theme and variations
+ID: TF-THEME-VARIATIONS
+CATEGORY: form
+LEVEL: intermediate
+WHAT: Theme and variations states a tune (the theme), then restates it altered —
+decorated rhythm, added passing notes, or changed register — while keeping its identity
+recognizable. Below: a 2-bar theme, then a 2-bar variation that subdivides the same
+contour into eighths with passing notes.
+CHALLENGE: Recognize the theme inside its variation — play the plain version, then the
+busier decorated version that still traces the same melodic shape.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: D4@1>4 G4@5>4 F4@9>4 D4@13>4
+@3 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F4@7>2 G4@9>2 F4@11>2 E4@13>2 D4@15>2
+@4 [G]
+  Piano: D4@1>2 E4@3>2 G4@5>2 A4@7>2 F4@9>2 E4@11>2 D4@13>2 C4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: rondo form (A–B–A–C–A)
+ID: TF-RONDO
+CATEGORY: form
+LEVEL: intermediate
+WHAT: Rondo form alternates a recurring main theme (A, the refrain) with contrasting
+episodes: A–B–A–C–A. The A refrain returns identically each time; B and C are distinct
+episodes. The miniature uses one bar per section.
+CHALLENGE: Bring back the A refrain the same way each time, with two different episodes
+(B, C) keeping the listener anticipating the refrain's return.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 108 | GRID: 16th | BARS: 5
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: D4@1>4 F4@5>4 A4@9>4 F4@13>4
+@3 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@4 [F]
+  Piano: A4@1>4 C5@5>4 F4@9>4 A4@13>4
+@5 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: strophic form
+ID: TF-STROPHIC
+CATEGORY: form
+LEVEL: beginner
+WHAT: Strophic form repeats the same music for each verse/strophe — the tune is identical
+every time (only words change in a song). The miniature states a 2-bar strophe and then
+the IDENTICAL 2-bar strophe again.
+CHALLENGE: Play the same two-bar music twice exactly the same way, keeping it steady and
+consistent across both repetitions.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 C5@13>4
+@2 [G]
+  Piano: B4@1>4 G4@5>4 D4@9>4 G4@13>4
+@3 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 C5@13>4
+@4 [G]
+  Piano: B4@1>4 G4@5>4 D4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: through-composed form
+ID: TF-THROUGH-COMPOSED
+CATEGORY: form
+LEVEL: intermediate
+WHAT: Through-composed form has continuously new material with no repeated sections —
+the music keeps developing forward. The miniature below is four bars, each with distinct
+melodic material and no repeats.
+CHALLENGE: Keep generating fresh material bar after bar with nothing repeating, shaping a
+continuous line that always moves to something new.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: D4@1>2 F4@3>2 A4@5>4 G4@9>4 B4@13>4
+@3 [F]
+  Piano: A4@1>4 C5@5>2 B4@7>2 A4@9>4 F4@13>4
+@4 [C]
+  Piano: E4@1>2 D4@3>2 C4@5>4 G3@9>4 C4@13>4
+GRAMMAR-END
+================================================================================

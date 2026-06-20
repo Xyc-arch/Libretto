@@ -1,0 +1,306 @@
+# kb_theory: chords
+CONCEPT: Major triad
+ID: TC-MAJOR-TRIAD
+CATEGORY: chord
+LEVEL: beginner
+WHAT: A major triad stacks a root, a major third (4 semitones), and a perfect fifth
+(7 semitones): C-E-G. The bright, stable, "happy" sound; the default tonic chord.
+CHALLENGE: Play the three notes exactly together as one block, then break them into an
+even ascending arpeggio with steady quarter-notes.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Minor triad
+ID: TC-MINOR-TRIAD
+CATEGORY: chord
+LEVEL: beginner
+WHAT: A minor triad lowers the third to a minor third (3 semitones) over a perfect
+fifth: C-Eb-G. Darker, sadder, more introspective than major.
+CHALLENGE: Hear the lowered third against the major triad; block it, then arpeggiate
+it evenly.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Cm]
+  Piano: C4+Eb4+G4@1>16
+@2 [Cm]
+  Piano: C4@1>4 Eb4@5>4 G4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Diminished triad
+ID: TC-DIM-TRIAD
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A diminished triad stacks two minor thirds: minor third plus diminished fifth
+(6 semitones): C-Eb-Gb. Tense and unstable; wants to resolve inward.
+CHALLENGE: Hold the tense block chord, then arpeggiate the two stacked minor thirds.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Cdim]
+  Piano: C4+Eb4+Gb4@1>16
+@2 [Cdim]
+  Piano: C4@1>4 Eb4@5>4 Gb4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Augmented triad
+ID: TC-AUG-TRIAD
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: An augmented triad stacks two major thirds: major third plus augmented fifth
+(8 semitones): C-E-G#. Floating, ambiguous, dreamlike; no perfect fifth to anchor it.
+CHALLENGE: Hear the raised fifth pull upward; block then arpeggiate the symmetric stack.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Caug]
+  Piano: C4+E4+G#4@1>16
+@2 [Caug]
+  Piano: C4@1>4 E4@5>4 G#4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Suspended 2nd (sus2)
+ID: TC-SUS2
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A sus2 replaces the third with a major second: C-D-G. Neither major nor minor;
+open and unresolved, often resolving to the triad.
+CHALLENGE: Play the open suspended block, then arpeggiate the root-second-fifth shape.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Csus2]
+  Piano: C4+D4+G4@1>16
+@2 [Csus2]
+  Piano: C4@1>4 D4@5>4 G4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Suspended 4th (sus4)
+ID: TC-SUS4
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A sus4 replaces the third with a perfect fourth: C-F-G. Tense and open; classically
+resolves down to the major third.
+CHALLENGE: Play the suspended block, then arpeggiate root-fourth-fifth; hear the pull of
+the fourth toward the third.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Csus4]
+  Piano: C4+F4+G4@1>16
+@2 [Csus4]
+  Piano: C4@1>4 F4@5>4 G4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Power chord (5)
+ID: TC-POWER-CHORD
+CATEGORY: chord
+LEVEL: beginner
+WHAT: A power chord is just root and perfect fifth, no third: C-G. Neither major nor
+minor, so it sits under distortion in rock; bare and strong.
+CHALLENGE: Play the bare two-note block, then break root-fifth-octave.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C5]
+  Piano: C4+G4@1>16
+@2 [C5]
+  Piano: C4@1>4 G4@5>4 C5@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Major 7th chord
+ID: TC-MAJ7
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A major triad plus a major seventh (11 semitones): C-E-G-B. Lush, warm, jazzy;
+the seventh is one half-step below the octave.
+CHALLENGE: Voice all four notes together, then arpeggiate the stack one note per beat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Cmaj7]
+  Piano: C4+E4+G4+B4@1>16
+@2 [Cmaj7]
+  Piano: C4@1>4 E4@5>4 G4@9>4 B4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Minor 7th chord
+ID: TC-MIN7
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A minor triad plus a minor seventh (10 semitones): C-Eb-G-Bb. Smooth, mellow,
+soulful; the workhorse of jazz and R&B.
+CHALLENGE: Block the four-note chord, then arpeggiate it evenly.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Cm7]
+  Piano: C4+Eb4+G4+Bb4@1>16
+@2 [Cm7]
+  Piano: C4@1>4 Eb4@5>4 G4@9>4 Bb4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Dominant 7th chord
+ID: TC-DOM7
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A major triad plus a minor seventh (10 semitones): C-E-G-Bb. Bluesy and restless;
+the tritone between E and Bb drives the pull toward resolution.
+CHALLENGE: Block the chord, then arpeggiate; hear the tension wanting to resolve a fourth up.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C7]
+  Piano: C4+E4+G4+Bb4@1>16
+@2 [C7]
+  Piano: C4@1>4 E4@5>4 G4@9>4 Bb4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Half-diminished 7th chord
+ID: TC-HALFDIM7
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A diminished triad plus a minor seventh: C-Eb-Gb-Bb. Darker and jazzier than a
+plain diminished; the ii-chord of minor keys (m7b5).
+CHALLENGE: Block the four-note shape, then arpeggiate the stacked thirds plus seventh.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Cm7b5]
+  Piano: C4+Eb4+Gb4+Bb4@1>16
+@2 [Cm7b5]
+  Piano: C4@1>4 Eb4@5>4 Gb4@9>4 Bb4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Diminished 7th chord
+ID: TC-DIM7
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A diminished triad plus a diminished seventh: C-Eb-Gb-Bbb. The Bbb (double-flat)
+sounds the same as A, so it is written A here. Four stacked minor thirds; maximally tense
+and symmetric, it can resolve in many directions.
+CHALLENGE: Block the symmetric chord, then arpeggiate the equal minor-third stack.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Cdim7]
+  Piano: C4+Eb4+Gb4+A4@1>16
+@2 [Cdim7]
+  Piano: C4@1>4 Eb4@5>4 Gb4@9>4 A4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Add9 chord
+ID: TC-ADD9
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A major triad with an added ninth (the second, an octave up), but no seventh:
+C-E-G-D5. Open and shimmering; common in pop and film.
+CHALLENGE: Block all four notes, then arpeggiate root-third-fifth-ninth.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Cadd9]
+  Piano: C4+E4+G4+D5@1>16
+@2 [Cadd9]
+  Piano: C4@1>4 E4@5>4 G4@9>4 D5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: 6 chord (major sixth)
+ID: TC-SIX
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A major triad plus a major sixth (9 semitones): C-E-G-A. Sweet and nostalgic;
+a softer, more settled alternative to the major 7th.
+CHALLENGE: Block the four notes, then arpeggiate root-third-fifth-sixth.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C6]
+  Piano: C4+E4+G4+A4@1>16
+@2 [C6]
+  Piano: C4@1>4 E4@5>4 G4@9>4 A4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: 9th chord (dominant ninth)
+ID: TC-NINE
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: A dominant 7th plus the ninth: C-E-G-Bb-D5. Five notes; rich, funky, bluesy. The
+block here voices all five; the arpeggio spreads them one per beat plus the top.
+CHALLENGE: Voice the five-note block, then climb the arpeggio across two bars.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C9]
+  Piano: C4+E4+G4+Bb4+D5@1>16
+@2 [C9]
+  Piano: C4@1>2 E4@3>2 G4@5>2 Bb4@7>2 D5@9>2 C5@11>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Roman numerals in a major key (C major)
+ID: TC-ROMAN-MAJOR-C
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: Each scale degree carries a diatonic triad. In C major: I=C (major), ii=Dm (minor),
+iii=Em (minor), IV=F (major), V=G (major), vi=Am (minor), vii deg=Bdim (diminished).
+Uppercase = major, lowercase = minor, deg = diminished. These seven chords build every
+diatonic progression in the key.
+CHALLENGE: Play all seven diatonic triads in order as block chords and hear the major/
+minor/diminished pattern of the major scale.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 8
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [Dm]
+  Piano: D4+F4+A4@1>16
+@3 [Em]
+  Piano: E4+G4+B4@1>16
+@4 [F]
+  Piano: F4+A4+C5@1>16
+@5 [G]
+  Piano: G4+B4+D5@1>16
+@6 [Am]
+  Piano: A4+C5+E5@1>16
+@7 [Bdim]
+  Piano: B4+D5+F5@1>16
+@8 [C]
+  Piano: C5+E5+G5@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Roman numerals in Eb major
+ID: TC-ROMAN-MAJOR-EB
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: The same diatonic pattern transposed to Eb major: I=Eb (major), ii=Fm (minor),
+iii=Gm (minor), IV=Ab (major), V=Bb (major), vi=Cm (minor), vii deg=Ddim (diminished).
+Eb major has three flats (Bb, Eb, Ab).
+CHALLENGE: Play the seven diatonic triads of Eb major as block chords; transfer the
+major-key pattern to a flat key.
+GRAMMAR-BEGIN
+KEY: Eb major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 8
+VOICES: Piano
+@1 [Eb]
+  Piano: Eb4+G4+Bb4@1>16
+@2 [Fm]
+  Piano: F4+Ab4+C5@1>16
+@3 [Gm]
+  Piano: G4+Bb4+D5@1>16
+@4 [Ab]
+  Piano: Ab4+C5+Eb5@1>16
+@5 [Bb]
+  Piano: Bb4+D5+F5@1>16
+@6 [Cm]
+  Piano: C5+Eb5+G5@1>16
+@7 [Ddim]
+  Piano: D5+F5+Ab5@1>16
+@8 [Eb]
+  Piano: Eb5+G5+Bb5@1>16
+GRAMMAR-END
+================================================================================

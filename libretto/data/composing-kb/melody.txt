@@ -1,0 +1,111 @@
+###############################################################################
+# melody.txt — melodic contour, motif, and phrase concepts
+# Grep an entry by id:  grep -A20 "CONCEPT: M-SIGH" melody.txt
+###############################################################################
+
+================================================================================
+CONCEPT: Descending-step 'sigh' resolution
+ID: M-SIGH
+FILE: melody.txt
+STATUS: core-idiom
+ATTEST: 211/314 songs  (GENRE-SPECIFIC: classical 93%, latin_reggae_world 86% … funk_soul_rnb 47%, electronic_dance 29%)
+GENRE: pop, soul, ballad, rock, folk
+THEORY: appoggiatura / suspension-resolution, 2->1 sigh, phrase cadence
+ROLE: phrase-ending, emotional-resolution, hook-tag
+FEATURE: descending-step-onto-long-note
+--------------------------------------------------------------------------------
+WHAT: A melodic descent of 1–2 semitones that lands on a longer note — the "sigh." The
+  upper note is an accented dissonance/appoggiatura that resolves down by step onto a
+  stable, longer chord tone, giving phrases a vocal, exhaling close.
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) bar 10 — Part3 F->D# onto a long note [Part3: G#4@1>2 G4@3>1 F4@4>1 Eb4@5>4]
+EXAMPLE: song_0007 (Matt Bianco — Half a Minute.1) bar 22 — MELODY E->D# onto a long note
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') bar 61 — Part5 B->A onto a long note
+COMPOSE: End phrases by approaching a long chord-tone from a step ABOVE (the 9th->root, or
+  4th->3rd, or b6->5), placing the upper note on the beat and the resolution longer and
+  softer. The dissonant upper note + downward step is the whole effect.
+
+================================================================================
+CONCEPT: Repeated motivic cell
+ID: M-MOTIF
+FILE: melody.txt
+STATUS: core-idiom
+ATTEST: 184/314 songs
+GENRE: pop, rock, soul, folk
+THEORY: motivic development, motif repetition/transposition, hook
+ROLE: hook, unify-section, memorability
+FEATURE: recurring-interval-shape
+--------------------------------------------------------------------------------
+WHAT: A short (≈3-interval) melodic shape that recurs many times across the melody —
+  the motif/hook. Repetition (often transposed to fit the harmony) is what makes a tune
+  memorable and unifies a section.
+EXAMPLE: song_0003 (Eddy Grant — Gimme Hope Jo'Anna.1) — Part4 cell [0,-3,3] recurs 23x
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') — Part5 cell [12,-2,-10] recurs 12x
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) — Part3 cell [-2,-2,2] recurs 7x
+COMPOSE: Invent ONE small interval shape (e.g. up-an-octave then step down; or down-a-3rd
+  then up-a-3rd) and reuse it relentlessly — same intervals, transposed in pitch to track
+  the chords. Restating the cell 5+ times per section builds the hook; vary the tail to
+  avoid literal monotony.
+
+================================================================================
+CONCEPT: Leap then step-back (gap-fill)
+ID: M-GAPFILL
+FILE: melody.txt
+STATUS: core-idiom
+ATTEST: 184/314 songs  (GENRE-SPECIFIC: jazz 93%, classical 77% … folk_country 48%, electronic_dance 26%)
+GENRE: pop, soul, rock, ballad, folk
+THEORY: gap-fill (Narmour/Meyer), leap-and-recover, melodic arch
+ROLE: melodic-shape, contour, drama
+FEATURE: large-leap-answered-by-step
+--------------------------------------------------------------------------------
+WHAT: A wide leap (>=7 semitones) is immediately "filled in" by a step in the OPPOSITE
+  direction. The ear expects a large skip to be balanced by stepwise recovery — a
+  near-universal shaping principle that keeps melodies singable despite big gestures.
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') bar 61 — Part5 leap +12 then step -2
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) bar 22 — Part3 leap +9 then -2
+EXAMPLE: song_0009 (Led Zeppelin — Stairway To Heaven) bar 128 — vocal leap +7 then -2
+COMPOSE: When you want a dramatic upward leap (octave, 6th, 7th) for a chorus peak, follow
+  it immediately with a downward step (or two) rather than another leap — the recovery
+  makes the leap land and stay singable. Reserve the leap for a phrase climax.
+
+================================================================================
+CONCEPT: Predominantly stepwise melodic motion
+ID: M-STEP
+FILE: melody.txt
+STATUS: occasional-color
+ATTEST: 109/314 songs
+GENRE: folk, pop, ballad, soul
+THEORY: conjunct (stepwise) motion, scalar melody
+ROLE: singable-melody, smooth-line
+FEATURE: mostly-stepwise
+--------------------------------------------------------------------------------
+WHAT: Melodies that move mostly by step (<=2 semitones) — conjunct, scalar, easy to sing.
+  The corpus's most overtly stepwise tunes are folk/ballad leads, but conjunct motion
+  pervades nearly all the melodies between their occasional leaps.
+EXAMPLE: song_0009 (Led Zeppelin — Stairway To Heaven) — vocal 79% stepwise [vocal: A4@2>2 B4@4>2 C5@6>5 B4@11>2]
+EXAMPLE: song_0006 (Eagles — Hotel California) — Melody 76% stepwise
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) — Part3 66% stepwise
+COMPOSE: Build the melody mostly from scale steps (neighbors and passing tones), saving
+  leaps for emphasis (see M-GAPFILL). Keep the line within a comfortable range and let it
+  walk up/down the scale; this is the safest route to a singable vocal.
+
+================================================================================
+CONCEPT: Melodic range & mixed-interval contour
+ID: M-RANGE
+FILE: melody.txt
+STATUS: core-idiom
+ATTEST: 250/314 songs  (GENRE-SPECIFIC: classical 100%, jazz 89% … film_score 70%, electronic_dance 44%)
+GENRE: classical, jazz, folk, soul (wide); electronic, simple pop (narrow)
+THEORY: melodic range/tessitura, contour, step-leap balance
+ROLE: melodic interest, expressivity, singability-vs-virtuosity
+FEATURE: octave-plus-span + steps-and-leaps
+--------------------------------------------------------------------------------
+WHAT: A lead line that spans at least an octave and moves with BOTH steps and leaps — not a
+  narrow, static, or purely-stepwise line. Classical/jazz leads range widest (octave-plus,
+  varied intervals); electronic leads stay narrowest. The melody axis that most splits by genre.
+EXAMPLE: song_0131 (Duke Ellington — Don't Get Around Much Anymore) — Trumpet spans 29 st, steps + leaps  [Trumpet: D6@3>1 ... A5@6>1 ... Bb5@12>1]
+EXAMPLE: song_0159 (Dvorak — Symphony No.2, II) — Flute spans 19 st with steps and leaps
+EXAMPLE: song_0253 (James Taylor — Carolina in My Mind) — Part7 spans 24 st (e.g. a -9st leap)
+COMPOSE: Give the melody room — span ≥1 octave across a phrase, and combine stepwise motion
+  (M-STEP) with the occasional expressive leap (M-GAPFILL). For a wide jazz/classical line
+  push 1.5–2 octaves with varied intervals; for a hooky pop/electronic line keep it narrower
+  and more stepwise. Targets pitch_range / voice_range / interval_entropy / up_ratio.

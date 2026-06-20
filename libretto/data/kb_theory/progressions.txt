@@ -1,0 +1,332 @@
+# kb_theory: progressions
+CONCEPT: I-V-vi-IV (pop progression)
+ID: TP-I-V-VI-IV
+CATEGORY: progression
+LEVEL: beginner
+WHAT: The most common pop progression: I-V-vi-IV. In C major: C-G-Am-F. Bright and
+uplifting; the backbone of countless modern pop and rock songs.
+CHALLENGE: Play one whole-note block chord per bar; keep a steady pulse and clean voicing
+changes across the four bars.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [G]
+  Piano: G3+B3+D4@1>16
+@3 [Am]
+  Piano: A3+C4+E4@1>16
+@4 [F]
+  Piano: F3+A3+C4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: vi-IV-I-V
+ID: TP-VI-IV-I-V
+CATEGORY: progression
+LEVEL: beginner
+WHAT: A rotation of the pop progression starting on the relative minor: vi-IV-I-V. In
+C major: Am-F-C-G. Slightly melancholy launch that brightens into the tonic.
+CHALLENGE: Begin on the minor vi chord; play one block chord per bar with even timing.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Am]
+  Piano: A3+C4+E4@1>16
+@2 [F]
+  Piano: F3+A3+C4@1>16
+@3 [C]
+  Piano: C4+E4+G4@1>16
+@4 [G]
+  Piano: G3+B3+D4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: I-vi-IV-V (50s progression)
+ID: TP-I-VI-IV-V
+CATEGORY: progression
+LEVEL: beginner
+WHAT: The "50s" or doo-wop progression: I-vi-IV-V. In C major: C-Am-F-G. Nostalgic;
+the V at the end loops smoothly back to the I.
+CHALLENGE: Play one block chord per bar and feel the V pulling back to the I on the repeat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [Am]
+  Piano: A3+C4+E4@1>16
+@3 [F]
+  Piano: F3+A3+C4@1>16
+@4 [G]
+  Piano: G3+B3+D4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: I-IV-V (folk / blues)
+ID: TP-I-IV-V
+CATEGORY: progression
+LEVEL: beginner
+WHAT: The three primary major chords: I-IV-V. In C major: C-F-G. The basis of folk,
+blues, and early rock; here laid out across four bars as I-IV-V-I.
+CHALLENGE: Play the three primary triads as blocks and resolve V back to I in the last bar.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [F]
+  Piano: F3+A3+C4@1>16
+@3 [G]
+  Piano: G3+B3+D4@1>16
+@4 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: ii-V-I (jazz cadence)
+ID: TP-II-V-I
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: The fundamental jazz cadence: ii-V-I. In C major: Dm-G-C. The ii sets up the V,
+which resolves strongly to the I. Often played with sevenths (Dm7-G7-Cmaj7).
+CHALLENGE: Play the three blocks and feel the strong root motion by descending fourths
+into the tonic; the final bar repeats I to close.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Dm]
+  Piano: D4+F4+A4@1>16
+@2 [G]
+  Piano: G3+B3+D4@1>16
+@3 [C]
+  Piano: C4+E4+G4@1>16
+@4 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: I-V-IV-I
+ID: TP-I-V-IV-I
+CATEGORY: progression
+LEVEL: beginner
+WHAT: A plain, strong progression: I-V-IV-I. In C major: C-G-F-C. The V then IV gives a
+rocking, hymn-like motion that settles firmly back on the tonic.
+CHALLENGE: Play one block chord per bar; keep voicings close so the chords flow smoothly.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [G]
+  Piano: G3+B3+D4@1>16
+@3 [F]
+  Piano: F3+A3+C4@1>16
+@4 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: i-VII-VI-VII (minor cinematic)
+ID: TP-i-VII-VI-VII
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: A dark, cinematic minor loop: i-VII-VI-VII. In A minor: Am-G-F-G. Uses the natural
+minor (lowered 7), giving an epic, modal, film-trailer feel.
+CHALLENGE: Play one block chord per bar; hear how the lowered VII (G major) keeps the
+mood minor and unresolved.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Am]
+  Piano: A3+C4+E4@1>16
+@2 [G]
+  Piano: G3+B3+D4@1>16
+@3 [F]
+  Piano: F3+A3+C4@1>16
+@4 [G]
+  Piano: G3+B3+D4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: i-VI-III-VII (minor pop)
+ID: TP-i-VI-III-VII
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: The minor pop loop (the "Andalusian"-adjacent epic minor): i-VI-III-VII. In A minor:
+Am-F-C-G. Driving and anthemic; widely used in modern minor-key pop.
+CHALLENGE: Play one block chord per bar; feel the descent from i into the relative-major
+region (III) and back.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Am]
+  Piano: A3+C4+E4@1>16
+@2 [F]
+  Piano: F3+A3+C4@1>16
+@3 [C]
+  Piano: C4+E4+G4@1>16
+@4 [G]
+  Piano: G3+B3+D4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: i-iv-V-i (classical minor)
+ID: TP-i-iv-V-i
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: The classical minor cadential progression: i-iv-V-i. In A minor: Am-Dm-E-Am. The V
+is MAJOR (E, with a raised leading tone G#) to pull strongly back to the minor tonic.
+CHALLENGE: Play the blocks and note the raised leading tone (G#) in the V chord that
+makes the resolution to i so strong.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Am]
+  Piano: A3+C4+E4@1>16
+@2 [Dm]
+  Piano: D4+F4+A4@1>16
+@3 [E]
+  Piano: E3+G#3+B3@1>16
+@4 [Am]
+  Piano: A3+C4+E4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: I-bVII-IV-I (mixolydian rock)
+ID: TP-I-bVII-IV-I
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: A mixolydian rock progression: I-bVII-IV-I. In C: C-Bb-F-C. The bVII (Bb major)
+is borrowed from outside the major key, giving a bluesy, classic-rock flavor.
+CHALLENGE: Play the blocks; hear how the flat-VII (Bb) sits outside the bright major
+scale yet resolves naturally back home.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [Bb]
+  Piano: Bb3+D4+F4@1>16
+@3 [F]
+  Piano: F3+A3+C4@1>16
+@4 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: I-IV-vi-V (ballad)
+ID: TP-I-IV-VI-V
+CATEGORY: progression
+LEVEL: beginner
+WHAT: A gentle ballad progression: I-IV-vi-V. In C major: C-F-Am-G. Warm and emotional;
+the vi adds a touch of melancholy before the V lifts back toward I.
+CHALLENGE: Play one block chord per bar with an even, unhurried pulse suited to a ballad.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 72 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [F]
+  Piano: F3+A3+C4@1>16
+@3 [Am]
+  Piano: A3+C4+E4@1>16
+@4 [G]
+  Piano: G3+B3+D4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: I-V-vi-IV worked example in Eb major
+ID: TP-I-V-VI-IV-EB
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: The pop progression I-V-vi-IV transposed to Eb major: Eb-Bb-Cm-Ab. Eb major has
+three flats (Bb, Eb, Ab). Same function as in C, in a warmer flat key.
+CHALLENGE: Play the four block chords in a flat key; manage the Eb/Ab/Bb voicings cleanly.
+GRAMMAR-BEGIN
+KEY: Eb major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Eb]
+  Piano: Eb4+G4+Bb4@1>16
+@2 [Bb]
+  Piano: Bb3+D4+F4@1>16
+@3 [Cm]
+  Piano: C4+Eb4+G4@1>16
+@4 [Ab]
+  Piano: Ab3+C4+Eb4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: i-VI-III-VII worked example in C minor
+ID: TP-i-VI-III-VII-CM
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: The minor pop loop i-VI-III-VII transposed to C minor: Cm-Ab-Eb-Bb. C minor has
+three flats (Bb, Eb, Ab). Anthemic minor motion descending toward the relative major.
+CHALLENGE: Play the four block chords in C minor; hear the III (Eb major) brighten the
+loop before VII (Bb) leads back to i.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Cm]
+  Piano: C4+Eb4+G4@1>16
+@2 [Ab]
+  Piano: Ab3+C4+Eb4@1>16
+@3 [Eb]
+  Piano: Eb4+G4+Bb4@1>16
+@4 [Bb]
+  Piano: Bb3+D4+F4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Perfect (authentic) cadence V-I
+ID: TP-CAD-AUTHENTIC
+CATEGORY: cadence
+LEVEL: beginner
+WHAT: The perfect/authentic cadence: V-I. In C major: G-C. The strongest, most conclusive
+ending; the V's leading tone (B) resolves up to the tonic (C).
+CHALLENGE: Play V then I as two block chords; hear the full, finished resolution.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [G]
+  Piano: G3+B3+D4@1>16
+@2 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Plagal cadence IV-I
+ID: TP-CAD-PLAGAL
+CATEGORY: cadence
+LEVEL: beginner
+WHAT: The plagal or "Amen" cadence: IV-I. In C major: F-C. Softer and warmer than the
+authentic cadence; the classic hymn ending.
+CHALLENGE: Play IV then I as two blocks; hear the gentle, settled "Amen" close.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [F]
+  Piano: F3+A3+C4@1>16
+@2 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Half cadence (ends on V)
+ID: TP-CAD-HALF
+CATEGORY: cadence
+LEVEL: beginner
+WHAT: A half cadence ends ON the V, leaving the phrase open and unresolved. In C major:
+I-V (C-G). It poses a musical "question" that a later phrase answers.
+CHALLENGE: Play I then V as two blocks; stop on the V and feel the suspended, unfinished tension.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [G]
+  Piano: G3+B3+D4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Deceptive cadence V-vi
+ID: TP-CAD-DECEPTIVE
+CATEGORY: cadence
+LEVEL: intermediate
+WHAT: A deceptive (interrupted) cadence: V-vi. In C major: G-Am. The ear expects V to
+resolve to I, but it lands on the minor vi instead, a surprising soft swerve.
+CHALLENGE: Play V then vi as two blocks; hear the expected tonic replaced by the minor vi.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [G]
+  Piano: G3+B3+D4@1>16
+@2 [Am]
+  Piano: A3+C4+E4@1>16
+GRAMMAR-END
+================================================================================

@@ -1,0 +1,90 @@
+KEY: F major | METER: 4/4 | TEMPO: 104 | GRID: 16th | BARS: 16
+VOICES: Bass, Keys, Pad, Horns, Melody
+@1 [F]
+  Bass: F2@1>4 C3@9>3 F2@13>2
+  Keys: A3+C4+F4@1>8 G3+C4+E4@9>6
+  Pad: F2+C3+A3+F4@1>16
+  Melody: C5@9>4 D5@13>3
+@2 [Dm7]
+  Bass: D2@1>4 A2@9>3 D2@13>2
+  Keys: F3+A3+C4@1>8 F3+A3+D4@9>6
+  Pad: D2+A2+F3+D4@1>16
+  Melody: A4@1>4 C5@9>3 D5@13>2
+@3 [Gm7]
+  Bass: G2@1>2 D3@5>2 G2@9>3 Bb2@13>2
+  Keys: Bb3+D4+F4@1>4 Bb3+D4+F4@7>2 Bb3+D4+G4@11>4
+  Pad: G2+D3+Bb3+G4@1>16
+  Horns: Bb4+D5@5>2 C5+G5@13>2
+  Melody: D5@1>2 Bb4@5>2 G4@9>4 A4@13>3
+@4 [C7]
+  Bass: C2@1>2 G2@5>2 C3@9>2 Bb2@11>2 E3@13>3
+  Keys: E3+G3+Bb3@1>4 E3+G3+Bb3+E4@9>6
+  Pad: C2+G2+E3+Bb3@1>16
+  Horns: E4+G4+Bb4@5>2 E4+G4+Bb4@13>2
+  Melody: G4@1>2 A4@3>2 Bb4@5>2 C5@9>3 G4@13>3
+@5 [F]
+  Bass: F2@1>4 C3@9>3 F2@13>2
+  Keys: A3+C4+F4@1>8 G3+C4+E4@9>6
+  Pad: F2+C3+A3+F4@1>16
+  Melody: F5@9>4 C5@13>3
+@6 [Dm7]
+  Bass: D2@1>4 A2@9>3 F3@13>2
+  Keys: F3+A3+C4@1>8 F3+A3+D4@9>6
+  Pad: D2+A2+F3+D4@1>16
+  Melody: A4@1>4 D5@9>3 C5@13>2
+@7 [Bb7]
+  Bass: Bb1@1>2 F2@5>2 Bb2@9>3 D3@13>2
+  Keys: D4+F4+Ab4@1>4 D4+F4+Ab4@7>2 D4+F4+Bb4@11>4
+  Pad: Bb1+F2+D3+Bb3@1>16
+  Horns: D5+F5@5>2 D5+F5@13>2
+  Melody: F5@1>2 D5@5>2 Bb4@9>4 C5@13>3
+@8 [C7]
+  Bass: C2@1>4 G2@9>2 Bb2@11>2 E3@13>3
+  Keys: E3+G3+Bb3@1>4 E3+G3+Bb3+E4@9>6
+  Pad: C2+G2+E3+Bb3@1>16
+  Horns: E4+G4+Bb4@5>2 G4+Bb4+E5@13>2
+  Melody: G4@1>2 Bb4@5>2 C5@7>2 E5@9>4 D5@13>3
+@9 [Bb]
+  Bass: Bb1@1>4 F2@9>3 Bb2@13>2
+  Keys: Bb3+D4+F4@1>6 Bb3+D4+F4@9>6
+  Pad: Bb1+F2+D3+Bb3+F4@1>16
+  Horns: Bb4+D5+F5@1>3 Bb4+D5+F5@9>3
+  Melody: F5@1>3 D5@5>2 Bb4@9>4 D5@13>2
+@10 [C]
+  Bass: C2@1>4 G2@9>3 C3@13>2
+  Keys: C4+E4+G4@1>6 C4+E4+G4@9>6
+  Pad: C2+G2+E3+C4+G4@1>16
+  Horns: C5+E5+G5@1>3 C5+E5+G5@9>3
+  Melody: E5@1>3 C5@5>2 G4@9>4 C5@13>2
+@11 [Dm7]
+  Bass: D2@1>4 A2@9>3 F3@13>2
+  Keys: F3+A3+C4+F4@1>6 F3+A3+C4+D4@9>6
+  Pad: D2+A2+F3+D4+A4@1>16
+  Horns: D5+F5+A5@5>2 D5+F5+A5@13>2
+  Melody: A5@1>3 G5@5>2 F5@9>4 D5@13>3
+@12 [Bb]
+  Bass: Bb1@1>4 F2@9>3 D3@13>2
+  Keys: Bb3+D4+F4@1>6 Bb3+D4+F4@9>6
+  Pad: Bb1+F2+D3+Bb3+F4@1>16
+  Melody: D5@1>3 F5@5>2 Bb5@9>4 F5@13>3
+@13 [Bb]
+  Bass: Bb1@1>4 F2@9>3 Bb2@13>2
+  Keys: Bb3+D4+F4@1>6 Bb3+D4+F4@9>6
+  Pad: Bb1+F2+D3+Bb3+F4@1>16
+  Horns: Bb4+D5+F5@1>3 Bb4+D5+F5@9>3
+  Melody: F5@1>3 D5@5>2 Bb4@9>4 D5@13>2
+@14 [C]
+  Bass: C2@1>4 G2@9>3 E3@13>2
+  Keys: C4+E4+G4@1>6 C4+E4+G4@9>6
+  Pad: C2+G2+E3+C4+G4@1>16
+  Horns: C5+E5+G5@1>3 G4+C5+E5@9>3
+  Melody: E5@1>3 G5@5>2 C5@9>4 G4@13>3
+@15 [F]
+  Bass: F2@1>6 C3@9>4 F2@15>2
+  Keys: A3+C4+F4@1>8 A3+C4+F4@9>6
+  Pad: F2+C3+F3+A3+F4@1>16
+  Melody: C5@1>4 A4@9>4 F4@15>2
+@16 [F]
+  Bass: F2@1>16
+  Pad: F2+C3+F3+A3+C4+F4@1>16
+  Melody: F5@1>8 C5@9>6

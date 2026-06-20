@@ -1,0 +1,186 @@
+###############################################################################
+# harmony.txt — harmonic concepts for the composing KB
+# Grep an entry by id:  grep -A24 "CONCEPT: H-DOM7" harmony.txt
+# Tag lines (GENRE/THEORY/ROLE/FEATURE) are single-line + comma-separated for grep.
+# Examples cite real corpus songs (song_id + bar); pitch classes are computed from the
+# actual tokens, NOT the heuristic [chord] label. Descriptive of the corpus, not rules.
+###############################################################################
+
+================================================================================
+CONCEPT: Functional root motion up a 4th (V–I / ii–V–I)
+ID: H-FOURTHS
+FILE: harmony.txt
+STATUS: core-idiom
+ATTEST: 247/314 songs
+GENRE: jazz-pop, soul, pop, rock, ballad, standards
+THEORY: functional harmony, dominant-to-tonic resolution, ii–V–I, circle of fifths
+ROLE: cadence, turnaround, progression-engine, sectional-arrival
+FEATURE: bass-root-up-a-fourth, strong-resolution
+--------------------------------------------------------------------------------
+WHAT: The backbone of tonal motion in this corpus: the bass root rises a perfect
+  fourth (= falls a fifth), the strongest functional pull (V->I). Two in a row
+  (root up a 4th, then up a 4th again) spells the ii–V–I cadence that organizes
+  most phrase endings and turnarounds. Theoretically this is dominant function
+  resolving to tonic; chains of fourths = the circle of fifths.
+EXAMPLE: song_0005 (Stevie Wonder — Isn't She Lovely) bars 26->27 — bass C#->F# (V->I) [Part2: F#2@1>1 C#2@3>1 A1@5>1 ...]
+EXAMPLE: song_0011 (The Beatles — Penny Lane) bars 5->6 — bass F#->B [Part1: B2@1>12]
+EXAMPLE: song_0013 (Pink Floyd — Wish You Were Here) bars 19->20 — bass D->G
+COMPOSE: To end a phrase or set up a section, move the bass root up a fourth into the
+  target chord (put the target on a downbeat). For a full cadence, precede it by another
+  up-a-fourth (ii->V->I, e.g. Dm->G->C): roots D2 / G1 / C2 on successive strong beats.
+  Make the V chord a dominant 7th (see H-DOM7) to sharpen the pull.
+
+================================================================================
+CONCEPT: Dominant-seventh sonority
+ID: H-DOM7
+FILE: harmony.txt
+STATUS: core-idiom
+ATTEST: 254/314 songs
+GENRE: blues, soul, jazz-pop, rock, gospel, standards
+THEORY: dominant 7th chord (root+M3+P5+m7), tritone, V7 function, secondary dominant
+ROLE: dominant-prep, tension, blues-color, lead-into-cadence
+FEATURE: dom7-stack, tritone-pull
+--------------------------------------------------------------------------------
+WHAT: A four-note stack {root, major 3rd, perfect 5th, minor 7th}. The 3rd–7th tritone
+  wants to resolve, which is why it precedes the tonic in V7–I and powers blues. As a
+  *secondary* dominant (e.g. V7/ii, V7/IV) it tonicizes a non-tonic chord and injects
+  a chromatic note from outside the key.
+EXAMPLE: song_0004 (Queen — Killer Queen) bar 4 — dom7 on A# (A#,D,F,G#) [Piano: D4+F4+G#4+Bb4@1>1 ...]
+EXAMPLE: song_0005 (Stevie Wonder — Isn't She Lovely) bar 31 — dom7 on G# (G#,C,D#,F#)
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) bar 22 — dom7 on D#
+COMPOSE: Voice the four tones (root/3/5/b7); drop the 5th if you need only three. Put it
+  on the chord a fourth below your target (G7 -> C). For a secondary dominant, build a
+  dom7 on the note a fourth above the chord you want to spotlight (D7 -> G even in C major,
+  borrowing F#). Resolve the 3rd up a semitone and the b7 down a semitone into the target.
+
+================================================================================
+CONCEPT: Diminished passing sonority
+ID: H-DIM
+FILE: harmony.txt
+STATUS: core-idiom
+ATTEST: 264/314 songs
+GENRE: soul, pop, jazz-pop, ballad, gospel
+THEORY: diminished triad/7th, leading-tone function, chromatic passing/neighbor chord
+ROLE: passing-chord, connect-two-chords, momentary-tension
+FEATURE: dim-stack, chromatic-connector
+--------------------------------------------------------------------------------
+WHAT: A symmetrical stack of minor thirds {root, root+3, root+6}. Almost always a
+  *connector*: a chromatic passing or neighbor chord sliding between two diatonic chords
+  (e.g. I – #i°  – ii, or IV – #iv° – V). Its instability resolves by half-step.
+EXAMPLE: song_0004 (Queen — Killer Queen) bar 4 — dim on D (D,F,G#)
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) bar 22 — dim on G (G,A#,C#)
+EXAMPLE: song_0005 (Stevie Wonder — Isn't She Lovely) bar 25 — dim on F# (F#,A,C)
+COMPOSE: To connect two chords a whole step apart, insert a diminished chord rooted a
+  semitone above the first (C -> C#° -> Dm). Keep the upper voices close so each moves by
+  a half/whole step into the next chord; let the bass walk chromatically through the dim root.
+
+================================================================================
+CONCEPT: Augmented-triad passing sonority
+ID: H-AUG
+FILE: harmony.txt
+STATUS: occasional-color
+ATTEST: 137/314 songs  (GENRE-SPECIFIC: classical 83%, jazz 79% … electronic_dance 24%, folk_country 12%)
+GENRE: pop, soul, cabaret-pop, ballad
+THEORY: augmented triad {root, root+4, root+8}, raised 5th, chromatic voice-leading, V+
+ROLE: chromatic-color, lift, transition
+FEATURE: raised-5th, aug-stack
+--------------------------------------------------------------------------------
+WHAT: A triad with a raised fifth {root, +4, +8}. Its signature is one inner voice
+  pushing chromatically upward (the 5th raised toward the next chord's root/3rd). Used as
+  a brief color on a I or V (Iaug, V+) to add lift before moving on; not a resting chord.
+EXAMPLE: song_0004 (Queen — Killer Queen) bar 9 — aug on D# (D#,G,B) [Piano: G#1+G#3+B3+Eb4@1>12 ...]
+EXAMPLE: song_0006 (Eagles — Hotel California) bar 195 — aug on A# (A#,D,F#)
+EXAMPLE: song_0005 (Stevie Wonder — Isn't She Lovely) bar 25 — aug on C (C,E,G#)
+COMPOSE: Take a major triad and raise its 5th a semitone for one beat/bar, then let that
+  raised note resolve up by step into the next chord (C -> Caug -> F: the G becomes G#->A).
+  Cheap, effective lift between I and IV, or as a passing V+ into vi.
+
+================================================================================
+CONCEPT: Descending stepwise bass line (line-cliché / lament)
+ID: H-DESCBASS
+FILE: harmony.txt
+STATUS: occasional-color
+ATTEST: 116/314 songs
+GENRE: ballad, soft-rock, soul, pop, prog
+THEORY: descending tetrachord / lament bass, line cliché, stepwise voice-leading under a static-ish chord
+ROLE: harmonize-a-descending-line, build-pathos, verse-engine
+FEATURE: stepwise-descending-bass
+--------------------------------------------------------------------------------
+WHAT: The lowest voice walks DOWN by step (1–2 semitones per bar) for 3+ bars while the
+  upper harmony stays anchored or shifts slowly — the "line cliché" (e.g. Am–Am/G#–Am/G–
+  Am/F#) or the minor "lament bass." The descending bass generates the chord changes.
+EXAMPLE: song_0004 (Queen — Killer Queen) bar 44+ — bass A-G-F [Electric Bass: A2@1>5 ...]
+EXAMPLE: song_0005 (Stevie Wonder — Isn't She Lovely) bar 31+ — bass G#-G-F#
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) bar 76+ — bass C-A#-G#
+COMPOSE: Hold a chord (or its root note up top) and slide the bass down by semitone/tone
+  each bar; harmonize whatever chord each new bass note implies (root, then /maj7, then /b7
+  or /6, then the next root). Great for a brooding verse or a pre-chorus descent.
+
+================================================================================
+CONCEPT: Bass pedal point
+ID: H-PEDAL
+FILE: harmony.txt
+STATUS: core-idiom
+ATTEST: 207/314 songs
+GENRE: rock, soul, reggae, prog, pop
+THEORY: pedal point (tonic or dominant pedal), harmonic stasis under moving upper voices
+ROLE: anchor, build-tension, intro/verse-bed, drive
+FEATURE: sustained/repeated-single-bass-pc
+--------------------------------------------------------------------------------
+WHAT: The bass holds or repeats ONE pitch class for 4+ bars while chords change above it.
+  Creates tension/groove by decoupling the bass from the harmony; a tonic pedal grounds,
+  a dominant pedal builds expectation for release.
+EXAMPLE: song_0003 (Eddy Grant — Gimme Hope Jo'Anna.1) bars 15-26 — F# pedal [Bass: F#2@1>1 F#2@3>1 ...]
+EXAMPLE: song_0009 (Led Zeppelin — Stairway To Heaven) bars 182-187 — F pedal
+EXAMPLE: song_0011 (The Beatles — Penny Lane) bars 81+ — B pedal
+COMPOSE: Lock the bass to one note (tonic for a grounded vamp, the 5th/dominant to build
+  into a chorus) and move only the upper chords over it. Pair with a groove ostinato
+  (R-OSTINATO) for a driving verse bed; release the pedal at the section change.
+
+================================================================================
+CONCEPT: Harmonic rhythm / chord-change rate
+ID: H-RHYTHM
+FILE: harmony.txt
+STATUS: core-idiom
+ATTEST: 289/314 songs  (classical 100% … electronic_dance 65%)
+GENRE: all (rate varies: ballad/jazz fast, vamp/electronic slow)
+THEORY: harmonic rhythm, chords-per-bar, sub-bar chord change
+ROLE: pacing, harmonic motion, sectional energy
+FEATURE: bass-root-changes-mid-bar
+--------------------------------------------------------------------------------
+WHAT: How OFTEN the harmony changes. Detected as the bass root changing within a bar (two
+  chords in a bar = fast harmonic rhythm); one chord per bar (or held across bars) = slow.
+  92% of the corpus shows at least some sub-bar harmonic motion; ballads and ii–V–I
+  turnarounds move fastest, static grooves/electronic vamps slowest.
+EXAMPLE: song_0004 (Queen — Killer Queen) — 49 bars with a mid-bar bass-root change  [Electric Bass: Eb2@1>3 Eb2@10>9 D2@19>15 ...]
+EXAMPLE: song_0159 (Dvorak — Symphony No.2, II) bar 4 — bass G1->A1->D2 within the bar  [Part12: G1@1>2 A1@3>2 D2@5>4]
+EXAMPLE: song_0223 (Earth, Wind & Fire — Got To Get You Into My Life) — 94 bars with sub-bar root change  [Electric Bass: B1@3>4 Bb1@7>2]
+COMPOSE: Decide chords-per-bar deliberately. For faster motion (ballads, jazz turnarounds,
+  ii–V–I), change the bass root and chord at the half-bar — @1 chord A, @9 chord B. For a
+  static groove, hold one chord per bar or per two bars (pair with H-PEDAL). Steer
+  chord_change_rate to the dosage band: RAISE it by adding mid-bar changes, LOWER it by
+  holding chords longer.
+
+================================================================================
+CONCEPT: Pitch-class palette breadth (chromatic color)
+ID: H-PALETTE
+FILE: harmony.txt
+STATUS: core-idiom
+ATTEST: 175/314 songs  (GENRE-SPECIFIC: film_score 90%, jazz 89%, classical 87% … electronic_dance 35%, folk_country 16%)
+GENRE: jazz, classical, film/score, soul (rich); folk, electronic (diatonic)
+THEORY: chromaticism, pitch-class palette, non-diatonic color, altered tones
+ROLE: harmonic richness, color, sophistication-of-palette
+FEATURE: many-distinct-pcs + out-of-scale-tones
+--------------------------------------------------------------------------------
+WHAT: How wide the pitch-class palette is — how many of the 12 pcs sound and how much
+  chromatic (out-of-key) weight they carry. Jazz/classical/film use a broad chromatic
+  palette (≥9–12 pcs with real out-of-scale mass); folk and electronic-dance stay mostly
+  diatonic (7–8 pcs). This is the harmony axis that most splits by genre.
+EXAMPLE: song_0131 (Duke Ellington — Don't Get Around Much Anymore) — uses all 12 pcs song-wide; bar 5 sounds chromatic D#/Eb (outside C major)  [Piano: A3+C4+Eb4+F#4@6>6]
+EXAMPLE: song_0161 (Chopin — Etude Op.10 No.12) — 12 pcs song-wide; bar 2 sounds chromatic G# (outside C major)  [Part1: F4+G#4@17>2]
+EXAMPLE: song_0278 (Vangelis — Bladerunner) — 12 pcs song-wide; bar 18 sounds chromatic A (outside the prevailing scale)
+COMPOSE: To enrich harmony, reach beyond the 7 scale tones — secondary-dominant accidentals,
+  chromatic passing tones, altered tensions (b9/#9/#11), borrowed chords. For a diatonic
+  idiom (folk, simple pop, electronic dance) deliberately KEEP the palette inside the scale.
+  Steer distinct_pc / pc_entropy / chromaticism to the TARGET-GENRE band (jazz/classical
+  high, folk/electronic low). Pairs with H-DOM7, H-DIM, H-AUG.

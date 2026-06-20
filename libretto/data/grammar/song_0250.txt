@@ -1,0 +1,561 @@
+KEY: E minor | METER: 4/4 | TEMPO: 200 | GRID: 16th (adaptive) | BARS: 108
+VOICES: Electric Bass, Piano, Electric Guitar, Electric Guitar#2, Part5, Part6, Part7, Brass, Brass#2, Choir, Voice, Voice#2
+@1 [-]
+@2 [-]
+@3 [D] (grid:4)
+  Electric Bass    : A3+D4@1>4
+@4 [-]
+@5 [-]
+@6 [-]
+@7 [D] (grid:12t)
+  Electric Bass    : D4@8>2 D2@9>4
+@8 [E] (grid:4)
+  Electric Bass    : E1@1>2
+@9 [-]
+@10 [-]
+@11 [-]
+@12 [Em] (grid:4)
+  Piano            : E4+G4+B4@1>4
+  Choir            : E4@1>3 G4@4>1
+@13 [Bm7] (grid:4)
+  Piano            : D4+F#4+A4+B4@1>4
+  Choir            : B3@1>4
+@14 [Em] (grid:4)
+  Piano            : E4+G4+B4@1>4
+  Choir            : E4@1>3 G4@4>1
+@15 [Bm7] (grid:4)
+  Piano            : D4+F#4+A4+B4@1>4
+  Choir            : B3@1>4
+@16 [Em] (grid:4)
+  Piano            : E4+G4+B4@1>4
+  Choir            : E4@1>3 G4@4>1
+@17 [Bm7] (grid:4)
+  Piano            : D4+F#4+A4+B4@1>4
+  Choir            : B3@1>4
+@18 [Em] (grid:4)
+  Piano            : E4+G4+B4@1>4
+  Choir            : E4@1>3 G4@4>1
+@19 [Bm7] (grid:4)
+  Electric Bass    : B1@4>1
+  Piano            : D4+F#4+A4+B4@1>4
+  Choir            : B3@1>4
+@20 [Em]
+  Electric Bass    : E1@1>10 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>11 B4@13>1 C5@14>1 A4@16>1
+  Electric Guitar#2: B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+  Part7            : B6@1>4 A6@5>4 G6@9>4 F#6@13>4
+@21 [B7 | D] (grid:8)
+  Electric Bass    : B1@1>4
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : A4@1>4 G4@5>1 A4@6>1 B4@7>1 A4@8>1
+  Electric Guitar#2: E4@1>2 Eb4@3>2 Eb4@5>2 D4@7>2
+  Part7            : E6@1>2 Eb6@3>2 Eb6@5>2 D6@7>2
+@22 [Em7 | G] (grid:32)
+  Electric Bass    : E1@1>20 G1@25>4 A1@29>4
+  Piano            : E4+G4+B4@1>30
+  Electric Guitar  : G4@1>8 F#4@9>8 G4@17>8 F#4@25>2 G4@27>3 F#4+G4@30>2 F#4@31>2
+  Electric Guitar#2: D4@1>24 F#4@25>2 G4@27>4 F#4+A4@31>2
+  Part7            : D6@1>32
+@23 [Bm7]
+  Electric Bass    : B1@1>8
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : F#4@1>8 A4@9>1 A4@12>1 B4@13>2
+  Electric Guitar#2: B4@1>2 C5@3>2 B4@5>1 A4@6>1 G4@7>1 F#4@8>1
+@24 [Em]
+  Electric Bass    : E1@1>10 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>11 B4@13>1 C5@14>1 A4@16>1
+  Electric Guitar#2: B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+  Part7            : B6@1>4 A6@5>4 G6@9>4 F#6@13>4
+@25 [B7 | D] (grid:8)
+  Electric Bass    : B1@1>4
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : A4@1>4 G4@5>1 A4@6>1 B4@7>1 A4@8>1
+  Electric Guitar#2: E4@1>2 Eb4@3>2 Eb4@5>2 D4@7>2
+  Part7            : E6@1>2 Eb6@3>2 Eb6@5>2 D6@7>2
+@26 [Em7 | G] (grid:32)
+  Electric Bass    : E1@1>20 G1@25>4 A1@29>4
+  Piano            : E4+G4+B4@1>30
+  Electric Guitar  : G4@1>8 F#4@9>8 G4@17>8 F#4@25>2 G4@27>3 F#4+G4@30>2 F#4@31>2
+  Electric Guitar#2: D4@1>24 F#4@25>2 G4@27>4 F#4+A4@31>2
+  Part7            : D6@1>32
+@27 [Bm7]
+  Electric Bass    : B1@1>8
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : F#4@1>8 A4@9>1 A4@12>1 B4@13>2
+  Electric Guitar#2: B4@1>2 C5@3>2 B4@5>1 A4@6>1 G4@7>1 F#4@8>1
+@28 [Em]
+  Electric Bass    : E1@1>12 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>11 B4@13>1 C5@14>1 A4@16>1
+  Part5            : B5@1>1 B5@3>1 A5@5>1
+  Part6            : B4@1>1 E4+B4@3>1 D4+A4@5>1 E4@8>1 E4@10>1 E4@12>1 D4@13>1 D4@15>1
+  Choir            : E4@1>12 G4@13>4
+@29 [D | Bm7]
+  Electric Bass    : A1@1>10
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : A4@1>8 G4@9>2 A4@11>2 B4@13>1 C5@14>1 A4@15>1 G4@16>1
+  Part5            : G5@1>1 A5@3>1 A5@5>1 A5@6>1 B5@8>1
+  Part6            : D4+G4@1>1 D4+A4@3>1 D4+A4@5>1 D4+A4@6>1 E4+B4@8>1
+  Choir            : B3@1>15
+@30 [Em]
+  Electric Bass    : E1@1>12 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : G4@1>1 E4@2>9 E4@13>1 F#4@14>1 G4@15>1 F#4@16>1
+  Electric Guitar#2: F#5@10>4 G5@14>3
+  Part5            : B5@1>1 B5@3>1 A5@5>1 B5@8>1 B5@10>1 B5@12>1 A5@13>1
+  Part6            : E4@1>1 E4+B4@3>1 D4+A4@5>1 E4+B4@8>1 E4+B4@10>1 E4+B4@12>1 D4+A4@13>1 D4+A4@15>1
+  Choir            : E4@1>12 G4@13>4
+@31 [D | Bm7]
+  Electric Bass    : A1@1>8 A1@11>2 B1@13>2 D2@15>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : F#4@1>5 G4@7>1 A4@9>2 A4+B4@13>2
+  Electric Guitar#2: F#4@1>6 G4@7>2 E4@9>4 F#4@13>1 D4@14>1 D4@16>1
+  Part5            : A5@1>1 A5@3>1 A5@5>1 A5@6>1 B5@8>1
+  Part6            : D4+A4@1>1 D4+A4@3>1 D4+A4@5>1 D4+A4@6>1 E4+B4@8>1
+  Choir            : B3@1>16
+@32 [Em]
+  Electric Bass    : E1@1>12 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>11 B4@13>1 C5@14>1 A4@16>1
+  Electric Guitar#2: D4@1>8 E4@9>1 F#4@10>1 E4@11>1 F#4@12>1 G4@13>4
+  Part5            : B5@1>1 B5@3>1 A5@5>1
+  Part6            : B4@1>1 E4+B4@3>1 D4+A4@5>1 E4@8>1 E4@10>1 E4@12>1 D4@13>1 D4@15>1
+  Choir            : E4@1>12 G4@13>4
+@33 [D | Bm7]
+  Electric Bass    : A1@1>10 A1@11>2 B1@13>2 D2@15>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : A4@1>8 G4@9>2 A4@11>2 B4@13>1 C5@14>1 A4@15>1 G4@16>1
+  Electric Guitar#2: E4@1>2 D4@3>2 D4@5>4 D4@9>1 E4@10>1 D4@11>1 E4@12>1 F#4@13>1 D4@14>2
+  Part5            : G5@1>1 A5@3>1 A5@5>1 A5@6>1 B5@8>1
+  Part6            : D4+G4@1>1 D4+A4@3>1 D4+A4@5>1 D4+A4@6>1 E4+B4@8>1
+  Choir            : B3@1>16
+@34 [Em]
+  Electric Bass    : E1@1>12 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : G4@1>4 F#4@5>4 G4@9>4 F#4@13>1 G4@14>1 F#4@16>1
+  Electric Guitar#2: D4@1>11 F#4@13>1 G4@14>1 F#4@16>1
+  Part5            : B5@1>1 B5@3>1 A5@5>1 B5@8>1 B5@10>1 B5@12>1 A5@13>1
+  Part6            : E4@1>1 E4+B4@3>1 D4+A4@5>1 E4+B4@8>1 E4+B4@10>1 E4+B4@12>1 D4+A4@13>1 D4+A4@15>1
+  Choir            : E4@1>12 G4@13>4
+@35 [D | Bm7]
+  Electric Bass    : A1@1>12 E1@13>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : F#4@1>8 A4@9>1 A4@12>1 B4@13>2 E5@15>2
+  Electric Guitar#2: F#4@1>3 D4@9>1 E4@10>1 F#4@13>2 E4@15>1
+  Part5            : A5@1>1 A5@3>1 A5@5>1 A5@6>1 B5@8>1
+  Part6            : D4+A4@1>1 D4+A4@3>1 D4+A4@5>1 D4+A4@6>1 E4+B4@8>1
+  Choir            : B3@1>15
+@36 [Em]
+  Electric Bass    : E1@1>4 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>10 B4@13>1 C5@14>1 A4@16>1
+  Voice            : B3@1>1 B3@2>1 B3@3>1 B3@4>1 B3@5>2 A3@7>1 B3@8>3 B3@11>1 B3@12>1 C4@13>2 B3@15>1 A3@16>1
+@37 [D]
+  Electric Bass    : A1@1>4 G1@11>2 A1@13>2 D2@15>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : A4@1>8 G4@9>2 A4@11>2 B4@13>1 C5@14>1 A4@15>1 G4@16>1
+  Voice            : A3@1>1 E4@11>2 B3@13>2 A3@15>1 G3@16>1
+@38 [Em7]
+  Electric Bass    : E1@1>4 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : G4@1>2 E4@3>1 D4@4>2 E4@6>4 F#4@13>1 G4@14>1 F#4+G4@16>1
+  Electric Guitar#2: D4@1>8 F#4+G4@9>1 E4+F#4@10>1 D4@12>1 F#4@13>1 G4@14>2 F#4@16>1
+  Voice            : A3@1>2 B3@3>2 G3@5>3
+@39 [Bm7 | D]
+  Electric Bass    : A1@1>4 D4@13>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : F#4@1>4 B4@5>4 A4@9>1 A4@12>1 B4@13>4
+  Electric Guitar#2: B4@1>8 A4@9>5
+@40 [Em]
+  Electric Bass    : E1@1>4 G1@13>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>4 B4@5>4 B4@9>4 B4@13>1 C5@14>1 A4@16>1
+  Voice            : B3@1>1 B3@2>1 B3@3>1 B3@4>1 B3@5>2 A3@7>1 B3@8>3 B3@11>1 B3@12>1 C4@13>2 B3@15>1 A3@16>1
+@41 [D]
+  Electric Bass    : A1@1>4 G1@11>2 A1@13>2 D2@15>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : A4@1>8 G4@9>2 A4@11>2 B4@13>1 C5@14>1 A4@15>1 G4@16>1
+  Voice            : A3@1>1 E4@11>2 B3@13>2 A3@15>1 G3@16>1
+@42 [Em7]
+  Electric Bass    : E1@1>6 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : G4@1>2 E4@3>1 D4@4>1 D4@5>1 E4@6>4 F#4@13>1 G4@14>1 F#4+G4@16>1
+  Electric Guitar#2: D4@1>8 F#4+G4@9>1 E4+F#4@10>1 D4@12>1 F#4@13>1 G4@14>1
+  Voice            : A3@1>2 B3@3>2 G3@5>3
+@43 [Bm7]
+  Electric Bass    : B1@1>10 E3@13>4
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : F#4@1>6 G4@7>2 A4@9>1 A4@12>1 B4@13>4
+  Electric Guitar#2: B4@1>2 C5@3>1 B4+C5@4>1 A4+B4@5>1 F#4+G4@7>1 F#4@9>8
+@44 [Em]
+  Electric Bass    : E1@1>12 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>11 B4@13>1 C5@14>1 A4@16>1
+  Part5            : B5@1>1 B5@3>1 A5@5>1
+  Part6            : B4@1>1 E4+B4@3>1 D4+A4@5>1 E4@8>1 E4@10>1 E4@12>1 D4@13>1 D4@15>1
+  Choir            : E4@1>12 G4@13>4
+@45 [D | Bm7]
+  Electric Bass    : A1@1>12
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : A4@1>8 G4@9>2 A4@11>2 B4@13>1 C5@14>1 A4@15>1 G4@16>1
+  Part5            : G5@1>1 A5@3>1 A5@5>1 A5@6>1 B5@8>1
+  Part6            : D4+G4@1>1 D4+A4@3>1 D4+A4@5>1 D4+A4@6>1 E4+B4@8>1
+  Choir            : B3@1>15
+@46 [Em]
+  Electric Bass    : E1@1>12 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : G4@1>1 E4@2>9 E4@13>1 F#4@14>1 G4@15>1 F#4@16>1
+  Electric Guitar#2: F#5@10>4 G5@14>3
+  Part5            : B5@1>1 B5@3>1 A5@5>1 B5@8>1 B5@10>1 B5@12>1 A5@13>1
+  Part6            : E4@1>1 E4+B4@3>1 D4+A4@5>1 E4+B4@8>1 E4+B4@10>1 E4+B4@12>1 D4+A4@13>1 D4+A4@15>1
+  Choir            : E4@1>12 G4@13>4
+@47 [D | Bm7]
+  Electric Bass    : A1@1>10 A1@11>2 B1@13>2 D2@15>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : F#4@1>5 G4@7>1 A4@9>2 A4+B4@13>2
+  Electric Guitar#2: F#4@1>6 G4@7>2 E4@9>4 F#4@13>1 D4@14>1 D4@16>1
+  Part5            : A5@1>1 A5@3>1 A5@5>1 A5@6>1 B5@8>1
+  Part6            : D4+A4@1>1 D4+A4@3>1 D4+A4@5>1 D4+A4@6>1 E4+B4@8>1
+  Choir            : B3@1>16
+@48 [Em]
+  Electric Bass    : E1@1>12 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>11 B4@13>1 C5@14>1 A4@16>1
+  Electric Guitar#2: D4@1>8 E4@9>1 F#4@10>1 E4@11>1 F#4@12>1 G4@13>4
+  Part5            : B5@1>1 B5@3>1 A5@5>1
+  Part6            : B4@1>1 E4+B4@3>1 D4+A4@5>1 E4@8>1 E4@10>1 E4@12>1 D4@13>1 D4@15>1
+  Choir            : E4@1>12 G4@13>4
+@49 [D | Bm7]
+  Electric Bass    : A1@1>10 A1@11>2 B1@13>2 D2@15>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : A4@1>8 G4@9>2 A4@11>2 B4@13>1 C5@14>1 A4@15>1 G4@16>1
+  Electric Guitar#2: E4@1>2 D4@3>2 D4@5>4 D4@9>1 E4@10>1 D4@11>1 E4@12>1 F#4@13>1 D4@14>2
+  Part5            : G5@1>1 A5@3>1 A5@5>1 A5@6>1 B5@8>1
+  Part6            : D4+G4@1>1 D4+A4@3>1 D4+A4@5>1 D4+A4@6>1 E4+B4@8>1
+  Choir            : B3@1>16
+@50 [Em]
+  Electric Bass    : E1@1>12 G1@13>4
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : G4@1>4 F#4@5>4 G4@9>4 F#4@13>1 G4@14>1 F#4@16>1
+  Electric Guitar#2: D4@1>11 F#4@13>1 G4@14>1 F#4@16>1
+  Part5            : B5@1>1 B5@3>1 A5@5>1 B5@8>1 B5@10>1 B5@12>1 A5@13>1
+  Part6            : E4@1>1 E4+B4@3>1 D4+A4@5>1 E4+B4@8>1 E4+B4@10>1 E4+B4@12>1 D4+A4@13>1 D4+A4@15>1
+  Choir            : E4@1>12 G4@13>4
+@51 [D | Bm7]
+  Electric Bass    : A1@1>12 B1@13>2 D2@15>2
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : F#4@1>8 A4@9>1 A4@12>1 B4@13>2 E5@15>2
+  Electric Guitar#2: F#4@1>3 D4@9>1 E4@10>1 F#4@13>2 E4@15>1
+  Part5            : A5@1>1 A5@3>1 A5@5>1 A5@6>1 B5@8>1
+  Part6            : D4+A4@1>1 D4+A4@3>1 D4+A4@5>1 D4+A4@6>1 E4+B4@8>1
+  Choir            : B3@1>15
+@52 [-]
+@53 [-]
+@54 [Em]
+  Voice#2          : G4+B4+E5@1>1 G4+B4+E5@2>1 F#4+A4+D5@4>1 G4+B4+E5@5>1 G4+B4+E5@15>1 G4+B4+E5@16>1
+@55 [D | Em]
+  Electric Guitar  : E4+E5@13>1
+  Brass            : D4+G4+B4+E5@13>2
+  Brass#2          : E4@13>2
+  Voice#2          : F#4+A4+D5@1>1 F#4+A4+D5@2>1 F#4+A4+D5@3>1 F#4+A4+D5@4>1 F#4+A4+D5@6>1 G4+B4+E5@8>1
+@56 [Em]
+  Voice#2          : G4+B4+E5@1>1 G4+B4+E5@2>1 F#4+A4+D5@4>1 G4+B4+E5@5>1 G4+B4+E5@15>1 G4+B4+E5@16>1
+@57 [D]
+  Voice#2          : F#4+A4+D5@1>1 F#4+A4+D5@2>1 F#4+A4+D5@3>1 F#4+A4+D5@4>1 F#4+A4+D5@6>1 G4+B4+E5@8>1
+@58 [Em]
+  Voice#2          : G4+B4+E5@1>1 G4+B4+E5@2>1 F#4+A4+D5@4>1 G4+B4+E5@5>1 G4+B4+E5@15>1 G4+B4+E5@16>1
+@59 [D | Em]
+  Electric Guitar  : E4+E5@13>1
+  Brass            : D4+G4+B4+E5@13>2
+  Brass#2          : E4@13>2
+  Voice#2          : F#4+A4+D5@1>1 F#4+A4+D5@2>1 F#4+A4+D5@3>1 F#4+A4+D5@4>1 F#4+A4+D5@6>1 G4+B4+E5@8>1
+@60 [Em]
+  Voice#2          : G4+B4+E5@1>1 G4+B4+E5@2>1 F#4+A4+D5@4>1 G4+B4+E5@5>1 G4+B4+E5@15>1 G4+B4+E5@16>1
+@61 [D]
+  Voice#2          : F#4+A4+D5@1>1 F#4+A4+D5@2>1 F#4+A4+D5@3>1 F#4+A4+D5@4>1 F#4+A4+D5@6>1 G4+B4+E5@8>1
+@62 [Em]
+  Voice#2          : G4+B4+E5@1>1 G4+B4+E5@2>1 F#4+A4+D5@4>1 G4+B4+E5@5>1 G4+B4+E5@15>1 G4+B4+E5@16>1
+@63 [D | G]
+  Electric Bass    : G1@16>1
+  Electric Guitar  : B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass            : B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : B1@11>1 D2@13>1 E2@14>1 G2@16>1
+  Voice#2          : F#4+A4+D5@1>1 F#4+A4+D5@2>1 F#4+A4+D5@3>1 F#4+A4+D5@4>1 F#4+A4+D5@6>1 G4+B4+E5@8>1
+@64 [G | C#dim]
+  Electric Bass    : G1@1>4
+  Electric Guitar  : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass            : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass#2          : E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+@65 [C# | G]
+  Electric Guitar  : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G2@16>1
+  Brass            : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+@66 [G#7 | D]
+  Electric Guitar  : G#2@4>1 A2@8>1 Bb2@12>1 E4@14>1 Eb4@15>1 D3+D4@16>1
+  Brass            : G3+G4@2>1 G#3+G#4@6>1 A3+A4@10>1 E4+E5@14>1 Eb4+Eb5@15>1 D4+F#4+A4+D5@16>1
+  Brass#2          : G1+G2@2>1 G#1+G#2@4>1 G#1+G#2@6>1 A1+A2@8>1 A1+A2@10>1 Bb1+Bb2@12>1 E2+E3@14>1 Eb2+Eb3@15>1 D2+D3@16>1
+@67 [D | G]
+  Electric Bass    : G1@16>1
+  Electric Guitar  : D3+D4@1>9 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass            : D4+F#4+A4+D5@1>9 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : D2+D3@1>9 B1@11>1 D2@13>1 E2@14>1 G2@16>1
+@68 [G | C#dim]
+  Electric Bass    : G1@1>4 E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+  Electric Guitar  : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass            : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass#2          : E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+@69 [C# | G]
+  Electric Bass    : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+  Electric Guitar  : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G2@16>1
+  Brass            : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+@70 [G#7 | D]
+  Electric Bass    : G#1@4>1 A1@8>1 Bb1@12>1 E2@14>1 Eb2@15>1 D2@16>1
+  Electric Guitar  : G#2@4>1 A2@8>1 Bb2@12>1 E4@14>1 Eb4@15>1 D3+D4@16>1
+  Brass            : G3+G4@2>1 G#3+G#4@6>1 A3+A4@10>1 E4+E5@14>1 Eb4+Eb5@15>1 D4+F#4+A4+D5@16>1
+  Brass#2          : G1+G2@2>1 G#1+G#2@6>1 A1+A2@10>1 E2+E3@14>1 Eb2+Eb3@15>1 D2+D3@16>1
+@71 [D | G]
+  Electric Bass    : D2@1>2 D2@4>1 D3@5>1 D2@6>1 D2@7>1 D3@9>1 D2@10>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+  Electric Guitar  : D3+D4@1>9 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass            : D4+F#4+A4+D5@1>9 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : D2+D3@1>9 B1@11>1 D2@13>1 E2@14>1 G2@16>1
+@72 [G | C#dim]
+  Electric Bass    : G1@1>4 E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+  Electric Guitar  : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass            : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass#2          : E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+@73 [C# | G]
+  Electric Bass    : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+  Electric Guitar  : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G2@16>1
+  Brass            : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+@74 [G#7 | D]
+  Electric Bass    : G#1@4>1 A1@8>1 Bb1@12>1 E2@14>1 Eb2@15>1 D2@16>1
+  Electric Guitar  : G#2@4>1 A2@8>1 Bb2@12>1 E4@14>1 Eb4@15>1 D3+D4@16>1
+  Brass            : G3+G4@2>1 G#3+G#4@6>1 A3+A4@10>1 E4+E5@14>1 Eb4+Eb5@15>1 D4+F#4+A4+D5@16>1
+  Brass#2          : G1+G2@2>1 G#1+G#2@6>1 A1+A2@10>1 E2+E3@14>1 Eb2+Eb3@15>1 D2+D3@16>1
+@75 [D | G]
+  Electric Bass    : D2@1>2 D2@4>1 D3@5>1 D2@6>1 D2@7>1 D3@9>1 D2@10>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+  Electric Guitar  : D3+D4@1>9 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass            : D4+F#4+A4+D5@1>9 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : D2+D3@1>9 B1@11>1 D2@13>1 E2@14>1 G2@16>1
+@76 [G | C#dim]
+  Electric Bass    : G1@1>4 E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+  Electric Guitar  : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass            : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass#2          : E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+@77 [C# | G]
+  Electric Bass    : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+  Electric Guitar  : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G2@16>1
+  Brass            : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+@78 [G#7 | D]
+  Electric Bass    : G#1@4>1 A1@8>1 Bb1@12>1 E2@14>1 Eb2@15>1 D2@16>1
+  Electric Guitar  : G#2@4>1 A2@8>1 Bb2@12>1 E4@14>1 Eb4@15>1 D3+D4@16>1
+  Brass            : G3+G4@2>1 G#3+G#4@6>1 A3+A4@10>1 E4+E5@14>1 Eb4+Eb5@15>1 D4+F#4+A4+D5@16>1
+  Brass#2          : G1+G2@2>1 G#1+G#2@6>1 A1+A2@10>1 E2+E3@14>1 Eb2+Eb3@15>1 D2+D3@16>1
+@79 [D]
+  Electric Bass    : D2@1>2 D2@4>1 D2@5>1 D2@6>1 D2@7>1 D2@8>1 D2@9>1 D2@10>1 D2@11>1 D2@12>1 D1@13>1 D1@14>1 D1@15>1 D1@16>1
+  Electric Guitar  : D3+D4@1>16
+  Brass            : D4+F#4+A4+D5@1>16
+  Brass#2          : D2+D3@1>16
+@80 [D]
+  Electric Bass    : D1@1>1 D1@2>1 D1@3>1 D1@4>1 D1@5>1 D1@6>1 D1@7>1 D1@8>1 D1@9>1 D1@10>1 D1@11>1 D1@12>1 D1@13>1 D1@14>1 D1@15>2
+  Electric Guitar  : D3+F#3+A3+D4@1>16
+  Electric Guitar#2: D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Brass            : D4+F#4+A4+D5@1>16
+  Brass#2          : D2+D3@1>16
+@81 [Em]
+  Electric Bass    : E1@1>3 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Brass            : G4+B4+D5+E5@1>2
+  Brass#2          : D2+E2+D3+E3@1>2
+  Choir            : E4@1>12 G4@13>4
+  Voice            : B3@1>1 B3@2>1 B3@3>1 B3@4>1 B3@5>2 A3@7>1 B3@8>3 B3@11>1 B3@12>1 C4@13>2 B3@15>1 A3@16>1
+@82 [Bm7] (grid:8)
+  Electric Bass    : B1@1>2 D2@7>2
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : E4@1>2 Eb4@3>2 Eb4@5>2 D4@7>2
+  Electric Guitar#2: F#3+A3+D4@2>1 F#3+A3+D4@4>1 F#3+A3+D4@6>1 F#3+A3+D4@8>1
+  Choir            : B3@1>8
+  Voice            : A3@1>1 E4@6>1 B3@7>1 A3@8>1
+@83 [Em]
+  Electric Bass    : E1@1>3 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : E4@1>4 F#4@5>4 G4@9>4 A4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Choir            : E4@1>12 G4@13>4
+  Voice            : G3+A3@1>2 B3@3>2 G3@5>3
+@84 [Bm7]
+  Electric Bass    : B1@1>3 B1@13>4
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : B4@1>2 C5@3>2 B4+C5@5>1 A4@6>1 G4@7>1 F#4@8>1 F#4@9>1 G4@12>1 A4@13>1
+  Electric Guitar#2: F#3+A3+D4@3>1 F#3+A3+D4@7>1 F#3+A3+D4@11>1 F#3+A3+D4@15>1
+  Choir            : B3@1>16
+@85 [Em]
+  Electric Bass    : E1@1>4 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Brass            : G4+B4+D5+E5@1>2
+  Brass#2          : E2+E3@1>2
+  Choir            : E4@1>12 G4@13>4
+  Voice            : B3@1>1 B3@2>1 B3@3>1 B3@4>1 B3@5>2 A3@7>1 B3@8>3 B3@11>1 B3@12>1 C4@13>2 B3@15>1 A3@16>1
+@86 [Bm7] (grid:8)
+  Electric Bass    : B1@1>2 B1@7>1 D2@8>1
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : E4@1>2 Eb4@3>2 Eb4@5>2 D4@7>2
+  Electric Guitar#2: F#3+A3+D4@2>1 F#3+A3+D4@4>1 F#3+A3+D4@6>1 F#3+A3+D4@8>1
+  Choir            : B3@1>8
+  Voice            : A3@1>1 E4@6>1 B3@7>1 A3@8>1
+@87 [Em]
+  Electric Bass    : E1@1>4 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : E4@1>4 F#4@5>4 G4@9>4 A4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Choir            : E4@1>12 G4@13>4
+  Voice            : G3+A3@1>2 B3@3>2 G3@5>3
+@88 [Bm7]
+  Electric Bass    : B1@1>5 B1@13>4
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : B4@1>2 C5@3>2 B4+C5@5>1 A4@6>1 G4@7>1 F#4@8>1 F#4@9>1 G4@12>1 A4@13>1
+  Electric Guitar#2: F#3+A3+D4@3>1 F#3+A3+D4@7>1 F#3+A3+D4@11>1 F#3+A3+D4@15>1
+  Choir            : B3@1>15
+@89 [Em]
+  Electric Bass    : E1@1>3 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Choir            : E4@1>12 G4@13>4
+  Voice            : B3@1>1 B3@2>1 B3@3>1 B3@4>1 B3@5>2 A3@7>1 B3@8>3 B3@11>1 B3@12>1 C4@13>2 B3@15>1 A3@16>1
+@90 [Bm7] (grid:8)
+  Electric Bass    : B1@1>2 D2@7>2
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : E4@1>2 Eb4@3>2 Eb4@5>2 D4@7>2
+  Electric Guitar#2: F#3+A3+D4@2>1 F#3+A3+D4@4>1 F#3+A3+D4@6>1 F#3+A3+D4@8>1
+  Choir            : B3@1>8
+  Voice            : A3@1>1 E4@6>1 B3@7>1 A3@8>1
+@91 [Em]
+  Electric Bass    : E1@1>3 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : E4@1>4 F#4@5>4 G4@9>4 A4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Choir            : E4@1>12 G4@13>4
+  Voice            : G3+A3@1>2 B3@3>2 G3@5>3
+@92 [Bm7]
+  Electric Bass    : B1@1>3 B1@13>4
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : B4@1>2 C5@3>2 B4+C5@5>1 A4@6>1 G4@7>1 F#4@8>1 F#4@9>1 G4@12>1 A4@13>1
+  Electric Guitar#2: F#3+A3+D4@3>1 F#3+A3+D4@7>1 F#3+A3+D4@11>1 F#3+A3+D4@15>1
+  Choir            : B3@1>16
+@93 [Em]
+  Electric Bass    : E1@1>4 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Brass            : G4+B4+D5+E5@1>2
+  Brass#2          : E2+E3@1>2
+  Choir            : E4@1>12 G4@13>4
+  Voice            : B3@1>1 B3@2>1 B3@3>1 B3@4>1 B3@5>2 A3@7>1 B3@8>3 B3@11>1 B3@12>1 C4@13>2 B3@15>1 A3@16>1
+@94 [Bm7] (grid:8)
+  Electric Bass    : B1@1>2 B1@7>1 D2@8>1
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : E4@1>2 Eb4@3>2 Eb4@5>2 D4@7>2
+  Electric Guitar#2: F#3+A3+D4@2>1 F#3+A3+D4@4>1 F#3+A3+D4@6>1 F#3+A3+D4@8>1
+  Choir            : B3@1>8
+  Voice            : A3@1>1 E4@6>1 B3@7>1 A3@8>1
+@95 [Em]
+  Electric Bass    : E1@1>4 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : E4@1>4 F#4@5>4 G4@9>4 A4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Choir            : E4@1>12 G4@13>4
+  Voice            : G3+A3@1>2 B3@3>2 G3@5>3
+@96 [Bm7]
+  Electric Bass    : B1@1>5 B1@13>4
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : B4@1>2 C5@3>2 B4+C5@5>1 A4@6>1 G4@7>1 F#4@8>1 F#4@9>1 G4@12>1 A4@13>1
+  Electric Guitar#2: F#3+A3+D4@3>1 F#3+A3+D4@7>1 F#3+A3+D4@11>1 F#3+A3+D4@15>1
+  Choir            : B3@1>15
+@97 [Em]
+  Electric Bass    : E1@1>3 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Choir            : E4@1>12 G4@13>4
+  Voice            : B3@1>1 B3@2>1 B3@3>1 B3@4>1 B3@5>2 A3@7>1 B3@8>3 B3@11>1 B3@12>1 C4@13>2 B3@15>1 A3@16>1
+@98 [Bm7] (grid:8)
+  Electric Bass    : B1@1>2 D2@7>2
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : E4@1>2 Eb4@3>2 Eb4@5>2 D4@7>2
+  Electric Guitar#2: F#3+A3+D4@2>1 F#3+A3+D4@4>1 F#3+A3+D4@6>1 F#3+A3+D4@8>1
+  Choir            : B3@1>8
+  Voice            : A3@1>1 E4@6>1 B3@7>1 A3@8>1
+@99 [Em]
+  Electric Bass    : E1@1>3 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : E4@1>4 F#4@5>4 G4@9>4 A4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Choir            : E4@1>12 G4@13>4
+  Voice            : G3+A3@1>2 B3@3>2 G3@5>3
+@100 [Bm7]
+  Electric Bass    : B1@1>3 B1@13>4
+  Piano            : D4+F#4+A4+B4@1>15
+  Electric Guitar  : B4@1>2 C5@3>2 B4+C5@5>1 A4@6>1 G4@7>1 F#4@8>1 F#4@9>1 G4@12>1 A4@13>1
+  Electric Guitar#2: F#3+A3+D4@3>1 F#3+A3+D4@7>1 F#3+A3+D4@11>1 F#3+A3+D4@15>1
+  Choir            : B3@1>16
+@101 [Em]
+  Electric Bass    : E1@1>4 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Brass            : G4+B4+D5+E5@1>2
+  Brass#2          : E2+E3@1>2
+  Choir            : E4@1>12 G4@13>4
+  Voice            : B3@1>1 B3@2>1 B3@3>1 B3@4>1 B3@5>2 A3@7>1 B3@8>3 B3@11>1 B3@12>1 C4@13>2 B3@15>1 A3@16>1
+@102 [Bm7] (grid:8)
+  Electric Bass    : B1@1>2 B1@7>1 D2@8>1
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : E4@1>2 Eb4@3>2 Eb4@5>2 D4@7>2
+  Electric Guitar#2: F#3+A3+D4@2>1 F#3+A3+D4@4>1 F#3+A3+D4@6>1 F#3+A3+D4@8>1
+  Choir            : B3@1>8
+  Voice            : A3@1>1 E4@6>1 B3@7>1 A3@8>1
+@103 [Em]
+  Electric Bass    : E1@1>4 E1@12>1 G1@13>2 A1@15>2
+  Piano            : E4+G4+B4@1>15
+  Electric Guitar  : E4@1>4 F#4@5>4 G4@9>4 A4@13>4
+  Electric Guitar#2: G3+B3+E4@3>1 G3+B3+E4@7>1 G3+B3+E4@11>1 G3+B3+E4@15>1
+  Choir            : E4@1>12 G4@13>4
+  Voice            : G3+A3@1>2 B3@3>2 G3@5>3
+@104 [Bm | G]
+  Electric Bass    : B1@1>5 G1@16>1
+  Piano            : D4+F#4+A4+B4@1>8
+  Electric Guitar  : B4@1>7 B3@11>2 D4@13>1 E4@14>1 G4@16>1
+  Electric Guitar#2: F#3+A3+D4@3>1 F#3+A3+D4@7>1
+  Brass            : B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : B1@11>1 D2@13>1 E2@14>1 G2@16>1
+  Choir            : B3@1>15
+@105 [G | C#dim]
+  Electric Bass    : G1@1>4 E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+  Electric Guitar  : E4@10>1 F#4@11>1 G4@12>1 F#4@13>1 E4@14>1 D4@15>1 C#4@16>1
+  Brass            : E3@10>1 F#3@11>1 G3@12>1 F#3@13>1 E3@14>1 D3@15>1 C#3@16>1
+  Brass#2          : E2@10>1 F#2@11>1 G2@12>1 F#2@13>1 E2@14>1 D2@15>1 C#2@16>1
+@106 [C# | G]
+  Electric Bass    : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+  Electric Guitar  : C#4@1>2 D4@3>1 D4@4>1 B3@11>1 D4@13>1 E4@14>1 G3@16>1
+  Brass            : C#3@1>2 D3@3>1 D3@4>1 B2@11>1 D3@13>1 E3@14>1 G3@16>1
+  Brass#2          : C#2@1>2 D2@3>1 D2@4>1 B1@11>1 D2@13>1 E2@14>1 G1@16>1
+@107 [G#7 | D]
+  Electric Bass    : G#1@4>1 A1@8>1 Bb1@12>1 E2@14>1 Eb2@15>1 D2@16>1
+  Electric Guitar  : G#3@4>1 A3@8>1 Bb3@12>1 E4@13>1 Eb4@14>1 D4@15>2
+  Brass            : G3+G4@2>1 G#3+G#4@6>1 A3+A4@10>1 E4+E5@14>1 Eb4+Eb5@15>1 D4+F#4+A4+D5@16>1
+  Brass#2          : G1+G2@2>1 G#1+G#2@6>1 A1+A2@10>1 E2+E3@14>1 Eb2+Eb3@15>1 D2+D3@16>1
+@108 [D | Em7]
+  Electric Bass    : D2@1>2 D2@4>1 D3@5>1 D2@6>1 D2@7>1 D3@9>1 D2@10>1 B1@11>1 D2@13>1 E2@14>1 E1@16>1
+  Electric Guitar  : D4@1>9 B3@11>1 D3+D4@13>1 E3+E4@14>1 E3+E4@16>1
+  Brass            : D4+F#4+A4+D5@1>9 B3+B4@11>1 D4+F#4+A4+D5@13>1 E4+G4+B4+E5@14>1 E4+G4+B4+E5@16>1
+  Brass#2          : D2+D3@1>9 B1+B2@11>1 D2+D3@13>1 E2+E3@14>1 E2+E3@16>1

@@ -1,0 +1,568 @@
+KEY: C major | METER: 4/4 | TEMPO: 112 | GRID: 8th (adaptive) | BARS: 118
+VOICES: Electric Piano, Part2, Part3, Lead Guitar, Part5, Electric Guitar, String Synth, Bass, Part9
+@1 [-]
+@2 [-]
+@3 [-]
+@4 [-]
+@5 [C] (grid:6t)
+  Electric Piano : C4+E4+G4@1>6
+  String Synth   : C4+E4+G4@1>6
+  Bass           : C2@1>6 E3@3>4
+@6 [C] (grid:12t)
+  Electric Piano : C4+E4+G4@1>4 C4+F4+A4@5>4 C4+E4+G4@10>3
+  String Synth   : C4+E4+G4@1>4 C4+F4+A4@5>4 C4+E4+G4@10>3
+  Bass           : C2@1>12 F3@5>4 E3@10>3
+@7 [F] (grid:6t)
+  Electric Piano : F3+A3+C4@1>6
+  String Synth   : F3+A3+C4@1>6
+  Bass           : F2@1>6 A3@3>4
+@8 [A#7 | F]
+  Electric Piano : F3+Bb3+D4@1>2 F3+A3+C4@4>5
+  Electric Guitar: Bb3+D4@1>3 A3+C4@4>5
+  String Synth   : F3+Bb3+D4@1>2 F3+A3+C4@4>5
+  Bass           : F2+Bb3@1>8 A3@2>2 Bb3@4>5
+@9 [C] (grid:6t)
+  Electric Piano : C4+E4+G4@1>6
+  String Synth   : C4+E4+G4@1>6
+  Bass           : C2@1>6 E3@3>4
+@10 [C] (grid:12t)
+  Electric Piano : C4+E4+G4@1>4 C4+F4+A4@5>4 C4+E4+G4@10>3
+  String Synth   : C4+E4+G4@1>4 C4+F4+A4@5>4 C4+E4+G4@10>3
+  Bass           : C2@1>12 F3@5>4 E3@10>3
+@11 [F] (grid:6t)
+  Electric Piano : F3+A3+C4@1>6
+  String Synth   : F3+A3+C4@1>6
+  Bass           : F2@1>6 A3@3>4
+@12 [A#7 | F] (grid:16)
+  Electric Piano : F3+Bb3+D4@1>5 F3+A3+C4@7>10
+  Part5          : C3@11>2 C3@13>1 C3@14>1 C3@15>1 C3@16>1
+  Electric Guitar: Bb3+D4@1>6 A3+C4@7>10
+  String Synth   : F3+Bb3+D4@1>5 F3+A3+C4@7>10
+  Bass           : F2+Bb3@1>16 A3@3>4 Bb3@7>10
+@13 [C] (grid:12t)
+  Electric Piano : G3+C4+E4@1>12
+  Lead Guitar    : G3@5>2 G3@10>2 G3@11>2
+  String Synth   : G3+C4+E4@1>12
+  Bass           : G1@1>4 G1@5>7
+@14 [C] (grid:16)
+  Electric Piano : G3+C4+E4@1>16
+  Lead Guitar    : G3@1>4 E4@9>1 F4@10>2 E4@12>3 C4@15>2
+  String Synth   : G3+C4+E4@1>16
+  Bass           : G1@1>5 G1@7>9
+@15 [G]
+  Electric Piano : G3+B3+D4@1>8
+  String Synth   : G3+B3+D4@1>8
+  Bass           : G1@1>2 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+@16 [G]
+  Electric Piano : G3+B3+D4@1>8
+  String Synth   : G3+B3+D4@1>8
+  Bass           : G1@1>1 G1@2>2 G1@4>4
+@17 [Dm]
+  Electric Piano : A3+D4+F4@1>8
+  Electric Guitar: D4@4>2 C4@6>2 A3@8>1
+  String Synth   : A3+D4+F4@1>8
+  Bass           : A1@1>2 A1@4>4 A2@8>1
+@18 [Dm]
+  Electric Piano : A3+D4+F4@1>8
+  Electric Guitar: A3@1>1 G3@2>2 F3@4>2 E3@6>3
+  String Synth   : A3+D4+F4@1>8
+  Bass           : D3@1>3 F3@4>1 E3@6>1 D3@7>1 A2@8>1
+@19 [Am] (grid:12t)
+  Electric Piano : A3+C4+E4@1>12
+  Electric Guitar: E3+A3+C4@1>12
+  String Synth   : A3+C4+E4@1>12
+  Bass           : A1@1>4 E2@5>4 A2@10>2 E2@11>2
+@20 [Am] (grid:16)
+  Electric Piano : A3+C4+E4@1>16
+  Electric Guitar: G4+A4@1>2 G4@3>4 E4@7>2 D4+E4@9>1 D4@10>1 C4@11>1 D4@12>1 C4@13>2
+  String Synth   : A3+C4+E4@1>16
+  Bass           : G2@1>2 A2@3>4 C3@7>4 A2@11>2 G2@13>2 E2@15>2
+@21 [G] (grid:16)
+  Electric Piano : G3+B3+D4@1>16
+  Electric Guitar: D3@11>1 E3@12>1 G3@13>4
+  String Synth   : G3+B3+D4@1>16
+  Bass           : G2@1>6 G1@7>4 D2@11>1 E2@12>1 G2@13>2 E2@15>2
+@22 [G] (grid:12t)
+  Electric Piano : G3+B3+D4@1>12
+  Electric Guitar: D3+B3@1>4 E3+C4@5>4 F3+D4@10>2
+  String Synth   : G3+B3+D4@1>12
+  Bass           : G1@1>12
+@23 [C]
+  Electric Piano : C4+E4+G4@1>2 D4+F4+G4@4>2 C4+E4+G4@7>2
+  Electric Guitar: E4+G4@1>3 D4+F4@4>3 C4+E4@7>2
+  String Synth   : C4+E4+G4@1>2 D4+F4+G4@4>2 C4+E4+G4@7>2
+  Bass           : C2@1>1 C2@2>2 C2@4>3 C3@7>2
+@24 [G] (grid:12t)
+  Electric Piano : B3+D4+G4@1>4 C4+E4+G4@5>4 B3+D4+G4@10>3
+  Electric Guitar: B3+D4@1>4 C4+E4@5>4 B3+D4@10>3
+  String Synth   : B3+D4+G4@1>4 C4+E4+G4@5>4 B3+D4+G4@10>3
+  Bass           : B2@1>4 A2@5>4 G2@10>3
+@25 [F]
+  Electric Piano : A3+C4+F4@1>8 C5+G5@5>4
+  Lead Guitar    : F4@2>1 C5@3>1 G4@4>5
+  Electric Guitar: B3+D4@1>1 A3+C4@2>7
+  String Synth   : A3+C4+F4@1>8 C5+G5@5>4
+  Bass           : F2@1>1 C3@2>1 F3@3>1 F3@4>5
+@26 [F]
+  Lead Guitar    : G4@1>8
+  Electric Guitar: A3+C4@1>8
+  Bass           : F2@1>1 C3@2>1 F3@3>1 F3+G3@4>2 F3@6>3
+@27 [F]
+  Electric Piano : A3+C4+F4+C5+G5@1>8
+  Electric Guitar: E4+G4@1>3 D4+F4@4>3 C4+E4@7>2
+  String Synth   : A3+C4+F4+C5+G5@1>8
+  Bass           : C2@1>1 C2@2>2 C2@4>2 C2@7>2
+@28 [C7] (grid:12t)
+  Electric Piano : C4+E4+G4@1>4 D4+F4+G4@5>4 C4+E4+G4@10>3
+  Electric Guitar: B3+D4@1>4 C4+E4@5>4 B3+D4@10>3
+  String Synth   : C4+E4+G4@1>4 D4+F4+G4@5>4 C4+E4+G4@10>3
+  Bass           : B1@1>4 C2@5>4 G1@10>3
+@29 [G7 | F]
+  Electric Piano : B3+D4+G4@1>2 C4+E4+G4@4>2 B3+D4+G4@7>2
+  Lead Guitar    : G4@2>1 C5@3>1 F5@4>5
+  Electric Guitar: B3+D4@1>1 A3+C4@2>7
+  String Synth   : B3+D4+G4@1>2 C4+E4+G4@4>2 B3+D4+G4@7>2
+  Bass           : F1@1>1 F1@2>1 F1@3>1 F1@4>5
+@30 [F]
+  Electric Piano : A3+C4+F4@1>8 C5+G5+C6@5>4
+  Lead Guitar    : F5@1>8
+  Electric Guitar: A3+C4@1>8
+  String Synth   : A3+C4+F4@1>8 C5+G5+C6@5>4
+  Bass           : F2@1>1 C3@2>1 F3@3>1 F3+G3@4>2 F3@6>3
+@31 [C]
+  Bass           : C2@1>1 C2@2>2 D2@4>3 C2@7>2
+  Part9          : E5+G5@1>3 D5+F5@4>3 C5+E5@7>2
+@32 [F] (grid:12t)
+  Electric Piano : A3+C4+F4+C5+G5+C6@1>12
+  String Synth   : A3+C4+F4+C5+G5+C6@1>12
+  Bass           : B1@1>4 A1@5>4 G1@10>3
+  Part9          : B4+D5@1>4 C5+E5@5>4 B4+D5@10>3
+@33 [C7] (grid:12t)
+  Electric Piano : C5+E5+G5@1>4 D5+F5+G5@5>4 C5+E5+G5@10>3
+  String Synth   : C5+E5+G5@1>4 D5+F5+G5@5>4 C5+E5+G5@10>3
+  Bass           : Bb1@1>4 C2@5>4 Bb1@10>3
+  Part9          : Bb4+D5+F5@1>4 C5+E5+F5@5>4 Bb4+D5+F5@10>3
+@34 [F7] (grid:12t)
+  Electric Piano : B4+D5+G5@1>4 C5+E5+G5@5>4 B4+D5+G5@10>3
+  String Synth   : B4+D5+G5@1>4 C5+E5+G5@5>4 B4+D5+G5@10>3
+  Bass           : G2+A2@1>11
+  Part9          : A4+C5+F5@1>12
+@35 [A#]
+  Electric Piano : Bb4+D5+F5@1>2 C5+E5+F5@4>2 Bb4+D5+F5@7>2
+  String Synth   : Bb4+D5+F5@1>2 C5+E5+F5@4>2 Bb4+D5+F5@7>2
+  Bass           : G2@1>1 G1@2>2 G1@4>5
+@36 [F] (grid:6t)
+  Electric Piano : A4+C5+F5@1>6
+  String Synth   : A4+C5+F5@1>6
+  Bass           : G1@1>2 G1@3>4
+@37 [C]
+  Electric Piano : G3+C4+E4+G4+C5+E5@1>8
+  String Synth   : G3+C4+E4+G4+C5+E5@1>8
+  Bass           : F2@1>1 C3@2>1 F3@3>1 G3@4>2 F3@6>3
+@38 [G] (grid:6t)
+  Electric Piano : G3+B3+D4+G4+B4+D5@1>5
+  String Synth   : G3+B3+D4+G4+B4+D5@1>5
+  Bass           : C2@1>6 E3@3>4
+@39 [F] (grid:12t)
+  Electric Piano : C4+F4+A4@1>12
+  String Synth   : C4+F4+A4@1>12
+  Bass           : C2@1>12 F3@5>4 E3@10>3
+@40 [C] (grid:16)
+  Electric Piano : C4+E4+G4@1>16
+  Electric Guitar: C3@7>1 D3@8>2 C3@10>1 D3@11>4 C3@15>1 D3@16>1
+  String Synth   : C4+E4+G4@1>16
+  Bass           : F2@1>16 A3@7>10
+@41 [C | F7] (grid:16)
+  Electric Piano : C4+E4+G4@1>5 C4+F4+A4@7>5 C4+E4+G4@13>4
+  Lead Guitar    : G3@7>1 G3@9>1 A3@10>1 C4@11>1 C4@13>1 D4@14>1 C4@15>2
+  Electric Guitar: D3@1>1 C3@2>1 D3@3>2 C3@5>12
+  String Synth   : C4+E4+G4@1>5 C4+F4+A4@7>5 C4+E4+G4@13>4
+  Bass           : F2+Bb3@1>16 A3@3>4 Bb3@7>10
+@42 [F7] (grid:6t)
+  Electric Piano : F3+A3+C4@1>6
+  Lead Guitar    : C4@1>6
+  String Synth   : F3+A3+C4@1>6
+  Bass           : C2@1>6 E3@3>4
+@43 [A# | F] (grid:16)
+  Electric Piano : F3+Bb3+D4@1>5 F3+A3+C4@7>10
+  Lead Guitar    : F3@7>2 G3@9>4 E3@13>1 D3@14>1 C3@15>1 D3@16>1
+  String Synth   : F3+Bb3+D4@1>5 F3+A3+C4@7>10
+  Bass           : C2@1>16 F3@7>6 E3@13>4
+@44 [C] (grid:6t)
+  Electric Piano : C4+E4+G4@1>6
+  Lead Guitar    : C3@1>6
+  String Synth   : C4+E4+G4@1>6
+  Bass           : F2@1>6 A3@3>4
+@45 [C | F7] (grid:16)
+  Electric Piano : C4+E4+G4@1>5 C4+F4+A4@7>5 C4+E4+G4@13>4
+  Lead Guitar    : Eb5@1>1 Eb5@2>1 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@8>1 D5@9>3 D5@13>1 C5@14>1 A4@15>1 G4@16>1
+  String Synth   : C4+E4+G4@1>5 C4+F4+A4@7>5 C4+E4+G4@13>4
+  Bass           : F2+Bb3@1>16 A3@3>4 Bb3@7>10
+@46 [F] (grid:6t)
+  Electric Piano : F3+A3+C4@1>6
+  Lead Guitar    : G5@1>6
+  String Synth   : F3+A3+C4@1>6
+  Bass           : G1@1>2 G1@3>3
+@47 [Gm7 | F] (grid:6t)
+  Electric Piano : F3+Bb3+D4@1>2 F3+A3+C4@3>4
+  Lead Guitar    : G5@1>3 C4@6>1
+  String Synth   : F3+Bb3+D4@1>2 F3+A3+C4@3>4
+  Bass           : G1@1>2 G1@3>3
+@48 [C7]
+  Electric Piano : G3+C4+E4@1>8
+  Lead Guitar    : B3@1>8
+  String Synth   : G3+C4+E4@1>8
+  Bass           : G1@1>2 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+@49 [C]
+  Electric Piano : G3+C4+E4@1>8
+  Lead Guitar    : B3@1>1 B3+F4@2>4
+  String Synth   : G3+C4+E4@1>8
+  Bass           : G1@1>1 G1@2>2 G1@4>4
+@50 [G]
+  Electric Piano : G3+B3+D4@1>8
+  Lead Guitar    : F4@1>1 E4@2>1 D4@3>1 C4@4>1 A3@5>4
+  String Synth   : G3+B3+D4@1>8
+  Bass           : A1@1>2 A1@4>4 A2@8>1
+@51 [G]
+  Electric Piano : G3+B3+D4@1>8
+  Lead Guitar    : A3@1>8
+  String Synth   : G3+B3+D4@1>8
+  Bass           : D3@1>3 F3@4>1 E3@6>1 D3@7>1 A2@8>1
+@52 [Dm]
+  Electric Piano : A3+D4+F4@1>8
+  Lead Guitar    : E4@1>1 D4@2>1 C4@3>1 B3@4>1 A3@5>4
+  String Synth   : A3+D4+F4@1>8
+  Bass           : A1@1>3 E2@4>3 A2@7>1 E2@8>1
+@53 [Dm]
+  Electric Piano : A3+D4+F4@1>8
+  Lead Guitar    : A3@1>4 C4@5>1 B3@6>1 A3@7>1 G3@8>1
+  String Synth   : A3+D4+F4@1>8
+  Bass           : G2@1>1 A2@2>2 C3@4>2 A2@6>1 G2@7>1 E2@8>1
+@54 [Am7] (grid:16)
+  Electric Piano : A3+C4+E4@1>16
+  Lead Guitar    : B3@1>8 G3@9>4 D3@13>4
+  String Synth   : A3+C4+E4@1>16
+  Bass           : G2@1>6 G1@7>4 D2@11>1 E2@12>1 G2@13>2 E2@15>2
+@55 [Am7] (grid:12t)
+  Electric Piano : A3+C4+E4@1>12
+  Lead Guitar    : D3+G3+B3@1>4 E3+G3+C4@5>4 F3+G3+D4@10>2
+  String Synth   : A3+C4+E4@1>12
+  Bass           : G1@1>12
+@56 [G]
+  Electric Piano : G3+B3+D4@1>8
+  Electric Guitar: G3+C4+E4@1>2 G3+D4+F4@4>3
+  String Synth   : G3+B3+D4@1>8
+  Bass           : C2@1>1 C2@2>2 C2@4>3 C3@7>2
+@57 [G] (grid:12t)
+  Electric Piano : G3+B3+D4@1>12
+  Electric Guitar: G3+B3+D4@1>4 G3+C4+E4@5>4
+  String Synth   : G3+B3+D4@1>12
+  Bass           : B2@1>4 A2@5>4 G2@10>3
+@58 [C]
+  Electric Piano : C4+E4+G4@1>2 D4+F4+G4@4>2 C4+E4+G4@7>2
+  Electric Guitar: F3@2>1 C4@3>1 G3@4>5
+  String Synth   : C4+E4+G4@1>2 D4+F4+G4@4>2 C4+E4+G4@7>2
+  Bass           : F2@1>1 C3@2>1 F3@3>1 F3@4>5
+@59 [G]
+  Electric Piano : B3+D4+G4@1>2 C4+E4+G4@4>2 B3+D4+G4@7>2
+  Electric Guitar: G3@1>8
+  String Synth   : B3+D4+G4@1>2 C4+E4+G4@4>2 B3+D4+G4@7>2
+  Bass           : F2@1>1 C3@2>1 F3@3>1 F3+G3@4>2 F3@6>3
+@60 [F]
+  Electric Piano : A3+C4+F4@1>8 C5+G5@5>4
+  Electric Guitar: G3+C4+E4@1>2 G3+D4+F4@4>3
+  String Synth   : A3+C4+F4@1>8 C5+G5@5>4
+  Bass           : C2@1>1 C2@2>2 C2@4>2 C2@7>2
+@61 [G | C] (grid:12t)
+  Electric Guitar: G3+B3+D4@1>4 G3+C4+E4@5>4
+  Bass           : B1@1>4 C2@5>4 G1@10>3
+@62 [F]
+  Electric Piano : A3+C4+F4+C5+G5@1>8
+  Electric Guitar: Bb3@7>1 C4@8>1
+  String Synth   : A3+C4+F4+C5+G5@1>8
+  Bass           : F1@1>1 F1@2>1 F1@3>1 F1@4>5
+@63 [C]
+  Electric Piano : C4+E4+G4@1>2 D4+F4+G4@4>2 C4+E4+G4@7>2
+  Electric Guitar: C4@1>2 C4@3>1 C4+A4@4>5
+  String Synth   : C4+E4+G4@1>2 D4+F4+G4@4>2 C4+E4+G4@7>2
+  Bass           : F2@1>1 C3@2>1 F3@3>1 F3+G3@4>2 F3@6>3
+@64 [G | C7]
+  Electric Piano : B3+D4+G4@1>2 C4+E4+G4@4>2 B3+D4+G4@7>2
+  String Synth   : B3+D4+G4@1>2 C4+E4+G4@4>2 B3+D4+G4@7>2
+  Bass           : C2@1>1 C2@2>2 D2@4>3 C2@7>2
+  Part9          : E5+G5@1>3 D5+F5@4>3 C5+E5@7>2
+@65 [F] (grid:12t)
+  Electric Piano : A3+C4+F4@1>12 C5+G5+C6@7>6
+  String Synth   : A3+C4+F4@1>12 C5+G5+C6@7>6
+  Bass           : B1@1>4 A1@5>4 G1@10>3
+  Part9          : B4+D5@1>4 C5+E5@5>4 B4+D5@10>3
+@66 [A#] (grid:12t)
+  Bass           : Bb1@1>4 C2@5>4 Bb1@10>3
+  Part9          : Bb4+D5+F5@1>4 C5+E5+F5@5>4 Bb4+D5+F5@10>3
+@67 [F] (grid:4)
+  Electric Piano : A3+C4+F4+C5+G5+C6@1>4
+  String Synth   : A3+C4+F4+C5+G5+C6@1>4
+  Bass           : G2+A2@1>4
+  Part9          : A4+C5+F5@1>4
+@68 [C]
+  Electric Piano : C5+E5+G5@1>2 D5+F5+G5@4>2 C5+E5+G5@7>2
+  String Synth   : C5+E5+G5@1>2 D5+F5+G5@4>2 C5+E5+G5@7>2
+  Bass           : G2@1>1 G1@2>2 G1@4>5
+@69 [G] (grid:12t)
+  Electric Piano : B4+D5+G5@1>4 C5+E5+G5@5>4 B4+D5+G5@10>3
+  String Synth   : B4+D5+G5@1>4 C5+E5+G5@5>4 B4+D5+G5@10>3
+  Bass           : G1@1>4 G1@5>8
+@70 [A#]
+  Electric Piano : Bb4+D5+F5@1>2 C5+E5+F5@4>2 Bb4+D5+F5@7>2
+  Lead Guitar    : A4@8>1
+  String Synth   : Bb4+D5+F5@1>2 C5+E5+F5@4>2 Bb4+D5+F5@7>2
+  Bass           : F2@1>1 C3@2>1 F3@3>1 G3@4>2 F3@6>3
+@71 [F] (grid:16)
+  Electric Piano : A4+C5+F5@1>16
+  Lead Guitar    : A4@1>11 A4@13>1 G4@14>1 F4@15>2
+  String Synth   : A4+C5+F5@1>16
+  Bass           : D2@1>4 D2@7>8
+@72 [C]
+  Electric Piano : G3+C4+E4+G4+C5+E5@1>8
+  Lead Guitar    : E4@1>3 D4@4>1 E4@5>3 F4@8>1
+  String Synth   : G3+C4+E4+G4+C5+E5@1>8
+  Bass           : D2@1>2 D2@4>4
+@73 [G]
+  Electric Piano : G3+B3+D4+G4+B4+D5@1>7
+  Lead Guitar    : E4@1>8
+  String Synth   : G3+B3+D4+G4+B4+D5@1>7
+  Bass           : A1@1>1 E2@2>1 A2@3>1 A2@4>4 A1@8>1
+@74 [F]
+  Electric Piano : C4+F4+A4@1>8
+  Lead Guitar    : G4@1>3 F4@4>1 E4@5>3 F4@8>1
+  String Synth   : C4+F4+A4@1>8
+  Bass           : A1@1>3 A2@4>3 C2@7>1 D2@8>1
+@75 [Dm]
+  Electric Piano : D4+F4+A4@1>8
+  Lead Guitar    : D4@1>7 E4@8>1
+  String Synth   : D4+F4+A4@1>8
+  Bass           : E2@1>2 B2@3>1 G3@4>2 F#3@6>1 E3@7>1 B2@8>1
+@76 [Dm]
+  Electric Piano : D4+F4+A4@1>8
+  Lead Guitar    : D4@1>2 G3@3>1 D4@4>1 E4@5>1 F4@6>1 E4@7>1 D4@8>1
+  String Synth   : D4+F4+A4@1>8
+  Bass           : E2@1>2 B2@3>1 E3@4>4 B2@8>1
+@77 [Am] (grid:16)
+  Electric Piano : C4+E4+A4@1>16
+  Lead Guitar    : E4@1>1 D4@2>1 C4@3>10 A4@15>1 G4@16>1
+  String Synth   : C4+E4+A4@1>16
+  Bass           : Bb1@1>16
+@78 [Am]
+  Electric Piano : C4+E4+A4@1>8
+  Lead Guitar    : A4@1>1 Bb4@2>1 A4@3>4 G4@7>1 G4@8>1
+  String Synth   : C4+E4+A4@1>8
+  Bass           : A1@1>8
+@79 [G] (grid:4)
+  Electric Piano : D4+G4+B4@1>4
+  Lead Guitar    : G4@1>4
+  String Synth   : D4+G4+B4@1>4
+  Bass           : G1@1>4
+@80 [G] (grid:24t)
+  Electric Piano : D4+G4+B4@1>24
+  Lead Guitar    : G4@1>18 A4@23>2
+  String Synth   : D4+G4+B4@1>24
+  Bass           : G1@1>4 G1@7>3 G1@10>4 G1@16>3 G1@19>3 A1@22>3
+@81 [A#] (grid:16)
+  Electric Piano : D4+F4+Bb4@1>16
+  Part2          : A4@4>1 F5@5>12
+  Part3          : A4@8>1 F5@9>8
+  Lead Guitar    : F5@1>16
+  String Synth   : D4+F4+Bb4@1>16
+  Bass           : D2@1>4 D2@7>8
+@82 [Am] (grid:16)
+  Electric Piano : C4+E4+A4@1>16
+  Part2          : F5@1>4 F5@5>1 E5@6>1 D5@7>1 C5@8>1 D5@9>1 C5@10>1 A4@11>1 G4@12>1 A4@13>1 G4@14>1 F4@15>1 E4@16>1
+  Part3          : F5@1>8 F5@9>1 E5@10>1 D5@11>1 C5@12>1 D5@13>1 C5@14>1 A4@15>1 G4@16>1
+  Lead Guitar    : F5@1>1 E5@2>1 D5@3>1 C5@4>1 D5@5>1 C5@6>1 A4@7>1 G4@8>1 A4@9>1 G4@10>1 F4@11>1 E4@12>1 F4@13>1 E4@14>1 D4@15>1 C4@16>1
+  String Synth   : C4+E4+A4@1>16
+  Bass           : D2@1>4 D2@7>6 D2@15>1 E2@16>1
+@83 [G | Em7] (grid:16)
+  Electric Piano : B3+D4+G4@1>16
+  Part2          : F4@1>1 E4@2>1 D4@3>1 C4@4>1 D4@5>2 E4@7>10
+  Part3          : A4@1>1 G4@2>1 F4@3>1 E4@4>1 F4@5>1 E4@6>1 D4@7>1 C4@8>1 D4@9>2 E4@11>6
+  Lead Guitar    : D4@1>2 E4@3>14
+  String Synth   : B3+D4+G4@1>16
+  Bass           : A1@1>4 A1@7>6 A1@15>2
+@84 [G] (grid:12t)
+  Electric Piano : B3+D4+G4@1>12
+  Part2          : E4@1>6
+  Part3          : E4@1>9
+  Lead Guitar    : B4@11>2
+  String Synth   : B3+D4+G4@1>12
+  Bass           : A1@1>4 A2@5>4 C2@10>2 D2@11>2
+@85 [Dm]
+  Electric Piano : D4+F4+A4@1>8
+  Part2          : B4@2>1 G5@3>6
+  Part3          : B4@4>1 G5@5>4
+  Lead Guitar    : G5@1>8
+  String Synth   : D4+F4+A4@1>8
+  Bass           : E2@1>1 E3@2>2 B2@4>3 E2@7>2
+@86 [Dm] (grid:16)
+  Electric Piano : D4+F4+A4@1>16
+  Part2          : G5@1>4 G5@5>1 F#5@6>1 E5@7>1 D5@8>1 E5@9>1 D5@10>1 B4@11>1 A4@12>1 B4@13>1 A4@14>1 G4@15>1 F#4@16>1
+  Part3          : G5@1>8 G5@9>1 F#5@10>1 E5@11>1 D5@12>1 E5@13>1 D5@14>1 B4@15>1 A4@16>1
+  Lead Guitar    : G5@1>1 F#5@2>1 E5@3>1 D5@4>1 E5@5>1 D5@6>1 B4@7>1 A4@8>1 B4@9>1 A4@10>1 G4@11>1 F#4@12>1 G4@13>1 F#4@14>1 E4@15>1 D4@16>1
+  String Synth   : D4+F4+A4@1>16
+  Bass           : E2@1>6 E3@7>10
+@87 [Am] (grid:16)
+  Electric Piano : C4+E4+A4@1>16
+  Part2          : G4@1>1 F#4@2>1 E4@3>1 D4@4>1 D5@5>8
+  Part3          : B4@1>1 A4@2>1 G4@3>1 F#4@4>1 G4@5>1 F#4@6>1 E4@7>1 D4@8>1 D5@9>8
+  Lead Guitar    : D5@1>11 E5@14>1 D5@16>1
+  String Synth   : C4+E4+A4@1>16
+  Bass           : Bb1@1>6 Bb2@7>10
+@88 [Am] (grid:12t)
+  Electric Piano : C4+E4+A4@1>12
+  Part2          : B4+C5@4>4 B4@9>4
+  Part3          : B4+C5@7>4 B4@11>2
+  Lead Guitar    : B4+C5@1>4 B4@5>4 A4@10>2 G4@11>2
+  String Synth   : C4+E4+A4@1>12
+  Bass           : A1@1>4 A2@5>8
+@89 [Em]
+  Electric Piano : E4+G4+B4@1>8
+  Part2          : A4@1>1 G4@2>1 A4@3>1 B4@4>5
+  Part3          : B4@1>2 A4@3>1 G4@4>1 A4@5>1 B4@6>3
+  Lead Guitar    : A4@1>1 B4@2>5
+  String Synth   : E4+G4+B4@1>8
+  Bass           : G1@1>6 G1@8>1
+@90 [Em] (grid:16)
+  Electric Piano : E4+G4+B4@1>16
+  Part2          : G4@5>1 G4@6>1 G4@7>1 G4@8>1 G4@9>1 G4@10>1 G4@11>1 G4@12>1 E5@13>1 D5@14>1 E5@15>1 D5@16>1
+  Part3          : B4@1>4 G4@9>1 G4@10>1 G4@11>1 G4@12>1 G4@13>1 G4@14>1 G4@15>1 G4@16>1
+  Lead Guitar    : G4@1>1 G4@2>1 G4@3>1 G4@4>1 G4@5>1 G4@6>1 G4@7>1 G4@8>1 E5@9>1 D5@10>1 E5@11>1 D5@12>1 E5@13>1 D5@14>1 C5@15>1 B4@16>1
+  Part5          : G2@1>1 G2@2>1 G2@3>1 G2@4>1 G2@5>1 G2@6>1 G2@7>1 G2@8>1 E3@9>1 D3@10>1 E3@11>1 D3@12>1 E3@13>1 D3@14>1 C3@15>1 B2@16>1
+  String Synth   : E4+G4+B4@1>16
+  Bass           : G1@1>5 G1@7>3 G1@11>2 A1@13>2 B1@15>2
+@91 [A#]
+  Electric Piano : D4+F4+Bb4@1>8
+  Part2          : C5@1>8
+  Part3          : C5@1>8
+  Lead Guitar    : C5@1>8
+  String Synth   : D4+F4+Bb4@1>8
+  Bass           : C2@1>1 C2@2>2 C2@4>2 C2@7>2
+@92 [Am7] (grid:12t)
+  Electric Piano : C4+E4+A4@1>12
+  Lead Guitar    : G5@1>12
+  String Synth   : C4+E4+A4@1>12
+  Bass           : B1@1>4 A1@5>4 G1@10>3
+@93 [G7]
+  Electric Piano : B3+D4+G4@1>8
+  Lead Guitar    : A5@4>5
+  String Synth   : B3+D4+G4@1>8
+  Bass           : F1@1>1 F1@2>1 F1@3>1 F1@4>5
+@94 [G] (grid:16)
+  Electric Piano : B3+D4+G4@1>16
+  Lead Guitar    : A5@1>2 G5@3>2 F5@5>2 E5@7>2 D5@9>2 C5@11>2 B4@13>1 C5@14>1 D5@16>1
+  String Synth   : B3+D4+G4@1>16
+  Bass           : F2@1>2 C3@3>2 F3@5>2 G3@7>4 F3@11>6
+@95 [C]
+  Electric Piano : C4+E4+G4@1>2 D4+F4+G4@4>2 C4+E4+G4@7>2
+  Lead Guitar    : C5@1>8
+  String Synth   : C4+E4+G4@1>2 D4+F4+G4@4>2 C4+E4+G4@7>2
+  Bass           : C2@1>1 C2@2>2 C2@4>2 C2@7>2
+@96 [G] (grid:12t)
+  Electric Piano : B3+D4+G4@1>4 C4+E4+G4@5>4 B3+D4+G4@10>3
+  String Synth   : B3+D4+G4@1>4 C4+E4+G4@5>4 B3+D4+G4@10>3
+  Bass           : B1@1>4 C2@5>4 G1@10>3
+@97 [F] (grid:24t)
+  Electric Piano : A3+C4+F4@1>24 C5+G5@13>12
+  Lead Guitar    : A5@10>10 G5@22>2 F5@23>2
+  String Synth   : A3+C4+F4@1>24 C5+G5@13>12
+  Bass           : F1@1>3 F1@4>3 F1@7>3 F1@10>15
+@98 [F | Bdim] (grid:24t)
+  Lead Guitar    : C6@1>3 B5@4>3 A5@7>2 G5@9>2 F5@11>2 E5@13>2 D5@15>2 C5@17>2 B4@19>2 C5@21>2 D5@23>2
+  Bass           : F2@1>3 C3@4>3 F3@7>3 G3@10>6 F3@16>9
+@99 [F]
+  Electric Piano : A3+C4+F4+C5+G5@1>8
+  Lead Guitar    : C5@1>8
+  String Synth   : A3+C4+F4+C5+G5@1>8
+  Bass           : C2@1>1 C2@2>2 D2@4>2 C2@7>2
+  Part9          : E5+G5@1>3 D5+F5@4>3 C5+E5@7>2
+@100 [C7] (grid:12t)
+  Electric Piano : C4+E4+G4@1>4 D4+F4+G4@5>4 C4+E4+G4@10>3
+  String Synth   : C4+E4+G4@1>4 D4+F4+G4@5>4 C4+E4+G4@10>3
+  Bass           : B1@1>4 A1@5>4 G1@10>3
+  Part9          : B4+D5@1>4 C5+E5@5>4 B4+D5@10>3
+@101 [G7 | C7]
+  Electric Piano : B3+D4+G4@1>2 C4+E4+G4@4>2 B3+D4+G4@7>2
+  String Synth   : B3+D4+G4@1>2 C4+E4+G4@4>2 B3+D4+G4@7>2
+  Bass           : Bb1@1>1 Bb1@2>1 Bb1@3>1 C2@4>3 Bb1@7>2
+  Part9          : Bb4+D5+F5@1>2 C5+E5+F5@4>2 Bb4+D5+F5@7>2
+@102 [F] (grid:4)
+  Electric Piano : A3+C4+F4@1>4 C5+G5+C6@3>2
+  String Synth   : A3+C4+F4@1>4 C5+G5+C6@3>2
+  Bass           : A2@1>4
+  Part9          : A4+C5+F5@1>4
+@103 [C] (grid:4)
+  Bass           : G1@1>4
+  Part9          : G4+C5+E5@1>4
+@104 [F] (grid:4)
+  Electric Piano : A3+C4+F4+C5+G5+C6@1>4
+  String Synth   : A3+C4+F4+C5+G5+C6@1>4
+  Bass           : G1@1>1
+  Part9          : G4+B4+D5@1>1
+@105 [C]
+  Electric Piano : C5+E5+G5@1>2 D5+F5+G5@4>2 C5+E5+G5@7>2
+  String Synth   : C5+E5+G5@1>2 D5+F5+G5@4>2 C5+E5+G5@7>2
+  Bass           : F3@1>1 C3@2>1 F3@3>1 G3@4>2 F3@6>3
+  Part9          : A4@2>1 G4@3>1 C5@4>1 A4@5>1 G4@6>1 C4@7>1 G4@8>1
+@106 [G | C7]
+  Electric Piano : B4+D5+G5@1>2 C5+E5+G5@4>2 B4+D5+G5@7>2
+  Electric Guitar: G4@6>1 E5@7>1 Eb5@8>1
+  String Synth   : B4+D5+G5@1>2 C5+E5+G5@4>2 B4+D5+G5@7>2
+  Bass           : F2@1>1 C3@2>1 F3@3>1 G3@4>2 F3@6>3
+  Part9          : G4@1>1 C5@2>1 A4@3>1 G4@4>1 C4@5>1 A4@6>1 G4@7>1 C5@8>1
+@107 [F]
+  Electric Piano : Bb4+D5+F5@1>2 C5+E5+F5@4>2 Bb4+D5+F5@7>2
+  Electric Guitar: C5@1>8
+  String Synth   : Bb4+D5+F5@1>2 C5+E5+F5@4>2 Bb4+D5+F5@7>2
+  Bass           : F1@1>1 C2@2>1 F2@3>1 G2@4>2 F2@6>3
+  Part9          : A4@1>1 G4@2>1 C4@3>1 A4@4>1 G4@5>1 C5@6>1 A4@7>1 G4@8>1
+@108 [F] (grid:24t)
+  Electric Piano : A4+C5+F5@1>24
+  Lead Guitar    : E5@1>2 C5@3>2 Bb4@5>2 G4@7>2 F#4@9>2 F4@11>2 E4@13>2 C4@15>2 Bb3@17>2 G3@19>2 F#3@21>2 F3@23>2
+  String Synth   : A4+C5+F5@1>24
+  Bass           : F1@1>3 C2@4>3 F2@7>3 G2@10>6 F2@16>9
+  Part9          : C4@1>24
+@109 [C] (grid:6t)
+  Electric Piano : G4+C5+E5@1>6
+  Lead Guitar    : E3@1>6
+  String Synth   : G4+C5+E5@1>6
+  Bass           : C2@1>6 E3@3>4
+@110 [G] (grid:24t)
+  Electric Piano : G4+B4+D5@1>21
+  Lead Guitar    : A3@9>2 F3@10>3 A3@13>3 C4@16>3 Eb4@19>4 D4@23>2
+  String Synth   : G4+B4+D5@1>21
+  Bass           : C2@1>24 F3@10>4 E3@16>9
+@111 [F7] (grid:6t)
+  Electric Piano : C4+F4+A4@1>6
+  Lead Guitar    : C4@1>3
+  String Synth   : C4+F4+A4@1>6
+  Bass           : C2@1>6 E3@3>4
+@112 [F] (grid:4)
+  Electric Piano : C4+F4+A4+C5+G5+C6@1>4
+  String Synth   : C4+F4+A4+C5+G5+C6@1>4
+  Bass           : C2@1>4
+@113 [F] (grid:4)
+  Electric Piano : C4+F4+A4+G5+C6@1>4
+  String Synth   : C4+F4+A4+G5+C6@1>4
+@114 [F] (grid:4)
+  Electric Piano : C4+F4+A4@1>4
+  String Synth   : C4+F4+A4@1>4
+@115 [C] (grid:4)
+  Electric Piano : E3+G3+C4+D4@1>4
+  String Synth   : E3+G3+C4+D4@1>4
+@116 [C] (grid:4)
+  Electric Piano : E3+G3+C4+D4@1>4
+  String Synth   : E3+G3+C4+D4@1>4
+@117 [C] (grid:4)
+  Electric Piano : E3+G3+C4+D4@1>4
+  String Synth   : E3+G3+C4+D4@1>4
+@118 [C] (grid:4)
+  Electric Piano : E3+G3+C4+D4@1>4
+  String Synth   : E3+G3+C4+D4@1>4

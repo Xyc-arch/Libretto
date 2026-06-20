@@ -1,0 +1,92 @@
+###############################################################################
+# form.txt — sectional / structural concepts
+# Grep an entry by id:  grep -A18 "CONCEPT: F-OUTRO" form.txt
+###############################################################################
+
+================================================================================
+CONCEPT: Verbatim sectional reprise
+ID: F-REPRISE
+FILE: form.txt
+STATUS: core-idiom
+ATTEST: 157/314 songs
+GENRE: pop, rock, soul, disco, folk
+THEORY: strophic / verse-chorus form, literal repetition, sectional return
+ROLE: form, structure, familiarity
+FEATURE: identical-multi-bar-block-recurs
+--------------------------------------------------------------------------------
+WHAT: A 4+ bar block of note events reappears NOTE-FOR-NOTE later in the song — the
+  literal verse/chorus copy. The corpus is built on repetition: the same material returns
+  to mark structure and reward recognition.
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') — bars 2-5 reappear verbatim at bars 10-13
+EXAMPLE: song_0010 (Billy Joel — Piano Man) — bars 54-57 reappear verbatim at bars 111-114
+EXAMPLE: song_0006 (Eagles — Hotel California) — bars 213-216 reappear verbatim at bars 229-232
+COMPOSE: Write a section once, then place it again unchanged at the next structural slot
+  (verse 2 = verse 1, chorus returns identically). Use literal reprise for choruses/refrains;
+  introduce small variation only in the lead voice if you want development without losing
+  recognizability. Pair with a contrasting section between reprises (verse/chorus alternation).
+
+================================================================================
+CONCEPT: Single-voice / sparse intro
+ID: F-INTRO
+FILE: form.txt
+STATUS: occasional-color
+ATTEST: 59/314 songs
+GENRE: rock, pop, ballad, prog
+THEORY: textural introduction, additive entry, anacrusis-of-arrangement
+ROLE: opening, set-the-scene, build-into-band
+FEATURE: one-voice-before-the-texture
+--------------------------------------------------------------------------------
+WHAT: The song opens with ONE voice alone (a solo piano, a bass riff, a vocal) for the
+  first bars before the rest of the texture enters — a sparse, attention-setting intro
+  that makes the full-band entry feel like an arrival.
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) — opens with Piano alone
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') — opens with one voice (Part4) [the bass]
+EXAMPLE: song_0022 (Queen — Bohemian Rhapsody) — opens with Choir alone
+COMPOSE: Start with a single voice stating the key idea (a riff, a chord figure, or the
+  vocal hook) for 2–8 bars, then bring in the band at a downbeat. Choose the lone voice for
+  its identity (piano for a ballad, bass riff for a groove, voice for intimacy).
+
+================================================================================
+CONCEPT: Thinning / fade outro
+ID: F-OUTRO
+FILE: form.txt
+STATUS: occasional-color
+ATTEST: 93/314 songs
+GENRE: pop, rock, soul, disco
+THEORY: outro / coda by subtraction, fade-out ending (vs a hard cadence)
+ROLE: ending, wind-down, dissolve
+FEATURE: final-bars-thin-out
+--------------------------------------------------------------------------------
+WHAT: Rather than a decisive cadence, the final bars drop to a fraction of the song's
+  density — voices drop out, texture thins, the groove dissolves (the recorded "fade-out"
+  written into the score). Very common in this corpus's endings.
+EXAMPLE: song_0010 (Billy Joel — Piano Man) — final bars 243-246 thin to <=50% of median density
+EXAMPLE: song_0006 (Eagles — Hotel California) — final bars 245-247 thin out
+EXAMPLE: song_0009 (Led Zeppelin — Stairway To Heaven) — final bars 236-238 thin out
+COMPOSE: To end, repeat the chorus/vamp and progressively REMOVE voices (drop the lead,
+  then chords, leaving bass+groove, then bass alone), shortening/sparsening each bar — a
+  written fade. Alternatively pick a real cadence (H-FOURTHS into the tonic) if you want a
+  hard ending instead; the corpus leans toward the fade.
+
+================================================================================
+CONCEPT: Multi-sectional form (contrast)
+ID: F-SECTIONS
+FILE: form.txt
+STATUS: core-idiom
+ATTEST: 293/314 songs  (corpus-wide)
+GENRE: all
+THEORY: sectional form, verse/chorus/bridge, structural contrast
+ROLE: large-scale structure, form, arc
+FEATURE: multiple-contrasting-sections
+--------------------------------------------------------------------------------
+WHAT: The song is built from ≥2 distinguishable sections (verse / chorus / bridge / intro /
+  outro), marked by contrast in material at section boundaries. Near-universal (93%) — even
+  loop-based electronic music builds sections by adding and removing layers.
+EXAMPLE: song_0061 (The Police — Can't Stand Losing You) — 16 sections; a boundary near bar 26
+EXAMPLE: song_0189 (Jean Michel Jarre — Souvenir of China) — 14 sections; boundary near bar 100
+EXAMPLE: song_0253 (James Taylor — Carolina in My Mind) — 2 sections; boundary near bar 9
+COMPOSE: Structure the piece as named sections with contrast between them: a verse and a
+  contrasting chorus (different harmony / register / density), optionally an intro (F-INTRO)
+  and outro (F-OUTRO). Put a boundary where you change material; reuse whole sections
+  (F-REPRISE) so the form is recognizable. Targets novelty_rate / section_per100bars — a
+  single undifferentiated vamp scores too low; constant change with no repeats scores too high.

@@ -1,0 +1,245 @@
+# kb_theory: melody
+CONCEPT: Motif
+ID: TM-MOTIF
+CATEGORY: melody
+LEVEL: beginner
+WHAT: A motif is a short, memorable musical idea — usually 3 to 5 notes — that acts as
+the seed of a melody. It has a distinct pitch shape and rhythm and can be repeated,
+moved, or varied. Most tunes you can hum are built from one tiny motif.
+CHALLENGE: Play a 4-note idea cleanly and remember its shape so you can recognize it later.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: G4@1>2 E4@3>2 C4@5>4 E4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Phrase
+ID: TM-PHRASE
+CATEGORY: melody
+LEVEL: beginner
+WHAT: A phrase is a complete musical sentence, typically two bars long, with a sense of
+beginning and arrival — like a spoken line that ends in a small breath. It usually moves
+toward a resting note (often the tonic) at its close.
+CHALLENGE: Shape two bars as one breath: keep the line flowing until it lands on the final note.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 G4@13>4
+@2 [G]
+  Piano: F4@1>4 E4@5>4 D4@9>4 C4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Sequence
+ID: TM-SEQUENCE
+CATEGORY: melody
+LEVEL: beginner
+WHAT: A sequence restates a motif at a higher or lower pitch level, keeping its shape and
+rhythm intact. Repeating the same contour a step or a third higher gives a melody forward
+momentum and a sense of climbing.
+CHALLENGE: Replay the same finger pattern starting one scale step higher without changing the rhythm.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 104 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>2 D4@5>2 C4@7>8
+@2 [Dm]
+  Piano: D4@1>2 F4@3>2 E4@5>2 D4@7>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Stepwise Motion
+ID: TM-STEPWISE
+CATEGORY: melody
+LEVEL: beginner
+WHAT: Stepwise (conjunct) motion moves between adjacent scale degrees — one step up or
+down at a time, no skips. It is the smoothest, most singable way to move and forms the
+backbone of most melodies.
+CHALLENGE: Play an even scale run, each note exactly one step from the last, with steady timing.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 F4@13>4
+@2 [G]
+  Piano: G4@1>4 A4@5>4 B4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Leap
+ID: TM-LEAP
+CATEGORY: melody
+LEVEL: beginner
+WHAT: A leap (disjunct motion) is an interval larger than a step — a skip of a third or
+more. Leaps add energy and drama, but a melody usually "recovers" afterward by moving by
+step in the opposite direction to stay balanced.
+CHALLENGE: Jump a wide interval cleanly, then step back the other way to recover.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 C5@5>4 B4@9>4 A4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Contour
+ID: TM-CONTOUR
+CATEGORY: melody
+LEVEL: beginner
+WHAT: Contour is the overall shape of a melody — the path its pitches trace over time.
+An arch contour rises to a high point and then falls back, the most common and natural
+melodic shape, like a gentle hill.
+CHALLENGE: Trace a clear up-then-down arch, peaking in the middle and returning home.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 C5@13>4
+@2 [G]
+  Piano: G4@1>4 E4@5>4 D4@9>4 C4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Climax
+ID: TM-CLIMAX
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: The climax is the melodic high point — usually a single highest note the line builds
+toward. Most melodies have one climax, placed late, that releases tension as the line then
+descends. It gives a phrase a clear focal moment.
+CHALLENGE: Build a rising line so the highest note lands as the obvious peak, then ease off.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 A4@13>4
+@2 [G]
+  Piano: B4@1>4 D5@5>4 C5@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Repetition
+ID: TM-REPETITION
+CATEGORY: melody
+LEVEL: beginner
+WHAT: Repetition restates an idea exactly the same way, at the same pitch. It is the
+simplest unifying device — hearing a motif again makes it memorable and gives the listener
+something to hold onto.
+CHALLENGE: Play the same short idea twice identically, matching pitch, rhythm, and touch.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: E4@1>2 G4@3>2 C5@5>4 G4@9>4
+@2 [C]
+  Piano: E4@1>2 G4@3>2 C5@5>4 G4@9>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Variation
+ID: TM-VARIATION
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: Variation restates an idea but changes it slightly — altering a few pitches, the
+rhythm, or adding a passing note — while keeping it recognizable. It keeps music fresh
+without losing the original identity.
+CHALLENGE: Replay a familiar idea with one or two notes changed, keeping it recognizable.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: E4@1>2 G4@3>2 C5@5>4 G4@9>4
+@2 [C]
+  Piano: E4@1>2 G4@3>2 D5@5>4 B4@9>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Call and Response
+ID: TM-CALL-RESPONSE
+CATEGORY: melody
+LEVEL: beginner
+WHAT: Call and response is a two-part dialogue: the first phrase "asks" an open question
+ending unresolved (often up in the air), and the second "answers" by resolving down to a
+stable note. The two bars feel like question and reply.
+CHALLENGE: Play an open-ended question in bar 1, then answer it with a settled reply in bar 2.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [G]
+  Piano: C4@1>4 E4@5>4 G4@9>4 D4@13>4
+@2 [C]
+  Piano: B3@1>4 D4@5>4 E4@9>4 C4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Passing Tone
+ID: TM-PASSING-TONE
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: A passing tone is a non-chord note that fills the gap between two chord tones a third
+apart, reached and left by step in the same direction. It is a brief, unstressed dissonance
+that smooths the line (e.g. C–D–E where D passes between C and E).
+CHALLENGE: Insert a stepwise note between two chord tones and pass through it without leaning on it.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F4@7>2 G4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Neighbor Tone
+ID: TM-NEIGHBOR-TONE
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: A neighbor tone steps away from a chord tone and then returns to it — up a step and
+back (upper neighbor) or down a step and back (lower neighbor). It decorates a held pitch
+without changing where the line is going (e.g. E–F–E).
+CHALLENGE: Step away from a note by one step and return to the same note, decorating it.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: E4@1>2 F4@3>2 E4@5>2 D4@7>2 E4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Appoggiatura
+ID: TM-APPOGGIATURA
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: An appoggiatura is an accented non-chord tone that falls on the beat — taking the
+stress away from the chord — and then resolves down by step to a chord tone. The dissonance
+lands first and "leans" before releasing (e.g. F on the beat over a C chord, resolving to E).
+CHALLENGE: Land a non-chord note on the strong beat, then resolve it down by step to a chord tone.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 84 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: F4@1>4 E4@5>4 G4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Suspension
+ID: TM-SUSPENSION
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: A suspension holds a note from one chord into the next, where it becomes a dissonance,
+then resolves down by step to a chord tone. The three stages are preparation (consonant),
+suspension (held, now dissonant), and resolution (steps down). Here C is held from a C chord
+into a G chord and resolves down to B.
+CHALLENGE: Hold a note across a chord change so it clashes, then resolve it down by step.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 84 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>16
+@2 [G]
+  Piano: C4@1>8 B3@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Resolution
+ID: TM-RESOLUTION
+CATEGORY: melody
+LEVEL: beginner
+WHAT: Resolution is the move from a tense, unstable note to a stable chord tone, releasing
+the tension. The classic case is the leading tone (B in C major) pulling up a half step to
+the tonic (C), giving a sense of arrival and rest.
+CHALLENGE: Move a tension note (the leading tone) up by half step to the tonic and feel it settle.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: D4@1>4 B3@5>4 B3@9>4 C4@13>4
+GRAMMAR-END
+================================================================================

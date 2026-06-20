@@ -1,0 +1,583 @@
+KEY: A minor | METER: 4/4 | TEMPO: 134 | GRID: 8th (adaptive) | BARS: 108
+VOICES: Electric Bass, Electric Organ, Part3, Part4, Part5, Electric Organ#2, Part7, Electric Piano, Electric Piano#2
+@1 [-]
+@2 [Am]
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
+  Part4           : A3@1>1 B3@3>1 C4@5>1 B3@7>2
+  Part7           : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@3 [Em7 | Am7]
+  Part3           : G4@1>3 A4@4>4
+  Part4           : G3@1>3 A3@4>4
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@4 [Am]
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@5 [Em7]
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@6 [Am]
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
+  Part4           : A3@1>1 B3@3>1 C4@5>1 B3@7>2
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@7 [Em7 | Am7]
+  Part3           : G4@1>3 A4@4>4
+  Part4           : G3@1>3 A3@4>4
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@8 [Am]
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@9 [Em7]
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@10 [Am] (grid:16)
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A4@1>2 B4@5>2 C5@9>2 B4@13>2
+  Part4           : A3@1>2 B3@5>2 C4@9>2 B3@13>4
+  Electric Organ#2: E4+A4+E5@1>2 E4+A4+E5@5>2
+  Part7           : A4@1>2 A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
+  Electric Piano  : A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
+  Electric Piano#2: A3+C4@1>1 A3+C4@5>1 A3+C4@11>1 E3@13>1 A3+C4@14>1 G3+B3@15>1
+@11 [G | Am] (grid:16)
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : G4@1>6 A4@7>9
+  Part4           : G3@1>6 A3@7>9
+  Part7           : D5@1>2 G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
+  Electric Piano  : G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
+  Electric Piano#2: G3+B3@3>1 G3+B3@7>1 G3+B3@11>1 G3+B3@14>1 E3@15>1
+@12 [Am | D7] (grid:16)
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Electric Organ#2: E4+A4+E5@1>2 E4+A4+E5@5>2
+  Part7           : A4@1>2 A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
+  Electric Piano  : A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
+  Electric Piano#2: A3+C4@1>1 A3+C4@5>1 A3+C4@11>1 E3@13>1 A3+C4@14>1 G3+B3@15>1
+@13 [G | Em] (grid:16)
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part7           : D5@1>2 G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
+  Electric Piano  : G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
+  Electric Piano#2: G3+B3@3>1 G3+B3@7>1 G3+B3@11>1 G3+B3@14>1 E3@15>1
+@14 [Am] (grid:16)
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A4@1>2 B4@5>2 C5@9>2 B4@13>2
+  Part4           : A3@1>2 B3@5>2 C4@9>2 B3@13>4
+  Electric Organ#2: E4+A4+E5@1>2 E4+A4+E5@5>2
+  Part7           : A4@1>2 A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
+  Electric Piano  : A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
+  Electric Piano#2: A3+C4@1>1 A3+C4@5>1 A3+C4@11>1 E3@13>1 A3+C4@14>1 G3+B3@15>1
+@15 [G | Am7] (grid:16)
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : G4@1>6 A4@7>6 C5@13>2 A4@15>2
+  Part4           : G3@1>6 A3@7>6 C4@13>2 A3@15>2
+  Part7           : D5@1>2 G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
+  Electric Piano  : G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
+  Electric Piano#2: G3+B3@3>1 G3+B3@7>1 G3+B3@11>1 G3+B3@14>1 E3@15>1
+@16 [Am] (grid:16)
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A4@1>4 C5@5>2 A4@7>6 C5@13>2 A4@15>2
+  Part4           : A3@1>4 C4@5>2 A3@7>6 C4@13>2 A3@15>2
+  Electric Organ#2: E4+A4+E5@1>2 E4+A4+E5@5>2
+  Part7           : A4@1>2 B3@15>2
+  Electric Piano  : A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
+  Electric Piano#2: A3+C4@1>1 A3+C4@5>1 A3+C4@11>1 E3@13>1 A3+C4@14>1 G3+B3@15>1
+@17 [Am | Baug]
+  Electric Bass   : D2@2>1 D2@3>1 C2@4>1 C2@5>1 B1@6>1 B1@7>1 G1@8>1
+  Part3           : A4@1>2 C5@3>1 A4@4>3
+  Part4           : A3@1>2 C4@3>1 A3@4>3
+  Part5           : C#6@8>1
+  Part7           : B3@1>7
+@18 [A | C#dim] (grid:24t)
+  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
+  Part5           : E6@1>21 C#6@23>2
+@19 [E | C#m] (grid:24t)
+  Electric Bass   : E1@1>2 E1@4>2 E1@7>2 E1@10>2 E1@13>2 E1@16>2 E1@19>3 E1@22>2
+  Part5           : E6@1>21 C#6@23>2
+@20 [A | C#dim] (grid:24t)
+  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
+  Part5           : E6@1>21 C#6@23>2
+@21 [E | C#m] (grid:24t)
+  Electric Bass   : E1@1>2 E1@4>2 E1@7>2 E1@10>2 E1@13>2 E1@16>2 E1@19>3 E1@22>2
+  Part5           : E6@1>21 C#6@23>2
+@22 [A | C#dim] (grid:24t)
+  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
+  Part5           : E6@1>21 C#6@23>2
+  Electric Organ#2: A4+E5+A5@1>6
+@23 [E | C#m] (grid:24t)
+  Electric Bass   : E1@1>2 E1@4>2 E1@7>2 E1@10>2 E1@13>2 E1@16>2 E1@19>3 E1@22>2
+  Part5           : E6@1>21 C#6@23>2
+@24 [A] (grid:24t)
+  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
+  Part5           : E6@1>21 C#6@23>2
+  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
+@25 [E | Eaug] (grid:24t)
+  Electric Bass   : E1@1>2 E1@4>2 E1@7>2 E1@10>2 E1@13>2 E1@16>2 E1@19>3 E1@22>2
+  Part3           : C4@22>3
+  Part5           : E6@1>21 C#6@23>2
+@26 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>2 A3@12>2 A3@15>1
+  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+@27 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>2 A3@4>2 G3@7>1 E3@9>3 C4@15>2
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+@28 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>1 A3@11>1 A3@13>1 A3@15>1
+  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+@29 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>3 C4@15>2
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+@30 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>2 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
+  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+@31 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>1 C4@11>1 C4@13>1 C4@15>1
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+@32 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>2 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
+  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+@33 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>2 C4@15>1
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+@34 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
+  Electric Organ#2: E4+A4+E5@1>2 C5+E5+A5@3>1 C5+E5+A5@4>1 E4+A4+E5@5>2 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+@35 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>1 G3@7>1 E3@9>3 C4@15>1
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+@36 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>2 A3@13>2
+  Electric Organ#2: E4+A4+E5@1>2 C5+E5+A5@3>1 C5+E5+A5@4>1 E4+A4+E5@5>2 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+@37 [A7 | E] (grid:24t)
+  Electric Bass   : E1@1>3 E1@7>3 E1@13>3
+  Part3           : A3@1>3 A3@5>3 G3@10>3 E3@13>6
+@38 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
+  Part7           : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@39 [Em7]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
+  Part3           : G4@1>3 A4@4>4
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@40 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 E1@6>1 G1@7>1 E1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>2
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@41 [Em7]
+  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
+  Part3           : G4@1>7
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@42 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@43 [Em7]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
+  Part3           : G4@1>3 A4@4>4
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@44 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 E1@6>1 G1@7>1 E1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>2
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@45 [Em7]
+  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
+  Part3           : G4@1>7
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@46 [A | Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
+  Part3           : D4@8>1
+  Part5           : E6@1>7
+  Electric Organ#2: A4+E5+A5@1>2
+  Part7           : A4@1>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+@47 [C | Em]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
+  Part3           : D4@1>1 D4@2>1 C4@4>2 B3@6>2
+  Part5           : C#6+E6@1>7
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+@48 [A | Am] (grid:24t)
+  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
+  Part3           : C4@22>3
+  Part5           : C#6+E6@1>21 C#6@23>2
+  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
+  Electric Piano  : A4@4>3 E5@7>3 A4@10>3 D5@13>3 A4@16>3 C5@19>3 D5@22>3
+@49 [C7 | Am]
+  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
+  Part3           : C4@1>1 C4@2>1 B3@4>2 A3@6>2
+  Part5           : E6@1>7
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+@50 [A | Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
+  Part3           : D4@8>1
+  Part5           : C#6+E6@1>7
+  Electric Organ#2: A4+E5+A5@1>2
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+@51 [C | Em]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
+  Part3           : D4@1>1 D4@2>1 C4@4>2 B3@6>2
+  Part5           : C#6+E6@1>7
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+@52 [A | Am] (grid:24t)
+  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
+  Part3           : C4@22>3
+  Part5           : C#6+E6@1>21 C#6@23>2
+  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
+  Electric Piano  : A4@4>3 E5@7>3 A4@10>3 D5@13>3 A4@16>3 C5@19>3 D5@22>3
+@53 [C7 | Am]
+  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
+  Part3           : C4@1>1 C4@2>1 B3@4>2 A3@6>2 C4@8>1
+  Part5           : E6@1>7
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+@54 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>2 A3@12>2 A3@15>1
+  Part5           : C#6@1>1
+  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+  Part7           : A4@1>16
+@55 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>2 A3@4>2 G3@7>1 E3@9>3 C4@15>2
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+  Part7           : B4@1>16
+@56 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>1 A3@11>1 A3@13>1 A3@15>1
+  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+  Part7           : C5@1>16
+@57 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>3 C4@15>2
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+  Part7           : B4@1>8 G4@9>8
+@58 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>2 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
+  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+  Part7           : A4@1>16
+@59 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>1 C4@11>1 C4@13>1 C4@15>1
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+  Part7           : B4@1>16
+@60 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>2 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
+  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+  Part7           : C5@1>16
+@61 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>2 C4@15>1
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+  Part7           : B4@1>8 G4@9>8
+@62 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
+  Electric Organ#2: E4+A4+E5@1>2 C5+E5+A5@3>1 C5+E5+A5@4>1 E4+A4+E5@5>2 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+  Part7           : A4@1>16
+@63 [Em] (grid:16)
+  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
+  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>1 G3@7>1 E3@9>3 C4@15>1
+  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
+  Part7           : B4@1>16
+@64 [Am] (grid:16)
+  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
+  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
+  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>2 A3@13>2
+  Electric Organ#2: E4+A4+E5@1>2 C5+E5+A5@3>1 C5+E5+A5@4>1 E4+A4+E5@5>2 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
+  Part7           : C5@1>16
+@65 [D] (grid:24t)
+  Electric Bass   : E1@1>3 E1@7>3 E1@13>3
+  Part3           : A3@1>3 A3@5>3 G3@10>3 E3@13>6
+  Part7           : D5@1>24
+@66 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
+  Part7           : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@67 [Em7]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
+  Part3           : G4@1>3 A4@4>4
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@68 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 E1@6>1 G1@7>1 E1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>2
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@69 [Em7]
+  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
+  Part3           : G4@1>7
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@70 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@71 [Em7]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
+  Part3           : G4@1>3 A4@4>4
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@72 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 E1@6>1 G1@7>1 E1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>2
+  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
+@73 [Em7]
+  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
+  Part3           : G4@1>7
+  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+  Electric Piano#2: E3+G3+B3@1>8
+@74 [A | Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
+  Part3           : D4@8>1
+  Part5           : E6@1>7
+  Electric Organ#2: A4+E5+A5@1>2
+  Part7           : A4@1>1
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+@75 [C | Em]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
+  Part3           : D4@1>1 D4@2>1 C4@4>2 B3@6>2
+  Part5           : C#6+E6@1>7
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+@76 [A | Am] (grid:24t)
+  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
+  Part3           : C4@22>3
+  Part5           : C#6+E6@1>21 C#6@23>2
+  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
+  Electric Piano  : A4@4>3 E5@7>3 A4@10>3 D5@13>3 A4@16>3 C5@19>3 D5@22>3
+@77 [C7 | Am]
+  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
+  Part3           : C4@1>1 C4@2>1 B3@4>2 A3@6>2
+  Part5           : E6@1>7
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+@78 [A | Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
+  Part3           : D4@8>1
+  Part5           : C#6+E6@1>7
+  Electric Organ#2: A4+E5+A5@1>2
+  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
+@79 [C | Em]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
+  Part3           : D4@1>1 D4@2>1 C4@4>2 B3@6>2
+  Part5           : C#6+E6@1>7
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+@80 [A | Am] (grid:24t)
+  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
+  Part3           : C4@22>3
+  Part5           : C#6+E6@1>21 C#6@23>2
+  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
+  Electric Piano  : A4@4>3 E5@7>3 A4@10>3 D5@13>3 A4@16>3 C5@19>3 D5@22>3
+@81 [C7 | Am]
+  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
+  Part3           : C4@1>1 C4@2>1 B3@4>2 A3@6>2
+  Part5           : E6@1>7
+  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
+@82 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 A1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
+  Part4           : A3@1>1 B3@3>1 C4@5>1 B3@7>2
+  Part5           : C#6@1>1
+  Part7           : C5@1>8
+  Electric Piano#2: E3+A3+C4@1>7
+@83 [G]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+  Part3           : G4@1>3 A4@4>4
+  Part4           : G3@1>3 A3@4>4
+  Part7           : B4@1>8
+  Electric Piano#2: D3+G3+B3@1>7
+@84 [F#dim]
+  Electric Bass   : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1 F#1@5>1 F#1@6>1 F#1@7>1 F#1@8>1
+  Part7           : C5@1>8
+  Electric Piano#2: D3+F#3+A3@1>7
+@85 [F | G]
+  Electric Bass   : F1@1>1 F1@2>1 F1@3>1 F1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+  Part7           : C5@1>4 B4@5>4
+  Electric Piano#2: C3+F3+A3@1>4 D3+G3+B3@5>4
+@86 [Am]
+  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 A1@8>1
+  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
+  Part4           : A3@1>1 B3@3>1 C4@5>1 B3@7>2
+  Part7           : C5@1>8
+  Electric Piano#2: E3+A3+C4@1>7
+@87 [G]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+  Part3           : G4@1>3 A4@4>3 C5@7>1 A4@8>1
+  Part4           : G3@1>3 A3@4>3 C4@7>1 A3@8>1
+  Part7           : B4@1>8
+  Electric Piano#2: D3+G3+B3@1>7
+@88 [F#dim]
+  Electric Bass   : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1 F#1@5>1 F#1@6>1 F#1@7>1 F#1@8>1
+  Part3           : A4@1>2 C5@3>1 A4@4>3 C5@7>1 A4@8>1
+  Part4           : A3@1>2 C4@3>1 A3@4>3 C4@7>1 A3@8>1
+  Part7           : C5@1>8
+  Electric Piano#2: D3+F#3+A3@1>7
+@89 [F | G]
+  Electric Bass   : F1@1>1 F1@2>1 F1@3>1 F1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+  Part3           : A4@1>2 C5@3>1 A4@4>3
+  Part4           : A3@1>2 C4@3>1 A3@4>3
+  Part7           : C5@1>4 B4@5>4
+  Electric Piano#2: C3+F3+A3@1>4 D3+G3+B3@5>4
+@90 [Cm]
+  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 C2@6>1 C2@7>1 Bb1@8>1
+  Part3           : C5@1>1 D5@3>1 Eb5@5>1 D5@7>1
+  Part7           : C5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
+  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
+  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
+@91 [Gm7]
+  Electric Bass   : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 G1@8>1
+  Part3           : Bb4@1>3 G4@4>4
+  Part7           : F4+D5@1>8 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4@5>1 Bb3@6>1 D4@7>1 C4@8>1
+  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
+  Electric Piano#2: G3+Bb3+D4@1>8
+@92 [Cm]
+  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 G1@6>1 Bb1@7>1 G1@8>1
+  Part3           : F4@8>1
+  Part7           : C4+Eb5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
+  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
+  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
+@93 [Gm7]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+  Part3           : F4@1>1 F4@2>1 Eb4@4>2 D4@6>2
+  Part7           : F4+D5@1>4 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4+Bb4@5>4 Bb3@6>1 D4@7>1 C4@8>1
+  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
+  Electric Piano#2: G3+Bb3+D4@1>8
+@94 [Cm]
+  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 C2@6>1 C2@7>1 Bb1@8>1
+  Part3           : C5@1>1 D5@3>1 Eb5@5>1 D5@7>1
+  Part7           : C4+C5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
+  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
+  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
+@95 [Gm7]
+  Electric Bass   : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 G1@8>1
+  Part3           : Bb4@1>3 C5@4>3 Eb5@7>1 C5@8>1
+  Part7           : F4+D5@1>8 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4@5>1 Bb3@6>1 D4@7>1 C4@8>1
+  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
+  Electric Piano#2: G3+Bb3+D4@1>8
+@96 [Cm]
+  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 G1@6>1 Bb1@7>1 G1@8>1
+  Part3           : C5@1>2 Eb5@3>1 C5@4>3 Eb5@7>1 C5@8>1
+  Part4           : F4@8>1
+  Part7           : C4+Eb5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
+  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
+  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
+@97 [Gm7]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+  Part3           : C5@1>2
+  Part4           : F4@1>1 F4@2>1 Eb4@4>2 D4@6>2
+  Part7           : F4+D5@1>4 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4+Bb4@5>4 Bb3@6>1 D4@7>1 C4@8>1
+  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
+  Electric Piano#2: G3+Bb3+D4@1>8
+@98 [Cm]
+  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 C2@6>1 C2@7>1 Bb1@8>1
+  Part3           : C5@1>1 D5@3>1 Eb5@5>1 D5@7>1
+  Part7           : C4+C5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
+  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
+  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
+@99 [Gm7]
+  Electric Bass   : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 G1@8>1
+  Part3           : Bb4@1>3 G4@4>4
+  Part7           : F4+D5@1>8 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4@5>1 Bb3@6>1 D4@7>1 C4@8>1
+  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
+  Electric Piano#2: G3+Bb3+D4@1>8
+@100 [Cm]
+  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 G1@6>1 Bb1@7>1 G1@8>1
+  Part3           : F4@8>1
+  Part7           : C4+Eb5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
+  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
+  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
+@101 [Gm7]
+  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
+  Part3           : F4@1>1 F4@2>1 Eb4@4>2 D4@6>2
+  Part7           : F4+D5@1>4 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4+Bb4@5>4 Bb3@6>1 D4@7>1 C4@8>1
+  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
+  Electric Piano#2: G3+Bb3+D4@1>8
+@102 [Cm]
+  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 C2@6>1 C2@7>1 G1@8>1
+  Part3           : C5@1>1 D5@3>1 Eb5@5>1 D5@7>1
+  Part7           : C4+C5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
+  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
+  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
+@103 [Gm7]
+  Electric Bass   : Bb1@2>1 Bb1@4>1 Bb1@6>1 G1@8>1
+  Part3           : Bb4@1>8
+  Part7           : F4+D5@1>8 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4@5>1 Bb3@6>1 D4@7>1 C4@8>1
+  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
+  Electric Piano#2: G3+Bb3+D4@1>8
+@104 [C | Cm]
+  Part3           : C5@1>8
+  Part7           : C4@1>1
+  Electric Piano  : C4@1>1 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 D4@8>1
+@105 [C | F7]
+  Electric Piano  : C4@1>1 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 D4@8>1
+@106 [C | F7]
+  Electric Piano  : C4@1>1 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 D4@8>1
+@107 [C | F7]
+  Electric Piano  : C4@1>1 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 D4@8>1
+@108 [C] (grid:4)
+  Electric Piano  : C4@1>1

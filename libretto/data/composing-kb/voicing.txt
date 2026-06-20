@@ -1,0 +1,94 @@
+###############################################################################
+# voicing.txt — texture, voice-roles, doubling, and chord-spacing concepts
+# Grep an entry by id:  grep -A20 "CONCEPT: V-ROLES" voicing.txt
+###############################################################################
+
+================================================================================
+CONCEPT: Bass / chordal / melody role stratification
+ID: V-ROLES
+FILE: voicing.txt
+STATUS: core-idiom
+ATTEST: 253/314 songs  (GENRE-SPECIFIC: film_score 100%, pop_rock_orig 97% … jazz 71%, classical 23%)
+GENRE: rock, pop, soul, funk, disco, folk (all band music)
+THEORY: homophonic stratification, melody+accompaniment, register layering (SATB-like)
+ROLE: arrangement, texture-foundation, clarity
+FEATURE: low-bass + chord-bed + high-melody
+--------------------------------------------------------------------------------
+WHAT: The default texture: a distinct LOW bass voice, a CHORD-bearing middle voice
+  (>=1.8 notes per onset), and a separate HIGH melody voice, each in its own register.
+  Near-universal — it's the melody-and-accompaniment scaffolding of popular music.
+EXAMPLE: song_0004 (Queen — Killer Queen) — bass=Electric Bass (avg 42), chordal=Piano, melody=Electric Guitar (avg 86)
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) — bass=Part1 (40), chordal=Piano, melody=Part3 (72)
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') — bass=Part4 (35), chordal=Part2, melody=Part5 (66)
+COMPOSE: Assign three functional layers and keep them in separate registers: a bass voice
+  low (roots/fifths), a chordal voice in the middle octave (triads/7ths providing harmony
+  + rhythm), and the melody on top, clear above the chord tops. Don't let the melody and
+  chord voice collide in the same register — keep ~an octave of air for the tune.
+
+================================================================================
+CONCEPT: Wide multi-octave chord voicing
+ID: V-WIDE
+FILE: voicing.txt
+STATUS: core-idiom
+ATTEST: 195/314 songs  (GENRE-SPECIFIC: film_score 90%, jazz 79% … classical 40%, electronic_dance 35%)
+GENRE: pop, rock, soul, gospel, orchestral-pop
+THEORY: open/wide voicing, octave doubling within a chord, register spread
+ROLE: fullness, weight, piano/keys-voicing
+FEATURE: chord-spans->1.5-octaves
+--------------------------------------------------------------------------------
+WHAT: A chord-bearing voice sounds a simultaneity spanning >=19 semitones (>1.5 octaves) —
+  a wide, open voicing, typically doubling the root/3rd/5th across octaves (a pianistic
+  full-keyboard chord). Gives weight and sustain.
+EXAMPLE: song_0004 (Queen — Killer Queen) bar 5 — Piano spans 31 st [Piano: C2+C3+C4+Eb4+G4@1>36 ...]
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) bar 2 — Piano spans 45 st
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') bar 33 — Part3 spans 36 st
+COMPOSE: For a big keys/piano chord, place the root low (C2/C3), then stack the triad in
+  the middle and double the top tone up an octave — span well over an octave. Use on
+  downbeats / chorus hits for fullness; thin to a close mid-register voicing for verses.
+
+================================================================================
+CONCEPT: Unison / octave doubling
+ID: V-DOUBLE
+FILE: voicing.txt
+STATUS: core-idiom (ATTESTATION-ONLY — not loop-steerable)
+ATTEST: 173/314 songs
+NOTE: ATTESTATION-ONLY. The corresponding fingerprint axis (tex_doubling_ratio) was DROPPED in
+  the 28-axis revision (degenerate on the diverse corpus; also an arrangement-confound axis). So
+  the self-evolving loop does NOT steer doubling — use V-DOUBLE as a documented arranging device,
+  not as a loop target. It has no dosage band in dosage.txt.
+GENRE: pop, rock, soul, disco, vocal-harmony, horn-band
+THEORY: doubling (unison/octave) for reinforcement, not independent counterpoint
+ROLE: reinforce, thicken, emphasize-a-line
+FEATURE: two-voices-same-pc-throughout
+--------------------------------------------------------------------------------
+WHAT: Two voices play the SAME line in unison or at the octave (>=90% shared top-note pc).
+  Reinforces a melody/riff for power rather than adding a new line — twin guitars, brass
+  in octaves, bass doubling a keyboard left hand, doubled lead vocals.
+EXAMPLE: song_0011 (The Beatles — Penny Lane) — BRASS 1 and BRASS 1#2 in unison/octave (42/42 onsets)
+EXAMPLE: song_0003 (Eddy Grant — Gimme Hope Jo'Anna.1) — Part2 and Bass doubled (309/331 onsets)
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') — Part5 and Part6 doubled (39/39 onsets)
+COMPOSE: To make a hook or riff hit harder, write a second voice on the exact same notes
+  (unison) or an octave above/below. Use for chorus leads, horn shouts, and signature
+  riffs. NOTE: doubling reinforces but adds no harmony — if you want richness instead, use
+  parallel 3rds/6ths (V-PARALLEL) or an independent countermelody.
+
+================================================================================
+CONCEPT: Parallel thirds / sixths
+ID: V-PARALLEL
+FILE: voicing.txt
+STATUS: occasional-color
+ATTEST: 50/314 songs
+GENRE: soul, doo-wop, vocal-harmony, country, pop, horn-band
+THEORY: parallel 3rds/6ths, harmonized line, planing
+ROLE: harmonize-a-line, backing-harmony, sweetness
+FEATURE: two-voices-a-3rd-or-6th-apart
+--------------------------------------------------------------------------------
+WHAT: Two voices move together a consistent 3rd (3–4 st) or 6th (8–9 st) apart — a
+  harmonized line. Sweeter and fuller than unison doubling because it adds a chord tone;
+  the signature sound of backing-vocal harmony, horn sections, and twin-lead lines.
+EXAMPLE: song_0017 (The Beatles — Tell Me What You See) — Flute/Clarinet parallel thirds (65/73 onsets)
+EXAMPLE: song_0016 (Rick James — Super Freak) — Part2/Part4 parallel sixths (8/8)
+EXAMPLE: song_0005 (Stevie Wonder — Isn't She Lovely) — E.Piano/E.Guitar parallel sixths (7/7)
+COMPOSE: Take a melodic line and write a second voice a diatonic 3rd below (or a 6th below)
+  it, moving in lockstep so both stay in the key. Use for backing-vocal "oohs", harmonized
+  horn lines, or to fatten a hook. Thirds = bright/close; sixths = warm/open.

@@ -1,0 +1,432 @@
+KEY: C minor | METER: 4/4 | TEMPO: 105 | GRID: 4th (adaptive) | BARS: 105
+VOICES: Part1, Part2, Part3, Part4, Part5, Part6, Part7
+@1 [-]
+@2 [Cm]
+  Part2: G3+C4+Eb4@1>4
+@3 [Cm]
+  Part2: G3+C4+Eb4@1>4
+  Part6: C#3+D3+E3@2>1
+@4 [Cm]
+  Part2: C3+G3+C4+Eb4@1>4
+@5 [Cm] (grid:12t)
+  Part2: C3+G3+C4+Eb4@1>12
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+@6 [Cm]
+  Part2: C2+C3+G3+C4+Eb4+G4@1>4
+@7 [Cm]
+  Part2: C2+C3+G3+C4+Eb4+G4@1>4
+@8 [Cm]
+  Part1: C4+Eb4+G4@1>4
+  Part3: C2+C3@1>4
+  Part5: G4@1>4
+@9 [Eb]
+  Part1: C4+Eb4+G4@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: G4@1>4
+@10 [Ab7]
+  Part1: C4+Eb4+G4@1>4
+  Part3: G#1+G#2@1>4
+  Part5: G4@1>4
+@11 [Fm] (grid:12t)
+  Part1: G#3+C4+F4@1>12
+  Part3: G#1+G#2@1>12
+  Part5: F4@1>12
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+@12 [Bb7]
+  Part1: G#3+D4+F4@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: F4@1>4
+@13 [Bb7]
+  Part1: G#3+D4+F4@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: F4@1>4
+@14 [Ddim7 | G7]
+  Part1: G#3+B3+D4+F4+G#4@1>4
+  Part3: G1+G2@1>4
+  Part5: G#4@1>4
+@15 [G] (grid:12t)
+  Part1: B3+D4+F4+G4@1>12 G3+C4+Eb4@12>1
+  Part3: G1+G2@1>12
+  Part5: G4@1>9 F4@10>3
+@16 [Cm]
+  Part1: G3+C4+Eb4@1>4
+  Part3: C2+C3@1>4
+  Part5: Eb4@1>4
+@17 [Cm] (grid:12t)
+  Part1: G3+C4+Eb4@1>10 G3+Bb3+D4@12>1
+  Part3: C2+C3@1>12
+  Part5: Eb4@1>12
+  Part6: C#3+D3+E3@4>2
+@18 [Gm] (grid:12t)
+  Part1: G3+Bb3+D4@1>11 F3+Bb3+D4@12>1
+  Part3: Bb1+Bb2@1>12
+  Part5: D4@1>12
+@19 [Bb]
+  Part1: F3+Bb3+D4@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: D4@1>4
+@20 [Abdim]
+  Part1: G#3+Bb3+D4@1>4
+  Part3: G#1+G#2@1>4
+  Part5: D4@1>4
+@21 [Abdim] (grid:12t)
+  Part1: G#3+Bb3+D4@1>12 G3+Bb3+D4@12>1
+  Part3: G#1+G#2@1>12
+  Part5: D4@1>12
+@22 [Eb7]
+  Part1: G3+Bb3+D4@1>4
+  Part3: Eb2+Eb3@1>4
+  Part5: D4@1>4
+@23 [Cm] (grid:12t)
+  Part1: G3+Bb3+C4@1>12
+  Part3: Eb2+Eb3@1>12
+  Part5: C4@1>12
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+@24 [Gbdim]
+  Part1: D3+A3+C4@1>4
+  Part3: F#2@1>4
+  Part5: C4@1>4
+@25 [Gbdim]
+  Part1: D3+A3+C4@1>4
+  Part3: F#2@1>4
+  Part5: C4@1>4
+@26 [Fm]
+  Part1: D3+F3+C4@1>4
+  Part3: G#1+G#2@1>4
+  Part5: C4@1>4
+@27 [G] (grid:12t)
+  Part1: D3+F3+G3+B3@1>12 Eb4+G4+C5+Eb5+G5@12>1
+  Part3: G1+G2@1>12 G1@10>3
+  Part5: B3@1>12
+@28 [Cm]
+  Part1: Eb4+G4+C5+Eb5+G5@1>4
+  Part3: C2+C3@1>4
+  Part5: G5@1>4
+@29 [Eb]
+  Part1: Eb4+G4+C5+Eb5+G5@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: G5@1>4
+@30 [Cm]
+  Part1: Eb4+G4+C5+Eb5+G5@1>4
+  Part3: G#1+G#2@1>4
+  Part5: G5@1>4
+@31 [Fm7]
+  Part1: C4+Eb4+G#4+C5+F5@1>4
+  Part3: G#1+G#2@1>4
+  Part5: F5@1>4
+  Part6: C#3+D3+E3@2>1
+@32 [Bb7]
+  Part1: D4+F4+G#4+C5+D5+F5@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: F5@1>4
+@33 [Bb7]
+  Part1: D4+F4+G#4+C5+D5+F5@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: F5@1>4
+@34 [Abdim7]
+  Part1: D4+F4+G#4+D5+F5+G#5@1>4
+  Part3: B1+B2@1>4
+  Part5: G#5@1>4
+@35 [G7]
+  Part1: D4+F4+G4+D5+G5@1>3 F4+F5@4>1
+  Part3: G1+G2@1>4
+  Part5: G5@1>3 F5@4>1
+@36 [Cm]
+  Part1: C4+Eb4+G4+C5+Eb5@1>4
+  Part3: C2+C3@1>4
+  Part5: Eb5@1>4
+@37 [Cm] (grid:12t)
+  Part1: C4+Eb4+G4+C5+Eb5@1>12
+  Part3: C2+C3@1>12
+  Part5: Eb5@1>12
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+@38 [Gm]
+  Part1: Bb3+D4+G4+Bb4+D5@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: D5@1>4
+@39 [Gm]
+  Part1: Bb3+D4+G4+Bb4+D5@1>4
+  Part3: Bb1+Bb2@1>4
+  Part5: D5@1>4
+@40 [Ddim]
+  Part1: Bb3+F4+G#4+Bb4+D5@1>4
+  Part3: G#1+G#2@1>4
+  Part5: D5@1>4
+@41 [Ddim]
+  Part1: Bb3+F4+G#4+Bb4+D5@1>4
+  Part3: G#1+G#2@1>4
+  Part5: D5@1>4
+@42 [Gm]
+  Part1: Bb3+D4+G4+Bb4+D5@1>4
+  Part3: Eb2+Eb3@1>4
+  Part5: D5@1>4
+@43 [Cm] (grid:8)
+  Part1: G3+C4+Eb4+G4+C5@1>8
+  Part3: Eb2+Eb3@1>4 F#2@3>1 G2@4>2 Bb2@6>1 Eb3@7>2
+  Part5: C5@1>8
+  Part6: C#3+D3+E3@3>1
+@44 [Gbdim]
+  Part1: A3+C4+D4+A4+C5@1>4
+  Part3: F#1+F#2@1>4
+  Part5: C5@1>4
+@45 [Gbdim]
+  Part3: F#1+F#2@1>4
+  Part5: C5@1>4
+@46 [Caug]
+  Part1: A3+C4+A4+C5@1>4
+  Part3: G#1+G#2@1>4
+  Part5: C5@1>4
+@47 [C7]
+  Part1: C4+D4+F4+C5@1>4
+  Part3: G1+G2@1>4
+  Part5: B4@1>4
+@48 [Cm]
+  Part1: G3+D4+F4+G4+B4@1>4
+  Part2: G3+C4+Eb4+G4+C5@1>4
+  Part3: C2+C3@1>4
+  Part5: C5@1>4
+@49 [Cm] (grid:12t)
+  Part1: G3+C4+Eb4+G4+C5@1>12
+  Part2: G3+C4+Eb4+G4+C5@1>12
+  Part3: C2+C3@1>12
+  Part5: C5@1>12
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+@50 [Cm] (grid:12t)
+  Part1: G3+C4+Eb4+G4+C5@12>11
+  Part2: G3+C4+Eb4+G4+C5@1>12
+  Part3: C2+C3@1>12
+  Part5: C5@1>12
+@51 [Cm] (grid:12t)
+  Part1: G3+C4+Eb4+G4+C5@12>12
+  Part2: G3+C4+Eb4+G4+C5@1>11
+  Part3: C2+C3@1>12
+  Part5: C5@1>12
+@52 [Cm]
+  Part3: C2+C3@1>4
+  Part4: C4+Eb4+G4@1>4
+  Part5: G4@1>4
+@53 [Eb]
+  Part3: Bb1+Bb2@1>4
+  Part4: C4+Eb4+G4@1>4
+  Part5: G4@1>4
+@54 [Ab7]
+  Part3: G#1+G#2@1>4
+  Part4: C4+Eb4+G4@1>4
+  Part5: G4@1>4
+@55 [Fm] (grid:12t)
+  Part3: G#1+G#2@1>12
+  Part4: G#3+C4+F4@1>12
+  Part5: F4@1>12
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+@56 [Bb7]
+  Part3: Bb1+Bb2@1>4
+  Part4: G#3+D4+F4@1>4
+  Part5: F4@1>4
+@57 [Bb7] (grid:12t)
+  Part3: Bb1+Bb2@1>12
+  Part4: G#3+D4+F4@1>12 B3+D4+F4+G#4@12>1
+  Part5: F4@1>12
+@58 [Ddim7 | G]
+  Part3: G1+G2@1>4
+  Part4: G#3+B3+D4+F4+G#4@1>4
+  Part5: G#4@1>4
+@59 [G] (grid:12t)
+  Part3: G1+G2@1>12
+  Part4: B3+D4+F4+G4@1>12 G3+C4+Eb4@12>1
+  Part5: G4@1>9 F4@10>3
+@60 [Cm]
+  Part3: C1+C2+C3@1>4
+  Part4: G3+C4+Eb4@1>4
+  Part5: Eb4@1>4
+@61 [Eb] (grid:12t)
+  Part3: Bb0+Bb1+Bb2@1>12
+  Part4: G3+C4+Eb4@1>10 G3+Bb3+D4@12>1
+  Part5: Eb4@1>12
+  Part6: C#3+D3+E3@4>2
+@62 [Gm] (grid:12t)
+  Part3: Bb1+Bb2@1>12
+  Part4: G3+Bb3+D4@1>11 F3+Bb3+D4@12>1
+  Part5: D4@1>12
+@63 [Ddim]
+  Part3: G#1+G#2@1>4
+  Part4: F3+Bb3+D4@1>4
+  Part5: D4@1>4
+@64 [Abdim]
+  Part3: G#1+G#2@1>4
+  Part4: G#3+Bb3+D4@1>4
+  Part5: D4@1>4
+@65 [Abdim] (grid:12t)
+  Part3: G#1+G#2@1>12
+  Part4: G#3+Bb3+D4@1>12 G3+Bb3+D4@12>1
+  Part5: D4@1>12
+@66 [Eb7]
+  Part3: Eb2+Eb3@1>4
+  Part4: G3+Bb3+D4@1>4
+  Part5: D4@1>4
+@67 [Cm] (grid:8)
+  Part3: Eb2+G2@1>2 F2@3>1 Eb2@4>1 G2@5>1 Bb2@6>1 Eb3@7>2
+  Part4: G3+Bb3+C4@1>8
+  Part5: C4@1>8
+@68 [Gbdim]
+  Part3: F#1+F#2@1>4
+  Part4: D3+A3+C4@1>4
+  Part5: C4@1>4
+@69 [Gbdim]
+  Part3: F#1+F#2@1>4
+  Part4: D3+A3+C4@1>4
+  Part5: C4@1>4
+@70 [Fm]
+  Part3: G#1+G#2@1>4
+  Part4: D3+F3+C4@1>4
+  Part5: C4@1>4
+@71 [G] (grid:12t)
+  Part3: G1+G2@1>12
+  Part4: D3+F3+G3+B3@1>12
+  Part5: B3@1>11
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+@72 [Cm]
+  Part3: C2+C3@1>4
+  Part4: C4+Eb4+G4@1>4
+  Part5: G5@1>4
+  Part7: C4+Eb4+G4@1>4
+@73 [Eb]
+  Part3: Bb1+Bb2@1>4
+  Part4: C4+Eb4+G4@1>4
+  Part5: G5@1>4
+  Part7: C4+Eb4+G4@1>4
+@74 [Cm]
+  Part3: G#1+G#2@1>4
+  Part4: C4+Eb4+G4@1>4
+  Part5: G5@1>4
+  Part7: C4+Eb4+G4@1>4
+@75 [Fm]
+  Part3: G#1+G#2@1>4
+  Part4: G#3+C4+F4@1>4
+  Part5: F5@1>4
+  Part7: G#3+C4+F4@1>4
+@76 [Bb7]
+  Part3: Bb1+Bb2@1>4
+  Part4: G#3+D4+F4@1>4
+  Part5: F5@1>4
+@77 [Bb7] (grid:12t)
+  Part3: Bb1+Bb2@1>12
+  Part4: G#3+D4+F4@1>12 B3+D4+F4+G#4@12>1
+  Part5: F5@1>12
+@78 [Ddim]
+  Part3: G1+G2@1>4
+  Part4: G#3+B3+D4+F4+G#4@1>4
+  Part5: G#5@1>4
+  Part7: G#3+D4+F4@1>4
+@79 [G7] (grid:12t)
+  Part3: G1+G2@1>12
+  Part4: B3+D4+F4+G4@1>12 G3+C4+Eb4@12>1
+  Part5: G5@1>9 F5@10>3
+  Part7: G#3+D4+F4@1>12 B3+D4+F4+G#4@12>1
+@80 [Cm]
+  Part3: C2+C3@1>4
+  Part4: G3+C4+Eb4@1>4
+  Part5: Eb5@1>4
+  Part7: B3+D4+F4+G#4@1>4
+@81 [Eb7] (grid:12t)
+  Part3: Bb1+Bb2@1>12
+  Part4: G3+C4+Eb4@1>10 G3+Bb3+D4@12>1
+  Part5: Eb5@1>11
+  Part6: C#3+D3+E3@4>2
+  Part7: B3+D4+F4+G4@1>12
+@82 [Gm] (grid:12t)
+  Part3: Bb1+Bb2@1>12
+  Part4: G3+Bb3+D4@1>11 F3+Bb3+D4@12>1
+  Part5: D5@1>12
+  Part7: G3+C4+Eb4@1>12
+@83 [Dm7] (grid:12t)
+  Part3: G#1+G#2@1>12
+  Part4: F3+Bb3+D4@1>11
+  Part5: D5@1>12
+  Part7: G3+C4+Eb4@1>12 G3+Bb3+D4@12>1
+@84 [Ddim] (grid:12t)
+  Part3: G#1+G#2@1>12
+  Part4: G#3+Bb3+D4@1>12
+  Part5: D5@1>12
+  Part7: G3+Bb3+D4@1>12 F3@12>1
+@85 [Ddim] (grid:12t)
+  Part3: G#1+G#2@1>12
+  Part5: D5@1>12
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+  Part7: F3+Bb3+D4@1>11
+@86 [Ddim | Gm] (grid:12t)
+  Part3: Eb2+Eb3@1>12
+  Part4: G#3+Bb3+D4@1>12 G3+Bb3+D4@12>1
+  Part5: D5@1>12
+  Part7: G#3+Bb3+D4@1>12
+@87 [Gm] (grid:24t)
+  Part3: Eb2+Eb3@1>10 G2@10>4 Bb2@16>2 Eb3@19>6
+  Part4: G3+Bb3+D4@1>22
+  Part5: C5@1>24
+  Part7: G#3+Bb3+D4@1>48 G3@23>2
+@88 [Cm]
+  Part3: F#2+D3@1>4
+  Part4: Eb3+G3+C4@1>4
+  Part5: C5@1>4
+@89 [Gbdim]
+  Part3: F#2@1>4
+  Part4: D3+A3+C4@1>4
+  Part5: C5@1>4
+  Part7: G3+Bb3@1>4
+@90 [Ab7]
+  Part3: G#1+G#2@1>4
+  Part4: D3+A3+C4@1>4
+  Part5: C5@1>4
+  Part7: Eb3+G3+C4@1>4
+@91 [G7]
+  Part3: G1+G2@1>4
+  Part4: D3+F3+C4@1>4
+  Part5: B4@1>4
+  Part7: D3+A3+C4@1>4
+@92 [Cm]
+  Part2: G3+C4+Eb4+G4+C5@1>4
+  Part3: C2+C3@1>4
+  Part4: D3+F3+G3+B3@1>4
+  Part5: C4@1>4
+  Part7: D3+A3+C4@1>4
+@93 [Cm] (grid:12t)
+  Part2: G3+C4+Eb4+G4+C5@1>11 G3+C4+Eb4+G4+C5@12>1
+  Part3: C2+C3@1>12
+  Part4: G3+C4+Eb4+G4@1>12
+  Part5: C4@1>12
+  Part6: C#3+D3+E3@4>2
+  Part7: D3+F3+C4@1>12
+@94 [Cm]
+  Part2: G3+C4+Eb4+G4+C5@1>4
+  Part3: C2+C3@1>4
+  Part4: C3+G3+C4+Eb4+G4@1>4
+  Part5: C4@1>4
+  Part7: D3+F3+G3+B3@1>4
+@95 [Cm] (grid:12t)
+  Part2: G3+C4+Eb4+G4+C5@1>12
+  Part3: C2+C3@1>12
+  Part4: C3+G3+C4+Eb4+G4+C5@1>12
+  Part5: C4@1>12
+  Part6: C#3+D3+E3@2>2 C#3+D3+E3@5>2
+  Part7: G3+C4+Eb4+G4@1>12
+@96 [Cm]
+  Part2: G3+C4+Eb4+G4+C5@1>4
+  Part3: C2+C3@1>4
+  Part4: C3+G3+C4+Eb4+G4+C5@1>4
+@97 [Cm]
+  Part2: G3+C4+Eb4+G4+C5@1>2
+  Part3: C2+C3@1>4
+  Part4: C3+G3+C4+Eb4+G4+C5@1>4
+@98 [Cm]
+  Part4: C3+G3+C4+Eb4+G4+C5@1>2
+@99 [-]
+@100 [Cm] (grid:6t)
+  Part7: C3+C4+Eb4+G4@5>6
+@101 [Cm] (grid:6t)
+  Part7: C3+G3+C4+Eb4+G4+C5@5>6
+@102 [Cm] (grid:6t)
+  Part7: C3+G3+C4+Eb4+G4+C5@5>6
+@103 [Cm] (grid:6t)
+  Part7: C3+G3+Eb4+G4+C5@5>6
+@104 [Cm] (grid:6t)
+  Part7: C3+G3+Eb4+G4+C5@5>4
+@105 [-]

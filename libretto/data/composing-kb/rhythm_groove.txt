@@ -1,0 +1,156 @@
+###############################################################################
+# rhythm_groove.txt — rhythm, subdivision, and groove concepts
+# Grep an entry by id:  grep -A22 "CONCEPT: R-SYNCO" rhythm_groove.txt
+###############################################################################
+
+================================================================================
+CONCEPT: Syncopation
+ID: R-SYNCO
+FILE: rhythm_groove.txt
+STATUS: core-idiom
+ATTEST: 311/314 songs
+GENRE: funk, soul, disco, R&B, rock, pop, reggae, latin (corpus-wide)
+THEORY: syncopation, off-beat accent, anticipation/suspension of the beat
+ROLE: groove, feel, propulsion, energy
+FEATURE: off-beat-onsets
+--------------------------------------------------------------------------------
+WHAT: Placing note onsets OFF the quarter-note beat — on the "and"s, the "e/a" 16ths,
+  or anticipating the next downbeat. Near-universal in this corpus (311/314 songs show >=15%
+  of onsets off the beat; funk/soul/disco run much higher, classical lowest). It's what makes a part feel like
+  a groove rather than a metronome.
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') — 52% of onsets off the beat
+EXAMPLE: song_0004 (Queen — Killer Queen) — 50% of onsets off the beat
+EXAMPLE: song_0003 (Eddy Grant — Gimme Hope Jo'Anna.1) — 32% of onsets off the beat
+COMPOSE: Don't put everything on beats 1-2-3-4. Anticipate the downbeat by an eighth in
+  the bass (play the chord-root an eighth EARLY, tie it over), land chord stabs on the
+  off-beat "and", and push melodic phrases to start just after the beat. In grammar terms,
+  give voices onsets at @3,@7,@11,@15 (the off-beats of a 16-slot 4/4 bar), not only @1,@5,@9,@13.
+
+================================================================================
+CONCEPT: Groove ostinato
+ID: R-OSTINATO
+FILE: rhythm_groove.txt
+STATUS: core-idiom
+ATTEST: 213/314 songs  (GENRE-SPECIFIC: film_score 90%, electronic_dance 88% … classical 47%, jazz 32%)
+GENRE: funk, disco, reggae, soul, rock, pop
+THEORY: ostinato, riff, repeated rhythmic cell, vamp
+ROLE: groove-engine, accompaniment-bed, hypnotic-drive
+FEATURE: identical-rhythm-figure-repeated
+--------------------------------------------------------------------------------
+WHAT: One voice repeats the SAME multi-onset rhythmic figure bar after bar (8+ bars). The
+  fixed figure is the groove's engine; pitch may change with the chord but the rhythm is
+  locked. Strongly associated with funk/disco/reggae comping and rock riffs.
+EXAMPLE: song_0003 (Eddy Grant — Gimme Hope Jo'Anna.1) Part2 bars 4-15 — fixed chord-stab figure [Part2: B2+F#3+B3@1>1 ...repeated]
+EXAMPLE: song_0006 (Eagles — Hotel California) Part4 bars 34-49 — fixed comping figure
+EXAMPLE: song_0007 (Matt Bianco — Half a Minute.1) Part2 bars 5-20 — fixed bass figure
+COMPOSE: Write ONE rhythmically distinctive bar for a voice (e.g. a guitar/keys stab
+  pattern on off-beats, or a bass riff) and repeat it verbatim across the section, only
+  transposing pitches to fit each chord. Keep the onset positions identical — that
+  repetition IS the groove. Layer it under a pedal (H-PEDAL) or a 2-chord vamp.
+
+================================================================================
+CONCEPT: Root-pulse / four-on-the-floor bass
+ID: R-ROOTPULSE
+FILE: rhythm_groove.txt
+STATUS: occasional-color
+ATTEST: 151/314 songs
+GENRE: disco, rock, pop, folk, reggae
+THEORY: steady quarter-note pulse, four-on-the-floor, driving bass foundation
+ROLE: drive, dance-pulse, rhythmic-foundation
+FEATURE: bass-onset-every-beat
+--------------------------------------------------------------------------------
+WHAT: The bass states a note on EVERY beat of the bar for many bars — a relentless quarter
+  pulse (four-on-the-floor in 4/4). Provides forward drive and a dance foundation; common
+  under disco/rock choruses and strummy folk.
+EXAMPLE: song_0003 (Eddy Grant — Gimme Hope Jo'Anna.1) Bass — root on every beat for 77 bars from 4 [Bass: B1@1>1 B1@3>2 ...]
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') Part4 — root on every beat for 14 bars from 42 [Part4: A1@1>1 A1@2>1 A1@3>1 A1@4>1 ...]
+EXAMPLE: song_0007 (Matt Bianco — Half a Minute.1) Part2 — root on every beat for 31 bars
+COMPOSE: Put a bass note on @1,@5,@9,@13 (each beat) of every bar — usually the chord root,
+  optionally alternating root/fifth or root/octave. For drive, keep durations short and
+  even. Combine with R-SYNCO in the upper parts so the steady bass and syncopated comping
+  rub against each other (the classic disco/funk feel).
+
+================================================================================
+CONCEPT: Straight (binary) subdivision
+ID: R-STRAIGHT
+FILE: rhythm_groove.txt
+STATUS: core-idiom
+ATTEST: 269/314 songs
+GENRE: rock, pop, disco, funk, new-wave
+THEORY: binary subdivision (even 8ths/16ths), "straight" feel
+ROLE: groove-foundation, feel
+FEATURE: even-eighths-sixteenths
+--------------------------------------------------------------------------------
+WHAT: The default feel of the corpus: beats divide evenly in two (8ths, 16ths), not into
+  triplets. ~86% of songs (269/314) are predominantly straight. Drives most rock/pop/disco/funk.
+EXAMPLE: song_0002 (Simon & Garfunkel — Bridge Over Troubled Water) — 93 binary vs 6 triplet bars
+EXAMPLE: song_0003 (Eddy Grant — Gimme Hope Jo'Anna.1) — 78 binary vs 3 triplet bars
+EXAMPLE: song_0004 (Queen — Killer Queen) — 57 binary vs 32 triplet bars
+COMPOSE: Default to a 16th grid: onset positions at @1,@3,@5,@7,@9,... (even subdivisions).
+  Use this unless you specifically want a shuffle/ballad lilt (then see R-TRIPLET).
+
+================================================================================
+CONCEPT: Triplet / compound subdivision (shuffle, 12/8)
+ID: R-TRIPLET
+FILE: rhythm_groove.txt
+STATUS: occasional-color
+ATTEST: 45/314 songs
+GENRE: soul-ballad, blues-shuffle, doo-wop, 12/8 ballad, gospel
+THEORY: compound meter / triplet feel, swung eighths, 12/8
+ROLE: feel (ballad/shuffle), lilt
+FEATURE: triplet-grid, swung
+--------------------------------------------------------------------------------
+WHAT: The beat divides in THREE (triplets / 12-8 / shuffle) rather than two — a rolling,
+  lilting feel. The minority feel in this corpus, reserved for ballads, slow soul, and
+  shuffles.
+EXAMPLE: song_0005 (Stevie Wonder — Isn't She Lovely) — 107 triplet vs 4 binary bars
+EXAMPLE: song_0006 (Eagles — Hotel California) — 12/8 shuffle (triplet-grid bars)
+EXAMPLE: song_0027 (Patti Smith — Because The Night) — 83 triplet vs 31 binary bars
+COMPOSE: Quantize onsets to a triplet grid (grid 12 = 8th-note triplets; slot length 1/3
+  beat) so subdivisions land at @1,@5,@9 within a beat's three slots. Use for a 6/8–12/8
+  ballad, a slow-soul groove, or to "swing" an otherwise straight tune.
+
+================================================================================
+CONCEPT: Duration variety (mix long & short)
+ID: R-DURVAR
+FILE: rhythm_groove.txt
+STATUS: core-idiom
+ATTEST: 311/314 songs  (corpus-wide)
+GENRE: all
+THEORY: rhythmic value variety, note-duration spread, long-vs-short contrast
+ROLE: phrasing, breathing, anti-mechanical
+FEATURE: sustained-notes + short-notes-coexist
+--------------------------------------------------------------------------------
+WHAT: Real parts mix sustained notes (≥2 beats) with short ones (≤8th) rather than a stream
+  of equal-length notes. Near-universal (99%). A part of all-equal durations reads as
+  mechanical (the self-evolving loop's Round-1 piece hit the corpus floor on duration
+  variety precisely because every note was one slot long).
+EXAMPLE: song_0001 (Journey — Don't Stop Believin') bar 6 — a held 2-beat root then short 8ths  [Part4: E1@1>4 E1@5>1 F#1@6>1 G#1@7>1 B1@8>1]
+EXAMPLE: song_0159 (Dvorak — Symphony No.2, II) bar 2 — Oboe short 8ths into a long note  [Oboe: E4@1>1 F#4@2>1 A4@3>1 F#4@4>1 E4@5>4]
+EXAMPLE: song_0253 (James Taylor — Carolina in My Mind) bar 3 — Part3 sustains under short moves
+COMPOSE: Don't make every note the same length. Hold pads/chords 2–4 beats under a moving
+  melody; in the melody, mix quarters/eighths with an occasional long sustain at phrase
+  ends. Aim duration spread (dur_cv) and mean note length at the dosage band — BOTH
+  wall-to-wall short notes and wall-to-wall whole notes fall out of band.
+
+================================================================================
+CONCEPT: Density ebb & flow
+ID: R-DENSITY
+FILE: rhythm_groove.txt
+STATUS: core-idiom
+ATTEST: 226/314 songs  (classical 83% … folk_country 52%)
+GENRE: all (arrangement-driven)
+THEORY: textural density contrast, dynamic build/drop, arrangement arc
+ROLE: build, release, sectional dynamics
+FEATURE: per-bar-note-count-swings
+--------------------------------------------------------------------------------
+WHAT: The number of notes / active voices per bar rises and falls across the song (sparse
+  verse vs busy chorus or pre-chorus fill), rather than every bar equally busy. ~72% show a
+  clear sparse-bar vs busy-bar contrast.
+EXAMPLE: song_0062 (Huey Lewis & The News — I Want a New Drug) — bar 2 (2 notes) vs bar 77 (58 notes), median 36
+EXAMPLE: song_0131 (Duke Ellington — Don't Get Around Much Anymore) — bar 148 (5 notes) vs bar 42 (145 notes)
+EXAMPLE: song_0159 (Dvorak — Symphony No.2, II) — bar 15 (4 notes) vs bar 39 (50 notes)
+COMPOSE: Vary density by section: thin verses (bass + one voice), fuller choruses (add
+  chords, horns, doublings), an occasional busy fill before a section change. In grammar
+  terms, drop voices out for some bars and pile them in for others so per-bar note counts
+  swing. Targets density_variability / onset_density / active_voice_density.

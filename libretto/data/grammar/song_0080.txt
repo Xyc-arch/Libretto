@@ -1,0 +1,750 @@
+KEY: C major | METER: 4/4 | TEMPO: 136 | GRID: 12t (adaptive) | BARS: 143
+VOICES: piano, bass, lead, Part4, Part5, Part6, banjo, strings, Part9
+@1 [-]
+@2 [A#7] (grid:4)
+  piano  : C4+D4+F4+A4@1>4
+  bass   : Bb2@1>4
+  Part4  : Bb2@1>3 F3@4>1
+@3 [A# | Gm7]
+  piano  : Bb3+D4+F4+G4@1>12
+  bass   : F2@1>4 F2@6>4 G2@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+@4 [A#7] (grid:4)
+  piano  : C4+D4+F4+A4@1>4
+  bass   : Bb2@1>4
+  Part4  : Bb2@1>3 F3@4>1
+@5 [A#]
+  piano  : Bb3+D4+F4+G4@1>12
+  bass   : F2@1>8 F2@6>3 G2@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : D4@1>3 F4@4>3 Bb4@7>3 C5@10>3
+@6 [A# | F]
+  piano  : D4+F4+A4+C5@1>3 D4+F4+A4+C5@4>3 D4+F4+A4+C5@7>3 D4+F4+A4+C5@10>3
+  bass   : Bb2@1>9 Bb2@12>1
+  lead   : F5@4>6 G5@10>3
+  Part4  : Bb2@1>9 F3@10>3
+  Part5  : D5@1>1 F5@3>3 F5@6>7
+  Part6  : C5@4>9
+@7 [A#]
+  piano  : D4+F4+G4+Bb4@1>3 D4+F4+G4+Bb4@4>3 D4+F4+G4+Bb4@7>3 D4+F4+G4+Bb4@10>3
+  bass   : F2+Bb2@1>9 F2@12>1
+  lead   : F5@1>3 Bb4@4>3 Bb4@7>3 C5@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : F5@1>12
+  Part6  : Bb4@1>12
+@8 [A#7 | F]
+  piano  : D4+F4+A4+C5@1>3 D4+F4+A4+C5@4>3 D4+F4+A4+C5@7>3 D4+F4+A4+C5@10>3
+  bass   : F2+Bb2@1>9 Bb2@12>1
+  lead   : F5@4>6 G5@10>3
+  Part4  : Bb2@1>9 F3@10>3
+  Part6  : C5@4>9
+@9 [A#]
+  piano  : D4+F4+G4+Bb4@1>3 D4+F4+G4+Bb4@4>3 D4+F4+G4+Bb4@7>3 D4+F4+G4+Bb4@10>3
+  bass   : F2+Bb2@1>9 F2@12>1
+  lead   : F5@1>3 G4@4>3 Bb4@7>3 C5@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : D4@1>3 F4@4>3 Bb4@7>3 C5@10>3
+  Part6  : Bb4@1>12
+@10 [A# | F]
+  piano  : D4+F4+A4+C5@1>3 D4+F4+A4+C5@4>3 D4+F4+A4+C5@7>3 D4+F4+A4+C5@10>3
+  bass   : F2+Bb2@1>9 Bb2@12>1
+  lead   : F5@4>6 G5@10>3
+  Part4  : Bb2@1>9 F3@10>3
+  Part5  : D5@1>1 F5@3>3 F5@6>7
+  Part6  : C5@4>9
+@11 [A#]
+  piano  : D4+F4+G4+Bb4@1>3 D4+F4+G4+Bb4@4>3 D4+F4+G4+Bb4@7>3 D4+F4+G4+Bb4@10>3
+  bass   : F2+Bb2@1>9 F2@12>1
+  lead   : F5@1>3 Bb4@4>3 Bb4@7>3 C5@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : F5@1>12
+  Part6  : Bb4@1>12
+@12 [A#7]
+  piano  : D4+F4+A4+C5@1>3 D4+F4+A4+C5@4>3 D4+F4+A4+C5@7>3 D4+F4+A4+C5@10>3
+  bass   : F2+Bb2@1>9 Bb2@12>1
+  lead   : F5@4>6 G5@10>3
+  Part4  : Bb2@1>9 F3@10>3
+  Part6  : D5@4>3 Bb4@7>3 C5@10>1 Bb4@12>1
+@13 [A#]
+  piano  : D4+F4+G4+Bb4@1>3 D4+F4+G4+Bb4@4>3 D4+F4+G4+Bb4@7>3 D4+F4+G4+Bb4@10>3
+  bass   : F2+Bb2@1>9 F2@12>1
+  lead   : F5@1>3 Bb4@4>3 Bb4@7>3 C5@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : D4@1>3 F4@4>3 Bb4@7>3 C5@10>3
+  Part6  : Bb4@1>12
+@14 [C7]
+  piano  : E4+G4+Bb4@1>3 E4+G4+Bb4@4>3 E4+G4+Bb4@7>3 E4+G4+Bb4@10>3
+  bass   : F2+C3@1>9 C#3@12>1
+  lead   : G5@4>6 A5@10>3
+  Part4  : C3@1>9 G3@10>3
+  Part5  : D5@1>3 C5@4>1 C5@6>7
+  Part6  : G4@11>2
+@15 [Gm7]
+  piano  : F4+G4+Bb4@1>3 F4+G4+Bb4@4>3 F4+G4+Bb4@7>3 F4+G4+Bb4@10>3
+  bass   : C#3+D3@1>3 G2@4>6 G2@12>1
+  lead   : G5@1>3 Bb4@4>3 C5@7>3 Bb4@10>3
+  Part4  : G2@1>5 G2@5>1 G2@8>2 A2@10>3
+  Part6  : G4@1>3 G4@3>1 Bb4@4>3 C5@7>3 Bb4@10>3
+@16 [C]
+  piano  : E4+G4+Bb4@1>3 E4+G4+Bb4@4>3 E4+G4+Bb4@7>3 E4+G4+Bb4@10>3
+  bass   : G2+C3@1>9 C3@12>1
+  lead   : G5@4>6 A5@10>3
+  Part4  : C3@1>9 G3@10>3
+  Part5  : D5@1>3 C5@4>9 C5@6>7
+  Part6  : G4@12>1
+@17 [Gm | C7]
+  piano  : F4+G4+Bb4@1>3 F4+G4+Bb4@4>3 E4+G4+Bb4@7>3 E4+G4+Bb4@10>3
+  bass   : G2+C3@1>6 C3@7>6
+  lead   : G5@1>3 D5@4>3 C5@7>3 Bb4@10>3
+  Part4  : G2@1>5 G2@5>1 C3@7>6
+  Part6  : G4@1>3 G4@3>1 Bb4@4>3 C5@7>2 Bb4@9>3
+@18 [F]
+  piano  : C4+Eb4+F4+A4@1>3 C4+Eb4+F4+A4@4>3 C4+Eb4+F4+A4@7>3 C4+Eb4+F4+A4@10>3
+  bass   : F2@1>9 F2@12>1
+  lead   : C5@4>6 D5@10>3
+  Part4  : F2@1>12
+  Part6  : F4@1>12
+@19 [F7]
+  piano  : C4+Eb4+F4+A4@1>3 C4+Eb4+F4+A4@4>3 C4+Eb4+F4+A4@7>3 C4+Eb4+F4+A4@10>3
+  bass   : F2+G2@1>3 C3@4>6 G2@12>1
+  lead   : C5@1>3 F4@4>3 G4@7>3 F4@10>3
+  Part6  : F4@4>3 G4@7>3 Bb4@10>3
+@20 [F7]
+  piano  : C4+Eb4+F4+A4@1>3 C4+Eb4+F4+A4@4>3 C4+Eb4+F4+A4@7>3 C4+Eb4+F4+A4@10>3
+  bass   : F2+G2@1>9 Eb2@12>1
+  lead   : C5@4>6 D5@10>3 C5@12>1
+@21 [F7]
+  piano  : D4+E4+G4+Bb4@1>3 C4+Eb4+F4+A4@4>9
+  bass   : Eb2+F2@1>1 C2@3>2 F2@4>9
+  lead   : D5+E5+G5+Bb5@1>3 C5+Eb5+F5+A5@4>9
+@22 [F7] (grid:4)
+  piano  : C4+Eb4+F4+A4@1>4
+  bass   : F2@1>4
+  lead   : C5+Eb5+F5+A5@1>4
+@23 [A# | F]
+  piano  : D4+F4+A4+C5@1>3 D4+F4+A4+C5@4>3 D4+F4+A4+C5@7>3 D4+F4+A4+C5@10>3
+  bass   : Bb2@1>9 Bb2@12>1
+  lead   : F5@4>6 G5@10>3
+  Part4  : Bb2@1>9 F3@10>3
+  Part5  : D5@1>1 F5@3>3 F5@6>7
+  Part6  : C5@4>9
+@24 [A#]
+  piano  : D4+F4+G4+Bb4@1>3 D4+F4+G4+Bb4@4>3 D4+F4+G4+Bb4@7>3 D4+F4+G4+Bb4@10>3
+  bass   : F2+Bb2@1>9 F2@12>1
+  lead   : F5@1>3 Bb4@4>3 Bb4@7>3 C5@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : F5@1>12
+  Part6  : Bb4@1>12
+@25 [A#7 | F]
+  piano  : D4+F4+A4+C5@1>3 D4+F4+A4+C5@4>3 D4+F4+A4+C5@7>3 D4+F4+A4+C5@10>3
+  bass   : F2+Bb2@1>9 Bb2@12>1
+  lead   : F5@4>6 G5@10>3
+  Part4  : Bb2@1>9 F3@10>3
+  Part6  : C5@4>9
+@26 [A#]
+  piano  : D4+F4+G4+Bb4@1>3 D4+F4+G4+Bb4@4>3 D4+F4+G4+Bb4@7>3 D4+F4+G4+Bb4@10>3
+  bass   : F2+Bb2@1>9 F2@12>1
+  lead   : F5@1>3 G4@4>3 Bb4@7>3 C5@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : D4@1>3 F4@4>3 Bb4@7>3 C5@10>3
+  Part6  : Bb4@1>12
+@27 [A# | F]
+  piano  : D4+F4+A4+C5@1>3 D4+F4+A4+C5@4>3 D4+F4+A4+C5@7>3 D4+F4+A4+C5@10>3
+  bass   : F2+Bb2@1>9 Bb2@12>1
+  lead   : F5@4>6 G5@10>3
+  Part4  : Bb2@1>9 F3@10>3
+  Part5  : D5@1>1 F5@3>3 F5@6>7
+  Part6  : C5@4>9
+@28 [A#]
+  piano  : D4+F4+G4+Bb4@1>3 D4+F4+G4+Bb4@4>3 D4+F4+G4+Bb4@7>3 D4+F4+G4+Bb4@10>3
+  bass   : F2+Bb2@1>9 F2@12>1
+  lead   : F5@1>3 Bb4@4>3 Bb4@7>3 C5@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : F5@1>12
+  Part6  : Bb4@1>12
+@29 [A#7]
+  piano  : D4+F4+A4+C5@1>3 D4+F4+A4+C5@4>3 D4+F4+A4+C5@7>3 D4+F4+A4+C5@10>3
+  bass   : F2+Bb2@1>9 Bb2@12>1
+  lead   : F5@4>6 G5@10>3
+  Part4  : Bb2@1>9 F3@10>3
+  Part6  : D5@4>3 Bb4@7>3 C5@10>1 Bb4@12>1
+@30 [A#]
+  piano  : D4+F4+G4+Bb4@1>3 D4+F4+G4+Bb4@4>3 D4+F4+G4+Bb4@7>3 D4+F4+G4+Bb4@10>3
+  bass   : F2+Bb2@1>9 F2@12>1
+  lead   : F5@1>3 Bb4@4>3 Bb4@7>3 C5@10>3
+  Part4  : F2@1>5 F2@5>1 F2@8>2 G2@10>3
+  Part5  : D4@1>3 F4@4>3 Bb4@7>3 C5@10>3
+  Part6  : Bb4@1>12
+@31 [C7]
+  piano  : E4+G4+Bb4@1>3 E4+G4+Bb4@4>3 E4+G4+Bb4@7>3 E4+G4+Bb4@10>3
+  bass   : F2+C3@1>9 C#3@12>1
+  lead   : G5@4>6 A5@10>3
+  Part4  : C3@1>9 G3@10>3
+  Part5  : D5@1>3 C5@4>1 C5@6>7
+  Part6  : G4@11>2
+@32 [Gm7]
+  piano  : F4+G4+Bb4@1>3 F4+G4+Bb4@4>3 F4+G4+Bb4@7>3 F4+G4+Bb4@10>3
+  bass   : C#3+D3@1>3 G2@4>6 G2@12>1
+  lead   : G5@1>3 Bb4@4>3 C5@7>3 Bb4@10>3
+  Part4  : G2@1>5 G2@5>1 G2@8>2 A2@10>3
+  Part6  : G4@1>3 G4@3>1 Bb4@4>3 C5@7>3 Bb4@10>3
+@33 [C]
+  piano  : E4+G4+Bb4@1>3 E4+G4+Bb4@4>3 E4+G4+Bb4@7>3 E4+G4+Bb4@10>3
+  bass   : G2+C3@1>9 C3@12>1
+  lead   : G5@4>6 A5@10>3
+  Part4  : C3@1>9 G3@10>3
+  Part5  : D5@1>3 C5@4>9 C5@6>7
+  Part6  : G4@12>1
+@34 [Gm | C7]
+  piano  : F4+G4+Bb4@1>3 F4+G4+Bb4@4>3 E4+G4+Bb4@7>3 E4+G4+Bb4@10>3
+  bass   : G2+C3@1>6 C3@7>6
+  lead   : G5@1>3 D5@4>3 C5@7>3 Bb4@10>3
+  Part4  : G2@1>5 G2@5>1 C3@7>6
+  Part6  : G4@1>3 G4@3>1 Bb4@4>3 C5@7>3 C5@9>1 Bb4@10>3
+@35 [F]
+  piano  : C4+Eb4+F4+A4@1>3 C4+Eb4+F4+A4@4>3 C4+Eb4+F4+A4@7>3 C4+Eb4+F4+A4@10>3
+  bass   : F2@1>9 F2@12>1
+  lead   : C5@4>6 D5@10>3
+  Part4  : F2@1>12
+  Part6  : F4@1>12
+@36 [F7]
+  piano  : C4+Eb4+F4+A4@1>3 C4+Eb4+F4+A4@4>3 C4+Eb4+F4+A4@7>3 C4+Eb4+F4+A4@10>3
+  bass   : F2+G2@1>3 C3@4>6 G2@12>1
+  lead   : C5@1>3 F4@4>3 G4@7>3 F4@10>3
+  Part6  : F4@4>3 G4@7>3 Bb4@10>3
+@37 [F7]
+  piano  : C4+Eb4+F4+A4@1>3 C4+Eb4+F4+A4@4>3 C4+Eb4+F4+A4@7>3 C4+Eb4+F4+A4@10>3
+  bass   : F2+G2@1>9 Eb2@12>1
+  lead   : C5@4>6 D5@10>3 C5@12>1
+@38 [F7]
+  piano  : D4+E4+G4+Bb4@1>3 C4+Eb4+F4+A4@4>9
+  bass   : Eb2+F2@1>1 C2@3>2 F2@4>9
+  lead   : D5+E5+G5+Bb5@1>3 C5+Eb5+F5+A5@4>9
+@39 [F7] (grid:4)
+  piano  : C4+Eb4+F4+A4@1>4
+  bass   : F2@1>4
+  lead   : C5+Eb5+F5+A5@1>4
+@40 [E7 | F#m] (grid:8)
+  Part9  : E3@1>1 D3@2>1 C#3@3>1 B2@4>1 A2@5>1 G2@6>1 F#2@7>2
+@41 [Bm7 | D] (grid:8)
+  lead   : D5@1>1 E5@2>1 F#5@3>1 F#5@4>2 G5@6>1 F#5@7>1 G5@8>1
+  strings: D4+E4+F#4+A4+B4@1>8
+  Part9  : F#2+E3@1>2 D3@2>1 C#3@3>1 B2@4>1 A2@5>1 G2@6>1 F#2@7>2
+@42 [Bm7 | D] (grid:8)
+  lead   : F#5@1>1 E5@2>1 D5@3>1 D5@4>1 D5@5>1 E5@6>3
+  strings: D4+E4+F#4+A4+B4@1>8
+  Part9  : F#2+E3@1>2 D3@2>1 C#3@3>1 B2@4>1 A2@5>1 G2@6>1 F#2@7>2
+@43 [Bm7 | D] (grid:8)
+  lead   : E5@1>8
+  strings: D4+E4+F#4+A4+B4@1>8
+  Part9  : F#2+E3@1>2 D3@2>1 C#3@3>1 B2@4>1 A2@5>1 G2@6>1 F#2@7>2
+@44 [Bm] (grid:8)
+  lead   : E5@1>8
+  Part4  : D2@1>2 D2@3>1 D2@5>1 D2@7>2
+  Part5  : B5@3>6
+  strings: D4+E4+F#4+A4+B4@1>2 D4+E4+F#4+A4+B4@3>6
+  Part9  : F#2+E3@1>2 D3@2>1 C#3@3>1 B2@4>1 A2@5>1 G2@6>1 F#2@7>2
+@45 [Bm] (grid:8)
+  lead   : E5@1>7
+  Part4  : B1+D2@1>8 B1@3>1 B1@5>4
+  Part5  : B5@1>8
+  strings: D4+E4+F#4+A4+B4@1>8
+  Part9  : F#2+E3@1>2 D3@2>1 C#3@3>1 B2@4>1 A2@5>1 G2@6>1 F#2@7>2
+@46 [Bm] (grid:8)
+  Part4  : B1+D2@1>8
+  Part5  : B5@1>8
+  Part9  : F#2+E3@1>2 D3@2>1 C#3@3>1 B2@4>1 A2@5>1 G2@6>1 F#2@7>2
+@47 [Bm]
+  lead   : D5@1>12
+  Part4  : B1@1>3 B1@4>1 B1@6>1 B1@10>3
+  Part5  : B5@1>12
+  strings: E4+F#4+A4+B4@1>12
+  Part9  : F#2@1>3
+@48 [Bm] (grid:24t)
+  lead   : D5@1>6 E5@7>18
+  Part4  : B1@1>3 B1@4>2 B1@5>2 B1@13>6 B1@17>2
+  Part5  : B5@1>24
+  strings: D4+E4+F#4+A4+B4@1>24
+@49 [Bm7] (grid:4)
+  lead   : E5@1>4
+  Part4  : B1@1>3 A1@4>1
+  Part5  : B5@1>4
+  strings: D4+E4+F#4+A4+B4@1>4
+@50 [E7] (grid:4)
+  lead   : E5@1>4
+  Part4  : A1@1>1 A1@2>1 A1@4>1
+  Part5  : B5@1>4
+  strings: D4+E4+F#4+A4+B4@1>4
+@51 [E7] (grid:4)
+  lead   : E5@1>4
+  Part4  : A1@1>2
+  Part5  : B5@1>4
+  strings: D4+E4+F#4+A4+B4@1>4
+@52 [Bm]
+  lead   : D5@1>12
+  Part4  : B1@1>3 B1@4>1 B1@6>1 B1@10>3
+  Part5  : B5@1>12
+  strings: D4+E4+F#4+A4+B4@1>12
+@53 [Bm | B] (grid:24t)
+  lead   : D5@1>6 E5@7>18
+  Part4  : B1@1>3 B1@4>2 B1@5>2 B1@13>6 B1@17>2
+  Part5  : B5@1>24
+  strings: D4+E4+F#4+A4+B4@1>24
+@54 [B7] (grid:16)
+  lead   : E5@1>16
+  Part4  : B1@1>12 B4@2>8 F#4@9>8 A1@13>4
+  Part5  : B5@1>16
+  strings: F#4+A4+B4@1>16
+@55 [A | B7] (grid:4)
+  lead   : E5@1>4
+  Part4  : A1+A4@1>2 A1@2>2 A1@4>1
+  Part5  : B5@1>4
+  strings: F#4+A4+B4@1>4
+@56 [A | B7] (grid:4)
+  lead   : E5@1>4
+  Part4  : A1@1>2
+  Part5  : B5@1>4
+  strings: F#4+A4+B4@1>4
+@57 [Bm]
+  lead   : D5@1>12
+  Part4  : B1@1>3 B1@4>1 B1@6>1 B1@10>3
+  Part5  : B5@1>12
+  strings: F#4+A4+B4@1>12
+@58 [Bm | E] (grid:24t)
+  lead   : D5@1>6 E5@7>18
+  Part4  : B1@1>3 B1@4>2 B1@5>2 B1@13>6 B1@17>2
+  Part5  : B5@1>24
+  strings: D4+E4+F#4+A4+B4@1>24
+@59 [E | B7] (grid:4)
+  lead   : E5@1>4
+  Part4  : B1+B4@1>3 F#4@3>2 A1@4>1
+  Part5  : B5@1>4
+  strings: E4+F#4+A4+B4@1>4
+@60 [A | E] (grid:4)
+  lead   : E5@1>4
+  Part4  : A1+A4@1>2 A1@2>2 A1@4>1
+  Part5  : B5@1>4
+  strings: E4+F#4+A4+B4@1>4
+@61 [E] (grid:4)
+  lead   : E5@1>4
+  Part4  : A1@1>2
+  Part5  : B5@1>4
+  strings: E4+F#4+A4+B4@1>4
+@62 [E | Bm7] (grid:4)
+  lead   : E5@1>4
+  Part4  : B2@1>1 D3@2>1 F#3+A3@3>1 D3+F#3@4>1
+  Part5  : B5@1>4
+  strings: E4+F#4+A4+B4@1>4
+@63 [Em7] (grid:4)
+  lead   : E5@1>4
+  Part4  : A3@1>1 G3+D4@2>3
+  Part5  : B5@1>4
+  strings: D4+E4+F#4+A4+B4@1>4
+@64 [Em] (grid:8)
+  piano  : C5+E5+G5@1>3 C5+E5+G5+A5@3>2 C5+E5+G5+C6@5>3 C5+E5+G5+A5@7>2
+  Part4  : G3@7>2
+  Part6  : G5@3>4 F5@7>2
+  strings: B3+E4+G4+A4+B4@1>8 G5@2>7
+@65 [C]
+  piano  : C5+E5+G5@1>4 C5@3>1 E5+G5@4>3 C5+E5+G5@7>4 C5+E5+G5+A5@10>3
+  Part4  : G2@1>5 G2@5>1 G2@9>1 A2@10>3
+  Part6  : E5@1>6 C5@7>6
+  strings: G5@1>12
+@66 [C] (grid:8)
+  piano  : C5+E5+G5@1>3 C5@2>1 E5+G5@3>2 C5+E5+G5@5>3 C5+E5+G5+A5@7>2
+  Part4  : C3@1>6 G3@7>2
+  Part6  : G5@3>4 F5@7>2
+  strings: G5@1>1
+@67 [C]
+  piano  : C5+E5+G5+C6@1>4 G5@3>1 C5+E5+C6@4>4 C5+E5+G5+C6@7>4 C5+E5+G5+A5+C6@10>3
+  Part4  : G2@1>5 G2@5>1 G2@9>1 A2@10>3
+  Part6  : E5@1>6 C5@7>6
+@68 [C] (grid:4)
+  piano  : C5+E5+G5@1>1 C5+E5+G5+A5@2>1 C5+E5+G5+C6@3>1 C5+E5+G5+A5@4>1
+  bass   : C2@1>1 C3@2>2 A2@4>1
+  Part4  : C3@1>3 G3@4>1
+  Part5  : G4@3>1 A4@4>1
+  Part6  : G5@2>2 F5@4>1
+@69 [C]
+  piano  : C5+E5+G5@1>4 C5@3>1 E5+G5@4>3 C5+E5+G5@7>4 C5+E5+G5+A5@10>3
+  bass   : G2@1>9 G2@10>1
+  Part4  : G2@1>5 G2@5>1 G2@9>1 A2@10>3
+  Part5  : C5@1>5 C5@5>1 C5@9>1 A4@10>3
+  Part6  : E5@1>6 C5@7>6
+@70 [C] (grid:8)
+  piano  : C5+E5+G5@1>3 C5@2>1 E5+G5@3>2 C5+E5+G5@5>3 C5+E5+G5+A5@7>2
+  bass   : C2@1>2 C3@3>4 A2@7>2
+  Part4  : C3@1>6 G3@7>2
+  Part5  : G4@5>2 A4@7>2
+  Part6  : G5@3>4 F5@7>2
+@71 [C]
+  piano  : C5+E5+G5+C6@1>4 G5@3>1 C5+E5+C6@4>4 C5+E5+G5+C6@7>4 C5+E5+G5+A5+C6@10>3
+  bass   : G2@1>9 G2@10>3
+  Part4  : G2@1>5 G2@5>1 G2@9>1 A2@10>3
+  Part5  : C5@1>5 C5@5>1 C5@9>1 A4@10>3
+  Part6  : E5@1>6 C5@7>6
+@72 [C] (grid:4)
+  piano  : C5+E5+G5@1>1 C5+E5+G5+A5@2>1 C5+E5+G5+C6@3>1 C5+E5+G5+A5@4>1
+  bass   : C2@1>1 C3@2>2 A2@4>1
+  Part4  : C3@1>3 G3@4>1
+  Part5  : G4@3>1 A4@4>1
+  Part6  : G5@2>2 F5@4>1
+@73 [C]
+  piano  : C5+E5+G5@1>4 C5@3>1 E5+G5@4>3 C5+E5+G5@7>4 C5+E5+G5+A5@10>3
+  bass   : G2@1>9 G2@10>1
+  Part4  : G2@1>5 G2@5>1 G2@9>1 A2@10>3
+  Part5  : C5@1>5 C5@5>1 C5@9>1 A4@10>3
+  Part6  : E5@1>6 C5@7>6
+@74 [C] (grid:8)
+  piano  : C5+E5+G5@1>3 C5@2>1 E5+G5@3>2 C5+E5+G5@5>3 C5+E5+G5+A5@7>2
+  bass   : C2@1>2 C3@3>4 A2@7>2
+  Part4  : C3@1>6 G3@7>2
+  Part5  : G4@5>2 A4@7>2
+  Part6  : G5@3>4 F5@7>2
+@75 [C]
+  piano  : C5+E5+G5+C6@1>4 G5@3>1 C5+E5+C6@4>4 C5+E5+G5+C6@7>4 C5+E5+G5+A5+C6@10>3
+  bass   : G2@1>9 G2@10>3
+  Part4  : G2@1>5 G2@5>1 G2@9>1 A2@10>3
+  Part5  : C5@1>5 C5@5>1 C5@9>1 A4@10>3
+  Part6  : E5@1>6 C5@7>6
+@76 [D] (grid:4)
+  piano  : D5+G5+A5+D6@1>4
+  bass   : D2@1>1 D3@2>2 D2@4>1
+  lead   : A4@1>3 D4@4>1
+@77 [Am] (grid:4)
+  piano  : A4+G5+A5+C6@1>4
+  bass   : A2@1>3 A2@4>1
+  lead   : E4@1>2 A4@3>1 E4@4>1
+@78 [Em | E] (grid:4)
+  piano  : B4+E5+G5+B5@1>4
+  bass   : E2@1>3 E2@4>1
+  lead   : E4@1>3
+@79 [F | G]
+  piano  : A4+C5+F5+A5@1>6 B4+D5+G5+B5@7>6
+  bass   : F2@1>6 G2@7>6
+  lead   : F4@1>4 F4@4>1 F4@6>1 F4@7>2 G4@8>5
+@80 [C]
+  piano  : C5+E5+G5@1>4 C5+E5+G5+A5@4>3 C5+E5+G5+C6@7>4 C5+E5+G5+A5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G4@4>2 G4@6>1 G4@7>1 G4@8>2 F4@10>3
+  Part5  : D5@1>12
+@81 [C] (grid:8)
+  piano  : C5+E5+G5@1>3 C5@2>1 E5+G5@3>2 C5+E5+G5@5>3 C5+E5+G5+A5@7>2
+  bass   : G2@1>6 G2@7>1
+  lead   : E4@1>2 C4@3>2 D4@5>2 E4@7>2
+  Part5  : C5@1>8
+  Part6  : E4@1>2 G4@3>2 C5@5>2 D5@7>2
+@82 [C]
+  piano  : C5+E5+G5@1>4 C5@3>1 E5+G5@4>3 C5+E5+G5@7>4 C5+E5+G5+A5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G5@4>2 G5@6>1 G5@7>3 G5@9>1 F5@10>3
+  Part5  : D5@1>12
+  Part6  : E5@1>2 G5@3>3 G5@6>6
+@83 [C] (grid:8)
+  piano  : C5+E5+G5+C6@1>3 G5@2>1 C5+E5+C6@3>3 C5+E5+G5+C6@5>3 C5+E5+G5+A5+C6@7>2
+  bass   : G2@1>6 G2@7>2
+  lead   : E5@1>2 C5@3>2 D5@5>2 E5@7>2
+  Part5  : C5@1>8
+@84 [C]
+  piano  : C5+E5+G5@1>4 C5+E5+G5+A5@4>3 C5+E5+C6@7>4 G5@8>3 C5+E5+G5+A5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G4@4>2 G4@6>1 G4@7>1 G4@9>2 F4@10>3
+  Part5  : D5@1>12
+@85 [C] (grid:8)
+  piano  : C5+E5+G5@1>3 C5@2>1 E5+G5@3>1 C5+E5+G5@5>3 C5+E5+G5+A5@7>2
+  bass   : G2@1>6 G2@7>1
+  lead   : E4@1>2 C4@3>2 D4@5>2 E4@7>2
+  Part5  : C5@1>8
+  Part6  : E4@1>2 G4@3>2 C5@5>2 D5@7>2
+@86 [C]
+  piano  : C5+E5+G5@1>4 C5@3>1 E5+G5@4>3 C5+E5+G5@7>4 C5+E5+G5+A5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G5@4>2 G5@6>1 G5@7>3 G5@9>1 F5@10>3
+  Part5  : D5@1>12
+  Part6  : E5@1>2 G5@3>3 G5@6>6
+@87 [C] (grid:8)
+  piano  : C5+E5+G5+C6@1>3 G5@2>1 C5+E5+C6@3>3 C5+E5+G5+C6@5>3 C5+E5+G5+A5+C6@7>2
+  bass   : G2@1>6 G2@7>1
+  lead   : E5@1>2 C5@3>2 D5@5>2 E5@7>2
+  Part5  : C5@1>8
+@88 [D] (grid:4)
+  piano  : D5+G5+A5+D6@1>1 E5+G5+A5+D6@2>1 E5+G5+A5+D6@3>1 E5+G5+A5+D6@4>1
+  bass   : D2@1>1 D3@2>2 D2@4>1
+  lead   : A4@1>3 D4@4>1
+@89 [Am]
+  piano  : C5+E5+C6@1>4 G5+A5@2>3 C5+E5+G5+A5+C6@4>4 C5+E5+G5+A5+C6@7>4 C5+E5+G5+A5@10>1 C6@11>2
+  bass   : A2@1>9 A2@10>3
+  lead   : E4@1>6 C5@7>3 E4@10>3
+@90 [Em] (grid:4)
+  piano  : B4+E5+G5+B5+C6@1>1 B4+E5+G5+B5@2>1 B4+E5+G5+B5@3>1 B4+D5+G5+B5@4>1
+  bass   : E2@1>3 E2@4>1
+  lead   : E4@1>3
+@91 [F | G]
+  piano  : A4+C5+F5+A5@1>4 A4+C5+F5+A5@4>3 B4+D5+G5+B5@7>4 B4+D5+G5+B5@10>3
+  bass   : F2@1>6 G2@7>6
+  lead   : F4@1>4 F4@4>1 F4@6>1 F4@7>2 G4@8>5
+@92 [C]
+  piano  : C5+E5+G5@1>4 C5+E5+G5+A5@4>3 C5+E5+G5+C6@7>4 C5+E5+G5+A5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G4@4>2 G4@6>1 G4@7>1 G4@8>2 F4@10>3
+  Part5  : D5@1>12
+@93 [C] (grid:8)
+  piano  : C5+E5+G5@1>3 C5@2>1 E5+G5@3>2 C5+E5+G5@5>3 C5+E5+G5+A5@7>2
+  bass   : G2@1>6 G2@7>1
+  lead   : E4@1>2 C4@3>2 D4@5>2 E4@7>2
+  Part5  : C5@1>8
+  Part6  : E4@1>2 G4@3>2 C5@5>2 D5@7>2
+@94 [C]
+  piano  : C5+E5+G5@1>4 C5@3>1 E5+G5@4>3 C5+E5+G5@7>4 C5+E5+G5+A5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G5@4>2 G5@6>1 G5@7>3 G5@9>1 F5@10>3
+  Part5  : D5@1>12
+  Part6  : E5@1>2 G5@3>3 G5@6>6
+@95 [C] (grid:8)
+  piano  : C5+E5+G5+C6@1>3 G5@2>1 C5+E5+C6@3>3 C5+E5+G5+C6@5>3 C5+E5+G5+A5+C6@7>2
+  bass   : G2@1>6 G2@7>2
+  lead   : E5@1>2 C5@3>2 D5@5>2 E5@7>2
+  Part5  : C5@1>8
+@96 [Am | Gm7] (grid:4)
+  piano  : A4+C5+E5+A5@1>3 G4+Bb4+D5+G5@4>1
+  bass   : F2@1>3 F2@4>1
+  lead   : C5+E5+A5@1>3 Bb4+D5+G5@4>1
+@97 [F] (grid:4)
+  piano  : F4+A4+C5+F5@1>3 G4+Bb4+D5+G5@4>1
+  bass   : C3@1>4
+  lead   : A4+C5+F5@1>3 Bb4+D5+G5@4>1
+@98 [Am | F7] (grid:4)
+  piano  : A4+C5+E5+A5@1>3 C5@3>1 G4+Bb4+D5+G5@4>1
+  bass   : F2@1>3 F2@4>1
+  lead   : C5+E5+A5@1>3 Bb4+D5+G5@4>1
+  Part6  : C5@3>1 D5@4>1
+@99 [F]
+  piano  : F4+A4+C5+F5@1>9
+  bass   : C3@1>9 D2@12>1
+  lead   : A4+C5+F5@1>9
+@100 [Em7] (grid:4)
+  piano  : D5+E5+G5+B5@1>2 D5+E5+G5+B5@3>2
+  bass   : D2+E2@1>2 E2@3>2
+  lead   : E4+D5+G5+B5@1>4 D5+B5@3>2
+  Part4  : E3@1>2 E3@3>2
+@101 [Em] (grid:4)
+  piano  : D5+E5+G5+B5@1>2 D5+E5+G5+B5@3>2
+  bass   : E2@1>2 E2@3>1 E3@4>1
+  lead   : E4+D5+G5+B5@1>4 D5+G5+B5@3>2
+  Part4  : E3@1>2 E3@3>2
+@102 [Dm7] (grid:4)
+  piano  : D5+E5+G5+B5@1>1 C5+D5+F5+A5@2>3
+  bass   : D3@1>4
+  lead   : E4+E5+G5+B5@1>1 D4+C5+F5+A5@2>3
+  Part4  : E3@1>1 D3@2>3
+@103 [Dm7] (grid:4)
+  piano  : C5+D5+F5+A5@1>4
+  bass   : D3@1>2 D2@3>2
+  lead   : D4+C5+D5+F5+A5@1>4 C5@2>3
+  Part4  : D3@1>3
+  Part6  : D5@1>1 C5@2>2
+@104 [G]
+  bass   : G2@1>12
+  Part4  : B2@4>2 C3@6>1 D3@7>1 E3@8>2 D3@10>3
+@105 [G]
+  bass   : G2@1>12
+  Part4  : B2@4>2 C3@6>1 D3@7>3
+@106 [D]
+  bass   : D2@1>12
+  Part4  : D3@4>3 D3@7>3 D3@9>1 E3@10>3
+@107 [G] (grid:6t)
+  bass   : G2@1>6
+  Part4  : G3@1>1 G2@2>2 G2@3>1
+@108 [G | Em7] (grid:4)
+  piano  : E5+G5+B5+D6@1>1 E5+G5+B5+D6@2>1 E5+G5+B5+D6@3>1 E5+G5+B5+D6@4>1
+  bass   : C2@1>1 C3@2>2 A2@4>1
+  lead   : G5@2>2 A5@4>1
+@109 [C]
+  piano  : E5+G5+A5+C6@1>4 E5+G5+A5+C6@4>1 E5+G5+A5+C6@7>4 E5+G5+A5+C6@10>3
+  bass   : G2@1>12
+  lead   : G5@1>3 E5@4>3 C5@7>2 D5@9>4
+@110 [C7 | Em] (grid:4)
+  piano  : E5+G5+B5+D6@1>1 E5+G5+B5+D6@2>1 E5+G5+B5+D6@3>1 E5+G5+B5+D6@4>1
+  bass   : C2@1>1 C3@2>2 A2@4>1
+  lead   : E5@1>4
+@111 [C] (grid:4)
+  piano  : E5+G5+A5+C6@1>1 E5+G5+A5+C6@2>1 E5+G5+A5+C6@3>1 E5+G5+A5+C6@4>1
+  bass   : G2@1>4
+  lead   : E5@1>4
+@112 [Gm] (grid:16)
+  piano  : G4+Bb4+D5+G5@5>12
+  bass   : Bb2@1>12 Bb2@13>1
+  lead   : D5+G5@1>16 F5@13>4
+  banjo  : D6@5>1 D6@6>1 D6@8>1 D6@9>1 D6@10>1 D6@11>1 D6@12>1 D6@14>1 D6@15>1 D6@16>1
+@113 [Gm] (grid:4)
+  piano  : G4+Bb4+D5+G5@1>4
+  bass   : C3@1>3 C3@4>1
+  lead   : E5+G5@1>4 C5@4>1
+  banjo  : C6@1>1 Bb5@2>1 A5@3>1 Bb5@4>1
+@114 [Gm] (grid:16)
+  piano  : D4+F4+G4+Bb4@5>12
+  bass   : Bb2@1>12 Bb2@13>1
+  lead   : Bb4+D5+G5@1>32 C5@4>1 A4@5>1 Bb4@6>3 G4@9>8
+  banjo  : A5@1>4 F5@5>3 G5@8>1 G5@9>1 G5@10>1 G5@11>1 G5@13>1 G5@14>1 G5@15>1 G5@16>1
+@115 [Gm | A#] (grid:16)
+  piano  : D4+F4+G4+Bb4@1>16
+  bass   : Bb2@1>4 Bb2@5>4 Bb2@9>1 Bb2@12>5
+  banjo  : G5@1>1 G5@2>1 F#5+G5@3>1 G5@4>1 G5@6>1 G5@7>1
+@116 [G] (grid:4)
+  piano  : B4+D5+E5+G5@1>1 B4+D5+E5+G5@2>1 B4+D5+E5+G5@3>1 B4+D5+E5+G5@4>1
+  bass   : C2+Bb2@1>1 C3@2>2 A2@4>1
+  lead   : G4+D5@1>4
+  Part5  : G4@2>2 A4@4>1
+  Part6  : G4@2>2 A4@4>1
+@117 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : E5@4>2 Eb5@6>1 E5@7>2 Eb5@9>1 E5@10>2 Eb5@12>1
+  Part5  : C5@1>12
+  Part6  : C5@1>12
+@118 [C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : E5@1>2 G5@3>1 E5@4>1 C5@5>6
+  Part5  : E5+G5@4>7 C5+E5@10>3
+  Part6  : E5+G5@4>9 C5@10>3
+@119 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : C5@4>3 G4@7>2 G4@9>1 A4@10>1 G4@11>2
+  Part5  : E5+G5@1>5 E5@5>1 C5@6>6
+  Part6  : E5+G5@1>10 C5@6>6
+@120 [G | C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G4@1>2 Bb4@3>1 A4@4>1 G4@6>7
+  Part5  : G4@4>6 A4@10>3
+  Part6  : G4@4>6 A4@10>3
+@121 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : E5@4>2 Eb5@6>1 E5@7>2 Eb5@9>1 E5@10>2 Eb5@12>1
+  Part5  : C5@1>12
+  Part6  : C5@1>12
+@122 [C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : E5@1>2 G5@3>1 E5@4>1 C5@5>6
+  Part5  : E5+G5@4>9 C5@10>3
+  Part6  : E5+G5@4>9 C5@10>3
+@123 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : C5@4>3 G4@7>2 G4@9>1 A4@10>1 G4@11>2
+  Part5  : E5+G5@1>10 C5@6>6
+  Part6  : E5+G5@1>10 C5@6>6
+@124 [G | C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G4@1>2 Bb4@3>1 A4@4>1 G4@6>7
+  Part5  : G4@4>6 A4@10>3
+  Part6  : G4@4>6 A4@10>3
+@125 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : E5@4>2 Eb5@6>1 E5@7>2 Eb5@9>1 E5@10>2 Eb5@12>1
+  Part5  : C5@1>12
+  Part6  : C5@1>12
+@126 [C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : E5@1>2 G5@3>1 E5@4>1 C5@5>6
+  Part5  : E5+G5@4>9 C5@10>3
+  Part6  : E5+G5@4>9 C5@10>3
+@127 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : C5@4>3 G4@7>2 G4@9>1 A4@10>1 G4@11>2
+  Part5  : E5+G5@1>10 C5@6>6
+  Part6  : E5+G5@1>10 C5@6>6
+@128 [G | C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G4@1>2 Bb4@3>1 A4@4>1 G4@6>7
+  Part5  : G4@4>6 A4@10>3
+  Part6  : G4@4>6 A4@10>3
+@129 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : E5@4>2 Eb5@6>1 E5@7>2 Eb5@9>1 E5@10>2 Eb5@12>1
+  Part5  : C5@1>12
+  Part6  : C5@1>12
+@130 [C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : E5@1>2 G5@3>1 E5@4>2 C5@5>6
+  Part5  : E5+G5@4>9 C5@10>3
+  Part6  : E5+G5@4>9 C5@10>3
+@131 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : C5@4>3 G4@7>2 G4@9>1 A4@10>1 G4@12>1
+  Part5  : E5+G5@1>10 C5@6>6
+  Part6  : E5+G5@1>11 C5@6>6
+@132 [G | C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G4@1>2 Bb4@3>1 A4@4>1 G4@6>7
+  Part5  : G4@4>6 A4@10>3
+  Part6  : G4@4>6 A4@10>3
+@133 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : E5@4>2 Eb5@6>1 E5@7>2 Eb5@9>1 E5@10>2 Eb5@12>1
+  Part5  : C5@1>12
+  Part6  : C5@1>12
+@134 [C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : E5@1>2 G5@3>1 E5@4>2 C5@5>6
+  Part5  : E5+G5@4>9 C5@10>3
+  Part6  : E5+G5@4>9 C5@10>3
+@135 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : C5@4>3 G4@7>2 G4@9>1 A4@10>1 G4@12>1
+  Part5  : E5+G5@1>10 C5@6>6
+  Part6  : E5+G5@1>11 C5@6>6
+@136 [G | C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : G4@1>2 Bb4@3>1 A4@4>2 G4@6>7
+  Part5  : G4@4>6 A4@10>3
+  Part6  : G4@4>6 A4@10>3
+@137 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3
+  bass   : G2@1>9 G2@10>3
+  lead   : E5@4>2 Eb5@6>1 E5@7>2 Eb5@9>1 E5@10>2 Eb5@12>1
+  Part5  : C5@1>12
+  Part6  : C5@1>12
+@138 [C7]
+  piano  : B4+D5+E5+G5@1>4 B4+D5+E5+G5@4>4 B4+D5+E5+G5@7>4 B4+D5+E5+G5@10>3
+  bass   : C2@1>3 C3@4>6 A2@10>3
+  lead   : E5@1>2 G5@3>1 E5@4>2 C5@6>6
+  Part5  : E5+G5@4>9 C5@10>3
+  Part6  : E5+G5@4>9 C5@10>3
+@139 [C]
+  piano  : A4+C5+E5+G5@1>4 A4+C5+E5+G5@4>1 A4+C5+E5+G5@7>4 A4+C5+E5+G5@10>3 A4+C5+E5+G5@11>2
+  bass   : G2@1>9 G2@10>3 G2@11>2
+  lead   : C5@4>3 G4@7>2 G4@9>1 A4@10>2 G4@12>1
+  Part5  : E5+G5@1>11 C5@6>6
+  Part6  : E5+G5@1>11 C5@6>6
+@140 [Edim | C]
+  bass   : G2@1>1
+  lead   : G4@1>2 Bb4@3>1 A4@4>2 G4@6>7 G4@11>2
+  Part5  : E5+G5@4>9 C5@10>3
+  Part6  : E5+G5@4>9 C5@10>3
+@141 [C]
+  Part5  : E5+G5@1>11 C5@6>6
+  Part6  : E5+G5@1>11 C5@6>6
+@142 [Em | C] (grid:4)
+  Part5  : E5+G5@2>3 C5@4>1
+  Part6  : E5+G5@2>3 C5@4>1
+@143 [C] (grid:6t)
+  Part5  : E5+G5@1>5 C5@3>3
+  Part6  : E5+G5@1>5 C5@3>3

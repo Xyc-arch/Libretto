@@ -1,0 +1,468 @@
+KEY: F major | METER: 4/4 | TEMPO: 152 | GRID: 12t | BARS: 64
+VOICES: Bass, Piano, Horns, Guitar, Melody
+
+# ====== HEAD A (bars 1-4): sparse, held chords, wide voicings ======
+
+@1 [Fmaj7] (grid:16)
+  Bass: F2@1>16
+  Piano: F2+A3+E4+G4@3>6
+  Horns: C4@3>12
+  Guitar: A3+E4+A4@5>4
+  Melody: C5@3>10
+
+@2 [Gm7] (grid:16)
+  Bass: G2@1>8 C3@9>8
+  Piano: G2+Bb3+F4+A4@3>4 D3+G3+C4+F4@11>4
+  Horns: D4@1>16
+  Guitar: Bb3+D4+A4@7>6
+  Melody: D5@5>8 Bb4@13>4
+
+@3 [C7b9] (grid:16)
+  Bass: C2@1>8 B1@9>8
+  Piano: C2+E3+Bb3+Db4@3>4 G3+Bb3+Db4+F4@11>4
+  Horns: E4@1>16
+  Guitar: E3+Bb3+Db4@5>6
+  Melody: E5@3>6 G4@11>4
+
+@4 [Fmaj7] (grid:16)
+  Bass: F2@1>16
+  Piano: F2+A3+C4+E4+G4@1>16
+  Horns: C5@1>16
+  Guitar: A3+E4+A4@3>8
+  Melody: A4@1>16
+
+# ====== HEAD B (bars 5-8): swing feel, off-beat comping begins ======
+
+@5 [Fmaj7]
+  Bass: F2@1>3 G2@4>3 A2@7>3 Bb2@10>3
+  Piano: A3+E4+A4@2>2 F3+C4+E4@8>2
+  Horns: A4@1>4 C5@5>2 A4@7>2 F4@9>3
+  Guitar: C4+E4+A4@3>2 A3+E4+G4@11>2
+  Melody: A4@2>3 C5@6>2 A4@8>2 F4@10>3
+
+@6 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+F4+A4@2>2 D3+G3+C4@8>2
+  Horns: D5@1>4 F4@5>2 Bb4@7>2 D5@9>3
+  Guitar: G3+D4+F4+A4@3>2 Bb3+D4+G4@11>2
+  Melody: D5@2>3 C5@5>2 Bb4@8>3 G4@12>1
+
+@7 [C7b9]
+  Bass: C2@1>3 B1@4>3 Bb1@7>3 A1@10>3
+  Piano: E3+Bb3+Db4@2>2 G3+Bb3+Db4+F4@8>2
+  Horns: E5@1>2 Eb5@3>2 D5@5>4 C5@9>3
+  Guitar: E3+Bb3+F4@3>2 Db4+F4@11>2
+  Melody: E5@2>2 Db5@5>2 Bb4@8>2 G4@10>3
+
+@8 [Fmaj7]
+  Bass: F2@1>3 E2@4>3 Eb2@7>3 D2@10>3
+  Piano: A3+C4+E4@3>2 A3+C4+E4@9>2
+  Horns: F4@1>6 A4@7>3 C5@10>3
+  Guitar: C4+E4+A4@2>2 F3+A3+E4@8>3
+  Melody: F4@2>3 A4@6>3 C5@10>3
+
+# ====== SOLO SECTION 1 (bars 9-16): busy walking bass, dense melody runs ======
+
+@9 [Am7]
+  Bass: A2@1>3 G2@4>3 F2@7>3 E2@10>3
+  Piano: C4+E4+G4@2>2 A3+C4+G4@8>2
+  Horns: E5@1>3 D5@4>2 C5@7>3 A4@10>3
+  Guitar: E4+G4+C5@3>2 A3+C4+G4@11>2
+  Melody: E5@2>2 D5@5>2 C5@8>3 A4@11>2
+
+@10 [D7#9]
+  Bass: D2@1>3 C#2@4>3 C2@7>3 B1@10>3
+  Piano: F#3+C4+F4@2>2 A3+C4+F4@8>2
+  Horns: F#4@1>2 A4@3>2 C5@5>2 F4@8>4
+  Guitar: F#3+A3+C4+Eb4@3>2 A3+C4+F4@11>2
+  Melody: A4@2>2 F#4@5>2 C5@8>2 F4@11>1
+
+@11 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+D4+F4@2>2 G3+Bb3+F4@8>2
+  Horns: Bb4@1>3 D5@4>3 F5@8>2 Bb5@11>2
+  Guitar: Bb3+D4+G4+F4@3>2 G3+Bb3+D4@11>2
+  Melody: G4@2>2 Bb4@5>2 D5@8>3 F5@11>2
+
+@12 [C7] (grid:16)
+  Bass: C2@1>4 D2@5>4 Eb2@9>4 E2@13>4
+  Piano: E3+Bb3+D4@3>3 G3+Bb3+D4+F4@11>3
+  Horns: G4@3>4 E4@7>4 Bb4@11>4
+  Guitar: E3+G3+Bb3+D4@5>4 G3+Bb3+E4@13>2
+  Melody: G4@3>4 E4@8>3 Bb4@12>4
+
+@13 [Fmaj7]
+  Bass: F2@1>3 G2@4>3 A2@7>3 Bb2@10>3
+  Piano: A3+E4+A4@2>2 F3+C4+E4@8>2
+  Horns: A4@1>6 C5@7>3
+  Guitar: C4+E4+A4@3>2 F3+A3+E4@11>2
+  Melody: A4@2>4 C5@6>2 A4@8>2 F4@10>3
+
+@14 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+F4+A4@2>2 D3+G3+C4@8>2
+  Horns: D5@1>4 F4@5>2 Bb4@7>2 D5@9>3
+  Guitar: G3+Bb3+D4+F4@3>2 D3+G3+C4+F4@11>2
+  Melody: D5@2>3 C5@5>2 Bb4@8>2 G4@11>2
+
+@15 [C7b9]
+  Bass: C2@1>3 B1@4>3 Bb1@7>3 A1@10>3
+  Piano: E3+Bb3+Db4@2>2 G3+Bb3+Db4+F4@8>2
+  Horns: E5@1>2 Eb5@3>2 D5@5>4 C5@9>3
+  Guitar: E3+Bb3+Db4@3>2 G3+Bb3+F4@11>2
+  Melody: E5@2>2 Db5@5>2 Bb4@8>2 G4@11>2
+
+@16 [Fmaj7] (grid:16)
+  Bass: F2@1>8 E2@9>4 D2@13>4
+  Piano: A3+C4+E4@3>4 A3+C4+E4@11>4
+  Horns: F4@3>6 A4@9>3 C5@13>2
+  Guitar: F3+C4+E4+G4@5>6
+  Melody: F4@1>4 A4@5>4 C5@9>4 E5@13>4
+
+# ====== BRIDGE: chromatic ii-V motion, wide voicings (bars 17-28) ======
+
+@17 [Am7]
+  Bass: A2@1>3 G2@4>3 F2@7>3 E2@10>3
+  Piano: C4+E4+G4@2>2 A3+C4+G4@8>2
+  Horns: E5@1>4 C5@5>4 A4@9>4
+  Guitar: A3+E4+G4+C5@3>2 E4+G4+C5@11>2
+  Melody: E5@2>3 D5@5>2 C5@8>3 A4@11>2
+
+@18 [D7#9]
+  Bass: D2@1>3 C#2@4>3 C2@7>3 B1@10>3
+  Piano: F#3+C4+F4@2>2 A3+C4+F4@8>2
+  Horns: F#4@1>2 A4@3>2 C5@5>2 F4@8>4
+  Guitar: D3+F#3+A3+C4+Eb4@3>3 A3+C4+F4@11>2
+  Melody: A4@2>3 F#4@6>2 C5@9>2 F4@12>1
+
+@19 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+D4+F4@2>2 G3+Bb3+F4@8>2
+  Horns: Bb4@1>4 D5@5>4 F5@9>4
+  Guitar: G3+Bb3+D4+F4@3>2 G2+D4+F4+A4@11>2
+  Melody: G4@2>2 Bb4@5>3 D5@9>2 F5@12>1
+
+@20 [C7] (grid:16)
+  Bass: C2@1>4 D2@5>4 Eb2@9>4 E2@13>4
+  Piano: E3+Bb3+D4@3>3 G3+Bb3+D4+F4@11>3
+  Horns: G4@3>4 E4@7>4 Bb4@11>4
+  Guitar: C3+G3+Bb3+E4@5>4 G3+Bb3+D4@13>2
+  Melody: G4@3>3 E4@8>3 Bb4@12>3 G4@15>2
+
+@21 [Bb7] (grid:16)
+  Bass: Bb1@1>8 Eb2@9>8
+  Piano: D3+Ab3+C4+F4@3>4 F3+Ab3+Eb4+G4@11>4
+  Horns: Bb4@1>8 Ab4@9>8
+  Guitar: Bb2+F3+Ab3+D4@5>6 F3+Ab3+Eb4@13>4
+  Melody: Bb4@3>6 Ab4@10>6
+
+@22 [Eb7] (grid:16)
+  Bass: Eb2@1>8 Ab2@9>8
+  Piano: G3+Db4+F4@3>4 Bb3+Db4+G4+Bb4@11>4
+  Horns: G4@1>4 F4@5>4 Eb4@9>8
+  Guitar: Eb3+G3+Db4+F4@5>4 G3+Db4+Bb4@13>4
+  Melody: G4@3>4 F4@8>4 Eb4@12>4
+
+@23 [Ab7] (grid:16)
+  Bass: Ab1@1>8 Db2@9>8
+  Piano: C3+Gb3+Bb3+Eb4@3>4 Eb3+Gb3+C4+Eb4@11>4
+  Horns: Eb4@1>8 C4@9>8
+  Guitar: Ab2+Eb3+Gb3+C4@5>6
+  Melody: Eb4@3>4 Db4@8>4 C4@12>4
+
+@24 [Db7] (grid:16)
+  Bass: Db2@1>8 Gb2@9>8
+  Piano: F3+Cb4+Eb4+Ab4@3>4 Ab3+Cb4+F4+Ab4@11>4
+  Horns: Ab4@1>8 Gb4@9>8
+  Guitar: Db3+Ab3+Cb4+Eb4@5>6
+  Melody: Ab4@3>6 Gb4@10>6
+
+@25 [Gm7] (grid:16)
+  Bass: G2@1>8 C3@9>8
+  Piano: Bb3+D4+F4+A4@3>4 G3+Bb3+F4+A4@11>4
+  Horns: D5@1>8 Bb4@9>8
+  Guitar: G2+D4+F4+A4@5>6 Bb3+D4+G4@13>4
+  Melody: D5@3>6 Bb4@10>6
+
+@26 [C7b13] (grid:16)
+  Bass: C2@1>8 E2@9>8
+  Piano: E3+Bb3+Ab4+D5@3>4 G3+Bb3+D4+Ab4@11>4
+  Horns: G4@1>8 Bb4@9>8
+  Guitar: C3+E3+Bb3+Ab4@5>6
+  Melody: G4@3>4 Bb4@8>8
+
+@27 [Fmaj7+Dm7] (grid:16)
+  Bass: F2@1>8 A2@9>8
+  Piano: F2+A3+E4+A4+C5@3>4 D3+F3+A3+C4+E4@11>4
+  Horns: C5@1>8 A4@9>8
+  Guitar: A3+C4+E4+A4@5>6 F3+A3+D4+G4@13>4
+  Melody: C5@3>6 A4@10>6
+
+@28 [Gm7+C7] (grid:16)
+  Bass: G2@1>4 A2@5>4 C2@9>4 B1@13>4
+  Piano: Bb3+D4+F4@3>3 E3+Bb3+D4+F4@11>3
+  Horns: D5@3>4 F5@7>4 E5@11>3 C5@15>2
+  Guitar: G3+Bb3+D4+F4@5>3 E3+Bb3+E4@13>3
+  Melody: D5@3>3 F5@7>3 E5@11>3 C5@15>2
+
+# ====== SOLO SECTION 2 (bars 29-36): bebop runs, gap-fill, wider range ======
+
+@29 [Fmaj7]
+  Bass: F2@1>3 G2@4>3 A2@7>3 Bb2@10>3
+  Piano: A3+E4+A4@2>2 F3+C4+E4@8>2
+  Horns: A4@1>4 C5@5>2 A4@7>2 F4@9>3
+  Guitar: C4+E4+A4+C5@3>2 F3+A3+C4+E4@11>2
+  Melody: A4@2>2 C5@5>1 E5@6>2 G5@9>2 F5@11>2
+
+@30 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+F4+A4@2>2 D3+G3+C4+F4@8>2
+  Horns: D5@1>4 F4@5>2 Bb4@7>2 D5@9>3
+  Guitar: G3+Bb3+D4+F4@3>2 G2+D4+A4@11>2
+  Melody: D5@2>2 F5@5>2 A5@8>2 G5@10>2 Bb4@12>1
+
+@31 [C7b9]
+  Bass: C2@1>3 B1@4>3 Bb1@7>3 A1@10>3
+  Piano: E3+Bb3+Db4@2>2 G3+Bb3+Db4+F4@8>2
+  Horns: E5@1>2 Eb5@3>2 D5@5>4 C5@9>3
+  Guitar: E3+G3+Bb3+Db4@3>2 G3+Bb3+F4@11>2
+  Melody: E5@2>1 Eb5@3>1 D5@5>2 C5@8>2 G4@11>2
+
+@32 [Fmaj7] (grid:16)
+  Bass: F2@1>8 A2@9>8
+  Piano: A3+C4+E4@3>4 F3+A3+C4+E4@11>4
+  Horns: F4@3>6 A4@9>3 C5@13>2
+  Guitar: F3+C4+E4+A4@5>6
+  Melody: F4@1>4 A4@5>4 C5@9>4 F5@13>4
+
+@33 [Am7]
+  Bass: A2@1>3 G2@4>3 F2@7>3 E2@10>3
+  Piano: C4+E4+G4@2>2 A3+C4+G4@8>2
+  Horns: E5@1>3 D5@4>2 C5@7>3 A4@10>3
+  Guitar: A3+C4+E4+G4+B4@3>2 E4+G4+C5@11>2
+  Melody: E5@2>2 D5@5>1 C5@7>2 A4@9>2 F4@11>1
+
+@34 [D7#9]
+  Bass: D2@1>3 C#2@4>3 C2@7>3 B1@10>3
+  Piano: F#3+C4+F4@2>2 A3+C4+F4@8>2
+  Horns: F#4@1>2 A4@3>2 C5@5>2 F4@8>4
+  Guitar: D3+F#3+A3+C4+Eb4@3>2 A3+C4+F4@11>2
+  Melody: A4@2>2 F#4@5>2 C5@8>1 Eb5@9>1 F4@11>2
+
+@35 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+D4+F4@2>2 G3+Bb3+F4@8>2
+  Horns: Bb4@1>4 D5@5>4 F5@9>4
+  Guitar: G3+Bb3+D4+F4@3>2 G2+D4+F4+A4@11>2
+  Melody: G4@2>2 Bb4@5>2 D5@8>2 F5@11>2
+
+@36 [C7+Fmaj7] (grid:16)
+  Bass: C2@1>4 D2@5>4 F2@9>8
+  Piano: E3+Bb3+D4@3>3 F3+A3+C4+E4@9>8
+  Horns: G4@3>4 C5@7>8
+  Guitar: E3+Bb3+D4+F4@5>3 F3+A3+E4+A4@11>4
+  Melody: G4@3>3 F4@7>3 C5@11>6
+
+# ====== SHOUT CHORUS / TUTTI (bars 37-44): dense, wide range, guitar busy ======
+
+@37 [Fmaj7]
+  Bass: F2@1>3 G2@4>3 A2@7>3 Bb2@10>3
+  Piano: A3+C4+E4@2>2 A3+E4@8>2
+  Horns: C5@1>4 E5@5>2 G5@7>4 F5@11>2
+  Guitar: F3+A3+E4+A4@3>2 C4+E4+A4+C5@11>2
+  Melody: C5@2>2 E5@5>2 G5@8>3 F5@12>1
+
+@38 [Gm9]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+D4+F4+A4@2>2 G3+Bb3+F4@8>2
+  Horns: D5@1>3 F5@4>3 A5@8>2 G5@10>3
+  Guitar: G3+Bb3+D4+F4+A4@3>2 Bb3+D4+G4@11>2
+  Melody: D5@2>2 F5@5>2 A5@8>2 G5@11>2
+
+@39 [C13] (grid:16)
+  Bass: C2@1>4 B1@5>4 Bb1@9>4 A1@13>4
+  Piano: E3+Bb3+D4+A4@3>3 G3+Bb3+D4@11>3
+  Horns: G4@3>4 Bb4@7>4 A4@11>4
+  Guitar: C3+G3+Bb3+D4+A4@5>4 G3+Bb3+E4@13>2
+  Melody: G4@3>3 Bb4@7>3 A4@11>4
+
+@40 [F6+Dm7] (grid:16)
+  Bass: F2@1>8 A2@9>8
+  Piano: F3+A3+D4+G4@3>4 D3+F3+A3+C4@11>4
+  Horns: A4@1>8 F4@9>8
+  Guitar: F3+A3+D4+G4+C5@5>6 D3+A3+C4+F4@13>4
+  Melody: A4@3>6 F4@10>6
+
+@41 [Gm7+C7]
+  Bass: G2@1>3 A2@4>3 C2@7>3 B1@10>3
+  Piano: Bb3+D4+F4@2>2 E3+Bb3+D4@8>2
+  Horns: D5@1>3 F5@4>2 E5@7>2 D5@10>3
+  Guitar: G3+Bb3+D4+F4@3>2 E3+Bb3+E4@11>2
+  Melody: D5@2>2 Bb4@5>2 E5@8>2 D5@11>2
+
+@42 [Fmaj7+Am7]
+  Bass: F2@1>3 E2@4>3 A2@7>3 G2@10>3
+  Piano: A3+C4+E4@2>2 C4+E4+G4@8>2
+  Horns: F4@1>2 A4@3>2 E5@7>2 C5@9>4
+  Guitar: F3+A3+C4+E4@3>2 A3+C4+E4+G4@11>2
+  Melody: F4@2>1 A4@3>2 C5@6>1 E5@8>2 C5@11>2
+
+@43 [D7alt]
+  Bass: D2@1>3 C#2@4>3 C2@7>3 Bb1@10>3
+  Piano: F#3+Ab3+C4+Eb4@2>2 A3+C4+F4@8>2
+  Horns: Ab4@1>2 A4@3>2 C5@5>2 F4@8>4
+  Guitar: D3+F#3+Ab3+C4+Eb4@3>2 Ab3+C4+F4@11>2
+  Melody: Ab4@2>1 A4@3>2 C5@6>2 F4@9>1 Ab4@11>2
+
+@44 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 D2@10>3
+  Piano: Bb3+D4+F4@2>2 G3+Bb3+F4@8>2
+  Horns: Bb4@1>3 D5@4>3 F5@8>2 Bb5@11>2
+  Guitar: G2+G3+Bb3+D4+F4@3>2 G3+Bb3+D4@11>2
+  Melody: G4@2>2 Bb4@5>2 D5@8>3 F5@12>1
+
+# ====== RESTATEMENT / OUTRO HEAD (bars 45-52): mix straight 16 with triplet ======
+
+@45 [C7] (grid:16)
+  Bass: C2@1>4 D2@5>4 Eb2@9>4 E2@13>4
+  Piano: E3+Bb3+D4@3>4 G3+Bb3+D4+F4@11>4
+  Horns: E4@3>8 Bb4@11>4
+  Guitar: E3+G3+Bb3+D4@5>4 G3+Bb3+F4@13>2
+  Melody: E4@3>8 Bb4@12>4
+
+@46 [Fmaj7] (grid:16)
+  Bass: F2@1>8 A2@9>8
+  Piano: F2+A3+C4+E4+G4@3>6 F3+A3+E4+A4@11>6
+  Horns: C5@1>8 A4@9>8
+  Guitar: A3+C4+E4+A4@5>6 F3+A3+E4@13>4
+  Melody: C5@3>6 A4@10>6
+
+@47 [Bb7]
+  Bass: Bb1@1>3 C2@4>3 D2@7>3 Eb2@10>3
+  Piano: D3+Ab3+C4+F4@2>2 F3+Ab3+Eb4@8>2
+  Horns: F4@1>3 Ab4@4>2 Bb4@7>2 Ab4@9>4
+  Guitar: Bb2+F3+Ab3+D4+F4@3>2 D3+Ab3+Eb4@11>2
+  Melody: F4@2>2 Ab4@5>2 Bb4@8>2 Ab4@11>3
+
+@48 [Eb7]
+  Bass: Eb2@1>3 F2@4>3 G2@7>3 Ab2@10>3
+  Piano: G3+Db4+F4@2>2 Bb3+Db4+Ab4@8>2
+  Horns: Eb4@1>2 G4@3>3 Db5@7>2 Bb4@9>4
+  Guitar: Eb3+G3+Db4+F4@3>2 Bb3+Db4+Ab4@11>2
+  Melody: Eb4@2>2 G4@5>2 Db5@8>2 Bb4@11>2
+
+@49 [Am7+D7]
+  Bass: A2@1>3 B2@4>3 D2@7>3 C#2@10>3
+  Piano: C4+E4+G4@2>2 F#3+C4+A4@8>2
+  Horns: A4@1>3 C5@4>2 F#5@8>2 A4@11>2
+  Guitar: A3+C4+E4+G4@3>2 D3+F#3+A3+C4+Eb4@11>2
+  Melody: A4@2>2 C5@5>2 F#5@8>2 A4@11>2
+
+@50 [Gm7+C7]
+  Bass: G2@1>3 A2@4>3 C2@7>3 B1@10>3
+  Piano: Bb3+D4+F4@2>2 E3+Bb3+D4@8>2
+  Horns: D5@1>3 Bb4@4>3 C5@8>4
+  Guitar: G3+Bb3+D4+F4@3>2 E3+Bb3+E4@11>2
+  Melody: D5@2>2 F5@5>2 Bb4@8>2 C5@11>2
+
+@51 [Fmaj7] (grid:16)
+  Bass: F2@1>8 D2@9>8
+  Piano: A3+C4+E4@3>4 F3+A3+C4+E4+G4@11>4
+  Horns: A4@3>8 F4@11>4
+  Guitar: F3+A3+E4+A4@5>6 C4+E4+A4@13>4
+  Melody: A4@3>8 F4@12>4
+
+@52 [Gm7+C7] (grid:16)
+  Bass: G2@1>4 A2@5>4 C2@9>8
+  Piano: Bb3+D4+F4@3>3 E3+Bb3+D4+F4@11>3
+  Horns: D5@3>8 E5@11>4
+  Guitar: G3+Bb3+D4+F4@5>4 C3+E3+Bb3+D4@13>2
+  Melody: D5@3>6 G4@10>6
+
+# ====== FINAL CHORUS (bars 53-60): bebop runs, widest range ======
+
+@53 [Fmaj7]
+  Bass: F2@1>3 G2@4>3 A2@7>3 Bb2@10>3
+  Piano: A3+E4+A4@2>2 F3+C4+E4@8>2
+  Horns: A4@1>4 C5@5>2 A4@7>2 F4@9>3
+  Guitar: C4+E4+A4+C5@3>2 F3+A3+E4@11>2
+  Melody: A4@2>2 C5@5>1 E5@6>2 G5@9>2 F5@11>1
+
+@54 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+F4+A4@2>2 D3+G3+C4+F4@8>2
+  Horns: D5@1>4 F4@5>2 Bb4@7>2 D5@9>3
+  Guitar: G3+Bb3+D4+F4+A4@3>2 G2+D4+G4@11>2
+  Melody: D5@2>2 F5@5>2 A5@8>2 G5@11>1
+
+@55 [C7b9]
+  Bass: C2@1>3 B1@4>3 Bb1@7>3 A1@10>3
+  Piano: E3+Bb3+Db4@2>2 G3+Bb3+Db4+F4@8>2
+  Horns: E5@1>2 Eb5@3>2 D5@5>4 C5@9>3
+  Guitar: E3+Bb3+Db4+F4@3>2 G3+Bb3+F4@11>2
+  Melody: E5@2>1 Eb5@3>1 D5@5>2 C5@8>2 G4@11>2
+
+@56 [Fmaj7] (grid:16)
+  Bass: F2@1>8 A2@9>8
+  Piano: A3+C4+E4@3>4 F3+A3+C4+E4@11>4
+  Horns: F4@3>6 A4@9>3 C5@13>2
+  Guitar: F3+C4+E4+A4+C5@5>6
+  Melody: F4@1>4 A4@5>4 C5@9>4 E5@13>4
+
+@57 [Am7]
+  Bass: A2@1>3 G2@4>3 F2@7>3 E2@10>3
+  Piano: C4+E4+G4@2>2 A3+C4+G4@8>2
+  Horns: E5@1>3 D5@4>2 C5@7>3 A4@10>3
+  Guitar: A3+C4+E4+G4@3>2 E4+G4+C5+E5@11>2
+  Melody: E5@2>2 D5@5>1 C5@7>2 A4@9>2 G5@12>1
+
+@58 [D7#9]
+  Bass: D2@1>3 C#2@4>3 C2@7>3 B1@10>3
+  Piano: F#3+C4+F4@2>2 A3+C4+F4@8>2
+  Horns: F#4@1>2 A4@3>2 C5@5>2 F4@8>4
+  Guitar: D3+F#3+A3+C4+Eb4@3>2 A3+C4+Eb4+F4@11>2
+  Melody: A4@2>2 F#4@5>2 C5@8>1 F5@9>2 D5@12>1
+
+@59 [Gm7]
+  Bass: G2@1>3 A2@4>3 Bb2@7>3 C3@10>3
+  Piano: Bb3+D4+F4@2>2 G3+Bb3+F4@8>2
+  Horns: Bb4@1>4 D5@5>4 F5@9>4
+  Guitar: G3+Bb3+D4+F4@3>2 G2+D4+F4+Bb4@11>2
+  Melody: G4@2>2 Bb4@5>2 D5@8>2 F5@11>2
+
+@60 [C7] (grid:16)
+  Bass: C2@1>4 D2@5>4 Eb2@9>4 E2@13>4
+  Piano: E3+Bb3+D4@3>3 G3+Bb3+D4+F4@11>3
+  Horns: G4@3>4 E4@7>4 Bb4@11>4
+  Guitar: C3+E3+G3+Bb3+D4@5>4 G3+Bb3+F4@13>2
+  Melody: G4@3>3 E4@7>3 Bb4@12>4
+
+# ====== CODA (bars 61-64): wide held chords, full range landing ======
+
+@61 [Fmaj9] (grid:16)
+  Bass: F2@1>8 A2@9>8
+  Piano: F2+A3+C4+E4+G4+B4@1>8 F2+A3+E4+G4@9>8
+  Horns: C5@3>8 E5@12>4
+  Guitar: A3+E4+G4+C5@5>8
+  Melody: C5@3>6 A4@10>6
+
+@62 [Gm7+C7] (grid:16)
+  Bass: G2@1>4 A2@5>4 C2@9>8
+  Piano: Bb3+D4+F4+A4@3>3 E3+Bb3+D4+G4@11>3
+  Horns: D5@3>8 E5@12>4
+  Guitar: G3+Bb3+D4+F4@5>4 C3+E3+Bb3+E4@13>2
+  Melody: D5@3>6 G4@10>6
+
+@63 [Fmaj7] (grid:16)
+  Bass: F2@1>8 C2@9>8
+  Piano: F2+A3+C4+E4+G4@1>16
+  Horns: A4@3>12
+  Guitar: F3+A3+E4+A4+C5@5>8
+  Melody: A4@3>8 F5@12>4
+
+@64 [Fmaj7] (grid:16)
+  Bass: F1@1>16
+  Piano: F2+A3+C4+E4+G4+B4@1>16
+  Horns: C5@1>16
+  Guitar: F3+A3+E4+A4@1>16
+  Melody: F4@1>16

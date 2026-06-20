@@ -1,0 +1,233 @@
+# kb_theory: expression (articulation, dynamics, tempo)
+CONCEPT: staccato
+ID: TE-STACCATO
+CATEGORY: articulation
+LEVEL: beginner
+WHAT: Staccato means short, detached notes — each note sounds for less than its full
+written value, leaving silence before the next onset. In the note grammar this reads as
+short durations (`>1`) with rest gaps between onsets that sit on the beats.
+CHALLENGE: Play crisp short notes on each beat, releasing quickly so a clear gap of
+silence separates one note from the next.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>1 E4@5>1 G4@9>1 C5@13>1
+GRAMMAR-END
+================================================================================
+CONCEPT: legato
+ID: TE-LEGATO
+CATEGORY: articulation
+LEVEL: beginner
+WHAT: Legato means smooth, connected playing — each note is held its full value so there
+is no gap before the next onset. In the grammar this is full-value durations placed
+back-to-back (e.g. quarter notes `>4` whose onsets tile the bar with no rest slots).
+CHALLENGE: Connect each note to the next with no audible gap, holding every note to its
+full value until the following onset.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 F4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: tenuto
+ID: TE-TENUTO
+CATEGORY: articulation
+LEVEL: beginner
+WHAT: Tenuto means hold the note for its full notated value, giving it full weight and
+length (the opposite of staccato). The grammar realizes it as durations that fill the
+whole note value with no shortening — here each beat is a full quarter `>4`.
+CHALLENGE: Sustain each note to its complete value with steady weight, no clipping the
+end short.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 C4@5>4 C4@9>4 C4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: accent / marcato
+ID: TE-ACCENT
+CATEGORY: articulation
+LEVEL: beginner
+WHAT: An accent (>) or marcato (^) marks a note to be played louder/stronger than its
+neighbors. The note itself lives in the grammar via its onset placed on the beat; the
+accent mark is a render-layer overlay (no loudness field in the core note grammar). Here
+the accented notes are the strong onsets on beats 1 and 3.
+CHALLENGE: Stress the marked beats (1 and 3) more forcefully than the in-between notes
+while keeping the rhythm even.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: slur
+ID: TE-SLUR
+CATEGORY: articulation
+LEVEL: beginner
+WHAT: A slur is a curved line over two or more DIFFERENT pitches meaning play them
+smoothly connected (legato) as one gesture. The slur curve is a render-layer overlay; the
+grammar shows the smoothness as full-value durations placed onset-to-onset with no gaps.
+CHALLENGE: Play the group of notes under one breath/gesture, connecting each pitch to the
+next without re-articulating a gap.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F4@7>2 G4@9>2 A4@11>2 G4@13>2 E4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: tie
+ID: TE-TIE
+CATEGORY: articulation
+LEVEL: beginner
+WHAT: A tie joins two notes of the SAME pitch into one sustained sound lasting their
+combined value (e.g. two tied quarters = one half note). In the grammar a tie is encoded
+as a single longer duration spanning the tied value — not two onsets.
+CHALLENGE: Hold one key down for the full combined length without re-striking, counting
+through the tied beats.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>8 E4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: fermata
+ID: TE-FERMATA
+CATEGORY: articulation
+LEVEL: beginner
+WHAT: A fermata (pause sign) means hold a note longer than its written value, at the
+performer's discretion. The pause symbol is a render-layer overlay; the grammar
+approximates the extra length with a much longer held duration — here a whole note `>16`
+holding the entire bar.
+CHALLENGE: Sustain the held note well beyond a normal count, listening to its decay before
+moving on.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 72 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: grace note
+ID: TE-GRACE
+CATEGORY: articulation
+LEVEL: intermediate
+WHAT: A grace note is a quick ornamental note played just before a main note, taking a
+tiny slice of time. In the grammar it is a very short onset (`>1`) immediately before the
+main note, which then carries the bulk of the value.
+CHALLENGE: Flick the ornament note quickly into the main note so the main note still lands
+on the beat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: D4@1>1 E4@2>3 G4@5>4 E4@9>4 C4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: trill
+ID: TE-TRILL
+CATEGORY: articulation
+LEVEL: intermediate
+WHAT: A trill is a rapid alternation between the written note and the note one step above
+it. In the grammar it is encoded as fast `>1` onsets alternating two adjacent pitches.
+CHALLENGE: Alternate the two neighboring keys as evenly and quickly as possible, keeping
+each note the same short length.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>1 D4@2>1 C4@3>1 D4@4>1 C4@5>1 D4@6>1 C4@7>1 D4@8>1 C4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: mordent
+ID: TE-MORDENT
+CATEGORY: articulation
+LEVEL: intermediate
+WHAT: A mordent is a quick three-note ornament: main note, its lower (or upper) neighbor,
+then back to the main note, all snapped in before the note settles. The grammar encodes
+it as two fast `>1` onsets (main, neighbor) into a sustained main note.
+CHALLENGE: Snap the neighbor note in and out cleanly so the main note still feels like it
+lands on the beat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>1 B3@2>1 C4@3>6 E4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: turn
+ID: TE-TURN
+CATEGORY: articulation
+LEVEL: intermediate
+WHAT: A turn is a four-note ornament that circles a main note: the note above, the main
+note, the note below, then the main note again. The grammar encodes it as four stepwise
+onsets in that contour.
+CHALLENGE: Play the four-note circle smoothly and evenly so the figure flows around the
+central pitch.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: D4@1>2 C4@3>2 B3@5>2 C4@7>2 E4@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: dynamics (p/mp/mf/f and crescendo)
+ID: TE-DYNAMICS
+CATEGORY: dynamics
+LEVEL: beginner
+WHAT: Dynamics are loudness markings — p (soft), mp, mf, f (loud), and crescendo/
+decrescendo (gradually louder/softer). These are NOT representable in the core note
+grammar: there is no velocity/loudness field. The grammar below shows only the PASSAGE
+and what states; the dynamic levels and the crescendo hairpin are a performance/render-
+layer overlay applied on top.
+CHALLENGE: Play the same notes while shaping volume — start soft and grow louder across
+the line (crescendo) — even though the loudness is not written in the note data.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 84 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: tempo terms (Largo to Presto)
+ID: TE-TEMPO-TERMS
+CATEGORY: tempo
+LEVEL: beginner
+WHAT: Tempo terms name a speed in approximate BPM: Largo ~50, Adagio ~66, Andante ~80,
+Moderato ~108, Allegro ~132, Vivace ~160, Presto ~184. The same musical phrase can be
+played at any of these speeds; the term is realized by the TEMPO header. The block below
+shows a 1-bar phrase set at a slow Largo tempo.
+CHALLENGE: Hold a steady pulse at the chosen tempo (here a slow Largo), counting evenly so
+the speed stays constant from start to finish.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 50 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: tempo changes (accelerando / ritardando / rubato / a tempo)
+ID: TE-TEMPO-CHANGE
+CATEGORY: tempo
+LEVEL: intermediate
+WHAT: Accelerando = gradually speed up; ritardando = gradually slow down; rubato = flexible
+expressive give-and-take of tempo; a tempo = return to the original speed. These are tempo-
+CHANGE overlays applied over time — the core grammar carries one TEMPO header per piece, so
+the change itself is a render/performance-layer marking, not in the note data. The two bars
+below carry the notes; imagine a ritardando over bar 2 then a tempo at the next phrase.
+CHALLENGE: Bend the pulse expressively — gradually slow through the second bar (ritardando)
+then snap back to the original speed (a tempo) at the next phrase.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 D4@5>4 E4@9>4 F4@13>4
+@2 [G]
+  Piano: G4@1>4 F4@5>4 E4@9>4 D4@13>4
+GRAMMAR-END
+================================================================================

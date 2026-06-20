@@ -1,0 +1,318 @@
+KEY: D major | METER: 4/4 | TEMPO: 24 | GRID: 16th (adaptive) | BARS: 40
+VOICES: Flute, Oboe, Clarinet, Part4, Horn, Trumpet, Trombone, Part8, Part9, Part10, Part11, Part12
+@1 [D] (grid:8)
+  Oboe    : F#4@1>1 A4@2>1 A4@3>2 F#4@5>1 E4@6>1 D4@7>2
+  Part10  : A3@1>4 A3@5>4
+  Part11  : D3@1>8
+  Part12  : D2@1>8
+@2 [F#m7 | C#m] (grid:8)
+  Oboe    : E4@1>1 F#4@2>1 A4@3>1 F#4@4>1 E4@5>4
+  Part10  : C#4@1>8
+  Part11  : C#3@1>8
+  Part12  : C#2@1>8
+@3 [D] (grid:8)
+  Oboe    : F#4@1>1 A4@2>1 A4@3>2 F#4@5>1 E4@6>1 D4@7>2
+  Part10  : D4@1>4 D4@5>4
+  Part11  : D3@1>8
+  Part12  : D2@1>8
+@4 [A7 | D] (grid:8)
+  Oboe    : E4@1>1 F#4@2>1 E4@3>1 D4@4>1 D4@5>4
+  Part10  : D4@1>2 C#4@3>2 D4@5>4
+  Part11  : G3@1>2 A2@3>2 D3@5>4
+  Part12  : G1@1>2 A1@3>2 D2@5>4
+@5 [G] (grid:8)
+  Oboe    : B4@1>1 D5@2>1 D5@3>2 C#5@5>1 A4@6>1 B4@7>2
+  Part10  : D5@1>8
+  Part11  : D4@1>8
+  Part12  : G1@1>8
+@6 [G] (grid:8)
+  Oboe    : B4@1>1 D5@2>1 C#5@3>1 A4@4>1 B4@5>4
+  Part10  : D5@1>8
+  Part11  : D4@1>8
+  Part12  : G1@1>8
+@7 [G] (grid:8)
+  Oboe    : B4@1>1 D5@2>1 D5@3>2 C#5@5>1 A4@6>1 B4@7>2
+  Part10  : D5@1>8
+  Part11  : D4@1>8
+  Part12  : G1@1>8
+@8 [G] (grid:8)
+  Oboe    : B4@1>1 D5@2>1 C#5@3>1 A4@4>1 B4@5>4
+  Part10  : D5@1>8
+  Part11  : D4@1>8
+  Part12  : G1@1>8
+@9 [D] (grid:8)
+  Oboe    : F#4@1>1 A4@2>1 A4@3>2 F#4@5>1 E4@6>1 D4@7>2
+  Part10  : D4@1>4 F#4@5>4
+  Part11  : D4@1>8
+  Part12  : D2@1>8
+@10 [D] (grid:8)
+  Oboe    : E4@1>1 F#4@2>1 A4@3>1 F#4@4>1 E4@5>4
+  Part10  : E4@1>8
+  Part11  : D4@1>8
+  Part12  : D2@1>8
+@11 [D7] (grid:8)
+  Oboe    : F#4@1>1 A4@2>1 A4@3>2 D5@5>1 E5@6>1 F#5@7>2
+  Part10  : F#4@1>2 E4@3>2 D4@5>2 D4@7>2
+  Part11  : D4@1>2 C#4@3>2 B3@5>2 A3@7>2
+  Part12  : D2@1>2 C#2@3>2 B1@5>2 A1@7>2
+@12 [D] (grid:8)
+  Oboe    : E5@1>1 D5@2>1 E5@3>1 B4@4>1 D5@5>4
+  Part10  : D4@1>4 D4@5>4
+  Part11  : A3@1>4 D4@5>4
+  Part12  : A1@1>4 D2@5>4
+@13 [D] (grid:8)
+  Clarinet: E5@1>1 D5@2>1 E5@3>1 B4@4>1 D5@5>4
+  Part10  : D4@1>4 D4@5>4
+  Part11  : A3@1>4 D4@5>4
+  Part12  : A1@1>4 D2@5>4
+@14 [D] (grid:8)
+  Clarinet: E5@1>2 D5@4>1 E5@5>2 B4@7>2
+  Part10  : D4@1>8
+  Part11  : A3@1>8
+  Part12  : A1@1>8
+@15 [D] (grid:4)
+  Clarinet: D5@1>4
+  Part10  : D4@1>4
+  Part11  : D4@1>4
+  Part12  : D2@1>4
+@16 [D]
+  Oboe    : E5@1>5 D5@7>2 E5@9>3 B4@13>3
+  Clarinet: E5@1>5 D5@7>2 E5@9>3 B4@13>3
+  Part9   : A2@1>1 A2@2>1 A2@3>1 A2@4>1 A2@5>1 A2@6>1 A2@7>1 A2@8>1 A2@9>1 A2@10>1 A2@11>1 A2@12>1 A2@13>1 A2@14>1 A2@15>1 A2@16>1
+  Part10  : D4@1>15
+  Part11  : A3@1>15
+  Part12  : A1@1>15
+@17 [D]
+  Flute   : F#5@1>3 A5@5>3 A5@9>7
+  Oboe    : D5@1>15
+  Clarinet: D5@1>15
+  Part4   : D3+D4@1>15
+  Horn    : D4+F#4@1>16
+  Trumpet : D4+F#4@1>16
+  Trombone: D3+F#3@1>15 A3@5>3 A3@9>7
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : F#4@1>3 A4@5>3 A4@9>7
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@18 [D]
+  Flute   : F#5@1>3 E5@5>3 D5@9>7
+  Part4   : D3+D4@1>15
+  Horn    : D4+F#4@1>15
+  Trumpet : D4+F#4@1>15
+  Trombone: D3+F#3@1>15 E3@5>3 D3@9>7
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : F#4@1>3 E4@5>3 D4@9>7
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@19 [G7 | D]
+  Flute   : E5@1>3 F#5@5>3 A5@9>3 F#5@13>3
+  Part4   : D3+D4@1>15
+  Horn    : E4+G4@1>16
+  Trumpet : E4+G4@1>16
+  Trombone: D3+E3@1>15 F#3@5>3 A3@9>3 F#3@13>3
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : E4@1>3 F#4@5>3 A4@9>3 F#4@13>3
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@20 [G]
+  Flute   : E5@1>15
+  Part4   : D3+D4@1>15
+  Horn    : E4+G4@1>15
+  Trumpet : E4+G4@1>15
+  Trombone: D3+E3@1>15
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : E4@1>15
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@21 [D]
+  Flute   : F#5@1>3 A5@5>3 A5@9>7
+  Part4   : D3+D4@1>15
+  Horn    : D4+F#4@1>16
+  Trumpet : F#4+A4@1>16
+  Trombone: D3+F#3@1>15 A3@5>3 A3@9>7
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : F#4@1>3 A4@5>3 A4@9>7
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@22 [F#aug | Daug]
+  Flute   : F#5@1>3 E5@5>3 D5@9>7
+  Part4   : F#3@1>15
+  Horn    : D4+F#4@1>15
+  Trumpet : F#4+Bb4@1>15
+  Trombone: D3+F#3@1>15 E3@5>3 D3@9>7
+  Part8   : F#2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : F#4@1>3 E4@5>3 D4@9>7
+  Part11  : F#3@1>15
+  Part12  : F#2@1>15
+@23 [G | A]
+  Flute   : E5@1>3 F#5@5>3 E5@9>3 D5@13>3
+  Part4   : G2+G3@1>7 A2+A3@9>7
+  Horn    : D4+G4@1>7 C#4+G4@9>7
+  Trumpet : G4+B4@1>7 G4+A4@9>7
+  Trombone: E3@1>3 F#3@5>3 E3@9>3 D3@13>3
+  Part8   : G2@1>7 A2@9>7
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 A2@9>1 A2@10>1 A2@11>1 A2@12>1 A2@13>1 A2@14>1 A2@15>1 A2@16>1
+  Part10  : E4@1>3 F#4@5>3 E4@9>3 D4@13>3
+  Part11  : G3@1>7 A3@9>7
+  Part12  : G1@1>7 A1@9>7
+@24 [D]
+  Flute   : D5@1>15
+  Part4   : D3+D4@1>15
+  Horn    : D4+F#4@1>15
+  Trumpet : F#4+A4@1>15
+  Trombone: D3@1>15
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : D4@1>15
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@25 [G] (grid:4)
+  Horn    : G3+B3@1>4
+  Trumpet : B4@1>1 D5@2>1 D5@3>2
+  Trombone: D3+D4@1>4
+  Part8   : D2@1>4
+@26 [D | G] (grid:4)
+  Horn    : F#3+A3@1>2 G3+B3@3>2
+  Trumpet : C#5@1>1 A4@2>1 B4@3>2
+  Trombone: D3+D4@1>4
+  Part8   : D2@1>4
+@27 [G | D] (grid:4)
+  Horn    : G3+B3@1>2 F#3+A3@3>2
+  Trumpet : B4@1>1 D5@2>1 C#5@3>1 A4@4>1
+  Trombone: D3+D4@1>4
+  Part8   : D2@1>4
+@28 [G] (grid:4)
+  Horn    : G3+B3@1>4
+  Trumpet : B4@1>4
+  Trombone: D3+D4@1>4
+  Part8   : D2@1>4
+@29 [G] (grid:4)
+  Flute   : B4@1>1 D5@2>1 D5@3>2
+  Oboe    : G4+B4@1>4
+  Clarinet: G4+B4@1>4
+  Part4   : D3+D4@1>4
+@30 [D | G] (grid:4)
+  Flute   : C#5@1>1 A4@2>1 B4@3>2
+  Oboe    : F#4+A4@1>2 G4+B4@3>2
+  Clarinet: F#4+A4@1>2 G4+B4@3>2
+  Part4   : D3+D4@1>4
+@31 [G | D] (grid:4)
+  Flute   : B4@1>1 D5@2>1 C#5@3>1 A4@4>1
+  Oboe    : G4+B4@1>2 F#4+A4@3>2
+  Clarinet: G4+B4@1>2 F#4+A4@3>2
+  Part4   : D3+D4@1>4
+@32 [G] (grid:4)
+  Flute   : B4@1>4
+  Oboe    : G4+B4@1>4
+  Clarinet: G4+B4@1>4
+  Part4   : D3+D4@1>4
+@33 [D]
+  Flute   : F#4@1>3 A4@5>3 A4@9>7
+  Oboe    : D5+F#5@1>16
+  Clarinet: D4+F#4@1>16
+  Part4   : D3+D4@1>15
+  Horn    : D4+F#4@1>16
+  Trumpet : F#4@1>3 A4@5>3 A4@9>7
+  Trombone: D3+F#3@1>15 A3@5>3 A3@9>7
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : F#4@1>3 A4@5>3 A4@9>7
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@34 [D]
+  Flute   : F#4@1>3 E4@5>3 D4@9>7
+  Oboe    : D5+F#5@1>15
+  Clarinet: D4+F#4@1>15
+  Part4   : D3+D4@1>15
+  Horn    : D4+F#4@1>15
+  Trumpet : F#4@1>3 E4@5>3 D4@9>7
+  Trombone: D3+F#3@1>15 E3@5>3 D3@9>7
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : F#4@1>3 E4@5>3 D4@9>7
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@35 [G7 | D]
+  Flute   : E4@1>3 F#4@5>3 A4@9>3 F#4@13>3
+  Oboe    : E5+G5@1>16
+  Clarinet: E4+G4@1>16
+  Part4   : D3+D4@1>15
+  Horn    : E4+G4@1>16
+  Trumpet : E4@1>3 F#4@5>3 A4@9>3 F#4@13>3
+  Trombone: D3+E3@1>15 F#3@5>3 A3@9>3 F#3@13>3
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : E4@1>3 F#4@5>3 A4@9>3 F#4@13>3
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@36 [G]
+  Flute   : E4@1>15
+  Oboe    : E5+G5@1>15
+  Clarinet: E4+G4@1>15
+  Part4   : D3+D4@1>15
+  Horn    : E4+G4@1>15
+  Trumpet : E4@1>15
+  Trombone: D3+E3@1>15
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : E4@1>15
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@37 [D]
+  Flute   : F#4@1>3 A4@5>3 A4@9>7
+  Oboe    : D5+F#5@1>16
+  Clarinet: D4+F#4@1>16
+  Part4   : D3+D4@1>15
+  Horn    : D4+F#4@1>16
+  Trumpet : F#4@1>3 A4@5>3 A4@9>7
+  Trombone: D3+F#3@1>15 A3@5>3 A3@9>7
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : F#4@1>3 A4@5>3 A4@9>7
+  Part11  : D4@1>15
+  Part12  : D2@1>15
+@38 [D]
+  Flute   : D5@1>3 E5@5>3 F#5@9>7
+  Oboe    : D5+F#5@1>15
+  Clarinet: D4+F#4@1>15
+  Part4   : D3+D4@1>7 A2+A3@9>7
+  Horn    : D4+F#4@1>15
+  Trumpet : D4@1>3 E4@5>3 F#4@9>7
+  Trombone: D3+F#3@1>7 G3@5>3 A3@9>7
+  Part8   : D2@1>7 A2@9>7
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 A2@9>1 A2@10>1 A2@11>1 A2@12>1 A2@13>1 A2@14>1 A2@15>1 A2@16>1
+  Part10  : D5@1>3 E5@5>3 F#5@9>7
+  Part11  : D4@1>7 A3@9>7
+  Part12  : D2@1>7 A1@9>7
+@39 [D | A]
+  Flute   : E5@1>3 D5@5>3 E5@9>3 B4@13>3
+  Oboe    : D5+G5@1>7 C#5+G5@9>7
+  Clarinet: D4+G4@1>7 C#4+G4@9>7
+  Part4   : A2+A3@1>15
+  Horn    : D4+G4@1>7 C#4+G4@9>7
+  Trumpet : E4@1>3 D4@5>3 E4@9>3 B4@13>3
+  Trombone: A3+E4@1>15 D4@5>3 E4@9>3 B3@13>3
+  Part8   : A2@1>15
+  Part9   : A2@1>1 A2@2>1 A2@3>1 A2@4>1 A2@5>1 A2@6>1 A2@7>1 A2@8>1 A2@9>1 A2@10>1 A2@11>1 A2@12>1 A2@13>1 A2@14>1 A2@15>1 A2@16>1
+  Part10  : E5@1>3 D5@5>3 E5@9>3 B4@13>3
+  Part11  : A3@1>15
+  Part12  : A1@1>15
+@40 [D]
+  Flute   : D5@1>15
+  Oboe    : D5+F#5@1>15
+  Clarinet: D4+F#4@1>15
+  Part4   : D3+D4@1>15
+  Horn    : D4+F#4@1>15
+  Trumpet : D4+D5@1>15
+  Trombone: D3+D4@1>15
+  Part8   : D2@1>15
+  Part9   : D3@1>1 D3@2>1 D3@3>1 D3@4>1 D3@5>1 D3@6>1 D3@7>1 D3@8>1 D3@9>1 D3@10>1 D3@11>1 D3@12>1 D3@13>1 D3@14>1 D3@15>1 D3@16>1
+  Part10  : D5@1>15
+  Part11  : D4@1>15
+  Part12  : D2@1>15

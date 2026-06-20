@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "files": {
+    "libretto/data/corpus_distribution_314.json": "55b6af8ec53860b80d0fa9cc4b623a773267a2011af057a130a7bfa1452469e9",
+    "libretto/core/midi_to_grammar.py": "6c375c4ce87f86f91c83f0d2b12338f42ce591d55e5307f00ed562840842c997",
+    "libretto/core/grammar_to_midi.py": "11fc441f7a39a70a2ada01d7d1669eba1a9d1d13ba8e7e023133dbfcc2a73d43",
+    "libretto/core/metric_discovery.py": "5dd74b6a7577aae153c5756795c2ec2ca8aa72779541a68efee5afc87b8bff1d",
+    "libretto/core/within_song_variation.py": "c3338e17c10e5a6cf63fc414a7529d9abb04d0873a45833eef9c05ba586cd263"
+  }
+}
