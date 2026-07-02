@@ -159,3 +159,122 @@ VOICES: Piano
   Piano: C2+D4@1>16 E4@5>4 G4@9>4 C5@13>4
 GRAMMAR-END
 ================================================================================
+CONCEPT: Walking Bass
+ID: TX-WALKING-BASS
+CATEGORY: texture
+LEVEL: intermediate
+WHAT: A walking bass is a steady quarter-note bass line that moves by step or chord tones,
+one note per beat, giving continuous forward motion under the harmony. On one piano voice the
+bass note on each beat is joined with `+` to a sustained chord/melody note held above it.
+CHALLENGE: Keep a note on every beat in the bass, moving by step or chord tone under the chords.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C2+E4@1>4 D2@5>4 E2+E4@9>4 F2@13>4
+@2 [G]
+  Piano: G2+D4@1>4 A2@5>4 B2+D4@9>4 D3@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Ostinato
+ID: TX-OSTINATO
+CATEGORY: texture
+LEVEL: intermediate
+WHAT: An ostinato is a short accompaniment figure repeated persistently, unchanged, while the
+upper notes move over it. The looping pattern gives a hypnotic, insistent support. On one piano
+voice the repeating low figure interleaves with the changing melody notes above it.
+CHALLENGE: Repeat one short bass figure identically every bar while the top notes change above it.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 104 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C3@1>2 G3@3>2 C3@5>2 G3@7>2 C3@9>2 G3@11>2 C3@13>2 G3@15>2
+@2 [C]
+  Piano: C3+E5@1>2 G3@3>2 C3@5>2 G3+D5@7>2 C3@9>2 G3@11>2 C3+C5@13>2 G3@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Pedal Point
+ID: TX-PEDAL-POINT
+CATEGORY: texture
+LEVEL: intermediate
+WHAT: A pedal point is a single bass pitch sustained or repeated while the harmonies above it
+change, creating tension between the fixed low note and the shifting chords. On one piano voice
+the same low pedal note recurs on each beat, joined with `+` to the changing chords above it.
+CHALLENGE: Hold or repeat one fixed bass pitch while the chords above it change harmony.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C2+E4+G4@1>8 C2+F4+A4@9>8
+@2 [G]
+  Piano: C2+D4+G4@1>8 C2+E4+G4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Countermelody
+ID: TX-COUNTERMELODY
+CATEGORY: texture
+LEVEL: intermediate
+WHAT: A countermelody is a secondary melodic line that runs against the main melody, giving
+the texture two singing lines at once. On one piano voice the main melody note on top is joined
+with `+` to a lower countermelody note that moves in its own independent shape beneath it.
+CHALLENGE: Sound a lower line with its own melodic shape under each note of the main melody.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: E3+C5@1>4 F3+B4@5>4 G3+C5@9>4 A3+D5@13>4
+@2 [G]
+  Piano: B3+D5@1>4 A3+C5@5>4 G3+B4@9>4 D3+G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Call and Response
+ID: TX-CALL-RESPONSE
+CATEGORY: texture
+LEVEL: beginner
+WHAT: Call and response alternates two phrases in dialogue: a low-register call is answered by
+a high-register response, trading back and forth. On one piano voice the call sounds as a group
+of low onsets, then the response answers as a separate group of high onsets, and the two alternate.
+CHALLENGE: Play a low phrase, then answer it with a high phrase, alternating the two registers.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C3@1>2 E3@3>2 G3@5>4 C5@9>2 G4@11>2 E5@13>4
+@2 [G]
+  Piano: G2@1>2 B2@3>2 D3@5>4 D5@9>2 B4@11>2 G5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Canon
+ID: TX-CANON
+CATEGORY: texture
+LEVEL: advanced
+WHAT: A canon is strict imitation: a leader states a phrase, then a follower enters later with
+the exact same phrase while the leader continues, so the tune chases itself. On one piano voice
+the follower's delayed entry is stacked with `+` onto the leader's ongoing notes at the offset.
+CHALLENGE: Restate the leader's phrase one bar later, stacked over the leader's continuing line.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C5@1>4 D5@5>4 E5@9>4 C5@13>4
+@2 [C]
+  Piano: D5+C4@1>4 E5+D4@5>4 F5+E4@9>4 D5+C4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Stride
+ID: TX-STRIDE
+CATEGORY: texture
+LEVEL: advanced
+WHAT: Stride is a left-hand pattern that alternates a low bass note on beats 1 and 3 with a
+mid-register chord on beats 2 and 4, leaping between the two, under a melody. On one piano voice
+the low bass and the mid chords alternate on the beats, with the melody joined with `+` on top.
+CHALLENGE: Alternate a low bass on beats 1 and 3 with a mid chord on beats 2 and 4 under a melody.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 108 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C2+E5@1>4 E3+G3@5>4 G2+C5@9>4 E3+G3@13>4
+@2 [G]
+  Piano: G2+D5@1>4 D3+G3@5>4 D2+B4@9>4 D3+G3@13>4
+GRAMMAR-END
+================================================================================

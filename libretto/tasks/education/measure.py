@@ -228,6 +228,73 @@ def check_requirements(case, events, text):
         reqs.append((f"melodic interest (step {step_frac:.2f}≥{step_min}{' [figuration]' if figuration else ''}, "
                      f"has-leap {has_leap}, up&down {both_dir}, {distinct} distinct≥5)", ok,
                      dict(step=round(step_frac, 2), leap=has_leap, both_dir=both_dir, distinct=distinct)))
+    if case.get("grand_staff_band"):
+        gs = case["grand_staff_band"]
+        mids = [e["midi"] for e in events]
+        used = set(mids)
+        lo, hi = (min(mids), max(mids)) if mids else (60, 60)
+        n = max(1, len(mids))
+        bass_frac = sum(1 for m in mids if m < 60) / n      # below middle C -> bass clef
+        treble_frac = sum(1 for m in mids if m >= 60) / n   # middle C and up -> treble clef
+        # COVERAGE: of the in-key pitches a reader meets across [cover_lo, cover_hi], how many actually appear?
+        _, pcs, _ = scale_pcs(case.get("key", "C major"))
+        target = [m for m in range(gs["cover_lo"], gs["cover_hi"] + 1) if m % 12 in pcs]
+        cover_frac = (sum(1 for m in target if m in used) / len(target)) if target else 0.0
+        ok = (lo <= gs["low_max"] and hi >= gs["high_min"]
+              and bass_frac >= gs["min_low_frac"] and treble_frac >= gs["min_high_frac"]
+              and cover_frac >= gs["cover_min"])
+        reqs.append((f"grand-staff span+coverage: lowest {lo}≤{gs['low_max']} & highest {hi}≥{gs['high_min']}, "
+                     f"bass/treble share {bass_frac:.2f}/{treble_frac:.2f} ≥{gs['min_low_frac']:.2f}, "
+                     f"covers {cover_frac:.2f}≥{gs['cover_min']:.2f} of in-key staff pitches "
+                     f"(both clefs, hits most notes a reader meets)", ok,
+                     dict(low=lo, high=hi, bass_frac=round(bass_frac, 2), treble_frac=round(treble_frac, 2),
+                          coverage=round(cover_frac, 2))))
+    if case.get("clef_band"):
+        cb = case["clef_band"]
+        mids = [e["midi"] for e in events]
+        lo, hi = (min(mids), max(mids)) if mids else (60, 60)
+        _, pcs, _ = scale_pcs(case.get("key", "C major"))
+        target = [m for m in range(cb["cover_lo"], cb["cover_hi"] + 1) if m % 12 in pcs]
+        cover = (sum(1 for m in target if m in set(mids)) / len(target)) if target else 0.0
+        if cb["mode"] == "treble":
+            ok = hi >= cb["hi_min"] and lo >= cb["lo_floor"] and cover >= cb["cover_min"]
+            lbl = (f"treble-clef register: highest {hi}≥{cb['hi_min']} and lowest {lo}≥{cb['lo_floor']} "
+                   f"(stay in/above the treble staff), covers {cover:.2f}≥{cb['cover_min']:.2f} of treble-clef pitches")
+        else:
+            ok = lo <= cb["lo_max"] and hi <= cb["hi_ceil"] and cover >= cb["cover_min"]
+            lbl = (f"bass-clef register: lowest {lo}≤{cb['lo_max']} and highest {hi}≤{cb['hi_ceil']} "
+                   f"(stay in/below the bass staff), covers {cover:.2f}≥{cb['cover_min']:.2f} of bass-clef pitches")
+        reqs.append((lbl, ok, dict(low=lo, high=hi, coverage=round(cover, 2))))
+    if case.get("single_line"):
+        # monophonic: essentially one note at a time (arpeggiate harmony), so it engraves on ONE staff with
+        # clef changes rather than a grand staff. Allow a rare dyad but never a block chord.
+        cnt = Counter((e["bar"], round(e["onb"], 3)) for e in events)
+        counts = list(cnt.values())
+        max_sim = max(counts) if counts else 0
+        poly_frac = (sum(1 for c in counts if c >= 2) / len(counts)) if counts else 0.0
+        ok = max_sim <= 2 and poly_frac <= 0.10
+        reqs.append((f"single line (monophonic): max simultaneity {max_sim}≤2, {poly_frac:.2f}≤0.10 of onsets "
+                     f"have ≥2 notes (arpeggiate harmony; no block chords) — engraves on ONE clef-changing staff",
+                     ok, dict(max_sim=max_sim, poly_frac=round(poly_frac, 2))))
+    if case.get("rhythm_mix"):
+        # per-bar rhythm signature = the sorted (onset, duration) pattern of that bar (pitch-independent).
+        # Require: several distinct patterns, none run in a block (longest identical run ≤ 2), and the rhythm
+        # changes bar-to-bar often (interleaved, no obvious separation).
+        by_bar = {}
+        for e in events:
+            by_bar.setdefault(e["bar"], []).append((round(e["onb"], 3), round(e["dur"], 3)))
+        sigs = [tuple(sorted(by_bar[b])) for b in sorted(by_bar)]
+        nb = len(sigs)
+        distinct = len(set(sigs))
+        max_run, cur = (1, 1) if nb else (0, 0)
+        for i in range(1, nb):
+            cur = cur + 1 if sigs[i] == sigs[i - 1] else 1
+            max_run = max(max_run, cur)
+        change_frac = (sum(1 for i in range(1, nb) if sigs[i] != sigs[i - 1]) / (nb - 1)) if nb > 1 else 0.0
+        ok = distinct >= min(3, nb) and max_run <= 2 and change_frac >= 0.5
+        reqs.append((f"rhythm mixed & non-repetitive: {distinct} distinct bar-rhythms, longest identical run "
+                     f"{max_run}≤2, adjacent-change {change_frac:.2f}≥0.50 (patterns interleaved, no block "
+                     f"separation)", ok, dict(distinct=distinct, max_run=max_run, change_frac=round(change_frac, 2))))
     if case.get("dynamics"):
         reqs.append((f"dynamics requested: {case['dynamics']} (performance overlay — not gated)", None, None))
     return reqs

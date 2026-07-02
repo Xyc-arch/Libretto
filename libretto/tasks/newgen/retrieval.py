@@ -97,8 +97,12 @@ def _blocks(text):
     return h, b
 
 
-def prototypical_songs(genre, k=2, exclude=None):
-    """The k real corpus songs of `genre` NEAREST the genre's fingerprint centroid (most prototypical)."""
+def prototypical_songs(genre, k=2, exclude=None, seed=None, pool=None):
+    """The k real corpus songs of `genre` near the genre's fingerprint centroid (most prototypical).
+
+    Deterministic top-k by default (`seed=None`). With an integer `seed`, sample k exemplars from the nearest
+    `pool` candidates (default max(6, 3k)) using a seeded RNG — so different samples of the same genre get
+    different-but-still-prototypical exemplars (more diversity between otherwise identically-retrieved runs)."""
     exclude = set(exclude or [])
     fps = _fps()
     ids = [s for s, v in KEY.items() if v.get("genre") == genre and s in fps
@@ -107,7 +111,11 @@ def prototypical_songs(genre, k=2, exclude=None):
         return []
     centroid = np.mean([fps[s] for s in ids], axis=0)
     ids.sort(key=lambda s: float(np.mean(np.abs(fps[s] - centroid))))
-    return ids[:k]
+    if seed is None:
+        return ids[:k]
+    import random
+    pool = max(k, min(pool or max(6, 3 * k), len(ids)))     # nearest candidate pool to sample from
+    return random.Random(seed).sample(ids[:pool], min(k, pool))
 
 
 def exemplar_excerpt(sid, start=8, n=8):
@@ -122,11 +130,13 @@ def exemplar_excerpt(sid, start=8, n=8):
     return "\n".join(out)
 
 
-def build_retrieval(genre, k_exemplars=2, exclude=None):
+def build_retrieval(genre, k_exemplars=2, exclude=None, seed=None, pool=None):
     """The full retrieval block to inject into a newgen prompt: KB concepts + prototypical exemplars.
-    `exclude` drops songs that must not be shown (e.g. a held-out target). Raises if the genre is unmapped."""
+    `exclude` drops songs that must not be shown (e.g. a held-out target). `seed` (int) varies which exemplars
+    are drawn (see prototypical_songs) so independent samples of a genre aren't all conditioned identically.
+    Raises if the genre is unmapped."""
     ids, cblock = concepts_block(genre)
-    songs = prototypical_songs(genre, k=k_exemplars, exclude=exclude)
+    songs = prototypical_songs(genre, k=k_exemplars, exclude=exclude, seed=seed, pool=pool)
     ex_parts = []
     for s in songs:
         title = KEY.get(s, {}).get("title", "")

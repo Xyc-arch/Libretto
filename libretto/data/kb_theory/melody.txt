@@ -243,3 +243,163 @@ VOICES: Piano
   Piano: D4@1>4 B3@5>4 B3@9>4 C4@13>4
 GRAMMAR-END
 ================================================================================
+CONCEPT: Period
+ID: TM-PERIOD
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: A period is a pair of balanced phrases: an antecedent that poses a question and ends
+on an unstable note (often the dominant, V), and a consequent that answers it and ends on
+the stable tonic (I). The two together feel like a complete musical sentence.
+CHALLENGE: End the first phrase hanging on the dominant, then close the second phrase firmly on the tonic.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: F4@1>4 E4@5>4 D4@9>8
+@3 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@4 [C]
+  Piano: D4@1>4 B3@5>4 C4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Melodic Inversion
+ID: TM-INVERSION
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: Melodic inversion flips a motif upside down: every interval that went up now goes
+down by the same amount, and vice versa. The rhythm stays the same, but the shape becomes
+a mirror image, so a rising figure answers itself by falling.
+CHALLENGE: Play a motif, then replay its rhythm with every interval turned the opposite direction.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>2 G4@5>2 C5@7>8
+@2 [C]
+  Piano: C5@1>2 A4@3>2 F4@5>2 C4@7>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Retrograde
+ID: TM-RETROGRADE
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: Retrograde restates a motif with its notes in reverse order — the last note becomes
+first and the first becomes last, as if the tune were played backwards. It hides a hidden
+symmetry that ties the second statement to the first.
+CHALLENGE: Play a short motif, then play the same pitches in exactly the reverse order.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>2 G4@5>2 C5@7>8
+@2 [C]
+  Piano: C5@1>2 G4@3>2 E4@5>2 C4@7>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Augmentation
+ID: TM-AUGMENTATION
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: Augmentation restates a motif with every note value stretched — typically doubled —
+so the same pitch shape unfolds at half speed. Stretching the rhythm makes a familiar idea
+sound broader, grander, or more emphatic without changing its notes.
+CHALLENGE: Replay a motif with each note held twice as long, keeping the pitches identical.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 3
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>2 G4@5>2 E4@7>2
+@2 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@3 [C]
+  Piano: C4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Diminution
+ID: TM-DIMINUTION
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: Diminution restates a motif with every note value shrunk — typically halved — so the
+same pitch shape unfolds at double speed. Compressing the rhythm makes a familiar idea feel
+busier, more urgent, or more agitated without changing its notes.
+CHALLENGE: Replay a motif with each note held half as long, keeping the pitches identical.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [C]
+  Piano: C4@1>2 E4@3>2 G4@5>2 E4@7>2 C4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Anticipation
+ID: TM-ANTICIPATION
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: An anticipation is a non-chord tone that arrives early — a note of the coming chord
+sounded before the chord itself lands, over the previous harmony. It briefly clashes, then
+becomes consonant the instant the new chord appears (e.g. C sounded over a G chord just
+before the C chord arrives).
+CHALLENGE: Play the next chord's note a beat too soon, so it lands before the chord changes.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [G]
+  Piano: G4@1>4 F4@5>4 D4@9>4 C4@13>4
+@2 [C]
+  Piano: C4@1>8 E4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Escape Tone
+ID: TM-ESCAPE-TONE
+CATEGORY: melody
+LEVEL: advanced
+WHAT: An escape tone (echappee) is a non-chord tone approached by step but left by a leap in
+the opposite direction. The line steps away from a chord tone into the dissonance, then
+jumps past it the other way to the next chord tone (e.g. E up to F, then leaping down to C).
+CHALLENGE: Step up to a non-chord note, then leap down past it in the opposite direction.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: E4@1>4 F4@5>4 C4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Pedal Tone
+ID: TM-PEDAL-TONE
+CATEGORY: melody
+LEVEL: advanced
+WHAT: A pedal tone is a single pitch sustained or repeated persistently while the melody
+above it moves and the harmony changes around it. The held note (often the tonic or
+dominant) anchors the passage, and the shifting line above it creates and releases tension.
+CHALLENGE: Hold or repeat one low anchor pitch while a separate line moves freely above it.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4+G4@1>4 C4+A4@5>4 C4+B4@9>4 C4+C5@13>4
+@2 [G]
+  Piano: C4+B4@1>4 C4+A4@5>4 C4+G4@9>4 C4+E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Ostinato
+ID: TM-OSTINATO
+CATEGORY: melody
+LEVEL: intermediate
+WHAT: An ostinato is a short melodic figure repeated persistently, over and over at the same
+pitch, while other things may change around it. The insistent loop drives the music forward
+and locks in a hypnotic, groove-like foundation.
+CHALLENGE: Lock one short figure into a repeating loop and play it identically bar after bar.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 108 | GRID: 16th | BARS: 3
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 G4@3>2 E4@5>2 G4@7>2 C4@9>2 G4@11>2 E4@13>2 G4@15>2
+@2 [C]
+  Piano: C4@1>2 G4@3>2 E4@5>2 G4@7>2 C4@9>2 G4@11>2 E4@13>2 G4@15>2
+@3 [C]
+  Piano: C4@1>2 G4@3>2 E4@5>2 G4@7>2 C4@9>2 G4@11>2 E4@13>2 G4@15>2
+GRAMMAR-END
+================================================================================

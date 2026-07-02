@@ -15,6 +15,38 @@ major version never ambiguously implies re-validation):
 The frozen core is enforced, not just documented: the pre-commit / pre-merge guard runs the core
 guard-tests AND the frozen-core hash check; an unannounced core change fails the commit/merge.
 
+## [2.2.0] — 2026-07-02 — MINOR: ABC-vs-Libretto encoding-comparison toolkit (frozen core untouched)
+New subpackage `libretto.compare` — quantifies why the grammar uses an **absolute slot** for onset instead of
+ABC's **relative duration**. Adds nothing to and changes nothing in the validated core (frozen-core hashes
+unchanged; guard passes).
+- **`cost.py`** — deterministic, model-free `encoding_cost(song)` → `onset_recovery` (Σ within-bar prefix-sum
+  additions), `edit_blast` (Σ N(N−1)/2 downstream onsets re-derived per duration edit), `vertical_align`
+  (additions to align voices = read "what sounds together"); Libretto's absolute slot = **0** for all three.
+  `corpus_cost()` aggregates over the corpus.
+- **`abc.py`** — emit the SAME music as ABC (relative) and Libretto (absolute slots) from one event list, with
+  `roundtrip_ok()` verifying both re-parse to an identical (voice, onset, pitch) set (via the frozen codec).
+- **`benchmark.py`** — reproducible **tool-free** ABC-vs-Libretto reading benchmark: stimuli + objective
+  questions + computed ground truth (tasks T1–T7 + `build_hallucination()`), a scorer that compares by musical
+  identity, an `impossible()` out-of-meter **hallucination** metric (0 for a Libretto slot by construction), and
+  a self-validating `oracle()`. The LLM run is external. CLI: `python -m libretto.compare {cost,benchmark}`.
+- Also fixes packaging: `libretto.validation` and `libretto.compare` are now listed in `pyproject` packages
+  (validation was previously omitted from the wheel). Tests: `tests/test_compare.py`.
+- Full write-ups, real Nottingham-tune data, and figures remain in `paper_data/grammar_compare/`.
+
+## [2.1.0] — 2026-06-25 — MINOR: external axis-validation toolkit (frozen core untouched)
+New subpackage `libretto.validation` — causal, external validation of the structural axes via dose-response
+against an independent human-preference proxy (Meta AudioBox-Aesthetics). Adds nothing to and changes nothing
+in the validated core (frozen-core hashes unchanged; guard passes).
+- **`levers.py`** — extensible registry of per-axis perturbations (`@lever(axis, push)` / `register_lever`);
+  ships the 25 leverable canonical axes. **`UNCOVERED`** documents the 4 emergent axes (chord-set / SSM
+  statistics) that have no isolated handle, with reasons.
+- **`judge.py`** — `Judge` protocol + default `AudioBoxJudge` (pluggable: bring your own preference model).
+- **`validate.py`** — dose-response engine → per-axis `within_rho`, `delta` (ΔCE extent), `sign_p` (sign test),
+  `entangled`, `validated`; `summarize()` is pure/unit-tested. CLI: `python -m libretto.validation`.
+- Lets contributors validate **new** axes they design with the same machinery. Tests: `tests/test_validation.py`.
+- `paper_data/axis_perturb.py` and `paper_data/_audiobox_score.py` are now thin shims re-exporting the package;
+  `paper_data/axis_quality_validation.py` is a thin driver over `libretto.validation.validate`.
+
 ## [2.0.0] — 2026-06-14 — MAJOR: type (b) INTERFACE break (package rename) — NOT a core re-validation
 **This MAJOR is an INTERFACE break, not a core change.** The validated core is carried forward
 **byte-identical** to v1.0.0 — no re-validation was performed and none was needed.

@@ -373,3 +373,151 @@ VOICES: Piano
   Piano: C4@1>2 E4@3>1 E4@4>2 G4@6>1 G4@7>2 C5@9>1 C5@10>2 G4@12>1
 GRAMMAR-END
 ================================================================================
+CONCEPT: Pattern — dotted-eighth + sixteenth (gallop)
+ID: TR-PAT-DOTTED-EIGHTH-SIXTEENTH
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: The "gallop" long-short cell: a dotted-eighth (>3, 0.75 beat) then a sixteenth (>1, 0.25
+beat) fill one beat. On a 16th grid the pair sits on slots 1,4 for beat 1, 5,8 for beat 2,
+etc. Counted "1———a": the long note holds most of the beat, the short sixteenth snaps just
+before the next beat. Here the cell repeats across all four beats.
+CHALLENGE: Keep the crisp 3:1 long-short ratio — hold the dotted-eighth then flick the sixteenth right before the next beat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>3 D4@4>1 E4@5>3 F4@8>1 G4@9>3 A4@12>1 G4@13>3 E4@16>1
+GRAMMAR-END
+================================================================================
+CONCEPT: Anacrusis (pickup / upbeat)
+ID: TR-ANACRUSIS
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: An anacrusis is a pickup: one or more notes before the first downbeat. Encode a short
+lead-in bar whose onsets fall late in the bar (on the last beat, slots 13-16 in 4/4) leading
+into the strong beat 1 of the next bar. Here two eighths (>2) on slots 13 and 15 lead into the
+downbeat of bar 2. The music begins on the upbeat, not on beat 1.
+CHALLENGE: Play the pickup notes before beat 1, then land firmly on the downbeat of the next bar — feel the "and-a, ONE".
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [G]
+  Piano: D4@13>2 F4@15>2
+@2 [C]
+  Piano: G4@1>4 E4@5>4 C4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Hemiola
+ID: TR-HEMIOLA
+CATEGORY: rhythm
+LEVEL: advanced
+WHAT: A hemiola sets 3 groups of 2 against 2 groups of 3, blurring 3/4 vs 6/8. In 3/4 (12
+slots, beats on 1,5,9) accent the onsets in twos — on slots 1,5,9 the bar reads as three
+duple groups (>4 each), pulling against the underlying two dotted-quarter (>6) feel of slots
+1 and 7. Here even quarters are re-grouped by accent to create the 3-against-2 illusion.
+CHALLENGE: Feel the bar two ways — count "1-2-3" in threes, then accent in twos ("ONE-two ONE-two ONE-two") over the same notes.
+GRAMMAR-BEGIN
+KEY: C major | METER: 3/4 | TEMPO: 132 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4
+@2 [C]
+  Piano: C5@1>6 G4@7>6
+GRAMMAR-END
+================================================================================
+CONCEPT: Swing eighths
+ID: TR-SWING
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: Swing eighths play an uneven long-short pair per beat in a ~2:1 ratio. Realize on
+(grid:12t): each beat is 12/4 = 3 slots, so the "long" on-beat note takes 2 slots (>2, slots
+1-2) and the "short" off-beat note takes 1 slot (>1, slot 3). Beats fall on slots 1,4,7,10.
+The 2:1 durations notate the swing; the exact laid-back feel is a performance nuance.
+[overlay: play with a relaxed jazz swing, slightly behind the beat]
+CHALLENGE: Swing each pair long-then-short ("doo-ba doo-ba") in a loose triplet feel, not even straight eighths.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 120 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C] (grid:12t)
+  Piano: C4@1>2 D4@3>1 E4@4>2 F4@6>1 G4@7>2 A4@9>1 G4@10>2 E4@12>1
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 3/8
+ID: TR-METER-38
+CATEGORY: meter
+LEVEL: intermediate
+WHAT: 3/8: three eighth-note beats per bar, counted "ONE-two-three" but light and quick, felt
+as a single pulse at speed. On a 16th grid the bar is 6 slots; each eighth is >2 with onsets on
+slots 1, 3, 5. A short, spinning simple-triple measure.
+CHALLENGE: Count a fast "1-2-3" per bar felt as one quick pulse; keep the three eighths even and light.
+GRAMMAR-BEGIN
+KEY: C major | METER: 3/8 | TEMPO: 132 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>2 G4@5>2
+@2 [G]
+  Piano: D4@1>2 G4@3>2 B4@5>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 5/4
+ID: TR-METER-54
+CATEGORY: meter
+LEVEL: advanced
+WHAT: 5/4: five quarter-note beats per bar, usually felt as an asymmetric 3+2 or 2+3 grouping.
+On a 16th grid the bar is 20 slots, beats on 1,5,9,13,17. Here a 3+2 grouping puts a stress
+on beat 1 and again on beat 4 (slot 13). An odd, off-balance five-pulse.
+CHALLENGE: Count "1-2-3 4-5" (a 3+2 grouping); feel two unequal pulses, accenting beats 1 and 4.
+GRAMMAR-BEGIN
+KEY: C major | METER: 5/4 | TEMPO: 100 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 C5@13>4 G4@17>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 7/8 (2+2+3)
+ID: TR-METER-78
+CATEGORY: meter
+LEVEL: advanced
+WHAT: 7/8: seven eighth-notes per bar grouped 2+2+3, counted "1-2 3-4 5-6-7". On a 16th grid
+the bar is 14 slots (each eighth >2); the three pulse-onsets fall on slots 1, 5, 9, and the
+final group is a longer three-eighth pulse (>6) on slot 9. A driving, limping odd meter.
+CHALLENGE: Count "1-2 3-4 5-6-7" — two short pulses then a long one; feel the uneven 2+2+3 limp.
+GRAMMAR-BEGIN
+KEY: C major | METER: 7/8 | TEMPO: 120 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>2 G4@5>2 C5@7>2 G4@9>6
+GRAMMAR-END
+================================================================================
+CONCEPT: Time signature — 9/8 compound triple
+ID: TR-METER-98
+CATEGORY: meter
+LEVEL: advanced
+WHAT: 9/8 ("compound triple"): nine eighth-notes grouped into three dotted-quarter pulses,
+counted "ONE-two-three FOUR-five-six SEVEN-eight-nine". Realize with (grid:12t) mirroring 6/8:
+the bar is 12 slots, each eighth >1, and the three main pulses (dotted-quarter, >3) fall on
+slots 1, 4, 7 (with the ninth eighth completing the count). A rolling triple-lilt feel.
+CHALLENGE: Count "1-2-3 4-5-6 7-8-9" but feel THREE main pulses (on 1, 4, 7 of the count); keep the nine eighths even.
+GRAMMAR-BEGIN
+KEY: C major | METER: 9/8 | TEMPO: 108 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C] (grid:12t)
+  Piano: C4@1>1 E4@2>1 G4@3>1 C5@4>1 G4@5>1 E4@6>1 G4@7>1 E4@8>1 C4@9>1
+GRAMMAR-END
+================================================================================
+CONCEPT: Polyrhythm — 3 against 2
+ID: TR-POLYRHYTHM-3-2
+CATEGORY: rhythm
+LEVEL: advanced
+WHAT: A 3:2 polyrhythm sounds three even notes in the same span as two even notes. Realize on
+(grid:12t): over one bar of 12 slots, the "2" layer places notes every 6 slots (>6, onsets on
+1 and 7) and the "3" layer places notes every 4 slots (>4, onsets on 1,5,9). Stack the two
+layers in one Piano voice with `+` where they coincide (both hit slot 1). The composite
+attack pattern is "together, 3-only, 2-only, 3-only".
+CHALLENGE: Feel two even beats in one hand and three even beats in the other over the same bar; they align only on the downbeat.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C] (grid:12t)
+  Piano: C3+C4@1>6 E4@5>4 G3@7>6 G4@9>4
+GRAMMAR-END

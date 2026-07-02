@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "libretto"
-version = "2.0.0"
+version = "2.2.0"
 description = "Descriptive symbolic-music fingerprint environment (29-axis, frozen 314-song corpus)"
 readme = "README.md"
 requires-python = ">=3.11"
@@ -20,13 +20,17 @@ dependencies = [
 generation = ["anthropic>=0.40"]   # only for the default ClaudeGenerator
 
 [tool.setuptools]
-packages = ["libretto", "libretto.core", "libretto.generation", "libretto.tasks"]
+packages = ["libretto", "libretto.core", "libretto.generation", "libretto.tasks",
+            "libretto.validation", "libretto.compare"]
 
 [tool.setuptools.package-data]
 # Ship the frozen data + prompts + per-task runbooks as package data.
-libretto = ["data/*.json", "data/answer_key/*.json", "data/grammar/*.txt", "data/composing-kb/**", "data/kb_theory/**", "VERSION", "FROZEN_CORE.sha256"]
+libretto = ["data/*.json", "data/answer_key/*.json", "data/grammar/*.txt", "data/composing-kb/**",
+            "data/kb_theory/**", "VERSION"]
 "libretto.generation" = ["prompts/*.md"]
 "libretto.tasks" = ["*/SKILL.md", "*/*.py"]
+"libretto.validation" = ["README.md"]
+"libretto.compare" = ["README.md"]
 
 [tool.pytest.ini_options]
 testpaths = ["libretto/tests"]

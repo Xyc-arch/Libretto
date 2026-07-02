@@ -192,3 +192,147 @@ VOICES: Piano
   Piano: E4@1>2 D4@3>2 C4@5>4 G3@9>4 C4@13>4
 GRAMMAR-END
 ================================================================================
+CONCEPT: AABA song form (32-bar)
+ID: TF-AABA
+CATEGORY: form
+LEVEL: intermediate
+WHAT: AABA is the classic 32-bar song form: the main tune (A) is stated, repeated (A),
+then a contrasting bridge (B, often called the "middle eight") takes the harmony
+elsewhere, and A returns to close. The sketch below labels sections A (bar 1), A (bar 2,
+same tune), B (bar 3, contrasting bridge), A (bar 4, return).
+CHALLENGE: State the A tune, repeat it exactly, take a genuine harmonic/melodic detour in
+the B bridge, then bring the A tune home unchanged.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: E4@1>4 G4@5>4 C5@9>4 G4@13>4
+@2 [C]
+  Piano: E4@1>4 G4@5>4 C5@9>4 G4@13>4
+@3 [F]
+  Piano: A4@1>4 D5@5>4 B4@9>4 A4@13>4
+@4 [C]
+  Piano: E4@1>4 G4@5>4 C5@9>4 G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: sonata form (sketch)
+ID: TF-SONATA
+CATEGORY: form
+LEVEL: advanced
+WHAT: Sonata form has three large parts. EXPOSITION states theme 1 in the tonic and theme
+2 in the dominant (contrasting key). A DEVELOPMENT fragments/modulates that material.
+The RECAPITULATION restates both themes, now both in the tonic. The sketch labels:
+theme 1 (bar 1, C tonic), theme 2 (bar 2, G dominant), development (bar 3), recap theme 1
+(bar 4, tonic), recap theme 2 (bar 5, now tonic).
+CHALLENGE: Hear theme 2 leave home to the dominant in the exposition, then feel it pulled
+back into the tonic in the recapitulation — the whole point of the form.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 5
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: G4@1>4 B4@5>4 D5@9>4 B4@13>4
+@3 [D]
+  Piano: A4@1>2 F4@3>2 D4@5>2 A4@7>2 G4@9>4 B4@13>4
+@4 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@5 [C]
+  Piano: C5@1>4 E5@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: minuet and trio (A–B–A)
+ID: TF-MINUET-TRIO
+CATEGORY: form
+LEVEL: intermediate
+WHAT: Minuet and trio is a compound ternary dance in 3/4: a Minuet (A), a contrasting Trio
+(B, traditionally lighter/other-key texture), then the Minuet returns da capo (A). The
+sketch labels: Minuet (bar 1), Trio (bar 2, contrasting), Minuet da capo (bar 3, same as
+bar 1). Each bar has three quarter-note beats (3/4).
+CHALLENGE: Feel the lilting three-beat minuet, step into the gentler trio, then return to
+the minuet exactly as first heard (da capo).
+GRAMMAR-BEGIN
+KEY: C major | METER: 3/4 | TEMPO: 132 | GRID: 16th | BARS: 3
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4
+@2 [G]
+  Piano: D4@1>4 F4@5>4 A4@9>4
+@3 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4
+GRAMMAR-END
+================================================================================
+CONCEPT: ground bass (passacaglia / chaconne)
+ID: TF-GROUND-BASS
+CATEGORY: form
+LEVEL: advanced
+WHAT: A ground bass (passacaglia/chaconne) is a short bass pattern (the "ground") repeated
+unchanged while ever-varying material unfolds above it. In a single voice the ground and
+upper line are stacked with `+` so both sound together. The sketch keeps the SAME 4-note
+descending ground (C3 B2 A2 G3) in every bar while the top line varies each time.
+CHALLENGE: Hold the repeating ground steady underneath while the melody on top keeps
+changing — the fixed bass anchors continuous variation above it.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 84 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C3+E4@1>4 B2+D4@5>4 A2+C4@9>4 G3+B3@13>4
+@2 [C]
+  Piano: C3+G4@1>4 B2+F4@5>4 A2+E4@9>4 G3+D4@13>4
+@3 [C]
+  Piano: C3+C5@1>4 B2+A4@5>4 A2+G4@9>4 G3+E4@13>4
+@4 [C]
+  Piano: C3+E5@1>4 B2+D5@5>4 A2+C5@9>4 G3+G4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: arch form (A–B–C–B–A)
+ID: TF-ARCH
+CATEGORY: form
+LEVEL: advanced
+WHAT: Arch form is a symmetrical, mirror structure A–B–C–B–A: sections spread out to a
+central C and then retrace themselves in reverse, so the piece reflects around its middle.
+The sketch labels: A (bar 1), B (bar 2), C (bar 3, the keystone), B (bar 4, same as bar 2),
+A (bar 5, same as bar 1).
+CHALLENGE: Build outward to the central C, then unwind back through B and A exactly as
+they came — hear the palindrome mirroring around the center.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 5
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+@2 [G]
+  Piano: D4@1>4 G4@5>4 B4@9>4 G4@13>4
+@3 [F]
+  Piano: A4@1>2 C5@3>2 A4@5>2 F4@7>2 A4@9>4 C5@13>4
+@4 [G]
+  Piano: D4@1>4 G4@5>4 B4@9>4 G4@13>4
+@5 [C]
+  Piano: C4@1>4 E4@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: pop song sections
+ID: TF-POP-SECTIONS
+CATEGORY: form
+LEVEL: intermediate
+WHAT: A common pop layout chains distinct sections: Intro – Verse – Chorus – Bridge –
+Chorus. Each has its own character: a short intro sets the key, the verse tells the story,
+the chorus is the memorable hook (recurring), the bridge contrasts, then the chorus
+returns. The sketch labels: Intro (bar 1), Verse (bar 2), Chorus (bar 3, the hook),
+Bridge (bar 4, contrasting), Chorus (bar 5, same hook as bar 3).
+CHALLENGE: Give each section its own identity, make the chorus hook stand out and recur
+the same way, and contrast the bridge before the final chorus.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 112 | GRID: 16th | BARS: 5
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>8 E4@9>8
+@2 [C]
+  Piano: E4@1>4 E4@5>4 G4@9>4 E4@13>4
+@3 [F]
+  Piano: A4@1>4 C5@5>4 C5@9>4 A4@13>4
+@4 [A]
+  Piano: A4@1>4 B4@5>4 C5@9>2 B4@11>2 A4@13>4
+@5 [F]
+  Piano: A4@1>4 C5@5>4 C5@9>4 A4@13>4
+GRAMMAR-END
+================================================================================

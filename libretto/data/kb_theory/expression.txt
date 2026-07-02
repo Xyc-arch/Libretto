@@ -231,3 +231,109 @@ VOICES: Piano
   Piano: G4@1>4 F4@5>4 E4@9>4 D4@13>4
 GRAMMAR-END
 ================================================================================
+CONCEPT: marcato
+ID: TE-MARCATO
+CATEGORY: articulation
+LEVEL: beginner
+WHAT: Marcato means marked and emphatic — each note is struck strongly and stands out,
+noticeably separated from its neighbors. The emphasis itself is a render-layer overlay (no
+loudness field in the core note grammar); the grammar realizes the marked, detached
+character as short on-beat durations (`>1`) with clear rest gaps between the beats.
+CHALLENGE: Attack each beat forcefully and release quickly so every note sounds pointed,
+weighty, and clearly cut off from the next.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>1 E4@5>1 G4@9>1 C5@13>1
+GRAMMAR-END
+================================================================================
+CONCEPT: sforzando
+ID: TE-SFORZANDO
+CATEGORY: dynamics
+LEVEL: intermediate
+WHAT: Sforzando (sfz) is a sudden strong accent on a single note — one note played much
+louder than everything around it. The loudness spike is a render-layer overlay (the core
+note grammar has no velocity field); the grammar realizes the note's prominence by making
+it stand out texturally — here it is thickened into a chord (`+`) and isolated on the beat
+while the surrounding notes are plain single pitches.
+CHALLENGE: Hit the one marked note (beat 1) with a sudden forceful stroke, then immediately
+drop back to a soft, even level for the following notes.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>4 E4@5>4 G4@9>4 E4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: sustain pedal
+ID: TE-SUSTAIN-PEDAL
+CATEGORY: articulation
+LEVEL: intermediate
+WHAT: The sustain (damper) pedal holds notes on after the keys are released, letting
+harmony blur and ring together. The pedal is a render-layer overlay — there is no pedal
+field in the core note grammar; the grammar approximates the sustained blur by giving each
+note of an arpeggio a long duration so its held slots overlap and the notes accumulate into
+one ringing chord.
+CHALLENGE: Depress the pedal so the rising notes pile up and ring together into a full
+chord, then clear the pedal cleanly at the change of harmony.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>16 E4@5>12 G4@9>8 C5@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: arpeggio / rolled chord
+ID: TE-ARPEGGIO-ROLL
+CATEGORY: articulation
+LEVEL: intermediate
+WHAT: A rolled (spread) chord is notated with a wavy line and means the chord tones are not
+struck simultaneously but sounded in very quick succession from the bottom up, the notes
+ringing on together. The roll direction is a render-layer overlay; the grammar realizes it
+as the chord tones entered one 16th slot apart (bottom to top) with long durations so they
+sustain into a full chord once rolled.
+CHALLENGE: Sweep quickly from the lowest note to the highest so the chord unfurls in a fast
+ripple, holding each note down so the whole chord rings at the top of the roll.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 76 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>16 E4@2>15 G4@3>14 C5@4>13
+GRAMMAR-END
+================================================================================
+CONCEPT: glissando
+ID: TE-GLISSANDO
+CATEGORY: articulation
+LEVEL: intermediate
+WHAT: A glissando is a fast slide across a run of pitches, notated with a line between two
+notes. The sliding gesture is a render-layer overlay; the grammar approximates it as a
+rapid stepwise/scalar run of quick `>1` onsets sweeping up (or down) through the
+intervening pitches to the target note.
+CHALLENGE: Rip smoothly and evenly up the scale so the individual notes blur into a single
+fast slide landing on the top note.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 100 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>1 D4@2>1 E4@3>1 F4@4>1 G4@5>1 A4@6>1 B4@7>1 C5@8>8
+GRAMMAR-END
+================================================================================
+CONCEPT: portato
+ID: TE-PORTATO
+CATEGORY: articulation
+LEVEL: intermediate
+WHAT: Portato (mezzo-staccato) sits between legato and staccato — the notes are slightly
+detached, held for most of their value with a tiny gap before the next onset. The stroke is
+a render-layer overlay; the grammar realizes it as durations slightly shorter than their
+full beat slot (`>3` within a 4-slot beat), leaving a small silent gap between successive
+onsets.
+CHALLENGE: Play each note nearly connected but with a small deliberate lift before the next,
+so the line is smooth yet gently articulated.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 1
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>3 E4@5>3 G4@9>3 C5@13>3
+GRAMMAR-END
+================================================================================

@@ -41,10 +41,12 @@ def _bands_text(genre):
                      for ax in SPLIT)
 
 
-def build_genre_prompt(genre, length=96, exclude=None):
-    """Full from-scratch genre prompt with MANDATORY retrieval baked in. Raises if the genre is unmapped."""
+def build_genre_prompt(genre, length=96, exclude=None, seed=None, k_exemplars=2):
+    """Full from-scratch genre prompt with MANDATORY retrieval baked in. Raises if the genre is unmapped.
+    `seed` (int) varies which exemplars are retrieved so independent same-genre samples differ; `k_exemplars`
+    sets how many real exemplars to show (default 2)."""
     template = load_prompt("newgen"); shared = (PROMPTS / "_shared.md").read_text(encoding="utf-8")
-    retr = R.build_retrieval(genre, exclude=exclude)          # mandatory — raises if no concept map
+    retr = R.build_retrieval(genre, k_exemplars=k_exemplars, exclude=exclude, seed=seed)   # mandatory — raises if no concept map
     budget = cal.c1_budget(genre); fit_thr = cal.fit_threshold(genre)
     prompt = f"""{template}
 

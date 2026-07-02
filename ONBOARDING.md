@@ -40,13 +40,15 @@ libretto/
 ├── tasks/                 # one dir each; every task has a SKILL.md runbook
 │   ├── gaptask/  newgen/  newgen_extend/  morph/  education/  genre_loop/
 │   │                      # setup (build prompt+retrieval) · *_measure (gate) · refine_loop (≤3-round loop)
+├── validation/           # external axis-validation (dose-response vs AudioBox) — no LLM; see validation/README.md
+├── compare/              # Libretto-vs-ABC encoding cost + tool-free reading benchmark — no LLM; see compare/README.md
 ├── data/                  # frozen artifacts
 │   ├── corpus_distribution_314.json   # THE reference (29 axes × 314 songs + genre bands)
 │   ├── corpus_fps.json · metric_corpus.json · within_song_variation_dist.json · newgen_calibration.json
 │   ├── grammar/song_*.txt             # the 314-song corpus (text grammar)
 │   ├── answer_key/grammar_truth.json  # per-song artist/title/genre (curated from Lakh clean_midi)
 │   ├── composing-kb/                  # 34 corpus-attested idiom concepts (newgen retrieval)
-│   └── kb_theory/                     # 128 single-voice pedagogy concepts (education retrieval)
+│   └── kb_theory/                     # 193 music-theory concepts, each with a GRAMMAR example (education retrieval)
 ├── tests/                 # pytest (round-trip, 29-axis shape, determinism, copy self-match)
 ├── tools/check_frozen_core.py         # sha256 integrity of the frozen core
 └── experiments/           # scripts/notes from the validation runs
@@ -59,6 +61,15 @@ libretto/
 - `copy_risk.copy_risk(path)` → note-level novelty (from-scratch gate `< 0.30`).
 - `grammar_to_midi.decode` (= `decode_to_midi`) / `midi_to_grammar.encode` (= `encode_from_midi`) — render / ingest.
 - `band_check`, `genre_band_check`, `axis_feedback` — turn out-of-band axes into musical nudges (loop feedback).
+
+**Analysis & extension subpackages (no LLM):**
+- `libretto.validation` — causally validate any structural axis via dose-response against an independent
+  human-preference proxy (AudioBox-Aesthetics). Register a lever for a new axis and the same machinery reports
+  `within_rho` / ΔCE / sign-test / entanglement. CLI: `python -m libretto.validation`. See `validation/README.md`.
+- `libretto.compare` — why onset is an **absolute slot**, not an ABC-style relative duration: `encoding_cost(song)`
+  (model-free onset-recovery / edit-blast / vertical-alignment cost; Libretto = 0) plus a reproducible **tool-free
+  ABC-vs-Libretto reading benchmark** (stimuli + ground truth + scorer + out-of-meter hallucination metric). CLI:
+  `python -m libretto.compare {cost,benchmark}`. See `compare/README.md`.
 
 **Every task = 4 verbs: SETUP (build prompt + retrieval) → GENERATE (your model) → EVAL (measure/gate) → LOOP
 (optional, ≤3 rounds, pick-best).** Exactly where each is implemented:
@@ -107,9 +118,10 @@ The **frozen core** = `data/corpus_distribution_314.json`, `core/midi_to_grammar
 Everything else (tasks, prompts, generators, KB, tools) is free to modify. `FROZEN.md` records the contract.
 
 ## Packaging note (before you ship)
-`pyproject.toml` declares `packages = ["libretto", "libretto.core", …]`, i.e. it expects `libretto/` to be a
-package directory at the **repo root**. So the GitHub repo should expose this folder as `libretto/` with
-`pyproject.toml` at the root (one level up from the package). Two small things to confirm for a clean
-`pip install`: (1) move `pyproject.toml`/`README`/`VERSION` to the repo root if you want install-from-clone, and
-(2) the `package-data` glob currently omits `data/kb_theory/**` — add it (and `data/answer_key`) so the education
-KB ships when installed. Shipping the **source tree** as-is (run-in-place) needs neither fix.
+`pyproject.toml` declares `packages = ["libretto", "libretto.core", "libretto.generation", "libretto.tasks",
+"libretto.validation", "libretto.compare"]`, i.e. it expects `libretto/` to be a package directory at the **repo
+root**. So the GitHub repo should expose this folder as `libretto/` with `pyproject.toml` at the root (one level
+up from the package). `package-data` ships the frozen data, both KBs (`data/composing-kb/**`, `data/kb_theory/**`),
+`answer_key`, grammar corpus, prompts, and the per-subpackage READMEs. One thing to confirm for a clean
+`pip install`: move `pyproject.toml`/`README`/`VERSION` to the repo root if you want install-from-clone. Shipping
+the **source tree** as-is (run-in-place) needs no fix.

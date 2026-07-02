@@ -370,3 +370,235 @@ VOICES: Piano
   Piano: A3@1>2 B3@3>2 C4@5>2 D4@7>2 E4@9>2 F4@11>2 G4@13>2 A4@15>2
 GRAMMAR-END
 ================================================================================
+CONCEPT: Octatonic (diminished) scale
+ID: TS-OCTATONIC
+CATEGORY: scale
+LEVEL: advanced
+WHAT: An 8-note symmetrical scale alternating half and whole steps (half-whole form here):
+C Db Eb E F# G A Bb C. Because it repeats every minor 3rd it fits diminished-7th harmony
+and dominant-7th(b9) chords; jazz and 20th-century composers use it for tense, symmetrical color.
+CHALLENGE: Keep the strict half-whole alternation even across nine notes up then back down.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Cdim]
+  Piano: C4@1>2 Db4@3>2 Eb4@5>2 E4@7>2 F#4@9>2 G4@11>2 A4@13>2 Bb4@15>2
+@2 [Cdim]
+  Piano: C5@1>2 Bb4@3>2 A4@5>2 G4@7>2 F#4@9>2 E4@11>2 Eb4@13>2 Db4@15>2
+@3 [Cdim]
+  Piano: C4@1>16
+@4 [Cdim]
+  Piano: C4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Lydian dominant scale
+ID: TS-LYDIAN-DOMINANT
+CATEGORY: scale
+LEVEL: advanced
+WHAT: The major scale with a RAISED 4th and a LOWERED 7th (1-2-3-#4-5-6-b7), also called
+Lydian b7 or the acoustic scale. In C: C D E F# G A Bb C. It is the 4th mode of melodic
+minor and the go-to scale over an unaltered dominant-7th(#11) chord.
+CHALLENGE: Voice both color tones — the raised 4th (F#) and the flat 7th (Bb) — cleanly.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F#4@7>2 G4@9>2 A4@11>2 Bb4@13>2 C5@15>2
+@2 [C]
+  Piano: C5@1>2 Bb4@3>2 A4@5>2 G4@7>2 F#4@9>2 E4@11>2 D4@13>2 C4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Altered (super-Locrian) scale
+ID: TS-ALTERED
+CATEGORY: scale
+LEVEL: advanced
+WHAT: The 7th mode of melodic minor (1-b2-b3-b4-b5-b6-b7), also called super-Locrian.
+In C: C Db Eb Fb Gb Ab Bb C. It contains every altered tension of a dominant chord
+(b9, #9, #11, b13), so it is the standard choice over an altered dominant-7th (V7alt).
+CHALLENGE: Spell it correctly (Fb, not E) and keep the dense chromatic lower half even.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 Db4@3>2 Eb4@5>2 Fb4@7>2 Gb4@9>2 Ab4@11>2 Bb4@13>2 C5@15>2
+@2 [C]
+  Piano: C5@1>2 Bb4@3>2 Ab4@5>2 Gb4@7>2 Fb4@9>2 Eb4@11>2 Db4@13>2 C4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Phrygian dominant scale
+ID: TS-PHRYGIAN-DOMINANT
+CATEGORY: scale
+LEVEL: intermediate
+WHAT: The 5th mode of harmonic minor — Phrygian with a MAJOR 3rd (1-b2-3-4-5-b6-b7).
+In C: C Db E F G Ab Bb C. The flat 2nd against the major 3rd (augmented 2nd Db-E) gives
+the fiery Spanish/flamenco and Middle-Eastern sound; it fits a dominant-7th(b9) chord.
+CHALLENGE: Land the augmented-2nd leap (Db to E) crisply without smearing the two notes.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 Db4@3>2 E4@5>2 F4@7>2 G4@9>2 Ab4@11>2 Bb4@13>2 C5@15>2
+@2 [C]
+  Piano: C5@1>2 Bb4@3>2 Ab4@5>2 G4@7>2 F4@9>2 E4@11>2 Db4@13>2 C4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Harmonic major scale
+ID: TS-HARMONIC-MAJOR
+CATEGORY: scale
+LEVEL: advanced
+WHAT: The major scale with a LOWERED 6th (1-2-3-4-5-b6-7). In C: C D E F G Ab B C.
+Like harmonic minor it has an augmented 2nd (Ab-B) between the flat 6th and the natural 7th,
+lending a bright-yet-exotic color; useful over major chords with a b6/b13 flavor.
+CHALLENGE: Keep the major 3rd bright but darken the 6th (Ab); negotiate the Ab-B augmented 2nd.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 88 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F4@7>2 G4@9>2 Ab4@11>2 B4@13>2 C5@15>2
+@2 [C]
+  Piano: C5@1>2 B4@3>2 Ab4@5>2 G4@7>2 F4@9>2 E4@11>2 D4@13>2 C4@15>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Bebop dominant scale
+ID: TS-BEBOP-DOMINANT
+CATEGORY: scale
+LEVEL: advanced
+WHAT: The Mixolydian mode with an added major-7th passing tone, giving an 8-note scale:
+C D E F G A Bb B C. The extra chromatic note (B between Bb and C) keeps chord tones on the
+downbeats in swung eighth-note lines over a dominant-7th chord — the classic bebop device.
+CHALLENGE: Run all eight notes in even eighths so chord tones fall on the beats.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 D4@3>2 E4@5>2 F4@7>2 G4@9>2 A4@11>2 Bb4@13>2 B4@15>2
+@2 [C]
+  Piano: C5@1>2 B4@3>2 Bb4@5>2 A4@7>2 G4@9>2 F4@11>2 E4@13>2 D4@15>2
+@3 [C]
+  Piano: C4@1>16
+@4 [C]
+  Piano: C4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: D major (key)
+ID: TS-KEY-D-MAJOR
+CATEGORY: key
+LEVEL: beginner
+WHAT: D major has TWO sharps: F# and C#. Scale: D E F# G A B C# D. A bright, resonant key
+popular for strings and song. Relative minor is B minor.
+CHALLENGE: Hold both sharps (F#, C#) through a short tune firmly centered on D.
+GRAMMAR-BEGIN
+KEY: D major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [D]
+  Piano: D4@1>4 F#4@5>4 A4@9>4 F#4@13>4
+@2 [A]
+  Piano: E4@1>4 C#4@5>4 E4@9>4 A4@13>4
+@3 [G]
+  Piano: B4@1>4 A4@5>4 G4@9>4 F#4@13>4
+@4 [D]
+  Piano: E4@1>4 C#4@5>4 D4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: A major (key)
+ID: TS-KEY-A-MAJOR
+CATEGORY: key
+LEVEL: intermediate
+WHAT: A major has THREE sharps: F#, C# and G#. Scale: A B C# D E F# G# A. A warm, brilliant
+key common in guitar and vocal music. Relative minor is F# minor.
+CHALLENGE: Keep all three sharps (F#, C#, G#) consistent across a short tune centered on A.
+GRAMMAR-BEGIN
+KEY: A major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [A]
+  Piano: A3@1>4 C#4@5>4 E4@9>4 C#4@13>4
+@2 [E]
+  Piano: B3@1>4 G#4@5>4 B3@9>4 E4@13>4
+@3 [D]
+  Piano: F#4@1>4 E4@5>4 D4@9>4 C#4@13>4
+@4 [A]
+  Piano: B3@1>4 G#3@5>4 A3@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: E major (key)
+ID: TS-KEY-E-MAJOR
+CATEGORY: key
+LEVEL: intermediate
+WHAT: E major has FOUR sharps: F#, C#, G# and D#. Scale: E F# G# A B C# D# E. A bright,
+ringing key, a favorite on guitar. Relative minor is C# minor.
+CHALLENGE: Keep all four sharps (F#, C#, G#, D#) accurate through a short tune on E.
+GRAMMAR-BEGIN
+KEY: E major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [E]
+  Piano: E4@1>4 G#4@5>4 B4@9>4 G#4@13>4
+@2 [B]
+  Piano: F#4@1>4 D#4@5>4 F#4@9>4 B4@13>4
+@3 [A]
+  Piano: C#5@1>4 B4@5>4 A4@9>4 G#4@13>4
+@4 [E]
+  Piano: F#4@1>4 D#4@5>4 E4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Bb major (key)
+ID: TS-KEY-BB-MAJOR
+CATEGORY: key
+LEVEL: intermediate
+WHAT: Bb major has TWO flats: Bb and Eb. Scale: Bb C D Eb F G A Bb. A warm key idiomatic
+for brass and wind instruments. Relative minor is G minor.
+CHALLENGE: Hold both flats (Bb, Eb) through a short tune firmly centered on Bb.
+GRAMMAR-BEGIN
+KEY: Bb major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Bb]
+  Piano: Bb3@1>4 D4@5>4 F4@9>4 D4@13>4
+@2 [F]
+  Piano: C4@1>4 A3@5>4 C4@9>4 F4@13>4
+@3 [Eb]
+  Piano: G4@1>4 F4@5>4 Eb4@9>4 D4@13>4
+@4 [Bb]
+  Piano: C4@1>4 A3@5>4 Bb3@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Eb major (key)
+ID: TS-KEY-EB-MAJOR
+CATEGORY: key
+LEVEL: intermediate
+WHAT: Eb major has THREE flats: Bb, Eb and Ab. Scale: Eb F G Ab Bb C D Eb. A rich, mellow
+key central to jazz and concert-band writing. Relative minor is C minor.
+CHALLENGE: Keep all three flats (Bb, Eb, Ab) consistent across a short tune on Eb.
+GRAMMAR-BEGIN
+KEY: Eb major | METER: 4/4 | TEMPO: 92 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Eb]
+  Piano: Eb4@1>4 G4@5>4 Bb4@9>4 G4@13>4
+@2 [Bb]
+  Piano: F4@1>4 D4@5>4 F4@9>4 Bb4@13>4
+@3 [Ab]
+  Piano: C5@1>4 Bb4@5>4 Ab4@9>4 G4@13>4
+@4 [Eb]
+  Piano: F4@1>4 D4@5>4 Eb4@9>8
+GRAMMAR-END
+================================================================================
+CONCEPT: Relative major and minor keys
+ID: TS-RELATIVE-KEYS
+CATEGORY: key
+LEVEL: intermediate
+WHAT: A major key and the minor key a minor 3rd below it SHARE the same key signature and
+notes — they are relatives (e.g. C major and A minor, both with no sharps or flats). The
+difference is which note feels like "home": C for the major, A for the minor. A phrase can
+pivot between the two centers without changing any accidentals.
+CHALLENGE: Play the same white-key notes but resolve first to A (minor) then to C (major).
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 90 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Am]
+  Piano: E4@1>4 D4@5>4 C4@9>4 B3@13>4
+@2 [Am]
+  Piano: C4@1>4 B3@5>4 A3@9>8
+@3 [C]
+  Piano: G4@1>4 F4@5>4 E4@9>4 D4@13>4
+@4 [C]
+  Piano: E4@1>4 D4@5>4 C4@9>8
+GRAMMAR-END
+================================================================================

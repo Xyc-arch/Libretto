@@ -304,3 +304,166 @@ VOICES: Piano
   Piano: Eb5+G5+Bb5@1>16
 GRAMMAR-END
 ================================================================================
+CONCEPT: Minor-major 7th chord
+ID: TC-MINMAJ7
+CATEGORY: chord
+LEVEL: advanced
+WHAT: A minor triad plus a MAJOR seventh (11 semitones): C-Eb-G-B. The minor third gives
+it a dark base while the major seventh adds a sharp, tense glow; the "James Bond" chord.
+CHALLENGE: Block all four notes, then arpeggiate; hear the clash of the minor third against
+the major seventh.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [CmMaj7]
+  Piano: C4+Eb4+G4+B4@1>16
+@2 [CmMaj7]
+  Piano: C4@1>4 Eb4@5>4 G4@9>4 B4@13>4
+GRAMMAR-END
+================================================================================
+CONCEPT: Dominant 11th chord
+ID: TC-DOM11
+CATEGORY: chord
+LEVEL: advanced
+WHAT: A dominant 9th extended up to the eleventh (the fourth, an octave up): C-E-G-Bb-D5-F5.
+The third is often dropped in practice to avoid clashing with the eleventh; here the full
+stack is shown. Broad, suspended, gospel-tinged.
+CHALLENGE: Voice the six-note block, then climb the arpeggio one note every two beats.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C11]
+  Piano: C4+E4+G4+Bb4+D5+F5@1>16
+@2 [C11]
+  Piano: C4@1>2 E4@3>2 G4@5>2 Bb4@7>2 D5@9>2 F5@11>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Dominant 13th chord
+ID: TC-DOM13
+CATEGORY: chord
+LEVEL: advanced
+WHAT: A dominant chord extended all the way to the thirteenth (the sixth, an octave up):
+C-E-G-Bb-D5-A5. The eleventh is usually omitted; the thirteenth adds a rich, jazzy top.
+The lush, full-bodied dominant of big-band and jazz.
+CHALLENGE: Voice the six-note block, then arpeggiate the extended stack across the second bar.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C13]
+  Piano: C4+E4+G4+Bb4+D5+A5@1>16
+@2 [C13]
+  Piano: C4@1>2 E4@3>2 G4@5>2 Bb4@7>2 D5@9>2 A5@11>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Dominant 7 flat-9 chord
+ID: TC-DOM7B9
+CATEGORY: chord
+LEVEL: advanced
+WHAT: A dominant 7th with a flattened ninth: C-E-G-Bb-Db5. An altered dominant, spiky and
+tense; the b9 sits a half-step above the root and heightens the pull to resolution, common
+before a minor tonic.
+CHALLENGE: Block the five-note chord, then arpeggiate; hear the biting half-step of the b9.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C7b9]
+  Piano: C4+E4+G4+Bb4+Db5@1>16
+@2 [C7b9]
+  Piano: C4@1>2 E4@3>2 G4@5>2 Bb4@7>2 Db5@9>2 C5@11>2
+GRAMMAR-END
+================================================================================
+CONCEPT: Chord inversions (root, 1st, 2nd)
+ID: TC-INVERSIONS
+CATEGORY: chord
+LEVEL: intermediate
+WHAT: The same triad can be stacked from different bass notes. Root position C-E-G has C on
+the bottom; first inversion (C/E) puts the third E on the bottom: E-G-C; second inversion
+(C/G) puts the fifth G on the bottom: G-C-E. The slash names the bass note.
+CHALLENGE: Play the three voicings of the C major triad in a row as block chords and hear
+the bass note change while the harmony stays the same.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [C/E]
+  Piano: E4+G4+C5@1>16
+@3 [C/G]
+  Piano: G4+C5+E5@1>16
+@4 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Secondary dominant (V7 of V)
+ID: TC-SECONDARY-DOM
+CATEGORY: chord
+LEVEL: advanced
+WHAT: A dominant 7th borrowed to tonicize a chord other than the tonic. In C major, D7
+(D-F#-A-C) is the V7 of G; its F# is chromatic and pulls strongly to G, treating the
+dominant G momentarily like a temporary tonic. Here D7 resolves to G.
+CHALLENGE: Block D7, then resolve to G; hear the chromatic F# lift the ear toward the
+dominant.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [D7]
+  Piano: D4+F#4+A4+C5@1>16
+@2 [G]
+  Piano: G3+B3+D4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Neapolitan chord (bII)
+ID: TC-NEAPOLITAN
+CATEGORY: chord
+LEVEL: advanced
+WHAT: A major triad built on the flattened second scale degree, usually in first inversion
+(so called the Neapolitan sixth). In C major/minor the root is Db: Db-F-Ab, voiced in first
+inversion as F-Ab-Db. It has a dark, dramatic pull down to the dominant V (G).
+CHALLENGE: Block the Neapolitan sixth (F-Ab-Db), then resolve to the dominant G; hear the
+Db slip down toward the leading tone region.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Db/F]
+  Piano: F4+Ab4+Db5@1>16
+@2 [G]
+  Piano: G4+B4+D5@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Augmented sixth chord (Italian / German)
+ID: TC-AUG-SIXTH
+CATEGORY: chord
+LEVEL: advanced
+WHAT: A chromatic pre-dominant built on the flattened sixth, with an augmented sixth
+interval that expands outward to the dominant. In C, the Italian sixth is Ab-C-F#; the
+German sixth adds Eb: Ab-C-Eb-F#. The outer Ab and F# spread to G, resolving to V.
+CHALLENGE: Block the Italian sixth, then the German sixth, then resolve outward to the
+dominant G; hear the Ab and F# splay apart onto G.
+GRAMMAR-BEGIN
+KEY: C minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 3
+VOICES: Piano
+@1 [It6]
+  Piano: Ab3+C4+F#4@1>16
+@2 [Ger6]
+  Piano: Ab3+C4+Eb4+F#4@1>16
+@3 [G]
+  Piano: G3+B3+D4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Quartal chord (stacked fourths)
+ID: TC-QUARTAL
+CATEGORY: chord
+LEVEL: advanced
+WHAT: A chord built from stacked perfect fourths instead of thirds: C-F-Bb. Open, modern,
+and ambiguous, with no clear major/minor identity; a staple of modal jazz and 20th-century
+harmony.
+CHALLENGE: Block the three-note quartal stack, then arpeggiate root-fourth-seventh evenly.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [Cquartal]
+  Piano: C4+F4+Bb4@1>16
+@2 [Cquartal]
+  Piano: C4@1>4 F4@5>4 Bb4@9>4 C5@13>4
+GRAMMAR-END
+================================================================================

@@ -330,3 +330,171 @@ VOICES: Piano
   Piano: A3+C4+E4@1>16
 GRAMMAR-END
 ================================================================================
+CONCEPT: Circle of fifths progression
+ID: TP-CIRCLE-OF-FIFTHS
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: A diatonic circle-of-fifths sequence: the roots fall by fifths through every scale
+degree back to the tonic. In C major: C-F-Bdim-Em-Am-Dm-G-C. Each chord's root is a fifth
+below (or fourth above) the previous, the strongest possible root motion.
+CHALLENGE: Play one block chord per bar and hear the relentless pull as each root drops a
+fifth; note the diminished vii (Bdim) as the only diminished link in the chain.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 8
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [F]
+  Piano: F3+A3+C4@1>16
+@3 [Bdim]
+  Piano: B3+D4+F4@1>16
+@4 [Em]
+  Piano: E4+G4+B4@1>16
+@5 [Am]
+  Piano: A3+C4+E4@1>16
+@6 [Dm]
+  Piano: D4+F4+A4@1>16
+@7 [G]
+  Piano: G3+B3+D4@1>16
+@8 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: I-vi-ii-V turnaround
+ID: TP-TURNAROUND
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: The classic jazz/standards turnaround: I-vi-ii-V. In C major: C-Am-Dm-G. It cycles
+smoothly and the V at the end drives straight back to I, ideal for looping the top of a form.
+CHALLENGE: Play one block chord per bar; feel the descending-fifths pull from ii to V to I
+that makes the turnaround loop so naturally.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [Am]
+  Piano: A3+C4+E4@1>16
+@3 [Dm]
+  Piano: D4+F4+A4@1>16
+@4 [G]
+  Piano: G3+B3+D4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Andalusian cadence i-bVII-bVI-V
+ID: TP-ANDALUSIAN
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: The Andalusian cadence: i-bVII-bVI-V. In A minor: Am-G-F-E. A descending stepwise
+bass (A-G-F-E) with a MAJOR V (E, raised leading tone G#), giving its distinctive
+flamenco/Phrygian color.
+CHALLENGE: Play one block chord per bar; follow the bass falling by step and note the raised
+G# in the E major chord that sharpens the pull back to i.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Am]
+  Piano: A3+C4+E4@1>16
+@2 [G]
+  Piano: G3+B3+D4@1>16
+@3 [F]
+  Piano: F3+A3+C4@1>16
+@4 [E]
+  Piano: E3+G#3+B3@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Pachelbel's Canon progression
+ID: TP-PACHELBEL
+CATEGORY: progression
+LEVEL: intermediate
+WHAT: The Pachelbel Canon progression: I-V-vi-iii-IV-I-IV-V. In C major:
+C-G-Am-Em-F-C-F-G. An eight-bar descending sequence heard in countless pieces from the
+Baroque canon to modern pop.
+CHALLENGE: Play one block chord per bar; hear the descending bass line and how the final
+V (G) leads the whole eight-bar pattern back to I.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 8
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [G]
+  Piano: G3+B3+D4@1>16
+@3 [Am]
+  Piano: A3+C4+E4@1>16
+@4 [Em]
+  Piano: E4+G4+B4@1>16
+@5 [F]
+  Piano: F3+A3+C4@1>16
+@6 [C]
+  Piano: C4+E4+G4@1>16
+@7 [F]
+  Piano: F3+A3+C4@1>16
+@8 [G]
+  Piano: G3+B3+D4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Secondary dominant V7/V
+ID: TP-SECONDARY-DOM
+CATEGORY: progression
+LEVEL: advanced
+WHAT: A secondary dominant tonicizing the V: I-V7/V-V-I. In C major: C-D7-G-C. The D7 is
+the dominant of G, borrowing an F# to point strongly at the V before the phrase resolves home.
+CHALLENGE: Play the blocks and hear the chromatic F# in the D7 chord momentarily making G
+feel like a temporary tonic before the true I returns.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [C]
+  Piano: C4+E4+G4@1>16
+@2 [D7]
+  Piano: D4+F#4+A4+C5@1>16
+@3 [G]
+  Piano: G3+B3+D4@1>16
+@4 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Tritone substitution ii-bII7-I
+ID: TP-TRITONE-SUB
+CATEGORY: progression
+LEVEL: advanced
+WHAT: A tritone substitution replacing the V7 with the dominant a tritone away: ii-bII7-I.
+In C major: Dm7-Db7-C. Db7 shares the tritone (F/B) with G7 but adds a chromatic bass
+descent Db-C into the tonic, a hallmark of jazz reharmonization.
+CHALLENGE: Play the blocks and hear the smooth half-step slide from the bII7 (Db7) down
+into the tonic C, replacing the expected G7 resolution.
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Dm7]
+  Piano: D4+F4+A4+C5@1>16
+@2 [Db7]
+  Piano: Db4+F4+Ab4+B4@1>16
+@3 [C]
+  Piano: C4+E4+G4@1>16
+@4 [C]
+  Piano: C4+E4+G4@1>16
+GRAMMAR-END
+================================================================================
+CONCEPT: Picardy third (minor cadence to major tonic)
+ID: TP-CAD-PICARDY
+CATEGORY: cadence
+LEVEL: intermediate
+WHAT: The Picardy third: a minor-key passage that cadences onto a MAJOR tonic. In A minor:
+Am-Dm-E-A, where the final chord raises the third (C to C#) to end on A MAJOR instead of A
+minor, a bright, hopeful Baroque-era close.
+CHALLENGE: Play the blocks through the minor progression, then land on the surprising A
+major chord; hear the raised C# transform the expected minor tonic into major.
+GRAMMAR-BEGIN
+KEY: A minor | METER: 4/4 | TEMPO: 80 | GRID: 16th | BARS: 4
+VOICES: Piano
+@1 [Am]
+  Piano: A3+C4+E4@1>16
+@2 [Dm]
+  Piano: D4+F4+A4@1>16
+@3 [E]
+  Piano: E3+G#3+B3@1>16
+@4 [A]
+  Piano: A3+C#4+E4@1>16
+GRAMMAR-END
+================================================================================

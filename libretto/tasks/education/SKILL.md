@@ -24,6 +24,9 @@ Only `level` + `key` required; the rest optional — the system verifies the one
 `rhythm_feel` ("fast"/"slow"/"moderate" → note-density/value), `require_chords` (["Dm","Gm","A"]),
 `dominant_chord` ("Dm" → must be most-used), `dynamics` (free text → render-layer overlay, reported not
 gated), `concept_ids` / `dimensions` / `n_concepts` (else auto-scaled), `bars`, `title`.
+`realistic: true` (alias `hybrid`) — a **realistic, non-trivial** drill (use a MAJOR key): sets `grand_staff`
++ `rhythm_mix` and raises the concept/bar budget, so the piece mixes rhythms and covers almost the whole staff.
+`grand_staff` / `rhythm_mix` can also be set individually (dict form overrides the band/coverage thresholds).
 
 ## Gate (measure.measure)
 - **SINGLE-CHANNEL** — exactly one voice.
@@ -34,7 +37,12 @@ gated), `concept_ids` / `dimensions` / `n_concepts` (else auto-scaled), `bars`, 
   manual-review (don't fail the gate).
 - **REQUIREMENTS** — the explicit RequirementSpec constraints are verified: time-signature (header METER),
   tempo (header in range), required chords present, dominant chord most-used, rhythm feel (median note
-  duration + onsets/bar). Dynamics is reported as a performance overlay (not gated).
+  duration + onsets/bar). Dynamics is reported as a performance overlay (not gated). For `grand_staff` /
+  `realistic`: **span+coverage** — notes reach both the bass (<middle C) and treble (≥middle C) registers with
+  a real share of each, AND cover ≥60% of the in-key pitches across the staff range (hits most notes a reader
+  meets, not just the extremes). For `rhythm_mix`: **mixed & non-repetitive** — several distinct per-bar
+  rhythms, longest identical run ≤2 bars, and the rhythm changes bar-to-bar ≥50% of the time (interleaved,
+  no "AAAA BBBB" blocks).
 - **NOVEL (copy control)** — two signals:
   - `copy_vs_shown < 0.50` — the PRIMARY novelty gate: the piece must NOT transcribe the kb_theory example or
     the classical exemplar it was handed.
