@@ -20,7 +20,7 @@ from libretto.core import Song, metrics_for, copy_risk, axis_feedback as afb
 from . import refine_loop as nrl
 
 DATA = libretto.data_root()
-CANON = json.loads((DATA / "corpus_distribution_314.json").read_text())
+CANON = json.loads((DATA / "corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 GC = CANON["genre_conditioned"]; SPLIT = list(GC.keys())
 # axes that need the WHOLE piece to be meaningful — judged on the assembled piece, not per chunk:

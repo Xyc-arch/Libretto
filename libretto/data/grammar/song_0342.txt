@@ -1,0 +1,1358 @@
+KEY: B minor | METER: 2/8 | TEMPO: 67 | GRID: 8th (adaptive) | BARS: 226
+VOICES: Kate Bush[prog=65], Army Dreamers[prog=82], Army Dreamettes[prog=52], Mandolin[prog=84], Guitar[prog=24], Electric Guitar[prog=29], Whining Harmonica[prog=111], Rifle Clicks[drums], Sampled Strings[prog=41], Sampled Strings#2[prog=41], Bass[prog=32], Percussion[prog=116]
+@1 [-] (grid:64)
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+@2 [B | Bm] (grid:64)
+  Guitar           : B3+B4@1>24^56 B4+D5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Sampled Strings  : F#3+D4@9>8^104
+  Sampled Strings#2: B1@1>8^104
+  Bass             : B3@1>24^104
+  Percussion       : B3@1>24^104
+@3 [Bm7 | E]
+  Mandolin         : A5@1>1^80 F#5@2>2^80
+  Guitar           : B4+D5@1>1^56 E3@2>3^56
+  Sampled Strings  : D3+F#3+B3@1>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@4 [G | D]
+  Mandolin         : A5@2>1^80
+  Guitar           : B4+D5@1>1^56 B4+D5@2>1^56
+  Sampled Strings  : E3+G3+B3@1>1^104
+@5 [F# | F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+G#5@2>1^56
+  Sampled Strings  : C#3+A3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@6 [F#m | A] (grid:24t)
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Sampled Strings  : C#3+F#3@1>3^104 C#4@5>1^104
+  Sampled Strings#2: A1@4>3^104
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@7 [A] (grid:64)
+  Guitar           : A4+C#5+E5@1>8^56 A4+C#5+E5@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+  Sampled Strings  : D4@1>4^104 C#4@5>4^104 A3@9>4^104 E3@13>4^104
+@8 [B | Bm] (grid:64)
+  Kate Bush        : B3+B4@9>8^104
+  Army Dreamers    : B4@9>8^32
+  Guitar           : B3@1>24^56 B4+D5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Sampled Strings  : D3+B3@9>8^104
+  Sampled Strings#2: B1@1>8^104
+  Bass             : B3@1>24^104
+  Percussion       : B3@1>24^104
+@9 [Bm | E]
+  Kate Bush        : F#4@1>1^104
+  Mandolin         : D5@1>1^80 C#5@2>2^80
+  Guitar           : B4+D5@1>1^56 E3@2>3^56
+  Sampled Strings  : D3+F#3+B3@1>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@10 [Em | C#m7]
+  Kate Bush        : E4@1>1^104 C#4@2>1^104
+  Mandolin         : D5@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3+B3@1>1^104
+@11 [B | F#m]
+  Mandolin         : F#4@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+G#5@2>1^56
+  Sampled Strings  : C#3+A3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@12 [F#m | A] (grid:24t)
+  Army Dreamers    : F#3@3>1^104 A3@4>1^104 F#3@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Sampled Strings  : C#3+F#3@1>3^104 E3+C#4@5>6^104
+  Sampled Strings#2: A1@4>3^104
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@13 [A] (grid:64)
+  Army Dreamers    : A3@1>8^104 E3@9>8^104
+  Guitar           : A4+C#5+E5@1>8^56 A4+C#5+E5@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+  Sampled Strings  : D4@1>4^104 C#4@5>4^104 A3@9>4^104 E3@13>4^104
+@14 [B | Bm] (grid:64)
+  Guitar           : B3@1>24^56 B4+D5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Sampled Strings  : F#3+D4@9>8^104
+  Sampled Strings#2: B1@1>8^104
+  Bass             : B3@1>24^104
+  Percussion       : B3@1>24^104
+@15 [Bm7 | E]
+  Mandolin         : A5@1>1^80 F#5@2>2^80
+  Guitar           : B4+D5@1>1^56 E3@2>3^56
+  Sampled Strings  : D3+F#3+B3@1>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@16 [G | D]
+  Mandolin         : A5@2>1^80
+  Guitar           : B4+D5@1>1^56 B4+D5@2>1^56
+  Sampled Strings  : E3+G3+B3@1>1^104
+@17 [F# | F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+G#5@2>1^56
+  Sampled Strings  : C#3+A3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@18 [F#m] (grid:64)
+  Kate Bush        : F#3@5>4^104 A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : C#3+F#3@1>8^104 A3+C#4@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@19 [A] (grid:16)
+  Kate Bush        : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : B3+D4@1>1^104 A3+C#4@2>1^104 E3@3>1^104 C#3@4>1^104
+@20 [B | Bm]
+  Guitar           : B3@1>3^56 B4+D5+F#5@2>1^56
+  Sampled Strings  : D3+B3@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@21 [Bm | Em]
+  Mandolin         : F#4@1>1^80 G4@2>2^80
+  Guitar           : B4+D5+F#5@1>1^56 E3@2>3^56
+  Sampled Strings  : D3+F#3+B3@1>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@22 [Em]
+  Mandolin         : B4@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3+B3@1>1^104
+@23 [F# | F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+G#5@2>1^56
+  Sampled Strings  : C#3+A3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@24 [F#m] (grid:24t)
+  Kate Bush        : F#3@3>1^104 A3@4>1^104 F#3@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Sampled Strings  : C#3+F#3@1>3^104 C#4@5>1^104
+  Sampled Strings#2: A1@4>3^104
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@25 [A] (grid:64)
+  Kate Bush        : A3@1>8^104 E3@9>8^104
+  Guitar           : A4+C#5+E5@1>8^56 A4+C#5+E5@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+  Sampled Strings  : D4@1>4^104 C#4@5>4^104 A3@9>4^104 E3@13>4^104
+@26 [B | Bm] (grid:64)
+  Kate Bush        : B3@1>8^104 D4@9>4^104 E4@13>4^104
+  Guitar           : B3@1>24^56 B4+D5+F#5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Sampled Strings  : F#3+B3@1>8^104
+  Sampled Strings#2: B1@1>8^104
+  Bass             : B3@1>24^104
+  Percussion       : B3@1>24^104
+@27 [D | E] (grid:16)
+  Kate Bush        : F#4@1>1^104 A4@2>1^104 B4@3>4^104
+  Mandolin         : A5@1>2^80 F#5@3>4^80
+  Guitar           : B4+D5+F#5@1>2^56 E3@3>6^56
+  Bass             : E3@3>6^104
+  Percussion       : B3@3>6^104
+@28 [Bm7] (grid:24t)
+  Kate Bush        : B4@5>1^104
+  Mandolin         : A5@4>3^80
+  Guitar           : B4+D5@1>3^56 B4+D5@4>3^56
+@29 [F#m] (grid:16)
+  Kate Bush        : A4@1>1^104 B4@2>1^104 A4@3>3^104
+  Mandolin         : C#5@1>6^80
+  Guitar           : F#3@1>6^56 A4+C#5+F#5@3>2^56
+  Bass             : F#3@1>6^104
+  Percussion       : B3@1>6^104
+@30 [F#m | A] (grid:24t)
+  Kate Bush        : C#4@3>1^104 E4@4>1^104 C#4@5>1^104
+  Army Dreamers    : A3@4>1^104 F#3@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@31 [A] (grid:64)
+  Kate Bush        : E4@1>8^104 C#4@9>8^104
+  Army Dreamers    : A3@1>8^104 E3@9>8^104
+  Guitar           : A4+C#5+E5@1>8^56 A4+C#5+E5@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+@32 [B | Bm] (grid:64)
+  Kate Bush        : B3@9>8^104 C#4@13>4^104
+  Guitar           : B3@1>24^56 B4+D5+F#5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Bass             : B3@1>24^104
+  Percussion       : B3@1>24^104
+@33 [Bm | A] (grid:16)
+  Kate Bush        : D4@1>1^104 E4@2>1^104 F#4@3>1^104 A4@4>1^104
+  Mandolin         : D5@1>2^80 C#5@3>4^80
+  Guitar           : B4+D5+F#5@1>2^56 E3@3>6^56
+  Bass             : E3@3>6^104
+  Percussion       : B3@3>6^104
+@34 [Em7] (grid:24t)
+  Kate Bush        : B4@1>4^104 B4@5>1^104
+  Mandolin         : D5@4>3^80
+  Guitar           : G4+B4+E5@1>3^56 G4+B4+E5@4>3^56
+@35 [B | F#m] (grid:16)
+  Kate Bush        : A4@1>1^104 B4@2>1^104 A4@3>3^104
+  Mandolin         : F#4@1>6^80
+  Guitar           : F#3@1>6^56 A4+C#5+F#5@3>1^56 G#5@4>2^56
+  Bass             : F#3@1>6^104
+  Percussion       : B3@1>6^104
+@36 [F#m | A] (grid:24t)
+  Kate Bush        : C#4@3>1^104 E4@4>1^104 C#4@5>1^104
+  Army Dreamers    : F#3@3>1^104 A3@4>1^104 F#3@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@37 [A] (grid:64)
+  Kate Bush        : E4@1>8^104 F#4@9>8^104
+  Army Dreamers    : A3@1>8^104 E3@9>8^104
+  Guitar           : A4+C#5+E5@1>4^56 D5@5>4^56 A4+C#5+E5@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+@38 [B | Bm] (grid:64)
+  Kate Bush        : B3@9>8^104 C#4@13>4^104
+  Guitar           : B3@1>24^56 B4+D5+F#5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Bass             : B3@1>24^104
+  Percussion       : B3@1>24^104
+@39 [D | E] (grid:16)
+  Kate Bush        : D4@1>1^104 E4@2>1^104 F#4@3>1^104 A4@4>1^104
+  Mandolin         : A5@1>2^80 F#5@3>4^80
+  Guitar           : B4+D5+F#5@1>2^56 E3@3>6^56
+  Bass             : E3@3>6^104
+  Percussion       : B3@3>6^104
+@40 [Bm7] (grid:24t)
+  Kate Bush        : B4@1>4^104 A3@5>1^104
+  Mandolin         : A5@4>3^80
+  Guitar           : B4+D5@1>3^56 B4+D5@4>3^56
+@41 [F#m] (grid:16)
+  Kate Bush        : A4@1>1^104 B4@2>1^104 A4@3>3^104
+  Mandolin         : C#5@1>6^80
+  Guitar           : F#3@1>6^56 A4+C#5+F#5@3>2^56
+  Bass             : F#3@1>6^104
+  Percussion       : B3@1>6^104
+@42 [F#m | A] (grid:24t)
+  Kate Bush        : A3@3>1^104 E4@4>1^104 C#4@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@43 [A] (grid:64)
+  Kate Bush        : E4@1>8^104 C#4@9>8^104
+  Guitar           : A4+C#5+E5@1>8^56 A4+C#5+E5@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+@44 [B | Bm] (grid:64)
+  Kate Bush        : B3@9>8^104
+  Guitar           : B3@1>24^56 B4+D5+F#5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Bass             : B3@1>24^104
+  Percussion       : B3@1>24^104
+@45 [Bm | Em] (grid:16)
+  Kate Bush        : D4@1>1^104 E4@2>1^104 F#4@3>1^104 A4@4>1^104
+  Mandolin         : F#4@1>2^80 G4@3>4^80
+  Guitar           : B4+D5+F#5@1>2^56 E3@3>6^56
+  Bass             : E3@3>6^104
+  Percussion       : B3@3>6^104
+@46 [Em] (grid:24t)
+  Kate Bush        : B4@1>4^104 D4@5>1^104
+  Mandolin         : B4@4>3^80
+  Guitar           : G4+B4+E5@1>3^56 G4+B4+E5@4>3^56
+@47 [F#m] (grid:16)
+  Kate Bush        : A4@1>1^104 B4@2>1^104 A4@3>3^104
+  Mandolin         : C#5@1>6^80
+  Guitar           : F#3@1>6^56 A4+C#5+F#5@3>2^56
+  Bass             : F#3@1>6^104
+  Percussion       : B3@1>6^104
+@48 [F#m | A] (grid:24t)
+  Kate Bush        : A3@3>1^104 E4@4>1^104 C#4@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@49 [A] (grid:64)
+  Kate Bush        : E4@1>8^104 C#4@9>8^104
+  Guitar           : A4+C#5+E5@1>8^56 A4+C#5+E5@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+@50 [Bm] (grid:64)
+  Army Dreamers    : D4@1>8^104 D4@9>4^104 E4@13>4^104
+  Mandolin         : F#4@1>2^80 F#4@3>2^80 F#4@5>4^80 D5@9>4^80 F#4@13>4^80
+  Guitar           : B3@1>24^56 B4+D5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Sampled Strings  : F#3@1>24^104
+  Bass             : B3@1>24^104
+  Percussion       : B3@1>24^104
+@51 [Bm | E] (grid:32)
+  Army Dreamers    : F#4@1>4^104 E4@5>2^104 D4@7>2^104
+  Mandolin         : B4@1>4^80 F#4@5>1^80 F#4@6>1^80 F#4@7>2^80
+  Guitar           : B4+D5+F#5@1>4^56 E4@5>12^56
+  Sampled Strings  : G#3@5>8^104
+  Bass             : E4@5>12^104
+  Percussion       : B3@5>12^104
+@52 [G#dim | A] (grid:16)
+  Army Dreamers    : E4@1>1^104 D4@2>1^104 E4@3>2^104
+  Mandolin         : G#4@1>1^80 F#4@2>1^80 A4@3>2^80
+  Guitar           : B4+D5+G#5@1>2^56 B4+D5+A5@3>2^56
+  Sampled Strings  : B3@3>2^104
+@53 [Bm7 | D] (grid:32)
+  Kate Bush        : D5@5>2^104 C#5@7>2^104
+  Army Dreamers    : D4@1>12^104
+  Mandolin         : D4@1>1^80 D4@2>1^80 D4@3>2^80 F#4@5>4^80
+  Guitar           : D4@1>12^56 A4+D5+E5@5>4^56
+  Sampled Strings  : A3@1>4^104 A3@5>4^104
+  Bass             : D4@1>12^104
+  Percussion       : B3@1>12^104
+@54 [D | F#] (grid:32)
+  Kate Bush        : D5@1>2^104 C#5@3>2^104 E5@5>2^104 D5@7>2^104
+  Mandolin         : D4@1>4^80 C#4@5>1^80 C#4@6>1^80 C#4@7>2^80
+  Guitar           : A4+D5+F#5@1>4^56 F#3@5>12^56
+  Sampled Strings  : D4@1>4^104 C#4@5>4^104
+  Bass             : F#3@5>12^104
+  Percussion       : B3@5>12^104
+@55 [A | F#m] (grid:16)
+  Kate Bush        : C#5@1>1^104 B4@2>1^104 A4@3>1^104 F#4@4>1^104
+  Mandolin         : E4@1>1^80 C#4@2>1^80 F#4@3>2^80
+  Guitar           : A4@1>2^56 C#5@3>2^56
+  Sampled Strings  : A3@1>2^104 F#3@3>2^104
+@56 [Bm] (grid:32)
+  Kate Bush        : A4@1>4^104 F#4@5>8^104
+  Army Dreamers    : D4@1>4^104 D4@5>2^104 E4@7>2^104
+  Mandolin         : F#4@1>1^80 F#4@2>1^80 F#4@3>2^80 D5@5>2^80 F#4@7>2^80
+  Guitar           : B3@1>12^56 B4+D5@5>4^56
+  Electric Guitar  : F#6@1>8^104
+  Sampled Strings  : B3@1>12^104
+  Bass             : B3@1>12^104
+  Percussion       : B3@1>12^104
+@57 [Bm | E] (grid:32)
+  Army Dreamers    : F#4@1>4^104 E4@5>2^104 D4@7>2^104
+  Mandolin         : B4@1>4^80 F#4@5>1^80 F#4@6>1^80 F#4@7>2^80
+  Guitar           : B4+D5+F#5@1>4^56 E4@5>12^56
+  Electric Guitar  : E6@1>1^56 D6@2>1^56 B5@3>14^56
+  Sampled Strings  : G#3@5>8^104
+  Bass             : E4@5>12^104
+  Percussion       : B3@5>12^104
+@58 [G#dim | D] (grid:16)
+  Army Dreamers    : E4@1>1^104 D4@2>1^104 E4@3>1^104 D4@4>1^104
+  Mandolin         : G#4@1>1^80 F#4@2>1^80 A4@3>2^80
+  Guitar           : B4+D5+G#5@1>2^56 B4+D5+A5@3>2^56
+  Sampled Strings  : B3@3>2^104
+@59 [D] (grid:32)
+  Kate Bush        : D5@5>2^104 C#5@7>2^104
+  Army Dreamers    : E4@1>2^104 D4@3>10^104
+  Mandolin         : D4@1>1^80 D4@2>1^80 D4@3>2^80 F#4@5>4^80
+  Guitar           : D4@1>12^56 A4+D5+E5@5>4^56
+  Sampled Strings  : A3@1>8^104
+  Bass             : D4@1>12^104
+  Percussion       : B3@1>12^104
+@60 [D | F#] (grid:32)
+  Kate Bush        : D5@1>2^104 C#5@3>2^104 E5@5>2^104 D5@7>2^104
+  Mandolin         : D4@1>4^80 C#4@5>1^80 C#4@6>1^80 C#4@7>2^80
+  Guitar           : A4+D5+F#5@1>4^56 F#3@5>12^56
+  Whining Harmonica: C#5@7>2^80
+  Sampled Strings  : D4@1>4^104 C#4@5>4^104
+  Bass             : F#3@5>12^104
+  Percussion       : B3@5>12^104
+@61 [A | F#m] (grid:16)
+  Kate Bush        : C#5@1>1^104 B4@2>1^104 A4@3>1^104 F#4@4>1^104
+  Mandolin         : E4@1>1^80 C#4@2>1^80 F#4@3>2^80
+  Guitar           : A4@1>2^56 C#5@3>2^56
+  Whining Harmonica: D5@1>1^80 C#5@2>1^80 A4@3>1^80 F#4@4>1^80
+  Sampled Strings  : A3@1>2^104 F#3@3>2^104
+@62 [Bm] (grid:32)
+  Kate Bush        : A4@1>4^104 F#4@5>8^104
+  Army Dreamers    : D4@1>4^104 D4@5>2^104 E4@7>2^104
+  Mandolin         : F#4@1>1^80 F#4@2>1^80 F#4@3>2^80 D5@5>2^80 F#4@7>2^80
+  Guitar           : B3@1>12^56 B4+D5@5>4^56
+  Sampled Strings  : B3@1>12^104
+  Bass             : B3@1>12^104
+  Percussion       : B3@1>12^104
+@63 [Bm | E] (grid:32)
+  Army Dreamers    : F#4@1>4^104 E4@5>2^104 D4@7>2^104
+  Mandolin         : B4@1>4^80 F#4@5>1^80 F#4@6>1^80 F#4@7>2^80
+  Guitar           : B4+D5+F#5@1>4^56 E4@5>12^56
+  Sampled Strings  : G#3@5>8^104
+  Bass             : E4@5>12^104
+  Percussion       : B3@5>12^104
+@64 [G#dim | A] (grid:16)
+  Army Dreamers    : E4@1>1^104 D4@2>1^104 E4@3>2^104
+  Mandolin         : G#4@1>1^80 F#4@2>1^80 A4@3>2^80
+  Guitar           : B4+D5+G#5@1>2^56 B4+D5+A5@3>2^56
+  Sampled Strings  : B3@3>2^104
+@65 [Bm7] (grid:32)
+  Kate Bush        : D5@5>2^104 C#5@7>2^104
+  Army Dreamers    : D4@1>12^104
+  Mandolin         : D4@1>1^80 D4@2>1^80 D4@3>2^80 F#4@5>4^80
+  Guitar           : D4@1>12^56 A4+D5+E5@5>4^56
+  Sampled Strings  : A3@1>4^104 F#3@5>4^104
+  Bass             : D4@1>12^104
+  Percussion       : B3@1>12^104
+@66 [D | F#] (grid:32)
+  Kate Bush        : D5@1>2^104 C#5@3>2^104 E5@5>2^104 D5@7>2^104
+  Mandolin         : D4@1>4^80 C#4@5>1^80 C#4@6>1^80 C#4@7>2^80
+  Guitar           : A4+D5+F#5@1>4^56 F#3@5>12^56
+  Whining Harmonica: C#5@7>2^80
+  Sampled Strings  : D4@1>4^104 C#4@5>4^104
+  Bass             : F#3@5>12^104
+  Percussion       : B3@5>12^104
+@67 [A | F#m] (grid:16)
+  Kate Bush        : C#5@1>1^104 B4@2>1^104 A4@3>1^104 F#4@4>1^104
+  Mandolin         : E4@1>1^80 C#4@2>1^80 F#4@3>2^80
+  Guitar           : A4@1>2^56 C#5@3>2^56
+  Whining Harmonica: D5@1>1^80 C#5@2>1^80 A4@3>1^80 F#4@4>1^80
+  Sampled Strings  : A3@1>2^104 F#3@3>2^104
+@68 [B | Bm]
+  Kate Bush        : A4@1>1^104 F#4@2>2^104
+  Guitar           : B3@1>3^56 B4+D5+F#5@2>1^56
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@69 [Bm] (grid:24t)
+  Kate Bush        : A4@4>1^104 F#4@5>1^104
+  Guitar           : B4+D5+F#5@1>3^56 D4@4>9^56
+  Bass             : D4@4>9^104
+  Percussion       : B3@4>9^104
+@70 [D]
+  Kate Bush        : A4@1>2^104
+  Guitar           : B4+D5+F#5@1>1^56 B4+D5+F#5@2>1^56
+@71 [G]
+  Kate Bush        : D5@1>2^104
+  Guitar           : G3@1>3^56 G4+B4+D5@2>1^56
+  Bass             : G3@1>3^104
+  Percussion       : B3@1>3^104
+@72 [G | B]
+  Kate Bush        : B4@1>1^104 A4@2>1^104
+  Guitar           : G4+B4+D5@1>1^56 B3@2>3^56
+  Bass             : B3@2>3^104
+  Percussion       : B3@2>3^104
+@73 [Bm]
+  Kate Bush        : F#4@1>2^104
+  Guitar           : F#4+B4+D5@1>1^56 F#4+B4+D5@2>1^56
+@74 [G]
+  Guitar           : G3@1>3^56 D4+B4@2>1^56
+  Bass             : G3@1>3^104
+  Percussion       : B3@1>3^104
+@75 [Bm7] (grid:16)
+  Kate Bush        : A4@1>1^104 F#4@2>1^104 A4@3>1^104 F#4@4>1^104
+  Guitar           : D4+B4@1>2^56 F#3+D5@3>6^56
+  Bass             : F#3+D4@3>6^104
+  Percussion       : B3@3>6^104
+@76 [D]
+  Kate Bush        : A4@1>1^104 A3@2>1^104
+  Guitar           : D4+A4@1>1^56 D4+A4@2>1^56
+@77 [G]
+  Kate Bush        : D5@1>2^104
+  Army Dreamettes  : D4@2>1^104
+  Guitar           : G3@1>3^56 D4+B4@2>1^56
+  Bass             : G3@1>3^104
+  Percussion       : B3@1>3^104
+@78 [Bm | B]
+  Kate Bush        : B4@1>1^104 A4@2>1^104
+  Army Dreamettes  : F#4@1>1^104
+  Guitar           : D4+B4@1>1^56 B3@2>3^56
+  Bass             : B3@2>3^104
+  Percussion       : B3@2>3^104
+@79 [Bm]
+  Kate Bush        : F#4@1>2^104
+  Army Dreamettes  : D4@1>1^104 B3@2>1^104
+  Guitar           : F#4+B4+D5@1>1^56 F#4+B4+D5@2>1^56
+@80 [G] (grid:4)
+  Guitar           : G3+D4+B4@1>1^56
+  Bass             : G3+D4@1>1^104
+@81 [B] (grid:6t)
+  Kate Bush        : B3@2>1^104
+  Guitar           : B3@2>2^56
+  Sampled Strings#2: B1@2>1^104
+  Bass             : B3@2>2^104
+  Percussion       : B3@2>2^104
+@82 [Bm7] (grid:16)
+  Kate Bush        : D4@1>1^104 E4@2>1^104 F#4@3>1^104 A4@4>1^104
+  Mandolin         : A5@3>2^80
+  Guitar           : B4+D5+F#5@1>2^56 B4+D5@3>2^56
+  Sampled Strings  : D3+B3@1>2^104 D3+F#3+B3@3>2^104
+@83 [E | Em]
+  Kate Bush        : B4@1>2^104
+  Mandolin         : F#5@1>2^80
+  Guitar           : E3@1>3^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3+B3@2>1^104
+  Sampled Strings#2: E1@1>1^104
+  Bass             : E3@1>3^104
+  Percussion       : B3@1>3^104
+@84 [Em | F#m] (grid:24t)
+  Kate Bush        : C#4@3>1^104 A4@4>1^104 B4@5>1^104
+  Mandolin         : A5@1>3^80 C#5@4>9^80
+  Guitar           : G4+B4+E5@1>3^56 F#3@4>9^56
+  Sampled Strings#2: F#1@4>3^104
+  Bass             : F#3@4>9^104
+  Percussion       : B3@4>9^104
+@85 [F#m] (grid:24t)
+  Kate Bush        : A4@1>4^104 C#4@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A4+C#5@4>3^56
+  Sampled Strings  : C#3+A3@1>3^104 C#3+F#3@4>3^104
+@86 [A] (grid:16)
+  Kate Bush        : E4@1>1^104 C#4@2>1^104 E4@3>2^104
+  Guitar           : A3@1>6^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : A3+C#4@2>3^104 D4@3>1^104 C#4@4>1^104
+  Sampled Strings#2: A1@1>2^104
+  Bass             : A3@1>6^104
+  Percussion       : B3@1>6^104
+@87 [A | B] (grid:64)
+  Kate Bush        : C#4@1>8^104
+  Guitar           : A4+C#5+E5@1>8^56 B3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : A3@1>4^104 E3@5>4^104
+  Sampled Strings#2: B1@9>8^104
+  Bass             : B3@9>24^104
+  Percussion       : B3@9>24^104
+@88 [Bm] (grid:16)
+  Kate Bush        : B3@1>2^104 C#4@2>1^104 D4@3>1^104 E4@4>1^104
+  Mandolin         : D5@3>2^80
+  Guitar           : B4+D5+F#5@1>2^56 B4+D5+F#5@3>2^56
+  Sampled Strings  : D3+B3@1>2^104 D3+F#3+B3@3>2^104
+@89 [A | Em] (grid:16)
+  Kate Bush        : F#4@1>1^104 A4@2>1^104 B4@3>3^104
+  Mandolin         : C#5@1>4^80
+  Guitar           : E3@1>6^56 G4+B4+E5@3>2^56
+  Sampled Strings  : E3+G3+B3@3>2^104
+  Sampled Strings#2: E1@1>2^104
+  Bass             : E3@1>6^104
+  Percussion       : B3@1>6^104
+@90 [G | B] (grid:24t)
+  Kate Bush        : D4@3>1^104 A4@4>1^104 B4@5>1^104
+  Mandolin         : D5@1>3^80 F#4@4>9^80
+  Guitar           : G4+B4+E5@1>3^56 F#3@4>9^56
+  Sampled Strings#2: F#1@4>3^104
+  Bass             : F#3@4>9^104
+  Percussion       : B3@4>9^104
+@91 [F#m] (grid:24t)
+  Kate Bush        : A4@1>4^104 A3@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A4+C#5@4>3^56
+  Sampled Strings  : C#3+A3@1>3^104 C#3+F#3@4>3^104
+@92 [A] (grid:16)
+  Kate Bush        : E4@1>1^104 C#4@2>1^104 E4@3>2^104
+  Guitar           : A3@1>6^56 A4+C#5+E5@3>1^56 D5@4>1^56
+  Sampled Strings  : A3+C#4@2>3^104 D4@3>1^104 C#4@4>1^104
+  Sampled Strings#2: A1@1>2^104
+  Bass             : A3@1>6^104
+  Percussion       : B3@1>6^104
+@93 [A | B] (grid:64)
+  Kate Bush        : F#4@1>8^104
+  Guitar           : A4+C#5+E5@1>8^56 B3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : A3@1>4^104 E3@5>4^104
+  Sampled Strings#2: B1@9>8^104
+  Bass             : B3@9>24^104
+  Percussion       : B3@9>24^104
+@94 [Bm] (grid:16)
+  Kate Bush        : B3@1>2^104 C#4@2>1^104 D4@3>1^104 E4@4>1^104
+  Mandolin         : A5@3>2^80
+  Guitar           : B4+D5+F#5@1>2^56 B4+D5@3>2^56
+  Sampled Strings  : D3+B3@1>2^104 D3+F#3+B3@3>2^104
+@95 [E | Em] (grid:16)
+  Kate Bush        : F#4@1>1^104 A4@2>1^104 B4@3>3^104
+  Mandolin         : F#5@1>4^80
+  Guitar           : E3@1>6^56 G4+B4+E5@3>2^56
+  Sampled Strings  : E3+G3+B3@3>2^104
+  Sampled Strings#2: E1@1>2^104
+  Bass             : E3@1>6^104
+  Percussion       : B3@1>6^104
+@96 [Em | F#m] (grid:24t)
+  Kate Bush        : A4@3>1^104 A4@4>1^104 B4@5>1^104
+  Mandolin         : A5@1>3^80 C#5@4>9^80
+  Guitar           : G4+B4+E5@1>3^56 F#3@4>9^56
+  Sampled Strings#2: F#1@4>3^104
+  Bass             : F#3@4>9^104
+  Percussion       : B3@4>9^104
+@97 [F#m] (grid:24t)
+  Kate Bush        : A4@1>4^104 C#4@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A4+C#5@4>3^56
+  Sampled Strings  : C#3+A3@1>3^104 C#3+F#3@4>3^104
+@98 [A] (grid:16)
+  Kate Bush        : E4@1>1^104 C#4@2>1^104 E4@3>2^104
+  Guitar           : A3@1>6^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : A3+C#4@2>1^104 B3+D4@3>1^104 A3+C#4@4>1^104
+  Sampled Strings#2: A1@1>2^104
+  Bass             : A3@1>6^104
+  Percussion       : B3@1>6^104
+@99 [A | B] (grid:64)
+  Kate Bush        : A3@1>8^104
+  Guitar           : A4+C#5+E5@1>8^56 B3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : A3@1>4^104 E3@5>4^104
+  Sampled Strings#2: B1@9>8^104
+  Bass             : B3@9>24^104
+  Percussion       : B3@9>24^104
+@100 [Bm] (grid:24t)
+  Kate Bush        : B3@1>3^104 D4@4>1^104 E4@5>1^104
+  Mandolin         : F#4@4>3^80
+  Guitar           : B4+D5+F#5@1>3^56 B4+D5+F#5@4>3^56
+  Sampled Strings  : D3+B3@1>3^104 D3+F#3+B3@4>3^104
+@101 [Em] (grid:16)
+  Kate Bush        : F#4@1>1^104 A4@2>1^104 B4@3>3^104
+  Mandolin         : G4@1>4^80
+  Guitar           : E3@1>6^56 G4+B4+E5@3>2^56
+  Sampled Strings  : E3+G3+B3@3>2^104
+  Sampled Strings#2: E1@1>2^104
+  Bass             : E3@1>6^104
+  Percussion       : B3@1>6^104
+@102 [Em | F#m] (grid:24t)
+  Kate Bush        : A3@3>1^104 A4@4>1^104 B4@5>1^104
+  Mandolin         : B4@1>3^80 C#5@4>9^80
+  Guitar           : G4+B4+E5@1>3^56 F#3@4>9^56
+  Sampled Strings#2: F#1@4>3^104
+  Bass             : F#3@4>9^104
+  Percussion       : B3@4>9^104
+@103 [F#m]
+  Kate Bush        : A4@1>1^104 F#4@2>1^104
+  Guitar           : A4+C#5+F#5@1>1^56 A4+C#5@2>1^56
+  Sampled Strings  : C#3+A3@1>1^104 C#3+F#3@2>1^104
+@104 [A] (grid:16)
+  Kate Bush        : E4@1>2^104 F#4@2>1^104 E4@3>2^104
+  Guitar           : A3@1>6^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : C#4@2>1^104 D4@3>1^104 C#4@4>1^104
+  Sampled Strings#2: A1@1>2^104
+  Bass             : A3@1>6^104
+  Percussion       : B3@1>6^104
+@105 [A | Bm] (grid:64)
+  Kate Bush        : C#4@1>4^104 B3@5>12^104
+  Army Dreamers    : D4@9>8^104
+  Mandolin         : F#4@9>2^80 F#4@11>2^80 F#4@13>4^80
+  Guitar           : A4+C#5+E5@1>8^56 B3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : A3@1>4^104 E3@5>4^104 F#3+B3@9>8^104
+  Sampled Strings#2: B1@9>8^104
+  Bass             : B3@9>24^104
+  Percussion       : B3@9>24^104
+@106 [Bm] (grid:16)
+  Army Dreamers    : D4@1>1^104 E4@2>1^104 F#4@3>2^104
+  Mandolin         : D5@1>1^80 F#4@2>1^80 B4@3>2^80
+  Guitar           : B4+D5@1>2^56 B4+D5+F#5@3>2^56
+@107 [E7] (grid:32)
+  Army Dreamers    : E4@1>2^104 D4@3>2^104 E4@5>2^104 D4@7>2^104
+  Mandolin         : F#4@1>1^80 F#4@2>1^80 F#4@3>2^80 G#4@5>2^80 F#4@7>2^80
+  Guitar           : E4@1>12^56 B4+D5+G#5@5>4^56
+  Sampled Strings  : E3+G#3@1>8^104
+  Bass             : E4@1>12^104
+  Percussion       : B3@1>12^104
+@108 [A | Bm] (grid:32)
+  Army Dreamers    : E4@1>4^104 D4@5>12^104
+  Mandolin         : A4@1>4^80 D4@5>1^80 D4@6>1^80 D4@7>2^80
+  Guitar           : B4+D5+A5@1>4^56 D4@5>12^56
+  Sampled Strings  : B3@1>4^104 B3@5>2^104 A3@7>2^104
+  Bass             : D4@5>12^104
+  Percussion       : B3@5>12^104
+@109 [D] (grid:16)
+  Kate Bush        : D5@1>1^104 C#5@2>1^104 D5@3>1^104 C#5@4>1^104
+  Mandolin         : F#4@1>2^80 D4@3>2^80
+  Guitar           : A4+D5+E5@1>2^56 A4+D5+F#5@3>2^56
+  Sampled Strings  : F#3@1>2^104 D4@3>2^104
+@110 [F#m] (grid:32)
+  Kate Bush        : E5@1>2^104 D5@3>2^104 C#5@5>2^104 B4@7>2^104
+  Mandolin         : C#4@1>1^80 C#4@2>1^80 C#4@3>2^80 E4@5>2^80 C#4@7>2^80
+  Guitar           : F#3@1>12^56 A4@3>2^56 C#5@5>4^56
+  Sampled Strings  : C#4@1>4^104 A3@5>4^104
+  Bass             : F#3@1>12^104
+  Percussion       : B3@1>12^104
+@111 [F#m | Bm] (grid:32)
+  Kate Bush        : A4@1>2^104 F#4@3>2^104 A4@5>4^104
+  Army Dreamers    : D4@5>4^104
+  Mandolin         : F#4@1>4^80 F#4@5>1^80 F#4@6>1^80 F#4@7>2^80
+  Guitar           : F#5@1>4^56 B3@5>12^56
+  Sampled Strings  : F#3@1>4^104 F#3+B3@5>4^104
+  Bass             : B3@5>12^104
+  Percussion       : B3@5>12^104
+@112 [D | Bm] (grid:16)
+  Kate Bush        : F#4@1>4^104
+  Army Dreamers    : D4@1>1^104 E4@2>1^104 F#4@3>2^104
+  Mandolin         : D5@1>1^80 F#4@2>1^80 B4@3>2^80
+  Guitar           : B4+D5@1>2^56 B4+D5+F#5@3>2^56
+  Electric Guitar  : A6@1>2^104 B6@3>8^104
+@113 [E7] (grid:32)
+  Army Dreamers    : E4@1>2^104 D4@3>2^104 E4@5>2^104 D4@7>2^104
+  Mandolin         : F#4@1>1^80 F#4@2>1^80 F#4@3>2^80 G#4@5>2^80 F#4@7>2^80
+  Guitar           : E4@1>12^56 B4+D5+G#5@5>4^56
+  Sampled Strings  : E3+G#3@1>8^104
+  Bass             : E4@1>12^104
+  Percussion       : B3@1>12^104
+@114 [D | Bm7] (grid:32)
+  Army Dreamers    : E4@1>2^104 D4@3>2^104 E4@5>2^104 D4@7>10^104
+  Mandolin         : A4@1>4^80 D4@5>1^80 D4@6>1^80 D4@7>2^80
+  Guitar           : B4+D5+A5@1>4^56 D4@5>12^56
+  Sampled Strings  : B3@1>4^104 A3@5>4^104
+  Bass             : D4@5>12^104
+  Percussion       : B3@5>12^104
+@115 [D] (grid:16)
+  Kate Bush        : D5@1>1^104 C#5@2>1^104 D5@3>1^104 C#5@4>1^104
+  Mandolin         : F#4@1>2^80 D4@3>2^80
+  Guitar           : A4+D5+E5@1>2^56 A4+D5+F#5@3>2^56
+  Sampled Strings  : F#3@1>4^104
+@116 [F#m | Bm] (grid:32)
+  Kate Bush        : E5@1>2^104 D5@3>2^104 C#5@5>2^104 B4@7>2^104
+  Mandolin         : C#4@1>1^80 C#4@2>1^80 C#4@3>2^80 E4@5>2^80 C#4@7>2^80
+  Guitar           : F#3@1>12^56 A4@3>2^56 C#5@5>4^56
+  Whining Harmonica: C#5@3>2^80 D5@5>2^80 C#5@7>2^80
+  Sampled Strings  : C#4@3>2^104 D4@5>4^104
+  Bass             : F#3@1>12^104
+  Percussion       : B3@1>12^104
+@117 [F#m | Bm] (grid:32)
+  Kate Bush        : A4@1>2^104 F#4@3>2^104 A4@5>4^104
+  Army Dreamers    : D4@5>4^104
+  Mandolin         : F#4@1>4^80 F#4@5>1^80 F#4@6>1^80 F#4@7>2^80
+  Guitar           : F#5@1>4^56 B3@5>12^56
+  Whining Harmonica: A4@1>2^80 F#4@3>2^80
+  Sampled Strings  : C#4@1>4^104 F#3+B3@5>4^104
+  Bass             : B3@5>12^104
+  Percussion       : B3@5>12^104
+@118 [Bm] (grid:16)
+  Kate Bush        : F#4@1>4^104
+  Army Dreamers    : D4@1>1^104 E4@2>1^104 F#4@3>2^104
+  Mandolin         : D5@1>1^80 F#4@2>1^80 B4@3>2^80
+  Guitar           : B4+D5@1>2^56 B4+D5+F#5@3>2^56
+@119 [E7] (grid:32)
+  Army Dreamers    : E4@1>2^104 D4@3>2^104 E4@5>2^104 D4@7>2^104
+  Mandolin         : F#4@1>1^80 F#4@2>1^80 F#4@3>2^80 G#4@5>2^80 F#4@7>2^80
+  Guitar           : E4@1>12^56 B4+D5+G#5@5>4^56
+  Sampled Strings  : E3+G#3@1>8^104
+  Bass             : E4@1>12^104
+  Percussion       : B3@1>12^104
+@120 [A | D] (grid:32)
+  Army Dreamers    : E4@1>4^104 D4@5>12^104
+  Mandolin         : A4@1>4^80 D4@5>1^80 D4@6>1^80 D4@7>2^80
+  Guitar           : B4+D5+A5@1>4^56 D4@5>12^56
+  Sampled Strings  : B3@1>4^104 A3@5>12^104
+  Bass             : D4@5>12^104
+  Percussion       : B3@5>12^104
+@121 [D] (grid:16)
+  Kate Bush        : D5@1>1^104 C#5@2>1^104 D5@3>1^104 C#5@4>1^104
+  Mandolin         : F#4@1>2^80 D4@3>2^80
+  Guitar           : A4+D5+E5@1>2^56 A4+D5+F#5@3>2^56
+@122 [Bm | F#m] (grid:32)
+  Kate Bush        : E5@1>2^104 D5@3>2^104 C#5@5>2^104 B4@7>2^104
+  Mandolin         : C#4@1>1^80 C#4@2>1^80 C#4@3>2^80 E4@5>2^80 C#4@7>2^80
+  Guitar           : F#3@1>12^56 A4@5>4^56
+  Whining Harmonica: C#5@3>2^80 D5@5>2^80 C#5@7>2^80
+  Sampled Strings  : C#4@5>4^104
+  Bass             : F#3@1>12^104
+  Percussion       : B3@1>12^104
+@123 [F#m | B] (grid:16)
+  Kate Bush        : A4@1>1^104 F#4@2>1^104 A4@3>2^104
+  Mandolin         : F#4@1>2^80
+  Guitar           : C#5@1>2^56 B3@3>6^56
+  Whining Harmonica: A4@1>1^80 F#4@2>1^80 B4@3>2^80
+  Sampled Strings  : A3@1>2^104 B3@3>2^104
+  Bass             : B3@3>6^104
+  Percussion       : B3@3>6^104
+@124 [Bm]
+  Kate Bush        : F#4@1>2^104
+  Guitar           : B4+D5+F#5@1>1^56 B4+D5+F#5@2>1^56
+@125 [Bm7] (grid:16)
+  Kate Bush        : A4@1>1^104 F#4@2>1^104 A4@3>4^104
+  Guitar           : D4@1>6^56 B4+D5+F#5@3>2^56
+  Bass             : D4@1>6^104
+  Percussion       : B3@1>6^104
+@126 [Bm | G]
+  Kate Bush        : D5@2>2^104
+  Guitar           : B4+D5+F#5@1>1^56 G3@2>3^56
+  Bass             : G3@2>3^104
+  Percussion       : B3@2>3^104
+@127 [G]
+  Kate Bush        : B4@2>1^104
+  Guitar           : G4+B4+D5@1>1^56 G4+B4+D5@2>1^56
+@128 [B7 | Bm]
+  Kate Bush        : A4@1>1^104 F#4@2>2^104
+  Mandolin         : A5@1>3^80
+  Guitar           : B3@1>3^56 F#4+B4+D5@2>1^56
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@129 [Bm | G]
+  Guitar           : F#4+B4+D5@1>1^56 G3@2>3^56
+  Bass             : G3@2>3^104
+  Percussion       : B3@2>3^104
+@130 [Bm7] (grid:24t)
+  Kate Bush        : A4@4>1^104 F#4@5>1^104
+  Guitar           : D4+B4@1>3^56 D4+B4@4>3^56
+@131 [Bm | D] (grid:16)
+  Kate Bush        : A4@1>1^104 F#4@2>1^104 A4@3>2^104
+  Guitar           : F#3+D5@1>6^56 D4+A4@3>2^56
+  Bass             : F#3+D4@1>6^104
+  Percussion       : B3@1>6^104
+@132 [D | G]
+  Kate Bush        : A3@1>1^104 D5@2>2^104
+  Guitar           : D4+A4@1>1^56 G3@2>3^56
+  Bass             : G3@2>3^104
+  Percussion       : B3@2>3^104
+@133 [Bm]
+  Kate Bush        : B4@2>1^104
+  Army Dreamettes  : B3+D4@1>1^104 D4+F#4@2>1^104
+  Guitar           : D4+B4@1>1^56 D4+B4@2>1^56
+@134 [B7 | Bm7]
+  Kate Bush        : A4@1>1^104 F#4@2>2^104
+  Army Dreamettes  : D4+F#4+A4@2>1^104
+  Mandolin         : A5@1>3^80
+  Guitar           : B3@1>3^56 F#4+B4+D5@2>1^56
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@135 [Bm | G]
+  Army Dreamettes  : B3+D4+F#4@1>1^104
+  Guitar           : F#4+B4+D5@1>1^56 G3@2>3^56
+  Bass             : G3@2>3^104
+  Percussion       : B3@2>3^104
+@136 [Bm7] (grid:24t)
+  Kate Bush        : A4@4>1^104 F#4@5>1^104
+  Guitar           : D4+B4@1>3^56 D4+B4@4>3^56
+@137 [Bm | D] (grid:16)
+  Kate Bush        : A4@1>1^104 F#4@2>1^104 A4@3>2^104
+  Guitar           : F#3@1>6^56 D4+A4@3>2^56
+  Bass             : F#3+D4@1>6^104
+  Percussion       : B3@1>6^104
+@138 [D | G]
+  Kate Bush        : A3@1>1^104 D5@2>2^104
+  Guitar           : D4+A4@1>1^56 G3@2>3^56
+  Bass             : G3@2>3^104
+  Percussion       : B3@2>3^104
+@139 [Bm]
+  Kate Bush        : B4@2>1^104
+  Army Dreamettes  : B3+D4@1>1^104 D4+F#4@2>1^104
+  Guitar           : D4+B4@1>1^56 D4+B4@2>1^56
+@140 [B | Bm]
+  Kate Bush        : A4@1>1^104 F#4@2>2^104
+  Army Dreamettes  : D4+F#4+A4@2>1^104
+  Guitar           : B3@1>3^56 F#4+B4+D5@2>1^56
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@141 [Bm | G]
+  Kate Bush        : D5@2>2^104
+  Army Dreamettes  : B3+D4+F#4@1>1^104
+  Guitar           : F#4+B4+D5@1>1^56 G3@2>3^56
+  Bass             : G3@2>3^104
+  Percussion       : B3@2>3^104
+@142 [Bm]
+  Kate Bush        : B4@2>1^104
+  Army Dreamettes  : B3+D4@1>1^104 D4+F#4@2>1^104
+  Guitar           : D4+B4@1>1^56 D4+B4@2>1^56
+@143 [B | Bm]
+  Kate Bush        : A4@1>1^104 F#4@2>2^104
+  Army Dreamettes  : D4+F#4+A4@2>1^104
+  Guitar           : B3@1>3^56 F#4+B4+D5@2>1^56
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@144 [Bm | G]
+  Kate Bush        : D5@2>2^104
+  Army Dreamettes  : B3+D4+F#4@1>1^104
+  Guitar           : F#4+B4+D5@1>1^56 G3@2>3^56
+  Bass             : G3@2>3^104
+  Percussion       : B3@2>3^104
+@145 [Bm]
+  Kate Bush        : B4@2>1^104
+  Army Dreamettes  : B3+D4@1>1^104 D4+F#4@2>1^104
+  Guitar           : D4+B4@1>1^56 D4+B4@2>1^56
+@146 [B | Bm]
+  Kate Bush        : A4@1>1^104 F#4@2>1^104
+  Army Dreamettes  : D4+F#4+A4@2>2^104
+  Guitar           : B3@1>3^56 F#4+B4+D5@2>1^56
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@147 [Bm | G7] (grid:24t)
+  Kate Bush        : E4@3>1^104 D4@4>9^104
+  Army Dreamettes  : B3+D4+F#4@4>9^104
+  Guitar           : F#4+B4+D5@1>3^56 G3@4>9^56
+  Bass             : G3@4>9^104
+  Percussion       : B3@4>9^104
+@148 [D | Bm] (grid:16)
+  Guitar           : D4+B4@1>1^56 A4@2>1^56 D4+B4@3>1^56 F#4@4>1^56
+@149 [B] (grid:4)
+  Kate Bush        : C#4@1>2^104
+  Army Dreamettes  : C#4+E4@1>2^104
+  Guitar           : B3+F#4+B4+C#5+F#5@1>3^56
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>1^104
+@150 [-]
+@151 [-] (grid:64)
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+@152 [B | Bm] (grid:24t)
+  Kate Bush        : B3@1>3^104 D4@4>1^104 E4@5>1^104
+  Guitar           : B3@1>9^56 B4+D5+F#5@4>3^56
+  Sampled Strings#2: B1@1>3^104
+  Bass             : B3@1>9^104
+  Percussion       : B3@1>9^104
+@153 [D | E] (grid:16)
+  Kate Bush        : F#4@1>1^104 A4@2>1^104 B4@3>5^104
+  Mandolin         : A5@1>2^80 F#5@3>4^80
+  Guitar           : B4+D5+F#5@1>2^56 E3@3>6^56
+  Sampled Strings  : D3+D4@1>2^104
+  Sampled Strings#2: E1@3>2^104
+  Bass             : E3@3>6^104
+  Percussion       : B3@3>6^104
+@154 [Em] (grid:64)
+  Kate Bush        : B4@13>4^104
+  Mandolin         : A5@9>8^80
+  Guitar           : G4+B4+E5@1>8^56 G4+B4+E5@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+  Sampled Strings  : E3+G3+B3@1>8^104
+@155 [F#m] (grid:64)
+  Kate Bush        : A4@1>4^104 B4@5>4^104 A4@9>12^104
+  Mandolin         : C#5@1>24^80
+  Guitar           : F#3@1>24^56 A4+C#5+F#5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Sampled Strings  : C#3+A3@9>8^104
+  Sampled Strings#2: F#1@1>8^104
+  Bass             : F#3@1>24^104
+  Percussion       : B3@1>24^104
+@156 [F#m | A] (grid:24t)
+  Kate Bush        : C#4@3>1^104 E4@4>1^104 C#4@5>1^104
+  Army Dreamers    : A3@4>1^104 F#3@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Sampled Strings  : C#3+F#3@1>3^104 E3+C#4@5>4^104
+  Sampled Strings#2: A1@4>3^104
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@157 [A] (grid:16)
+  Kate Bush        : E4@1>2^104 C#4@3>2^104
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : D4@1>1^104 C#4@2>1^104 A3@3>1^104 E3@4>1^104
+@158 [B | Bm] (grid:24t)
+  Kate Bush        : B3@4>3^104 C#4@5>1^104
+  Army Dreamettes  : B3@4>3^104
+  Guitar           : B3@1>9^56 B4+D5@4>3^56
+  Sampled Strings  : D3+B3@4>3^104
+  Sampled Strings#2: B1@1>3^104
+  Bass             : B3@1>9^104
+  Percussion       : B3@1>9^104
+@159 [Bm | A] (grid:16)
+  Kate Bush        : D4@1>1^104 E4@2>1^104 F#4@3>1^104 A4@4>1^104
+  Army Dreamettes  : F#4@1>2^104
+  Mandolin         : D5@1>2^80 C#5@3>4^80
+  Guitar           : B4+D5@1>2^56 E3@3>6^56
+  Sampled Strings  : D3+F#3+B3@1>2^104
+  Sampled Strings#2: E1@3>2^104
+  Bass             : E3@3>6^104
+  Percussion       : B3@3>6^104
+@160 [Em | G] (grid:64)
+  Kate Bush        : B4@1>12^104 B4@13>4^104
+  Army Dreamettes  : E4@1>8^104 C#4@9>8^104
+  Mandolin         : D5@9>8^80
+  Guitar           : G4+B4@1>8^56 G4+B4@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+  Sampled Strings  : E3+G3+B3@1>8^104
+@161 [B | F#m] (grid:64)
+  Kate Bush        : A4@1>4^104 B4@5>4^104 A4@9>12^104
+  Mandolin         : F#4@1>24^80
+  Guitar           : F#3@1>24^56 A4+C#5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Sampled Strings  : C#3+A3@9>8^104
+  Sampled Strings#2: F#1@1>8^104
+  Bass             : F#3@1>24^104
+  Percussion       : B3@1>24^104
+@162 [F#m | A] (grid:24t)
+  Kate Bush        : B3@3>1^104 E4@4>1^104 C#4@5>1^104
+  Army Dreamers    : A3@4>1^104 F#3@5>1^104
+  Guitar           : A4+C#5+F#5@1>3^56 A3@4>9^56
+  Sampled Strings  : C#3+F#3@1>3^104 C#4@5>1^104
+  Sampled Strings#2: A1@4>3^104
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@163 [A] (grid:16)
+  Kate Bush        : E4@1>2^104 F#4@3>2^104
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : D4@1>1^104 C#4@2>1^104 A3@3>1^104 E3@4>1^104
+@164 [B | Bm] (grid:24t)
+  Kate Bush        : B3@4>3^104 C#4@5>1^104
+  Guitar           : B3@1>9^56 B4+D5@4>3^56
+  Sampled Strings  : D3+B3@4>3^104
+  Sampled Strings#2: B1@1>3^104
+  Bass             : B3@1>9^104
+  Percussion       : B3@1>9^104
+@165 [Bm | E] (grid:16)
+  Kate Bush        : D4@1>1^104 E4@2>1^104 F#4@3>1^104 A4@4>1^104
+  Mandolin         : A5@1>2^80 F#5@3>4^80
+  Guitar           : B4+D5@1>2^56 E3@3>6^56
+  Sampled Strings  : D3+F#3+B3@1>2^104
+  Sampled Strings#2: E1@3>2^104
+  Bass             : E3@3>6^104
+  Percussion       : B3@3>6^104
+@166 [Em | Baug] (grid:64)
+  Kate Bush        : B4@1>12^104 B4@13>4^104
+  Mandolin         : A5@9>8^80
+  Guitar           : G4+B4@1>8^56 G4+B4@9>8^56
+  Rifle Clicks     : G2+G#3@9>8^104 G#2@10>8^104
+  Sampled Strings  : E3+G3+B3@1>8^104
+@167 [F#m] (grid:64)
+  Kate Bush        : A4@1>4^104 B4@5>4^104 A4@9>4^104 B4@13>4^104
+  Mandolin         : C#5@1>24^80
+  Guitar           : F#3@1>24^56 A4+C#5@9>8^56
+  Rifle Clicks     : A2+A3@1>8^104
+  Sampled Strings  : C#3+A3@9>8^104
+  Sampled Strings#2: F#1@1>8^104
+  Bass             : F#3@1>24^104
+  Percussion       : B3@1>24^104
+@168 [F#m7] (grid:16)
+  Kate Bush        : A4@1>1^104 F#4@2>1^104 E4@3>1^104 F#4@4>1^104
+  Army Dreamers    : A3@3>1^104 F#3@4>1^104
+  Guitar           : A4+C#5@1>2^56 A3@3>6^56
+  Sampled Strings  : C#3+F#3@1>2^104 A2@4>1^104
+  Sampled Strings#2: A1@3>2^104
+  Bass             : A3@3>6^104
+  Percussion       : B3@3>6^104
+@169 [A] (grid:16)
+  Kate Bush        : E4@1>2^104 F#4@3>2^104
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5@1>2^56 A4+C#5@3>2^56
+  Sampled Strings  : B2@1>1^104 C#3@2>1^104 D3@3>1^104 E3@4>1^104
+@170 [Bm] (grid:24t)
+  Kate Bush        : B3@4>3^104 C#4@5>1^104
+  Army Dreamettes  : B3@4>3^104
+  Guitar           : B3@1>9^56 B4+D5@4>3^56
+  Sampled Strings  : D3@1>3^104 D3+F#3@4>3^104
+  Sampled Strings#2: B1@1>3^104
+  Bass             : B3@1>9^104
+  Percussion       : B3@1>9^104
+@171 [Bm | Em] (grid:16)
+  Kate Bush        : D4@1>1^104 E4@2>1^104 F#4@3>1^104 A4@4>1^104
+  Army Dreamettes  : F#4@1>2^104
+  Mandolin         : F#4@1>2^80 G4@3>4^80
+  Guitar           : B4+D5@1>2^56 E3@3>6^56
+  Sampled Strings  : D3+F#3+B3@1>2^104
+  Sampled Strings#2: E1@3>2^104
+  Bass             : E3@3>6^104
+  Percussion       : B3@3>6^104
+@172 [Em | Baug] (grid:24t)
+  Kate Bush        : B4@1>4^104 B4@5>1^104
+  Army Dreamettes  : E4@1>3^104 C#4@4>3^104
+  Mandolin         : B4@4>3^80
+  Guitar           : G4+B4@1>3^56 G4+B4@4>3^56
+  Sampled Strings  : E3+G3+B3@1>3^104
+@173 [F#m] (grid:16)
+  Kate Bush        : A4@1>1^104 B4@2>1^104 A4@3>3^104
+  Mandolin         : C#5@1>6^80
+  Guitar           : F#3@1>6^56 A4+C#5+F#5@3>2^56
+  Sampled Strings  : C#3+A3@3>2^104
+  Sampled Strings#2: F#1@1>2^104
+  Bass             : F#3@1>6^104
+  Percussion       : B3@1>6^104
+@174 [F#m | A] (grid:24t)
+  Kate Bush        : B3@3>1^104 E4@4>1^104 C#4@5>1^104
+  Army Dreamers    : F#3@3>1^104 A3@4>1^104 F#3@5>1^104
+  Guitar           : A4+C#5@1>3^56 A3@4>9^56
+  Sampled Strings  : C#3+F#3@1>3^104 C#4@5>1^104
+  Sampled Strings#2: A1@4>3^104
+  Bass             : A3@4>9^104
+  Percussion       : B3@4>9^104
+@175 [A] (grid:16)
+  Kate Bush        : E4@1>2^104 F#4@3>2^104
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5@1>1^56 E5@2>1^56 A4+C#5@3>2^56
+  Sampled Strings  : D4@1>1^104 C#4@2>1^104 A3@3>1^104 E3@4>1^104
+@176 [B | Bm]
+  Guitar           : B3@1>3^56 B4+D5@2>1^56
+  Sampled Strings  : D3+B3@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@177 [Bm | E]
+  Mandolin         : A5@1>1^80 F#5@2>2^80
+  Guitar           : B4+D5@1>1^56 E3@2>3^56
+  Sampled Strings  : D3+F#3+B3@1>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@178 [Em]
+  Mandolin         : A5@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3+B3@1>1^104
+@179 [F# | F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+F#5@2>1^56
+  Sampled Strings  : C#3+A3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@180 [F#m] (grid:64)
+  Army Dreamers    : F#3@5>4^104 A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : C#3+F#3@1>8^104 A2@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@181 [A] (grid:16)
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : B2@1>1^104 C#3@2>1^104 D3@3>1^104 E3@4>1^104
+@182 [Bm]
+  Kate Bush        : B3@2>1^104
+  Guitar           : B3@1>3^56 B4+D5+F#5@2>1^56
+  Sampled Strings  : D3@1>1^104 D3+F#3@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@183 [Bm | E]
+  Kate Bush        : F#4@1>1^104
+  Mandolin         : D5@1>1^80 C#5@2>2^80
+  Guitar           : B4+D5+F#5@1>1^56 E3@2>3^56
+  Sampled Strings  : D3+F#3+B3@1>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@184 [Em | C#m7]
+  Kate Bush        : E4@1>1^104 C#4@2>1^104
+  Mandolin         : D5@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3+B3@1>1^104
+@185 [B | F#m]
+  Mandolin         : F#4@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+F#5@2>1^56
+  Sampled Strings  : C#3+A3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@186 [F#m] (grid:64)
+  Army Dreamers    : F#3@5>4^104 A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : C#3+F#3@1>8^104 C#4@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@187 [A] (grid:16)
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : D4@1>1^104 C#4@2>1^104 A3@3>1^104 E3@4>1^104
+@188 [B | Bm]
+  Guitar           : B3@1>3^56 B4+D5@2>1^56
+  Sampled Strings  : D3+B3@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@189 [Bm | E]
+  Mandolin         : A5@1>1^80 F#5@2>2^80
+  Guitar           : B4+D5@1>1^56 E3@2>3^56
+  Sampled Strings  : D3+F#3+B3@1>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@190 [Em]
+  Mandolin         : A5@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3+B3@1>1^104
+@191 [F# | F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+F#5@2>1^56
+  Sampled Strings  : C#3+A3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@192 [F#m] (grid:64)
+  Army Dreamers    : A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : C#3+F#3@1>8^104 A2@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@193 [A] (grid:16)
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : B2@1>1^104 C#3@2>1^104 D3@3>1^104 E3@4>1^104
+@194 [Bm]
+  Kate Bush        : B3@2>1^104
+  Guitar           : B3@1>3^56 B4+D5+F#5@2>1^56
+  Sampled Strings  : D3@1>1^104 D3+F#3@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@195 [Bm | Em]
+  Kate Bush        : F#4@1>1^104
+  Mandolin         : F#4@1>1^80 G4@2>2^80
+  Guitar           : B4+D5+F#5@1>1^56 E3@2>3^56
+  Sampled Strings  : D3+F#3+B3@1>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@196 [Em]
+  Kate Bush        : E4@1>1^104 C#4@2>1^104
+  Mandolin         : B4@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3+B3@1>1^104
+@197 [F# | F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+F#5@2>1^56
+  Sampled Strings  : C#3+A3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@198 [F#m] (grid:64)
+  Army Dreamers    : A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : C#3+F#3@1>8^104 C#4@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@199 [A] (grid:16)
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>1^56 D5@2>1^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : D4@1>1^104 C#4@2>1^104 A3@3>1^104 E3@4>1^104
+@200 [Bm]
+  Guitar           : B3@1>3^56 B4+D5@2>1^56
+  Sampled Strings  : D3+B3@1>1^104 D3+F#3+B3@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@201 [D | E]
+  Mandolin         : A5@1>1^80 F#5@2>2^80
+  Guitar           : B4+D5@1>1^56 E3@2>3^56
+  Sampled Strings  : E3+B3@2>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@202 [Em]
+  Mandolin         : A5@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3@1>1^104
+@203 [F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+F#5@2>1^56
+  Sampled Strings  : C#3+A3@1>1^104 C#3+F#3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@204 [F#m] (grid:64)
+  Army Dreamers    : A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : A2@9>4^104 B2@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@205 [A] (grid:16)
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : C#3@1>1^104 D3@2>1^104 E3@3>1^104 C#3@4>1^104
+@206 [Bm]
+  Kate Bush        : B3@2>1^104
+  Guitar           : B3@1>3^56 B4+D5+F#5@2>1^56
+  Sampled Strings  : B2+D3@1>1^104 B2+D3+F#3@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@207 [Bm | Em]
+  Kate Bush        : F#4@1>1^104
+  Mandolin         : D5@1>1^80 C#5@2>2^80
+  Guitar           : B4+D5+F#5@1>1^56 E3@2>3^56
+  Sampled Strings  : B2+E3+G3@2>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@208 [Em | C#m7]
+  Kate Bush        : E4@1>1^104 C#4@2>1^104
+  Mandolin         : D5@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : B2@1>1^104
+@209 [F#m]
+  Mandolin         : F#4@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+F#5@2>1^56
+  Sampled Strings  : C#3+A3@1>1^104 C#3+F#3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@210 [F#m | D7] (grid:64)
+  Army Dreamers    : A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : C#4@9>4^104 D4@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@211 [A] (grid:16)
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : C#4@1>1^104 A3@2>1^104 E3@3>1^104 C#3@4>1^104
+@212 [Bm]
+  Guitar           : B3@1>3^56 B4+D5@2>1^56
+  Sampled Strings  : D3@1>1^104 B2@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@213 [D | Em]
+  Mandolin         : A5@1>1^80 F#5@2>2^80
+  Guitar           : B4+D5@1>1^56 E3@2>3^56
+  Sampled Strings  : B2+G3@2>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@214 [Em]
+  Mandolin         : A5@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : B2+E3@1>1^104
+@215 [F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+F#5@2>1^56
+  Sampled Strings  : C#3+A3@1>1^104 C#3+F#3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@216 [F#m | D7] (grid:64)
+  Army Dreamers    : A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : C#4@9>4^104 D4@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@217 [A] (grid:16)
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : C#4@1>1^104 A3@2>1^104 B3@3>1^104 C#4@4>1^104
+@218 [B | Bm]
+  Kate Bush        : B3@2>1^104
+  Guitar           : B3@1>3^56 B4+D5+F#5@2>1^56
+  Sampled Strings  : B3@1>1^104 D3+F#3+B3@2>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+  Percussion       : B3@1>3^104
+@219 [Bm | Em]
+  Kate Bush        : F#4@1>1^104
+  Mandolin         : F#4@1>1^80 G4@2>2^80
+  Guitar           : B4+D5+F#5@1>1^56 E3@2>3^56
+  Sampled Strings  : E3+G3+B3@2>1^104
+  Sampled Strings#2: E1@2>1^104
+  Bass             : E3@2>3^104
+  Percussion       : B3@2>3^104
+@220 [Em]
+  Kate Bush        : E4@1>1^104 C#4@2>1^104
+  Mandolin         : B4@2>1^80
+  Guitar           : G4+B4+E5@1>1^56 G4+B4+E5@2>1^56
+  Sampled Strings  : E3+G3@1>1^104
+@221 [F#m]
+  Mandolin         : C#5@1>3^80
+  Guitar           : F#3@1>3^56 A4+C#5+F#5@2>1^56
+  Sampled Strings  : C#3+A3@1>1^104 C#3+F#3@2>1^104
+  Sampled Strings#2: F#1@1>1^104
+  Bass             : F#3@1>3^104
+  Percussion       : B3@1>3^104
+@222 [F#m] (grid:64)
+  Army Dreamers    : F#3@5>4^104 A3@9>4^104 F#3@13>4^104
+  Guitar           : A4+C#5+F#5@1>8^56 A3@9>24^56
+  Rifle Clicks     : G2+G#3@1>8^104 G#2@2>8^104 A2+A3@9>8^104
+  Sampled Strings  : A2@9>4^104 B2@13>4^104
+  Sampled Strings#2: A1@9>8^104
+  Bass             : A3@9>24^104
+  Percussion       : B3@9>24^104
+@223 [A] (grid:16)
+  Army Dreamers    : A3@1>2^104 E3@3>2^104
+  Guitar           : A4+C#5+E5@1>2^56 A4+C#5+E5@3>2^56
+  Sampled Strings  : C#3@1>1^104 D3@2>1^104 E3@3>1^104 C#3@4>1^104
+@224 [Bm] (grid:4)
+  Guitar           : B4+D5+F#5@1>3^56
+  Sampled Strings  : B2@1>1^104
+  Sampled Strings#2: B1@1>1^104
+  Bass             : B3@1>3^104
+@225 [-]
+@226 [-]

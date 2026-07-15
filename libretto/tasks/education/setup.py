@@ -35,11 +35,35 @@ from . import curriculum as C
 SHARED = (Path(libretto.__file__).resolve().parent / "generation" / "prompts" / "_shared.md")
 LEVEL_BARS = {"beginner": 8, "intermediate": 12, "advanced": 16}
 
-# Single-clef register bands (MIDI). treble = stay in/above middle C and reach up; bass = stay in/below and
-# reach down. cover_* = the in-key pitches a reader meets in that clef, ≥cover_min of which must appear.
+# Register bands (MIDI). The reading range a learner meets = the 5 staff lines + 3 ledger LINES and 3 ledger
+# SPACES both ABOVE and BELOW the staff (per-clef). That rule gives, exactly:
+#   treble  f (F3=53, 3rd ledger below) -> e''' (E6=88, 3rd ledger above)
+#   bass    A1 (33, 3rd ledger below)   -> g' (G4=67, 3rd ledger above)
+#   grand staff (union of both clefs)   -> A1(33) .. E6(88)
+# cover_* = the in-key pitches a reader meets across the band, ≥cover_min of which must actually appear.
+# balance_min = min evenness (0..1) of the per-octave note COUNTS; balance_max_octave = cap on the busiest
+# octave's share. Together they force notes to be FREQUENCY-BALANCED across the register, not clustered in one
+# octave while merely touching the extremes.
 CLEF_BANDS = {
-    "treble": dict(mode="treble", cover_lo=60, cover_hi=84, cover_min=0.6, hi_min=79, lo_floor=55),
-    "bass":   dict(mode="bass",   cover_lo=36, cover_hi=60, cover_min=0.6, lo_max=41, hi_ceil=64),
+    "treble": dict(mode="treble", cover_lo=53, cover_hi=88, cover_min=0.6, hi_min=84, lo_floor=53,
+                   balance_min=0.65, balance_max_octave=0.45),
+    "bass":   dict(mode="bass",   cover_lo=33, cover_hi=67, cover_min=0.6, lo_max=36, hi_ceil=67,
+                   balance_min=0.65, balance_max_octave=0.45),
+}
+
+# Grand-staff coverage over the FULL A1..E6 reading range, scaled by level: EVERY drill must span + cover a
+# real chunk of the staff (not sit in one octave). low_max = must reach at least this LOW; high_min = at least
+# this HIGH; cover_lo..cover_hi = the window; cover_min = fraction of in-key pitches in it that must appear.
+# Advanced drills reach the full A1..E6 extremes; lower levels span a level-appropriate inner range.
+# balance_min / balance_max_octave (see CLEF_BANDS) also apply here — notes must be spread evenly across the
+# octaves, not packed in the comfortable middle. Tightens with level.
+STAFF_BANDS = {
+    "beginner":     dict(low_max=55, high_min=72, min_low_frac=0.15, min_high_frac=0.15,
+                         cover_lo=48, cover_hi=79, cover_min=0.45, balance_min=0.60, balance_max_octave=0.55),
+    "intermediate": dict(low_max=48, high_min=79, min_low_frac=0.15, min_high_frac=0.15,
+                         cover_lo=41, cover_hi=84, cover_min=0.55, balance_min=0.65, balance_max_octave=0.50),
+    "advanced":     dict(low_max=41, high_min=84, min_low_frac=0.15, min_high_frac=0.15,
+                         cover_lo=33, cover_hi=88, cover_min=0.60, balance_min=0.70, balance_max_octave=0.45),
 }
 
 
@@ -57,10 +81,14 @@ def resolve_spec(spec):
         # concepts suited to a single line: rhythm + melody + ARPEGGIATED harmony (no block chords / polyphony).
         s.setdefault("dimensions", ["rhythm", "melody", "chord"])
         s.setdefault("clef", "changing")        # CLEF is a user choice (like key): treble|bass|grand|changing
+    variant = int(s.get("variant", 0) or 0)
     # CLEF option -> notation mode + register requirement:
     #   treble / bass = ONE line kept in that clef's register (engraves in that clef);
     #   grand         = spans BOTH registers (grand staff, may stack);
     #   changing      = ONE line roaming the whole range, so a SINGLE staff changes clef.
+    # DEFAULT is 'changing' — every drill covers the full A1..E6 reading range (both clefs) unless the caller
+    # pins a single clef. This makes "cover all pitches" the norm, not an opt-in.
+    s.setdefault("clef", "changing")
     clef = s.get("clef")
     if clef in ("grand", "changing"):
         s.setdefault("grand_staff", True)
@@ -75,11 +103,13 @@ def resolve_spec(spec):
     if realistic:
         s["bars"] = max(s["bars"], 52)          # a full-length piece (50+ bars) — room to cover the whole staff
                                                 # and work through many DIFFERENT rhythms without repeating
-    s.setdefault("meter", "4/4")
+    # VARIED tempo + meter by default (cycled by `variant` so a batch covers the major speeds + several time
+    # signatures, not one fixed 4/4). An explicit meter/tempo in the spec still wins.
+    s.setdefault("meter", C.meter_for_variant(s["level"], variant))
     s.setdefault("range_min", ld["range_min"])          # melodic-range floor (semitones)
     s.setdefault("melody_interest", ld["melody_interest"])
     s.setdefault("syncopation", ld["syncopation"])      # a baseline of syncopation for musical interest
-    s.setdefault("tempo", ld["tempo"])
+    s.setdefault("tempo", C.tempo_for_variant(s["level"], variant))
     if not s.get("concept_ids"):
         s["concept_ids"] = C.autoscale(s["level"], s.get("dimensions"), s.get("n_concepts", ld["n_concepts"]),
                                        offset=int(s.get("variant", 0)))
@@ -93,13 +123,12 @@ def resolve_spec(spec):
     # a reader meets on the staff, not just the two extremes). Stays ONE `Piano` voice — the notation splits it
     # by pitch, so no two-voice gate change is needed.
     if s.get("grand_staff"):
+        base = STAFF_BANDS.get(s["level"], STAFF_BANDS["beginner"])  # level-scaled full-range coverage
         gs = s["grand_staff"] if isinstance(s.get("grand_staff"), dict) else {}
-        s["grand_staff_band"] = dict(low_max=gs.get("low_max", 48), high_min=gs.get("high_min", 76),
-                                     min_low_frac=gs.get("min_low_frac", 0.15),
-                                     min_high_frac=gs.get("min_high_frac", 0.15),
-                                     cover_lo=gs.get("cover_lo", 48), cover_hi=gs.get("cover_hi", 76),
-                                     cover_min=gs.get("cover_min", 0.6))
-    s["rhythm_mix"] = bool(s.get("rhythm_mix"))
+        s["grand_staff_band"] = {k: gs.get(k, base[k]) for k in base}
+    # DIFFERENT rhythm patterns with different durations are REQUIRED in every drill (default on), so the
+    # learner reads a mix of note values, not one repeated figure. An explicit rhythm_mix=False still opts out.
+    s["rhythm_mix"] = bool(s.get("rhythm_mix", True))
     s["single_line"] = bool(s.get("single_line"))
     return s
 
@@ -138,27 +167,44 @@ def _requirements_text(s):
                  "This is a monophonic reading study.")
     clef = s.get("clef")
     if clef == "treble":
-        L.append("- CLEF / REGISTER: TREBLE clef. Keep the line in the treble register — middle C (C4) and "
-                 "ABOVE, roaming up to around E5–C6 — and visit most of the notes a reader meets on the treble "
-                 "staff. Don't drop far below middle C.")
+        L.append("- CLEF / REGISTER: TREBLE clef, WIDE span. Roam from F3 (a sixth below middle C, on ledger "
+                 "lines below the staff) up to about E6 (high ledger lines above the staff), visiting most in-key "
+                 "pitches across that ~3-octave range. Use ledger lines both below and above the staff; reach the "
+                 "high sixth-octave notes (C6 and above) and dip down to F3–B3, but do not go below F3.")
     elif clef == "bass":
-        L.append("- CLEF / REGISTER: BASS clef. Keep the line in the bass register — middle C (C4) and BELOW, "
-                 "roaming down to around F2–C3 — and visit most of the notes a reader meets on the bass staff. "
-                 "Don't climb far above middle C.")
+        L.append("- CLEF / REGISTER: BASS clef, WIDE span. Roam from A1 (deep ledger lines below the bass staff) "
+                 "up to about G4 (above the staff, into treble-ledger territory), visiting most in-key pitches "
+                 "across that ~3-octave range. Reach the deep notes (C2 and below, toward A1) and climb up to "
+                 "F4–G4, but do not go above G4.")
     elif clef == "grand":
-        L.append("- CLEF / RANGE (GRAND STAFF): span BOTH registers — low notes in the bass (around C3–F2) AND "
-                 "high notes in the treble (around E5–C6), covering most in-key pitches across the range, so the "
-                 "score fills both the treble and bass staves.")
-    elif s.get("grand_staff_band"):   # 'changing'
-        L.append("- CLEF / RANGE (roams the WHOLE staff OVER TIME): the single line must TRAVEL across almost "
-                 "the whole range — dip DOWN into the bass register (around C3–F2) in some passages and climb UP "
-                 "into the treble (around E5–C6) in others, through the middle, so the engraved score CHANGES "
+        gb = s.get("grand_staff_band", {})
+        L.append(f"- CLEF / RANGE (GRAND STAFF): cover the reading range — the 5 staff lines plus 3 ledger lines "
+                 f"and 3 ledger spaces above AND below each clef, i.e. down to MIDI {gb.get('low_max',48)} or lower "
+                 f"(toward A1 in the bass) AND up to MIDI {gb.get('high_min',76)} or higher (toward E6 in the "
+                 f"treble), visiting most in-key pitches across it, so the score fills BOTH staves.")
+    elif s.get("grand_staff_band"):   # 'changing' — the DEFAULT
+        gb = s["grand_staff_band"]
+        L.append(f"- CLEF / RANGE (roams the WHOLE staff OVER TIME): the single line must TRAVEL across the "
+                 f"reading range = the 5 staff lines + 3 ledger lines & 3 ledger spaces above AND below the staff. "
+                 f"Dip DOWN to at least MIDI {gb['low_max']} (deep bass, toward A1) in some passages and climb UP "
+                 f"to at least MIDI {gb['high_min']} (high treble, toward E6) in others, through the middle, "
+                 f"covering most in-key pitches so the engraved score CHANGES "
                  "CLEF as the line descends and rises. Visit most pitches a reader meets; don't sit in one octave.")
+    if s.get("grand_staff_band") or s.get("clef_band"):
+        L.append("- FREQUENCY BALANCE: spread the notes EVENLY across the octaves — give each octave of the range "
+                 "roughly comparable use. Do NOT pack most notes into the comfortable middle and only touch the "
+                 "high/low extremes once; the busiest octave should not dominate the piece.")
     if s.get("rhythm_mix"):
         L.append("- RHYTHM (MIXED & NON-REPETITIVE): use SEVERAL different rhythm patterns and INTERLEAVE them, "
                  "varying the rhythm from bar to bar. Do NOT repeat one rhythmic pattern over and over, and do "
                  "NOT group all of one pattern then switch (no 'AAAA BBBB' blocks) — mix the patterns throughout "
                  "so there is no obvious separation between them.")
+        L.append("- RHYTHM VARIETY (cover the common patterns): across the piece, touch a BROAD range of common "
+                 "rhythmic figures — steady runs, dotted (long-short / short-long), sixteenth runs, triplets, "
+                 "ties over the beat, and SYNCOPATED cells. The syncopated short-long-short family is a staple: a "
+                 "longer note attacking on the 'and' held over the next beat, flanked by shorter notes — e.g. "
+                 "0.5-1-0.5 (>2 >4 >2) and its variants like 0.5-1-0.25-0.25 (>2 >4 >1 >1) or at other scales. "
+                 "Use them freely and mixed; this is guidance for variety, not a rigid checklist.")
     if s.get("dynamics"):
         L.append(f"- DYNAMICS (performance overlay — shape while playing; not written in the note data): {s['dynamics']}.")
     L.append(f"- LENGTH: ~{s['bars']} bars.")

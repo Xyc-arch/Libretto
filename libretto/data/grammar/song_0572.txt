@@ -1,0 +1,161 @@
+KEY: F minor | METER: 4/4 | TEMPO: 125 | GRID: 24t (adaptive) | BARS: 35
+VOICES: Acoustic Grand Piano[prog=0], Fretless Bass[prog=35], Acoustic Grand Piano#2[prog=0], Acoustic Grand Piano#3[prog=0]
+@1 [Faug | Bbm] (grid:12t)
+  Acoustic Grand Piano  : F5@1>1^104 F5@4>1^104 F5@7>1^104 F5@9>1^104 F5@12>1^104
+  Fretless Bass         : Db2@1>11^104 Bb1@12>11^104
+  Acoustic Grand Piano#2: F5@1>16^104
+@2 [Fm | Eb] (grid:12t)
+  Acoustic Grand Piano  : F5@3>1^104 G5@8>1^104 G5@11>1^104
+  Fretless Bass         : F1@11>22^104
+  Acoustic Grand Piano#2: Ab5@5>3^104 G5@8>1^104 Eb5@10>18^104
+  Acoustic Grand Piano#3: Eb5@10>1^104 Eb5@12>1^104
+@3 [Gaug]
+  Acoustic Grand Piano  : G5@2>3^104 G5@8>3^104 G5@13>3^104 G5@19>3^104 G5@24>3^104
+  Acoustic Grand Piano#3: Eb5@5>3^104 Eb5@11>3^104 Eb5@16>3^104 Eb5@22>3^104
+@4 [Ab7 | C] (grid:12t)
+  Acoustic Grand Piano  : G5@6>1^104 G5@9>1^104 G5@12>1^104
+  Fretless Bass         : Db2@9>11^104
+  Acoustic Grand Piano#2: Ab5@3>3^104 G5@6>1^104 C5@8>18^104
+  Acoustic Grand Piano#3: Eb5@2>1^104 Eb5@5>1^104 C5@8>1^104 C5@10>1^104
+@5 [C | Gm] (grid:12t)
+  Acoustic Grand Piano  : G5@2>1^104 G5@5>1^104 G5@8>1^104 G5@11>1^104
+  Fretless Bass         : Bb1@8>11^104
+  Acoustic Grand Piano#3: C5@1>1^104 C5@4>1^104 C5@7>1^104 C5@9>1^104 C5@12>1^104
+@6 [Fm] (grid:8)
+  Acoustic Grand Piano  : G5@3>1^104 G5@5>1^104 G5@7>1^104
+  Fretless Bass         : F1@5>15^104
+  Acoustic Grand Piano#2: Ab5@1>2^104 G5@3>1^104 Ab4@4>12^104
+  Acoustic Grand Piano#3: C5@2>1^104 Ab4@4>1^104 Ab4@6>1^104 Ab4@8>1^104
+@7 [Ab7 | G]
+  Acoustic Grand Piano  : G5@1>1^104 G5@5>3^104 G5@11>3^104 G5@16>3^104 G5@22>3^104
+  Acoustic Grand Piano#3: Ab4@3>3^104 Ab4@8>3^104 Ab4@14>3^104 Ab4@19>3^104
+@8 [Db] (grid:32)
+  Acoustic Grand Piano  : F4@4>4^104 F5@11>7^104 F5@19>7^104 F5@26>7^104
+  Fretless Bass         : Db2@11>29^104
+  Acoustic Grand Piano#2: F4@4>2^104 G4@6>2^104 Ab4@8>2^104 C5@10>2^104 F5@11>44^104
+  Acoustic Grand Piano#3: Ab4@1>3^104 F4@11>2^104 G4@13>2^104 Ab4@15>2^104 C5@17>2^104 F4@19>2^104 G4@21>2^104 Ab4@22>2^104 C5@24>2^104 F4@26>2^104 G4@28>2^104 Ab4@30>2^104 C5@31>2^104
+@9 [Bb7] (grid:32)
+  Acoustic Grand Piano  : F5@1>7^104 F5@9>7^104 F5@16>7^104 G5@31>7^104
+  Fretless Bass         : Bb1@9>29^104
+  Acoustic Grand Piano#2: Ab5@23>7^104 G5@31>4^104
+  Acoustic Grand Piano#3: F4@1>2^104 G4@3>2^104 Ab4@5>2^104 C5@7>2^104 F4@9>2^104 G4@10>2^104 Ab4@12>2^104 C5@14>2^104 F4@16>2^104 G4@18>2^104 Ab4@20>2^104 C5@21>2^104
+@10 [Eb]
+  Acoustic Grand Piano  : G5@5>5^104 G5@10>6^104 G5@16>5^104 G5@21>5^104
+  Fretless Bass         : F1@5>44^104
+  Acoustic Grand Piano#2: Eb5@2>36^104
+  Acoustic Grand Piano#3: Eb5@2>3^104 Eb5@7>3^104 Eb5@13>3^104 Eb5@18>3^104 Eb5@24>3^104
+@11 [Gaug | Cm] (grid:16)
+  Acoustic Grand Piano  : G5@2>4^104 G5@6>4^104 G5@9>4^104 G5@13>4^104
+  Acoustic Grand Piano#2: Db5@15>1^104 C5@16>1^104
+  Acoustic Grand Piano#3: Eb5@4>2^104 Eb5@8>2^104 Eb5@11>2^104
+@12 [Caug | Ab]
+  Acoustic Grand Piano  : C5@6>5^104 C5@12>5^104 C5@17>6^104 C5@23>5^104
+  Fretless Bass         : Db2@1>15^104 Bb1@23>22^104
+  Acoustic Grand Piano#2: Db5@1>4^104 C5@6>3^104 Ab4@9>14^104
+  Acoustic Grand Piano#3: Db5@1>1^104 C5@2>1^104 Db5@3>6^104 Ab4@9>3^104 Ab4@14>3^104 Ab4@20>3^104
+@13 [C | Fm] (grid:12t)
+  Acoustic Grand Piano  : C5@3>3^104 C5@8>3^104 C5@11>3^104
+  Fretless Bass         : F1@11>22^104
+  Acoustic Grand Piano#2: G4@1>4^104 Ab4@5>3^104 C5@8>1^104 F4@9>18^104
+  Acoustic Grand Piano#3: G4@4>3^104 Ab4@8>1^104 F4@9>1^104 F4@12>1^104
+@14 [F]
+  Acoustic Grand Piano  : C5@2>5^104 C5@8>5^104 C5@13>5^104 C5@19>6^104 C5@24>5^104
+  Acoustic Grand Piano#3: F4@5>3^104 F4@10>3^104 F4@16>3^104 F4@21>3^104
+@15 [F | Fm]
+  Acoustic Grand Piano  : C5@6>5^104 C5@11>6^104 F4@17>3^104 C4@19>3^104 F4@22>3^104
+  Fretless Bass         : F1@17>44^104
+  Acoustic Grand Piano#2: Ab4@17>2^104 F4@19>3^104 Ab4@22>3^104
+  Acoustic Grand Piano#3: F4@3>3^104 F4@8>3^104 F4@14>3^104
+@16 [Fm | Eb] (grid:32)
+  Acoustic Grand Piano  : C4@1>3^104 F4@4>4^104 C4@8>4^104 F4@12>4^104 Eb4@15>2^104 F4@17>2^104 G4@19>4^104 Eb4@23>4^104 G4@26>4^104 Eb4@30>4^104
+  Acoustic Grand Piano#2: F4@1>3^104 Ab4@4>4^104 F4@8>4^104 Ab4@12>4^104 G4@15>2^104 Ab4@17>2^104 Bb4@19>3^104 G4@22>4^104 Bb4@26>4^104 G4@30>4^104
+  Acoustic Grand Piano#3: G4@19>2^104 Ab4@21>2^104 Bb4@23>4^104 G4@26>2^104 Ab4@28>2^104 Bb4@30>4^104
+@17 [Eb | Fm] (grid:32)
+  Acoustic Grand Piano  : G4@2>4^104 Eb4@5>3^104 G4@9>4^104 F4@13>2^104 G4@14>2^104 Ab4@16>4^104 F4@20>4^104 Ab4@24>4^104 F4@27>4^104 Ab4@31>4^104
+  Fretless Bass         : F1@16>59^104
+  Acoustic Grand Piano#2: Bb4@2>4^104 G4@5>4^104 Bb4@9>4^104 G4@13>1^104 Ab4@14>2^104 C5@16>3^104 Ab4@19>4^104 C5@24>4^104 Ab4@27>4^104 C5@31>3^104
+  Acoustic Grand Piano#3: G4@16>2^104 Ab4@18>2^104 C5@20>4^104 G4@24>1^104 Ab4@25>2^104 C5@27>4^104
+@18 [Fm | Eb] (grid:16)
+  Acoustic Grand Piano  : F4@2>2^104 Ab4@4>2^104 Eb4@5>1^104 F4@6>1^104 G4@7>2^104 Eb4@9>2^104 G4@11>2^104 Eb4@13>2^104 G4@15>2^104 Eb4@16>2^104
+  Acoustic Grand Piano#2: Ab4@2>2^104 C5@4>2^104 G4@5>1^104 Ab4@6>1^104 Bb4@7>2^104 G4@9>2^104 Bb4@11>2^104 G4@13>2^104 Bb4@15>2^104 G4@16>2^104
+  Acoustic Grand Piano#3: G4@7>1^104 Ab4@8>1^104 Bb4@9>2^104 G4@11>1^104 Ab4@12>1^104 Bb4@13>2^104
+@19 [Fm] (grid:16)
+  Acoustic Grand Piano  : G4@2>2^104 C4@4>1^104 Eb4@5>1^104 F4@6>2^104 C4@8>2^104 F4@10>2^104 C4@11>2^104 F4@13>2^104 C4@15>2^104
+  Fretless Bass         : F1@6>29^104
+  Acoustic Grand Piano#2: Bb4@2>2^104 F4@4>1^104 G4@5>1^104 Ab4@6>2^104 F4@8>2^104 Ab4@10>2^104 F4@11>2^104 Ab4@13>2^104 F4@15>2^104
+  Acoustic Grand Piano#3: F4@6>1^104 G4@7>1^104 Ab4@8>2^104 F4@10>1^104 G4@11>1^104 Ab4@12>2^104
+@20 [Eb] (grid:32)
+  Acoustic Grand Piano  : F4@1>2^104 Eb4@5>2^104 F4@6>2^104 G4@8>4^104 Eb4@12>4^104 G4@15>4^104 Eb4@19>4^104 G4@23>4^104 Eb4@26>3^104 G4@30>4^104
+  Acoustic Grand Piano#2: Ab4@1>2^104 G4@5>2^104 Ab4@6>2^104 Bb4@8>3^104 G4@11>4^104 Bb4@15>4^104 G4@19>4^104 Bb4@23>4^104 G4@26>4^104 Bb4@30>4^104
+  Acoustic Grand Piano#3: G4@8>2^104 Ab4@10>2^104 Bb4@12>4^104 G4@15>2^104 Ab4@17>2^104 Bb4@19>4^104
+@21 [Fm] (grid:16)
+  Acoustic Grand Piano  : F4@1>1^104 G4@2>1^104 Ab4@3>2^104 F4@5>2^104 Ab4@7>2^104 F4@9>2^104 Ab4@11>2^104 F4@12>2^104 Ab4@14>2^104 G4@16>1^104
+  Fretless Bass         : F1@3>29^104
+  Acoustic Grand Piano#2: G4@1>1^104 Ab4@2>1^104 C5@3>2^104 Ab4@5>2^104 C5@7>2^104 Ab4@9>2^104 C5@11>2^104 Ab4@12>2^104 C5@14>2^104 Bb4@16>1^104
+  Acoustic Grand Piano#3: G4@3>1^104 Ab4@4>1^104 C5@5>2^104 G4@7>1^104 Ab4@8>1^104 C5@9>2^104
+@22 [Eb] (grid:32)
+  Acoustic Grand Piano  : Ab4@1>1^104 Bb4@3>3^104 G4@6>4^104 Bb4@10>4^104 G4@13>4^104 Bb4@17>4^104 G4@21>4^104 Eb5@25>4^104
+  Fretless Bass         : Db2@32>7^104
+  Acoustic Grand Piano#2: C5@1>1^104 Eb5@3>3^104 Bb4@6>4^104 Eb5@10>4^104 Bb4@14>4^104 Eb5@17>4^104 Bb4@21>4^104 F4@25>2^104 G4@27>2^104 Ab4@28>2^104 C5@30>2^104 F5@32>44^104
+  Acoustic Grand Piano#3: Bb4@3>2^104 C5@5>2^104 Eb5@6>4^104 Bb4@10>2^104 C5@12>2^104 Eb5@14>4^104 Bb4@17>2^104 C5@19>2^104 Eb5@21>4^104 Bb4@25>4^104 F4@32>2^104
+@23 [Db] (grid:32)
+  Acoustic Grand Piano  : F5@7>4^104 F5@15>4^104 F5@22>4^104 F5@29>4^104
+  Fretless Bass         : Db2@7>7^104 Db2@15>7^104 Db2@22>7^104 Bb1@29>7^104
+  Acoustic Grand Piano#3: G4@2>2^104 Ab4@4>2^104 C5@6>2^104 F4@7>2^104 G4@9>2^104 Ab4@11>2^104 C5@13>2^104 F4@15>2^104 G4@17>2^104 Ab4@18>2^104 C5@20>2^104 F4@22>2^104 G4@24>2^104 Ab4@26>2^104 C5@28>2^104 F4@29>2^104 G4@31>2^104
+@24 [Bb7 | Eb] (grid:16)
+  Acoustic Grand Piano  : F5@3>2^104 G5@10>2^104 G5@14>2^104
+  Fretless Bass         : Bb1@3>4^104 Bb1@7>4^104 Bb1@10>4^104 F1@14>4^104
+  Acoustic Grand Piano#2: Ab5@7>4^104 G5@10>2^104 Eb5@12>24^104
+  Acoustic Grand Piano#3: Ab4@1>1^104 C5@2>1^104 Eb5@12>2^104 Eb5@16>2^104
+@25 [F]
+  Acoustic Grand Piano  : G5@2>3^104 G5@7>3^104 G5@13>3^104 G5@18>3^104 G5@24>3^104
+  Fretless Bass         : F1@2>5^104 F1@7>6^104 F1@13>5^104 F1@18>6^104 F1@24>6^104
+  Acoustic Grand Piano#3: Eb5@4>3^104 Eb5@10>3^104 Eb5@15>3^104 Eb5@21>3^104
+@26 [Fm7 | C]
+  Acoustic Grand Piano  : G5@11>3^104 G5@16>3^104 G5@22>3^104
+  Fretless Bass         : F1@5>5^104 F1@11>5^104 Db2@16>5^104 Db2@22>6^104
+  Acoustic Grand Piano#2: Ab5@5>5^104 G5@11>3^104 C5@13>35^104
+  Acoustic Grand Piano#3: Eb5@2>3^104 Eb5@8>3^104 C5@13>3^104 C5@19>3^104 C5@24>3^104
+@27 [Dbdim | Gdim] (grid:12t)
+  Acoustic Grand Piano  : G5@2>1^104 G5@5>1^104 G5@8>1^104 G5@10>1^104
+  Fretless Bass         : Db2@2>3^104 Db2@5>3^104 Bb1@8>3^104 Bb1@10>3^104
+  Acoustic Grand Piano#3: C5@3>1^104 C5@6>1^104 C5@9>1^104 C5@12>1^104
+@28 [Gm | Fm]
+  Acoustic Grand Piano  : G5@7>3^104 G5@12>3^104 G5@18>3^104 G5@23>3^104
+  Fretless Bass         : Bb1@1>5^104 Bb1@7>5^104 F1@12>6^104 F1@18>6^104 F1@23>5^104
+  Acoustic Grand Piano#2: Ab5@1>3^104 G5@6>3^104 Ab4@9>36^104
+  Acoustic Grand Piano#3: C5@4>3^104 Ab4@9>3^104 Ab4@15>3^104 Ab4@20>3^104
+@29 [Fm]
+  Acoustic Grand Piano  : G5@5>3^104 G5@10>3^104 G5@16>3^104 G5@21>3^104
+  Fretless Bass         : F1@5>6^104 F1@10>6^104 F1@16>5^104 F1@21>6^104
+  Acoustic Grand Piano#3: Ab4@2>3^104 Ab4@7>3^104 Ab4@13>3^104 Ab4@18>3^104 Ab4@24>3^104
+@30 [Db] (grid:32)
+  Acoustic Grand Piano  : F4@3>4^104 F5@10>7^104 F5@18>7^104 F5@25>7^104 F5@32>7^104
+  Fretless Bass         : F1@3>7^104 Db2@10>7^104 Db2@18>7^104 Db2@25>7^104 Db2@32>7^104
+  Acoustic Grand Piano#2: F4@3>2^104 G4@5>2^104 Ab4@7>2^104 C5@9>2^104 F5@10>44^104
+  Acoustic Grand Piano#3: F4@10>2^104 G4@12>2^104 Ab4@14>2^104 C5@16>2^104 F4@18>2^104 G4@20>2^104 Ab4@21>2^104 C5@23>2^104 F4@25>2^104 G4@27>2^104 Ab4@29>2^104 C5@31>2^104 F4@32>2^104
+@31 [Bb | Gm7] (grid:32)
+  Acoustic Grand Piano  : F5@8>7^104 F5@15>7^104 G5@30>7^104
+  Fretless Bass         : Bb1@8>7^104 Bb1@15>7^104 Bb1@22>7^104 Bb1@30>7^104
+  Acoustic Grand Piano#2: Ab5@22>7^104 G5@30>4^104
+  Acoustic Grand Piano#3: G4@2>2^104 Ab4@4>2^104 C5@6>2^104 F4@8>2^104 G4@10>2^104 Ab4@11>2^104 C5@13>2^104 F4@15>2^104 G4@17>2^104 Ab4@19>2^104 C5@21>2^104
+@32 [Eb] (grid:12t)
+  Acoustic Grand Piano  : G5@3>3^104 G5@5>3^104 G5@8>3^104 G5@11>3^104
+  Fretless Bass         : F1@3>3^104 F1@5>3^104 F1@8>3^104 F1@11>3^104
+  Acoustic Grand Piano#2: Eb5@1>18^104
+  Acoustic Grand Piano#3: Eb5@1>1^104 Eb5@4>1^104 Eb5@7>1^104 Eb5@9>1^104 Eb5@12>1^104
+@33 [Gaug | Gm7] (grid:16)
+  Acoustic Grand Piano  : G5@2>4^104 G5@5>4^104 G5@9>4^104 G5@13>4^104
+  Fretless Bass         : F1@2>4^104 F1@5>4^104 F1@9>4^104 F1@13>4^104 Db2@16>4^104
+  Acoustic Grand Piano#2: Db5@14>1^104 C5@15>1^104 Db5@16>4^104
+  Acoustic Grand Piano#3: Eb5@3>2^104 Eb5@7>2^104 Eb5@11>2^104 Db5@16>1^104
+@34 [Db7 | Ab]
+  Acoustic Grand Piano  : C5@5>5^104 C5@11>5^104 C5@16>5^104 C5@22>6^104
+  Fretless Bass         : Db2@5>5^104 Db2@11>5^104 Db2@16>5^104 Bb1@22>6^104
+  Acoustic Grand Piano#2: C5@5>3^104 Ab4@8>14^104
+  Acoustic Grand Piano#3: C5@1>1^104 Db5@3>5^104 Ab4@8>3^104 Ab4@14>3^104 Ab4@19>3^104
+@35 [Gm | Fm] (grid:12t)
+  Acoustic Grand Piano  : C5@2>3^104 C5@8>1^104
+  Fretless Bass         : Bb1@2>3^104 Bb1@5>3^104 Bb1@8>1^104
+  Acoustic Grand Piano#2: G4@1>8^104 Ab4@5>3^104 C5@8>1^104 F4@9>1^104
+  Acoustic Grand Piano#3: G4@4>3^104 Ab4@8>1^104

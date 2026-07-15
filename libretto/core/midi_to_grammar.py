@@ -68,7 +68,7 @@ _QUAL_PREF = {"": 0, "m": 1, "dim": 2, "aug": 3}   # tie-break preference order
 
 # Adaptive grid: resolutions in slots-per-whole-note. Binary 4/8/16/32 are
 # quarter/8th/16th/32nd; triplet 6/12/24 are quarter/8th/16th-note triplets.
-_BINARY_GRIDS = (4, 8, 16, 32)
+_BINARY_GRIDS = (4, 8, 16, 32, 64)   # 64 lets very dense bars avoid onset-collapse (fewer dropped notes)
 _TRIPLET_GRIDS_ORD = (6, 12, 24)
 _TRIPLET_GRIDS = frozenset(_TRIPLET_GRIDS_ORD)
 
@@ -121,7 +121,7 @@ def choose_bar_grid(voice_onsets, bar_ql):
     """
     if not any(voice_onsets):
         return None
-    g_bin = next((g for g in _BINARY_GRIDS if not _collapses(voice_onsets, g)), 32)
+    g_bin = next((g for g in _BINARY_GRIDS if not _collapses(voice_onsets, g)), 64)
     r_bin = _avg_residual(voice_onsets, g_bin)
     if r_bin > 0.02:                       # binary doesn't explain the onsets well
         for g in _TRIPLET_GRIDS_ORD:
@@ -256,6 +256,137 @@ def _words(text):
     return [w for w in re.split(r"[^a-z0-9]+", text.lower()) if w]
 
 
+def part_program(part):
+    """The GM program number (0..127) of a part, if the MIDI declared one; else None.
+    Preserves the ORIGINAL timbre so the decoder need not guess it from the voice name."""
+    for inst in part.recurse().getElementsByClass(instrument.Instrument):
+        p = getattr(inst, "midiProgram", None)
+        if p is not None:
+            return int(p) & 127
+    return None
+
+
+# Coarse velocity ladder: quantize a MIDI velocity (1..127) to one of a few levels so the
+# grammar carries dynamics without exploding token length.
+_VEL_LEVELS = (32, 56, 80, 104)          # ~pp/mp, mp/mf, mf/f, ff
+
+
+def quantize_velocity(v):
+    """Snap a raw velocity to the nearest coarse level (returns one of _VEL_LEVELS)."""
+    return min(_VEL_LEVELS, key=lambda lv: abs(lv - int(v)))
+
+
+def _pm_instrument_meta(midi_path):
+    """(program, is_drum) per instrument track, IN ORDER, from pretty_midi — a reliable reader of
+    PROGRAM_CHANGE / drum-channel data. music21's getInstrument().midiProgram returns None for most
+    files, so it cannot be trusted for timbre; pretty_midi reads it directly. Aligns to the music21
+    parts by track order (both derive from track order). Returns None if the file can't be read."""
+    try:
+        import pretty_midi
+        pm = pretty_midi.PrettyMIDI(str(midi_path))
+        return [(int(i.program) & 127, bool(i.is_drum)) for i in pm.instruments]
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def _pm_programs_by_content(midi_path, parts):
+    """Per-part (program, is_drum) from pretty_midi, matched by NOTE CONTENT (not by track count/order).
+
+    pretty_midi reads GM programs reliably but may split a part on program-change (so its instrument
+    COUNT rarely equals music21's part count — the old count-equality alignment then fell back to
+    music21's unreliable program reader and mislabelled timbres). Here each music21 part is matched to
+    the pretty_midi instrument it shares the most (pitch, onset) pairs with, and takes that instrument's
+    program. Onsets are compared in QUARTER-NOTE units (pretty_midi time_to_tick/resolution == music21
+    offset), so the two align regardless of tempo/format. Returns [(prog,is_drum)|None] aligned to parts."""
+    try:
+        import pretty_midi
+        pm = pretty_midi.PrettyMIDI(str(midi_path))
+    except Exception:  # noqa: BLE001
+        return [None] * len(parts)
+    res = pm.resolution
+    # onsets rounded to the nearest 0.25 quarter: music21 snaps note offsets to a grid while pretty_midi
+    # keeps raw timing (14.0 vs 13.98), so exact keys never match — this tolerance bridges them.
+    q = lambda t: round(pm.time_to_tick(t) / res * 4) / 4
+    insts = [({(n.pitch, q(n.start)) for n in inst.notes}, int(inst.program) & 127, bool(inst.is_drum))
+             for inst in pm.instruments]
+    out = []
+    for part in parts:
+        pset = {(p.midi, round(float(el.offset) * 4) / 4)
+                for el in part.flatten().notes for p in getattr(el, "pitches", ())}
+        best, best_ov = None, 0
+        for s, prog, drum in insts:                       # best-overlapping instrument over ALL (pitched+drum)
+            ov = len(pset & s)
+            if ov > best_ov:
+                best_ov, best = ov, (prog, drum)
+        out.append(best if best_ov > 0 else None)         # None -> no overlap; caller falls back to is_percussion
+    return out
+
+
+_PC_FLAT = ("C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B")
+_PC_SHARP = ("C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B")
+
+
+def _midi_name(m, flats=True):
+    """MIDI number -> scientific pitch name (C4=60); flats or sharps per the key. Decoder maps either
+    spelling back to the same MIDI number, so this is only for readability."""
+    return f"{(_PC_FLAT if flats else _PC_SHARP)[m % 12]}{m // 12 - 1}"
+
+
+def _load_pretty_midi(midi_path):
+    """pretty_midi.PrettyMIDI, with a mido(clip=True) sanitize fallback for files that pretty_midi
+    rejects (e.g. 'data byte must be in range 0..127') so ~2% of malformed MIDIs don't silently miss
+    the reliable read. Returns None only if even the sanitize fails."""
+    import pretty_midi
+    try:
+        return pretty_midi.PrettyMIDI(str(midi_path))
+    except Exception:  # noqa: BLE001
+        try:
+            import mido, tempfile, os
+            mf = mido.MidiFile(str(midi_path), clip=True)         # clip data bytes into 0..127
+            fd, tmp = tempfile.mkstemp(suffix=".mid"); os.close(fd)
+            mf.save(tmp)
+            pm = pretty_midi.PrettyMIDI(tmp)
+            os.unlink(tmp)
+            return pm
+        except Exception:  # noqa: BLE001
+            return None
+
+
+def _pm_drum_events(midi_path):
+    """Drum hits from pretty_midi's channel-9 instruments: (pitch, onset_beat, dur_beat, velocity).
+
+    music21 parses GM-drum notes as pitchless Unpitched/PercussionChord (storedInstrument only), so the
+    kick/snare/hat identity is LOST — every hit collapses to one placeholder token. pretty_midi keeps the
+    real GM drum note number (36 kick, 38 snare, 42 hat, ...); sourcing drums here preserves the kit.
+    Onsets/durations are in quarter-note beats (time_to_tick/resolution) to match music21 offsets."""
+    try:
+        import pretty_midi
+        pm = pretty_midi.PrettyMIDI(str(midi_path)); res = pm.resolution
+    except Exception:  # noqa: BLE001
+        return []
+    out = []
+    for inst in pm.instruments:
+        if not inst.is_drum:
+            continue
+        for n in inst.notes:
+            st = pm.time_to_tick(n.start) / res
+            en = pm.time_to_tick(n.end) / res
+            vel = quantize_velocity(n.velocity) if n.velocity else None
+            out.append((int(n.pitch), st, max(en - st, 1e-3), vel))
+    return out
+
+
+# Coarse velocity ladder: quantize a MIDI velocity (1..127) to one of a few levels so the
+# grammar carries dynamics without exploding token length. Values chosen mid-band per level.
+_VEL_LEVELS = (32, 56, 80, 104)          # ~pp/mp, mp/mf, mf/f, ff
+_VEL_DEFAULT = 80                         # what a note with no ^V decodes to (matches old 85-ish)
+
+
+def quantize_velocity(v):
+    """Snap a raw velocity to the nearest coarse level (returns one of _VEL_LEVELS)."""
+    return min(_VEL_LEVELS, key=lambda lv: abs(lv - int(v)))
+
+
 def voice_name(part, idx, perc, used, anonymize=False, forbidden=frozenset()) -> str:
     """A readable, unique voice label.
 
@@ -356,59 +487,79 @@ def quantize(off, ql, bar_ql, slot_ql, slots_per_bar):
     return bar_idx + 1, slot, dur
 
 
-def encode(midi_path: Path, grid: int, keep_drums: bool, max_bars, anonymize=False):
-    score = _read_score(midi_path)
-    # Tokens (from title + artist folder) that a voice label must not echo.
-    forbidden = set(_words(f"{midi_path.stem} {midi_path.parent.name}")) if anonymize else frozenset()
+def encode(midi_path: Path, grid, keep_drums: bool, max_bars, anonymize=False):
+    """pretty_midi-FIRST encoder. Notes, voices, GM programs, drums (real GM pitches) and velocity all
+    come from pretty_midi — a faithful MIDI codec. music21 is used ONLY for key analysis (its proper
+    strength). This retires the whole class of music21-fidelity bugs (pitchless drums, program=None,
+    channel-10 mislabels, timing snap, part under-segmentation). Grid/quantize/chord-label/render are
+    unchanged."""
+    import pretty_midi
+    pm = _load_pretty_midi(midi_path)                     # with mido-sanitize fallback for malformed files
+    if pm is None:
+        return None
 
-    # Global attributes.
+    # ---- global attributes: meter + tempo from pretty_midi; key from music21 (analysis only) ----
+    tsc = pm.time_signature_changes
+    num, den = (tsc[0].numerator, tsc[0].denominator) if tsc else (4, 4)
+    meter_str = f"{num}/{den}"
+    bar_ql = num * 4.0 / den
     try:
-        analyzed = score.analyze("key")
+        _tt, tempi = pm.get_tempo_changes()
+        tempo_str = str(int(round(float(tempi[0])))) if len(tempi) else "?"
+    except Exception:  # noqa: BLE001
+        tempo_str = "?"
+    key_str, flats = "?", False
+    try:
+        analyzed = _read_score(midi_path).analyze("key")
         key_str = f"{analyzed.tonic.name.replace('-', 'b')} {analyzed.mode}"
         flats = analyzed.sharps < 0
-    except Exception:                                 # noqa: BLE001
-        analyzed, key_str, flats = None, "?", False
-    ts = score.recurse().getElementsByClass(meter.TimeSignature).first()
-    meter_str = ts.ratioString if ts else "4/4"
-    bar_ql = ts.barDuration.quarterLength if ts else 4.0
-    mm = score.recurse().getElementsByClass(tempo.MetronomeMark).first()
-    tempo_str = str(int(mm.number)) if (mm and mm.number) else "?"
+    except Exception:  # noqa: BLE001
+        pass
 
-    # Split parts into voices-to-print and harmony parts (harmony is always pitched).
-    all_parts = list(score.parts)
-    perc_flags = [is_percussion(p) for p in all_parts]
-    harmony_parts = [p for p, d in zip(all_parts, perc_flags) if not d]
-    if keep_drums:
-        voice_parts = list(zip(all_parts, perc_flags))
-    else:
-        voice_parts = [(p, d) for p, d in zip(all_parts, perc_flags) if not d]
+    res = pm.resolution
+    q_on = lambda t: pm.time_to_tick(t) / res             # absolute position in quarter-note beats
 
-    if not any(not d for _, d in voice_parts) and not keep_drums:
-        return None  # nothing pitched survived
+    # ---- one voice per pretty_midi instrument (pitched or drum) ----
+    raw = []                                              # {name, program, is_drum, notes:[(on,dur,midi,vel)]}
+    used = set()
+    for idx, inst in enumerate(pm.instruments):
+        if inst.is_drum and not keep_drums:
+            continue
+        notes = []
+        for n in inst.notes:
+            on = q_on(n.start)
+            notes.append((on, max(q_on(n.end) - on, 1e-3), int(n.pitch),
+                          quantize_velocity(n.velocity) if n.velocity else None))
+        if not notes:
+            continue
+        if anonymize:
+            base = "Drums" if inst.is_drum else f"Part{idx + 1}"
+        else:
+            base = (inst.name or "").strip() or (
+                "Drums" if inst.is_drum else pretty_midi.program_to_instrument_name(inst.program))
+        name, k = base, 2
+        while name in used:
+            name, k = f"{base}#{k}", k + 1
+        used.add(name)
+        raw.append({"name": name, "program": (None if inst.is_drum else int(inst.program) & 127),
+                    "is_drum": bool(inst.is_drum), "notes": notes})
+    if not raw:
+        return None
 
-    # When drums are dropped, never extract unpitched/percussion notes — this strips drum
-    # hits out of an otherwise-melodic collapsed part (format-0 MIDIs).
-    note_classes = (("Note", "Chord", "Unpitched", "PercussionChord")
-                    if keep_drums else ("Note", "Chord"))
-
-    # ---- Choose the grid for each bar ---------------------------------------
-    # Fixed mode (grid is an int): every bar uses it — byte-identical to before.
-    # Adaptive mode (grid == "adaptive"): each bar gets the coarsest grid that
-    # represents its onsets without collapsing distinct onsets into one slot.
+    # ---- adaptive grid (per bar, coarsest that doesn't collapse distinct onsets) ----
     adaptive = (grid == "adaptive")
-    per_bar_grid = {}                      # bar -> (slots_per_whole, is_triplet)
+    per_bar_grid = {}
     if adaptive:
-        bar_onsets = defaultdict(lambda: defaultdict(list))   # bar -> vidx -> [in-bar offset]
-        for vidx, (part, _perc) in enumerate(voice_parts):
-            for el in part.flatten().getElementsByClass(note_classes):
-                off = float(el.offset)
-                bidx = int(off // bar_ql)
-                bar_onsets[bidx + 1][vidx].append(off - bidx * bar_ql)
+        bar_onsets = defaultdict(lambda: defaultdict(list))
+        for vi, v in enumerate(raw):
+            for on, _d, _p, _vel in v["notes"]:
+                bidx = int(on // bar_ql)
+                bar_onsets[bidx + 1][vi].append(on - bidx * bar_ql)
         for bar, vmap in bar_onsets.items():
             sel = choose_bar_grid(list(vmap.values()), bar_ql)
             if sel is not None:
                 per_bar_grid[bar] = sel
-        if per_bar_grid:                   # default = most common grid (deterministic)
+        if per_bar_grid:
             counts = Counter(per_bar_grid.values())
             default_grid = sorted(counts.items(),
                                   key=lambda kv: (-kv[1], kv[0][1], kv[0][0]))[0][0]
@@ -420,44 +571,38 @@ def encode(midi_path: Path, grid: int, keep_drums: bool, max_bars, anonymize=Fal
     def grid_of(bar):
         return per_bar_grid.get(bar, default_grid)
 
-    # Build per-voice events, quantizing each note with its bar's grid.
-    used_names = set()
-    voices = []          # (name, {bar: {slot: [dur, [(midi,name)...]]}})
-    for idx, (part, perc) in enumerate(voice_parts):
-        name = voice_name(part, idx, perc, used_names, anonymize, forbidden)
+    # ---- quantize each voice's notes into bar/slot cells ----
+    voices = []          # (name, {bar: {slot: [dur, [(midi,name)...], vel]}}, program, is_drum)
+    for v in raw:
         bars = defaultdict(dict)
-        for el in part.flatten().getElementsByClass(note_classes):
-            g, _trip = grid_of(int(float(el.offset) // bar_ql) + 1)
+        for on, dur_beats, midi_n, vel in v["notes"]:
+            g, _t = grid_of(int(on // bar_ql) + 1)
             slot_ql = 4.0 / g
             slots_per_bar = max(1, int(round(bar_ql / slot_ql)))
-            bar, slot, dur = quantize(el.offset, el.quarterLength,
-                                      bar_ql, slot_ql, slots_per_bar)
-            cell = bars[bar].get(slot)
-            names = pitch_token_names(el)
+            b, slot, dur = quantize(on, dur_beats, bar_ql, slot_ql, slots_per_bar)
+            nm = (midi_n, _midi_name(midi_n, flats))
+            cell = bars[b].get(slot)
             if cell is None:
-                bars[bar][slot] = [dur, list(names)]
+                bars[b][slot] = [dur, [nm], vel]
             else:
-                cell[0] = max(cell[0], dur)
-                cell[1].extend(names)
-        voices.append((name, bars))
+                cell[0] = max(cell[0], dur); cell[1].append(nm)
+                if vel is not None and (cell[2] is None or vel > cell[2]):
+                    cell[2] = vel
+        voices.append((v["name"], bars, v["program"], v["is_drum"]))
 
-    # Chord labels at HALF-BAR resolution, weighted by how long each pitch sounds in
-    # each half (overlap, so sustained chords count in both). Adaptive: a bar shows
-    # one chord when both halves agree, two ("X | Y") only when harmony changes.
+    # ---- chord labels at HALF-BAR resolution from the pitched voices ----
     half_ql = bar_ql / 2.0
-    half_pcs = defaultdict(lambda: defaultdict(float))   # (bar, half 0|1) -> pc -> weight
-    for part in harmony_parts:
-        for el in part.flatten().getElementsByClass(("Note", "Chord")):
-            off = float(el.offset)
-            ql = float(el.quarterLength)
-            bar_idx = int(off // bar_ql)
-            base = bar_idx * bar_ql
+    half_pcs = defaultdict(lambda: defaultdict(float))
+    for v in raw:
+        if v["is_drum"]:
+            continue
+        for on, dur_beats, midi_n, _vel in v["notes"]:
+            bar_idx = int(on // bar_ql); base = bar_idx * bar_ql
             for h in (0, 1):
                 ws = base + h * half_ql
-                overlap = min(ws + half_ql, off + ql) - max(ws, off)
+                overlap = min(ws + half_ql, on + dur_beats) - max(ws, on)
                 if overlap > 0:
-                    for p in el.pitches:
-                        half_pcs[(bar_idx + 1, h)][p.pitchClass] += overlap
+                    half_pcs[(bar_idx + 1, h)][midi_n % 12] += overlap
 
     def bar_label(bar):
         a = label_chord(half_pcs.get((bar, 0), {}), flats)
@@ -468,42 +613,56 @@ def encode(midi_path: Path, grid: int, keep_drums: bool, max_bars, anonymize=Fal
             return b
         if b == "-":
             return a
-        if root_quality(a) == root_quality(b):       # same chord, 7th-only difference
-            return a if len(a) >= len(b) else b       # keep the richer (7th) label
+        if root_quality(a) == root_quality(b):
+            return a if len(a) >= len(b) else b
         return f"{a} | {b}"
 
-    # Total bars.
+    # ---- total bars ----
     end = 0.0
-    for part, _ in voice_parts:
-        end = max(end, part.flatten().highestTime)
+    for v in raw:
+        for on, dur_beats, _p, _vel in v["notes"]:
+            end = max(end, on + dur_beats)
     total_bars = max(1, int(math.ceil(end / bar_ql)))
     if max_bars:
         total_bars = min(total_bars, max_bars)
 
     # Render text.
-    label_w = max((len(n) for n, _ in voices), default=0)
+    label_w = max((len(n) for n, _b, _p, _d in voices), default=0)
     grid_field = (f"{grid_label(default_grid)} (adaptive)"
                   if adaptive else f"{int(grid)}th")
+
+    # VOICES header: annotate each voice with its GM program ("[prog=N]") or "[drums]" so the
+    # decoder restores the ORIGINAL timbre instead of guessing from the name. Bare-name voices
+    # (no program in the source MIDI) print unannotated => byte-identical to the old format.
+    def voice_header(name, program, is_drum):
+        if is_drum:
+            return f"{name}[drums]"
+        if program is not None:
+            return f"{name}[prog={program}]"
+        return name
+
     lines = [
         f"KEY: {key_str} | METER: {meter_str} | TEMPO: {tempo_str} | "
         f"GRID: {grid_field} | BARS: {total_bars}",
-        "VOICES: " + ", ".join(n for n, _ in voices),
+        "VOICES: " + ", ".join(voice_header(n, p, d) for n, _b, p, d in voices),
     ]
     for bar in range(1, total_bars + 1):
         gt = grid_of(bar)
         ann = ("" if (not adaptive or gt == default_grid)
                else f" (grid:{gt[0]}{'t' if gt[1] else ''})")
         lines.append(f"@{bar} [{bar_label(bar)}]{ann}")
-        for name, bars in voices:
+        for name, bars, _program, _is_drum in voices:
             cells = bars.get(bar)
             if not cells:
                 continue
             toks = []
             for slot in sorted(cells):
-                dur, names = cells[slot]
+                dur, names, vel = cells[slot]
                 names = sorted(set(names))                  # dedup, ascending pitch
                 pitches = "+".join(n for _, n in names)
-                toks.append(f"{pitches}@{slot}>{dur}")
+                # velocity suffix "^V" only when the source declared one (else omit => default)
+                vtok = f"^{vel}" if vel is not None else ""
+                toks.append(f"{pitches}@{slot}>{dur}{vtok}")
             lines.append(f"  {name.ljust(label_w)}: {' '.join(toks)}")
     return "\n".join(lines) + "\n"
 

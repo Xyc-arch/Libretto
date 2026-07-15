@@ -1,0 +1,330 @@
+KEY: Eb major | METER: 4/4 | TEMPO: 120 | GRID: 16th (adaptive) | BARS: 85
+VOICES: Acoustic Grand Piano[prog=0], Drums[drums], String Ensemble 1[prog=48], Fretless Bass[prog=35]
+@1 [-]
+@2 [Fm | Gm] (grid:64)
+  Acoustic Grand Piano: F4@1>21^104 G4@17>6^104 Ab4@21>10^104 Bb4@31>31^104 G2@58>71^56 D3@60>67^80 G3@61>69^56 B3@63>63^80
+@3 [Bb | Eb]
+  Acoustic Grand Piano: Eb4@1>62^80 Bb4@4>4^104 Ab4@8>2^104 G4@9>2^104 F4@11>2^104 Eb4@12>4^104 Bb3@14>3^104
+@4 [Cm] (grid:64)
+  Acoustic Grand Piano: C3+D4@3>56^104 Eb4@15>69^104 C3@62>9^80
+@5 [Bbm7] (grid:12t)
+  Acoustic Grand Piano: B2@2>2^56 Bb2+Ab3+Bb3+Db4+F4@4>11^104 Ab3@8>5^56 Eb4@10>4^80
+@6 [Ab7 | Bdim] (grid:32)
+  Acoustic Grand Piano: Ab3@1>1^56 Ab2+G3@6>16^80 Eb4@11>12^80 G2@21>64^56 F3@22>64^80 B3@23>64^80 D4@24>64^56 F4@25>64^56
+@7 [-]
+@8 [-] (grid:8)
+  Drums               : B1@5>2^80 Db2@6>1^80 Db2@7>1^80 Bb2@8>1^80
+@9 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>18^104
+@10 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@11 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Eb2+Bb3+C4+Eb4+Ab4@15>8^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>8^104
+  Fretless Bass       : Bb1@11>4^104 Eb1@15>8^104
+@12 [Gm | Gaug] (grid:8)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>2^104 C2+Bb3@3>1^80 D2+C4+E4+G4@4>2^104 G2+F3+B3+Eb4+F4@6>3^104
+  Drums               : B1+Gb2@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Bb2@8>1^80
+  String Ensemble 1   : Bb3+G4@2>2^104 D3+C4+E4+G4@4>2^104 G3+B3+Eb4+F4@6>3^104
+  Fretless Bass       : D2@4>2^104 G1@6>3^104
+@13 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>18^104
+@14 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@15 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Eb2+Bb3+C4+Eb4+Ab4@15>8^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>8^104
+  Fretless Bass       : Bb1@11>4^104 Eb1@15>8^104
+@16 [Gm | Gaug] (grid:8)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>2^104 C2+Bb3@3>1^80 D2+C4+E4+G4@4>2^104 G2+F3+B3+Eb4+F4@6>3^104
+  Drums               : B1+Gb2@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Bb2@8>1^80
+  String Ensemble 1   : Bb3+G4@2>2^104 D3+C4+E4+G4@4>2^104 G3+B3+Eb4+F4@6>3^104
+  Fretless Bass       : D2@4>2^104 G1@6>3^104
+@17 [Gm | Bb] (grid:8)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>7^104 Bb2@3>1^80 C3@4>1^104 F2+F3+Ab3+C4@8>9^104
+  Drums               : B1+Gb2+Db3@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Gb2@8>1^80
+  Fretless Bass       : C1@1>7^104 F1@8>9^104
+@18 [Eb]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@19 [Eb] (grid:8)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>5^104 Bb2+Ab3+Bb3+C4+Eb4@7>1^104 Eb2+Ab3+Bb3+C4+Eb4+Ab4@8>5^104
+  Drums               : B1+Gb2+Db3@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Gb2@8>1^80
+  Fretless Bass       : Bb1@1>7^104 Eb1@8>5^104
+@20 [Eb | G7]
+  Acoustic Grand Piano: G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : D1@9>4^104 G1@13>4^104
+@21 [Gm | Bb] (grid:8)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>7^104 Bb2@3>1^80 C3@4>1^104 F2+F3+Ab3+C4@8>9^104
+  Drums               : B1+Gb2+Db3@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Gb2@8>1^80
+  Fretless Bass       : C1@1>5^104 E1@6>2^104 F1@8>9^104
+@22 [Eb]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@23 [Eb | Ab] (grid:24t)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>16^104 Bb2+Ab3+Bb3+C4+Eb4@17>1^104 Eb2+Ab3+Bb3+C4+Eb4+Ab4@22>15^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : Bb1@1>16^104 Bb1@17>1^104 Eb1@22>9^104
+@24 [Eb | G7]
+  Acoustic Grand Piano: G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : C1@5>1^104 D1@6>1^104 Eb1@7>2^104 D1@9>4^104 G1@13>4^104
+@25 [Gm | Bb] (grid:24t)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>21^104 Bb2@5>1^80 C3@10>1^104 F2+F3+Ab3+C4@22>27^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : C1@1>4^104 C2@5>1^104 Bb1@10>1^104 E1@16>6^104 F1@22>21^104
+@26 [Eb | F]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : F2@13>4^104
+@27 [Eb | Ab] (grid:24t)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>16^104 Bb2+Ab3+Bb3+C4+Eb4@17>1^104 Eb2+Ab3+Bb3+C4+Eb4+Ab4@22>15^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : Bb1@1>16^104 Bb1@17>1^104 Eb1@22>9^104
+@28 [Eb | G7]
+  Acoustic Grand Piano: G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : C1@7>1^104 Db1@8>1^104 D1@9>4^104 G1@13>4^104
+@29 [Gm | Bb] (grid:24t)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>21^104 Bb2@5>1^80 C3@10>1^104 Db4+E4+C5@16>1^104 F2+F3+Ab3+C4+Eb4+Bb4@22>27^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : C1@1>4^104 C2@5>1^104 Bb1@10>1^104 E1@16>6^104 F1@22>12^104
+@30 [Eb]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : Eb1@7>1^104 Eb1@9>1^104 F1@10>1^104
+@31 [Eb] (grid:8)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>5^104 Bb2+Ab3+Bb3+C4+Eb4@7>1^104 Eb2+Ab3+Bb3+C4+Eb4+Ab4@8>5^104
+  Drums               : B1+Gb2+Db3@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Gb2@8>1^80
+  Fretless Bass       : Bb1@1>7^104 Eb1@8>5^104
+@32 [Eb | G7]
+  Acoustic Grand Piano: G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : D1@9>4^104 G1@13>4^104
+@33 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>18^104
+@34 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@35 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Eb2+Bb3+C4+Eb4+Ab4@15>8^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>8^104
+  Fretless Bass       : Bb1@11>4^104 Eb1@15>8^104
+@36 [Gm | Gaug] (grid:8)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>2^104 C2+Bb3@3>1^80 D2+C4+E4+G4@4>2^104 G2+F3+B3+Eb4+F4@6>3^104
+  Drums               : B1+Gb2@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Bb2@8>1^80
+  String Ensemble 1   : Bb3+G4@2>2^104 D3+C4+E4+G4@4>2^104 G3+B3+Eb4+F4@6>3^104
+  Fretless Bass       : D2@4>2^104 G1@6>3^104
+@37 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>18^104
+@38 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@39 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Eb2+Bb3+C4+Eb4+Ab4@15>8^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>8^104
+  Fretless Bass       : Bb1@11>4^104 Eb1@15>8^104
+@40 [Gm | Gaug] (grid:8)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>2^104 C2+Bb3@3>1^80 D2+C4+E4+G4@4>2^104 G2+F3+B3+Eb4+F4@6>3^104
+  Drums               : B1+Gb2@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Bb2@8>1^80
+  String Ensemble 1   : Bb3+G4@2>2^104 D3+C4+E4+G4@4>2^104 G3+B3+Eb4+F4@6>3^104
+  Fretless Bass       : D2@4>2^104 G1@6>3^104
+@41 [Gm | Bb] (grid:8)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>7^104 Bb2@3>1^80 C3@4>1^104 F2+F3+Ab3+C4@8>9^104
+  Drums               : B1+Gb2+Db3@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Gb2@8>1^80
+  Fretless Bass       : C1@1>7^104 F1@8>9^104
+@42 [Eb]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@43 [Eb] (grid:8)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>5^104 Bb2+Ab3+Bb3+C4+Eb4@7>1^104 Eb2+Ab3+Bb3+C4+Eb4+Ab4@8>5^104
+  Drums               : B1+Gb2+Db3@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Gb2@8>1^80
+  Fretless Bass       : Bb1@1>7^104 Eb1@8>5^104
+@44 [Eb | G7]
+  Acoustic Grand Piano: G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : D2@9>4^104 G1@13>4^104
+@45 [Gm | Bb] (grid:24t)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>21^104 Bb2@5>1^80 C3@10>1^104 F2+F3+Ab3+C4@22>27^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : C2@1>1^104 Bb1@5>1^104 G1@10>1^104 G1@11>1^104 Eb1@17>1^104 F1@22>27^104
+@46 [Eb]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@47 [Eb | Ab] (grid:24t)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>16^104 Bb2+Ab3+Bb3+C4+Eb4@17>1^104 Eb2+Ab3+Bb3+C4+Eb4+Ab4@22>15^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : Bb1@1>4^104 Bb1@5>1^104 Bb1@10>1^104 Bb1@11>1^104 D1@17>1^104 Eb1@22>9^104
+@48 [Eb | G7]
+  Acoustic Grand Piano: G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : C1@5>1^104 D1@6>1^104 Eb1@7>2^104 D1@9>4^104 G1@13>4^104
+@49 [Gm | Bb] (grid:24t)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>21^104 Bb2@5>1^80 C3@10>1^104 F2+F3+Ab3+C4@22>27^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : C1@1>4^104 C2@5>1^104 C1@10>1^104 E1@16>6^104 F1@22>21^104
+@50 [Eb | F7]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : C2@16>1^104
+@51 [Eb | Ab] (grid:24t)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>16^104 Bb2+Ab3+Bb3+C4+Eb4@17>1^104 Eb2+Ab3+Bb3+C4+Eb4+Ab4@22>15^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : Bb1@1>16^104 Bb1@17>1^104 Eb1@22>9^104
+@52 [Eb | G7]
+  Acoustic Grand Piano: G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : C1@7>1^104 Db1@8>1^104 D1@9>4^104 G1@13>4^104
+@53 [Gm | Bb] (grid:24t)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>21^104 Bb2@5>1^80 C3@10>1^104 F2+F3+Ab3+C4@22>27^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : C2@1>4^104 Bb1@5>1^104 G1@10>1^104 G1@11>1^104 E1@16>6^104 F1@22>7^104
+@54 [Cm | Eb]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : Eb1@4>1^104 C1@7>1^104 C1@8>1^104
+@55 [Eb | Daug] (grid:8)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>5^104 Ab3+C4+D4@5>4^104
+  Drums               : B1+Gb2+Db3@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Gb2@8>1^80
+  Fretless Bass       : Bb1@1>4^104 Bb1@5>1^104 D1@7>2^104
+@56 [Eb | G7]
+  Acoustic Grand Piano: Eb2+Ab3+Bb3+C4+Eb4+Ab4@1>8^104 G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : Eb1@1>8^104 D1@9>4^104 G1@13>4^104
+@57 [Gm7] (grid:24t)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>21^104 Bb2@5>1^80 C3@10>1^104 F2+F3+Ab3+C4@22>27^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+@58 [Eb]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@59 [Eb | Ab] (grid:24t)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>16^104 Bb2+Ab3+Bb3+C4+Eb4@17>1^104 Eb2+Ab3+Bb3+C4+Eb4+Ab4@22>15^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+@60 [Eb | G7]
+  Acoustic Grand Piano: G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@61 [Gm | Bb] (grid:24t)
+  Acoustic Grand Piano: C3+Bb3+D4+G4@1>21^104 Bb2@5>1^80 C3@10>1^104 F2+F3+Ab3+C4@22>27^104
+  Drums               : B1+Gb2+Db3@1>6^80 Gb2@4>1^80 Db2+Gb2@7>1^80 B1+Gb2@10>6^80 B1+Gb2@13>3^80 Bb2@16>3^80 Db2+Gb2@19>1^80 Gb2@22>1^80
+  Fretless Bass       : C2@1>4^104 Bb1@5>1^104 G1@10>1^104 G1@11>1^104 E1@16>6^104 F1@22>7^104
+@62 [Cm | Eb]
+  Acoustic Grand Piano: Eb2@7>1^104 Eb2@9>1^104 F2@10>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : Eb1@4>1^104 C1@7>1^104 C1@8>1^104
+@63 [Eb | Daug] (grid:8)
+  Acoustic Grand Piano: Bb2+Ab3+Bb3+C4+Eb4@1>5^104 Ab3+C4+D4@5>4^104
+  Drums               : B1+Gb2+Db3@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Gb2@8>1^80
+  Fretless Bass       : Bb1@1>4^104 Bb1@5>1^104 D1@7>2^104
+@64 [Eb | G7]
+  Acoustic Grand Piano: Eb2+Ab3+Bb3+C4+Eb4+Ab4@1>8^104 G3+Bb3+Eb4+G4@5>4^104 Bb3@8>1^56 D3+C4+E4+G4@9>4^104 G3@12>1^56 G2+F3+B3+Eb4+F4@13>4^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : Eb1@1>8^104 D1@9>4^104 G1@13>4^104
+@65 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>18^104
+@66 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@67 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Eb2+Bb3+C4+Eb4+Ab4@15>8^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>8^104
+  Fretless Bass       : Bb1@11>4^104 Eb1@15>8^104
+@68 [Gm | Gaug] (grid:8)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>2^104 C2+Bb3@3>1^80 D2+C4+E4+G4@4>2^104 G2+F3+B3+Eb4+F4@6>3^104
+  Drums               : B1+Gb2@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Bb2@8>1^80
+  String Ensemble 1   : Bb3+G4@2>2^104 D3+C4+E4+G4@4>2^104 G3+B3+Eb4+F4@6>3^104
+  Fretless Bass       : D2@4>2^104 G1@6>3^104
+@69 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>18^104
+@70 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@71 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Eb2+Bb3+C4+Eb4+Ab4@15>8^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>8^104
+  Fretless Bass       : Bb1@11>4^104 Eb1@15>8^104
+@72 [Gm | Gaug] (grid:8)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>2^104 C2+Bb3@3>1^80 D2+C4+E4+G4@4>2^104 G2+F3+B3+Eb4+F4@6>3^104
+  Drums               : B1+Gb2@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Bb2@8>1^80
+  String Ensemble 1   : Bb3+G4@2>2^104 D3+C4+E4+G4@4>2^104 G3+B3+Eb4+F4@6>3^104
+  Fretless Bass       : D2@4>2^104 G1@6>3^104
+@73 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>18^104
+@74 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@75 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Eb2+Bb3+C4+Eb4+Ab4@15>8^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>8^104
+  Fretless Bass       : Bb1@11>4^104 Eb1@15>8^104
+@76 [Gm | Gaug] (grid:8)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>2^104 C2+Bb3@3>1^80 D2+C4+E4+G4@4>2^104 G2+F3+B3+Eb4+F4@6>3^104
+  Drums               : B1+Gb2@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Bb2@8>1^80
+  String Ensemble 1   : Bb3+G4@2>2^104 D3+C4+E4+G4@4>2^104 G3+B3+Eb4+F4@6>3^104
+  Fretless Bass       : D2@4>2^104 G1@6>3^104
+@77 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>8^104
+@78 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+  Fretless Bass       : F1@7>1^104 G1@8>1^104 Ab1@9>1^104 G1@10>1^104 F1@11>1^104 D1@13>1^104 Bb0@15>1^104
+@79 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Eb2+Bb3+C4+Eb4+Ab4@15>8^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>8^104
+  Fretless Bass       : Bb1@1>4^104 Bb1@7>1^104 Bb1@8>1^104 Bb1@11>4^104 Eb1@15>8^104
+@80 [Gm | Gaug] (grid:8)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>2^104 C2+Bb3@3>1^80 D2+C4+E4+G4@4>2^104 G2+F3+B3+Eb4+F4@6>3^104
+  Drums               : B1+Gb2@1>2^80 Gb2@2>1^80 Db2+Gb2@3>1^80 B1+Gb2@4>2^80 B1+Gb2@5>1^80 Bb2@6>1^80 Db2+Gb2@7>1^80 Bb2@8>1^80
+  String Ensemble 1   : Bb3+G4@2>2^104 D3+C4+E4+G4@4>2^104 G3+B3+Eb4+F4@6>3^104
+  Fretless Bass       : D2@4>2^104 G1@6>3^104
+@81 [Cm | Eaug]
+  Acoustic Grand Piano: C3+C4@1>1^104 D3+D4@2>1^104 Eb3+Eb4@3>1^104 D3+D4@4>1^104 C3+C4@5>1^104 G2+G3@7>1^104 E2+Bb3+C4+E4@11>4^104 F2+Ab3+C4+G4@15>18^104
+  Drums               : B1+Gb2+Db3@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Gb2@15>1^80
+  String Ensemble 1   : E3+Bb3+C4+E4@11>4^104 F3+Ab3+C4+G4@15>18^104
+  Fretless Bass       : E1@11>4^104 F1@15>18^104
+@82 [F | Bb7]
+  Acoustic Grand Piano: F3+F4@7>1^104 G3+G4@8>1^104 Ab3+Ab4@9>1^104 G3+G4@10>1^104 F3+F4@11>1^104 D3+D4@13>1^104 Bb2+Bb3@15>1^104
+  Drums               : B1+Gb2@1>4^80 Gb2@3>1^80 Db2+Gb2@5>1^80 B1+Gb2@7>4^80 B1+Gb2@9>2^80 Bb2@11>2^80 Db2+Gb2@13>1^80 Bb2@15>2^80
+@83 [Bb]
+  Acoustic Grand Piano: Bb2+Bb3@1>1^104 C3+C4@2>1^104 D3+D4@3>1^104 C3+C4@4>1^104 Bb2+Bb3@5>1^104 F2+F3@7>1^104 Bb2+Bb3+D4+F4@11>4^104 Bb3+C4+Eb4+Ab4@15>4^104
+  Drums               : B1+Db3@1>4^80 B1@7>4^80 B1@9>2^80
+  String Ensemble 1   : D3+Bb3+D4+Bb4@11>4^104 Eb3+C4+Eb4+Ab4@15>34^104
+  Fretless Bass       : Bb1@11>4^104 Eb1@15>34^104
+@84 [Eb | Gm] (grid:6t)
+  Acoustic Grand Piano: Bb3+Eb4+G4@2>1^104
+  String Ensemble 1   : Bb3+G4@2>11^104
+@85 [-]

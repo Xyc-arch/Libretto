@@ -3,17 +3,18 @@
 import json, re
 from pathlib import Path
 import numpy as np
-import metric_discovery as md
-from understanding_probe import Song
+from libretto.core import metric_discovery as md
+from libretto.core import Song
 
-SCRIPT = Path(__file__).resolve().parent
-GRAMMAR = SCRIPT / "grammar"
-OUT = SCRIPT / "compositions" / "gaptask21"; OUT.mkdir(parents=True, exist_ok=True)
-KEY = json.loads((SCRIPT/"answer_key"/"grammar_truth.json").read_text())
-CANON = json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+import libretto
+DATA = libretto.data_root()
+GRAMMAR = DATA / "grammar"
+OUT = Path("compositions") / "gaptask21"; OUT.mkdir(parents=True, exist_ok=True)
+KEY = json.loads((DATA/"answer_key"/"grammar_truth.json").read_text())
+CANON = json.loads((DATA/"corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 corpus_fp = {s: np.array(v, float) for s, v in
-             json.loads((SCRIPT/"compositions"/"continuation"/"corpus_fps.json").read_text()).items()}
+             json.loads((DATA / "corpus_fps.json").read_text()).items()}
 K = 3
 # each type: 2 hard chromatic-rich genres (jazz/classical/film) + 5 easy — balanced across types
 ASSIGN = {

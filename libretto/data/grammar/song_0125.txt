@@ -1,673 +1,940 @@
-KEY: C major | METER: 4/4 | TEMPO: 135 | GRID: 8th (adaptive) | BARS: 132
-VOICES: Part1, Part2, Part3, Part4, Part5, Part6
+KEY: Eb major | METER: 4/4 | TEMPO: 127 | GRID: 64th (adaptive) | BARS: 138
+VOICES: Distortion Guitar[prog=30], Drums[drums], Acoustic Guitar (steel)[prog=25], Reverse Cymbal[prog=119], Fretless Bass[prog=35], Rock Organ[prog=18], Acoustic Grand Piano[prog=0], Alto Sax[prog=65], Celesta[prog=8], Electric Guitar (clean)[prog=27], String Ensemble 2[prog=49], Choir Aahs[prog=52], Acoustic Grand Piano#2[prog=0]
 @1 [-]
-@2 [-]
-@3 [C]
-  Part1: C3+E4+C5@1>8 G3@5>2 E4@7>2 G3@8>1
-  Part2: C2@1>2 G1@4>1 C2@5>3 G1@8>1
-  Part4: C3@1>4 G3@2>4 C4@3>2 D4@4>2 C3@5>4 C4@6>2 G3@7>2 E4@8>1
-  Part5: C5@1>8
-@4 [C]
-  Part1: C3@1>3 G4+E5@2>1 F4+D5@3>1 E4+C5@4>1 C3@5>3 D4+B4@6>2 D4@8>1
-  Part2: C2@1>2 G1@4>1 C2@5>1 E2@6>2
-  Part4: C3+G3+E4@1>3 G3@2>4 C4@3>2 E4@4>4 C3@5>2 C4@6>3 G3@7>2
-  Part5: C5@1>1 E5@2>1 D5@3>1 C5@4>2 B4@6>2 A4@8>1
+@2 [C]
+  Distortion Guitar      : C5+G5@1>1^104 C5+E5@5>1^80 C5+G5@9>1^80 C5+E5@13>1^80 C5+G5@17>1^80 C5+E5@21>1^80 C5+G5@25>1^104 C5+Gb5@29>1^32 C5+F5@33>1^104 C5+Gb5@37>1^56 C6+E6+G6@41>1^104 C5+Gb5@45>1^32 C5+Gb5@49>1^32 C6+E6+G6@53>1^104 C5+F5@57>1^80 A4+C5@61>1^80
+  Drums                  : Ab2@1>1^56 Ab2@9>1^32 Ab2@17>1^56 Ab2@25>1^32 Ab2@33>1^56 Ab2@41>1^32 Ab2@49>1^56 Ab2@57>1^32
+@3 [E | Edim]
+  Distortion Guitar      : B4+F5@1>1^104 A4+C5@5>1^80 B4+F5@9>1^32 B4+F5@13>1^104 Db6+G6@17>1^104 B4+F5@21>1^80 A4+C5@25>1^32 D6+Ab6@29>1^104 B4+F5@33>1^56 B4+F5@37>1^56 D6+Ab6@41>1^104 B4+F5@45>1^56 B4+F5@49>1^32 D6+Ab6@53>1^80 B4+F5@57>1^56 B4+F5@61>1^32
+  Drums                  : Ab2@1>1^56 Ab2@9>1^32 Bb4@13>1^32 Ab2@17>1^56 Ab2@25>1^32 Bb4@29>1^32 Ab2@33>1^56 Ab2@41>1^32 Ab2@49>1^56 Ab2@57>1^32
+  Acoustic Guitar (steel): Bb2+F3+Bb3+D4+F4@57>4^80 Bb2+F3+Bb3+D4+F4@61>4^80
+  Reverse Cymbal         : E4@31>32^104
+@4 [Bb]
+  Drums                  : Ab2@1>1^32 Ab2@9>1^32 Ab2@17>1^56 Ab2@25>1^32 Ab2@33>1^56 Ab2@41>1^32 Ab2@49>1^56 Ab2@57>1^32
+  Acoustic Guitar (steel): Bb2+F3+Bb3+D4+F4@1>15^104 Bb2+F3+Bb3+D4+F4@17>24^80 Bb2+F3+Bb3+D4+F4@41>8^80 Bb2+F3+Bb3+D4+F4@49>16^80 F2@57>8^80
+  Fretless Bass          : Bb2@1>47^56 Bb2@49>8^56 F2@57>8^56
+  Rock Organ             : D5+F5+Bb5@1>192^56
 @5 [F]
-  Part1: F3+D4+B4@1>3 C4+A4@4>5 F3@5>3 C4@6>2
-  Part2: F2@1>3 C2@4>1 F1@5>3 C2@8>1
-  Part4: F3@1>4 A3@2>5 C4@3>2 F4@4>3 F3@5>3 C4@6>3 A3@7>2 F4@8>1
-  Part5: B4@1>3 A4@4>5
-@6 [F]
-  Part1: F3@1>3 A4+F5@2>1 G4+E5@3>1 F4+D5@4>2 E4+C5@6>2
-  Part2: F2@1>3 C2@4>1 F1@5>1 A1@6>2
-  Part4: F3+A3+C4@1>3 F4@2>7 C4@3>6 A3@4>2 F3@5>1 A3@6>2 F#3@7>2 A3@8>1
-  Part5: A4@1>1 F5@2>1 E5@3>1 D5@4>2 C5@6>2
-@7 [G]
-  Part1: G3+E4+C5@1>4 D4+B4@4>4 G3@5>2 D4@7>1
-  Part2: G1@1>2 G1@4>1 G1@5>2 G1@8>1
-  Part4: G3@1>4 B3@2>4 D4@3>3 G4@4>5 G3@5>4 D4@6>1 B3@7>2 D4@8>1
-  Part5: C5@1>3 B4@4>5
-@8 [G7 | Dm]
-  Part1: G3@1>1 B4+G5@2>1 A4+F5@3>1 G4+E5@4>2 F4+D5@6>2 G3@8>1
-  Part2: G1@1>2 G1@4>1 G1@5>1 A1@6>1 C2@7>1 A1@8>1
-  Part4: F3+D4+G4@1>4 B3@2>2 D4@3>2 G4@4>4 F3@5>3 D4@6>1 B3@7>2 D4@8>1
-  Part5: B4@1>1 G5@2>1 F5@3>1 E5@4>2 D5@6>3
-@9 [C | F]
-  Part1: C3+E4+C5@1>8 G3@2>1 E4@3>1 A3+F4+C5@4>3 A3@6>1 C5@7>1 G3+E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 C2@5>2 C2@8>1
-  Part4: E3@1>3 G3@2>2 C4@3>2 F3@4>3 G3@5>3 C4@6>3 D3@7>2 G3@8>1
-  Part5: C5@1>8
-@10 [C | Am]
-  Part1: C3+G3+E4+C5@1>8 G3@2>1 E4@3>1 A3+F4@4>3 C5@6>2 F4@7>2
-  Part2: C2@1>2 C2@4>1 G1@5>1 A1@6>1 C2@7>1 A1@8>1
-  Part4: E3+C4@1>7 G3@2>3 C4@3>2 E4@4>2 D4@6>1 C4@7>1 G3@8>1
-  Part5: C5@1>6
-@11 [C]
-  Part1: C3+E4+C5@1>3 E4@3>1 C3@4>4 E4+C5@5>1 E4+C5@6>1 E4+C5@8>1
-  Part2: C2@1>2 G1@4>1 C2@5>2 G1@8>1
-  Part3: C4@5>1 C4@6>1 C4@7>1 C4@8>1
-  Part4: C3@1>4 G3@2>1 C4@3>3 G3@4>2 C3@5>3 E4@6>3 G3@7>2 C4@8>1
-@12 [C]
-  Part1: C3+E4+C5@1>7 E4@2>2 E4+C5@4>2 D4+B4@6>1 C4+A4@7>1 C4+F4@8>1
-  Part2: C2@1>2 C2@4>1 B1@6>1 C2@8>1
-  Part3: C4@1>1 C4@2>1 C4@3>1 C4@4>2 B3@6>1 A3@7>1 F3@8>1
-  Part4: C3+G3+C4+E4@1>3 G3@2>3 C4@3>3 E4@4>5 C3@5>4 G3@6>2 C4@7>2 G3@8>1
-@13 [Dm]
-  Part1: D3+C4+F4@1>4 A3+D4+F4@4>3 D3@5>4 A3@6>1 D4@7>1 A3+D4+F4@8>1
-  Part2: D2@1>2 A1@4>1 D2@5>2 D2@8>1
-  Part3: F3@1>2
-  Part4: D3@1>3 A3@2>4 D4@3>4 F4@4>3 D3@5>4 A3@6>3 D4@7>1 D4+F4@8>1
-@14 [Dm]
-  Part1: D3+A3+D4+F4@1>4 A3@2>3 D4@3>2 F4@4>1 D3@5>1 A3+D4+F4@6>3 D3@7>1 A3@8>1
-  Part2: E2@2>1 F2@4>1 F#2@6>1 G2@8>1
-  Part4: D3+A3+F4@1>3 F4@2>5 D4@3>2 D3@5>4 A3@6>1 D4@7>1 A3@8>1
-@15 [G]
-  Part1: G3+B3+D4+G4@1>8 B3@3>1 D4+B4@4>2 E4+C5@6>2 F4+D5@8>1
-  Part2: G1@1>2 D2@4>1 G2@5>3 D2@8>1
-  Part3: B3@3>1 B3@4>1 B3@5>2 C4@7>1 D4@8>1
-  Part4: G2@1>4 F3@2>2 B3@3>5 F3@4>2 G2@5>3 F3@6>3 D4@8>1
-@16 [G7]
-  Part1: G3+F4+D5@1>3 B4@2>1 G3@3>2 A4@4>1 G4@5>2 G3@6>2 G3@8>1
-  Part2: G1@1>2 G2@4>1 F#2@6>1 F2@8>1
-  Part3: D4@1>1 B3@2>1 A3@4>1 G3@5>1 G3@8>1
-  Part4: G2+F3+B3+D4@1>3 F3@2>1 B3@3>6 F3@4>2 G2@5>2 F3@6>2 F2@7>2 F3@8>1
-@17 [E]
-  Part1: E3+D4+G#4@1>4 D4@3>1 D4+G#4+B4@4>3 E3@5>4 D4@6>1 G#4@7>1 E4+A4+C5@8>1
-  Part2: E2@1>2 B1@4>1 E1@5>2 G#1@8>1
-  Part3: E4@1>1 F4@2>1 E4@3>1 D4@4>2 E4@6>1 D4@7>1 C4@8>1
-  Part4: E2@1>4 E3@2>4 G#3@3>1 B3@4>3 G#2@5>4 E3@6>3 D4@7>1 C4@8>1
-@18 [Am | G]
-  Part1: A3+E4+A4+C5@1>3 E4@2>1 A4@3>1 E4+A4+C5@4>1 A3@5>1 D4+G4+B4@6>2 G3@7>2 D4@8>1
-  Part2: A1@1>2 A1@4>1 G1@6>1 G1@8>1
-  Part3: C4@1>2 C4@3>1 D4@5>1 C4@6>1
-  Part4: A2+E3+C4@1>3 E3@2>5 A3@3>3 C4@4>2 A2@5>2 B3@6>3 G2@7>2
-@19 [F]
-  Part1: F3+C4+F4+A4@1>4 C4@3>2 F4+A4@4>2 F3@5>4 F4+A4+C5@6>2 G4+B4+D5@8>1
-  Part2: F1@1>2 F1@4>1 F1@5>2 F#1@8>1
-  Part3: C4@5>1 C4@6>1 C4@7>1 C4@8>1
-  Part4: F2@1>3 C3@2>1 F3@3>1 C4@4>3 F2@5>4 A3@6>1 F3@7>1 A3@8>1
-@20 [G]
-  Part1: G3+G4+B4+D5@1>6 G4@2>1 B4@3>1 D4+G4+B4@4>2 C4+A4@6>1 B3+G4@7>1 C4+A4@8>1
-  Part2: G1@1>2 G1@4>1 G1@5>2 G#1@8>1
-  Part3: C4@1>1 B3@2>1 B3@3>1 B3@4>2 A3@6>1 G3@7>1 A3@8>1
-  Part4: G2@1>3 G3@2>1 B3@3>1 G3@4>2 G2@5>4 D4@6>3 B3@7>2 G3@8>1
-@21 [Am]
-  Part1: C4+A4@1>4 E4@3>2 C4@4>1 A2@5>3 B3+D4+G4@6>1 B3+D4+G4@8>1
-  Part2: A1@1>2 A1@4>1 A1@5>2 C2@8>1
-  Part3: A3@1>2
-  Part4: A2@1>4 E3@2>3 A3@3>2 C4@4>2 A2@5>4 B3@6>1 B3@8>1
-@22 [Am]
-  Part1: A2+B3+D4+G4@1>4 A3+C4+E4@2>1 A3+C4+E4@4>4 A2@5>1 A3@7>1 C4@8>1
-  Part2: A1@2>1 G1@4>1 A1@6>2 G1@8>1
-  Part3: B3@6>1 C4@7>1 D4@8>1
-  Part4: A2+B3@1>3 C4@2>1 E3@3>4 A3@4>5 A2@5>2 E3@8>1
-@23 [F]
-  Part1: F2@1>8 A3@2>3 C4@3>4 F4@4>5 C3@5>3 A3@6>2 C4@7>1 A3@8>1
-  Part2: F1@1>2 F1@4>1 F1@5>2 C2@8>1
-  Part3: D4@1>1 E4@2>2 C4@4>2 G3@6>1 A3@7>1
-  Part4: F2+A3@1>4 F3@2>4 A3@3>2 C4@4>2 F2@5>4 A3@6>2 F3@7>1 F4@8>1
-@24 [F]
-  Part1: F3@1>8 A4+F5@2>1 G4+E5@3>1 F4+D5@4>1 E4+C5@6>3 E4@8>1
-  Part2: F1@1>2 F1@4>1 F1@6>1 F#1@8>1
-  Part4: F2+F4@1>3 C4@2>2 A3@3>2 F3@4>3 F2@5>4 C4@6>3 A3@7>2 F3@8>1
-@25 [G]
-  Part1: G3+D4+B4@1>6 G4@3>1 D4+G4@4>3 G3@5>4 G4@6>1 D4@7>1 C4+F4+A4@8>1
-  Part2: G1@1>2 G1@4>1 G1@5>2 G2@8>1
-  Part3: G3@3>1 G3@4>2 G3@6>1 F4@8>1
-  Part4: G2+F3@1>4 G3@2>2 B3@3>3 G3@4>3 G2@5>3 D4@6>2 G3@7>2 B3@8>1
-@26 [F]
-  Part1: G3+C4+F4+A4@1>7 C4@2>3 F4@3>2 G3@4>2 C4@5>2 F4@6>2 G3@7>1 C4@8>1
-  Part2: G1@2>1 G1@4>3 A1@7>1 G1@8>1
-  Part3: F4@1>1 E4@2>2 C4+D4@4>2 D4@6>2 C4@8>1
-  Part4: G2@1>4 F3@2>2 C4@3>3 A3@4>2 G2@5>3 F3@6>2 A3@7>2 F3@8>1
-@27 [C]
-  Part1: C3+C4+E4+C5@1>7 E4@4>1 G3@5>3 E4+C5@6>1 E4@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>2 G1@8>1
-  Part3: C4@1>4
-  Part4: C3+F3@1>3 E3@2>1 C4@3>3 E3@4>2 C3@5>4 G3@6>1 E3@7>2 C4@8>1
-@28 [C]
-  Part1: C3@1>2 G4+E5@2>1 F4+D5@3>1 E4+C5@4>2 D4+B4@6>1 C4+A4@7>2
-  Part2: A1@1>1 C2@2>1 C2@4>2 B1@6>1 A1@7>1
-  Part4: C3+E3+C4@1>3 E3@2>3 G3@3>3 C4@4>2 C3@5>4 E3@6>2 G3@7>2 E3@8>1
-@29 [G]
-  Part1: G2+C4+A4@1>6 B3+G4@4>5 D3@7>1 B3@8>1
-  Part2: G1@1>2 G1@4>1 G1@5>1 D2@6>1 G2@8>1
-  Part4: G2@1>4 D3@2>1 G3@3>3 D3@4>2 G2@5>3 B3@6>3 D3@7>2 G3@8>1
-@30 [G7]
-  Part1: G2+G4@1>7 A4+F5@2>1 G4+E5@4>2 F4+D5@6>2
-  Part2: D2@2>1 G1@4>2 A1@6>1 C2@7>1 A1@8>1
-  Part4: G2+D3+G3+B3@1>3 D3@2>3 F3@3>3 B3@4>4 G2@5>3 D3@6>2 F3@7>1 D3@8>1
-@31 [C]
-  Part1: C3+E4+C5@1>3 E4@3>1 C3@4>4 E4+C5@5>1 E4+C5@6>1 E4+C5@8>1
-  Part2: C2@1>2 G1@4>1 C2@5>2 G1@8>1
-  Part3: C4@5>1 C4@6>1 C4@7>1 C4@8>1
-  Part4: C3@1>4 G3@2>1 C4@3>3 G3@4>2 C3@5>3 E4@6>3 G3@7>2 C4@8>1
-@32 [C]
-  Part1: C3+E4+C5@1>7 E4@2>2 E4+C5@4>2 D4+B4@6>1 C4+A4@7>1 C4+F4@8>1
-  Part2: C2@1>2 C2@4>1 B1@6>1 C2@8>1
-  Part3: C4@1>1 C4@2>1 C4@3>1 C4@4>2 B3@6>1 A3@7>1 F3@8>1
-  Part4: C3+G3+C4+E4@1>3 G3@2>3 C4@3>3 E4@4>5 C3@5>4 G3@6>2 C4@7>2 G3@8>1
-@33 [Dm]
-  Part1: D3+C4+F4@1>4 A3+D4+F4@4>3 D3@5>4 A3@6>1 D4@7>1 A3+D4+F4@8>1
-  Part2: D2@1>2 A1@4>1 D2@5>2 D2@8>1
-  Part3: F3@1>2
-  Part4: D3@1>3 A3@2>4 D4@3>4 F4@4>3 D3@5>4 A3@6>3 D4@7>1 D4+F4@8>1
-@34 [Dm]
-  Part1: D3+A3+D4+F4@1>4 A3@2>3 D4@3>2 F4@4>1 D3@5>1 A3+D4+F4@6>3 D3@7>1 A3@8>1
-  Part2: E2@2>1 F2@4>1 F#2@6>1 G2@8>1
-  Part4: D3+A3+F4@1>3 F4@2>5 D4@3>2 D3@5>4 A3@6>1 D4@7>1 A3@8>1
-@35 [G]
-  Part1: G3+B3+D4+G4@1>8 B3@3>1 D4+B4@4>2 E4+C5@6>2 F4+D5@8>1
-  Part2: G1@1>2 D2@4>1 G2@5>3 D2@8>1
-  Part3: B3@3>1 B3@4>1 B3@5>2 C4@7>1 D4@8>1
-  Part4: G2@1>4 F3@2>2 B3@3>5 F3@4>2 G2@5>3 F3@6>3 D4@8>1
-@36 [G7]
-  Part1: G3+F4+D5@1>3 B4@2>1 G3@3>2 A4@4>1 G4@5>2 G3@6>2 G3@8>1
-  Part2: G1@1>2 G2@4>1 F#2@6>1 F2@8>1
-  Part3: D4@1>1 B3@2>1 A3@4>1 G3@5>1 G3@8>1
-  Part4: G2+F3+B3+D4@1>3 F3@2>1 B3@3>6 F3@4>2 G2@5>2 F3@6>2 F2@7>2 F3@8>1
-@37 [E]
-  Part1: E3+D4+G#4@1>4 D4@3>1 D4+G#4+B4@4>3 E3@5>4 D4@6>1 G#4@7>1 E4+A4+C5@8>1
-  Part2: E2@1>2 B1@4>1 E1@5>2 G#1@8>1
-  Part3: E4@1>1 F4@2>1 E4@3>1 D4@4>2 E4@6>1 D4@7>1 C4@8>1
-  Part4: E2@1>4 E3@2>4 G#3@3>1 B3@4>3 G#2@5>4 E3@6>3 D4@7>1 C4@8>1
-@38 [Am | G]
-  Part1: A3+E4+A4+C5@1>3 E4@2>1 A4@3>1 E4+A4+C5@4>1 A3@5>1 D4+G4+B4@6>2 G3@7>2 D4@8>1
-  Part2: A1@1>2 A1@4>1 G1@6>1 G1@8>1
-  Part3: C4@1>2 C4@3>1 D4@5>1 C4@6>1
-  Part4: A2+E3+C4@1>3 E3@2>5 A3@3>3 C4@4>2 A2@5>2 B3@6>3 G2@7>2
-@39 [F]
-  Part1: F3+C4+F4+A4@1>4 C4@3>2 F4+A4@4>2 F3@5>4 F4+A4+C5@6>2 G4+B4+D5@8>1
-  Part2: F1@1>2 F1@4>1 F1@5>2 F#1@8>1
-  Part3: A3@5>1 C4@6>1 C4@7>1 D4@8>1
-  Part4: F2@1>3 C3@2>1 F3@3>1 C4@4>3 F2@5>4 A3@6>1 F3@7>1 A3@8>1
-@40 [G]
-  Part1: G3+G4+B4+D5@1>6 G4@2>1 B4@3>1 D4+G4+B4@4>2 C4+A4@6>1 B3+G4@7>1 C4+A4@8>1
-  Part2: G1@1>2 G1@4>1 G1@5>2 G#1@8>1
-  Part3: D4@1>1 B3@2>1 B3@3>1 B3@4>2 A3@6>1 G3@7>1 A3@8>1
-  Part4: G2@1>3 G3@2>1 B3@3>1 G3@4>2 G2@5>4 D4@6>3 B3@7>2 G3@8>1
-@41 [Am | D7]
-  Part1: C4+A4@1>4 E4@3>2 C4@4>1 A2@5>3 B3+D4+G4@6>1 B3+D4+G4@8>1
-  Part2: A1@1>2 A1@4>1 A1@5>1 C2@6>1 D2@8>1
-  Part3: A3@1>2
-  Part4: A2@1>4 E3@2>3 A3@3>2 C4@4>2 A2@5>4 B3@6>1 B3@8>1
-@42 [Am]
-  Part1: A2+B3+D4+G4@1>4 A3+C4+E4@2>1 A3+C4+E4@4>4 A2@5>1 A3@7>1 C4@8>1
-  Part2: E2@2>1 G2@4>1 A2@6>1 G2@8>1
-  Part3: B3@6>1 C4@7>1 D4@8>1
-  Part4: A2+B3@1>3 C4@2>1 E3@3>4 A3@4>5 A2@5>2 E3@8>1
-@43 [F]
-  Part1: F2@1>8 A3@2>3 C4@3>4 F4@4>5 C3@5>3 A3@6>2 C4@7>1 A3@8>1
-  Part2: F2@1>2 D2@4>1 C2@5>2 D2@8>1
-  Part3: D4@1>1 E4@2>2 C4@4>2 G3@6>1 A3@7>1
-  Part4: F2+A3@1>4 F3@2>4 A3@3>2 C4@4>2 F2@5>4 A3@6>2 F3@7>1 F4@8>1
-@44 [F]
-  Part1: F3@1>8 A4+F5@2>1 G4+E5@3>1 F4+D5@4>1 E4+C5@6>3 E4@8>1
-  Part2: F1@1>2 F1@4>1 E1@6>1 F1@7>1 F#1@8>1
-  Part4: F2+F4@1>3 C4@2>2 A3@3>2 F3@4>3 F2@5>4 C4@6>3 A3@7>2 F3@8>1
-@45 [G]
-  Part1: G3+D4+B4@1>6 G4@3>1 D4+G4@4>3 G3@5>4 G4@6>1 D4@7>1 C4+F4+A4@8>1
-  Part2: G1@1>2 G1@4>1 G1@5>2 D2@8>1
-  Part3: G3@3>1 G3@4>1 G3@6>2 F4@8>1
-  Part4: G2+F3@1>4 G3@2>2 B3@3>3 G3@4>3 G2@5>3 D4@6>2 G3@7>2 B3@8>1
-@46 [C | F]
-  Part1: G3+C4+F4+A4@1>7 C4@2>3 F4@3>2 G3@4>2 C4@5>2 F4@6>2 G3@7>1 C4@8>1
-  Part2: G2@1>1 D2@2>1 G1@4>1 G1@6>1 A1@7>1 G1@8>1
-  Part3: F4@1>1 E4@2>2 C4@4>2 D4@6>2 C4@8>1
-  Part4: G2@1>4 F3@2>2 C4@3>3 A3@4>2 G2@5>3 F3@6>2 A3@7>2 F3@8>1
-@47 [C]
-  Part1: C3+C4+E4+G4@1>3 C4@3>1 E4@4>1 C3@5>4 E4+F4+C5@6>1 E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>2 C2@8>1
-  Part3: C4@1>2
-  Part4: C3+F3@1>3 E3@2>1 C4@3>3 E3@4>2 C3@5>4 G3@6>1 E3@7>2 C4@8>1
-@48 [C]
-  Part1: C3+E4+C5@1>5 E4@2>2 E4+C5@4>4 G3@6>2 E4@7>1 A3@8>1
-  Part2: C2@1>1 G1@2>1 C2@3>2 D2@5>1 E2@6>2
-  Part3: E4+G4@3>1 D4+F4@4>2 C4+E4@6>2
-  Part4: C3+E3+C4@1>3 E3@2>3 G3@3>3 C4@4>2 C3@5>4 E3@6>2 G3@7>2 E3@8>1
+  Drums                  : Ab2@1>1^56 Ab2@9>1^32 Ab2@17>1^32 Ab2@25>1^32 Ab2@33>1^56 Ab2@41>1^32 Ab2@49>1^56 Ab2@57>1^32
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>48^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^80 G2+F3+Bb3+C4+F4@49>15^80 F3+Bb3+C4+F4@57>4^80 F3+Bb3+C4+F4@61>4^56
+  Fretless Bass          : G2@1>47^56 G2@49>15^56
+  Rock Organ             : C5@1>64^56
+@6 [Gb]
+  Drums                  : Ab2@1>1^56 Ab2@9>1^32 Ab2@17>1^56 Ab2@25>1^32 Ab2@33>1^56 Ab2@41>1^32 Ab2@49>1^56 Ab2@57>1^32
+  Acoustic Guitar (steel): Gb2+Gb3+Bb3+Db4@1>48^104 Gb3+Bb3+Db4+F4@17>24^80 Gb3+Bb3+Db4+F4@41>8^104 Gb2+Gb3+Bb3+Db4+F4@49>8^80 Gb3+Bb3+Db4+F4@57>4^104 Gb3+Bb3+Db4+F4@61>4^80
+  Fretless Bass          : Gb2@1>47^56 Gb2@49>15^56
+  Rock Organ             : Db5@1>96^56
+@7 [Ab]
+  Distortion Guitar      : F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : Ab2@1>1^56 Ab2@9>1^32 Ab2@17>1^56 Ab2@25>1^32 Ab2@33>1^56 Ab2@41>1^32 Ab2@49>1^56 Ab2@57>1^32
+  Acoustic Guitar (steel): Ab2+Ab3+Db4+Eb4+Ab4@1>24^80 Ab2+Ab3+C4+Eb4+Ab4@25>8^80 Ab2+Ab3+C4+Eb4+Ab4@33>24^80 F3+Bb3+D4+F4@57>4^80 F3+Bb3+D4+F4@61>4^80
+  Fretless Bass          : Ab2@1>23^56 Ab2@25>7^56 Ab2@33>31^56
+  Rock Organ             : Eb5+Ab5@1>64^56 C5@33>32^56
+@8 [Bb]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>24^80 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^104 F2@57>8^80
+  Fretless Bass          : Bb1@1>27^104 Bb1@33>3^80 Bb1@41>14^104 F1@57>7^80
+  Rock Organ             : D5+F5+Bb5@1>128^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@1>14^104 Bb4+F5+A5@17>12^104 Bb4+F5@33>5^104 Bb4+D5+Bb5@41>11^104 F5@56>2^104 Bb4+Bb5@57>20^104 G5@58>22^104
+@9 [F | Fm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Ab2@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^80 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>28^80 G1@33>4^80 G1@41>19^104
+  Rock Organ             : C5@1>64^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@17>15^80 Bb4+D5+Bb5@33>7^80 Bb4+Bb5@41>10^80 Bb4@57>4^104 C5@61>4^104
+@10 [Db]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Ab2@13>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80 Ab2@61>1^32
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^104 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>23^104 Ab1@25>6^80 Db2@33>3^80 Db2@41>11^104 Ab1@56>6^80
+  Rock Organ             : Db5+Eb5+Ab5@1>128^56
+  Acoustic Grand Piano   : Bb4+Db5+Bb5@1>13^104 C5+Bb5@17>7^80 Bb4+Db5+Bb5@25>18^104 Eb5@48>4^104 Bb4+Bb5@49>7^56 F5@51>4^104 Bb4+Eb5+Bb5@57>26^104
+@11 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 G4@25>7^56 Eb4+G4@33>20^56 F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 F3+Bb3+D4+F4@57>4^80 F3+Bb3+D4+F4@61>4^80
+  Fretless Bass          : Eb2@1>8^104 Bb2@9>7^80 F3@17>8^104 Eb3@25>8^104 Bb2@33>8^80 F2@41>8^104 Eb2@50>14^80
+  Rock Organ             : Bb4@1>64^56 G5@33>32^56
+@12 [Bb]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Ab2@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^104 F3+Bb3+D4+F4@17>24^80 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^80 F2@57>8^80
+  Fretless Bass          : Bb1@1>26^80 Bb1@33>3^80 Bb1@41>14^80 F1@57>7^80
+  Rock Organ             : D5+F5+Bb5@1>128^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@1>14^104 Bb4+F5+A5@17>12^104 Bb4+F5@33>5^104 Bb4+D5+Bb5@41>11^104 F5@56>2^104 Bb4+Bb5@57>20^104 G5@58>22^104
+@13 [F | Fm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^104 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>24^80 F1@25>6^104 G1@33>8^104 F1@41>7^80 G1@49>12^80
+  Rock Organ             : C5@1>64^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@17>15^80 Bb4+D5+Bb5@33>7^80 Bb4+Bb5@41>10^80 Bb4@57>4^104 C5@61>4^80
+@14 [Db]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Ab2@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^104
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^80 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>22^80 Ab1@25>4^80 Db2@33>4^80 Db2@41>18^104
+  Rock Organ             : Db5+Eb5+Ab5@1>128^56
+  Acoustic Grand Piano   : Bb4+Db5+Bb5@1>13^104 C5+Bb5@17>7^80 Bb4+Db5+Bb5@25>18^104 Eb5@48>4^104 Bb4+Bb5@49>7^56 F5@51>4^104 Bb4+Eb5+Bb5@57>26^104
+@15 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 G4@25>7^56 Eb4+G4@33>20^56
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Ab2@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 E2+Gb2@41>1^104 E2+Bb2@49>1^104
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 Bb3+Eb4+G4+Bb4@57>8^56
+  Fretless Bass          : Eb2@1>8^80 Bb2@9>7^104 F3@17>8^104 Eb3@25>16^104 Bb2@41>8^80 G2@49>15^80
+  Rock Organ             : Bb4@1>64^56 G5@33>32^56
+  Alto Sax               : C4@33>6^104 Db4@41>6^104 Eb4@49>5^104 Eb4@57>18^104
+@16 [Ab]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>15^80 Ab3+C4+Eb4+Ab4@33>7^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>17^104 Ab1@33>3^104 Ab1@41>10^104 Ab1@57>8^104
+  Rock Organ             : Ab4+Eb5@1>61^56
+  Acoustic Grand Piano   : Eb6+Ab6@1>4^80 Eb6+Ab6@9>3^56 Eb5+Ab5@17>3^56 Eb5+Ab5@25>2^56 Eb5+Ab5@33>3^56 Eb5+Ab5@41>2^56 Eb5+Ab5@49>3^56 Eb5+Ab5@57>3^56
+  Alto Sax               : Eb4@25>3^104 Eb4@33>8^104 Db4@41>8^80 C4@49>6^104 Bb3@57>15^104
+@17 [Abm | Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>15^80 Ab3+Db4+Eb4+Ab4@33>7^80 Ab3+Db4+Eb4+Ab4@41>7^56 Ab3+Db4+Eb4+Ab4@49>15^80
+  Fretless Bass          : B1@1>15^80 Db2@25>6^80 Db2@33>5^80 Db2@41>24^80
+  Rock Organ             : Ab4+Db5@1>60^56
+  Acoustic Grand Piano   : Eb5+Ab5@1>3^56 Eb5+Ab5@9>3^56 Eb5+Ab5@17>6^56 Ab5+Eb6@25>16^80 Eb5+Ab5@41>3^56 Eb5+Ab5@49>4^32 Eb5+Ab5@57>3^32
+  Alto Sax               : Ab3@9>10^80 Eb4@57>16^104
+  Celesta                : Ab5+Eb6@25>12^56
+@18 [B | Gb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Gb3+B3+Eb4+Gb4@1>15^80 Gb3+B3+Eb4+Gb4@17>15^80 Gb3+Bb3+Db4+Gb4@33>7^80 Gb3+Bb3+Db4+Gb4@41>7^56 Gb3+Bb3+Db4+Gb4@49>15^80
+  Fretless Bass          : B1@1>31^104 Bb1@33>5^56 Bb1@41>19^80
+  Rock Organ             : Gb4+B4@1>28^56 Ab4+Db5@33>27^56
+  Acoustic Grand Piano   : Gb5+B5@1>31^32
+  Alto Sax               : Db4@9>7^104 B3@16>7^104 Db4@24>8^104 Db4@41>13^104 B3@55>4^80 Bb3@60>3^104 Ab3@63>15^104
+@19 [Ab]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^104
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>23^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab2@1>7^104 Eb2@9>6^80 Ab2@17>8^104 Gb2@25>22^80 Eb2@49>14^104
+  Rock Organ             : Ab4+Eb5@1>62^56
+  Alto Sax               : C4@33>8^104 Db4@41>7^80 Eb4@49>7^80 Eb4@57>14^104
+@20 [Ab]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>15^80 Ab3+C4+Eb4+Ab4@33>7^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>18^80 Ab1@25>4^80 Ab1@33>3^80 Ab1@41>13^80 Db2@57>5^80
+  Rock Organ             : Ab4+Eb5@1>60^56
+  Alto Sax               : Eb4@17>5^104 Eb4@25>15^104 Db4@41>7^80 C4@48>7^104 Bb3@57>16^104
+@21 [Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>15^80 Ab3+Db4+Eb4+Ab4@33>7^80 Ab3+Db4+Eb4+Ab4@41>7^56 Ab3+Db4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Db2@1>27^80 Db2@33>4^80 Db2@41>23^80
+  Rock Organ             : Ab4+Db5@1>61^56
+  Alto Sax               : Ab3@9>20^104
+@22 [B | Gb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Gb3+B3+Eb4+Gb4@1>15^80 Gb3+B3+Eb4+Gb4@17>15^80 Gb3+Bb3+Db4+Gb4@33>7^80 Gb3+Bb3+Db4+Gb4@41>7^56 Gb3+Bb3+Db4+Gb4@49>15^80
+  Fretless Bass          : B1@1>29^104 Bb1@33>4^80 Bb1@41>12^104 Bb1@57>5^56
+  Rock Organ             : Gb4+B4@1>27^56 Ab4+Db5@33>27^56
+  Alto Sax               : Eb4@1>8^104 Db4@9>7^80 B3@16>7^104 Db4@25>11^104 Db4@42>13^104 Eb4@57>37^104
+@23 [Ab]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^56
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>23^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>28^80 Ab1@33>8^104 F1@41>7^104 G1@49>14^80
+  Rock Organ             : Ab4+Eb5@1>64^56
+  Alto Sax               : Eb4@33>6^104 F4@41>6^104 Ab4@49>6^104 Bb4@57>12^104
+@24 [Fm]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Ab3+C4+F4@1>16^80 F3+Ab3+C4+F4@17>8^80 F3+Ab3+C4+F4@25>16^80 F3+Ab3+C4+F4@41>4^80 F3+Ab3+C4+F4@49>16^80
+  Fretless Bass          : F1@1>26^104 F1@33>4^104 F1@41>14^104 Ab1@57>6^80
+  Rock Organ             : F4+C5@1>124^56
+  Alto Sax               : Ab4@9>11^104 Ab4@25>13^104 G4@41>11^104 G4@57>14^104
+  Electric Guitar (clean): F2@1>64^104 G3@25>16^104 Ab3@41>14^104 G3@57>17^104
+@25 [Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Ab3+Db4+F4@1>16^80 F3+Ab3+Db4+F4@17>5^80 F3+Ab3+Db4+F4@25>16^80 F3+Ab3+Db4+F4@41>4^80 F3+Ab3+Db4+F4@49>16^80
+  Fretless Bass          : Db2@1>19^104 Db2@25>4^80 Db2@33>4^80 Db2@41>14^80 Db2@57>7^80
+  Rock Organ             : Db5@1>62^56
+  Alto Sax               : F4@9>12^104 F4@25>15^104 Eb4@41>12^104 Eb4@57>16^104
+  Electric Guitar (clean): Ab3@9>16^104 Eb4@25>38^104
+@26 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>4^80 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>4^80 Eb3+Bb3+Eb4+G4@49>16^80
+  Fretless Bass          : A1@1>24^80 G2@25>7^104 G2@33>8^104 Eb2@41>7^80 Eb2@49>8^104 Bb1@57>7^104
+  Rock Organ             : Eb5+Bb5@1>59^56
+  Alto Sax               : Bb3@33>8^104 C4@42>5^104 Db4@49>5^104 Db4@57>31^104
+  Electric Guitar (clean): Bb3+Eb4@1>61^80
+@27 [Db7 | Cm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^104
+  Acoustic Guitar (steel): Ab3+Db4+F4+Ab4@1>16^80 Ab3+Db4+F4+Ab4@17>5^80 Ab3+C4+Eb4+Ab4@25>16^80 Ab3+C4+Eb4+Ab4@41>5^80 G3+C4+Eb4+G4@49>16^80
+  Fretless Bass          : Ab1@1>20^104 Eb1@25>8^104 Ab1@33>7^80 F1@41>8^104 G1@49>14^104
+  Rock Organ             : F5+Ab5@1>21^56 Eb5+Ab5@25>23^56 Eb5+G5@49>15^56
+  Alto Sax               : C4@26>12^104 Bb3@38>4^80 Ab3@42>8^80 Bb4@57>11^104
+@28 [Fm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Ab3+C4+F4@1>16^80 F3+Ab3+C4+F4@17>4^80 F3+Ab3+C4+F4@25>16^80 F3+Ab3+C4+F4@41>4^80 F3+Ab3+C4+F4@49>16^80
+  Fretless Bass          : F1@1>23^104 F1@33>4^104 F1@41>11^104 Ab1@57>7^80
+  Rock Organ             : F4+C5@1>126^56
+  Alto Sax               : Ab4@9>12^104 Ab4@25>13^104 G4@41>12^104 G4@57>14^104
+@29 [Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Ab3+Db4+F4@1>16^80 F3+Ab3+Db4+F4@17>5^80 F3+Ab3+Db4+F4@25>16^80 F3+Ab3+Db4+F4@41>4^80 F3+Ab3+Db4+F4@49>16^80
+  Fretless Bass          : Db2@1>17^104 Db2@25>10^80 Db2@41>10^80 Db2@57>7^80
+  Rock Organ             : Db5@1>62^56
+  Alto Sax               : F4@8>11^104 F4@25>6^80 F4@33>11^80 Eb4@64>8^104
+@30 [B | Db]
+  Distortion Guitar      : B3+Eb4@1>23^80 Db4+F4@25>15^80 Db4+F4@41>1^80 Db4+F4@49>1^80 Eb3+Ab3@57>1^80
+  Drums                  : B1+Gb2@1>1^104 Bb2@9>1^56 E2+Ab2@17>1^104 B1+Bb2@25>1^104 Gb2@33>1^104 Gb2@41>1^56 E2+Gb2@49>1^104 B1+Gb2@57>1^80
+  Acoustic Guitar (steel): Gb3+B3+Eb4+Gb4@1>16^80 Gb3+B3+Eb4+Gb4@17>7^80 Ab3+Db4+F4+Ab4@25>16^80 Ab3+Db4+F4+Ab4@41>4^80 Ab3+Db4+F4+Ab4@49>16^80
+  Fretless Bass          : B1@1>21^104 Db2@25>19^80 Db2@49>13^80
+  Rock Organ             : B4+Eb5@1>22^56 Db5+F5@25>36^56
+  Alto Sax               : Db4@8>7^80 B3@16>8^104 Db4@25>11^80 Db4@41>10^104 C4@56>11^104
+@31 [Ab]
+  Distortion Guitar      : Eb3+Ab3@1>1^80 Eb3+Ab3@9>1^80 Eb3+Ab3@17>2^80 Eb3+Ab3@25>3^104 Eb3+Ab3+Eb4@33>4^104 Ab3+Eb4@49>6^80 Ab3+Eb4@57>3^104 Ab3+Eb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 E2+Gb2@33>1^104 Gb2@57>1^32 Gb2@61>1^56
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>4^56 Ab3+C4+Eb4+Ab4@9>5^80 Ab3+C4+Eb4+Ab4@17>4^80 Ab3+C4+Eb4+Ab4@25>5^80 Ab3+C4+Eb4+Ab4@33>7^104
+  Fretless Bass          : Ab1@1>8^104 Eb2@9>8^80 Ab2@17>15^80 Gb2@33>12^104
+  Rock Organ             : Eb5+Ab5@1>36^56
+  Alto Sax               : Bb3@4>3^104 Ab3@7>10^104 C4@33>8^104 Db4@41>6^104 Eb4@49>5^104 Eb4@57>14^104
+@32 [Ab]
+  Distortion Guitar      : Ab3+Eb4@1>124^104
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>15^80 Ab3+C4+Eb4+Ab4@33>7^80 Ab3+C4+Eb4+Ab4@41>7^80 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>17^104 Ab1@33>3^104 Ab1@41>10^104 Ab1@57>8^80
+  Rock Organ             : Ab4+Eb5@1>61^56
+  Acoustic Grand Piano   : Eb6+Ab6@1>4^80 Eb6+Ab6@9>3^56 Eb5+Ab5@17>3^56 Eb5+Ab5@25>2^56 Eb5+Ab5@33>3^56 Eb5+Ab5@41>2^56 Eb5+Ab5@49>3^56 Eb5+Ab5@57>3^56
+  Alto Sax               : Eb4@25>3^104 Eb4@33>8^104 Db4@41>7^80 C4@49>7^104 Bb3@58>14^104
+@33 [Abm | Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>15^80 Ab3+Db4+Eb4+Ab4@33>7^80 Ab3+Db4+Eb4+Ab4@41>7^56 Ab3+Db4+Eb4+Ab4@49>15^80
+  Fretless Bass          : B1@1>15^104 Db2@25>6^80 Db2@33>5^80 Ab2@41>24^80
+  Rock Organ             : Ab4+Db5@1>60^56
+  Acoustic Grand Piano   : Eb5+Ab5@1>3^56 Eb5+Ab5@9>3^56 Eb5+Ab5@17>6^56 Ab5+Eb6@25>16^80 Eb5+Ab5@41>3^56 Eb5+Ab5@49>4^32 Eb5+Ab5@57>3^32
+  Alto Sax               : Ab3@9>12^104 Eb4@58>3^104
+  Celesta                : Ab5+Eb6@25>12^56
+@34 [B | Gb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Gb3+B3+Eb4+Gb4@1>15^80 Gb3+B3+Eb4+Gb4@17>15^80 Gb3+Bb3+Db4+Gb4@33>7^80 Gb3+Bb3+Db4+Gb4@41>7^56 Gb3+Bb3+Db4+Gb4@49>15^80
+  Fretless Bass          : B1@1>31^104 Bb1@33>5^80 Bb1@41>19^80
+  Rock Organ             : Gb4+B4@1>28^56 Ab4+Db5@33>27^56
+  Acoustic Grand Piano   : Gb5+B5@1>31^32
+  Alto Sax               : Eb4@2>7^104 Db4@9>8^104 B3@17>6^104 Db4@25>10^104 Db4@41>13^104 B3@56>10^104
+@35 [Ab]
+  Distortion Guitar      : Ab3+Eb4@57>3^80 Ab3+Eb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Bb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>23^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab2@1>7^104 Eb2@9>6^80 Ab2@17>16^104 Gb2@33>28^80
+  Rock Organ             : Ab4+Eb5@1>62^56
+  Alto Sax               : Bb3@2>3^80 Ab3@5>8^80 C4@33>5^104 Db4@41>6^104 Eb4@49>5^104 Eb4@57>12^104
+@36 [Ab]
+  Distortion Guitar      : Ab3+Eb4@1>124^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>15^80 Ab3+C4+Eb4+Ab4@33>7^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>18^80 Ab1@25>4^56 Ab1@33>3^80 Ab1@41>13^80 Db2@57>5^80
+  Rock Organ             : Ab4+Eb5@1>60^56
+  Alto Sax               : Eb4@9>4^80 Eb4@17>3^104 Eb4@25>14^104 Db4@40>7^80 C4@48>6^104 Bb3@57>16^104
+@37 [Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>15^80 Ab3+Db4+Eb4+Ab4@33>7^56 Ab3+Db4+Eb4+Ab4@41>7^56 Ab3+Db4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Db2@1>19^104 Db2@25>8^80 Ab2@33>8^80 Db2@41>21^80
+  Rock Organ             : Ab4+Db5@1>61^56
+  Alto Sax               : Ab3@9>13^104 Eb4@57>3^104
+@38 [B | Gb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Gb3+B3+Eb4+Gb4@1>15^80 Gb3+B3+Eb4+Gb4@17>15^80 Gb3+Bb3+Db4+Gb4@33>7^80 Gb3+Bb3+Db4+Gb4@41>7^56 Gb3+Bb3+Db4+Gb4@49>15^80
+  Fretless Bass          : B1@1>12^104 B1@17>14^104 Bb1@33>4^80 Bb1@41>4^80 Bb1@49>11^80
+  Rock Organ             : Gb4+B4@1>27^56 Ab4+Db5@33>27^56
+  Alto Sax               : Eb4@1>8^104 Db4@9>7^80 B3@17>8^80 Db4@25>11^104 Db4@41>11^104 Eb4@56>28^104
+@39 [Ab]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^104 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Bb2+G3@49>1^104
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>23^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>20^80 Ab1@25>12^80 G2@40>9^80 Eb2@50>7^80 C2@57>8^80
+  Rock Organ             : Ab4+Eb5@1>64^56
+  Alto Sax               : Eb4@33>6^104 F4@41>6^104 Ab4@49>6^104 Bb4@57>12^104
+@40 [Fm]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Ab3+C4+F4@1>16^80 F3+Ab3+C4+F4@17>8^80 F3+Ab3+C4+F4@25>16^80 F3+Ab3+C4+F4@41>4^80 F3+Ab3+C4+F4@49>16^80
+  Fretless Bass          : F1@1>26^104 F1@33>4^104 F1@41>14^104 Ab1@57>6^80
+  Rock Organ             : F4+C5@1>124^56
+  Alto Sax               : Ab4@9>11^104 Ab4@25>13^104 G4@41>11^104 G4@57>14^104
+  Electric Guitar (clean): F2@1>64^104 G3@26>13^80 Ab3@41>13^80 G3@56>4^80 G3@64>8^80
+@41 [Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^56
+  Acoustic Guitar (steel): F3+Ab3+Db4+F4@1>16^80 F3+Ab3+Db4+F4@17>5^80 F3+Ab3+Db4+F4@25>16^80 F3+Ab3+Db4+F4@41>4^80 F3+Ab3+Db4+F4@49>16^80
+  Fretless Bass          : Db2@1>19^104 Db2@25>4^80 Db2@33>4^80 Db2@41>14^80 Db2@57>7^80
+  Rock Organ             : Db5@1>62^56
+  Alto Sax               : F4@9>12^104 F4@25>15^104 Eb4@41>12^104 Eb4@57>20^104
+  Electric Guitar (clean): Ab3@9>7^104 G3@17>7^80 Ab3@25>24^80 Eb4@49>15^104
+@42 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>4^80 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>4^80 Eb3+Bb3+Eb4+G4@49>16^80
+  Fretless Bass          : A1@1>24^104 G2@25>7^104 G2@33>8^104 Eb2@41>7^104 Eb2@49>8^80 Bb1@57>7^104
+  Rock Organ             : Eb5+Bb5@1>59^56
+  Alto Sax               : Bb3@33>8^104 C4@42>5^104 Db4@49>5^104 Db4@57>31^104
+  Electric Guitar (clean): Bb3+Bb4@1>42^104
+@43 [Db7 | Cm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Bb2+G3@49>1^104
+  Acoustic Guitar (steel): Ab3+Db4+F4+Ab4@1>16^80 Ab3+Db4+F4+Ab4@17>5^80 Ab3+C4+Eb4+Ab4@25>16^80 Ab3+C4+Eb4+Ab4@41>5^80 G3+C4+Eb4+G4@49>16^80
+  Fretless Bass          : Ab1@1>20^104 Eb1@25>8^104 Ab1@33>7^80 F1@41>8^104 G1@49>14^104
+  Rock Organ             : F5+Ab5@1>20^56 Eb5+Ab5@25>23^56 Eb5+G5@49>15^56
+  Alto Sax               : C4@26>12^104 Bb3@38>4^80 Ab3@42>8^80 Bb4@57>11^104
+@44 [Fm]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Ab3+C4+F4@1>16^80 F3+Ab3+C4+F4@17>4^80 F3+Ab3+C4+F4@25>16^80 F3+Ab3+C4+F4@41>4^80 F3+Ab3+C4+F4@49>16^80
+  Fretless Bass          : F1@1>23^104 F1@33>4^104 F1@41>11^104 Ab1@57>7^80
+  Rock Organ             : F4+C5@1>64^56
+  Alto Sax               : Ab4@9>12^104 Ab4@25>13^104 G4@41>12^104 G4@57>14^104
+@45 [Bb | Bbm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 B1+Gb2@25>1^104 Bb4@29>1^32 Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>16^80 F3+Bb3+D4+F4@17>5^80 F3+Bb3+Db4+F4@25>16^80 F3+Bb3+Db4+F4@41>4^80 F3+Bb3+Db4+F4@49>16^80
+  Fretless Bass          : D2@1>17^104 Db2@25>28^80 Db2@57>7^80
+  Rock Organ             : D5+F5@1>24^56 Db5+F5@25>36^56
+  Alto Sax               : F4@8>11^104 F4@25>16^104 Bb4@64>3^104
+@46 [Gb]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 B1+Gb2@25>1^104 B1+Gb2@33>1^104 Gb2@41>1^56 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Gb3+Bb3+Db4+Gb4@1>16^80 Gb3+Bb3+Db4+Gb4@17>7^80 Gb3+Bb3+Db4+Gb4@25>16^80 Gb3+Bb3+Db4+Gb4@41>4^80 Gb3+Bb3+Db4+Gb4@49>16^80
+  Fretless Bass          : Gb2@1>16^104 Gb1@17>14^80 Gb2@34>7^104 F2@41>8^80 Db2@49>4^80 Db2@57>7^80
+  Rock Organ             : Db5+Gb5@1>61^56
+  Alto Sax               : Bb4@9>3^104 Bb4@17>3^104 Bb4@25>3^104 Bb4@33>8^104 Ab4@41>7^104 Gb4@49>5^104 Bb4@57>33^104
+@47 [Eb]
+  Drums                  : B1+Gb2@1>1^104 B1+Gb2@9>1^104 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 E2+Gb2@33>1^104 A2@41>1^80 E2@49>1^104 E2@53>1^104 G2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>4^56 Eb3+Bb3+Eb4+G4@9>5^80 Eb3+Bb3+Eb4+G4@17>5^80 Eb3+Bb3+Eb4+G4@25>5^104 Eb3+Bb3+Eb4+G4@33>6^104 Eb3+Bb3+Eb4+G4@41>5^80 Eb3+Bb3+Eb4+G4@49>6^104 Eb3+Bb3+Eb4+G4@57>6^104
+  Fretless Bass          : Eb2@2>5^80 Eb2@9>5^80 Eb2@17>5^80 Eb2@25>5^80 Eb2@34>5^80 Eb2@42>5^80 Eb2@50>5^80 Eb2@58>6^104
+  Rock Organ             : Eb5+G5@1>62^56
+  Alto Sax               : Bb4@57>25^104
+@48 [Bb]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>15^80 F3+Bb3+D4+F4@33>7^80 F3+Bb3+D4+F4@41>7^80 F3+Bb3+D4+F4@49>15^80
+  Fretless Bass          : Bb1@1>28^104 Bb1@33>3^80 Bb1@41>8^80 Bb1@57>3^80
+  Rock Organ             : Bb4+F5@1>125^56
+  Alto Sax               : A4@18>14^104 F4@33>5^104 D4@42>13^104 C4@57>17^104
+  Celesta                : Bb5@57>4^80
+  String Ensemble 2      : F5@1>223^80
 @49 [F]
-  Part1: F3+F4+A4+C5@1>4 F4@3>1 F4+A4+C5@4>3 F3@5>3 D5@6>1 F4+A4+C5@8>1
-  Part2: F2@1>2 F2@4>1 C2@5>2 C2@8>1
-  Part3: C4+F4@3>1 C4+F4@4>2 D4+G4@6>2 C4+F4@8>1
-  Part4: F3@1>4 A3@2>1 C4@3>3 A3@4>2 F3@5>3 F4@6>3 A3@7>2 C4@8>1
-@50 [F]
-  Part1: F3+F4+A4+C5@1>4 C4+F4+A4@2>4 C4@4>2 F3@5>3 C4@6>2 F4@7>1 A4@8>1
-  Part2: F2@1>1 A1@2>1 Bb1@4>1 B1@6>1 B1@8>1
-  Part3: C4+F4@1>1 A3+C4@2>1 A3+C4@6>1 C4+E4@7>1
-  Part4: F3+A3+C4+F4@1>3 A3@3>3 F4@4>4 F3@5>3 C4@6>1 A3@7>2 C4@8>1
-@51 [C]
-  Part1: C4+E4+G4+C5@1>1 C4+E4+G4+C5@4>5
-  Part2: C2@1>2 C2@4>1 G1@5>2 G1@8>1
-  Part3: E4+G4@1>2 C4+E4@4>2 D4+F4@6>2 C4+E4@8>1
-  Part4: C3+C4@1>7 E3@2>6 G3@3>4 E4@4>4 C4@6>2 G3@7>2 C4@8>1
-@52 [C]
-  Part1: C4+E4+G4+C5@1>2 C4@2>5 E4@3>5 G4@4>4 C5@6>2 C4@8>1
-  Part2: C2@1>1 G2@2>1 C2@4>1 D2@6>1 E2@7>1
-  Part3: C4+E4@1>1 E4+G4@3>1 D4+F4@4>2 C4+E4@6>2
-  Part4: C3+G3+C4@1>6 E3@2>6 G3@3>3 E4@4>4 C4@6>2 G3@7>1 C4@8>1
-@53 [F]
-  Part1: F3+C4+F4+A4@1>8 C4@3>1 C4+F4@4>2 D4+A4@6>1 C4+A4@8>1
-  Part2: F2@1>2 F2@4>1 C2@5>2 C2@8>1
-  Part3: C4+F4@1>2 D4+F4@3>2 A3@4>2
-  Part4: F3@1>7 A3@2>4 C4@3>3 F4@4>2 C4@6>1 A3@7>2 C4@8>1
-@54 [F]
-  Part1: F3+C4+A4@1>5 F4@2>2 C4@3>2 F4@4>2 F3@5>2 C4@6>1 F4@7>1 F3@8>1
-  Part2: F2@1>1 C2@2>1 D2@4>1 F2@6>1 F2@7>1
-  Part3: A3@6>1 C4@7>1
-  Part4: F3+C4@1>7 C4@2>1 A3@3>3 F4@4>3 C4@6>1 A3@7>1 C4@8>1
-@55 [C]
-  Part1: C3+G4+E5@1>7 G4@3>1 E4+C5@4>1 F4+D5@6>1 E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>1 A1@6>1 C2@7>1 C2@8>1
-  Part3: E4+G4@1>2 C4+E4@4>1 D4+F4@6>2 C4+E4@8>1
-  Part4: C3@1>7 E3@2>6 G3@3>4 E4@4>5 C4@6>2 G3@7>2 C4@8>1
-@56 [C | Em7]
-  Part1: C3+E4+C5@1>4 E4@2>1 C4+E4+G4@4>1 C3@5>1 B3@6>1 B2@7>1 A3+C4@8>1
-  Part2: C2@1>1 G2@2>1 C3@4>1 B2@6>2
-  Part3: C4+E4@1>2 E4@3>1 D4@4>1 C4@6>1 D4@7>1 C4@8>1
-  Part4: C3+G3+C4+E4@1>4 E3@2>2 G3@3>3 E4@4>5 C3@5>1 G3@6>1 B2@7>1 G3@8>1
-  Part5: E5@5>2 D5@7>2
-@57 [Am]
-  Part1: A2+A3+C4@1>4 A3@2>1 C4@3>1 A3+C4+E4@4>3 E3@5>2 A3@6>1 E3@7>1 G3+B3+D4@8>1
-  Part2: A2@1>2 E2@4>1 A1@5>2 E2@8>1
-  Part3: C4@1>2
-  Part4: A2@1>7 E3@2>4 A3@3>3 C4@4>4 E3@6>2 A3@7>2 E3@8>1
-  Part5: C5@1>8
-@58 [Am]
-  Part1: A2@1>3 A3+C4+E4@2>6 A3@4>3 A2@5>2 C4@6>2 G2@7>2 A3@8>1
-  Part2: A2@1>1 E2@2>1 A1@4>1 A2@6>1 G2@7>1
-  Part3: E4+G4@1>1 E4+G4@2>2 D4+F4@4>1 C4@6>1 D4@7>1 C4+F4@8>1
-  Part4: A2+E3+A3@1>7 E3@2>4 A3@3>2 C4@4>4 A3@6>2 E3@7>2 A3@8>1
-  Part5: C5@1>4 C5@5>2 B4@7>2
-@59 [F]
-  Part1: F2+F3+A3+C4@1>3 F3@3>2 A3@4>2 F2@5>2 F3+C4@6>1 F2@7>2
-  Part2: F2@1>2 C2@4>1 F2@5>2 G2@8>1
-  Part3: C4@1>2
-  Part4: F2@1>4 F3@2>4 A3@3>2 C4@4>3 F2@5>2 A3@6>1 F3@7>1 F2@8>1
-  Part5: A4@1>8
-@60 [G#] (grid:12t)
-  Part1: G#3+C4+Eb4+G#4@1>11
-  Part2: G#2@1>10
-  Part3: C5@2>1 G#4@4>1 F4@7>1 C4@10>2
-  Part4: Eb3+G#3+C4@1>10
-  Part5: G#4@1>11
-@61 [C]
-  Part1: G3+C4+E4@1>4 G3@4>2 C3@5>2 C4@6>1 G3@7>1 A3+C#4+E4@8>1
-  Part2: C2@1>4 G1@6>1 G#1@8>1
-  Part3: E4+G4@1>5
-  Part4: E4@1>2 C3@2>2 G3@3>2 C4@4>2 C3@5>3 G3@6>2 C#4@8>1
-  Part5: G4+E5@5>4
-@62 [A]
-  Part1: A2+A3+C#4+E4@1>3 A3@2>2 C#4@3>1 A3+C#4+E4@4>1 A2@5>4 A3+C#4+E4@6>2 A3@8>1
-  Part2: A1@1>2 E2@3>1 A2@5>1 E2@6>1 A1@7>1
-  Part3: E4@2>1 E4@3>1 E4@4>2 F4@6>1 G4@7>2
-  Part4: A2+C#4@1>4 A3@2>4 C#4@3>3 E4@4>2 A2@5>4 A3@6>2 C#4@7>2 A3@8>1
-  Part5: A4+E5@1>8
-@63 [Dm]
-  Part1: D3+A3+D4+F4@1>3 A3@3>2 D4@4>1 D3@5>1 A3+D4+F4@6>2 A3@7>1 D3@8>1
-  Part2: D2@1>2 A2@4>1 D2@6>1 G1@8>1
-  Part3: D4+F4@1>3 C4+E4@4>2 D4+F4@6>1 C4+E4@7>2
-  Part4: D3+A3@1>4 A3@2>2 D4@3>3 A3@4>3 D3@5>3 F4@6>2 A3@7>2 D4@8>1
-  Part5: D5@1>3 C5@4>2 D5@6>1 C5@7>2
-@64 [G7]
-  Part1: G2+F3+B3@1>6 D3@3>1 A4+F5@4>1 G4+E5@6>1 F4+D5@7>2
-  Part2: D2@2>1 G2@4>1 A1@6>1 B1@7>1
-  Part3: B3+D4@1>6
-  Part4: G2@1>3 F3@2>3 B3@3>2 D4@4>2 G2@5>3 F3@6>2 B3@7>1 F3@8>1
-  Part5: B4@1>2 E5+F5+A5@4>2 E5+G5@6>1 D5+F5@7>2
-@65 [C]
-  Part1: C3+E4+C5@1>3 E4@3>1 C3@4>4 E4+C5@5>1 E4+C5@6>1 E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>2 G1@8>1
-  Part4: C3@1>4 G3@2>1 C4@3>3 G3@4>2 C3@5>3 E4@6>3 G3@7>2 C4@8>1
-  Part5: E5@1>3 C5@4>5
-  Part6: E5@1>3 C5@4>5
-@66 [C]
-  Part1: C3+E4+C5@1>7 E4@2>2 E4+C5@4>2 D4+B4@6>1 C4+A4@7>1 C4+F4@8>1
-  Part2: C2@1>1 E1@2>1 G1@4>1 A1@6>1 C2@7>1
-  Part4: C3+G3+C4+E4@1>3 G3@2>3 C4@3>3 E4@4>5 C3@5>4 G3@6>2 C4@7>2 G3@8>1
-  Part5: C5@1>3 G4@4>1 C5@5>1 E5@6>3
-  Part6: C5@1>3 G4@4>1 C5@5>1 E5@6>3
-@67 [Dm]
-  Part1: D3+C4+F4@1>8 D4+F4+A4@3>1 C4@5>1 D4+F4+A4@6>1 C4@8>1
-  Part2: D2@1>2 D2@4>1 A1@5>2 A1@8>1
-  Part4: D3@1>3 A3@2>4 D4@3>4 F4@4>3 D3@5>4 A3@6>3 D4@7>1 D4+F4@8>1
-  Part5: F5@1>3 D5@4>5
-  Part6: F5@1>3 D5@4>5
-@68 [Dm]
-  Part1: D3+D4+F4+A4@1>7 C4@3>1 D4+F4+A4@4>2 C4@6>1 D4+F4+A4@7>1
-  Part2: D2@1>1 A2@2>1 D3@4>1 A2@6>1 D2@7>1
-  Part4: D3+A3+F4@1>3 F4@2>5 D4@3>2 D3@5>4 A3@6>1 D4@7>1 A3@8>1
-  Part5: D5@1>1
-  Part6: D5@1>1 A4@2>1 D5@3>1 E5@4>1 F5@5>1 E5@6>1 D5@7>2
-@69 [G7]
-  Part1: G3+B3+G4@1>8 B3@3>1 D4+B4@4>2 E4+C5@6>2 F4+D5@8>1
-  Part2: G2@1>2 G2@4>1 D2@5>2 D2@8>1
-  Part4: G2@1>4 F3@2>2 B3@3>5 F3@4>2 G2@5>3 F3@6>3 D4@8>1
-  Part5: F5@1>3 D5@4>5
-  Part6: F5@1>3 D5@4>5
-@70 [G7]
-  Part1: G3+F4+D5@1>3 B4@2>1 G3@3>2 A4@4>1 G4@5>2 G3@6>2 G3@8>1
-  Part2: G1@1>1 D2@2>1 G2@4>1 F#2@6>1 F2@7>1
-  Part4: G2+F3+B3+D4@1>3 F3@2>1 B3@3>6 F3@4>2 G2@5>2 F3@6>2 F2@7>2 F3@8>1
-  Part5: D5@1>3 G4@4>1 B4@5>1 D5@6>3
-  Part6: D5@1>3 G4@4>1 B4@5>1 D5@6>3
-@71 [E7] (grid:16)
-  Part1: E3+D4+G#4@1>7 D4@5>2 D4+G#4+B4@7>7 E3@9>7 D4@11>3 G#4@13>1 E4+A4+C5@15>2
-  Part2: E2@1>2 D2@4>1 B1@5>1 E1@7>3 G#1@11>3 A1@15>2
-  Part4: E2@1>7 E3@3>7 G#3@5>2 B3@7>7 G#2@9>7 E3@11>6 D4@13>2 C4@15>2
-  Part5: E5@1>2 F5@3>2 E5@5>2 D5@7>4 E5@11>2 D5@13>2 C5@15>2
-  Part6: E5@1>2 F5@3>2 E5@5>2 D5@7>4 E5@11>2 D5@13>2 C5@15>2
-@72 [Am | G]
-  Part1: A3+E4+A4+C5@1>3 E4@2>1 A4@3>1 E4+A4+C5@4>1 A3@5>1 D4+G4+B4@6>2 G3@7>2 D4@8>1
-  Part2: A1@1>1 E2@2>2 A2@4>2 G2@6>2
-  Part4: A2+E3+C4@1>3 E3@2>5 A3@3>3 C4@4>2 A2@5>2 B3@6>3 G2@7>2
-  Part5: C5@1>3 C5@4>1 C5@5>1 B4@6>3
-  Part6: C5@1>3 C5@4>1 C5@5>1 B4@6>3
-@73 [F]
-  Part1: F3+C4+F4+A4@1>4 C4@3>2 F4+A4@4>2 F3@5>4 F4+A4+C5@6>2 G4+B4+D5@8>1
-  Part2: F1@1>2 F1@4>1 A1@5>1 C2@6>1 D2@7>1 G1@8>1
-  Part4: F2@1>3 C3@2>1 F3@3>1 C4@4>3 F2@5>4 A3@6>1 F3@7>1 A3@8>1
-  Part5: A4@1>4 A5@5>4
-  Part6: A4@1>4 A5@5>4
-@74 [G | Em7]
-  Part1: G3+G4+B4+D5@1>6 G4@2>1 B4@3>1 D4+G4+B4@4>2 C4+A4@6>1 B3+G4@7>1 C4+A4@8>1
-  Part2: G1@1>2 G1@4>4 G1@8>1
-  Part4: G2@1>3 G3@2>1 B3@3>1 G3@4>2 G2@5>4 D4@6>3 B3@7>2 G3@8>1
-  Part5: G5@1>5 E5@6>1 G5@7>1 E5@8>1
-  Part6: G5@1>5 E5@6>1 G5@7>1 E5@8>1
-@75 [Am]
-  Part1: C4+A4@1>4 E4@3>2 C4@4>1 A2@5>3 B3+D4+G4@6>1 B3+D4+G4@8>1
-  Part2: A1@1>2 A1@4>1 A1@5>2 C2@8>1
-  Part4: A2@1>4 E3@2>3 A3@3>2 C4@4>2 A2@5>4 B3@6>1 B3@8>1
-  Part5: C5@1>8
-  Part6: C5@1>8
-@76 [Am7]
-  Part1: A2+B3+D4+G4@1>4 A3+C4+E4@2>1 A3+C4+E4@4>4 A2@5>1 G2@6>2 A3@7>1 C4@8>1
-  Part2: C2@1>1 B1@2>2 A1@4>2 A1@6>1 G1@7>2
-  Part4: A2+B3@1>3 C4@2>1 E3@3>4 A3@4>5 A2@5>2 G2@7>2 E3@8>1
-  Part5: C5@1>4 E5@5>2 D5@7>2
-  Part6: C5@1>4 E5@5>2 D5@7>2
-@77 [F]
-  Part1: F2@1>8 A3@2>3 C4@3>4 F4@4>5 C3@5>3 A3@6>2 C4@7>1 A3@8>1
-  Part2: F1@1>2 F1@4>1 A1@5>1 C2@6>1 C2@7>1 C2@8>1
-  Part4: F2+A3@1>4 F3@2>4 A3@3>2 C4@4>2 F2@5>4 A3@6>2 F3@7>1 F4@8>1
-  Part5: C5@1>7 F5@8>1
-  Part6: C5@1>7 F5@8>1
-@78 [F]
-  Part1: F3@1>8 A4+F5@2>1 G4+E5@3>1 F4+D5@4>1 E4+C5@6>3 E4@8>1
-  Part2: C2@1>1 C2@2>1 D2@3>2 C2@5>2 A1@7>2
-  Part4: F2+F4@1>3 C4@2>2 A3@3>2 F3@4>3 F2@5>4 C4@6>3 A3@7>2 F3@8>1
-  Part5: F5@1>1 E5@2>2 C5@4>2 A4@6>3
-  Part6: F5@1>1 E5@2>2 C5@4>2 A4@6>3
-@79 [G]
-  Part1: G3+D4+B4@1>6 G4@3>1 D4+G4@4>3 G3@5>4 G4@6>1 D4@7>1 C4+F4+A4@8>1
-  Part2: G1@1>2 G1@4>1 G1@5>2 D2@8>1
-  Part4: G2+F3@1>4 G3@2>2 B3@3>3 G3@4>3 G2@5>3 D4@6>2 G3@7>2 B3@8>1
-  Part5: G4@1>8
-  Part6: G4@1>8
-@80 [F7]
-  Part1: G3+C4+F4+A4@1>7 C4@2>3 F4@3>2 G3@4>2 C4@5>2 F4@6>2 G3@7>1 C4@8>1
-  Part2: G2@1>1 G1@2>1 G1@4>2 A1@6>1 C2@7>1 A1@8>1
-  Part4: G2@1>4 F3@2>2 C4@3>3 A3@4>2 G2@5>3 F3@6>2 A3@7>2 F3@8>1
-  Part5: F5@1>3 E5@4>3 D5@7>2
-  Part6: F5@1>3 E5@4>3 D5@7>2
-@81 [C]
-  Part1: C3+C4+E4+G4@1>3 C4@3>1 E4@4>1 C3@5>4 E4+F4+C5@6>1 E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 C2@5>2 C2@8>1
-  Part4: C3+F3@1>3 E3@2>1 C4@3>3 E3@4>2 C3@5>4 G3@6>1 E3@7>2 C4@8>1
-  Part5: C5@1>8
-  Part6: C5@1>8
-@82 [C]
-  Part1: C3+E4+C5@1>5 E4@2>2 E4+C5@4>4 G3@6>2 E4@7>1 A3@8>1
-  Part2: C2@1>2 C2@4>1 D2@5>1 E2@6>2
-  Part3: E4+G4@3>1 D4+F4@4>2 C4+E4@6>2
-  Part4: C3+E3+C4@1>3 E3@2>3 G3@3>3 C4@4>2 C3@5>4 E3@6>2 G3@7>2 E3@8>1
-  Part5: C5@1>6
-  Part6: C5@1>6
-@83 [F]
-  Part1: F3+F4+A4+C5@1>4 F4@3>1 F4+A4+C5@4>3 F3@5>3 D5@6>1 F4+A4+C5@8>1
-  Part2: F2@1>3 C2@4>1 F2@5>2 C2@8>1
-  Part3: C4+F4@3>1 C4+F4@4>2 D4+G4@6>2 C4+F4@8>1
-  Part4: F3@1>4 A3@2>1 C4@3>3 A3@4>2 F3@5>3 F4@6>3 A3@7>2 C4@8>1
-@84 [F]
-  Part1: F3+F4+A4+C5@1>4 C4+F4+A4@2>4 C4@4>2 F3@5>3 C4@6>2 F4@7>1 A4@8>1
-  Part2: F2@1>1 A1@2>1 Bb1@4>1 B1@6>1 B1@8>1
-  Part3: C4+F4@1>1 A3+C4@2>1 A3+C4@6>1 C4+E4@7>1
-  Part4: F3+A3+C4+F4@1>3 A3@3>3 F4@4>4 F3@5>3 C4@6>1 A3@7>2 C4@8>1
-@85 [C]
-  Part1: C4+E4+G4+C5@1>1 C4+E4+G4+C5@4>5
-  Part2: C2@1>2 C2@4>1 G1@5>2 G1@8>1
-  Part3: E4+G4@1>2 C4+E4@4>2 D4+F4@6>2 C4+E4@8>1
-  Part4: C3+C4@1>7 E3@2>6 G3@3>4 E4@4>4 C4@6>2 G3@7>2 C4@8>1
-@86 [C]
-  Part1: C4+E4+G4+C5@1>2 C4@2>6 E4@3>5 G4@4>4 C5@6>2
-  Part2: C2@1>1 G2@2>1 C2@4>1 D2@5>1 E2@7>1
-  Part3: C4+E4@1>1 E4+G4@3>1 D4+F4@4>2 C4+E4@6>2
-  Part4: C3+G3+C4@1>6 E3@2>6 G3@3>3 E4@4>4 C4@6>2 G3@7>1 C4@8>1
-@87 [F]
-  Part1: F3+C4+F4+A4@1>8 C4@3>1 C4+F4@4>2 D4+A4@6>1 C4+A4@8>1
-  Part2: F2@1>2 F2@4>1 C2@5>2 C2@8>1
-  Part3: C4+F4@1>2 D4+F4@3>2 A3@4>2
-  Part4: F3@1>7 A3@2>4 C4@3>3 F4@4>2 C4@6>1 A3@7>2 C4@8>1
-@88 [F]
-  Part1: F3+C4+A4@1>5 F4@2>2 C4@3>2 F4@4>2 F3@5>2 C4@6>1 F4@7>1 F3@8>1
-  Part2: F2@1>1 C2@2>1 D2@4>1 D2@6>1 F2@7>1
-  Part3: A3@6>1 C4@7>1
-  Part4: F3+C4@1>7 C4@2>1 A3@3>3 F4@4>3 C4@6>1 A3@7>1 C4@8>1
-@89 [C]
-  Part1: C3+G4+E5@1>7 G4@3>1 E4+C5@4>1 F4+D5@6>1 E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>1 A1@6>1 C2@7>1 C2@8>1
-  Part3: E4+G4@1>2 C4+E4@4>1 D4+F4@6>2 C4+E4@8>1
-  Part4: C3@1>7 E3@2>6 G3@3>4 E4@4>5 C4@6>2 G3@7>2 C4@8>1
-@90 [C | Em7]
-  Part1: C3+E4+C5@1>4 E4@2>1 C4+E4+G4@4>1 C3@5>1 B3@6>1 B2@7>1 A3+C4@8>1
-  Part2: C2@1>1 G2@2>1 C3@4>1 B2@6>1 B2@8>1
-  Part3: C4+E4@1>2 E4@3>1 D4@4>1 C4@6>1 D4@7>1 C4@8>1
-  Part4: C3+G3+C4+E4@1>4 E3@2>2 G3@3>3 E4@4>5 C3@5>1 G3@6>1 B2@7>1 G3@8>1
-  Part5: E5@5>2 D5@7>2
-@91 [Am]
-  Part1: A2+A3+C4@1>4 A3@2>1 C4@3>1 A3+C4+E4@4>3 E3@5>2 A3@6>1 E3@7>1 G3+B3+D4@8>1
-  Part2: A2@1>2 E2@4>1 A2@5>2 E2@8>1
-  Part3: C4@1>2
-  Part4: A2@1>7 E3@2>4 A3@3>3 C4@4>4 E3@6>2 A3@7>2 E3@8>1
-  Part5: C5@1>8
-@92 [Am]
-  Part1: A2@1>3 A3+C4+E4@2>6 A3@4>3 A2@5>2 C4@6>2 G2@7>2 A3@8>1
-  Part2: A1@1>1 E2@2>1 A2@4>1 G2@6>1 G2@8>1
-  Part3: E4+G4@1>1 E4+G4@2>2 D4+F4@4>1 C4@6>1 D4@7>1 C4+F4@8>1
-  Part4: A2+E3+A3@1>7 E3@2>4 A3@3>2 C4@4>4 A3@6>2 E3@7>2 A3@8>1
-  Part5: C5@1>4 C5@5>2 B4@7>2
-@93 [F]
-  Part1: F2+F3+A3+C4@1>3 F3@3>2 A3@4>2 F2@5>2 F3+C4@6>1 F2@7>2
-  Part2: F2@1>2 C2@4>1 F2@5>2 G2@8>1
-  Part3: C4@1>2
-  Part4: F2@1>4 F3@2>4 A3@3>2 C4@4>3 F2@5>2 A3@6>1 F3@7>1 F2@8>1
-  Part5: A4@1>8
-@94 [G#] (grid:12t)
-  Part1: G#3+C4+Eb4+G#4@1>11
-  Part2: G#2@1>10
-  Part3: C5@2>1 G#4@4>1 F4@7>1 C4@10>2
-  Part4: Eb3+G#3+C4@1>10
-  Part5: G#4@1>11
-@95 [C]
-  Part1: G3+C4+E4@1>4 G3@4>2 C3@5>2 C4@6>1 G3@7>1 A3+C#4+E4@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>4
-  Part3: E4+G4@1>5
-  Part4: E4@1>2 C3@2>2 G3@3>2 C4@4>2 C3@5>3 G3@6>2 C#4@8>1
-  Part5: G4+E5@5>4
-@96 [A]
-  Part1: A2+A3+C#4+E4@1>3 A3@2>2 C#4@3>1 A3+C#4+E4@4>1 A2@5>4 A3+C#4+E4@6>2 A3@8>1
-  Part2: A1@1>2 A1@4>1 E2@5>2 A1@7>2
-  Part3: E4@2>1 E4@3>1 E4@4>2 F4@6>1 G4@7>2
-  Part4: A2+C#4@1>4 A3@2>4 C#4@3>3 E4@4>2 A2@5>4 A3@6>2 C#4@7>2 A3@8>1
-  Part5: A4+E5@1>8
-@97 [Dm]
-  Part1: D3+A3+D4+F4@1>3 A3@3>2 D4@4>1 D3@5>1 A3+D4+F4@6>2 A3@7>1 D3@8>1
-  Part2: D2@1>2 D2@4>1 A2@5>2 D2@7>2
-  Part3: D4+F4@1>3 C4+E4@4>2 D4+F4@6>1 C4+E4@7>2
-  Part4: D3+A3@1>4 A3@2>2 D4@3>3 A3@4>3 D3@5>3 F4@6>2 A3@7>2 D4@8>1
-  Part5: D5@1>3 C5@4>2 D5@6>1 C5@7>2
-@98 [G7]
-  Part1: G2+F3+B3@1>6 D3@3>1 A4+F5@4>1 G4+E5@6>1 F4+D5@7>2
-  Part2: G1@1>2 G1@4>1 D2@5>2 G1@7>2
-  Part3: B3+D4@1>6
-  Part4: G2@1>3 F3@2>3 B3@3>2 D4@4>2 G2@5>3 F3@6>2 B3@7>1 F3@8>1
-  Part5: B4@1>2 E5+F5+A5@4>2 E5+G5@6>1 D5+F5@7>2
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+C4+F4@1>15^80 F3+Bb3+C4+F4@17>15^56 F3+Bb3+C4+F4@33>7^80 F3+Bb3+C4+F4@41>7^56 F3+Bb3+C4+F4@49>15^80
+  Fretless Bass          : G1@1>23^104 F1@25>7^104 G1@33>7^104 F1@41>7^80 G1@49>14^104
+  Rock Organ             : C5@1>62^56
+  Alto Sax               : Bb3@10>18^80 C4@41>6^104 D4@49>6^104 Eb4@57>22^104
+  Celesta                : A5@17>4^80 F5@33>4^80 D5@41>4^80 Bb4@57>4^80
+@50 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+F4@1>15^80 Eb3+Bb3+Eb4+F4@17>15^80 Eb3+Bb3+Eb4+F4@33>7^80 Eb3+Bb3+Eb4+F4@41>7^56 Eb3+Bb3+Eb4+F4@49>15^80
+  Fretless Bass          : Eb1@1>19^104 Eb1@25>3^104 Eb1@33>3^104 Eb1@41>14^104 F1@57>8^80
+  Rock Organ             : Bb4+Eb5@1>59^56
+  Alto Sax               : D4@17>5^80 Eb4@25>15^104 F4@40>10^104 F4@57>14^104
+@51 [Bb | D]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>16^80 D3+A3+D4+Gb4@33>7^80 D3+A3+D4+Gb4@41>7^56 D3+A3+D4+Gb4@49>15^80
+  Fretless Bass          : Bb1@1>8^104 F1@9>8^104 Bb1@17>15^80 A1@33>16^80 Gb1@49>14^80
+  Rock Organ             : Bb4+F5@1>29^56 D5+Gb5@33>92^56
+  Alto Sax               : Eb4@8>8^104 D4@16>8^104 C4@25>14^104 Bb3@41>7^104 A3@48>8^104 Bb3@57>16^104
+  String Ensemble 2      : Gb5@38>27^56
+@52 [Gm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): G3+Bb3+D4+G4@1>15^80 G3+Bb3+D4+G4@17>15^80 G3+Bb3+D4+G4@33>7^80 G3+Bb3+D4+G4@41>7^56 G3+Bb3+D4+G4@49>15^80
+  Fretless Bass          : G1@1>19^80 G1@33>3^80 G1@41>22^104
+  Rock Organ             : G5@1>129^56
+  Alto Sax               : G4@32>8^104 A4@40>8^104 Bb4@48>8^80 A4@57>17^104
+  String Ensemble 2      : G5@1>64^80
+@53 [C]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): G3+C4+E4+G4@1>15^80 G3+C4+E4+G4@17>15^56 G3+C4+E4+G4@33>7^80 G3+C4+E4+G4@41>7^56 G3+C4+E4+G4@49>15^80
+  Fretless Bass          : E1@1>19^104 E1@25>3^80 E1@33>4^80 E1@41>3^80 E1@49>4^104 E1@57>8^104
+  Rock Organ             : E5@1>63^56
+  Alto Sax               : G4@10>9^80 G4@25>16^104 F4@41>12^104 F4@57>56^104
+  String Ensemble 2      : C5@2>62^56 F5@64>126^56
+@54 [F | Adim]
+  Distortion Guitar      : F3@1>25^80 Eb3@25>39^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Bb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 B1+Bb2@57>1^80
+  Acoustic Guitar (steel): F3+A3+C4+F4@1>15^80 F3+A3+C4+F4@17>7^80 F3+A3+C4+F4@25>15^80 F3+A3+C4+F4@41>7^56 F3+A3+C4+F4@49>15^80
+  Fretless Bass          : F1@1>8^80 C2@9>8^80 F2@17>8^80 Eb2@25>27^80 Eb2@57>7^80
+  Rock Organ             : C5+F5@1>62^56 Eb5@25>36^56 Db5@64>3^56
+  Electric Guitar (clean): A3@9>7^80 C4@17>8^80 A3@25>5^56 A3@42>6^80 C4@49>8^80 A3@57>5^56
+@55 [F]
+  Distortion Guitar      : D3@1>23^56 C3@25>34^56
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 B1+Bb2@25>1^104 Gb2@33>1^80 B1+Gb2@41>1^104 E2@49>1^104 E2@53>1^104 A2@57>1^80
+  Acoustic Guitar (steel): F3+A3+C4+F4@1>15^80 F3+A3+C4+F4@17>7^80 F3+A3+C4+F4@25>15^80 F3+A3+C4+F4@41>7^56 F3+A3+C4+F4@49>15^80
+  Fretless Bass          : D2@1>23^80 C2@25>12^80 C2@41>7^80 G2@49>8^80 C2@57>7^80
+  Rock Organ             : D5@2>23^80 C5@25>37^80
+  Alto Sax               : Bb4@57>22^104
+  Electric Guitar (clean): A3@9>6^80 C4@17>8^56 A3@25>5^56
+  String Ensemble 2      : F5@64>223^56
+@56 [Bb]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>15^80 F3+Bb3+D4+F4@33>7^80 F3+Bb3+D4+F4@41>7^56 F3+Bb3+D4+F4@49>15^80
+  Fretless Bass          : Bb1@1>19^80 Bb1@33>4^80 Bb1@41>10^80 Bb1@57>7^80
+  Rock Organ             : Bb4+F5@1>125^56
+  Alto Sax               : A4@16>12^104 F4@32>4^80 D4@41>9^104 C4@57>15^104
+  Celesta                : Bb5@57>4^104
+@57 [F]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+C4+F4@1>15^80 F3+Bb3+C4+F4@17>15^56 F3+Bb3+C4+F4@33>7^56 F3+Bb3+C4+F4@41>7^56 F3+Bb3+C4+F4@49>15^80
+  Fretless Bass          : G1@1>23^80 G1@33>8^80 F1@41>8^80 C2@49>12^80
+  Rock Organ             : C5@1>62^56
+  Alto Sax               : Bb3@8>10^80 C4@41>6^104 D4@49>6^104 Eb4@57>22^104
+  Celesta                : A5@17>4^80 F5@33>4^80 D5@41>4^104 Bb4@57>4^104
+@58 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+F4@1>15^80 Eb3+Bb3+Eb4+F4@17>15^80 Eb3+Bb3+Eb4+F4@33>7^80 Eb3+Bb3+Eb4+F4@41>7^56 Eb3+Bb3+Eb4+F4@49>15^80
+  Fretless Bass          : Eb1@1>19^104 Eb1@33>3^80 Eb1@41>11^80 Eb1@57>8^80
+  Rock Organ             : Bb4+Eb5@1>59^56
+  Alto Sax               : D4@17>4^80 Eb4@25>13^104 F4@41>10^104 F4@57>13^104
+@59 [Bb | D]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 B1+G3@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>16^80 D3+A3+D4+Gb4@33>7^80 D3+A3+D4+Gb4@41>7^56 D3+A3+D4+Gb4@49>15^80
+  Fretless Bass          : F1@1>8^104 Eb2@9>8^80 F2@17>15^80 Gb2@33>12^80 Gb1@49>14^80
+  Rock Organ             : Bb4+F5@1>29^56 D5+Gb5@33>92^56
+  Alto Sax               : Eb4@9>6^104 D4@17>7^104 Bb3@25>12^104 C4@40>8^80 Bb4@57>23^104
+  String Ensemble 2      : Gb5@31>38^56 G5@64>65^56
+@60 [Gm]
+  Drums                  : B1+G3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): G3+Bb3+D4+G4@1>15^80 G3+Bb3+D4+G4@17>15^80 G3+Bb3+D4+G4@33>7^80 G3+Bb3+D4+G4@41>7^80 G3+Bb3+D4+G4@49>15^80
+  Fretless Bass          : G1@1>16^104 G1@33>4^80 G1@41>11^104 D1@57>6^104
+  Rock Organ             : G5@1>64^56
+  Alto Sax               : A4@17>15^104 F4@32>7^80 G4@41>10^104 G4@57>10^104
+  String Ensemble 2      : A5@64>64^56
+@61 [Dm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): A3+D4+F4+A4@1>15^80 A3+D4+F4+A4@17>15^56 A3+D4+F4+A4@33>7^56 A3+D4+F4+A4@41>7^56 A3+D4+F4+A4@49>15^80
+  Fretless Bass          : F1@1>16^104 F1@25>3^104 F1@33>8^104 Bb1@41>8^80 C2@49>8^80 F2@57>8^104
+  Rock Organ             : D5+F5@1>62^80
+  Alto Sax               : A4@3>3^80 G4@6>4^80 F4@10>14^80 Eb4@40>8^104 D4@49>7^80 Eb4@57>22^104
+@62 [Eb]
+  Distortion Guitar      : Eb3@1>18^80 Eb3@25>2^56 Eb3@33>8^80 D3@41>7^80 Db3@49>8^80 C3@57>13^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+G4+Bb4@1>15^80 Bb3+Eb4+G4+Bb4@17>15^80 Bb3+Eb4+G4+Bb4@33>7^80 Bb3+Eb4+G4+Bb4@41>7^80 Bb3+Eb4+G4+Bb4@49>15^80
+  Fretless Bass          : Db1@1>18^80 Bb1@25>8^80 Eb2@33>8^104 D2@41>8^80 Db2@49>8^80 C2@57>16^104
+  Rock Organ             : Eb5+G5@1>128^56 E5@57>71^56
+  Alto Sax               : D4@16>7^80 Eb4@24>13^104 F4@41>13^104 G4@57>30^104
+  String Ensemble 2      : Bb5@1>64^56
+@63 [C]
+  Distortion Guitar      : G3+C4@9>4^80 G3+C4@17>4^56 G3+C4@25>4^80 G3+C4@33>5^80 G3+C4@41>5^80 G3+C4@49>4^80 G3+C4@57>5^104
+  Drums                  : B1+Gb2@1>1^104 B1+Gb2@9>1^104 E2+Gb2@17>1^80 B1+Bb2@25>1^104 E2+Bb2@33>1^104 B1+Bb2@41>1^104 E2+Bb2@49>1^104
+  Acoustic Guitar (steel): G3+C4+E4+G4@1>15^80 G3+C4+E4+G4@17>7^80 G3+C4+E4+G4@25>7^80 G3+C4+E4+G4@33>7^80 G3+C4+E4+G4@41>7^80 G3+C4+E4+G4@49>7^80 G3+C4+E4+G4@57>7^80
+  Fretless Bass          : Bb2@9>8^80 D3@17>16^80 C3@33>8^80 Bb2@41>8^80 G2@49>16^104
+  Rock Organ             : C6@9>56^56
+  Alto Sax               : Bb4@33>6^104 C5@41>5^104 Bb4@49>8^104 D5@57>24^104
+  String Ensemble 2      : C6@1>63^80
+@64 [Bb]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>16^80 F3+Bb3+D4+F4@17>8^80 F3+Bb3+D4+F4@25>15^80 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>16^80
+  Fretless Bass          : F1@1>19^104 F1@25>5^80 F1@41>2^104 F1@57>2^80
+  Rock Organ             : D5+Bb5@1>128^80 Eb5@64>64^56
+  Alto Sax               : C5@17>8^104 Bb4@25>9^104 D5@49>3^104 D5@57>5^104 Eb5@64>6^104
+  Choir Aahs             : D4+F4+Bb4@1>124^80 Eb4+G4@64>60^80
+  Acoustic Grand Piano#2 : D4+F4+Bb4@1>128^32
+@65 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>8^80 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>8^56 Eb3+Bb3+Eb4+G4@49>16^80
+  Fretless Bass          : F1@1>21^104 F1@25>4^104 F1@41>2^104
+  Alto Sax               : D5@9>11^104 C5@25>13^104 Bb4@41>4^104 C5@48>5^104 D5@56>23^104
+  Acoustic Grand Piano#2 : Eb4+G4@1>64^32
+@66 [Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>16^80 F3+Bb3+D4+F4@17>8^56 F3+Bb3+D4+F4@25>15^56 F3+Bb3+D4+F4@41>8^56 F3+Bb3+D4+F4@49>16^80
+  Fretless Bass          : F1@1>16^104 F2@17>8^80 F1@25>3^104 F1@41>3^80 D1@57>7^104
+  Rock Organ             : D5+Bb5@1>64^56 Eb5@64>64^56
+  Alto Sax               : C5@16>8^80 Bb4@24>9^104 D5@49>4^104 D5@57>5^104 Eb5@64>6^104
+  Choir Aahs             : D4+F4+Bb4@1>124^80 Eb4+G4@64>60^80
+  Acoustic Grand Piano#2 : D4+F4+Bb4@1>128^32
+@67 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>8^80 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>8^56 Eb3+Bb3+Eb4+G4@49>16^56
+  Fretless Bass          : F1@1>5^80 F1@9>8^104 F2@17>8^80 F1@25>9^104 F1@41>3^104 F1@57>2^80
+  Alto Sax               : D5@8>16^104 C5@25>13^104 Bb4@41>5^80 C5@49>5^104 D5@57>24^104
+  Acoustic Grand Piano#2 : Eb4+G4@1>64^32
+@68 [Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>16^80 F3+Bb3+D4+F4@17>8^80 F3+Bb3+D4+F4@25>15^56 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>16^80
+  Fretless Bass          : F1@1>15^104 F2@17>8^80 F1@25>10^104 F1@41>5^104 F1@57>3^104
+  Rock Organ             : D5+Bb5@1>64^80 Eb5@64>64^56
+  Alto Sax               : C5@17>8^104 Bb4@25>9^104 D5@49>4^104 D5@57>5^104
+  Choir Aahs             : D4+F4+Bb4@1>124^80 Eb4+G4@64>60^80
+  Acoustic Grand Piano#2 : D4+F4+Bb4@1>128^32
+@69 [Eb]
+  Distortion Guitar      : F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Bb2@33>1^104 B1+B2@41>1^104 E2@49>1^104 E2@53>1^104 G2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>8^56 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>8^56 Eb3+Bb3+Eb4+G4@49>16^56
+  Fretless Bass          : F1@1>8^104 G2@9>14^104 F2@25>15^80 D2@41>22^80
+  Alto Sax               : Eb5@1>6^104 D5@10>14^104 C5@25>13^80 Bb4@41>14^80 C5@57>14^104
+  Acoustic Grand Piano#2 : Eb4+G4@1>64^32
+@70 [Bb]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^104 F3+Bb3+D4+F4@17>24^104 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^80 F2@57>8^80
+  Fretless Bass          : Bb1@1>27^80 Bb1@33>3^80 Bb1@41>14^104 F1@57>7^80
+  Rock Organ             : D5+F5+Bb5@1>128^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@1>14^104 Bb4+F5+A5@17>12^104 Bb4+F5@33>5^104 Bb4+D5+Bb5@41>11^104 F5@56>2^80 Bb4+Bb5@57>20^80 G5@58>22^104
+  Alto Sax               : D5@7>4^80 C5@11>2^80 Bb4@13>51^80
+@71 [F | Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^80 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>24^104 F1@25>6^80 G1@33>8^104 F1@41>7^80 G1@49>12^80
+  Rock Organ             : C5@1>64^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@17>15^80 Bb4+D5+Bb5@33>7^80 Bb4+Bb5@41>10^104 Bb4@57>4^104 C5@61>4^80
+@72 [Db]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Ab2@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^104 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>23^104 Ab1@25>6^80 Db2@33>3^80 Db2@41>11^104 Ab1@56>6^80
+  Rock Organ             : Db5+Eb5+Ab5@1>128^56
+  Acoustic Grand Piano   : Bb4+Db5+Bb5@1>13^104 C5+Bb5@17>7^80 Bb4+Db5+Bb5@25>18^104 Eb5@48>4^104 Bb4+Bb5@49>7^56 F5@51>4^104 Bb4+Eb5+Bb5@57>26^104
+@73 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 G4@25>7^56 Eb4+G4@33>20^56 F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 B1+Bb2@57>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 F3+Bb3+D4+F4@57>4^80 F3+Bb3+D4+F4@61>4^80
+  Fretless Bass          : Eb2@1>16^80 Eb2@25>9^104 Eb2@41>8^104 Db2@49>10^104
+  Rock Organ             : Bb4@1>64^56 G5@33>32^56
+  Alto Sax               : Eb4@9>9^104 Eb4@22>9^80 Db4@33>9^80 C4@43>8^104 C4@56>8^104
+@74 [Bb]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+G3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^104 F3+Bb3+D4+F4@17>24^104 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^80 F2@57>8^80
+  Fretless Bass          : Bb1@1>26^80 Bb1@33>3^80 Bb1@41>14^80 F1@57>7^80
+  Rock Organ             : D5+F5+Bb5@1>128^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@1>14^104 Bb4+F5+A5@17>12^104 Bb4+F5@33>5^104 Bb4+D5+Bb5@41>11^104 F5@56>2^80 Bb4+Bb5@57>20^104 G5@58>22^104
+  Alto Sax               : Bb3@1>8^80 Bb3@13>13^104
+@75 [F | Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^104 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>24^80 F1@25>6^80 G1@33>8^104 F1@41>7^80 G1@49>12^80
+  Rock Organ             : C5@1>64^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@17>15^80 Bb4+D5+Bb5@33>7^80 Bb4+Bb5@41>10^80 Bb4@57>4^104 C5@61>4^104
+@76 [Db]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Ab2@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^104 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>22^80 Ab1@25>4^80 Db2@33>4^80 Db2@41>13^104 Db2@57>6^80
+  Rock Organ             : Db5+Eb5+Ab5@1>128^56
+  Acoustic Grand Piano   : Bb4+Db5+Bb5@1>13^104 C5+Bb5@17>7^80 Bb4+Db5+Bb5@25>18^104 Eb5@48>4^104 Bb4+Bb5@49>7^56 F5@51>4^104 Bb4+Eb5+Bb5@57>26^104
+@77 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 Bb4@25>7^56 Eb4+Bb4@33>20^56
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 E2+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56 Gb2@61>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 Bb3+Eb4+G4+Bb4@57>8^80
+  Fretless Bass          : Eb2@1>16^80 Eb2@25>9^104 Eb2@41>8^104 Db2@49>10^104
+  Rock Organ             : Bb4@1>64^56 G5@33>32^56
+  Alto Sax               : C4@33>8^104 Db4@41>6^104 Eb4@49>5^104 Eb4@57>14^104
+@78 [Ab]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>15^80 Ab3+C4+Eb4+Ab4@33>7^80 Ab3+C4+Eb4+Ab4@41>7^80 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>17^104 Ab1@33>3^104 Ab1@41>10^104 Ab1@57>8^104
+  Rock Organ             : Ab4+Eb5@1>61^56
+  Acoustic Grand Piano   : Eb6+Ab6@1>4^80 Eb6+Ab6@9>3^56 Eb5+Ab5@17>3^56 Eb5+Ab5@25>2^56 Eb5+Ab5@33>3^80 Eb5+Ab5@41>2^56 Eb5+Ab5@49>3^56 Eb5+Ab5@57>3^56
+  Alto Sax               : Eb4@25>3^104 Eb4@33>8^104 Db4@41>7^104 C4@49>7^104 Bb3@58>14^104
+@79 [Abm | Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>15^56 Ab3+Db4+Eb4+Ab4@33>7^80 Ab3+Db4+Eb4+Ab4@41>7^56 Ab3+Db4+Eb4+Ab4@49>15^80
+  Fretless Bass          : B1@1>15^80 Db2@25>6^80 Db2@33>5^80 Ab2@41>24^80
+  Rock Organ             : Ab4+Db5@1>60^56
+  Acoustic Grand Piano   : Eb5+Ab5@1>3^56 Eb5+Ab5@9>3^56 Eb5+Ab5@17>6^56 Ab5+Eb6@25>16^80 Eb5+Ab5@41>3^56 Eb5+Ab5@49>4^32 Eb5+Ab5@57>3^32
+  Alto Sax               : Ab3@9>12^104 Eb4@58>3^104
+  Celesta                : Ab5+Eb6@25>12^56
+@80 [B | Gb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Gb3+B3+Eb4+Gb4@1>15^80 Gb3+B3+Eb4+Gb4@17>15^80 Gb3+Bb3+Db4+Gb4@33>7^80 Gb3+Bb3+Db4+Gb4@41>7^56 Gb3+Bb3+Db4+Gb4@49>15^80
+  Fretless Bass          : B1@1>31^104 Bb1@33>5^80 Bb1@41>19^80
+  Rock Organ             : Gb4+B4@1>28^56 Ab4+Db5@33>27^56
+  Acoustic Grand Piano   : Gb5+B5@1>31^32
+  Alto Sax               : Eb4@2>7^104 Db4@9>8^104 B3@17>6^104 Db4@25>10^104 Db4@41>13^104 B3@56>10^104
+@81 [Ab]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Bb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>23^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab2@1>7^104 Eb2@9>6^80 Ab2@17>16^104 Gb2@33>28^80
+  Rock Organ             : Ab4+Eb5@1>62^56
+  Alto Sax               : Bb3@2>3^80 Ab3@5>8^80 C4@33>5^104 Db4@41>6^104 Eb4@49>5^104 Eb4@57>12^104
+@82 [Ab]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>15^80 Ab3+C4+Eb4+Ab4@33>7^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>18^80 Ab1@25>4^56 Ab1@33>3^80 Ab1@41>13^104 Db2@57>5^80
+  Rock Organ             : Ab4+Eb5@1>60^56
+  Alto Sax               : Eb4@9>4^80 Eb4@17>3^104 Eb4@25>4^104 F4@33>5^104 C4@41>4^104 C4@49>4^104 Bb3@57>16^104
+@83 [Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>15^56 Ab3+Db4+Eb4+Ab4@33>7^80 Ab3+Db4+Eb4+Ab4@41>7^56 Ab3+Db4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Db2@1>19^80 Db2@25>8^80 Ab2@33>8^80 Db2@41>21^80
+  Rock Organ             : Ab4+Db5@1>61^56
+  Alto Sax               : Ab3@9>13^104 Eb4@50>4^104 Eb4@58>15^104
+@84 [B | Gb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^104
+  Acoustic Guitar (steel): Gb3+B3+Eb4+Gb4@1>15^80 Gb3+B3+Eb4+Gb4@17>15^80 Gb3+Bb3+Db4+Gb4@33>7^80 Gb3+Bb3+Db4+Gb4@41>7^56 Gb3+Bb3+Db4+Gb4@49>15^80
+  Fretless Bass          : B1@1>12^104 B1@17>14^104 Bb1@33>4^80 Bb1@41>4^80 Bb1@49>11^80
+  Rock Organ             : Gb4+B4@1>27^56 Ab4+Db5@33>27^56
+  Alto Sax               : Db4@9>7^80 B3@17>7^104 Db4@25>12^80 Db4@42>11^104 Eb4@56>13^104
+@85 [Ab]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Bb2+G3@49>1^104
+  Acoustic Guitar (steel): Ab3+C4+Eb4+Ab4@1>15^80 Ab3+C4+Eb4+Ab4@17>23^80 Ab3+C4+Eb4+Ab4@41>7^56 Ab3+C4+Eb4+Ab4@49>15^80
+  Fretless Bass          : Ab1@1>20^80 Ab1@25>12^80 G2@40>9^80 Eb2@50>7^80 C2@57>8^80
+  Rock Organ             : Ab4+Eb5@1>64^56
+  Alto Sax               : Eb4@8>9^80 Eb4@33>6^104 F4@41>6^104 Ab4@49>6^104 Bb4@57>12^104
+@86 [Fm]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Ab3+C4+F4@1>16^80 F3+Ab3+C4+F4@17>8^80 F3+Ab3+C4+F4@25>16^80 F3+Ab3+C4+F4@41>4^80 F3+Ab3+C4+F4@49>16^80
+  Fretless Bass          : F1@1>26^104 F1@33>4^104 F1@41>14^104 Ab1@57>6^80
+  Rock Organ             : F4+C5@1>124^56
+  Alto Sax               : Ab4@9>11^104 Ab4@25>13^104 G4@41>11^104 G4@57>14^104
+  Electric Guitar (clean): F2@1>64^80 G3@26>13^80 Ab3@41>13^80 G3@56>4^80 G3@64>8^80
+@87 [Db]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Ab3+Db4+F4@1>16^80 F3+Ab3+Db4+F4@17>5^80 F3+Ab3+Db4+F4@25>16^80 F3+Ab3+Db4+F4@41>4^80 F3+Ab3+Db4+F4@49>16^80
+  Fretless Bass          : Db2@1>19^104 Db2@25>4^80 Db2@33>4^80 Db2@41>14^104 Db2@57>7^80
+  Rock Organ             : Db5@1>62^56
+  Alto Sax               : F4@9>12^104 F4@25>15^104 Eb4@41>12^104 Eb4@57>20^104
+  Electric Guitar (clean): Ab3@9>7^80 G3@17>7^80 Ab3@25>24^80 Eb4@49>15^104
+@88 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>4^80 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>4^80 Eb3+Bb3+Eb4+G4@49>16^80
+  Fretless Bass          : A1@1>24^104 G2@25>7^104 G2@33>8^104 Eb2@41>7^104 Eb2@49>8^80 Bb1@57>7^80
+  Rock Organ             : Eb5+Bb5@1>59^56
+  Alto Sax               : Bb3@33>8^104 C4@42>5^104 Db4@49>5^104 Db4@57>31^104
+  Electric Guitar (clean): Bb3+Bb4@1>42^104
+@89 [Db7 | Cm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Bb2+G3@49>1^104
+  Acoustic Guitar (steel): Ab3+Db4+F4+Ab4@1>16^80 Ab3+Db4+F4+Ab4@17>5^80 Ab3+C4+Eb4+Ab4@25>16^80 Ab3+C4+Eb4+Ab4@41>5^80 G3+C4+Eb4+G4@49>16^80
+  Fretless Bass          : Ab1@1>20^104 Eb1@25>8^104 Ab1@33>7^80 F1@41>8^104 G1@49>14^104
+  Rock Organ             : F5+Ab5@1>20^56 Eb5+Ab5@25>23^56 Eb5+G5@49>15^56
+  Alto Sax               : C4@26>12^104 Bb3@38>4^80 Ab3@42>8^80 Bb4@57>11^104
+@90 [Fm]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Ab3+C4+F4@1>16^80 F3+Ab3+C4+F4@17>4^80 F3+Ab3+C4+F4@25>16^80 F3+Ab3+C4+F4@41>4^80 F3+Ab3+C4+F4@49>16^80
+  Fretless Bass          : F1@1>23^104 F1@33>4^104 F1@41>11^104 Ab1@57>7^80
+  Rock Organ             : F4+C5@1>64^56
+  Alto Sax               : Ab4@9>12^104 Ab4@25>13^104 G4@41>12^104 G4@57>14^104
+@91 [Bb | Bbm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Bb4@13>1^32 E2+Gb2@17>1^104 B1+Gb2@25>1^104 Bb4@29>1^32 Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>16^80 F3+Bb3+D4+F4@17>5^80 F3+Bb3+Db4+F4@25>16^80 F3+Bb3+Db4+F4@41>4^80 F3+Bb3+Db4+F4@49>16^80
+  Fretless Bass          : D2@1>17^104 Db2@25>28^80 Db2@57>7^80
+  Rock Organ             : D5+F5@1>24^56 Db5+F5@25>36^56
+  Alto Sax               : F4@8>11^104 F4@25>16^104 Bb4@64>3^104
+@92 [Gb]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 B1+Gb2@25>1^104 B1+Gb2@33>1^104 Gb2@41>1^80 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Gb3+Bb3+Db4+Gb4@1>16^80 Gb3+Bb3+Db4+Gb4@17>7^80 Gb3+Bb3+Db4+Gb4@25>16^80 Gb3+Bb3+Db4+Gb4@41>4^80 Gb3+Bb3+Db4+Gb4@49>16^80
+  Fretless Bass          : Gb2@1>16^104 Gb1@17>14^80 Gb2@34>7^80 F2@41>8^80 Db2@49>4^80 Db2@57>7^80
+  Rock Organ             : Db5+Gb5@1>61^56
+  Alto Sax               : Bb4@9>3^104 Bb4@17>3^104 Bb4@25>3^104 Bb4@33>8^104 Ab4@41>7^104 Gb4@49>5^104 Bb4@57>33^104
+@93 [Eb]
+  Drums                  : B1+Gb2@1>1^104 B1+Gb2@9>1^104 Bb4@13>1^32 E2+Bb2@17>1^104 Bb2@25>1^56 Bb4@29>1^32 E2+Bb2@33>1^104 A2@41>1^80 E2@49>1^104 E2@53>1^104 G2@57>1^80 G2@61>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>4^56 Eb3+Bb3+Eb4+G4@9>5^80 Eb3+Bb3+Eb4+G4@17>5^80 Eb3+Bb3+Eb4+G4@25>5^104 Eb3+Bb3+Eb4+G4@33>6^104 Eb3+Bb3+Eb4+G4@41>5^80 Eb3+Bb3+Eb4+G4@49>6^104 Eb3+Bb3+Eb4+G4@57>6^104
+  Fretless Bass          : Eb2@2>5^80 Eb2@9>5^80 Eb2@17>5^80 Eb2@25>5^80 Eb2@34>5^80 Eb2@42>5^80 Eb2@50>5^104 Eb2@58>6^104
+  Rock Organ             : Eb5+G5@1>62^56
+  Alto Sax               : Bb4@57>25^104
+@94 [Bb]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>15^80 F3+Bb3+D4+F4@33>7^80 F3+Bb3+D4+F4@41>7^56 F3+Bb3+D4+F4@49>15^80
+  Fretless Bass          : Bb1@1>28^80 Bb1@33>3^80 Bb1@41>8^80 Bb1@57>3^80
+  Rock Organ             : Bb4+F5@1>125^56
+  Alto Sax               : A4@18>14^104 F4@33>5^104 D4@42>13^104 C4@57>17^104
+  Celesta                : Bb5@57>4^80
+  String Ensemble 2      : F5@1>223^80
+@95 [F]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+C4+F4@1>15^56 F3+Bb3+C4+F4@17>15^80 F3+Bb3+C4+F4@33>7^80 F3+Bb3+C4+F4@41>7^56 F3+Bb3+C4+F4@49>15^80
+  Fretless Bass          : G1@1>23^104 F1@25>7^104 G1@33>7^80 F1@41>7^80 G1@49>14^104
+  Rock Organ             : C5@1>62^56
+  Alto Sax               : Bb3@10>18^80 C4@41>6^104 D4@49>6^104 Eb4@57>22^104
+  Celesta                : A5@17>4^80 F5@33>4^80 D5@41>4^104 Bb4@57>4^80
+@96 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+F4@1>15^80 Eb3+Bb3+Eb4+F4@17>15^80 Eb3+Bb3+Eb4+F4@33>7^80 Eb3+Bb3+Eb4+F4@41>7^56 Eb3+Bb3+Eb4+F4@49>15^80
+  Fretless Bass          : Eb1@1>19^104 Eb1@25>3^104 Eb1@33>3^104 Eb1@41>14^104 F1@57>8^80
+  Rock Organ             : Bb4+Eb5@1>59^56
+  Alto Sax               : D4@17>5^80 Eb4@25>15^80 F4@40>10^104 F4@57>14^104
+@97 [Bb | D]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>16^80 D3+A3+D4+Gb4@33>7^80 D3+A3+D4+Gb4@41>7^80 D3+A3+D4+Gb4@49>15^80
+  Fretless Bass          : Bb1@1>8^80 F1@9>8^80 Bb1@17>15^80 A1@33>16^80 Gb1@49>14^80
+  Rock Organ             : Bb4+F5@1>29^56 D5+Gb5@33>92^56
+  Alto Sax               : Eb4@8>8^104 D4@16>8^104 C4@25>14^104 Bb3@41>7^104 A3@48>8^104 Bb3@57>16^104
+  String Ensemble 2      : Gb5@38>27^56
+@98 [Gm]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): G3+Bb3+D4+G4@1>15^80 G3+Bb3+D4+G4@17>15^80 G3+Bb3+D4+G4@33>7^80 G3+Bb3+D4+G4@41>7^56 G3+Bb3+D4+G4@49>15^80
+  Fretless Bass          : G1@1>19^80 G1@33>3^80 G1@41>22^104
+  Rock Organ             : G5@1>129^56
+  Alto Sax               : G4@32>8^104 A4@40>8^104 Bb4@48>8^80 A4@57>17^104
+  String Ensemble 2      : G5@1>64^56
 @99 [C]
-  Part1: C3+E4+C5@1>3 E4@3>1 C3@4>4 E4+C5@5>1 E4+C5@6>1 E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>2 G1@8>1
-  Part3: C4@5>1 C4@6>1 C4@7>1 C4@8>1
-  Part4: C3@1>4 G3@2>1 C4@3>3 G3@4>2 C3@5>3 E4@6>3 G3@7>2 C4@8>1
-@100 [C]
-  Part1: C3+E4+C5@1>7 E4@2>2 E4+C5@4>2 D4+B4@6>1 C4+A4@7>1 C4+F4@8>1
-  Part2: C2@1>2 G1@4>1 C2@5>2 C#2@7>2
-  Part3: C4@1>1 C4@2>1 C4@3>1 C4@4>2 B3@6>1 A3@7>1 F3@8>1
-  Part4: C3+G3+C4+E4@1>3 G3@2>3 C4@3>3 E4@4>5 C3@5>4 G3@6>2 C4@7>2 G3@8>1
-@101 [Dm]
-  Part1: D3+C4+F4@1>4 A3+D4+F4@4>3 D3@5>4 A3@6>1 D4@7>1 A3+D4+F4@8>1
-  Part2: D2@1>2 D2@4>1 A1@5>2 A1@8>1
-  Part3: F3@1>2
-  Part4: D3@1>3 A3@2>4 D4@3>4 F4@4>3 D3@5>4 A3@6>3 D4@7>1 D4+F4@8>1
-@102 [Dm]
-  Part1: D3+A3+D4+F4@1>4 A3@2>3 D4@3>2 F4@4>1 D3@5>1 A3+D4+F4@6>3 D3@7>1 A3@8>1
-  Part2: D2@1>3 A1@4>1 D2@5>1 E2@6>1 F2@7>1 G2@8>1
-  Part4: D3+A3+F4@1>3 F4@2>5 D4@3>2 D3@5>4 A3@6>1 D4@7>1 A3@8>1
-@103 [G7]
-  Part1: G3+B3+D4+G4@1>8 B3@3>1 D4+B4@4>2 E4+C5@6>2 F4+D5@8>1
-  Part2: G1@1>2 G1@4>1 D2@5>2 D2@8>1
-  Part3: B3@3>1 B3@4>1 B3@5>2 C4@7>1 D4@8>1
-  Part4: G2@1>4 F3@2>2 B3@3>5 F3@4>2 G2@5>3 F3@6>3 D4@8>1
-@104 [G7]
-  Part1: G3+F4+D5@1>3 B4@2>1 G3@3>2 A4@4>1 G4@5>2 G3@6>2 G3@8>1
-  Part2: G1@1>3 D2@4>1 G2@5>1 F2@6>2
-  Part3: D4@1>1 B3@2>1 A3@4>1 G3@5>1 G3@8>1
-  Part4: G2+F3+B3+D4@1>3 F3@2>1 B3@3>6 F3@4>2 G2@5>2 F3@6>2 F2@7>2 F3@8>1
-@105 [E7]
-  Part1: E3+D4+G#4@1>4 D4@3>1 D4+G#4+B4@4>3 E3@5>4 D4@6>1 G#4@7>1 E4+A4+C5@8>1
-  Part2: E2@1>3 E1@4>1 G#1@5>4
-  Part3: E4@1>1 F4@2>1 E4@3>1 D4@4>2 E4@6>1 D4@7>1 C4@8>1
-  Part4: E2@1>4 E3@2>4 G#3@3>1 B3@4>3 G#2@5>4 E3@6>3 D4@7>1 C4@8>1
-@106 [Am | G]
-  Part1: A3+E4+A4+C5@1>3 E4@2>1 A4@3>1 E4+A4+C5@4>1 A3@5>1 D4+G4+B4@6>2 G3@7>2 D4@8>1
-  Part2: A1@1>3 E2@4>1 A2@5>1 G2@6>2
-  Part3: C4@1>2 C4@3>1 D4@5>1 C4@6>1
-  Part4: A2+E3+C4@1>3 E3@2>5 A3@3>3 C4@4>2 A2@5>2 B3@6>3 G2@7>2
-@107 [F]
-  Part1: F3+C4+F4+A4@1>4 C4@3>2 F4+A4@4>2 F3@5>4 F4+A4+C5@6>2 G4+B4+D5@8>1
-  Part2: F2@1>3 F2@4>1 C2@5>3 D2@8>1
-  Part3: C4@5>1 C4@6>1 C4@7>1 C4@8>1
-  Part4: F2@1>3 C3@2>1 F3@3>1 C4@4>3 F2@5>4 A3@6>1 F3@7>1 A3@8>1
-@108 [G]
-  Part1: G3+G4+B4+D5@1>6 G4@2>1 B4@3>1 D4+G4+B4@4>2 C4+A4@6>1 B3+G4@7>1 C4+A4@8>1
-  Part2: G2@1>2 G2@4>1 D2@5>2 E2@8>1
-  Part3: C4@1>1 B3@2>1 B3@3>1 B3@4>2 A3@6>1 G3@7>1 A3@8>1
-  Part4: G2@1>3 G3@2>1 B3@3>1 G3@4>2 G2@5>4 D4@6>3 B3@7>2 G3@8>1
-@109 [Am]
-  Part1: C4+A4@1>4 E4@3>2 C4@4>1 A2@5>3 B3+D4+G4@6>1 B3+D4+G4@8>1
-  Part2: A1@1>2 A1@4>1 E2@5>2 E2@8>1
-  Part3: A3@1>2
-  Part4: A2@1>4 E3@2>3 A3@3>2 C4@4>2 A2@5>4 B3@6>1 B3@8>1
-@110 [Am7]
-  Part1: A2+B3+D4+G4@1>4 A3+C4+E4@2>1 A3+C4+E4@4>4 A2@5>1 G2@6>2 A3@7>1 C4@8>1
-  Part2: A2@1>3 E2@4>1 A2@5>1 G2@6>2
-  Part3: B3@6>1 C4@7>1 D4@8>1
-  Part4: A2+B3@1>3 C4@2>1 E3@3>4 A3@4>5 A2@5>2 G2@7>2 E3@8>1
-@111 [F]
-  Part1: F2@1>8 A3@2>3 C4@3>4 F4@4>5 C3@5>3 A3@6>2 C4@7>1 A3@8>1
-  Part2: F2@1>2 F2@4>1 C2@5>2 C2@8>1
-  Part3: D4@1>1 E4@2>2 C4@4>2 G3@6>1 A3@7>1
-  Part4: F2+A3@1>4 F3@2>4 A3@3>2 C4@4>2 F2@5>4 A3@6>2 F3@7>1 F4@8>1
-@112 [F]
-  Part1: F3@1>8 A4+F5@2>1 G4+E5@3>1 F4+D5@4>1 E4+C5@6>3 E4@8>1
-  Part2: F2@1>3 C2@4>1 F2@5>1 E2@6>1 F2@7>1 F#2@8>1
-  Part4: F2+F4@1>3 C4@2>2 A3@3>2 F3@4>3 F2@5>4 C4@6>3 A3@7>2 F3@8>1
-@113 [G]
-  Part1: G3+D4+B4@1>6 G4@3>1 D4+G4@4>3 G3@5>4 G4@6>1 D4@7>1 C4+F4+A4@8>1
-  Part2: G2@1>2 G2@4>1 D2@5>2 D2@8>1
-  Part3: G3@3>1 G3@4>2 G3@6>1 F4@8>1
-  Part4: G2+F3@1>4 G3@2>2 B3@3>3 G3@4>3 G2@5>3 D4@6>2 G3@7>2 B3@8>1
-@114 [C | F]
-  Part1: G3+C4+F4+A4@1>7 C4@2>3 F4@3>2 G3@4>2 C4@5>2 F4@6>2 G3@7>1 C4@8>1
-  Part2: G1@1>2 G1@4>1 G2@5>1 G1@6>1 A1@7>1 G1@8>1
-  Part3: F4@1>1 E4@2>2 C4+D4@4>2 D4@6>2 C4@8>1
-  Part4: G2@1>4 F3@2>2 C4@3>3 A3@4>2 G2@5>3 F3@6>2 A3@7>2 F3@8>1
-@115 [C]
-  Part1: C3+C4+E4+G4@1>3 C4@3>1 E4@4>1 C3@5>4 E4+F4+C5@6>1 E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>4
-  Part3: C4@1>4
-  Part4: C3+F3@1>3 E3@2>1 C4@3>3 E3@4>2 C3@5>4 G3@6>1 E3@7>2 C4@8>1
-@116 [C]
-  Part1: C3+E4+C5@1>5 E4@2>2 E4+C5@4>4 G3@6>2 E4@7>1 A3@8>1
-  Part2: C2@1>3 G1@4>1 C2@5>1 D2@6>1 E2@7>2
-  Part3: E4+G4@3>1 D4+F4@4>2 C4+E4@6>2
-  Part4: C3+E3+C4@1>3 E3@2>3 G3@3>3 C4@4>2 C3@5>4 E3@6>2 G3@7>2 E3@8>1
-@117 [F]
-  Part1: F2@1>8 A3@2>3 C4@3>4 F4@4>5 C3@5>3 A3@6>2 C4@7>1 A3@8>1
-  Part2: F2@1>2 F2@4>1 C2@5>2 C2@8>1
-  Part3: C4@3>1 C4@4>2 D4@6>2 C4@8>1
-  Part4: F2@1>4 F3@2>4 A3@3>2 C4@4>2 F2@5>4 A3@6>2 F3@7>1 F4@8>1
-@118 [F]
-  Part1: F3@1>8 A4+F5@2>1 G4+E5@3>1 F4+D5@4>1 E4+C5@6>3 E4@8>1
-  Part2: F2@1>3 C2@4>1 F2@5>1 E2@6>1 F2@7>1 F#2@8>1
-  Part3: C4@1>1 A3@2>2
-  Part4: F2+F4@1>3 C4@2>2 A3@3>2 F3@4>3 F2@5>4 C4@6>3 A3@7>2 F3@8>1
-@119 [G]
-  Part1: G3+D4+B4@1>6 G4@3>1 D4+G4@4>3 G3@5>4 G4@6>1 D4@7>1 C4+F4+A4@8>1
-  Part2: G2@1>2 G2@4>1 D2@5>2 D2@8>1
-  Part3: G3@3>1 G3@4>2 G3@6>1 F4@8>1
-  Part4: G2+F3@1>4 G3@2>2 B3@3>3 G3@4>3 G2@5>3 D4@6>2 G3@7>2 B3@8>1
-@120 [C | F]
-  Part1: G3+C4+F4+A4@1>7 C4@2>3 F4@3>2 G3@4>2 C4@5>2 F4@6>2 G3@7>1 C4@8>1
-  Part2: G1@1>2 G1@4>1 G2@5>1 G1@6>1 A1@7>1 G1@8>1
-  Part3: F4@1>1 E4@2>2 C4@4>2 D4@6>2 C4@8>1
-  Part4: G2@1>4 F3@2>2 C4@3>3 A3@4>2 G2@5>3 F3@6>2 A3@7>2 F3@8>1
-@121 [C]
-  Part1: C3+C4+E4+C5@1>8 G3@5>2 E4@7>2 G3@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>2 G1@8>1
-  Part3: C4@1>6
-  Part4: C3+F3@1>4 G3@2>4 C4@3>2 D4@4>2 C3@5>4 C4@6>2 G3@7>2 E4@8>1
-  Part5: C5@1>8
-@122 [C7]
-  Part1: C3@1>3 G4+E5@2>1 F4+D5@3>1 E4+C5@4>1 C3@5>3 D4+B4@6>2 D4@8>1
-  Part2: C2@1>2 G1@4>1 C2@5>1 E1@6>2
-  Part4: C3+G3+E4@1>3 G3@2>4 C4@3>2 E4@4>4 C3@5>2 C4@6>3 G3@7>2
-  Part5: C5@1>1 E5@2>1 D5@3>1 C5@4>2 B4@6>2 A4@8>1
-@123 [F]
-  Part1: F3+D4+B4@1>3 C4+A4@4>5 F3@5>3 C4@6>2
-  Part2: F1@1>2 F1@4>1 C2@5>2 C2@8>1
-  Part4: F3@1>4 A3@2>5 C4@3>2 F4@4>3 F3@5>3 C4@6>3 A3@7>2 F4@8>1
-  Part5: B4@1>3 A4@4>5
-@124 [F]
-  Part1: F3@1>3 A4+F5@2>1 G4+E5@3>1 F4+D5@4>2 E4+C5@6>2
-  Part2: F2@1>2 F2@4>1 C2@5>1 A1@6>2
-  Part4: F3+A3+C4@1>3 F4@2>7 C4@3>6 A3@4>2 F3@5>1 A3@6>2 F#3@7>2 A3@8>1
-  Part5: A4@1>1 F5@2>1 E5@3>1 D5@4>2 C5@6>2
-@125 [G]
-  Part1: G3+E4+C5@1>4 D4+B4@4>4 G3@5>2 D4@7>1
-  Part2: G1@1>2 G1@4>1 D2@5>2 D2@8>1
-  Part4: G3@1>4 B3@2>4 D4@3>3 G4@4>5 G3@5>4 D4@6>1 B3@7>2 D4@8>1
-  Part5: C5@1>3 B4@4>5
-@126 [G7]
-  Part1: G3@1>1 B4+G5@2>1 A4+F5@3>1 G4+E5@4>2 F4+D5@6>2 G3@8>1
-  Part2: G2@1>3 D2@4>1 G2@5>1 G1@6>3
-  Part4: F3+D4+G4@1>4 B3@2>2 D4@3>2 G4@4>4 F3@5>3 D4@6>1 B3@7>2 D4@8>1
-  Part5: B4@1>1 G5@2>1 F5@3>1 E5@4>2 D5@6>3
-@127 [C]
-  Part1: C3+E4+C5@1>7 E4+C5@8>1
-  Part2: C2@1>2 C2@4>1 G1@5>2 G1@8>1
-  Part4: E3@1>3 G3@2>2 C4@3>2 F3@4>3 G3@5>3 C4@6>3 D3@7>2 G3@8>1
-  Part5: C5@1>8
-@128 [C] (grid:16)
-  Part1: C3+G3+E4+C5@1>16
-  Part2: C2@1>16
-  Part4: C3+E3+C4@1>16 G3@2>15 C4@3>1
-  Part5: C5@1>2
-@129 [C] (grid:4)
-  Part2: C2@1>4
-@130 [C] (grid:12t)
-  Part1: C3+G3@4>12
-  Part2: C2@1>2
-  Part4: C3+E3+G3@2>12
-@131 [C] (grid:12t)
-  Part1: C3+G3@4>3
-  Part4: C3+E3+G3@2>1
-@132 [-]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^56
+  Acoustic Guitar (steel): G3+C4+E4+G4@1>15^80 G3+C4+E4+G4@17>15^80 G3+C4+E4+G4@33>7^80 G3+C4+E4+G4@41>7^56 G3+C4+E4+G4@49>15^80
+  Fretless Bass          : E1@1>19^104 E1@25>3^80 E1@33>4^80 E1@41>3^80 E1@49>4^80 E1@57>8^104
+  Rock Organ             : E5@1>63^56
+  Alto Sax               : G4@10>9^104 G4@25>16^104 F4@41>12^104 F4@57>56^104
+  String Ensemble 2      : C5@2>62^56 F5@64>126^56
+@100 [F | Adim]
+  Distortion Guitar      : F3@1>25^80 Eb3@25>39^56
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Bb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 B1+Bb2@57>1^80
+  Acoustic Guitar (steel): F3+A3+C4+F4@1>15^80 F3+A3+C4+F4@17>7^80 F3+A3+C4+F4@25>15^80 F3+A3+C4+F4@41>7^56 F3+A3+C4+F4@49>15^80
+  Fretless Bass          : F1@1>8^80 C2@9>8^104 F2@17>8^80 Eb2@25>27^80 Eb2@57>7^80
+  Rock Organ             : C5+F5@1>62^56 Eb5@25>36^56 Db5@64>3^56
+  Electric Guitar (clean): A3@9>7^80 C4@17>8^80 A3@25>5^56 A3@42>6^80 C4@49>8^80 A3@57>5^80
+@101 [F]
+  Distortion Guitar      : D3@1>23^56 C3@25>34^56
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 B1+Bb2@25>1^104 Gb2@33>1^80 B1+Gb2@41>1^104 E2@49>1^104 E2@53>1^104 A2@57>1^80
+  Acoustic Guitar (steel): F3+A3+C4+F4@1>15^80 F3+A3+C4+F4@17>7^80 F3+A3+C4+F4@25>15^80 F3+A3+C4+F4@41>7^56 F3+A3+C4+F4@49>15^80
+  Fretless Bass          : D2@1>23^80 C2@25>12^80 C2@41>7^104 G2@49>8^80 C2@57>7^80
+  Rock Organ             : D5@2>23^80 C5@25>37^80
+  Alto Sax               : Bb4@57>22^104
+  Electric Guitar (clean): A3@9>6^80 C4@17>8^56 A3@25>5^56
+  String Ensemble 2      : F5@64>223^56
+@102 [Bb]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>15^80 F3+Bb3+D4+F4@33>7^80 F3+Bb3+D4+F4@41>7^80 F3+Bb3+D4+F4@49>15^80
+  Fretless Bass          : Bb1@1>19^80 Bb1@33>4^80 Bb1@41>10^80 Bb1@57>7^80
+  Rock Organ             : Bb4+F5@1>125^56
+  Alto Sax               : A4@16>12^104 F4@32>4^104 D4@41>9^104 C4@57>15^104
+  Celesta                : Bb5@57>4^80
+@103 [F]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+C4+F4@1>15^80 F3+Bb3+C4+F4@17>15^80 F3+Bb3+C4+F4@33>7^56 F3+Bb3+C4+F4@41>7^56 F3+Bb3+C4+F4@49>15^80
+  Fretless Bass          : G1@1>23^80 G1@33>8^80 F1@41>8^80 C2@49>12^104
+  Rock Organ             : C5@1>62^56
+  Alto Sax               : Bb3@8>10^80 C4@41>6^104 D4@49>6^104 Eb4@57>22^104
+  Celesta                : A5@17>4^80 F5@33>4^80 D5@41>4^80 Bb4@57>4^104
+@104 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+F4@1>15^80 Eb3+Bb3+Eb4+F4@17>15^80 Eb3+Bb3+Eb4+F4@33>7^80 Eb3+Bb3+Eb4+F4@41>7^56 Eb3+Bb3+Eb4+F4@49>15^80
+  Fretless Bass          : Eb1@1>19^104 Eb1@33>3^80 Eb1@41>11^80 Eb1@57>8^104
+  Rock Organ             : Bb4+Eb5@1>59^56
+  Alto Sax               : D4@17>4^104 Eb4@25>13^104 F4@41>10^104 F4@57>13^104
+@105 [Bb | D]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+G3@49>1^104 B1@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>16^80 D3+A3+D4+Gb4@33>7^80 D3+A3+D4+Gb4@41>7^56 D3+A3+D4+Gb4@49>15^80
+  Fretless Bass          : F1@1>8^104 Eb2@9>8^80 F2@17>15^104 Gb2@33>12^80 Gb1@49>14^80
+  Rock Organ             : Bb4+F5@1>29^56 D5+Gb5@33>92^56
+  Alto Sax               : Eb4@9>6^104 D4@17>7^104 Bb3@25>12^80 C4@40>8^80 Bb4@57>23^104
+  String Ensemble 2      : Gb5@31>38^56 G5@64>65^56
+@106 [Gm]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^56
+  Acoustic Guitar (steel): G3+Bb3+D4+G4@1>15^80 G3+Bb3+D4+G4@17>15^80 G3+Bb3+D4+G4@33>7^80 G3+Bb3+D4+G4@41>7^80 G3+Bb3+D4+G4@49>15^80
+  Fretless Bass          : G1@1>16^104 G1@33>4^80 G1@41>11^104 D1@57>6^104
+  Rock Organ             : G5@1>64^56
+  Alto Sax               : A4@17>15^104 F4@32>7^80 G4@41>10^104 G4@57>10^104
+  String Ensemble 2      : A5@64>64^56
+@107 [Dm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): A3+D4+F4+A4@1>15^56 A3+D4+F4+A4@17>15^80 A3+D4+F4+A4@33>7^56 A3+D4+F4+A4@41>7^56 A3+D4+F4+A4@49>15^80
+  Fretless Bass          : F1@1>16^104 F1@25>3^104 F1@33>8^104 Bb1@41>8^80 C2@49>8^80 F2@57>8^104
+  Rock Organ             : D5+F5@1>62^80
+  Alto Sax               : A4@3>3^80 G4@6>4^80 F4@10>14^104 Eb4@40>8^104 D4@49>7^80 Eb4@57>22^104
+@108 [Eb]
+  Distortion Guitar      : Eb3@1>18^80 Eb3@25>2^56 Eb3@33>8^80 D3@41>7^80 Db3@49>8^80 C3@57>13^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+G4+Bb4@1>15^80 Bb3+Eb4+G4+Bb4@17>15^80 Bb3+Eb4+G4+Bb4@33>7^80 Bb3+Eb4+G4+Bb4@41>7^80 Bb3+Eb4+G4+Bb4@49>15^80
+  Fretless Bass          : Db1@1>18^80 Bb1@25>8^80 Eb2@33>8^104 D2@41>8^80 Db2@49>8^80 C2@57>16^104
+  Rock Organ             : Eb5+G5@1>128^56 E5@57>71^56
+  Alto Sax               : D4@16>7^80 Eb4@24>13^104 F4@41>13^104 G4@57>30^104
+  String Ensemble 2      : Bb5@1>64^56
+@109 [C]
+  Distortion Guitar      : G3+C4@9>4^80 G3+C4@17>4^56 G3+C4@25>4^80 G3+C4@33>5^80 G3+C4@41>5^80 G3+C4@49>4^80 G3+C4@57>5^104
+  Drums                  : B1+Gb2@1>1^104 B1+Gb2@9>1^104 E2+Gb2@17>1^80 B1+Bb2@25>1^104 E2+Bb2@33>1^104 B1+Bb2@41>1^104 E2+Bb2@49>1^104 E2@53>1^104 G2@57>1^80 G2@61>1^80
+  Acoustic Guitar (steel): G3+C4+E4+G4@1>15^80 G3+C4+E4+G4@17>7^80 G3+C4+E4+G4@25>7^80 G3+C4+E4+G4@33>7^80 G3+C4+E4+G4@41>7^80 G3+C4+E4+G4@49>7^80 G3+C4+E4+G4@57>7^80
+  Fretless Bass          : Bb2@9>8^80 D3@17>16^104 C3@33>8^80 Bb2@41>8^80 G2@49>16^104
+  Rock Organ             : C6@9>56^56
+  Alto Sax               : Bb4@33>6^104 C5@41>5^104 Bb4@49>8^104 D5@57>24^104
+  String Ensemble 2      : C6@1>63^80
+@110 [Bb]
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>16^80 F3+Bb3+D4+F4@17>8^56 F3+Bb3+D4+F4@25>15^56 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>16^80
+  Fretless Bass          : F1@1>19^104 F1@25>5^104 F1@41>2^104 F1@57>2^80
+  Rock Organ             : D5+Bb5@1>128^80 Eb5@64>64^56
+  Alto Sax               : C5@17>8^104 Bb4@25>9^104 D5@49>3^104 D5@57>5^104 Eb5@64>6^104
+  Choir Aahs             : D4+F4+Bb4@1>124^80 Eb4+G4@64>60^80
+  Acoustic Grand Piano#2 : D4+F4+Bb4@1>128^32
+@111 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>8^80 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>8^80 Eb3+Bb3+Eb4+G4@49>16^56
+  Fretless Bass          : F1@1>21^104 F1@25>4^104 F1@41>2^104
+  Alto Sax               : D5@9>11^80 C5@25>13^104 Bb4@41>4^104 C5@48>5^104 D5@56>23^104
+  Acoustic Grand Piano#2 : Eb4+G4@1>64^32
+@112 [Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>16^80 F3+Bb3+D4+F4@17>8^56 F3+Bb3+D4+F4@25>15^56 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>16^80
+  Fretless Bass          : F1@1>16^104 F2@17>8^80 F1@25>3^104 F1@41>3^104 D1@57>7^104
+  Rock Organ             : D5+Bb5@1>64^56 Eb5@64>64^56
+  Alto Sax               : C5@16>8^104 Bb4@24>9^104 D5@49>4^104 D5@57>5^104 Eb5@64>6^104
+  Choir Aahs             : D4+F4+Bb4@1>124^80 Eb4+G4@64>60^80
+  Acoustic Grand Piano#2 : D4+F4+Bb4@1>128^32
+@113 [Eb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>8^80 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>8^80 Eb3+Bb3+Eb4+G4@49>16^80
+  Fretless Bass          : F1@1>5^104 F1@9>8^104 F2@17>8^80 F1@25>9^104 F1@41>3^104 F1@57>2^80
+  Alto Sax               : D5@8>16^104 C5@25>13^104 Bb4@41>5^80 C5@49>5^104 D5@57>24^104
+  Acoustic Grand Piano#2 : Eb4+G4@1>64^32
+@114 [Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Bb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>16^80 F3+Bb3+D4+F4@17>8^56 F3+Bb3+D4+F4@25>15^56 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>16^80
+  Fretless Bass          : F1@1>15^104 F2@17>8^80 F1@25>10^104 F1@41>5^104 F1@57>3^104
+  Rock Organ             : D5+Bb5@1>64^80 Eb5@64>64^56
+  Alto Sax               : C5@17>8^104 Bb4@25>9^104 D5@49>4^104 D5@57>5^104
+  Choir Aahs             : D4+F4+Bb4@1>124^80 Eb4+G4@64>60^80
+  Acoustic Grand Piano#2 : D4+F4+Bb4@1>128^32
+@115 [Eb]
+  Distortion Guitar      : F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+B2@41>1^104 E2@49>1^104 E2@53>1^104 G2@57>1^80 G2@61>1^80
+  Acoustic Guitar (steel): Eb3+Bb3+Eb4+G4@1>16^80 Eb3+Bb3+Eb4+G4@17>8^80 Eb3+Bb3+Eb4+G4@25>16^80 Eb3+Bb3+Eb4+G4@41>8^56 Eb3+Bb3+Eb4+G4@49>16^80
+  Fretless Bass          : F1@1>8^104 G2@9>14^104 F2@25>15^104 D2@41>22^80
+  Alto Sax               : Eb5@1>6^104 D5@10>14^104 C5@25>13^80 Bb4@41>14^80 Bb4@57>36^104
+  Acoustic Grand Piano#2 : Eb4+G4@1>64^32
+@116 [Bb7]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^104 F3+Bb3+D4+F4@17>24^104 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^80 F2@57>8^80
+  Fretless Bass          : Bb1@1>19^80 Bb1@25>3^104 Bb1@33>3^104 Bb1@41>14^104 F1@57>7^80
+  Rock Organ             : D5+F5+Bb5@1>128^56
+  Alto Sax               : G4@29>3^80 F4@33>11^80
+  Celesta                : Bb4@1>31^104 A4@33>30^104
+@117 [C | Fm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Bb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^104 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>24^80 G1@33>8^104 F1@41>7^80 G1@49>12^104
+  Rock Organ             : C5@1>64^56
+  Alto Sax               : Eb4@57>23^104
+  Celesta                : G4@1>31^104 F4@33>28^104
+@118 [Db]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Ab2@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^80 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>23^104 Ab1@25>6^80 Db2@33>3^80 Db2@41>11^104 Ab1@56>6^80
+  Rock Organ             : Db5+Eb5+Ab5@1>128^56
+  Alto Sax               : F4@40>8^104 Db5@48>8^80 Gb4@56>8^80 F4@64>5^56
+  Celesta                : Ab4@1>30^104 Gb4@32>30^80
+@119 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 G4@25>7^56 Eb4+G4@33>20^56 F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+Gb2@33>1^104 B1@41>1^104 E2+Bb2@49>1^104 B1@57>1^104 Gb2@61>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 F3+Bb3+D4+F4@57>4^80 F3+Bb3+D4+F4@61>4^80
+  Fretless Bass          : Eb2@1>8^80 Ab2@9>8^104 Gb2@17>8^80 F2@25>8^80 Eb2@34>4^80 Eb2@41>9^80 F2@50>13^80
+  Rock Organ             : Bb4@1>64^56 G5@33>32^56
+  Alto Sax               : F4@9>11^80 Bb3@41>5^104 Bb3@48>6^80 Db4@56>8^104 C4@64>10^104
+  Celesta                : F4@1>28^104 Eb4@34>19^104
+@120 [Bb]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+G3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>24^80 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^80 F2@57>8^80
+  Fretless Bass          : Bb1@1>19^80 Bb1@25>3^104 Bb1@33>3^104 Bb1@41>14^104 F1@57>7^104
+  Rock Organ             : D5+F5+Bb5@1>128^56
+  Alto Sax               : Db4@11>2^80 C4@14>4^80 Bb3@18>4^80 G3@21>4^56 F3@25>11^56 Db4@42>18^80
+  Celesta                : Bb4@1>31^104 A4@33>30^104
+@121 [C | Fm]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^80 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>24^104 F1@25>6^104 G1@33>8^104 F1@41>7^80 G1@49>12^104
+  Rock Organ             : C5@1>64^56
+  Alto Sax               : Bb3@42>4^104 Db4@48>5^104 Eb4@53>5^104 F4@61>8^104
+  Celesta                : G4@1>31^104 F4@33>28^104
+@122 [Db]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Ab2@13>1^32 E2+Gb2@17>1^104 Bb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^80 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>22^80 Ab1@25>4^80 Db2@33>4^80 Db2@41>8^104 G2@49>8^104 Ab2@57>14^104
+  Rock Organ             : Db5+Eb5+Ab5@1>128^56
+  Acoustic Grand Piano   : Ab4@1>28^104 Gb4@34>28^80
+  Alto Sax               : F4@8>8^80 Bb3@41>4^104 Db4@48>4^80 Eb4@53>5^104 F4@61>7^104
+  Celesta                : Ab4@1>30^104 Gb4@32>30^104
+@123 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 Bb4@25>7^80 Eb4+Bb4@33>20^56 F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 B1+Bb4@13>1^104 E2@17>1^104 B1@25>1^104 Bb4@29>1^32 E2@33>1^104 G2@41>1^104 E2@49>1^104 E2@53>1^104 Gb2@57>1^56 Gb2@61>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 Bb3+Eb4+G4+Bb4@57>8^56
+  Fretless Bass          : Eb2@9>6^104 Ab2@17>12^104 Eb2@33>4^104 Eb2@41>8^104 C2@49>7^104 Ab1@57>7^104
+  Rock Organ             : Bb4@1>64^56 G5@33>32^56
+  Acoustic Grand Piano   : F4@1>29^104 Eb4@34>15^104
+  Alto Sax               : F4@8>6^104 F4@16>4^80 F4@25>7^104 F4@41>7^104 F4@57>8^104
+  Celesta                : F4@1>28^104 Eb4@34>19^104
+@124 [Bb7]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^56
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^80 F3+Bb3+D4+F4@17>24^80 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^80 F2@57>8^80
+  Fretless Bass          : Bb1@1>19^80 Bb1@25>3^80 Bb1@33>3^104 Bb1@41>14^104 F1@57>7^80
+  Rock Organ             : D5+Bb5@1>256^56 A5@33>32^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@1>14^104 Bb4+F5+A5@17>12^104 Bb4+F5@33>5^104 Bb4+D5+Bb5@41>11^104 F5@56>2^80 Bb4+Bb5@57>20^80 G5@58>22^104
+  Celesta                : Bb4@1>31^104 A4@33>30^104
+  String Ensemble 2      : Bb5@1>34^80 A5@34>28^56 G5@63>33^56
+@125 [Gm7 | Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 Bb4@29>1^32 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^104 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>24^80 G1@33>8^104 F1@41>7^80 G1@49>12^104
+  Rock Organ             : G5@1>33^56 F5@33>32^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@17>15^80 Bb4+D5+Bb5@33>7^80 Bb4+Bb5@41>10^80 Bb4@57>4^104 C5@61>4^104
+  Celesta                : G4@1>31^104 F4@33>28^104
+  String Ensemble 2      : F5@33>30^80 Ab5@64>33^80
+@126 [Db | Gb]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^80 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>23^104 Ab1@25>6^80 Db2@33>3^80 Db2@41>11^80 Ab1@56>6^80
+  Rock Organ             : Eb5+Ab5@1>128^56 Gb5@33>30^56
+  Acoustic Grand Piano   : Bb4+Db5+Bb5@1>13^104 C5+Bb5@17>7^80 Bb4+Db5+Bb5@25>18^104 Eb5@48>4^104 Bb4+Bb5@49>7^56 F5@51>4^104 Bb4+Eb5+Bb5@57>26^104
+  Celesta                : Ab4@1>30^104 Gb4@32>30^80
+  String Ensemble 2      : Gb5@32>31^56 F5@64>32^56
+@127 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 G4@25>7^56 Eb4+G4@33>20^56 F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 B1+Gb2@9>1^104 Gb2+Bb4@13>1^56 E2@17>1^104 G3@21>1^104 Gb2@25>1^56 Bb4@29>1^32 B1+G3@33>1^104 B1@41>1^104 E2@49>1^104 E2@53>1^104 G2@57>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 F3+Bb3+D4+F4@57>4^80 F3+Bb3+D4+F4@61>4^80
+  Fretless Bass          : Eb2@1>16^80 Bb1@25>5^80 Eb2@32>5^80 Eb2@41>6^104 F2@50>12^104
+  Rock Organ             : F5@1>30^56 G5@33>32^56
+  Celesta                : F4@1>28^104 Eb4@34>19^104
+  String Ensemble 2      : Eb5@32>32^56
+@128 [Bb7]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+Db3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^56 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^104 F3+Bb3+D4+F4@17>24^104 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^80 F2@57>8^80
+  Fretless Bass          : Bb1@1>19^80 Bb1@25>3^80 Bb1@33>3^80 Bb1@41>14^104 F1@57>7^80
+  Rock Organ             : D5+Bb5@1>256^56 A5@33>32^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@1>14^104 Bb4+F5+A5@17>12^104 Bb4+F5@33>5^104 Bb4+D5+Bb5@41>11^104 F5@56>2^104 Bb4+Bb5@57>20^80 G5@58>22^104
+  Celesta                : Bb4@1>31^104 A4@33>30^104
+  String Ensemble 2      : Bb5@1>32^80 A5@32>32^80 G5@64>32^56
+@129 [Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Bb4@29>1^104 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^104 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>24^104 F1@25>6^104 G1@33>8^104 F1@41>7^80 G1@49>12^80
+  Rock Organ             : G5@1>33^56 F5@33>32^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@17>15^80 Bb4+D5+Bb5@33>7^80 Bb4+Bb5@41>10^80 Bb4@57>4^104 C5@61>4^80
+  Celesta                : G4@1>31^104 F4@33>28^104
+  String Ensemble 2      : F5@32>31^56 Ab5@63>33^56
+@130 [Db | Gb]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^104 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>22^80 Ab1@25>4^80 Db2@33>4^80 Db2@41>8^104 Db2@57>6^80
+  Rock Organ             : Eb5+Ab5@1>128^56 Gb5@33>30^56
+  Acoustic Grand Piano   : Bb4+Db5+Bb5@1>13^104 C5+Bb5@17>7^80 Bb4+Db5+Bb5@25>18^104 Eb5@48>4^104 Bb4+Bb5@49>7^56 F5@51>4^104 Bb4+Eb5+Bb5@57>26^104
+  Celesta                : Ab4@1>30^104 Gb4@32>30^104
+  String Ensemble 2      : Gb5@32>32^56
+@131 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 Bb4@25>7^56 Eb4+Bb4@33>20^56 F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 B1+Gb2@9>1^104 Bb4@13>1^32 E2+Gb2@17>1^104 B1+Gb2@25>1^104 Bb4@29>1^32 E2+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^56 Gb2@61>1^80
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 Bb3+Eb4+G4+Bb4@57>8^80
+  Fretless Bass          : Eb2@1>22^104 Bb1@25>6^80 Eb2@34>5^104 Eb2@41>8^104 C2@49>7^104 Ab1@57>7^104
+  Rock Organ             : F5@1>30^56 G5@33>32^56
+  Celesta                : F4@1>28^104 Eb4@34>19^104
+  String Ensemble 2      : F5@1>32^56 Eb5@38>25^56 Bb5@64>34^80
+@132 [Bb7]
+  Distortion Guitar      : F4+Bb4@1>124^80
+  Drums                  : B1+A3@1>1^104 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): F3+Bb3+D4+F4@1>15^104 F3+Bb3+D4+F4@17>24^80 F3+Bb3+D4+F4@41>8^80 F3+Bb3+D4+F4@49>15^80 F2@57>8^80
+  Fretless Bass          : Bb1@1>19^80 Bb1@25>3^104 Bb1@33>3^80 Bb1@41>14^104 F1@57>7^80
+  Rock Organ             : D5+Bb5@1>255^56 A5@33>32^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@1>14^104 Bb4+F5+A5@17>12^104 Bb4+F5@33>5^104 Bb4+D5+Bb5@41>11^104 F5@56>2^80 Bb4+Bb5@57>20^104 G5@58>22^104
+  String Ensemble 2      : A5@33>31^80 G5@63>33^80
+@133 [Bb]
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^56 Bb4@13>1^32 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Bb4@29>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Bb2@57>1^80
+  Acoustic Guitar (steel): G2+F3+Bb3+C4@1>16^104 F3+Bb3+C4+F4@17>24^80 F3+Bb3+C4+F4@41>8^80 F3+Bb3+C4+F4@49>8^80 F3+Bb3+C4+F4@57>8^80
+  Fretless Bass          : G1@1>24^80 G1@33>8^104 F1@41>7^80 G1@49>12^80
+  Rock Organ             : G5@1>33^56 F5@33>32^56
+  Acoustic Grand Piano   : Bb4+F5+Bb5@17>15^80 Bb4+D5+Bb5@33>7^80 Bb4+Bb5@41>10^104 Bb4@57>4^104 C5@61>4^104
+  String Ensemble 2      : F5@32>31^80 Ab5@63>33^56
+@134 [Db | Gb]
+  Distortion Guitar      : Eb4+Ab4@1>59^80
+  Drums                  : B1+Gb2@1>1^104 Gb2@9>1^80 E2+Gb2@17>1^104 Gb2@25>1^80 B1+Gb2@33>1^104 B1+Gb2@41>1^104 E2+Gb2@49>1^104 Gb2@57>1^80
+  Acoustic Guitar (steel): Ab3+Db4+Eb4+Ab4@1>15^80 Ab3+Db4+Eb4+Ab4@17>24^80 Ab3+Db4+Eb4+Ab4@41>8^80 Ab3+Db4+Eb4+Ab4@49>8^80 Ab3+Db4+Eb4+Ab4@57>8^80
+  Fretless Bass          : Db2@1>23^104 Ab1@25>6^80 Db2@33>3^80 Db2@41>11^104 Ab1@56>6^80
+  Rock Organ             : Eb5+Ab5@1>128^56 Gb5@33>30^56
+  Acoustic Grand Piano   : Bb4+Db5+Bb5@1>13^104 C5+Bb5@17>7^80 Bb4+Db5+Bb5@25>18^104 Eb5@48>4^104 Bb4+Bb5@49>7^56 F5@51>4^104 Bb4+Eb5+Bb5@57>26^104
+  String Ensemble 2      : Gb5@32>32^80 F5@63>33^56
+@135 [Eb]
+  Distortion Guitar      : Eb4+Ab4@1>30^56 G4@25>7^56 Eb4+G4@33>20^56 F4+Bb4@57>3^80 F4+Bb4@61>3^80
+  Drums                  : B1+Gb2@1>1^104 B1+Gb2@9>1^104 Bb4@13>1^32 E2+Gb2@17>1^104 B1+Gb2@25>1^104 Bb4@29>1^32 E2@33>1^80 E2@37>1^104 B1@41>1^104 E2@48>1^80 E2@49>1^104 B1+Db3@57>1^104
+  Acoustic Guitar (steel): Bb3+Eb4+Ab4+Bb4@1>24^80 Bb3+Eb4+G4+Bb4@25>8^80 Bb3+Eb4+G4+Bb4@33>16^80 Bb3+Eb4+G4+Bb4@49>8^80 F3+Bb3+D4+F4@57>4^80 F3+Bb3+D4+F4@61>4^80
+  Reverse Cymbal         : E4@31>32^104
+  Fretless Bass          : Eb2@1>6^80 Eb2@9>10^80 Eb2@25>10^80 Eb2@41>10^80 Eb2@57>7^104
+  Rock Organ             : F5@1>30^56 G5@33>32^56
+  String Ensemble 2      : Eb5@33>32^56
+@136 [Bb]
+  Distortion Guitar      : F4+Bb4@1>192^56
+  Drums                  : B1@1>1^104
+  Fretless Bass          : Bb0@1>192^104
+  Rock Organ             : D5+F5+Bb5@3>190^32
+  String Ensemble 2      : Bb5@1>192^56 D4@4>186^32
+@137 [-]
+@138 [-]

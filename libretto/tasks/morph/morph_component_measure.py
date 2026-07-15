@@ -13,12 +13,15 @@ the rampable-axis progress (0=A, 1=B) + copy-overlap vs A and vs B. Then judges:
 """
 import json, sys, re
 from pathlib import Path
-import numpy as np, metric_discovery as md
-from understanding_probe import Song
-import copy_risk as cr
+import numpy as np
+from libretto.core import metric_discovery as md
+from libretto.core import Song
+from libretto.core import copy_risk as cr
 
-SCRIPT=Path(__file__).resolve().parent; GRAMMAR=SCRIPT/"grammar"
-CANON=json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+import libretto
+DATA = libretto.data_root()
+GRAMMAR = DATA / "grammar"
+CANON=json.loads((DATA/"corpus_distribution.json").read_text())
 AXES=CANON["axes_order"]; COLS={a:np.array(CANON["axes"][a]["values"],float) for a in AXES}
 RAMP=["har_chromaticism","har_dimaug_rate","rhy_triplet_share","har_chord_change_rate","mel_up_ratio",
       "har_root_motion_entropy","tex_active_voice_density","rhy_onset_density_per_bar","rhy_syncopation_rate",
@@ -42,7 +45,7 @@ def main(path,A,B,ac,bc,K):
         o=[re.sub(r'BARS:\s*\d+',f'BARS: {len(bb)}',head[0]),head[1]]
         for i,blk in enumerate(bb,1):
             x=list(blk);x[0]=re.sub(r'^@\d+',f'@{i}',x[0]);o.extend(x)
-        p=SCRIPT/"compositions/morph/_cm.txt"; p.write_text("\n".join(o)+"\n")
+        p=Path("compositions/morph")/"_cm.txt"; p.write_text("\n".join(o)+"\n")
         m=md.metrics_for(Song(p),p)
         if m is None:                       # empty/near-silent segment — no fingerprint
             gb,_,gt=cr.piece_notes(p); p.unlink(); return None,gb,gt

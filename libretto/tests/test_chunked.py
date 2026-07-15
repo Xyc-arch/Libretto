@@ -6,7 +6,7 @@ import libretto
 from libretto.tasks.newgen import chunked as ck
 
 DATA = libretto.data_root()
-AXES = json.loads((DATA / "corpus_distribution_314.json").read_text())["axes_order"]
+AXES = json.loads((DATA / "corpus_distribution.json").read_text())["axes_order"]
 
 
 def test_axis_partition():

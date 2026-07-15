@@ -21,7 +21,7 @@ SCRIPT = Path(__file__).resolve().parent
 GRAMMAR = SCRIPT / "grammar"
 OUT = SCRIPT / "compositions" / "newgen"; OUT.mkdir(parents=True, exist_ok=True)
 KEY = json.loads((SCRIPT/"answer_key"/"grammar_truth.json").read_text())
-CANON = json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+CANON = json.loads((SCRIPT/"corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 corpus_fp = {s: np.array(v, float) for s, v in
              json.loads((SCRIPT/"compositions"/"continuation"/"corpus_fps.json").read_text()).items()}

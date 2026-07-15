@@ -1,0 +1,826 @@
+KEY: G major | METER: 3/4 | TEMPO: 103 | GRID: 64th (adaptive) | BARS: 131
+VOICES: Acoustic Bass[prog=32], Choir Aahs[prog=52], FX 4 (atmosphere)[prog=99], String Ensemble 2[prog=49], Taiko Drum[prog=116], String Ensemble 1[prog=48], French Horn[prog=60], Oboe[prog=68], Drums[drums], Church Organ[prog=19], Pad 3 (polysynth)[prog=90], Acoustic Grand Piano[prog=0], Electric Piano 1[prog=4]
+@1 [-]
+@2 [G]
+  Acoustic Grand Piano: G2+G4@1>40^80 D3@9>24^32 B3@17>16^56 B4@25>6^80 B4@33>9^104 D5@41>5^104
+@3 [C]
+  Acoustic Grand Piano: G2+D5@1>33^104 E3+C5@9>29^80 G3+C5@17>35^56 E4@24>9^32 A4@33>11^56 E4@41>7^56
+@4 [C | Am7]
+  Acoustic Grand Piano: C4+E5@1>17^80 G4@9>7^80 B3+D5@17>16^80 G4@25>7^56 A3+C5@33>16^80 G4@41>3^56
+@5 [G] (grid:8)
+  Acoustic Grand Piano: G3+G4+B4@1>6^80 G4@2>4^56 B4@3>1^56 D5@4>1^56 G5@5>1^56 D5@6>1^32
+@6 [G]
+  Acoustic Grand Piano: G2+G4@1>32^80 D3@9>23^56 B3@17>16^56 B4@25>6^80 B4@33>8^104 D5@41>6^80
+@7 [C]
+  Acoustic Grand Piano: G2+D5@1>25^104 E3+C5@9>18^80 G3+C5@17>11^80 G4@25>9^56 C5@33>8^56 G4@41>4^56
+@8 [Em7 | F#dim]
+  Acoustic Grand Piano: C4+E4+E5@1>14^80 F#4@5>4^80 G4@9>7^80 B3+D4+D5@17>14^80 F#4@21>4^80 G4@25>6^80 A3+C4+C5@33>13^80 F#4@37>4^56 G4@41>4^80
+@9 [G]
+  Acoustic Grand Piano: G3+B3+B4@1>15^80 G3@9>36^56 B3@17>28^56 D4@25>8^56 G4@33>8^56 D4@41>2^56
+@10 [G]
+  FX 4 (atmosphere)   : G4@1>16^80 B4@17>16^80 D5@33>16^104
+  Acoustic Grand Piano: G2+G4@1>41^80 D3@9>38^56 B3+B4@17>33^80 G4@25>10^80 D5@33>16^80 G4@41>6^56
+  Electric Piano 1    : G2+D3+G3+B3@1>48^56
+@11 [C | D]
+  FX 4 (atmosphere)   : C5@1>32^104 A4@33>8^80 F#4@41>8^80
+  Acoustic Grand Piano: C3+C5@1>35^80 E4@9>9^56 G4+A4@17>10^56 E4@25>9^32 D3+A4@33>17^80 F#4@41>9^56
+  Electric Piano 1    : C3+G3+C4@1>32^56 D3+A3+D4@33>64^56
+@12 [G]
+  FX 4 (atmosphere)   : G4@1>31^80
+  Acoustic Grand Piano: G2+G4@1>29^80 D3@9>6^32 B3@17>6^32 D3+B4@25>3^56 B3+B4@33>8^80 D4+D5@41>4^80
+  Electric Piano 1    : G2+G3+B3@1>48^56
+@13 [C]
+  Acoustic Grand Piano: C4+D5@1>23^104 E4+C5@9>7^80 A4+C5@17>17^80 C4@25>8^32 E4@33>8^32 A4@41>3^56
+  Electric Piano 1    : C3+E3+G3+C4+E4@1>48^56
+@14 [G]
+  FX 4 (atmosphere)   : G4@1>16^80 B4@17>16^80 D5@33>16^80
+  Acoustic Grand Piano: G2+G4@1>44^80 D3+D4@9>34^32 B3+B4@17>10^80 G4@25>9^56 D5@33>11^80 B3+G4@41>4^56
+  Electric Piano 1    : G2+D3+G3+B3+D4@1>48^56
+@15 [C]
+  FX 4 (atmosphere)   : E5@1>16^80 C5@17>16^80 E5@41>7^80
+  Acoustic Grand Piano: C4+E5@1>19^80 G4@9>6^56 E5@17>8^56 G4@25>7^32 C4+E5@33>9^80 G4@41>3^56
+  Electric Piano 1    : C3+G3+C4+E4+G4@1>48^56
+@16 [G]
+  FX 4 (atmosphere)   : G5@1>16^104 D5@17>26^80
+  Acoustic Grand Piano: G2+G5@1>43^80 D3@9>16^32 B3+D5@17>13^80 G4@25>7^56 B3@33>6^32 D4@41>3^32
+  Electric Piano 1    : G2+D3+G3+D4+G4@1>48^56
+@17 [G | Bm7]
+  Acoustic Grand Piano: G3+G4+B4@1>17^80 G5@9>10^80 A3+C5@17>18^80 G4@25>11^56 B3+D5@33>12^80 G5@41>5^80
+  Electric Piano 1    : G2+G3+B3+D4@1>16^80 A2+A3+C4+E4@17>16^80 B2+B3+D4+F#4@33>16^80
+@18 [C]
+  FX 4 (atmosphere)   : E5@1>15^80 C5@17>16^80 E5@33>16^80
+  Acoustic Grand Piano: C3+C4+E5@1>47^80 G4@9>8^56 C5@17>21^56 G4@25>10^80 C4+E5@33>15^104 G4@41>8^56
+  Electric Piano 1    : C3+C4+E4+G4@1>48^80
+@19 [G]
+  FX 4 (atmosphere)   : D5@1>16^80 G5@17>15^80 D5@41>6^80
+  Acoustic Grand Piano: B2+B3+D5@1>47^80 G4@9>10^56 G5@17>25^56 G4@25>8^56 B3+D5@33>8^56 G4@41>8^56
+  Electric Piano 1    : B2+B3+D4+G4@1>48^56
+@20 [Am | D]
+  FX 4 (atmosphere)   : C5@1>16^80 D5@17>16^80 C5@33>16^80
+  Acoustic Grand Piano: A2+A3+C5@1>40^80 D4@9>8^56 F#4+D5@17>18^80 D4@25>6^32 D3+F#4+C5@33>15^80 D4@41>8^32
+  Electric Piano 1    : A2+A3+C4+E4@1>36^80 D3+F#3+A3+D4+F#4@33>48^80
+@21 [G]
+  FX 4 (atmosphere)   : B4@1>20^80 G4@33>7^80 F#4@41>8^80
+  Acoustic Grand Piano: G2+G3+B4@1>48^80 D4@9>7^56 G4@17>7^56 D4@25>8^32 B2+G4@33>16^80 F#4@41>8^56
+  Electric Piano 1    : G2+G3+B3+D4+G4@1>32^80 B2+G3+D4+G4@33>16^80
+@22 [C]
+  FX 4 (atmosphere)   : E4@1>16^80 G4@17>14^104 E5@41>7^80
+  Acoustic Grand Piano: C3+C4+E4@1>42^80 G4@9>10^56 E4@17>25^32 G4@25>12^56 E5@33>10^80 G4@41>4^56
+  Electric Piano 1    : C3+G3+C4+E4@1>48^80
+@23 [D]
+  FX 4 (atmosphere)   : D5@1>16^80 A4@17>16^80 B4@41>7^80
+  Acoustic Grand Piano: D3+F#4+D5@1>41^80 A4@9>9^56 F#5@17>30^56 D5@25>2^56 D4+F#4@33>16^56 A4@41>5^32
+  Electric Piano 1    : D3+A3+D4+F#4+A4@1>96^80
+@24 [G]
+  FX 4 (atmosphere)   : G4@1>24^80
+  String Ensemble 1   : G3+G4+B4@1>12^56 B3+G4+B4@25>2^56 B3+G4+B4@33>2^56 D4+G4+D5@41>3^56
+  French Horn         : B3@1>12^56 B3@25>2^80 B3@33>3^56 D4@41>3^80
+  Oboe                : B4@25>2^56 B4@33>3^80 D5@41>2^56
+  Acoustic Grand Piano: G2+G4+G5@1>48^104 D3@9>23^56 B3@17>16^56 B4@25>6^80 B4@33>8^104 D5@41>6^104
+  Electric Piano 1    : G2+G3+B3+D4+G4@1>96^56
+@25 [C]
+  String Ensemble 1   : D4+G4+D5@1>9^80 E4+G4+C5@9>5^56 E4+G4+C5@17>20^56
+  French Horn         : D4@1>8^80 E4@9>7^56 E4@17>17^56
+  Oboe                : D5@1>8^80 C5@9>3^56 C5@17>24^80
+  Acoustic Grand Piano: G2+D5@1>25^104 E3+C5@9>18^80 G3+C5@17>11^80 G4@25>9^80 C5@33>8^80 G4@41>4^56
+  Electric Piano 1    : C3+C4+E4@1>48^56
+@26 [C7 | F#dim]
+  String Ensemble 1   : C3+E4+G4+E5@1>13^104 G5@9>2^80 B2+D4+G4+D5@17>11^104 G5@25>2^56 A2+C4+G4+C5@33>12^104 G5@41>2^80
+  Acoustic Grand Piano: C4+E4+E5@1>8^80 F#4@5>4^56 G4+G5@9>8^80 B3+D4+D5@17>8^104 F#4@21>4^56 G4+G5@25>8^80 A3+C4+C5@33>13^104 F#4@37>4^56 G4+G5@41>8^80
+  Electric Piano 1    : C3+G3+C4+E4@1>32^56 B2+B3+D4@17>16^56 A2+A3+C4@33>16^56
+@27 [G]
+  String Ensemble 2   : D3+G3+B3@48>46^80
+  String Ensemble 1   : G2+D4+G4+B4@1>46^104
+  Acoustic Grand Piano: G3+B3+B4@1>15^80 G3@9>36^56 B3@17>28^56 D4@25>8^56 G4@33>8^56 D4@41>2^32
+  Electric Piano 1    : G2+G3+B3+D4@1>48^56
+@28 [G]
+  Choir Aahs          : G3@1>16^56 B3@17>16^80 D4@33>16^80
+  FX 4 (atmosphere)   : G4@1>16^80 B4@17>16^104 D5@33>16^104
+  String Ensemble 2   : E3+G3+C4@48>32^80
+  String Ensemble 1   : G2@1>92^80
+  Oboe                : D5@17>8^80 G4@25>2^80 D5@33>7^56 G4@41>2^56
+  Acoustic Grand Piano: G2+G4@1>41^104 D3@9>38^80 B3+B4@17>33^104 G4@25>10^80 D5@33>16^104 G4@41>6^56
+  Electric Piano 1    : G2+D3+G3+B3@1>48^56
+@29 [C | D]
+  Choir Aahs          : C4@1>32^80 D4@33>16^56
+  FX 4 (atmosphere)   : C5@1>16^80 A4@17>16^104 F#4@33>16^104
+  String Ensemble 2   : F#3+A3+D4@32>16^80 D3+G3+B3@48>51^80
+  Oboe                : E5@17>8^104 C5@25>3^80 F#5@33>8^104 D5@41>3^104
+  Acoustic Grand Piano: C3+C5@1>35^104 E4@9>9^80 G4+A4@17>10^56 E4@25>10^56 D3+A4@33>17^56 F#4@41>9^80
+  Electric Piano 1    : C3+G3+C4@1>32^56 D3+A3+D4@33>64^56
+@30 [G]
+  Choir Aahs          : B3@1>48^56
+  FX 4 (atmosphere)   : G4@1>29^104
+  String Ensemble 1   : G2@1>94^80 B3+G4+B4@25>2^80 B3+G4+B4@33>2^80 D4+G4+D5@41>3^80
+  French Horn         : B3@25>2^80 B3@33>3^80 D4@41>3^80
+  Oboe                : G5@17>8^104 D5@25>8^104 B4@33>8^80 D5@41>4^80
+  Acoustic Grand Piano: G2+G4@1>29^104 D3@9>6^32 B3@17>6^56 D3+B4@25>3^80 B3+B4@33>8^104 D4+D5@41>4^104
+  Electric Piano 1    : G2+G3+B3@1>48^56
+@31 [C]
+  Choir Aahs          : E4@1>48^32
+  String Ensemble 2   : G3+B3+D4@48>46^56
+  String Ensemble 1   : D4+G4+D5@1>9^80 E4+G4+C5@9>5^80 E4+G4+C5@17>20^80 G2@48>46^80
+  French Horn         : D4@1>8^80 E4@9>7^56 E4@17>17^56
+  Oboe                : D5@1>7^80 C5@9>5^56 C5@17>16^80
+  Acoustic Grand Piano: C4+D5@1>23^104 E4+C5@9>7^104 A4+C5@17>17^104 C4@25>8^32 E4@33>8^56 A4@41>3^56
+  Electric Piano 1    : C3+E3+G3+C4+E4@1>48^56
+@32 [G]
+  Choir Aahs          : G3@1>16^56 B3@17>16^80 D4@33>16^80
+  FX 4 (atmosphere)   : G4@1>16^104 B4@17>16^104 D5@33>16^104
+  String Ensemble 2   : G3+C4+E4@48>49^80
+  Oboe                : D5@17>9^104 G4@25>2^80 B4@33>2^56 D5@41>2^80
+  Acoustic Grand Piano: G2+G4@1>44^80 D3+D4@9>34^56 B3+B4@17>10^104 G4@25>9^56 D5@33>11^104 B3+G4@41>4^80
+  Electric Piano 1    : G2+D3+G3+B3+D4@1>48^56
+@33 [C]
+  Choir Aahs          : E4@1>16^104 C4@17>16^80 E4@41>8^80
+  FX 4 (atmosphere)   : E5@1>16^104 C5@17>16^80 E5@41>7^104
+  String Ensemble 2   : G3+B3+D4+G4@48>20^80
+  String Ensemble 1   : C3@1>44^80
+  Oboe                : E5@17>9^104 G4@25>2^80 C5@33>2^80 E5@41>3^80
+  Acoustic Grand Piano: C4+E5@1>19^104 G4@9>6^56 E5@17>8^80 G4@25>7^56 C4+E5@33>9^104 G4@41>3^80
+  Electric Piano 1    : C3+G3+C4+E4+G4@1>48^56
+@34 [G]
+  Choir Aahs          : G4@1>16^80 D4@17>24^56
+  FX 4 (atmosphere)   : G5@1>16^104 D5@17>16^104
+  String Ensemble 2   : G3+B3+D4@16>64^80
+  String Ensemble 1   : G2@1>45^80
+  Oboe                : G5@17>10^80 D5@25>3^80 B4@33>3^80 D5@41>3^80
+  Acoustic Grand Piano: G2+G5@1>43^104 D3@9>16^32 B3+D5@17>13^80 G4@25>7^80 B3@33>6^32 D4@41>3^56
+  Electric Piano 1    : G2+D3+G3+D4+G4@1>48^56
+@35 [G | Bm]
+  Choir Aahs          : B3@1>20^56
+  String Ensemble 2   : C3+G3+C4+E4@48>47^104
+  String Ensemble 1   : G2+G4+B4@1>16^80 G5@9>2^80 A2+A4+C5@17>15^80 G5@25>3^80 B2+B4+D5@33>16^80 G5@41>2^80 F#5@45>3^56
+  French Horn         : G3+D4@1>15^56 A3+E4@17>16^56 B3+F#4@33>16^56
+  Oboe                : B4@1>16^56 C5@17>16^80 D5@33>16^80
+  Acoustic Grand Piano: G3+G4+B4@1>17^80 G5@9>10^104 A3+C5@17>18^104 G4@25>11^80 B3+D5@33>12^104 G5@41>5^104
+  Electric Piano 1    : G2+G3+B3+D4@1>16^80 A2+A3+C4+E4@17>16^80 B2+B3+D4+F#4@33>16^80
+@36 [C]
+  Choir Aahs          : C4+E4+G4@1>49^80
+  FX 4 (atmosphere)   : E5@1>14^104 C5@17>11^104 E5@41>5^104
+  String Ensemble 2   : G3+B3+D4@48>49^80
+  String Ensemble 1   : C3+C5+E5@1>45^80 G5@33>11^56
+  French Horn         : C4+G4@1>45^56
+  Oboe                : E5@1>32^80 G5@33>15^80
+  Acoustic Grand Piano: C3+C4+E5@1>47^104 G4@9>8^56 C5@17>21^80 G4@25>10^80 C4+E5@33>15^104 G4@41>8^80
+  Electric Piano 1    : C3+C4+E4+G4@1>48^80
+@37 [G]
+  Choir Aahs          : B3+D4@1>48^80
+  FX 4 (atmosphere)   : D5@1>16^104 G5@17>15^104 D5@41>5^104
+  String Ensemble 2   : F#3+B3+D#4@48>92^104
+  String Ensemble 1   : B2+B4+D5@1>43^80 G5@33>10^56
+  Oboe                : D5@1>43^80
+  Acoustic Grand Piano: B2+B3+D5@1>47^104 G4@9>10^56 G5@17>25^80 G4@25>8^56 B3+D5@33>8^56 G4@41>8^56
+  Electric Piano 1    : B2+B3+D4+G4@1>48^56
+@38 [B7]
+  Choir Aahs          : B3+D#4+F#4@1>48^80
+  FX 4 (atmosphere)   : D#5@1>16^104 B4@17>16^104 A4@33>16^104
+  String Ensemble 2   : E3+E4@48>45^104
+  String Ensemble 1   : D#3+C5@1>44^80 D5@12>3^56 C5@14>4^80 B4@17>5^80 A4@33>15^80 B4@35>3^104
+  Oboe                : D#5@1>14^104 C5@15>3^80 B4@17>12^80 A4@29>2^80 B4@32>2^80 A4@33>16^80
+  Acoustic Grand Piano: B2+D#5@1>34^80 B3@9>10^56 D#4+B4@17>34^80 B3@25>8^80 F#3+A4@33>15^80 B3@41>8^56
+  Electric Piano 1    : B2+A3+D#4+F#4@1>47^80
+@39 [Em] (grid:16)
+  Choir Aahs          : G3+B3+E4+G4@1>9^56
+  FX 4 (atmosphere)   : G4@1>5^104 E4@11>1^104
+  String Ensemble 1   : E3+G4@1>11^104 F#4@4>1^80 E4@5>4^80
+  Oboe                : G4@1>3^80 F#4@4>1^56 E4@5>5^80
+  Acoustic Grand Piano: E2+G4@1>13^80 B3@3>2^56 F#4@4>1^80 E4@5>7^80 B3@7>2^80 E3+G4@9>3^80 B3@11>1^80
+  Electric Piano 1    : E2+G3+B3+E4+G4@1>8^80 B2+G3+D4+G4@9>4^80
+@40 [C]
+  FX 4 (atmosphere)   : G4@1>15^104 C5@17>9^104 E5@41>6^104
+  String Ensemble 2   : C3+G3+C4+E4@1>11^80 D3+A3+D4+F#4@48>45^80
+  String Ensemble 1   : C3@1>44^104
+  Oboe                : G4@1>4^80 C5@17>16^80 E5@33>16^80
+  Acoustic Grand Piano: C3+C4+E4@1>42^80 G4@9>10^80 E4@17>25^32 G4@25>12^56 E5@33>10^104 G4@41>4^56
+  Electric Piano 1    : C3+G3+C4+E4@1>48^80
+@41 [D]
+  FX 4 (atmosphere)   : D5@1>16^104 A4@17>13^104 B4@41>5^104
+  String Ensemble 1   : D3@1>43^104
+  Oboe                : D5@1>16^80 F#5@17>16^80 A5@33>16^80
+  Acoustic Grand Piano: D3+F#4+D5@1>41^104 A4@9>9^56 F#5@17>30^80 D5@25>2^56 D4+F#4@33>16^56 A4@41>5^56
+  Electric Piano 1    : D3+A3+D4+F#4+A4@1>96^80
+@42 [G]
+  FX 4 (atmosphere)   : G4@1>24^104
+  String Ensemble 1   : G3+G4+B4@1>12^56 B3+G4+B4@25>2^80 B3+G4+B4@33>2^80 D4+G4+D5@41>3^80
+  French Horn         : B3@1>12^80 B3@25>2^80 B3@33>3^80 D4@41>3^80
+  Oboe                : B4@25>2^80 B4@33>3^80 D5@41>2^104
+  Acoustic Grand Piano: G2+G4+G5@1>48^80 D3@9>23^56 B3@17>16^56 B4@25>6^80 B4@33>8^104 D5@41>6^104
+  Electric Piano 1    : G2+G3+B3+D4+G4@1>96^56
+@43 [C]
+  String Ensemble 1   : D4+G4+D5@1>9^80 E4+G4+C5@9>5^80 E4+G4+C5@17>20^80
+  French Horn         : D4@1>8^80 E4@9>7^56 E4@17>17^56
+  Oboe                : D5@1>8^80 C5@9>3^80 C5@17>24^80
+  Acoustic Grand Piano: G2+D5@1>25^104 E3+C5@9>18^80 G3+C5@17>11^80 G4@25>9^80 C5@33>8^80 G4@41>4^56
+  Electric Piano 1    : C3+C4+E4@1>48^56
+@44 [C7 | Am7]
+  String Ensemble 1   : C3+E4+G4+E5@1>13^104 G5@9>2^80 B2+D4+G4+D5@17>11^104 G5@25>2^80 A2+C4+G4+C5@33>12^104 G5@41>2^80
+  French Horn         : C4+E4@1>9^80 B3+D4@17>8^80 A3+C4@33>8^56
+  Oboe                : G4+E5@1>14^80 F#4+D5@17>12^80 E4+C5@33>11^80
+  Acoustic Grand Piano: C4+E4+E5@1>8^80 F#4@5>4^56 G4+G5@9>8^80 B3+D4+D5@17>8^104 F#4@21>4^56 G4+G5@25>8^80 A3+C4+C5@33>13^104 F#4@37>4^56 G4+G5@41>8^80
+  Electric Piano 1    : C3+G3+C4+E4@1>32^56 B2+B3+D4@17>16^56 A2+A3+C4@33>16^56
+@45 [G]
+  String Ensemble 2   : G3+D4+G4@48>184^80
+  String Ensemble 1   : G2+D4+G4+B4@1>46^104
+  French Horn         : G3+B3@1>36^56
+  Oboe                : D4+B4@1>35^80
+  Acoustic Grand Piano: G3+B3+B4@1>15^80 G4@9>36^80 B4@17>28^56 D5@25>8^80 G5@33>8^80 D5@41>2^56
+  Electric Piano 1    : G2+G3+B3+D4@1>48^56
+@46 [G]
+  String Ensemble 2   : C4+E4@48>45^80
+  French Horn         : G3+D4+G4@1>92^56
+  Oboe                : G4@1>21^80 B4@25>2^56 B4@33>2^80 D5@41>2^80
+  Acoustic Grand Piano: G2+G4@1>32^80 D3@9>23^56 B3@17>16^56 B4@25>6^80 B4@33>8^104 D5@41>6^80
+  Electric Piano 1    : G2+G3+B3+D4+G4@1>96^56
+@47 [C]
+  String Ensemble 2   : C4+E4@48>16^80
+  Oboe                : D5@1>8^80 C5@9>2^80 C5@17>21^80
+  Acoustic Grand Piano: G2+D5@1>25^104 E3+C5@9>18^80 G3+C5@17>11^80 G4@25>9^56 C5@33>8^56 G4@41>4^56
+  Electric Piano 1    : C3+C4+E4@1>48^56
+@48 [C7 | F#dim]
+  String Ensemble 2   : B3+D4@16>13^80 A3+C4@32>13^80 G3+B3@48>42^56
+  String Ensemble 1   : C3@1>8^104 B2@16>9^104 A2@33>8^104
+  French Horn         : E4+G4@1>8^80 G3@9>8^80 D4+G4@17>8^80 G3@25>8^80 C4+G4@33>8^80 G3@41>5^80
+  Oboe                : E5@1>10^80 D5@17>10^80 C5@33>10^80
+  Acoustic Grand Piano: C4+E4+E5@1>7^104 F#4@5>4^80 G4+G5@9>8^80 B3+D4+F#4+D5@17>9^80 G4@21>9^56 G5@25>8^56 A3+C4+F#4+C5@33>9^80 G4@37>5^56 G5@41>5^56
+  Electric Piano 1    : C3+G3+C4+E4@1>32^56 B2+B3+D4@17>16^56 A2+A3+C4@33>16^56
+@49 [G]
+  Choir Aahs          : B3+D4@44>2^104
+  String Ensemble 2   : D4+B4@48>96^80
+  Taiko Drum          : G2@33>16^80
+  String Ensemble 1   : G2@1>37^104
+  French Horn         : B3+G4@1>32^80
+  Oboe                : B4@1>34^56
+  Drums               : C2+D2@20>1^32 D2@22>1^32 C2@23>1^32 C2+D2@25>1^32 D2@26>1^56 C2@27>1^56 D2@28>1^56 C2@29>1^56 C2+D2@30>1^56 D2@31>1^56 C2@32>1^56 C2+D2@33>1^80
+  Acoustic Grand Piano: G3+B3+B4@1>47^80
+  Electric Piano 1    : G2+G3+B3+D4@1>48^56
+@50 [G]
+  Acoustic Bass       : G2@1>37^104 G2@43>4^80
+  Choir Aahs          : G3+B3+B4@1>15^104 G3+B3+B4@17>5^104 G3+B3+B4@44>5^104
+  String Ensemble 2   : G4@48>48^56
+  String Ensemble 1   : G2@1>48^104
+  French Horn         : B3@1>42^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : B4+D5+G5@1>124^80
+  Acoustic Grand Piano: G2+G3+D4+G4+B4@1>34^104 G3+D4+G4+B4@17>5^104 G3+D4+G4+B4@33>2^104 D4@44>2^104
+@51 [G]
+  Acoustic Bass       : B2@1>37^56 B2@43>5^80
+  Choir Aahs          : B3+D4+B4@1>16^104 B3+D4+B4@17>4^104 B3+D4+A4+C5@44>5^104
+  String Ensemble 2   : E4+A4@48>32^80
+  String Ensemble 1   : B2@1>48^104
+  French Horn         : D4@1>42^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Acoustic Grand Piano: B2+D4+G4+B4@1>48^104 B3+D4+G4+B4@17>5^104 B3+D4+G4+B4@33>2^104 D4@44>2^80
+@52 [Am7 | D]
+  Acoustic Bass       : C3@1>16^104 A2@17>16^56 D3@33>15^104
+  Choir Aahs          : C4+E4+A4+E5@1>33^104 D5@5>12^80 G4+C5@17>16^104 D4+F#4+A4+D5@33>16^104
+  String Ensemble 2   : G4@16>16^80 F#4+A4@32>16^80 B3+G4@48>40^80
+  String Ensemble 1   : C3@1>32^104 D3@33>16^104
+  French Horn         : C4@1>16^80 E4@17>16^80 D4@33>16^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : C5+E5@1>32^80 D5+F#5+A5@33>16^56
+  Acoustic Grand Piano: C3+C4+E4+A4@1>16^104 C3+C4+E4+G4@17>13^104 D3+D4+F#4+D5@33>10^104
+@53 [G]
+  Acoustic Bass       : G2@1>40^80 G2@43>4^80
+  Choir Aahs          : B3+D4+G4+B4@1>33^104
+  String Ensemble 2   : F#4+C5@48>96^80
+  String Ensemble 1   : G2@1>40^104
+  French Horn         : B3@1>32^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : B4+D5+G5@1>48^80
+  Acoustic Grand Piano: G2+G3+D4+G4+B4@1>32^104 G3+D4+G4@17>5^80 G3+D4+G4+B4@33>2^104
+@54 [D]
+  Acoustic Bass       : D3@1>43^80 A2@44>4^80
+  Choir Aahs          : D4+F#4+A4+C5@1>14^104 D4+F#4+A4+C5@17>7^104 D4+F#4+A4+C5@44>4^104
+  String Ensemble 2   : D5@48>32^80
+  String Ensemble 1   : D3@1>96^104
+  French Horn         : D4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : D5+F#5+A5@1>188^80
+  Acoustic Grand Piano: D2+D3+F#4+A4+D5@1>14^104 D3+A4+D5+F#5@17>14^104 D3+A4+D5+F#5+A5@33>2^104
+@55 [D7 | F#dim]
+  Acoustic Bass       : D3@1>40^80 D3@44>6^80
+  Choir Aahs          : E4+G4+B4+D5@1>11^104 C5@11>4^104 D4+F#4+A4@12>3^80 D4+F#4+A4+C5@17>8^104 C5@43>4^104 C4+E4+A4@44>5^104
+  String Ensemble 2   : C5@32>16^104 G4+B4@48>32^80
+  French Horn         : F#4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : C6@1>48^104
+  Acoustic Grand Piano: D2+D3+A4+D5+F#5@1>2^104 D3+A4+D5+F#5+A5@17>2^104 D3+D5+F#5+D6@33>2^104
+@56 [G]
+  Acoustic Bass       : G2@1>43^80 D2@43>4^80
+  Choir Aahs          : B3+D4+G4+B4+D5@1>32^104 A3+C4+E4+A4+C5@33>5^104 B3+D4+G4+B4+D5@38>5^104 A3+C4+E4+A4+C5@44>5^104
+  String Ensemble 2   : D4+A4@32>5^104 E4+B4@37>5^80 D4+A4@43>5^104 B3+G4@48>42^80
+  String Ensemble 1   : G2@1>44^104
+  French Horn         : G4@1>32^80 E4@33>5^80 G4@38>5^80 E4@44>5^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : G5+B5@1>92^80
+  Acoustic Grand Piano: G2+G3+B4+D5+G5+B5@1>16^104 G3+B4+D5@17>2^80 B4@28>2^80 G2+G3+B4+D5+A5@33>2^104 D5+B5@38>2^104 B4+D5@44>2^80
+@57 [G]
+  Acoustic Bass       : G2@1>16^80 A2@17>16^104 B2@33>16^104
+  Choir Aahs          : G3+B3+D4+G4+B4+D5@1>32^104
+  String Ensemble 2   : C4+G4+E5@48>96^104
+  String Ensemble 1   : G2@1>16^104 A2@17>16^104 B2@33>16^104
+  French Horn         : D4@1>26^80 G4@33>5^104 F#4@38>5^104
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^80 D2@21>1^32 D2@22>1^32 D2@23>1^32 D2@24>1^32 D2@25>1^32 D2@26>1^32 D2@27>1^32 D2@28>1^32 D2@29>1^32 D2@30>1^32 D2@31>1^32 D2@32>1^32 D2@33>1^80 B1+F2@43>1^56
+  Church Organ        : B4@1>44^56
+  Acoustic Grand Piano: G2+G3+B4+D5+G5@1>21^104 G2+G3+B4@17>2^104 B2+G4+B4+D5+G5@33>2^104
+@58 [C]
+  Acoustic Bass       : C3@1>32^80 C3@44>5^80
+  FX 4 (atmosphere)   : E5@1>8^104 C5@17>7^104 E5@33>10^104
+  String Ensemble 2   : G5@32>16^80 B3+D5@48>48^104
+  String Ensemble 1   : C3@1>48^104
+  French Horn         : E4@1>32^104 E4@33>5^80 E4@38>5^80 G4@44>5^80
+  Drums               : B1+D2+F2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : C5+E5+G5@1>96^80
+  Acoustic Grand Piano: C3+G3+E4+C5@1>10^80 G4@12>2^80 C3+G3+C5@17>5^104 G4@22>2^80 C5@28>5^80 C3+G3+E5@33>2^104 C5@38>2^80 G5@44>5^104
+@59 [G]
+  Acoustic Bass       : B2@1>45^104
+  FX 4 (atmosphere)   : D5@1>11^104 G5@17>12^104 D5@41>3^104
+  String Ensemble 2   : D#4+B4+F#5@48>48^104
+  String Ensemble 1   : B2@1>48^104
+  French Horn         : G4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : B4+D5@1>48^80
+  Acoustic Grand Piano: G2+G3+B4+G5@1>18^104 G4@12>5^56 G3+B4@17>2^104 G4@22>2^80 B4@28>2^80 G3+G4+B4+D5@33>10^104
+@60 [B | D#dim]
+  Acoustic Bass       : D#3@1>31^104 D#3@33>16^104
+  Choir Aahs          : B3+A4@1>8^80 B3+A4@17>9^104 D#4+A4@33>15^104
+  FX 4 (atmosphere)   : D#5@1>14^104 B4@17>14^104 A4@33>13^104
+  String Ensemble 2   : F#4+A5@32>16^104 E4+B4+G5@48>42^104
+  String Ensemble 1   : D#3@1>48^104
+  French Horn         : F#4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : B4+D#5+F#5@1>96^80 A5@33>16^80
+  Acoustic Grand Piano: B2+B3+F#4+B4+D#5@1>21^104 B3+B4+D#5+F#5@17>2^104 B2+B3+B4+D#5+A5@33>2^104
+@61 [Em]
+  Acoustic Bass       : E3@1>32^80 D3@33>11^104
+  Choir Aahs          : E4+G4@1>27^80
+  FX 4 (atmosphere)   : G4@1>22^104 E4@41>4^104
+  String Ensemble 2   : G3+E4+C5@48>49^104
+  String Ensemble 1   : E3@1>32^104 D3@33>16^104
+  French Horn         : E4@1>32^80 B3@33>5^80 B3@38>5^80 E4@44>5^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : E5+G5@1>48^80
+  Acoustic Grand Piano: E3+E4+G4+B4+G5@1>34^104 G4@12>2^56 E4+G4+B4+E5@17>2^104 E4+G4+B4@33>2^80
+@62 [C]
+  Acoustic Bass       : C3@1>37^80 C3@44>5^80
+  FX 4 (atmosphere)   : G4@1>13^104 C5@17>20^104 E5@41>4^104
+  String Ensemble 2   : A3+F#4@47>49^104 D5@48>48^80
+  String Ensemble 1   : C3@1>48^104
+  French Horn         : E4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : G4+C5+E5@1>48^80
+  Acoustic Grand Piano: C3+G3+E4+G4+C5@1>5^104 C3+G3+E4+G4+C5+E5@17>2^80 C3+G3+C4+G4+C5+G5@33>5^80
+@63 [D]
+  Acoustic Bass       : D3@1>35^104 D3@43>5^80
+  FX 4 (atmosphere)   : D5@1>16^104 A4@17>22^104 B4@41>5^104
+  String Ensemble 2   : B3@46>32^104 G4@47>31^104
+  String Ensemble 1   : D3@1>48^104
+  French Horn         : F#4@1>42^56
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104
+  Church Organ        : A4+D5+F#5@1>48^80
+  Acoustic Grand Piano: D3+A3+D4+A4+D5+F#5@1>8^104 D3+A3+D4+D5+F#5+A5+D6@17>2^80 D3+A3+D4+D5+F#5+A5+D6@33>5^104
+@64 [G]
+  Acoustic Bass       : G2@1>32^80 D2@33>15^80
+  FX 4 (atmosphere)   : G4@1>14^104
+  String Ensemble 1   : G2@1>80^80 B3+D5@17>7^56 A3+C5@33>3^80 B3+D5@35>3^80 C5@37>4^80 A3+D5@39>3^80 B3@41>2^80 C5@42>5^80 A3@44>3^56 B3+D5@45>4^80 A3+C5@47>3^80
+  French Horn         : G4@17>8^56 E4@33>16^56
+  Drums               : B1@1>1^80 B3@33>1^32 B3@34>1^32 B3@35>1^32 B3@36>1^32 B3@37>1^32 B3@38>1^32 B3@39>1^32 B3@40>1^32 B3@41>1^32 B3@42>1^32 B3@43>1^32 B3@44>1^32 B3@45>1^32 B3@46>1^32 B3@47>1^32 B3@48>1^32
+  Pad 3 (polysynth)   : G4+B4+D5@17>16^104 E4+A4+C5@33>16^104 B4+D5@35>4^104 C5@38>3^80 B4@40>3^80 D5@41>3^80 A4@42>6^80 C5@43>3^80 B4@45>2^80 D5@46>4^80 D4@48>20^80
+  Acoustic Grand Piano: G2+D3+G3+B3+D4+G4@1>2^80 B4+D5@17>5^104 D3+A4+C5@33>16^80
+@65 [G] (grid:32)
+  Acoustic Bass       : G2@1>20^80
+  String Ensemble 1   : G3+B4@1>16^80
+  French Horn         : D4@1>21^32
+  Drums               : B3@1>1^32
+  Pad 3 (polysynth)   : G4+B4@1>16^104
+  Acoustic Grand Piano: G2+G3+G4+B4@1>16^80 D5@22>2^56 E5@23>2^80 F#5@24>1^56
+@66 [G] (grid:8)
+  Acoustic Bass       : G2@1>11^56
+  String Ensemble 2   : G2+D3+G3+B3+D4@1>24^56
+  String Ensemble 1   : D3+B3+G4@1>4^80 D4+B4@3>2^80 G4+D5@5>1^80
+  French Horn         : B3+D4@1>6^56
+  Acoustic Grand Piano: G2+G5@1>2^104 D3+D5@2>1^80 B3+B5@3>2^80 D5@4>1^80 D4+D6@5>1^80 D5@6>1^56
+@67 [C | D] (grid:32)
+  String Ensemble 2   : C3+G3+C4+E4@1>4^80 D3+A3+D4+F#4@17>32^80
+  String Ensemble 1   : E3+E4+C5@1>16^80 D5@2>1^80 C5@3>1^56 D5@5>1^56 C5@6>8^56 F#3+F#4+A4@17>4^80 D4+F#4@21>1^80
+  French Horn         : C4+E4@1>16^56 D4+F#4@17>6^56
+  Acoustic Grand Piano: C3+C6@1>13^80 C5@5>4^80 G3+E5@9>9^80 C5@13>4^80 D3+A5@17>7^104 F#5@21>4^80
+@68 [G] (grid:8)
+  Acoustic Bass       : G2@1>6^56
+  String Ensemble 2   : G2+G3+B3+D4@1>24^80
+  String Ensemble 1   : D3+D4+G4@1>5^80 B3@3>3^56 B4@5>1^80 D5@6>1^56
+  French Horn         : B3+D4@1>5^56
+  Acoustic Grand Piano: G2+G5@1>4^104 D3@2>3^56 B3@3>2^56 G4@4>2^80 B4@5>1^104 D5@6>1^104
+@69 [C] (grid:32)
+  String Ensemble 2   : C3+G3+C4+E4@1>5^56
+  String Ensemble 1   : E3+C4+D5@1>17^80 E5@2>1^56 D5@3>1^56 E4+C5@5>4^80 A4+C5@9>11^104 G4@13>1^104 A4@14>1^104 G4@15>1^104 A4@16>1^104 G4@17>1^104 A4@21>2^104
+  French Horn         : C4+E4@1>19^32
+  Acoustic Grand Piano: C3+D5@1>19^104 C5@5>2^104 G3+C5@9>12^80 E4@13>5^56 G4@17>5^56 E4@21>1^56
+@70 [G]
+  String Ensemble 2   : G2+D3+G3+B3+D4@1>96^80 C3+C4+E4@48>48^80
+  String Ensemble 1   : D3+B3+G4@1>33^104 A4@13>2^104 B3+B4@17>6^104 C5@29>2^104 D4+D5@33>7^104 D5@45>2^104 E5@48>6^104
+  French Horn         : B3+D4@1>48^56
+  Acoustic Grand Piano: G2+G4+G5@1>39^104 D3@9>6^32 B3@17>6^56 D3@25>7^80 B3+D5+D6@33>6^80 D3@41>4^56
+@71 [C | Am]
+  String Ensemble 2   : G2+D3+D4+G4@48>96^80
+  String Ensemble 1   : E3+C4@1>38^80 D5@13>2^104 E4@16>7^80 C5@17>5^104 D5@29>1^104 E5@32>7^104 F#4@33>7^80 A4+F#5@40>7^104 G4@48>8^80
+  French Horn         : C4+E4@1>32^56 C4+F#4@33>16^56
+  Acoustic Grand Piano: G2+E5+E6@1>30^80 E3@9>10^56 C4+C5+C6@17>6^56 E3@25>8^80 C4+E5+E6@33>16^80 E3@41>8^56
+@72 [G]
+  String Ensemble 1   : D3+G5@1>35^104 B3@17>3^56 D5@18>3^104 E5@19>4^80 C4@20>3^80 B3@22>3^56 D5@23>8^56 C4+E5@25>3^56 B3@27>21^56 E5@29>4^80 C4@30>2^56 D5@32>10^104
+  French Horn         : B3+G4@1>96^56
+  Acoustic Grand Piano: G2+G5+G6@1>44^104 D3@9>9^80 B3+D5+D6@17>12^80 D3@25>7^32 B3@33>4^56 D3+G4@41>24^80
+@73 [G]
+  String Ensemble 2   : C3+G3+C4+E4@48>92^104
+  String Ensemble 1   : G2@1>11^80 G4@9>2^56 G5@10>1^104 A4@12>2^56 A5@13>2^104 B4@16>8^80 A2+B5@17>11^104 C5@19>4^56 C6@20>5^80 B5@22>3^80 A4+A5@24>2^104 B2+G4+G5@33>9^104 A4+A5@36>4^80 G4+G5@37>3^80 D4+D5@40>2^104
+  French Horn         : G4@25>4^56 F#4@29>4^56 E4@33>8^56 G4@41>4^32
+  Acoustic Grand Piano: G3+B4@1>17^104 G5@9>10^104 A3+C5@17>16^104 B4@25>8^56 B3+G4@33>15^104 D4@41>7^80
+@74 [C]
+  Choir Aahs          : C4+E4@1>49^104
+  String Ensemble 2   : B2+B3+D4@48>44^80
+  String Ensemble 1   : C3+E4+E5@1>29^104 E4+E5@9>3^104 D4@12>3^80 D5@13>3^104 C4+C5@16>3^104 E4+E5@24>4^80 F#4@27>3^80 F#5@28>2^80 G4+G5@31>3^104 C3@33>4^104 E4@39>1^80 E5@40>2^104 D4+D5@48>2^104
+  French Horn         : C4+G4@1>96^56
+  Acoustic Grand Piano: C3+E5@1>31^104 G3+G4@9>10^80 E4+C5@17>31^80 G3+G4@25>7^80 E4+E5@33>16^104 G3+G4@41>8^80
+@75 [G]
+  Choir Aahs          : B3+D4@1>49^80
+  String Ensemble 2   : D3+A3+C4+F#4@48>48^80
+  String Ensemble 1   : B2@1>30^104 D5@8>3^80 D4@9>2^80 C4+C5@12>3^104 B3@15>3^80 B4@16>2^80 G4+G5@25>4^80 F#4+F#5@29>3^80 G4+G5@32>5^80 B2@33>4^104 F#4+F#5@36>5^80 E5@39>4^80 E4@40>4^56 D5@43>3^80 D4@44>3^56 C5@47>17^80 C4@48>16^80
+  French Horn         : B3+D4@1>48^56
+  Acoustic Grand Piano: B2+D5@1>45^104 G3+G4@9>10^80 D4+G5@17>21^80 G3+G4@25>8^80 D4+D5@33>13^80 G3+G4@41>6^80
+@76 [D7 | F#dim]
+  Choir Aahs          : A3+C4@1>50^80
+  String Ensemble 2   : G3+B3+G4@48>96^80
+  String Ensemble 1   : A2@1>32^104 D4+D5@16>16^80 C5@32>18^80 D3+C4@33>16^104
+  French Horn         : A3+D4@1>84^56 A4@33>16^56
+  Acoustic Grand Piano: D3+C5@1>20^104 D4@9>8^80 A3+F#4+D5@17>17^80 A3+D4@25>6^80 F#4+C5@33>16^80 A3+D4@41>7^56
+@77 [G]
+  Choir Aahs          : G3+B3@1>27^56
+  String Ensemble 2   : G2+D4@32>16^80 C3+C4+E4@48>48^80
+  String Ensemble 1   : G2+B3+B4@1>40^104 B2@41>8^80 D4+F#4@44>5^80
+  French Horn         : B3+G4@1>44^56
+  Acoustic Grand Piano: G2+B4@1>46^104 D3+D4@9>8^80 B3@17>7^56 D3+D4@25>8^80 B3+E5+G5@33>6^104 D5+F#5@37>4^80 C5+E5@41>7^80 B4+D5@45>2^80
+@78 [C] (grid:8)
+  String Ensemble 1   : C3+E4+G4@1>6^80 G4+C5@3>3^80 C5+E5@6>1^80
+  French Horn         : C4+E4@1>6^56
+  Oboe                : G4@1>2^80 E4@3>2^80 C5@5>2^104
+  Acoustic Grand Piano: C3+C5+E5@1>6^104 G3@2>1^80 E4+G4+G5@3>1^104 G3@4>1^56 E4+C5+C6@5>1^80 G3@6>1^56
+@79 [D] (grid:8)
+  String Ensemble 2   : D3+A3+D4+F#4@1>5^80
+  String Ensemble 1   : D3+A4+D5@1>5^80 F#4+A4@3>3^56 G4+B4@6>1^80
+  French Horn         : D4+F#4@1>5^56
+  Oboe                : A4@1>2^104 F#4@3>2^104 D5@5>2^104
+  Acoustic Grand Piano: D3+A4+A5@1>1^80 A3@2>1^80 D4+F#4+F#5@3>1^80 A3@4>1^80 F#4+D5+D6@5>1^80 A3@6>1^56
+@80 [G]
+  String Ensemble 2   : B3+D4@1>6^80 C4+E4@48>40^80
+  String Ensemble 1   : G3+D4+G4+B4@1>16^80 G3@17>23^80 B4@23>1^80 B3+G4+B4@25>2^56 B3@26>1^80 D5@32>2^80 B3+D4+G4+B4@33>2^80 G5@39>3^80 G4@40>1^80 D4+G4+D5@41>3^56 B5@47>8^80 B4@48>9^80
+  French Horn         : B3@1>12^80 B3@25>2^80 B3@33>3^80 D4@41>3^80
+  Oboe                : B4@25>2^80 B4@33>3^80 D5@41>2^104
+  Acoustic Grand Piano: G2+G4+G5@1>48^80 D3@9>23^56 B3@17>16^56 B4@25>6^80 B4@33>8^104 D5@41>6^104
+  Electric Piano 1    : G2+G3+B3+D4+G4@1>96^56
+@81 [C]
+  String Ensemble 2   : C4+E4+G4@48>12^80
+  String Ensemble 1   : D4+G4+D5@1>9^80 C6@2>3^80 A5@7>3^80 E4+G4+C5@9>5^56 A4@10>3^80 A5@16>16^80 E4+G4+A4+C5@17>20^56
+  French Horn         : D4@1>8^80 E4@9>7^56 E4@17>17^56
+  Oboe                : D5@1>8^80 C5@9>3^80 C5@17>24^80
+  Acoustic Grand Piano: G2+D5@1>25^104 E3+C5@9>18^80 G3+C5@17>15^80 G4@25>9^80 C5@33>8^80 G4@41>4^56
+  Electric Piano 1    : C3+C4+E4@1>48^56
+@82 [Em7 | Am7]
+  String Ensemble 2   : B3+D4+G4@16>12^104 A3+C4+G4@32>12^104 G3+B3+D4+G4@48>44^80
+  String Ensemble 1   : C3+E4+G4+E5@1>13^104 E5@2>8^56 G5@9>2^80 B2+D4+G4+D5@17>11^104 G5@18>7^80 C6@24>6^80 G5@25>1^56 A2+C4+G4+C5+C6@33>12^104 G5+E6@41>9^80
+  French Horn         : C4+E4@1>9^80 B3+D4@17>8^80 A3+C4@33>8^56
+  Oboe                : G4+E5@1>14^80 F#4+D5@17>12^80 E4+C5@33>11^80
+  Acoustic Grand Piano: C4+E4+E5@1>8^80 F#4@5>4^56 G4+G5@9>8^56 B3+D4+D5@17>8^80 F#4@21>4^56 G4+G5@25>8^56 A3+C4+C5@33>13^56 F#4@37>4^56 G4+G5@41>8^56
+  Electric Piano 1    : C3+G3+C4+E4@1>32^56 B2+B3+D4@17>16^56 A2+A3+C4@33>16^56
+@83 [G]
+  String Ensemble 2   : D3+G3+B3@48>46^80
+  String Ensemble 1   : G2+D4+G4+B4@1>46^104 D6@2>16^56 A6@16>5^32 B6@18>24^56
+  French Horn         : G3+B3@1>36^56
+  Oboe                : D4+B4@1>35^80
+  Acoustic Grand Piano: G3+B3+B4@1>15^80 G3@9>36^56 B3@17>28^56 D4@25>8^56 G4@33>8^56 D4@41>2^32
+  Electric Piano 1    : G2+G3+B3+D4@1>48^56
+@84 [G]
+  Choir Aahs          : G3+B3@1>80^56
+  FX 4 (atmosphere)   : G4@1>16^104 B4@17>16^104 D5@33>16^104
+  String Ensemble 2   : E3+G3+C4@48>32^80
+  String Ensemble 1   : G2+B6@1>92^80
+  Acoustic Grand Piano: G2+G4@1>41^104 D3@9>38^80 B3+B4@17>33^104 G4@25>10^80 D5@33>16^104 G4@41>6^56
+  Electric Piano 1    : G2+D3+G3+B3@1>48^104
+@85 [C | D]
+  Choir Aahs          : C4@1>32^56 A3+D4@33>16^56
+  FX 4 (atmosphere)   : C5@1>32^104 A4@33>8^104 F#4@41>7^104
+  String Ensemble 2   : F#3+A3+D4@32>16^80 D3+G3+B3@48>51^80
+  Acoustic Grand Piano: C3+C5@1>35^104 E4@9>9^80 G4+A4@17>10^56 E4@25>10^56 D3+A4@33>17^56 F#4@41>9^80
+  Electric Piano 1    : C3+G3+C4@1>32^104 D3+A3+D4@33>64^104
+@86 [G]
+  Choir Aahs          : G3+B3@1>48^56
+  FX 4 (atmosphere)   : G4@1>31^104
+  String Ensemble 1   : G2@1>94^80 B3+G4+B4@25>2^80 B3+G4+B4@33>2^80 D4+G4+D5@41>3^80
+  French Horn         : B3@25>2^80 B3@33>3^80 D4@41>3^80
+  Acoustic Grand Piano: G2+G4@1>29^104 D3@9>6^32 B3@17>6^56 D3+B4@25>3^80 B3+B4@33>8^104 D4+D5@41>4^104
+  Electric Piano 1    : G2+G3+B3@1>48^104
+@87 [C]
+  Choir Aahs          : G3+C4+E4@1>40^32
+  String Ensemble 2   : G3+B3+D4@48>46^56
+  String Ensemble 1   : D4+G4+D5@1>9^80 E4+G4+C5@9>5^80 E4+G4+C5@17>20^80 G2@48>46^80
+  French Horn         : D4@1>8^80 E4@9>7^56 E4@17>17^56
+  Acoustic Grand Piano: C4+D5@1>23^104 E4+C5@9>7^104 A4+C5@17>17^104 C4@25>8^32 E4@33>8^56 A4@41>3^56
+  Electric Piano 1    : C3+E3+G3+C4+E4@1>48^80
+@88 [G]
+  Choir Aahs          : D3+G3@1>16^56 G3+B3@17>16^80 B3+D4@33>16^56
+  FX 4 (atmosphere)   : G4@1>16^104 B4@17>15^104 D5@33>16^104
+  String Ensemble 2   : G3+C4+E4@48>49^80
+  Acoustic Grand Piano: G2+G4@1>44^80 D3+D4@9>34^56 B3+B4@17>10^104 G4@25>9^56 D5@33>11^104 B3+G4@41>4^80
+  Electric Piano 1    : G2+D3+G3+B3+D4@1>48^104
+@89 [C]
+  Choir Aahs          : C4+E4@1>16^56 G3+C4@17>24^56 C4+E4@41>8^56
+  FX 4 (atmosphere)   : E5@1>16^104 C5@17>15^104 E5@41>6^104
+  String Ensemble 2   : G3+B3+D4+G4@48>20^80
+  String Ensemble 1   : C3@1>44^80
+  Acoustic Grand Piano: C4+E5@1>19^104 G4@9>6^56 E5@17>8^80 G4@25>7^56 C4+E5@33>9^104 G4@41>3^80
+  Electric Piano 1    : C3+G3+C4+E4+G4@1>48^80
+@90 [G]
+  Choir Aahs          : D4+G4@1>16^56 B3+D4@17>32^56
+  FX 4 (atmosphere)   : G5@1>16^80 D5@17>19^104
+  String Ensemble 2   : G3+B3+D4@16>64^80
+  String Ensemble 1   : G2@1>45^80
+  Acoustic Grand Piano: G2+G5@1>43^104 D3@9>16^32 B3+D5@17>13^80 G4@25>7^80 B3@33>6^32 D4@41>3^56
+  Electric Piano 1    : G2+D3+G3+D4+G4@1>48^104
+@91 [G | Bm]
+  String Ensemble 2   : C3+G3+C4+E4@48>47^104
+  String Ensemble 1   : G2+G4+B4@1>16^80 G5@9>2^80 A2+A4+C5@17>15^80 G5@25>3^80 B2+B4+D5@33>16^80 G5@41>2^80 F#5@45>3^80
+  French Horn         : G3+D4@1>15^56 A3+E4@17>16^56 B3+F#4@33>16^56
+  Acoustic Grand Piano: G3+G4+B4@1>17^80 G5@9>10^104 A3+C5@17>18^104 G4@25>11^80 B3+D5@33>12^104 G5@41>5^104
+  Electric Piano 1    : G2+G3+B3+D4@1>16^104 A2+A3+C4+E4@17>16^104 B2+B3+D4+F#4@33>16^104
+@92 [C]
+  Choir Aahs          : G3+C4+E4@1>48^80
+  FX 4 (atmosphere)   : E5@1>14^104 C5@17>11^104 E5@41>4^104
+  String Ensemble 2   : G3+B3+D4@48>49^80
+  String Ensemble 1   : C3+C5+E5@1>45^80 C5@15>7^80 E5@41>5^104 D5@46>19^80
+  French Horn         : C4+G4@1>45^56
+  Acoustic Grand Piano: C3+C4+E5@1>47^104 G4@9>8^56 C5@17>21^80 G4@25>10^80 C4+E5@33>15^104 G4@41>8^80
+  Electric Piano 1    : C3+C4+E4+G4@1>48^104
+@93 [G]
+  Choir Aahs          : B3+D4+G4@1>136^56
+  FX 4 (atmosphere)   : D5@1>16^104 G5@17>13^104 D5@41>3^104
+  String Ensemble 2   : F#3+B3+D#4@48>92^104
+  String Ensemble 1   : B2+B4@1>43^80 G5@16>9^80
+  Acoustic Grand Piano: B2+B3+D5@1>47^104 G4@9>10^56 G5@17>25^80 G4@25>8^56 B3+D5@33>8^56 G4@41>8^56
+  Electric Piano 1    : B2+B3+D4+G4@1>48^104
+@94 [B7]
+  Choir Aahs          : D#4+F#4@1>48^56
+  FX 4 (atmosphere)   : D#5@1>16^104 B4@17>16^104 A4@33>16^104
+  String Ensemble 2   : E3+E4@48>45^104
+  String Ensemble 1   : C5@1>10^80 D5@10>4^80 C5@13>4^80 B4@16>7^104 A4@23>7^80 G4@31>4^80 F#4@40>4^80
+  Acoustic Grand Piano: B2+D#5@1>34^80 B3@9>10^56 D#4+B4@17>34^80 B3@25>8^80 F#3+A4@33>15^80 B3@41>8^56
+  Electric Piano 1    : B2+A3+D#4+F#4@1>47^104
+@95 [Em] (grid:16)
+  Choir Aahs          : E4+G4@1>6^80 G3+B3+D4+G4@11>1^80
+  FX 4 (atmosphere)   : G4@1>4^104 E4@11>2^104
+  String Ensemble 1   : E3+G4@1>11^104 F#4@4>1^80 E4@5>4^80
+  Acoustic Grand Piano: E2+G4@1>13^80 B3@3>2^56 F#4@4>1^80 E4@5>7^80 B3@7>2^80 E3+G4@9>3^80 B3@11>1^80
+  Electric Piano 1    : E2+G3+B3+E4+G4@1>8^104 B2+G3+D4+G4@9>4^104
+@96 [C]
+  Choir Aahs          : G3+C4+E4+G4@1>16^80 C4+E4+G4+C5@17>20^80 C4+E4+G4+C5+E5@41>4^80
+  FX 4 (atmosphere)   : G4@1>15^104 C5@17>16^104 E5@41>4^104
+  String Ensemble 2   : C3+G3+C4+E4@1>11^80 D3+A3+D4+F#4@48>45^80
+  String Ensemble 1   : C3@1>44^104
+  Oboe                : C5@17>16^80 E5@33>16^80
+  Acoustic Grand Piano: C3+C4+E4@1>42^80 G4@9>10^80 E4@17>25^32 G4@25>12^56 E5@33>10^104 G4@41>4^56
+  Electric Piano 1    : C3+G3+C4+E4@1>48^104
+@97 [D]
+  Choir Aahs          : D4+G4+A4+D5@1>16^80 D4+F#4+A4+D5@17>20^80 D4+F#4+B4+D5@41>8^80
+  FX 4 (atmosphere)   : D5@1>16^104 A4@17>16^104 B4@41>6^104
+  String Ensemble 1   : D3@1>43^104
+  Oboe                : D5@1>16^80 F#5@17>16^80 A5@33>16^80
+  Acoustic Grand Piano: D3+F#4+D5@1>41^104 A4@9>9^56 F#5@17>30^80 D5@25>2^56 D4+F#4@33>16^56 A4@41>5^56
+  Electric Piano 1    : D3+A3+D4+F#4+A4@1>48^104
+@98 [G]
+  Choir Aahs          : B3+G4+D5@1>32^80 D4@9>24^32
+  FX 4 (atmosphere)   : G4@1>28^104
+  String Ensemble 1   : G3+G4+B4@1>12^56 B3+G4+B4@25>2^80 B3+G4+B4@33>2^80 D4+G4+D5@41>3^80
+  French Horn         : B3@1>12^80 B3@25>2^80 B3@33>3^80 D4@41>3^80
+  Oboe                : B4@25>2^80 B4@33>3^80 D5@41>2^104
+  Acoustic Grand Piano: G2+G4+G5@1>48^80 D3@9>23^56 B3@17>16^56 B4@25>6^80 B4@33>8^104 D5@41>6^104
+@99 [C]
+  String Ensemble 1   : D4+G4+D5@1>9^80 E4+G4+C5@9>5^80 E4+G4+C5@17>20^80
+  French Horn         : D4@1>8^80 E4@9>7^56 E4@17>17^56
+  Oboe                : D5@1>8^80 C5@9>3^80 C5@17>24^80
+  Acoustic Grand Piano: G2+D5@1>25^104 E3+C5@9>18^80 G3+C5@17>11^80 G4@25>9^80 C5@33>8^80 G4@41>4^56
+@100 [G | C]
+  String Ensemble 1   : C3+E4+G4+E5@1>13^104 G5@9>2^80 B2+D4+G4+D5@17>11^104 G5@25>2^80 A2+C4+G4+C5@33>12^104 G5@41>2^80
+  French Horn         : C4+E4@1>9^80 B3+D4@17>8^80 A3+C4@33>8^56
+  Oboe                : G4+E5@1>14^80 F#4+D5@17>12^80 E4+C5@33>11^80
+  Acoustic Grand Piano: C4+E4+E5@1>8^80 F#4@5>4^56 G4+G5@9>8^80 B3+D4+D5@17>8^104 F#4@21>4^56 G4+G5@25>8^80 A3+C4+C5@33>13^104 F#4@37>4^56 G4+G5@41>8^80
+@101 [G]
+  String Ensemble 2   : G3+D4+G4@48>184^80
+  String Ensemble 1   : G2+D4+G4+B4@1>46^104
+  French Horn         : G3+B3@1>36^56
+  Oboe                : D4+B4@1>35^80
+  Acoustic Grand Piano: G3+B3+B4@1>15^80 G4@9>36^80 B4@17>28^56 D5@25>8^80 G5@33>8^80 D5@41>2^56
+@102 [G]
+  String Ensemble 2   : C4+E4@48>45^80
+  French Horn         : G3+D4+G4@1>92^56
+  Oboe                : G4@1>21^80 B4@25>2^56 B4@33>2^80 D5@41>2^80
+  Acoustic Grand Piano: G2+G4@1>32^80 D3@9>23^56 B3@17>16^56 B4@25>6^80 B4@33>8^104 D5@41>6^80
+@103 [C]
+  String Ensemble 2   : C4+E4@48>16^80
+  Oboe                : D5@1>8^80 C5@9>2^80 C5@17>21^80
+  Acoustic Grand Piano: G2+D5@1>25^104 E3+C5@9>18^80 G3+C5@17>11^80 G4@25>9^56 C5@33>8^56 G4@41>4^56
+@104 [G | C]
+  String Ensemble 2   : B3+D4@16>13^80 A3+C4@32>13^80 G3+B3@48>42^56
+  String Ensemble 1   : C3@1>8^104 B2@16>9^104 A2@33>8^104
+  French Horn         : E4+G4@1>8^80 G3@9>8^80 D4+G4@17>8^80 G3@25>8^80 C4+G4@33>8^80 G3@41>5^80
+  Oboe                : E5@1>10^80 D5@17>10^80 C5@33>10^80
+  Acoustic Grand Piano: C4+E4+E5@1>7^104 F#4@5>4^80 G4+G5@9>8^80 B3+D4+F#4+D5@17>9^80 G4@21>9^56 G5@25>8^56 A3+C4+F#4+C5@33>9^80 G4@37>5^56 G5@41>5^56
+@105 [Baug | G]
+  Choir Aahs          : B3+D4@44>3^104
+  String Ensemble 2   : D4+B4@48>96^80
+  Taiko Drum          : G2@33>16^80
+  String Ensemble 1   : G2@1>37^104
+  French Horn         : B3+G4@1>32^80
+  Oboe                : B4@1>34^56
+  Drums               : C2+D2@20>1^32 D2@22>1^32 C2@23>1^32 C2+D2@25>1^32 D2@26>1^56 C2@27>1^56 D2@28>1^56 C2@29>1^56 C2+D2@30>1^56 D2@31>1^56 C2@32>1^56 C2+D2@33>1^80
+  Acoustic Grand Piano: G3+B3+B4@1>47^80
+@106 [G]
+  Acoustic Bass       : G2@1>37^104 G2@43>4^80
+  Choir Aahs          : G3+B3+B4@1>15^104 G3+B3+B4@17>5^104 G3+B3+B4@44>5^104
+  String Ensemble 2   : G4@48>48^56
+  String Ensemble 1   : G2@1>48^104
+  French Horn         : B3@1>42^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : B4+D5+G5@1>124^80
+  Acoustic Grand Piano: G2+G3+D4+G4+B4@1>34^104 G3+D4+G4+B4@17>5^104 G3+D4+G4+B4@33>2^104 D4@44>2^104
+@107 [G]
+  Acoustic Bass       : B2@1>37^56 B2@43>5^80
+  Choir Aahs          : B3+D4+B4@1>16^104 B3+D4+B4@17>4^104 B3+D4+A4+C5@44>5^104
+  String Ensemble 2   : E4+A4@48>32^80
+  String Ensemble 1   : B2@1>48^104
+  French Horn         : D4@1>42^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Acoustic Grand Piano: B2+D4+G4+B4@1>48^104 B3+D4+G4+B4@17>5^104 B3+D4+G4+B4@33>2^104 D4@44>2^80
+@108 [Am7 | D]
+  Acoustic Bass       : C3@1>16^104 A2@17>16^56 D3@33>15^104
+  Choir Aahs          : C4+E4+A4+E5@1>33^104 D5@5>12^80 G4+C5@17>16^104 D4+F#4+A4+D5@33>16^104
+  String Ensemble 2   : G4@16>16^80 F#4+A4@32>16^80 B3+G4@48>40^80
+  String Ensemble 1   : C3@1>32^104 D3@33>16^104
+  French Horn         : C4@1>16^80 E4@17>16^80 D4@33>16^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : C5+E5@1>32^80 D5+F#5+A5@33>16^56
+  Acoustic Grand Piano: C3+C4+E4+A4@1>16^104 C3+C4+E4+G4@17>13^104 D3+D4+F#4+D5@33>10^104
+@109 [G]
+  Acoustic Bass       : G2@1>40^80 G2@43>4^80
+  Choir Aahs          : B3+D4+G4+B4@1>33^104
+  String Ensemble 2   : F#4+C5@48>96^80
+  String Ensemble 1   : G2@1>40^104
+  French Horn         : B3@1>32^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : B4+D5+G5@1>48^80
+  Acoustic Grand Piano: G2+G3+D4+G4+B4@1>32^104 G3+D4+G4@17>5^80 G3+D4+G4+B4@33>2^104
+@110 [D]
+  Acoustic Bass       : D3@1>43^80 A2@44>4^80
+  Choir Aahs          : D4+F#4+A4+C5@1>14^104 D4+F#4+A4+C5@17>7^104 D4+F#4+A4+C5@44>4^104
+  String Ensemble 2   : D5@48>32^80
+  String Ensemble 1   : D3@1>96^104
+  French Horn         : D4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : D5+F#5+A5@1>188^80
+  Acoustic Grand Piano: D2+D3+F#4+A4+D5@1>14^104 D3+A4+D5+F#5@17>14^104 D3+A4+D5+F#5+A5@33>2^104
+@111 [D7 | F#dim]
+  Acoustic Bass       : D3@1>40^80 D3@44>6^80
+  Choir Aahs          : E4+G4+B4+D5@1>11^104 C5@11>4^104 D4+F#4+A4@12>3^80 D4+F#4+A4+C5@17>8^104 C5@43>4^104 C4+E4+A4@44>5^104
+  String Ensemble 2   : C5@32>16^104 G4+B4@48>32^80
+  French Horn         : F#4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : C6@1>48^104
+  Acoustic Grand Piano: D2+D3+A4+D5+F#5@1>2^104 D3+A4+D5+F#5+A5@17>2^104 D3+D5+F#5+D6@33>2^104
+@112 [G]
+  Acoustic Bass       : G2@1>43^80 D2@43>4^80
+  Choir Aahs          : B3+D4+G4+B4+D5@1>32^104 A3+C4+E4+A4+C5@33>5^104 B3+D4+G4+B4+D5@38>5^104 A3+C4+E4+A4+C5@44>5^104
+  String Ensemble 2   : D4+A4@32>5^104 E4+B4@37>5^80 D4+A4@43>5^104 B3+G4@48>42^80
+  String Ensemble 1   : G2@1>44^104
+  French Horn         : G4@1>32^80 E4@33>5^80 G4@38>5^80 E4@44>5^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : G5+B5@1>92^80
+  Acoustic Grand Piano: G2+G3+B4+D5+G5+B5@1>16^104 G3+B4+D5@17>2^80 B4@28>2^80 G2+G3+B4+D5+A5@33>2^104 D5+B5@38>2^104 B4+D5@44>2^80
+@113 [G]
+  Acoustic Bass       : G2@1>16^80 A2@17>16^104 B2@33>16^104
+  Choir Aahs          : G3+B3+D4+G4+B4+D5@1>32^104
+  String Ensemble 2   : C4+G4+E5@48>96^104
+  String Ensemble 1   : G2@1>16^104 A2@17>16^104 B2@33>16^104
+  French Horn         : D4@1>26^80 G4@33>5^104 F#4@38>5^104
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^80 D2@21>1^32 D2@22>1^32 D2@23>1^32 D2@24>1^32 D2@25>1^32 D2@26>1^32 D2@27>1^32 D2@28>1^32 D2@29>1^32 D2@30>1^32 D2@31>1^32 D2@32>1^32 D2@33>1^80 B1+F2@43>1^56
+  Church Organ        : B4@1>44^56
+  Acoustic Grand Piano: G2+G3+B4+D5+G5@1>21^104 G2+G3+B4@17>2^104 B2+G4+B4+D5+G5@33>2^104
+@114 [C]
+  Acoustic Bass       : C3@1>32^80 C3@44>5^80
+  FX 4 (atmosphere)   : E5@1>6^104 C5@17>10^104 E5@41>4^104
+  String Ensemble 2   : G5@32>16^80 B3+D5@48>48^104
+  String Ensemble 1   : C3@1>48^104
+  French Horn         : E4@1>32^104 E4@33>5^80 E4@38>5^80 G4@44>5^80
+  Drums               : B1+D2+F2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : C5+E5+G5@1>96^80
+  Acoustic Grand Piano: C3+G3+E4+C5@1>10^80 G4@12>2^80 C3+G3+C5@17>5^104 G4@22>2^80 C5@28>5^80 C3+G3+E5@33>2^104 C5@38>2^80 G5@44>5^104
+@115 [G]
+  Acoustic Bass       : B2@1>45^104
+  FX 4 (atmosphere)   : D5@1>16^104 G5@17>12^104
+  String Ensemble 2   : D#4+B4+F#5@48>48^104
+  String Ensemble 1   : B2@1>48^104
+  French Horn         : G4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : B4+D5@1>48^80
+  Acoustic Grand Piano: G2+G3+B4+G5@1>18^104 G4@12>5^56 G3+B4@17>2^104 G4@22>2^80 B4@28>2^80 G3+G4+B4+D5@33>10^104
+@116 [B | D#dim]
+  Acoustic Bass       : D#3@1>31^104 D#3@33>16^104
+  Choir Aahs          : B3+A4@1>8^80 B3+A4@17>9^104 D#4+A4@33>15^104
+  FX 4 (atmosphere)   : D#5@1>14^104 F#5@17>12^104 A5@33>12^104
+  String Ensemble 2   : F#4+A5@32>16^104 E4+B4+G5@48>42^104
+  String Ensemble 1   : D#3@1>48^104
+  French Horn         : F#4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : B4+D#5+F#5@1>96^80 A5@33>16^80
+  Acoustic Grand Piano: B2+B3+F#4+B4+D#5@1>21^104 B3+B4+D#5+F#5@17>2^104 B2+B3+B4+D#5+A5@33>2^104
+@117 [Em]
+  Acoustic Bass       : E3@1>32^80 D3@33>11^104
+  Choir Aahs          : E4+G4@1>27^80
+  FX 4 (atmosphere)   : G5@1>19^104 G4@33>2^104 G4@41>4^104
+  String Ensemble 2   : G3+E4+C5@48>49^104
+  String Ensemble 1   : E3@1>32^104 D3@33>16^104
+  French Horn         : E4@1>32^80 B3@33>5^80 B3@38>5^80 E4@44>5^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : E5+G5@1>48^80
+  Acoustic Grand Piano: E3+E4+G4+B4+G5@1>34^104 G4@12>2^56 E4+G4+B4+E5@17>2^104 E4+G4+B4@33>2^80
+@118 [C]
+  Acoustic Bass       : C3@1>37^80 C3@44>5^80
+  FX 4 (atmosphere)   : G4@1>11^104 C5@17>11^104 E5@41>4^104
+  String Ensemble 2   : A3+F#4@47>49^104 D5@48>48^80
+  String Ensemble 1   : C3@1>48^104
+  French Horn         : E4@1>48^80
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104 B1@33>1^56
+  Church Organ        : G4+C5+E5@1>48^80
+  Acoustic Grand Piano: C3+G3+E4+G4+C5@1>5^104 C3+G3+E4+G4+C5+E5@17>2^80 C3+G3+C4+G4+C5+G5@33>5^80
+@119 [D]
+  Acoustic Bass       : D3@1>35^104 D3@43>5^80
+  FX 4 (atmosphere)   : D5@1>16^104 A4@17>20^104 B4@41>4^104
+  String Ensemble 2   : B3@46>32^104 G4@47>31^104
+  String Ensemble 1   : D3@1>48^104
+  French Horn         : F#4@1>42^56
+  Drums               : B1+D2@1>1^80 D2@2>1^32 D2@3>1^32 D2@4>1^32 D2@5>1^32 D2@6>1^32 D2@7>1^32 D2@8>1^32 D2@9>1^32 D2@10>1^32 D2@11>1^32 D2@12>1^32 D2@13>1^32 D2@14>1^32 D2@15>1^32 D2@16>1^32 D2@17>1^104
+  Church Organ        : A4+D5+F#5@1>48^80
+  Acoustic Grand Piano: D3+A3+D4+A4+D5+F#5@1>8^104 D3+A3+D4+D5+F#5+A5+D6@17>2^80 D3+A3+D4+D5+F#5+A5+D6@33>5^104
+@120 [G]
+  Acoustic Bass       : G2@1>32^80 D2@33>15^80
+  FX 4 (atmosphere)   : G4@1>14^104
+  String Ensemble 1   : G2@1>80^80 B3+D5@17>7^56 A3+C5@33>3^80 B3+D5@35>3^80 C5@37>4^80 A3+D5@39>3^80 B3@41>2^80 C5@42>5^80 A3@44>3^56 B3+D5@45>4^80 A3+C5@47>3^80
+  French Horn         : G4@17>8^56 E4@33>16^56
+  Drums               : B1@1>1^80 B3@33>1^32 B3@34>1^32 B3@35>1^32 B3@36>1^32 B3@37>1^32 B3@38>1^32 B3@39>1^32 B3@40>1^32 B3@41>1^32 B3@42>1^32 B3@43>1^32 B3@44>1^32 B3@45>1^32 B3@46>1^32 B3@47>1^32 B3@48>1^32
+  Pad 3 (polysynth)   : G4+B4+D5@17>16^104 E4+A4+C5@33>16^104 B4+D5@35>4^104 C5@38>3^80 B4@40>3^80 D5@41>3^80 A4@42>6^80 C5@43>3^80 B4@45>2^80 D5@46>4^80 D4@48>20^80
+  Acoustic Grand Piano: G2+D3+G3+B3+D4+G4@1>2^80 B4+D5@17>5^104 D3+A4+C5@33>16^80
+@121 [G] (grid:4)
+  Acoustic Bass       : G2@1>2^80
+  String Ensemble 1   : G3+B4@1>2^80
+  French Horn         : D4@1>3^32
+  Drums               : B3@1>1^32
+  Pad 3 (polysynth)   : G4+B4@1>2^104
+  Acoustic Grand Piano: G2+G3+G4+B4@1>2^80
+@122 [C]
+  FX 4 (atmosphere)   : E5@1>16^104 C5@17>15^104 E5@33>16^104
+  Oboe                : E5@1>8^80 C5@9>8^80 E5@17>24^56
+  Acoustic Grand Piano: C3+C4+E5@1>47^104 G4@9>8^56 C5@17>21^80 G4@25>10^80 C4+E5@33>15^104 G4@41>8^80
+@123 [G]
+  FX 4 (atmosphere)   : D5@1>16^104 G5@17>15^104 D5@41>8^80
+  Oboe                : D5@1>8^80 B4@9>8^80 D5@17>20^56
+  Acoustic Grand Piano: B2+B3+D5@1>47^104 G4@9>10^56 G5@17>25^80 G4@25>8^56 B3+D5@33>8^56 G4@41>8^56
+@124 [D#aug | B7]
+  FX 4 (atmosphere)   : D#5@1>16^80 B4@17>16^80 A4@33>16^104
+  Oboe                : D#5@1>16^80 C5@17>16^80 B4@33>8^80 A4@41>8^80
+  Acoustic Grand Piano: B2+D#5@1>34^80 B3@9>10^56 D#4+B4@17>34^80 B3@25>8^80 F#3+A4@33>15^80 B3@41>8^56
+@125 [Em] (grid:16)
+  FX 4 (atmosphere)   : G4@1>5^80 G4@9>1^104 G4@11>1^80
+  Oboe                : G4@1>8^80 F#4@3>2^56 E4@5>7^56
+  Acoustic Grand Piano: E2+G4@1>13^80 B3@3>2^56 F#4@4>1^80 E4@5>7^80 B3@7>2^80 E3+G4@9>3^80 B3@11>1^80
+@126 [C]
+  FX 4 (atmosphere)   : G4@1>16^104 C5@17>18^80 E5@41>7^104
+  Oboe                : E4@1>8^80 G4@9>8^80 C5@17>16^80 E5@33>12^80
+  Acoustic Grand Piano: C3+C4+E4@1>42^80 G4@9>10^80 E4@17>25^32 G4@25>12^56 E5@33>10^104 G4@41>4^56
+@127 [D]
+  FX 4 (atmosphere)   : D5@1>16^104 A4@17>24^80 B4@41>6^80
+  Oboe                : A4@1>16^80 D5@17>19^80 F#5@33>15^56
+  Acoustic Grand Piano: D3+F#4+D5@1>41^104 A4@9>9^56 F#5@17>30^80 D5@25>2^56 D4+F#4@33>16^56 A4@41>5^56
+@128 [G]
+  FX 4 (atmosphere)   : G4@1>22^80
+  String Ensemble 1   : G3+G4+B4@1>12^56 B3+G4+B4@25>2^56 B3+G4+B4@33>2^56 D4+G4+D5@41>3^56
+  French Horn         : B3@1>12^56 B3@25>2^80 B3@33>3^56 D4@41>3^80
+  Oboe                : G5@1>16^56 B4@25>2^56 B4@33>3^80 D5@41>2^56
+  Acoustic Grand Piano: G2+G4@1>32^80 D3@9>23^56 B3@17>16^56 B4@25>6^80 B4@33>8^104 D5@41>6^80
+@129 [C]
+  String Ensemble 1   : D4+G4+D5@1>9^80 E4+G4+C5@9>5^56 E4+G4+C5@17>20^56
+  French Horn         : D4@1>8^80 E4@9>7^56 E4@17>17^56
+  Oboe                : D5@1>8^80 C5@9>3^56 C5@17>24^80
+  Acoustic Grand Piano: G2+D5@1>25^104 E3+C5@9>18^80 G3+C5@17>11^80 G4@25>9^56 C5@33>8^56 G4@41>4^56
+@130 [G | C]
+  String Ensemble 1   : C3+E4+G4+E5@1>13^104 G5@9>2^80 B2+D4+G4+D5@17>11^104 G5@25>2^56 A2+C4+G4+C5@33>12^104 G5@41>2^80
+  Acoustic Grand Piano: C4+E4+E5@1>7^104 F#4@5>4^80 G4+G5@9>8^80 B3+D4+F#4+D5@17>9^80 G4@21>9^56 G5@25>8^56 A3+C4+F#4+C5@33>9^80 G4@37>5^56 G5@41>5^56
+@131 [G]
+  String Ensemble 1   : G2+D4+G4+B4@1>40^104
+  Acoustic Grand Piano: G3+B3+B4@1>36^80

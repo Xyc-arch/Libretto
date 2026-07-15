@@ -1,0 +1,901 @@
+KEY: Bb major | METER: 4/4 | TEMPO: 121 | GRID: 64th (adaptive) | BARS: 162
+VOICES: MOVE THIS                       ;Jo Bogaert / Manuella Kamosi[drums], MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2[prog=38], MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3[prog=53], MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4[prog=50], MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5[prog=62], MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6[prog=0]
+@1 [-]
+@2 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2@1>1^32 Gb2@2>1^56 Bb2@3>1^56 Gb2@4>1^56 Gb2@5>1^56 Gb2@6>1^56 Bb2@7>1^56 Gb2@8>1^56 Gb2@9>1^32 Gb2@10>1^56 Bb2@11>1^56 Gb2@12>1^56 Gb2@13>1^56 Gb2@14>1^56 Bb2@15>1^56 Gb2@16>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>3^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+@3 [F] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2@1>1^56 Gb2@2>1^56 Bb2@3>1^56 Gb2@4>1^56 Gb2@5>1^56 Gb2@6>1^56 Bb2@7>1^56 Gb2@8>1^56 Gb2@9>1^56 Gb2@10>1^56 Bb2@11>1^56 Gb2@12>1^56 Gb2@13>1^32 Gb2@14>1^56 Bb2@15>1^56 Gb2@16>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>2^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+@4 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2@1>1^56 Gb2@2>1^56 Bb2@3>1^56 Gb2@4>1^56 Gb2@5>1^56 Gb2@6>1^56 Bb2@7>1^56 Gb2@8>1^56 Gb2@9>1^56 Gb2@10>1^56 Bb2@11>1^56 Gb2@12>1^56 Gb2@13>1^56 Gb2@14>1^56 Bb2@15>1^56 Gb2@16>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+@5 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2@1>1^104 Gb2@5>1^56 Bb2@9>1^56 Gb2@13>1^56 C2+Gb2@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2@29>1^56 C2+Gb2@33>1^104 Gb2@37>1^56 Bb2@41>1^56 Gb2@45>1^56 C2+Gb2@49>1^104 Gb2@53>1^56 Bb2@57>1^56 Gb2@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>10^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+@6 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+Gb2+F3@5>1^104 Gb2+F3@6>1^56 Bb2+F3@7>1^80 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+Gb2+F3@13>1^104 Gb2+F3@14>1^80 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+@7 [F | Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+Gb2+F3@5>1^104 Gb2+F3@6>1^80 Bb2+F3@7>1^80 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Gb2+F3@13>1^104 D2+Gb2+F3@14>1^104 D2+Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>1^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+@8 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@61>4^104
+@9 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>2^104 Bb4@21>2^104 Bb4@33>11^104 Bb4@49>5^104
+@10 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>3^104 Db5@33>14^104 C5@45>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>68^80 Eb5@33>32^56
+@11 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>4^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+@12 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Eb2+Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Gb2+F3@5>1^104 Eb2+Gb2@6>1^80 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Eb2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Eb2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Eb2+Bb2+F3@15>1^80 Eb2+Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@5>1^104 Bb4@7>1^104 Db5@9>3^104 C5@12>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>17^56 Eb5@9>8^56
+@13 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Eb2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>68^56
+@14 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>10^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>2^104 Db5@33>12^104 D5@45>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>64^56 Eb5@33>32^56
+@15 [F] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Eb2+Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Gb2+F3@5>1^104 Eb2+Gb2@6>1^80 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Eb2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Gb2+F3@13>1^104 D2+Gb2@14>1^104 D2+Bb2+F3@15>1^104 D2+Gb2+F3@16>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>1^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>17^56
+@16 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Eb2+Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Gb2+F3@5>1^104 Eb2+Gb2@6>1^80 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Eb2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Eb2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Eb2+Bb2+F3@15>1^80 Eb2+Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>3^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@5>1^104 Bb4@7>1^104 Db5@9>4^104 C5@12>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>17^56 Eb5@9>8^80
+@17 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 C2+D2@49>1^104 D2@57>1^104 D2@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>10^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>68^80 Bb5@33>36^56
+@18 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Bb4@9>3^104 Bb4@13>1^104 Bb4@15>1^104
+@19 [F | Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>1^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Bb4@9>3^104 Bb4@13>1^104 Bb4@15>1^104
+@20 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>5^104 Bb4@9>3^104 Bb4@17>4^104 Bb4@25>3^104 Bb4@33>4^104 Bb4@41>2^104 Bb4@49>3^104 Bb4@57>2^104
+@21 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>2^104 Bb4@17>2^104 Bb4@25>2^104 Bb4@33>8^104
+@22 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>12^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>3^104 Bb4@17>4^104 Bb4@25>2^104 Bb4@33>9^104 Bb4@45>8^104 Bb4@57>13^104
+@23 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Eb2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>4^104 Bb4@25>3^104 Bb4@33>10^104
+@24 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@2>1^104 Bb4@4>2^104 Bb4@7>1^104 Bb4@9>1^104 Bb4@11>1^104 Bb4@13>1^104 Bb4@15>1^104
+@25 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>10^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>4^104 Bb4@25>3^104 Bb4@33>10^104
+@26 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Eb2+Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Gb2+F3@5>1^104 Eb2+Gb2@6>1^80 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Eb2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Eb2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Eb2+Bb2+F3@15>1^80 Eb2+Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>2^104 C5@11>2^104 Bb4@13>2^104 C5@15>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>17^56 Eb5@9>9^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@27 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>17^104 Bb4@17>6^104 Bb4@41>3^104 Bb4@49>2^104 Bb4@57>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+@28 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>16^104 Bb4@17>5^104 Bb4@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>68^56 Eb5@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>1^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+@29 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Eb2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Eb5@13>4^104 F5@21>8^104 D5@29>10^104 D5@41>13^104 C5@53>5^104 Bb4@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+@30 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Eb2+Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Gb2+F3@5>1^104 Eb2+Gb2@6>1^80 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Eb2+Gb2@9>1^104 Gb2+F3@10>1^56 Bb2+F3@11>1^56 Eb2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Eb2+Bb2+F3@15>1^80 Eb2+Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>3^104 C5@12>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>17^56 Eb5@9>8^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@31 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>4^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>2^104 Bb4@17>3^104 Bb4@25>4^104 Db5@33>12^104 D5@45>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+@32 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Eb2+Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Gb2+F3@5>1^104 Eb2+Gb2@6>1^80 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Eb2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Eb2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Eb2+Bb2+F3@15>1^80 Eb2+Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>4^104 Bb4@13>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>17^56 Eb5@9>8^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@33 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Eb2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 D2+Gb2@45>1^104 C2+D2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>3^104 Db5@33>12^104 C5@45>9^104 Bb4@53>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56 Bb5@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+@34 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>10^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>2^104 Bb4@9>2^104 Bb4@17>3^104 Bb4@25>2^104 Bb4@33>12^104 Bb4@49>2^104 Bb4@57>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb5@1>12^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@35 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>5^104 Bb4@9>2^104 Bb4@17>3^104 Bb4@25>2^104 Bb4@33>10^104 Bb4@49>2^104 Bb4@57>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@36 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>7^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>5^104 Bb4@9>3^104 Bb4@17>4^104 Bb4@25>3^104 Bb4@33>4^104 Bb4@41>2^104 Bb4@49>3^104 Bb4@57>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@37 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>10^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>2^104 Bb4@17>2^104 Bb4@25>2^104 Bb4@33>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@38 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Bb4@9>2^104 Bb4@12>2^104 Bb4@15>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>3^104 F4+Bb4@4>2^104 F4+Bb4@7>2^104 F4+Bb4@15>1^104
+@39 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>4^104 F2+C3@33>9^104 G2+D3@41>9^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>4^104 Bb4@25>3^104 Bb4@33>10^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>9^104 F4+C5@13>8^104 F4+C5@25>8^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@40 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>2^104 Bb4@5>5^104 Bb4@13>8^104 Bb4@25>3^104 Bb4@33>5^104 Bb4@41>3^104 Bb4@49>4^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>8^104 F4+Bb4@25>7^104
+@41 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2@37>1^104 D2@45>1^104 D2@49>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>4^104 Bb4@25>3^104 Bb4@33>10^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>7^104 F4+C5@25>8^104 F4+D5@41>4^104 F4+D5@49>7^104
+@42 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Eb2+Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Gb2+F3@5>1^104 Eb2+Gb2@6>1^80 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Eb2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Eb2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Eb2+Bb2+F3@15>1^80 Eb2+Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>3^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>2^104 C5@11>2^104 Bb4@13>2^104 C5@15>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>17^56 Eb6@9>9^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@43 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Eb2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>17^104 Bb4@17>6^104 Bb4@41>3^104 Bb4@49>2^104 Bb4@57>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+@44 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>8^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>16^104 Bb4@17>5^104 Bb4@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>68^56 Eb6@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>1^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+@45 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>10^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Eb5@13>4^104 F5@21>8^104 D5@29>10^104 D5@41>13^104 C5@53>5^104 Bb4@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>68^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+@46 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>3^104 Bb4@25>4^104 Db5@33>14^104 C5@45>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>68^56 Eb6@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+@47 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>2^104 Bb4@17>3^104 Bb4@25>4^104 Db5@33>12^104 D5@45>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>72^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+@48 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Eb2+Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Gb2+F3@5>1^104 Eb2+Gb2@6>1^80 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Eb2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Eb2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Eb2+Bb2+F3@15>1^80 Eb2+Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>4^104 Bb4@13>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>16^56 Eb6@9>8^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@49 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 D2+Bb2@25>1^80 D2+Gb2+F3@29>1^80 C2+D2+Eb2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 D2+Gb2@45>1^104 C2+D2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>3^104 Db5@33>11^104 C5@45>10^104 Bb4@53>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+@50 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>3^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>1^80
+@51 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>4^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>3^104 Db5@33>13^104 C5@45>10^104 Bb4@53>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>4^104 F4+Bb4+C5@9>3^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+C5@29>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@52 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 D2+Bb2+F3@9>1^104 D2+Gb2@13>1^80 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>3^104 F4+Bb4@17>2^104 F4+Bb4@21>2^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>2^104
+@53 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+D2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>3^104 Db5@33>10^104 C5@45>13^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>4^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+C5@29>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>5^104
+@54 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 D2+Bb2+F3@9>1^104 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 D2+Gb2@21>1^104 D2+Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>10^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>3^104 Bb4@9>3^104 Bb4@17>3^104 Bb4@25>2^104 Bb4@33>9^104 Bb4@49>3^104 Bb4@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>3^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>3^104 F4+Bb4@41>2^80 F4+Bb4@45>3^104 F4+Bb4@53>2^104 F4+Bb4@57>2^80 F4+Bb4@61>1^80
+@55 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>5^104 Bb4@9>4^104 Bb4@17>4^104 Bb4@25>3^104 Bb4@33>8^104 Bb4@49>4^104 Bb4@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+C5@29>1^104 F4+Bb4+D5@33>5^104 F4+Bb4+D5@41>4^104 F4+Bb4+C5@49>9^104
+@56 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^56 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>7^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>5^104 Bb4@25>3^104 Bb4@33>4^104 Bb4@41>4^104 Bb4@49>4^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>3^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>3^80
+@57 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^56 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>10^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>4^104 Bb4@25>4^104 Bb4@33>5^104 Bb4@49>2^104 Bb4@57>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>1^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>4^104
+@58 [Bb | Gm7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@6>1^104 Bb4@8>1^104 Bb4@10>2^104 Bb4@13>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@3>1^104 F4+Bb4@5>1^104 F4+Bb4@6>1^104 F4+Bb4@9>1^104 F4+Bb4@11>1^104 F4+Bb4@12>1^104 F4+Bb4@14>1^104 F4+Bb4@15>1^104 F4+Bb4@16>1^80
+@59 [F | Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 D2+Gb2+F3@8>1^104 C2+D2+Gb2@9>1^104 D2+Gb2+F3@10>1^104 Bb2+F3@11>1^80 D2+Gb2@12>1^104 C2+D2+Eb2+Gb2+F3@13>1^104 D2+Gb2@14>1^104 D2+Bb2+F3@15>1^104 D2+Gb2+F3@16>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>1^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@2>1^104 Bb4@4>1^104 Bb4@6>2^104 Bb4@9>1^104 Bb4@10>2^104 Bb4@13>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>1^104 F4+Bb4+C5@3>1^104 F4+Bb4+C5@5>1^104 F4+Bb4+C5@6>1^104 F4+Bb4+D5@9>2^104 F4+Bb4+D5@12>2^104 F4+Bb4+C5@15>2^104
+@60 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>3^104 Bb4@9>2^104 Bb4@13>3^104 Bb4@21>2^104 Bb4@25>3^104 Bb4@33>5^104 Bb4@41>2^104 Bb4@45>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>2^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>2^80
+@61 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+D2+Gb2+F3@1>1^104 Gb2@5>1^56 D2+Bb2+F3@9>1^104 Gb2@13>1^56 C2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 D2+Bb2@25>1^104 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@5>3^104 Bb4@13>4^104 Bb4@21>10^104 Bb4@33>5^104 Bb4@41>5^104 Bb4@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@62 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Gb2@45>1^56 D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>12^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>32^56 Bb4+Eb5@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>1^104 G4@49>2^104 Bb4@53>2^104
+@63 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>2^104 Bb4@17>2^104 Bb4@25>2^104 D5@33>17^104 C5@49>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+@64 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>17^56 Eb5@9>9^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@65 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+D2+Gb2+F3@1>1^104 D2+Gb2@5>1^104 Bb2+F3@9>1^80 D2+Gb2@13>1^104 D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 D2+Bb2@25>1^104 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 D2+Bb2+F3@41>1^104 D2+Gb2@45>1^104 D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>10^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>3^104 Bb4@25>4^104 D5@33>16^104 C5@49>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+@66 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: F5@21>8^104 Eb5@29>14^104 D5@45>10^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>32^56 Bb4+Eb5@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+@67 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@9>3^104 D5@17>9^104 C5@25>3^104 Eb5@33>12^104 D5@45>12^104 C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+@68 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Eb5@1>3^104 D5@4>3^104 C5@7>1^104 Eb5@9>3^104 D5@12>2^104 C5@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>9^56 Bb4+Eb5@9>9^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@69 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+D2+Gb2+F3@1>1^104 D2+Gb2@5>1^104 D2+Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 D2+Bb2@25>1^104 D2+Gb2+F3@29>1^104 C2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 D2+Bb2+F3@41>1^104 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>2^104 Db5@33>11^104 C5@45>10^104 Bb4@53>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>60^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+@70 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>4^104 Bb4@25>4^104 Db5@33>11^104 C5@41>9^104 Bb4@49>9^104 C5@57>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>32^56 Bb5+Eb6@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>1^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@71 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>4^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@17>16^104 Bb4@33>4^104 Bb4@41>3^104 Bb4@49>3^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56 F5@61>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@72 [Bbm | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Db5@17>16^104 Bb4@33>4^104 Bb4@41>3^104 Bb4@49>4^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb5@1>32^56 Bb5+Eb6@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>1^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@73 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Db5@17>14^104 Bb4@33>3^104 Bb4@41>3^104 Bb4@49>4^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>68^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@74 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>10^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>9^104 D5@13>7^104 D5@24>5^104 D5@33>22^104 Eb5@64>10^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>32^56 Bb5+Eb6@33>44^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>8^104 F4+Bb4@25>8^104 F4+Bb4@57>4^104
+@75 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Eb5@13>8^104 Eb5@25>22^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>68^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>9^104 F4+C5@13>8^104 F4+C5@25>8^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@76 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>7^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>15^104 Bb4@17>4^104 Bb4@25>3^104 D5@33>15^104 Bb4@49>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>32^56 Bb5+Eb6@33>40^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>8^104 F4+Bb4@25>7^104
+@77 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+D2+Gb2+F3@1>1^104 D2+Gb2@5>1^104 Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 D2+Gb2@21>1^80 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>10^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>3^104 Db5@33>11^104 C5@45>6^104 Bb4@53>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>7^104 F4+C5@25>8^104 F4+D5@41>4^104 F4+D5@49>7^104
+@78 [Bb | Gm] (grid:24t)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : D2@1>1^104 Eb2@7>1^104 Eb2@19>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>4^104 Bb2+F3@5>3^104 Bb2+F3@10>3^104 G2+D3@13>3^104 G2+D3@17>5^104 Eb2+Bb2@22>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>3^104
+@79 [F | Bb] (grid:24t)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Eb2@7>1^104 Eb2@19>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>3^104 F2+C3@5>3^104 F2+C3@10>2^104 F2+C3@13>3^104 G2+D3@16>3^104 Bb2+F3@19>3^104 C3+G3@22>3^104
+@80 [Bb | Gm] (grid:24t)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Eb2@7>1^104 Eb2@19>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>4^104 Bb2+F3@5>3^104 Bb2+F3@10>3^104 G2+D3@13>3^104 G2+D3@17>5^104 Eb2+Bb2@22>3^104
+@81 [F | Bb] (grid:24t)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Eb2@7>1^104 Eb2@19>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>3^104 F2+C3@5>3^104 F2+C3@10>2^104 F2+C3@13>4^104 G2+D3@16>3^104 Bb2+F3@19>3^104 G2+D3@22>3^104
+@82 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2@1>1^56 Gb2@2>1^56 Bb2@3>1^56 Gb2@4>1^56 Eb2+Gb2@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2@8>1^56 Gb2@9>1^56 Gb2@10>1^56 Bb2@11>1^56 Gb2@12>1^56 Eb2+Gb2@13>1^104 Gb2@14>1^56 Bb2@15>1^56 Gb2@16>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>3^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+@83 [F] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2@1>1^32 Gb2@2>1^56 Bb2@3>1^56 Gb2@4>1^56 Eb2+Gb2@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2@8>1^56 Gb2@9>1^56 Gb2@10>1^56 Bb2@11>1^56 Gb2@12>1^56 Eb2+Gb2@13>1^104 Gb2@14>1^56 Bb2@15>1^56 Gb2@16>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>2^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+@84 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2@1>1^104 Gb2@5>1^56 Bb2@9>1^56 Gb2@13>1^56 C2+Eb2+Gb2@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2@29>1^56 C2+Gb2@33>1^104 Gb2@37>1^56 Bb2@41>1^56 Gb2@45>1^56 C2+Eb2+Gb2@49>1^104 Gb2@53>1^56 Bb2@57>1^56 Gb2@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>8^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+@85 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+D2+Gb2@1>1^104 D2+Gb2@5>1^104 Bb2@9>1^56 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2@17>1^104 Gb2@21>1^56 D2+Bb2@25>1^104 D2+Gb2@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2@37>1^56 D2+Bb2@41>1^104 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2@49>1^104 D2+Gb2@53>1^104 D2+Bb2@57>1^104 D2+Gb2@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>10^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+G4+Bb4+D5@41>2^104 F4+G4+Bb4+D5@45>2^104 F4+G4+Bb4+D5@53>2^104 F4+G4+Bb4+D5@57>2^104
+@86 [Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>4^104 Db5@33>13^104 C5@45>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>32^56 F4@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>1^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@87 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>4^104 Db5@33>10^104 Db5@45>12^104 Bb4@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5@1>64^32
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@88 [Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@5>1^104 Bb4@7>1^104 Db5@9>2^104 Db5@12>2^104 C5@14>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>8^56 F4@9>9^32
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>2^104 F4+Bb4@4>2^104 F4+Bb4@7>2^104
+@89 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 D2+Gb2@21>1^104 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>12^104 Bb4@17>4^104 Bb4@25>4^104 Db5@33>10^104 Db5@45>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@90 [Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^56 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>3^104 Db5@33>11^104 Db5@45>10^104 F5@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>32^56 F4@33>36^32
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@91 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>4^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>4^104 Db5@33>10^104 Db5@45>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5@1>68^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@92 [Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@5>1^104 Bb4@7>1^104 Db5@9>3^104 Db5@12>3^104 C5@15>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>8^56 F4@9>9^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>2^104 F4+Bb4@4>2^104 F4+Bb4@7>2^104
+@93 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+D2+Gb2+F3@1>1^104 D2+Gb2@5>1^104 Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 D2+Gb2@21>1^56 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>9^104 Bb4@17>5^104 Bb4@25>5^104 Bb4@49>5^104 Bb4@57>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@94 [Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>10^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>3^104 Bb4@25>3^104 Db5@33>16^104 C5@49>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>32^56 F4@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>1^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@95 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Eb2+Bb2+F3@57>1^104 D2+Eb2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>2^104 Bb4@25>3^104 D5@33>15^104 C5@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@96 [Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>7^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@33>16^104 C5@49>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>32^56 F4@33>36^32
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>1^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@97 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Eb2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Eb2+Bb2@25>1^104 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>10^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>17^104 C5@17>7^104 D5@33>16^104 C5@49>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5@1>68^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@98 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>4^104 Bb4@17>4^104 Bb4@25>4^104 Db5@33>15^104 C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@99 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>4^104 F2+C3@33>9^104 G2+D3@41>9^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>3^104 Bb4@25>5^104 D5@33>16^104 C5@49>10^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@100 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@33>16^104 C5@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@101 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^104 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 D2+Eb2+Gb2@21>1^104 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Gb2@33>1^104 Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 Eb2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Eb2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>16^104 C5@17>6^104 D5@33>17^104 C5@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@102 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>3^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>2^104 C5@11>2^104 Bb4@13>2^104 G4@15>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>17^56 Eb6@9>9^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@3>1^104 F4+Bb4@5>1^104 F4+Bb4@6>1^104 F4+Bb4@9>1^104 F4+Bb4@11>1^104 F4+Bb4@12>1^104 F4+Bb4@14>1^104 F4+Bb4@15>1^104 F4+Bb4@16>1^80
+@103 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Db5@17>15^104 Bb4@33>3^104 Bb4@41>3^104 Bb4@49>4^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>1^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@104 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 D2+Bb2+F3@11>1^104 D2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 D2+Gb2@14>1^56 D2+Bb2+F3@15>1^104 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@5>4^104 Bb4@9>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>17^56 Eb6@9>9^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@3>1^104 F4+Bb4@5>1^104 F4+Bb4@6>1^104 F4+Bb4@9>1^104 F4+Bb4@11>1^104 F4+Bb4@12>1^104 F4+Bb4@14>1^104 F4+Bb4@15>1^104 F4+Bb4@16>1^80
+@105 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Gb2@33>1^104 Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>10^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>10^104 Eb5@17>9^104 F5@25>10^104 D5@33>6^104 D5@41>4^104 D5@49>4^104 C5@53>6^104 Bb4@57>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@106 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>5^104 Bb4@17>4^104 Bb4@25>5^104 Db5@33>12^104 D5@45>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>68^56 Eb6@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>2^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>3^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>1^80
+@107 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>4^104 Bb4@17>4^104 Bb4@25>4^104 Db5@33>14^104 F5@45>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>1^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@108 [Bb | Eb7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 D2+Gb2@12>1^104 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>4^104 Bb4@13>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>16^56 Eb6@9>8^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@3>1^104 F4+Bb4@5>1^104 F4+Bb4@6>1^104 F4+Bb4@9>1^104 F4+Bb4@11>1^104 F4+Bb4@12>1^104 F4+Bb4@14>1^104 F4+Bb4@15>1^104 F4+Bb4@16>1^80
+@109 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 D2+Bb2@25>1^104 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>4^104 Db5@33>12^104 C5@45>10^104 Bb4@53>10^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@110 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>3^104 Bb4@9>3^104 Bb4@17>3^104 Bb4@25>2^104 Bb4@33>9^104 Bb4@49>3^104 Bb4@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@111 [F | Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 D2+Bb2+F3@11>1^104 D2+Gb2@12>1^80 C2+D2+Eb2+Gb2+F3@13>1^104 D2+Gb2@14>1^104 D2+Bb2+F3@15>1^104 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>1^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Bb4@9>2^104 Bb4@13>1^104 Bb4@15>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>3^104 F4+C5@4>2^104 F4+C5@7>2^104 F4+D5@11>1^104 F4+D5@13>1^104 F4+C5@15>1^104
+@112 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>5^104 Bb4@25>3^104 Bb4@33>4^104 Bb4@41>4^104 Bb4@49>4^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@113 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>4^104 Bb4@25>4^104 Bb4@33>5^104 Bb4@49>2^104 Bb4@57>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@114 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2+F3@1>1^80 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 Gb2@33>1^32 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>10^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>3^104 Bb4@17>2^104 Bb4@21>4^104 Bb4@29>5^104 Bb4@37>10^104 Bb4@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@115 [F | Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2+F3@1>1^80 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 Gb2@9>1^56 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>1^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@2>1^104 Bb4@4>1^104 Bb4@6>2^104 Bb4@9>1^104 Bb4@10>2^104 Bb4@13>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>3^104 F4+C5@4>2^104 F4+C5@7>2^104 F4+D5@11>1^104 F4+D5@13>1^104 F4+C5@15>1^104
+@116 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2+F3@1>1^80 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 Gb2@9>1^56 Gb2+F3@10>1^56 Bb2+F3@11>1^56 Gb2@12>1^56 D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>3^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@4>1^104 Bb4@6>1^104 Bb4@7>1^104 Bb4@9>1^104 Bb4@11>1^104 Bb4@12>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>2^104 F4+Bb4@4>2^104 F4+Bb4@7>2^104
+@117 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2+F3@1>1^56 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>10^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@5>3^104 Bb4@13>4^104 Bb4@21>10^104 Bb4@33>5^104 Bb4@41>5^104 Bb4@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@118 [Bb | Gm7] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@5>1^104 Bb4@7>1^104 Bb4@9>1^104 Bb4@11>1^104 Bb4@13>1^104 Bb4@15>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@3>1^104 F4+Bb4@5>1^104 F4+Bb4@6>1^104 F4+Bb4@9>1^104 F4+Bb4@11>1^104 F4+Bb4@12>1^104 F4+Bb4@14>1^104 F4+Bb4@15>1^104 F4+Bb4@16>1^80
+@119 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>4^104 F2+C3@33>9^104 G2+D3@41>9^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>12^104 Bb4@17>2^104 Bb4@21>4^104 Bb4@29>4^104 Bb4@37>9^104 Bb4@49>2^104 Bb4@53>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>1^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@120 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>2^104 Bb4@5>5^104 Bb4@13>5^104 Bb4@21>9^104 Bb4@33>10^104 Bb4@49>5^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>2^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>2^80
+@121 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: F5@17>6^104 Eb5@21>6^104 Bb4@29>2^104 Bb4@33>7^104 Bb4@41>2^104 Bb4@45>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@122 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>12^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@5>4^104 Bb4@13>4^104 Bb4@21>2^104 Bb4@25>3^104 Bb4@41>3^104 Bb4@49>9^104 Bb4@61>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>2^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>3^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>1^80
+@123 [F | Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+D2+Gb2@9>1^104 D2+Gb2+F3@10>1^104 Bb2+F3@11>1^80 D2+Gb2@12>1^104 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 D2+Bb2+F3@15>1^104 Gb2+F3@16>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>2^104 F2+C3@4>2^104 F2+C3@7>2^104 F2+C3@9>2^104 G2+D3@11>2^104 Bb2+F3@13>2^104 C3+G3@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@3>1^104 Bb4@4>1^104 Bb4@7>1^104 Bb4@9>1^104 Bb4@10>1^104 Bb4@12>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>1^104 F4+Bb4+C5@3>1^104 F4+Bb4+C5@5>1^104 F4+Bb4+C5@6>1^104 F4+Bb4+D5@9>2^104 F4+Bb4+D5@12>2^104 F4+Bb4+C5@15>2^104
+@124 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>8^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>2^104 Bb4@21>8^104 Bb4@33>4^104 Bb4@41>4^104 Bb4@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>2^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>2^80
+@125 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>10^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@5>4^104 Bb4@13>2^104 Bb4@17>2^104 Bb4@21>2^104 Bb4@25>2^104 Bb4@33>5^104 Bb4@41>3^104 Bb4@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@126 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>64^56 Eb5@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>1^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@127 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^104 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^80 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Eb2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^104 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>3^104 Bb4@25>3^104 Db5@33>16^104 D5@49>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@128 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^104 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^104 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>68^56 Eb5@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>1^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@129 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^104 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Eb2+Gb2@33>1^104 D2+Eb2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Eb2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Eb2+Bb2+F3@57>1^104 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>2^104 Bb4@25>2^104 D5@33>16^104 Bb4@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>68^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@130 [Bb | Eb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^104 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: F5@25>9^104 Eb5@33>14^104 F5@45>14^104 Eb5@57>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>68^56 Eb5@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@131 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^104 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^104 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Eb2+Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 Eb2+Bb2+F3@57>1^104 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>4^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>4^104 Bb4@25>4^104 D5@33>16^104 C5@49>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@132 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^104 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^104 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Eb2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Eb2+Gb2@45>1^80 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Eb2+Bb2+F3@57>1^80 Eb2+Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>8^104 Bb4@25>9^104 Bb4@41>9^104 Bb4@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>64^56 Eb5@33>28^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>10^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@133 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Eb2+Bb2+F3@9>1^104 Gb2@13>1^56 C2+D2+Gb2+F3@17>1^104 Eb2+Gb2@21>1^104 Bb2@25>1^56 Gb2+F3@29>1^80 C2+D2+Eb2+Gb2@33>1^104 D2+Eb2+Gb2+F3@37>1^80 D2+Bb2+F3@41>1^80 D2+Eb2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 D2+Eb2+Bb2+F3@57>1^104 D2+Eb2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>3^104 Db5@33>12^104 C5@45>10^104 Bb4@53>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5+F5@1>64^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@134 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@9>1^80 F3@17>1^80 F3@29>1^80 F3@37>1^80 F3@41>1^80 F3@49>1^80 F3@57>1^80 F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>10^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>1^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>11^104 F4+Bb4@13>9^104 F4+Bb4@25>9^104
+@135 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@9>1^80 F3@17>1^80 F3@29>1^80 F3@37>1^80 F3@41>1^80 F3@49>1^80 F3@57>1^80 F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>11^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@136 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@3>1^80 F3@5>1^80 F3@8>1^80 F3@10>1^80 F3@11>1^80 F3@13>1^80 F3@15>1^80 F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>3^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@1>2^104 F4+Bb4@4>2^104 F4+Bb4@7>2^104
+@137 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@9>1^80 F3@17>1^80 F3@29>1^80 F3@37>1^80 F3@41>1^80 F3@49>1^80 F3@57>1^80 F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>10^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+C5@1>10^104 F4+C5@13>8^104 F4+C5@25>9^104 F4+D5@41>4^104 F4+D5@49>4^104 F4+C5@57>4^104
+@138 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>8^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>3^104 Bb4@25>4^104 Db5@33>10^104 C5@41>10^104 Bb4@49>9^104 C5@57>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>68^56 Eb6@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>2^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>3^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>1^80
+@139 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>4^104 F2+C3@33>9^104 G2+D3@41>9^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Db5@1>16^104 Bb4@17>6^104 Bb4@41>3^104 Bb4@49>3^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>1^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@140 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>14^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>16^104 Bb4@17>7^104 Bb4@49>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>68^56 Eb6@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>2^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>2^80
+@141 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 D2+Gb2+F3@29>1^104 C2+D2+Gb2@33>1^104 Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Eb5@17>9^104 F5@25>4^104 D5@33>8^104 D5@41>6^104 D5@49>3^104 C5@53>5^104 Bb4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>64^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@142 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^56 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>12^104 Eb2+Bb2@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>3^104 Bb4@25>3^104 Db5@33>13^104 C5@45>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>68^56 Eb6@33>32^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>1^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>2^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>3^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>1^80
+@143 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>3^104 Bb4@17>4^104 Bb4@25>4^104 D5@33>14^104 C5@45>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>68^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>1^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@144 [Bb | Eb7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>9^104 Bb2+F3@25>8^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>4^104 Bb4@17>4^104 Bb4@25>4^104 D5@33>15^104 Bb4@49>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F5+Bb5@1>68^56 Eb6@33>36^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>1^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>2^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>2^80
+@145 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 D2+Gb2@13>1^104 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 D2+Bb2@25>1^104 Gb2+F3@29>1^80 C2+D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>10^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>3^104 Db5@33>12^104 C5@45>10^104 Bb4@53>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C6+F6@1>60^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@146 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>8^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>4^104 Bb4@9>4^104 Bb4@17>4^104 Bb4@25>3^104 Db5@33>10^104 C5@41>10^104 Bb4@49>8^104 G4@57>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>124^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>2^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>2^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>3^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>1^80
+@147 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 D2+Bb2+F3@41>1^104 D2+Gb2@45>1^104 C2+Eb2+Gb2+F3@49>1^104 D2+Gb2@53>1^104 D2+Bb2+F3@57>1^104 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>8^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@17>17^104 Bb4@33>4^104 Bb4@41>3^104 Bb4@49>8^104 G4@57>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>1^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@148 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@2>1^56 Bb2+F3@3>1^80 Gb2@4>1^56 C2+D2+Eb2+Gb2+F3@5>1^104 Gb2@6>1^56 Bb2@7>1^56 Gb2+F3@8>1^80 C2+Gb2@9>1^104 Gb2+F3@10>1^80 Bb2+F3@11>1^80 Gb2@12>1^56 C2+D2+Eb2+Gb2+F3@13>1^104 Gb2@14>1^56 Bb2+F3@15>1^80 Gb2+F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@5>4^104 Bb4@9>1^104 Bb4@11>1^104 Bb4@13>2^104 G4@15>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>13^56 G4@13>4^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@3>1^104 F4+Bb4@5>1^104 F4+Bb4@6>1^104 F4+Bb4@9>1^104 F4+Bb4@11>1^104 F4+Bb4@12>1^104 F4+Bb4@14>1^104 F4+Bb4@15>1^104 F4+Bb4@16>1^80
+@149 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : C2+Gb2+F3@1>1^104 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 C2+D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 C2+Gb2@33>1^104 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 C2+D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@17>16^104 Bb4@33>4^104 Bb4@49>8^104 G4@57>4^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4@1>24^56 F4@25>8^56 G4@33>12^56 Bb4@41>12^56 G4@49>8^56 F4@57>12^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@150 [Bb | Gm7]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2+F3@1>1^80 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 Gb2@33>1^56 Gb2+F3@37>1^56 Bb2+F3@41>1^56 Gb2@45>1^56 Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>9^104 Bb2+F3@13>9^104 Bb2+F3@25>9^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>4^104 Bb4@17>4^104 Bb4@25>4^104 Db5@33>13^104 C5@45>5^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>96^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@21>2^104 F4@41>1^104 G4@49>2^104 Bb4@53>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>2^104 F4+Bb4@33>3^104 F4+Bb4@41>2^104 F4+Bb4@45>3^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>1^80
+@151 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2+F3@1>1^56 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 Gb2@33>1^56 Gb2+F3@37>1^56 Bb2+F3@41>1^80 Gb2@45>1^56 Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>4^104 F2+C3@33>10^104 G2+D3@41>8^104 Bb2+F3@49>9^104 C3+G3@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@9>4^104 Bb4@17>4^104 Bb4@25>5^104 D5@33>8^104 D5@41>6^104 F5@49>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: C5@33>16^56 D5@45>16^80 C5@57>8^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>1^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@152 [Bb | Gm]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2+F3@1>1^80 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 Gb2@33>1^56 Gb2+F3@37>1^80 Bb2+F3@41>1^80 Gb2@45>1^56 D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 Bb2+F3@57>1^80 Gb2+F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@13>10^104 Bb2+F3@25>8^104 G2+D3@33>9^104 G2+D3@45>13^104 Eb2+Bb2@57>9^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: D5@1>8^104 D5@9>15^104 D5@33>8^104 D5@41>12^104 Bb4@49>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb4@1>32^56 F4+G4@33>32^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@21>1^104 F4@41>2^104 G4@49>2^104 Bb4@52>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4@9>2^104 F4+Bb4@17>2^104 F4+Bb4@21>3^104 F4+Bb4@33>2^104 F4+Bb4@41>2^104 F4+Bb4@45>2^104 F4+Bb4@53>2^104 F4+Bb4@57>2^104 F4+Bb4@61>2^80
+@153 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : Gb2+F3@1>1^80 Gb2@5>1^56 Bb2+F3@9>1^80 Gb2@13>1^56 D2+Eb2+Gb2+F3@17>1^104 Gb2@21>1^56 Bb2@25>1^56 Gb2+F3@29>1^80 D2+Gb2@33>1^104 D2+Gb2+F3@37>1^104 Bb2+F3@41>1^80 D2+Gb2@45>1^104 D2+Eb2+Gb2+F3@49>1^104 Gb2@53>1^56 D2+Bb2+F3@57>1^104 D2+Gb2+F3@61>1^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>10^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>5^104 Db5@33>12^104 C5@45>10^104 Bb4@53>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4@1>60^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#6: F4+Bb4+C5@1>3^104 F4+Bb4+C5@9>2^104 F4+Bb4+C5@17>2^104 F4+Bb4+C5@21>2^104 F4+Bb4+D5@33>9^104 F4+Bb4+D5@45>9^104 F4+Bb4+C5@57>6^104
+@154 [Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@3>1^80 F3@5>1^80 F3@8>1^80 F3@10>1^80 F3@11>1^80 F3@13>1^80 F3@15>1^80 F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>10^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: F4+Bb4@1>35^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@155 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@9>1^80 F3@17>1^80 F3@29>1^80 F3@37>1^80 F3@41>1^80 F3@49>1^80 F3@57>1^80 F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>6^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>5^104 Db5@33>12^104 C5@45>9^104 Bb4@53>10^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@17>2^104 Bb4@20>2^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+@156 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@3>1^80 F3@5>1^80 F3@8>1^80 F3@10>1^56 F3@11>1^80 F3@13>1^80 F3@15>1^80 F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>3^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#4: Bb5@1>97^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@157 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@9>1^80 F3@17>1^80 F3@29>1^80 F3@37>1^56 F3@41>1^80 F3@49>1^80 F3@57>1^80 F3@61>1^32
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>10^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>10^104 G2+D3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>4^104 Db5@33>12^104 C5@45>9^104 Bb4@53>10^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>5^104
+@158 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@3>1^80 F3@5>1^80 F3@8>1^80 F3@10>1^80 F3@11>1^80 F3@13>1^80 F3@15>1^80 F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>2^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>3^104 D5@12>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@159 [F]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@9>1^80 F3@17>1^80 F3@29>1^80 F3@37>1^80 F3@41>1^80 F3@49>1^80 F3@57>1^80 F3@61>1^56
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>8^104 F2+C3@25>4^104 F2+C3@33>9^104 G2+D3@41>9^104 Bb2+F3@49>9^104 C3+G3@57>8^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>4^104 Bb4@25>3^104 Db5@33>12^104 C5@45>12^104 Bb4@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>1^104 G4@17>2^104 Bb4@20>3^104 F4+C5@32>10^104 F4+D5@45>9^104 F4+C5@57>3^104
+@160 [Bb | Gm] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@3>1^80 F3@5>1^80 F3@8>1^80 F3@10>1^80 F3@11>1^80 F3@13>1^80 F3@15>1^80 F3@16>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: Bb2+F3@1>2^104 Bb2+F3@4>2^104 Bb2+F3@7>2^104 G2+D3@9>2^104 G2+D3@12>3^104 Eb2+Bb2@15>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>1^104 Bb4@5>1^104 Bb4@7>1^104 Db5@9>3^104 D5@12>2^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@3>1^104 G4@5>1^104 Bb4@6>1^104 F4@11>1^104 G4@13>1^104 Bb4@14>1^104
+@161 [F | Bb]
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@9>1^80 F3@17>1^80 F3@29>1^80 F3@37>1^80 F3@41>1^80 F3@49>1^80 F3@57>1^80 F3@61>1^80
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#2: F2+C3@1>9^104 F2+C3@13>9^104 F2+C3@25>5^104 F2+C3@33>10^104 G2+D3@41>9^104 Bb2+F3@49>9^104 G2+D3@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@17>3^104 Bb4@25>3^104 Db5@33>13^104 C5@45>12^104 Bb4@57>7^104
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#5: F4@9>2^104 G4@16>2^104 Bb4@20>2^104 C5@28>9^104 F4@29>9^104 F4+D5@41>4^104 F4+C5@49>6^104
+@162 [Bb] (grid:16)
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi  : F3@1>1^80 F3@2>1^80 F3@3>1^80 F3@4>1^56 F3@5>1^56 F3@6>1^56 F3@7>1^56 F3@8>1^56 F3@9>1^32 F3@10>1^32 F3@11>1^32 F3@12>1^32 F3@13>1^32 F3@14>1^32 F3@15>1^32
+  MOVE THIS                       ;Jo Bogaert / Manuella Kamosi#3: Bb4@1>2^104

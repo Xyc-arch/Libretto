@@ -1,0 +1,1478 @@
+KEY: G major | METER: 3/4 | TEMPO: 250 | GRID: 64th (adaptive) | BARS: 166
+VOICES: - Thomas Campion (1601)[prog=79], - Thomas Campion (1601)#2[prog=67], - Thomas Campion (1601)#3[prog=57], Flute[prog=73], Clarinet[prog=71], Harpsichord[prog=6], Basson[prog=70], Strings[prog=48], Strings#2[prog=48], cowles@hydra.convex.com[drums]
+@1 [G] (grid:4)
+  - Thomas Campion (1601)  : D4@3>1^104
+  Flute                    : D5@3>1^104
+  Clarinet                 : D4@3>1^104
+  Harpsichord              : B1+D2+G2+D4@3>1^104
+  Basson                   : G2@3>1^104
+  Strings                  : G2@3>1^104
+  Strings#2                : D3+B3+G4+D5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@2 [G | D]
+  - Thomas Campion (1601)  : G4@1>31^104 A4@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : B1+D2+G4@1>31^104 D2+F#2+A4@33>15^104
+  Basson                   : G2@1>31^104 D2@33>15^104
+  Strings                  : G2@1>31^104 D2@33>15^104
+  Strings#2                : D3+B3+G5@1>31^104 D3+F#4+A5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@3 [G | C] (grid:4)
+  - Thomas Campion (1601)  : B4@1>2^104 C5@3>1^104
+  Flute                    : B5@1>2^104 C6@3>1^104
+  Clarinet                 : B4@1>2^104 C5@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 C2+E2+G2+C5@3>1^104
+  Basson                   : G2@1>2^104 C2@3>1^104
+  Strings                  : G2@1>2^104 C2@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 E3+C4+G4+C6@3>1^104
+@4 [G] (grid:4)
+  - Thomas Campion (1601)  : B4@1>3^104
+  Flute                    : B5@1>3^104
+  Clarinet                 : B4@1>3^104
+  Harpsichord              : D2+G2+B4@1>3^104
+  Basson                   : G2@1>3^104
+  Strings                  : G2@1>3^104
+  Strings#2                : D4+G4+B5@1>3^104
+@5 [D] (grid:4)
+  - Thomas Campion (1601)  : A4@1>2^104 F#4@3>1^104
+  Flute                    : A5@1>2^104 F#5@3>1^104
+  Clarinet                 : A4@1>2^104 F#4@3>1^104
+  Harpsichord              : D2+F#2+A4@1>3^104 A2+F#4@3>1^104
+  Basson                   : D2@1>3^104
+  Strings                  : D2@1>3^104
+  Strings#2                : F#3+D4+A5@1>3^104 A4+F#5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@6 [G | Em]
+  - Thomas Campion (1601)  : G4@1>31^104 G4@33>15^104
+  Flute                    : G5@1>31^104 G5@33>15^104
+  Clarinet                 : G4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+B2+G4@1>47^104 E2+G4@33>15^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+B4+G5@1>47^104 E4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@7 [F | G] (grid:4)
+  - Thomas Campion (1601)  : C5@1>2^104 B4@3>1^104
+  Flute                    : C6@1>2^104 B5@3>1^104
+  Clarinet                 : C5@1>2^104 B4@3>1^104
+  Harpsichord              : F2+A2+C5@1>2^104 D2+G2+B4@3>1^104
+  Basson                   : F2@1>2^104 G2@3>1^104
+  Strings                  : F2@1>2^104 G2@3>1^104
+  Strings#2                : A3+F4+C6@1>2^104 D4+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@8 [D]
+  - Thomas Campion (1601)  : A4@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : F#3+D4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@9 [G] (grid:4)
+  - Thomas Campion (1601)  : D4@3>1^104
+  Flute                    : D5@3>1^104
+  Clarinet                 : D4@3>1^104
+  Harpsichord              : B1+D2+G2+D4@3>1^104
+  Basson                   : G2@3>1^104
+  Strings                  : G2@3>1^104
+  Strings#2                : D3+B3+G4+D5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@10 [G | D]
+  - Thomas Campion (1601)  : G4@1>31^104 A4@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : B1+D2+G4@1>31^104 D2+F#2+A4@33>15^104
+  Basson                   : G2@1>31^104 D2@33>15^104
+  Strings                  : G2@1>31^104 D2@33>15^104
+  Strings#2                : D3+B3+G5@1>31^104 F#3+D4+A5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@11 [G | C] (grid:4)
+  - Thomas Campion (1601)  : B4@1>2^104 C5@3>1^104
+  Flute                    : B5@1>2^104 C6@3>1^104
+  Clarinet                 : B4@1>2^104 C5@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 C2+E2+G2+C5@3>1^104
+  Basson                   : G2@1>2^104 C2@3>1^104
+  Strings                  : G2@1>2^104 C2@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 E3+C4+G4+C6@3>1^104
+@12 [G] (grid:4)
+  - Thomas Campion (1601)  : B4@1>3^104
+  Flute                    : B5@1>3^104
+  Clarinet                 : B4@1>3^104
+  Harpsichord              : D2+G2+B4@1>3^104
+  Basson                   : G2@1>3^104
+  Strings                  : G2@1>3^104
+  Strings#2                : D4+G4+B5@1>3^104
+@13 [D] (grid:4)
+  - Thomas Campion (1601)  : A4@1>2^104 F#4@3>1^104
+  Flute                    : A5@1>2^104 F#5@3>1^104
+  Clarinet                 : A4@1>2^104 F#4@3>1^104
+  Harpsichord              : D2+F#2+A4@1>3^104 A2+F#4@3>1^104
+  Basson                   : D2@1>3^104
+  Strings                  : D2@1>3^104
+  Strings#2                : F#3+D4+A5@1>3^104 A4+F#5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@14 [G | Em]
+  - Thomas Campion (1601)  : G4@1>31^104 G4@33>15^104
+  Flute                    : G5@1>31^104 G5@33>15^104
+  Clarinet                 : G4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+B2+G4@1>47^104 E2+G4@33>15^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+B4+G5@1>47^104 E4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@15 [F | G] (grid:4)
+  - Thomas Campion (1601)  : C5@1>2^104 B4@3>1^104
+  Flute                    : C6@1>2^104 B5@3>1^104
+  Clarinet                 : C5@1>2^104 B4@3>1^104
+  Harpsichord              : F2+A2+C5@1>2^104 D2+G2+B4@3>1^104
+  Basson                   : F2@1>2^104 G2@3>1^104
+  Strings                  : F2@1>2^104 G2@3>1^104
+  Strings#2                : A3+F4+C6@1>2^104 D4+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@16 [D]
+  - Thomas Campion (1601)  : A4@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : F#3+D4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@17 [Am | D] (grid:8)
+  - Thomas Campion (1601)  : E4@1>4^104 F#4@5>2^104
+  Flute                    : E5@1>4^104 F#5@5>2^104
+  Clarinet                 : E4@1>4^104 F#4@5>2^104
+  Harpsichord              : C2+E2+A2+E4@1>4^104 D2+A2+F#4@5>2^104
+  Basson                   : A2@1>3^104 G2@4>1^104 F#2@5>2^104
+  Strings                  : A2@1>3^104 G2@4>1^104 F#2@5>2^104
+  Strings#2                : E3+C4+A4+E5@1>4^104 D4+A4+F#5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@18 [Em | A]
+  - Thomas Campion (1601)  : G4@1>31^104 A4@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : E2+B2+G4@1>31^104 E2+C#3+A4@33>15^104
+  Basson                   : E2@1>31^104 A1@33>15^104
+  Strings                  : E2@1>31^104 A1@33>15^104
+  Strings#2                : E4+B4+G5@1>31^104 E4+C#5+A5@33>15^104
+  cowles@hydra.convex.com  : C2+E4+B5@1>15^104 F#3@2>15^104
+@19 [D] (grid:4)
+  - Thomas Campion (1601)  : F#4@1>3^104
+  Flute                    : F#5@1>3^104
+  Clarinet                 : F#4@1>3^104
+  Harpsichord              : D2+D3+F#4@1>3^104
+  Basson                   : D2@1>3^104
+  Strings                  : D1+D2+A3@1>3^104
+  Strings#2                : D3+D4+F#5@1>3^104
+@20 [D]
+  - Thomas Campion (1601)  : D4@1>31^104 D5@33>15^104
+  Flute                    : D5@1>31^104 D6@33>15^104
+  Clarinet                 : D4@1>31^104 D5@33>15^104
+  Harpsichord              : D2+D3+D4@1>31^104 F#2+A2+D5@33>15^104
+  Basson                   : D2@1>31^104 D2@33>15^104
+  Strings                  : D1+D2+A3@1>31^104 D2@33>15^104
+  Strings#2                : D4+D5@1>31^104 F#3+A4+D6@33>15^104
+  cowles@hydra.convex.com  : E4@30>15^80 E4@46>15^104 C2+F#3+B5@47>15^104
+@21 [G | C] (grid:4)
+  - Thomas Campion (1601)  : D5@1>2^104 E5@3>1^104
+  Flute                    : D6@1>2^104 E6@3>1^104
+  Clarinet                 : D5@1>2^104 E5@3>1^104
+  Harpsichord              : B1+D2+G2+D5@1>2^104 C2+G2+E5@3>1^104
+  Basson                   : G1@1>2^104 C2@3>1^104
+  Strings                  : G1@1>2^104 C2@3>1^104
+  Strings#2                : D3+B3+G4+D6@1>2^104 C4+G4+E6@3>1^104
+@22 [Am | D] (grid:4)
+  - Thomas Campion (1601)  : C5@1>2^104 D5@3>1^104
+  Flute                    : C6@1>2^104 D6@3>1^104
+  Clarinet                 : C5@1>2^104 D5@3>1^104
+  Harpsichord              : C2+E2+A2+C5@1>2^104 F#2+A2+D5@3>1^104
+  Basson                   : A1@1>2^104 D2@3>1^104
+  Strings                  : A1@1>2^104 D2@3>1^104
+  Strings#2                : E3+C4+A4+C6@1>2^104 F#3+A4+D6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@23 [G]
+  - Thomas Campion (1601)  : B4@1>47^104
+  Flute                    : B5@1>47^104
+  Clarinet                 : B4@1>47^104
+  Harpsichord              : B1+D2+G2+B4@1>47^104
+  Basson                   : G1@1>47^104
+  Strings                  : G1@1>47^104
+  Strings#2                : D3+B3+G4+B5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@24 [G]
+  - Thomas Campion (1601)  : D5@33>15^104
+  Flute                    : D6@33>15^104
+  Clarinet                 : D5@33>15^104
+  Harpsichord              : B1+D2+G2+D5@33>15^104
+  Basson                   : G1@33>15^104
+  Strings                  : G1@33>15^104
+  Strings#2                : D3+B3+G4+D6@33>15^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@25 [G] (grid:8)
+  - Thomas Campion (1601)  : D5@1>3^104 C5@4>1^104 B4@5>2^104
+  Flute                    : D6@1>3^104 C6@4>1^104 B5@5>2^104
+  Clarinet                 : D5@1>3^104 C5@4>1^104 B4@5>2^104
+  Harpsichord              : B1+D2+G2+D5@1>4^104 C5@4>1^104 B1+D2+G2+B4@5>2^104
+  Basson                   : G1@1>4^104 G1@5>2^104
+  Strings                  : G1@1>4^104 G1@5>2^104
+  Strings#2                : D3+B3+G4+D6@1>4^104 C6@4>1^104 D3+B3+G4+B5@5>2^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@26 [D | G] (grid:8)
+  - Thomas Campion (1601)  : A4@1>4^104 B4@5>2^104
+  Flute                    : A5@1>4^104 B5@5>2^104
+  Clarinet                 : A4@1>4^104 B4@5>2^104
+  Harpsichord              : D2+F#2+A4@1>4^104 C2@4>1^104 B1+D2+G2+B4@5>2^104
+  Basson                   : D2@1>4^104 G1@5>2^104
+  Strings                  : D2@1>4^104 G1@5>2^104
+  Strings#2                : D3+F#4+A5@1>4^104 C4@4>1^104 D3+B3+G4+B5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@27 [C]
+  - Thomas Campion (1601)  : C5@1>47^104
+  Flute                    : C6@1>47^104
+  Clarinet                 : C5@1>47^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2+G3@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@28 [C] (grid:4)
+  - Thomas Campion (1601)  : C5@3>1^104
+  Flute                    : C6@3>1^104
+  Clarinet                 : C5@3>1^104
+  Harpsichord              : C2+E2+G2+C5@3>1^104
+  Basson                   : C2@3>1^104
+  Strings                  : C2@3>1^104
+  Strings#2                : E3+C4+G4+C6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@29 [C]
+  - Thomas Campion (1601)  : C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Flute                    : C6@1>23^104 D6@25>7^104 C6@33>15^104
+  Clarinet                 : C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104 D2+D5@25>7^104 E2+C5@33>15^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104 D4+D6@25>7^104 E3+C6@33>15^104
+  cowles@hydra.convex.com  : C2+F#3+E4+B5@1>15^104
+@30 [G] (grid:4)
+  - Thomas Campion (1601)  : B4@1>2^104 B4@3>1^104
+  Flute                    : B5@1>2^104 B5@3>1^104
+  Clarinet                 : B4@1>2^104 B4@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 B1+D2+G2+B4@3>1^104
+  Basson                   : G1@1>2^104 G1@3>1^104
+  Strings                  : G1@1>2^104 G1@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 D3+B3+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@31 [D]
+  - Thomas Campion (1601)  : A4@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : A1+D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : D3+A3+F#4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@32 [G] (grid:4)
+  - Thomas Campion (1601)  : B4@3>1^104
+  Flute                    : B5@3>1^104
+  Clarinet                 : B4@3>1^104
+  Harpsichord              : B1+D2+G2+B4@3>1^104
+  Basson                   : G1@3>1^104
+  Strings                  : G1@3>1^104
+  Strings#2                : D3+B3+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@33 [D | G]
+  - Thomas Campion (1601)  : A4@1>31^104 G4@33>15^104
+  Flute                    : A5@1>31^104 G5@33>15^104
+  Clarinet                 : A4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+F#2+A4@1>31^104 D2+G4@33>15^104
+  Basson                   : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings                  : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 D4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@34 [Am | D] (grid:8)
+  - Thomas Campion (1601)  : A4@1>4^104 F#4@5>2^104
+  Flute                    : A5@1>4^104 F#5@5>2^104
+  Clarinet                 : A4@1>4^104 F#4@5>2^104
+  Harpsichord              : C2+E2+A4@1>4^104 B1@4>1^80 A1+D2+F#4@5>2^104
+  Basson                   : A1@1>4^104 D2@5>2^104
+  Strings                  : A1@1>4^104 D2@5>2^104
+  Strings#2                : E3+C4+A5@1>4^104 B3@4>1^80 A3+D4+F#5@5>2^104
+@35 [G | Em] (grid:8)
+  - Thomas Campion (1601)  : G4@1>4^104 G4@5>2^104
+  Flute                    : G5@1>4^104 G5@5>2^104
+  Clarinet                 : G4@1>4^104 G4@5>2^104
+  Harpsichord              : B1+D2+G4@1>4^104 A1@4>1^80 G1+E2+G4@5>2^104
+  Basson                   : G2@1>4^104 E2@5>2^104
+  Strings                  : G2@1>4^104 E2@5>2^104
+  Strings#2                : D3+B3+G5@1>4^104 A3@4>1^80 G3+E4+G5@5>2^104
+@36 [D | G]
+  - Thomas Campion (1601)  : A4@1>31^104 B4@33>7^104 C5@41>7^104
+  Flute                    : A5@1>31^104 B5@33>7^104 C6@41>7^104
+  Clarinet                 : A4@1>31^104 B4@33>7^104 C5@41>7^104
+  Harpsichord              : D2+F#2+A4@1>31^104 B1+D2+G2+B4@33>15^104 C5@41>7^104
+  Basson                   : D2@1>31^104 G1@33>15^104
+  Strings                  : D2@1>31^104 G1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 D3+B3+G4+B5@33>15^104 C6@41>7^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@37 [G] (grid:8)
+  - Thomas Campion (1601)  : D5@1>3^104 C5@4>1^104 B4@5>2^104
+  Flute                    : D6@1>3^104 C6@4>1^104 B5@5>2^104
+  Clarinet                 : D5@1>3^104 C5@4>1^104 B4@5>2^104
+  Harpsichord              : B1+D2+G2+D5@1>8^104 C2+C5@4>1^104 D2+B4@5>6^104
+  Basson                   : G2@1>6^104
+  Strings                  : G2@1>6^104
+  Strings#2                : D3+B3+G4+D6@1>8^104 C4+C6@4>1^104 D3+B5@5>6^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@38 [D] (grid:8)
+  - Thomas Campion (1601)  : A4@1>4^104 A4@5>2^104
+  Flute                    : A5@1>4^104 A5@5>2^104
+  Clarinet                 : A4@1>4^104 A4@5>2^104
+  Harpsichord              : A4@1>4^104 F#2@3>1^80 E2@4>1^80 F#2+A4@5>2^104
+  Basson                   : D2@1>6^104
+  Strings                  : D2@1>6^104
+  Strings#2                : A5@1>4^104 F#4@3>1^80 E4@4>1^80 F#4+A5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@39 [G]
+  - Thomas Campion (1601)  : G4@1>47^104
+  Flute                    : G5@1>47^104
+  Clarinet                 : G4@1>47^104
+  Harpsichord              : B1+D2+G2+G4@1>47^104
+  Basson                   : G1@1>47^104
+  Strings                  : G1+D2+G3@1>47^104
+  Strings#2                : D3+B3+G4+G5@1>47^104
+  cowles@hydra.convex.com  : F#3+E4@1>15^104 C2+B5@2>15^104
+@40 [G]
+  - Thomas Campion (1601)  : D5@33>15^104
+  Flute                    : D6@33>15^104
+  Clarinet                 : D5@33>15^104
+  Harpsichord              : B1+D2+G2+D5@33>15^104
+  Basson                   : G1@33>15^104
+  Strings                  : G1@33>15^104
+  Strings#2                : D3+B3+G4+D6@33>15^104
+  cowles@hydra.convex.com  : F#3+E4+B5@1>15^104 B1@2>15^104 E4@32>15^80 E4@48>15^104
+@41 [G] (grid:8)
+  - Thomas Campion (1601)  : D5@1>3^104 C5@4>1^104 B4@5>2^104
+  Flute                    : D6@1>3^104 C6@4>1^104 B5@5>2^104
+  Clarinet                 : D5@1>3^104 C5@4>1^104 B4@5>2^104
+  Harpsichord              : B1+D2+G2+D5@1>4^104 C5@4>1^104 B1+D2+G2+B4@5>2^104
+  Basson                   : G1@1>4^104 G1@5>2^104
+  Strings                  : G1@1>4^104 G1@5>2^104
+  Strings#2                : D3+B3+G4+D6@1>4^104 C6@4>1^104 D3+B3+G4+B5@5>2^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@42 [D | G] (grid:8)
+  - Thomas Campion (1601)  : A4@1>4^104 B4@5>2^104
+  Flute                    : A5@1>4^104 B5@5>2^104
+  Clarinet                 : A4@1>4^104 B4@5>2^104
+  Harpsichord              : D2+F#2+A4@1>4^104 C2@4>1^80 B1+D2+G2+B4@5>2^104
+  Basson                   : D2@1>4^104 G1@5>2^104
+  Strings                  : D2@1>4^104 G1@5>2^104
+  Strings#2                : D3+F#4+A5@1>4^104 C4@4>1^80 D3+B3+G4+B5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@43 [C]
+  - Thomas Campion (1601)  : C5@1>47^104
+  Flute                    : C6@1>47^104
+  Clarinet                 : C5@1>47^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2+G3@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@44 [C] (grid:4)
+  - Thomas Campion (1601)  : C5@3>1^104
+  Flute                    : C6@3>1^104
+  Clarinet                 : C5@3>1^104
+  Harpsichord              : C2+E2+G2+C5@3>1^104
+  Basson                   : C2@3>1^104
+  Strings                  : C2@3>1^104
+  Strings#2                : E3+C4+G4+C6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@45 [C]
+  - Thomas Campion (1601)  : C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Flute                    : C6@1>23^104 D6@25>7^104 C6@33>15^104
+  Clarinet                 : C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104 D2+D5@25>7^104 E2+C5@33>15^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104 D4+D6@25>7^104 E3+C6@33>15^104
+  cowles@hydra.convex.com  : C2+F#3+E4+B5@1>15^104
+@46 [G] (grid:4)
+  - Thomas Campion (1601)  : B4@1>2^104 B4@3>1^104
+  Flute                    : B5@1>2^104 B5@3>1^104
+  Clarinet                 : B4@1>2^104 B4@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 B1+D2+G2+B4@3>1^104
+  Basson                   : G1@1>2^104 G1@3>1^104
+  Strings                  : G1@1>2^104 G1@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 D3+B3+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@47 [D]
+  - Thomas Campion (1601)  : A4@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : A1+D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : D3+A3+F#4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@48 [G] (grid:4)
+  - Thomas Campion (1601)  : B4@3>1^104
+  Flute                    : B5@3>1^104
+  Clarinet                 : B4@3>1^104
+  Harpsichord              : B1+D2+G2+B4@3>1^104
+  Basson                   : G1@3>1^104
+  Strings                  : G1@3>1^104
+  Strings#2                : D3+B3+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@49 [D | G]
+  - Thomas Campion (1601)  : A4@1>31^104 G4@33>15^104
+  Flute                    : A5@1>31^104 G5@33>15^104
+  Clarinet                 : A4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+F#2+A4@1>31^104 D2+G4@33>15^104
+  Basson                   : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings                  : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 D4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@50 [Am | D] (grid:8)
+  - Thomas Campion (1601)  : A4@1>4^104 F#4@5>2^104
+  Flute                    : A5@1>4^104 F#5@5>2^104
+  Clarinet                 : A4@1>4^104 F#4@5>2^104
+  Harpsichord              : C2+E2+A4@1>4^104 B1@4>1^80 A1+D2+F#4@5>2^104
+  Basson                   : A1@1>4^104 D2@5>2^104
+  Strings                  : A1@1>4^104 D2@5>2^104
+  Strings#2                : E3+C4+A5@1>4^104 B3@4>1^80 A3+D4+F#5@5>2^104
+@51 [G | Em] (grid:8)
+  - Thomas Campion (1601)  : G4@1>4^104 G4@5>2^104
+  Flute                    : G5@1>4^104 G5@5>2^104
+  Clarinet                 : G4@1>4^104 G4@5>2^104
+  Harpsichord              : B1+D2+G4@1>4^104 A1@4>1^80 G1+E2+G4@5>2^104
+  Basson                   : G2@1>4^104 E2@5>2^104
+  Strings                  : G2@1>4^104 E2@5>2^104
+  Strings#2                : B2+D4+G5@1>4^104 A3@4>1^80 G3+E4+G5@5>2^104
+@52 [D | G]
+  - Thomas Campion (1601)  : A4@1>31^104 B4@33>7^104 C5@41>7^104
+  Flute                    : A5@1>31^104 B5@33>7^104 C6@41>7^104
+  Clarinet                 : A4@1>31^104 B4@33>7^104 C5@41>7^104
+  Harpsichord              : D2+F#2+A4@1>31^104 B1+D2+G2+B4@33>15^104 C5@41>7^104
+  Basson                   : D2@1>31^104 G1@33>15^104
+  Strings                  : D2@1>31^104 G1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 D3+B3+G4+B5@33>15^104 C6@41>7^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@53 [G] (grid:8)
+  - Thomas Campion (1601)  : D5@1>3^104 C5@4>1^104 B4@5>2^104
+  Flute                    : D6@1>3^104 C6@4>1^104 B5@5>2^104
+  Clarinet                 : D5@1>3^104 C5@4>1^104 B4@5>2^104
+  Harpsichord              : B1+D2+G2+D5@1>8^104 C2+C5@4>1^104 D2+B4@5>6^104
+  Basson                   : G2@1>6^104
+  Strings                  : G2@1>6^104
+  Strings#2                : D3+B3+G4+D6@1>8^104 C4+C6@4>1^104 D3+B5@5>6^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@54 [D] (grid:8)
+  - Thomas Campion (1601)  : A4@1>4^104 A4@5>2^104
+  Flute                    : A5@1>4^104 A5@5>2^104
+  Clarinet                 : A4@1>4^104 A4@5>2^104
+  Harpsichord              : A4@1>4^104 F#2@3>1^80 E2@4>1^80 F#2+A4@5>2^104
+  Basson                   : D2@1>6^104
+  Strings                  : D2@1>6^104
+  Strings#2                : A5@1>4^104 F#4@3>1^80 E4@4>1^80 F#4+A5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@55 [G]
+  - Thomas Campion (1601)  : G4@1>47^104
+  Flute                    : G5@1>47^104
+  Clarinet                 : G4@1>47^104
+  Harpsichord              : B1+D2+G2+G4@1>47^104
+  Basson                   : G1@1>47^104
+  Strings                  : G1+D2+G3@1>47^104
+  Strings#2                : D3+B3+G4+G5@1>47^104
+  cowles@hydra.convex.com  : F#3+E4@1>15^104 C2+B5@2>15^104
+@56 [G]
+  - Thomas Campion (1601)#2: D4@33>15^104
+  Flute                    : D5@33>15^104
+  Clarinet                 : D4@33>15^104
+  Harpsichord              : B1+D2+G2+D4@33>15^104
+  Basson                   : G2@33>15^104
+  Strings                  : G2@33>15^104
+  Strings#2                : D3+B3+G4+D5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80
+@57 [G | D]
+  - Thomas Campion (1601)#2: G4@1>31^104 A4@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : B1+D2+G4@1>31^104 D2+F#2+A4@33>15^104
+  Basson                   : G2@1>31^104 D2@33>15^104
+  Strings                  : G2@1>31^104 D2@33>15^104
+  Strings#2                : D3+B3+G5@1>31^104 F#3+D4+A5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@58 [G | C] (grid:4)
+  - Thomas Campion (1601)#2: B4@1>2^104 C5@3>1^104
+  Flute                    : B5@1>2^104 C6@3>1^104
+  Clarinet                 : B4@1>2^104 C5@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 C2+E2+G2+C5@3>1^104
+  Basson                   : G2@1>2^104 C2@3>1^104
+  Strings                  : G2@1>2^104 C2@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 E3+C4+G4+C6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@59 [G]
+  - Thomas Campion (1601)#2: B4@1>47^104
+  Flute                    : B5@1>47^104
+  Clarinet                 : B4@1>47^104
+  Harpsichord              : D2+G2+B4@1>47^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+G4+B5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@60 [D] (grid:4)
+  - Thomas Campion (1601)#2: A4@1>2^104 F#4@3>1^104
+  Flute                    : A5@1>2^104 F#5@3>1^104
+  Clarinet                 : A4@1>2^104 F#4@3>1^104
+  Harpsichord              : D2+F#2+A4@1>3^104 A2+F#4@3>1^104
+  Basson                   : D2@1>3^104
+  Strings                  : D2@1>3^104
+  Strings#2                : F#3+D4+A5@1>3^104 A4+F#5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@61 [G | Em]
+  - Thomas Campion (1601)#2: G4@1>31^104 G4@33>15^104
+  Flute                    : G5@1>31^104 G5@33>15^104
+  Clarinet                 : G4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+B2+G4@1>47^104 E2+G4@33>15^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+B4+G5@1>47^104 E4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@62 [F | G] (grid:4)
+  - Thomas Campion (1601)#2: C5@1>2^104 B4@3>1^104
+  Flute                    : C6@1>2^104 B5@3>1^104
+  Clarinet                 : C5@1>2^104 B4@3>1^104
+  Harpsichord              : F2+A2+C5@1>2^104 D2+G2+B4@3>1^104
+  Basson                   : F2@1>2^104 G2@3>1^104
+  Strings                  : F2@1>2^104 G2@3>1^104
+  Strings#2                : A3+F4+C6@1>2^104 D4+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@63 [D]
+  - Thomas Campion (1601)#2: A4@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : F#3+D4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@64 [G] (grid:4)
+  - Thomas Campion (1601)#2: D4@3>1^104
+  Flute                    : D5@3>1^104
+  Clarinet                 : D4@3>1^104
+  Harpsichord              : B1+D2+G2+D4@3>1^104
+  Basson                   : G2@3>1^104
+  Strings                  : G2@3>1^104
+  Strings#2                : D3+B3+G4+D5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@65 [G | D]
+  - Thomas Campion (1601)#2: G4@1>31^104 A4@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : B1+D2+G4@1>31^104 D2+F#2+A4@33>15^104
+  Basson                   : G2@1>31^104 D2@33>15^104
+  Strings                  : G2@1>31^104 D2@33>15^104
+  Strings#2                : D3+B3+G5@1>31^104 F#3+D4+A5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@66 [G | C] (grid:4)
+  - Thomas Campion (1601)#2: B4@1>2^104 C5@3>1^104
+  Flute                    : B5@1>2^104 C6@3>1^104
+  Clarinet                 : B4@1>2^104 C5@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 C2+E2+G2+C5@3>1^104
+  Basson                   : G2@1>2^104 C2@3>1^104
+  Strings                  : G2@1>2^104 C2@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 E3+C4+G4+C6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@67 [G]
+  - Thomas Campion (1601)#2: B4@1>47^104
+  Flute                    : B5@1>47^104
+  Clarinet                 : B4@1>47^104
+  Harpsichord              : D2+G2+B4@1>47^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+G4+B5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@68 [D] (grid:4)
+  - Thomas Campion (1601)#2: A4@1>2^104 F#4@3>1^104
+  Flute                    : A5@1>2^104 F#5@3>1^104
+  Clarinet                 : A4@1>2^104 F#4@3>1^104
+  Harpsichord              : D2+F#2+A4@1>3^104 A2+F#4@3>1^104
+  Basson                   : D2@1>3^104
+  Strings                  : D2@1>3^104
+  Strings#2                : F#3+D4+A5@1>3^104 A4+F#5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@69 [G | Em]
+  - Thomas Campion (1601)#2: G4@1>31^104 G4@33>15^104
+  Flute                    : G5@1>31^104 G5@33>15^104
+  Clarinet                 : G4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+B2+G4@1>47^104 E2+G4@33>15^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+B4+G5@1>47^104 E4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@70 [F | G] (grid:4)
+  - Thomas Campion (1601)#2: C5@1>2^104 B4@3>1^104
+  Flute                    : C6@1>2^104 B5@3>1^104
+  Clarinet                 : C5@1>2^104 B4@3>1^104
+  Harpsichord              : F2+A2+C5@1>2^104 D2+G2+B4@3>1^104
+  Basson                   : F2@1>2^104 G2@3>1^104
+  Strings                  : F2@1>2^104 G2@3>1^104
+  Strings#2                : A3+F4+C6@1>2^104 D4+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@71 [D]
+  - Thomas Campion (1601)#2: A4@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : F#3+D4+A5@1>47^104
+  cowles@hydra.convex.com  : C2+E4+B5@1>15^104 F#3@2>15^104
+@72 [Am | D] (grid:8)
+  - Thomas Campion (1601)#2: E4@1>4^104 F#4@5>2^104
+  Flute                    : E5@1>4^104 F#5@5>2^104
+  Clarinet                 : E4@1>4^104 F#4@5>2^104
+  Harpsichord              : C2+E2+A2+E4@1>4^104 D2+A2+F#4@5>2^104
+  Basson                   : A2@1>3^104 G2@4>1^104 F#2@5>2^104
+  Strings                  : A2@1>3^104 G2@4>1^104 F#2@5>2^104
+  Strings#2                : E3+C4+A4+E5@1>4^104 D4+A4+F#5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@73 [Em | A]
+  - Thomas Campion (1601)#2: G4@1>31^104 A4@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : E2+B2+G4@1>31^104 E2+C#3+A4@33>15^104
+  Basson                   : E2@1>31^104 A1@33>15^104
+  Strings                  : E2@1>31^104 A1@33>15^104
+  Strings#2                : E4+B4+G5@1>31^104 E4+C#5+A5@33>15^104
+  cowles@hydra.convex.com  : E4@2>15^104 C2+F#3+B5@3>15^104
+@74 [D] (grid:4)
+  - Thomas Campion (1601)#2: F#4@1>3^104
+  Flute                    : F#5@1>3^104
+  Clarinet                 : F#4@1>3^104
+  Harpsichord              : D2+D3+F#4@1>3^104
+  Basson                   : D2@1>3^104
+  Strings                  : D1+D2+A3@1>3^104
+  Strings#2                : D3+D4+F#5@1>3^104
+@75 [D] (grid:4)
+  - Thomas Campion (1601)#2: D4@1>2^104 D5@3>1^104
+  Flute                    : D5@1>2^104 D6@3>1^104
+  Clarinet                 : D4@1>2^104 D5@3>1^104
+  Harpsichord              : D2+D3+D4@1>2^104 F#2+A2+D5@3>1^104
+  Basson                   : D2@1>2^104 D2@3>1^104
+  Strings                  : D1+D2+A3@1>2^104 D2@3>1^104
+  Strings#2                : D4+D5@1>2^104 A3+F#4+D6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@76 [G | C]
+  - Thomas Campion (1601)#2: D5@1>31^104 E5@33>15^104
+  Flute                    : D6@1>31^104 E6@33>15^104
+  Clarinet                 : D5@1>31^104 E5@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>31^104 C2+G2+E5@33>15^104
+  Basson                   : G1@1>31^104 C2@33>15^104
+  Strings                  : G1@1>31^104 C2@33>15^104
+  Strings#2                : D3+B3+G4+D6@1>31^104 C4+G4+E6@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@77 [Am | D]
+  - Thomas Campion (1601)#2: C5@1>31^104 D5@33>15^104
+  Flute                    : C6@1>31^104 D6@33>15^104
+  Clarinet                 : C5@1>31^104 D5@33>15^104
+  Harpsichord              : C2+E2+A2+C5@1>31^104 F#2+A2+D5@33>15^104
+  Basson                   : A1@1>31^104 D2@33>15^104
+  Strings                  : A1@1>31^104 D2@33>15^104
+  Strings#2                : E3+C4+A4+C6@1>31^104 F#3+A4+D6@33>15^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@78 [G] (grid:4)
+  - Thomas Campion (1601)#2: B4@1>3^104
+  Flute                    : B5@1>3^104
+  Clarinet                 : B4@1>3^104
+  Harpsichord              : B1+D2+G2+B4@1>3^104
+  Basson                   : G1@1>3^104
+  Strings                  : G1@1>3^104
+  Strings#2                : D3+B3+G4+B5@1>3^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@79 [G]
+  - Thomas Campion (1601)#2: D5@33>15^104
+  Flute                    : D6@33>15^104
+  Clarinet                 : D5@33>15^104
+  Harpsichord              : B1+D2+G2+D5@33>15^104
+  Basson                   : G1@33>15^104
+  Strings                  : G1@33>15^104
+  Strings#2                : D6@32>15^104 D3+B3+G4@33>15^80
+  cowles@hydra.convex.com  : E4@32>15^80
+@80 [G]
+  - Thomas Campion (1601)#2: D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Flute                    : D6@1>23^104 C6@25>7^104 B5@33>15^104
+  Clarinet                 : D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>31^104 C5@25>7^104 B1+D2+G2+B4@33>15^104
+  Basson                   : G1@1>31^104 G1@33>15^104
+  Strings                  : G1@1>31^104 G1@33>15^104
+  Strings#2                : D3+B3+G4+D6@1>31^104 C6@25>7^104 D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@81 [D | G] (grid:8)
+  - Thomas Campion (1601)#2: A4@1>4^104 B4@5>2^104
+  Flute                    : A5@1>4^104 B5@5>2^104
+  Clarinet                 : A4@1>4^104 B4@5>2^104
+  Harpsichord              : D2+F#2+A4@1>4^104 C2@4>1^80 B1+D2+G2+B4@5>2^104
+  Basson                   : D2@1>4^104 G1@5>2^104
+  Strings                  : D2@1>4^104 G1@5>2^104
+  Strings#2                : D3+F#4+A5@1>4^104 C3@4>1^80 D3+B3+G4+B5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@82 [C]
+  - Thomas Campion (1601)#2: C5@1>47^104
+  Flute                    : C6@1>47^104
+  Clarinet                 : C5@1>47^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2+G3@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104
+  cowles@hydra.convex.com  : C2+F#3+E4+B5@1>15^104
+@83 [C] (grid:4)
+  - Thomas Campion (1601)#2: C5@3>1^104
+  Flute                    : C6@3>1^104
+  Clarinet                 : C5@3>1^104
+  Harpsichord              : C2+E2+G2+C5@3>1^104
+  Basson                   : C2@3>1^104
+  Strings                  : C2@3>1^104
+  Strings#2                : E3+C4+G4+C6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@84 [C]
+  - Thomas Campion (1601)#2: C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Flute                    : C6@1>23^104 D6@25>7^104 C6@33>15^104
+  Clarinet                 : C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104 D2+D5@25>7^104 E2+C5@33>15^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104 D3+D6@25>7^104 E3+C6@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@85 [G] (grid:4)
+  - Thomas Campion (1601)#2: B4@1>2^104 B4@3>1^104
+  Flute                    : B5@1>2^104 B5@3>1^104
+  Clarinet                 : B4@1>2^104 B4@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 B1+D2+G2+B4@3>1^104
+  Basson                   : G1@1>2^104 G1@3>1^104
+  Strings                  : G1@1>2^104 G1@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 D3+B3+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@86 [D]
+  - Thomas Campion (1601)#2: A4@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : A1+D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : D3+A3+F#4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@87 [G] (grid:4)
+  - Thomas Campion (1601)#2: B4@3>1^104
+  Flute                    : B5@3>1^104
+  Clarinet                 : B4@3>1^104
+  Harpsichord              : B1+D2+G2+B4@3>1^104
+  Basson                   : G1@3>1^104
+  Strings                  : G1@3>1^104
+  Strings#2                : D3+B3+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@88 [D | G]
+  - Thomas Campion (1601)#2: A4@1>31^104 G4@33>15^104
+  Flute                    : A5@1>31^104 G5@33>15^104
+  Clarinet                 : A4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+F#2+A4@1>31^104 D2+G4@33>15^104
+  Basson                   : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings                  : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 D4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@89 [Am | D]
+  - Thomas Campion (1601)#2: A4@1>31^104 F#4@33>15^104
+  Flute                    : A5@1>31^104 F#5@33>15^104
+  Clarinet                 : A4@1>31^104 F#4@33>15^104
+  Harpsichord              : C2+E2+A4@1>31^104 B1@25>7^80 A1+D2+F#4@33>15^104
+  Basson                   : A1@1>31^104 D2@33>15^104
+  Strings                  : A1@1>31^104 D2@33>15^104
+  Strings#2                : E3+C4+A5@1>31^104 B3@25>7^80 A3+D4+F#5@33>15^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@90 [G | Em] (grid:8)
+  - Thomas Campion (1601)#2: G4@1>4^104 G4@5>2^104
+  Flute                    : G5@1>4^104 G5@5>2^104
+  Clarinet                 : G4@1>4^104 G4@5>2^104
+  Harpsichord              : B1+D2+G4@1>4^104 A1@4>1^80 G1+E2+G4@5>2^104
+  Basson                   : G2@1>4^104 E2@5>2^104
+  Strings                  : G2@1>4^104 E2@5>2^104
+  Strings#2                : D3+B3+G5@1>4^104 A3@4>1^80 G3+E4+G5@5>2^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@91 [D | G] (grid:8)
+  - Thomas Campion (1601)#2: A4@1>4^104 B4@5>1^104 C5@6>1^104
+  Flute                    : A5@1>4^104 B5@5>1^104 C6@6>1^104
+  Clarinet                 : A4@1>4^104 B4@5>1^104 C5@6>1^104
+  Harpsichord              : D2+F#2+A4@1>4^104 B1+D2+G2+B4@5>2^104 C5@6>1^104
+  Basson                   : D2@1>4^104 G1@5>2^104
+  Strings                  : D2@1>4^104 G1@5>2^104
+  Strings#2                : F#3+D4+A5@1>4^104 D3+B3+G4+B5@5>2^104 C6@6>1^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@92 [G]
+  - Thomas Campion (1601)#2: D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Flute                    : D6@1>23^104 C6@25>7^104 B5@33>15^104
+  Clarinet                 : D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>63^104 C2+C5@25>7^104 D2+B4@33>47^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D3+B3+G4+D6@1>63^104 C3+C6@25>7^104 D3+B5@33>47^104
+  cowles@hydra.convex.com  : F#3+E4@1>15^104 C2+B5@2>15^104
+@93 [D]
+  - Thomas Campion (1601)#2: A4@1>31^104 A4@33>15^104
+  Flute                    : A5@1>31^104 A5@33>15^104
+  Clarinet                 : A4@1>31^104 A4@33>15^104
+  Harpsichord              : A4@1>31^104 F#2@17>7^80 E2@25>7^80 F#2+A4@33>15^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : A5@1>31^104 F#4@17>7^80 E4@25>7^80 F#4+A5@33>15^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@94 [G] (grid:4)
+  - Thomas Campion (1601)#2: G4@1>3^104
+  Flute                    : G5@1>3^104
+  Clarinet                 : G4@1>3^104
+  Harpsichord              : B1+D2+G2+G4@1>3^104
+  Basson                   : G2@1>3^104
+  Strings                  : G1+D2+G3@1>3^104
+  Strings#2                : D3+B3+G4+G5@1>3^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@95 [G]
+  - Thomas Campion (1601)#2: D5@33>15^104
+  Flute                    : D6@33>15^104
+  Clarinet                 : D5@33>15^104
+  Harpsichord              : B1+D2+G2+D5@33>15^104
+  Basson                   : G1@33>15^104
+  Strings                  : G1@33>15^104
+  Strings#2                : D3+B3+G4+D6@33>15^104
+  cowles@hydra.convex.com  : F#3+E4@1>15^104 C2+B5@2>15^104 E4@33>15^80
+@96 [G]
+  - Thomas Campion (1601)#2: D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Flute                    : D6@1>23^104 C6@25>7^104 B5@33>15^104
+  Clarinet                 : D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>31^104 C5@25>7^104 B1+D2+G2+B4@33>15^104
+  Basson                   : G1@1>31^104 G1@33>15^104
+  Strings                  : G1@1>31^104 G1@33>15^104
+  Strings#2                : D3+B3+G4+D6@1>31^104 C6@25>7^104 D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@97 [D | G] (grid:8)
+  - Thomas Campion (1601)#2: A4@1>4^104 B4@5>2^104
+  Flute                    : A5@1>4^104 B5@5>2^104
+  Clarinet                 : A4@1>4^104 B4@5>2^104
+  Harpsichord              : D2+F#2+A4@1>4^104 C2@4>1^80 B1+D2+G2+B4@5>2^104
+  Basson                   : D2@1>4^104 G1@5>2^104
+  Strings                  : D2@1>4^104 G1@5>2^104
+  Strings#2                : D3+F#4+A5@1>4^104 C3@4>1^80 D3+B3+G4+B5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@98 [C]
+  - Thomas Campion (1601)#2: C5@1>47^104
+  Flute                    : C6@1>47^104
+  Clarinet                 : C5@1>47^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2+G3@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104
+  cowles@hydra.convex.com  : C2+F#3+E4+B5@1>15^104
+@99 [C]
+  - Thomas Campion (1601)#2: C5@33>15^104
+  Flute                    : C6@33>15^104
+  Clarinet                 : C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@33>15^104
+  Basson                   : C2@33>15^104
+  Strings                  : C2@33>15^104
+  Strings#2                : E3+C4+G4+C6@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@33>15^80
+@100 [C]
+  - Thomas Campion (1601)#2: C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Flute                    : C6@1>23^104 D6@25>7^104 C6@33>15^104
+  Clarinet                 : C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104 D2+D5@25>7^104 E2+C5@33>15^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104 D3+D6@25>7^104 E3+C6@33>15^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104 E4@2>15^104
+@101 [G] (grid:4)
+  - Thomas Campion (1601)#2: B4@1>2^104 B4@3>1^104
+  Flute                    : B5@1>2^104 B5@3>1^104
+  Clarinet                 : B4@1>2^104 B4@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 B1+D2+G2+B4@3>1^104
+  Basson                   : G1@1>2^104 G1@3>1^104
+  Strings                  : G1@1>2^104 G1@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 D3+B3+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@102 [D]
+  - Thomas Campion (1601)#2: A4@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : A1+D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : D3+A3+F#4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@103 [G]
+  - Thomas Campion (1601)#2: B4@33>15^104
+  Flute                    : B5@33>15^104
+  Clarinet                 : B4@33>15^104
+  Harpsichord              : B1+D2+G2+B4@33>15^104
+  Basson                   : G1@33>15^104
+  Strings                  : G1@33>15^104
+  Strings#2                : D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80
+@104 [D | G]
+  - Thomas Campion (1601)#2: A4@1>31^104 G4@33>15^104
+  Flute                    : A5@1>31^104 G5@33>15^104
+  Clarinet                 : A4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+F#2+A4@1>31^104 D2+G4@33>15^104
+  Basson                   : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings                  : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings#2                : D3+F#4+A5@1>31^104 D4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@105 [Am | D]
+  - Thomas Campion (1601)#2: A4@1>31^104 F#4@33>15^104
+  Flute                    : A5@1>31^104 F#5@33>15^104
+  Clarinet                 : A4@1>31^104 F#4@33>15^104
+  Harpsichord              : C2+E2+A4@1>31^104 B1@25>7^80 A1+D2+F#4@33>15^104
+  Basson                   : A1@1>31^104 D2@33>15^104
+  Strings                  : A1@1>31^104 D2@33>15^104
+  Strings#2                : E3+C4+A5@1>31^104 B3@25>7^80 A3+D4+F#5@33>15^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@106 [G | Em] (grid:8)
+  - Thomas Campion (1601)#2: G4@1>4^104 G4@5>2^104
+  Flute                    : G5@1>4^104 G5@5>2^104
+  Clarinet                 : G4@1>4^104 G4@5>2^104
+  Harpsichord              : B1+D2+G4@1>4^104 A1@4>1^80 G1+E2+G4@5>2^104
+  Basson                   : G2@1>4^104 E2@5>2^104
+  Strings                  : G2@1>4^104 E2@5>2^104
+  Strings#2                : D3+B3+G5@1>4^104 A3@4>1^80 G3+E4+G5@5>2^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@107 [D | G] (grid:8)
+  - Thomas Campion (1601)#2: A4@1>4^104 B4@5>1^104 C5@6>1^104
+  Flute                    : A5@1>4^104 B5@5>1^104 C6@6>1^104
+  Clarinet                 : A4@1>4^104 B4@5>1^104 C5@6>1^104
+  Harpsichord              : D2+F#2+A4@1>4^104 B1+D2+G2+B4@5>2^104 C5@6>1^104
+  Basson                   : D2@1>4^104 G1@5>2^104
+  Strings                  : D2@1>4^104 G1@5>2^104
+  Strings#2                : F#3+D4+A5@1>4^104 D3+B3+G4+B5@5>2^104 C6@6>1^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@108 [G]
+  - Thomas Campion (1601)#2: D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Flute                    : D6@1>23^104 C6@25>7^104 B5@33>15^104
+  Clarinet                 : D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>63^104 C2+C5@25>7^104 D2+B4@33>47^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D3+B3+G4+D6@1>63^104 C3+C6@25>7^104 D3+B5@33>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@109 [D] (grid:8)
+  - Thomas Campion (1601)#2: A4@1>4^104 A4@5>2^104
+  Flute                    : A5@1>4^104 A5@5>2^104
+  Clarinet                 : A4@1>4^104 A4@5>2^104
+  Harpsichord              : A4@1>4^104 F#2@3>1^80 E2@4>1^80 F#2+A4@5>2^104
+  Basson                   : D2@1>6^104
+  Strings                  : D2@1>6^104
+  Strings#2                : A5@1>4^104 F#4@3>1^80 E4@4>1^80 F#4+A5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@110 [G]
+  - Thomas Campion (1601)#2: G4@1>47^104
+  Flute                    : G5@1>47^104
+  Clarinet                 : G4@1>47^104
+  Harpsichord              : B1+D2+G2+G4@1>47^104
+  Basson                   : G1@1>47^104
+  Strings                  : G1+D2+G3@1>47^104
+  Strings#2                : D3+B3+G4+G5@1>47^104
+  cowles@hydra.convex.com  : F#3+E4@1>15^104 C2+B5@2>15^104
+@111 [G]
+  - Thomas Campion (1601)#3: D4+D5@33>15^104
+  Flute                    : D5@33>15^104
+  Clarinet                 : D4@33>15^104
+  Harpsichord              : B1+D2+G2+D4@33>15^104
+  Basson                   : G2@33>15^104
+  Strings                  : G2@33>15^104
+  Strings#2                : D3+B3+G4+D5@33>15^104
+  cowles@hydra.convex.com  : C2+F#3+E4+B5@2>15^104 E4@32>15^80
+@112 [G | D]
+  - Thomas Campion (1601)#3: G4+G5@1>31^104 A4+A5@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : B1+D2+G4@1>31^104 D2+F#2+A4@33>15^104
+  Basson                   : G2@1>31^104 D2@33>15^104
+  Strings                  : G2@1>31^104 D2@33>15^104
+  Strings#2                : D3+B3+G5@1>31^104 D3+F#4+A5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@113 [G | C] (grid:4)
+  - Thomas Campion (1601)#3: B4+B5@1>2^104 C5+C6@3>1^104
+  Flute                    : B5@1>2^104 C6@3>1^104
+  Clarinet                 : B4@1>2^104 C5@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 C2+E2+G2+C5@3>1^104
+  Basson                   : G2@1>2^104 C2@3>1^104
+  Strings                  : G2@1>2^104 C2@3>1^104
+  Strings#2                : D3+G4+B5@1>2^104 E3+C4+G4+C6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@114 [G]
+  - Thomas Campion (1601)#3: B4+B5@1>47^104
+  Flute                    : B5@1>47^104
+  Clarinet                 : B4@1>47^104
+  Harpsichord              : D2+G2+B4@1>47^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+G4+B5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@115 [D] (grid:4)
+  - Thomas Campion (1601)#3: A4+A5@1>2^104 F#4+F#5@3>1^104
+  Flute                    : A5@1>2^104 F#5@3>1^104
+  Clarinet                 : A4@1>2^104 F#4@3>1^104
+  Harpsichord              : D2+F#2+A4@1>3^104 A2+F#4@3>1^104
+  Basson                   : D2@1>3^104
+  Strings                  : D2@1>3^104
+  Strings#2                : F#3+D4+A5@1>3^104 A4+F#5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@116 [G | Em]
+  - Thomas Campion (1601)#3: G4+G5@1>31^104 G4+G5@33>15^104
+  Flute                    : G5@1>31^104 G5@33>15^104
+  Clarinet                 : G4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+B2+G4@1>47^104 E2+G4@33>15^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+B4+G5@1>47^104 E4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@117 [F | G] (grid:4)
+  - Thomas Campion (1601)#3: C5+C6@1>2^104 B4+B5@3>1^104
+  Flute                    : C6@1>2^104 B5@3>1^104
+  Clarinet                 : C5@1>2^104 B4@3>1^104
+  Harpsichord              : F2+A2+C5@1>2^104 D2+G2+B4@3>1^104
+  Basson                   : F2@1>2^104 G2@3>1^104
+  Strings                  : F2@1>2^104 G2@3>1^104
+  Strings#2                : A3+F4+C6@1>2^104 D4+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@118 [D]
+  - Thomas Campion (1601)#3: A4+A5@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : F#3+D4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@119 [G]
+  - Thomas Campion (1601)#3: D4+D5@33>15^104
+  Flute                    : D5@33>15^104
+  Clarinet                 : D4@33>15^104
+  Harpsichord              : B1+D2+G2+D4@33>15^104
+  Basson                   : G2@33>15^104
+  Strings                  : G2@33>15^104
+  Strings#2                : D3+B3+G4+D5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80
+@120 [G | D]
+  - Thomas Campion (1601)#3: G4+G5@1>31^104 A4+A5@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : B1+D2+G4@1>31^104 D2+F#2+A4@33>15^104
+  Basson                   : G2@1>31^104 D2@33>15^104
+  Strings                  : G2@1>31^104 D2@33>15^104
+  Strings#2                : D3+B3+G5@1>31^104 F#3+D4+A5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@121 [G | C] (grid:4)
+  - Thomas Campion (1601)#3: B4+B5@1>2^104 C5+C6@3>1^104
+  Flute                    : B5@1>2^104 C6@3>1^104
+  Clarinet                 : B4@1>2^104 C5@3>1^104
+  Harpsichord              : D2+G2+B4@1>2^104 C2+E2+G2+C5@3>1^104
+  Basson                   : G2@1>2^104 C2@3>1^104
+  Strings                  : G2@1>2^104 C2@3>1^104
+  Strings#2                : D4+G4+B5@1>2^104 E3+C4+G4+C6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@122 [G]
+  - Thomas Campion (1601)#3: B4+B5@1>47^104
+  Flute                    : B5@1>47^104
+  Clarinet                 : B4@1>47^104
+  Harpsichord              : D2+G2+B4@1>47^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+G4+B5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@123 [D] (grid:4)
+  - Thomas Campion (1601)#3: A4+A5@1>2^104 F#4+F#5@3>1^104
+  Flute                    : A5@1>2^104 F#5@3>1^104
+  Clarinet                 : A4@1>2^104 F#4@3>1^104
+  Harpsichord              : D2+F#2+A4@1>3^104 A2+F#4@3>1^104
+  Basson                   : D2@1>3^104
+  Strings                  : D2@1>3^104
+  Strings#2                : F#3+D4+A5@1>3^104 A4+F#5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@124 [G | Em]
+  - Thomas Campion (1601)#3: G4+G5@1>31^104 G4+G5@33>15^104
+  Flute                    : G5@1>31^104 G5@33>15^104
+  Clarinet                 : G4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+B2+G4@1>47^104 E2+G4@33>15^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D4+B4+G5@1>47^104 E4+G5@33>15^104
+  cowles@hydra.convex.com  : C2+E4+B5@1>15^104 F#3@2>15^104
+@125 [F | G] (grid:4)
+  - Thomas Campion (1601)#3: C5+C6@1>2^104 B4+B5@3>1^104
+  Flute                    : C6@1>2^104 B5@3>1^104
+  Clarinet                 : C5@1>2^104 B4@3>1^104
+  Harpsichord              : F2+A2+C5@1>2^104 D2+G2+B4@3>1^104
+  Basson                   : F2@1>2^104 G2@3>1^104
+  Strings                  : F2@1>2^104 G2@3>1^104
+  Strings#2                : A3+F4+C6@1>2^104 D4+G4+B5@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@126 [D]
+  - Thomas Campion (1601)#3: A4+A5@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : F#3+D4+A5@1>47^104
+  cowles@hydra.convex.com  : F#3+E4@2>15^104 C2+B5@3>15^104
+@127 [Am | D]
+  - Thomas Campion (1601)#3: E4+E5@1>31^104 F#4+F#5@33>15^104
+  Flute                    : E5@1>31^104 F#5@33>15^104
+  Clarinet                 : E4@1>31^104 F#4@33>15^104
+  Harpsichord              : C2+E2+A2+E4@1>31^104 D2+A2+F#4@33>15^104
+  Basson                   : A2@1>23^104 G2@25>7^104 F#2@33>15^104
+  Strings                  : A2@1>23^104 G2@25>7^104 F#2@33>15^104
+  Strings#2                : E3+C4+A4+E5@1>31^104 D4+A4+F#5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@128 [Em | A]
+  - Thomas Campion (1601)#3: G4+G5@1>31^104 A4+A5@33>15^104
+  Flute                    : G5@1>31^104 A5@33>15^104
+  Clarinet                 : G4@1>31^104 A4@33>15^104
+  Harpsichord              : E2+B2+G4@1>31^104 E2+C#3+A4@33>15^104
+  Basson                   : E2@1>31^104 A1@33>15^104
+  Strings                  : E2@1>31^104 A1@33>15^104
+  Strings#2                : E4+B4+G5@1>31^104 E4+C#5+A5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80
+@129 [D]
+  - Thomas Campion (1601)#3: F#4+F#5@1>47^104
+  Flute                    : F#5@1>47^104
+  Clarinet                 : F#4@1>47^104
+  Harpsichord              : D2+D3+F#4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D1+D2+A2@1>47^104
+  Strings#2                : D3+D4+F#5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@130 [D]
+  - Thomas Campion (1601)#3: D4+D5@1>31^104 D5+D6@33>15^104
+  Flute                    : D5@1>31^104 D6@33>15^104
+  Clarinet                 : D4@1>31^104 D5@33>15^104
+  Harpsichord              : D2+D3+D4@1>31^104 F#2+A2+D5@33>15^104
+  Basson                   : D2@1>31^104 D2@33>15^104
+  Strings                  : D1+D2+A3@1>31^104 D2@33>15^104
+  Strings#2                : D4+D5@1>31^104 A3+F#4+D6@33>15^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@131 [G | C] (grid:4)
+  - Thomas Campion (1601)#3: D5+D6@1>2^104 E5+E6@3>1^104
+  Flute                    : D6@1>2^104 E6@3>1^104
+  Clarinet                 : D5@1>2^104 E5@3>1^104
+  Harpsichord              : B1+D2+G2+D5@1>2^104 C2+G2+E5@3>1^104
+  Basson                   : G1@1>2^104 C2@3>1^104
+  Strings                  : G1@1>2^104 C2@3>1^104
+  Strings#2                : D3+B3+G4+D6@1>2^104 C4+G4+E6@3>1^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@132 [Am | D] (grid:4)
+  - Thomas Campion (1601)#3: C5+C6@1>2^104 D5+D6@3>1^104
+  Flute                    : C6@1>2^104 D6@3>1^104
+  Clarinet                 : C5@1>2^104 D5@3>1^104
+  Harpsichord              : C2+E2+A2+C5@1>2^104 F#2+A2+D5@3>1^104
+  Basson                   : A1@1>2^104 D2@3>1^104
+  Strings                  : A1@1>2^104 D2@3>1^104
+  Strings#2                : E3+C4+A4+C6@1>2^104 F#3+A4+D6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@133 [G]
+  - Thomas Campion (1601)#3: B4+B5@1>47^104
+  Flute                    : B5@1>47^104
+  Clarinet                 : B4@1>47^104
+  Harpsichord              : B1+D2+G2+B4@1>47^104
+  Basson                   : G1@1>47^104
+  Strings                  : G1@1>47^104
+  Strings#2                : D3+B3+G4+B5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@134 [G] (grid:4)
+  - Thomas Campion (1601)#3: D5+D6@3>1^104
+  Flute                    : D6@3>1^104
+  Clarinet                 : D5@3>1^104
+  Harpsichord              : B1+D2+G2+D5@3>1^104
+  Basson                   : G1@3>1^104
+  Strings                  : G1@3>1^104
+  Strings#2                : D3+B3+G4+D6@3>1^104
+  cowles@hydra.convex.com  : E4@3>1^80
+@135 [G]
+  - Thomas Campion (1601)#3: D5+D6@1>23^104 C5+C6@25>7^104 B4+B5@33>15^104
+  Flute                    : D6@1>23^104 C6@25>7^104 B5@33>15^104
+  Clarinet                 : D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>31^104 C5@25>7^104 B1+D2+G2+B4@33>15^104
+  Basson                   : G1@1>31^104 G1@33>15^104
+  Strings                  : G1@1>31^104 G1@33>15^104
+  Strings#2                : D3+B3+G4+D6@1>31^104 C6@25>7^104 D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : C2+F#3+E4+B5@1>15^104 F#3+B5@25>7^80 F#3@33>15^80 B5@34>15^80
+@136 [D | G]
+  - Thomas Campion (1601)#3: A4+A5@1>31^104 B4+B5@33>15^104
+  Flute                    : A5@1>31^104 B5@33>15^104
+  Clarinet                 : A4@1>31^104 B4@33>15^104
+  Harpsichord              : D2+F#2+A4@1>31^104 C2@25>7^80 B1+D2+G2+B4@33>15^104
+  Basson                   : D2@1>31^104 G1@33>15^104
+  Strings                  : D2@1>31^104 G1@33>15^104
+  Strings#2                : D3+F#4+A5@1>31^104 C4@25>7^80 D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80
+@137 [C]
+  - Thomas Campion (1601)#3: C5+C6@1>47^104
+  Flute                    : C6@1>47^104
+  Clarinet                 : C5@1>47^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2+G3@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@138 [C]
+  - Thomas Campion (1601)#2: C5+C6@33>15^104
+  Flute                    : C6@33>15^104
+  Clarinet                 : C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@33>15^104
+  Basson                   : C2@33>15^104
+  Strings                  : C2@33>15^104
+  Strings#2                : E3+C4+G4+C6@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80
+@139 [C]
+  - Thomas Campion (1601)#2: C5+C6@1>23^104 D5+D6@25>7^104 C5+C6@33>15^104
+  Flute                    : C6@1>23^104 D6@25>7^104 C6@33>15^104
+  Clarinet                 : C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104 D2+D5@25>7^104 E2+C5@33>15^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104 D4+D6@25>7^104 E3+C6@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 F#3@25>7^80 B5@26>7^80 F#3@33>15^80 B5@34>15^80
+@140 [G]
+  - Thomas Campion (1601)#2: B4+B5@1>31^104 B4+B5@33>15^104
+  Flute                    : B5@1>31^104 B5@33>15^104
+  Clarinet                 : B4@1>31^104 B4@33>15^104
+  Harpsichord              : D2+G2+B4@1>31^104 B1+D2+G2+B4@33>15^104
+  Basson                   : G1@1>31^104 G1@33>15^104
+  Strings                  : G1@1>31^104 G1@33>15^104
+  Strings#2                : D4+G4+B5@1>31^104 D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@2>15^104 C2+F#3+B5@3>15^104 E4@32>15^80
+@141 [D]
+  - Thomas Campion (1601)#2: A4+A5@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : A1+D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : D3+A3+F#4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@142 [G]
+  - Thomas Campion (1601)#2: B4+B5@33>15^104
+  Flute                    : B5@33>15^104
+  Clarinet                 : B4@33>15^104
+  Harpsichord              : B1+D2+G2+B4@33>15^104
+  Basson                   : G1@33>15^104
+  Strings                  : G1@33>15^104
+  Strings#2                : D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80 E4@48>15^104
+@143 [D | G] (grid:8)
+  - Thomas Campion (1601)#2: A4+A5@1>4^104 G4+G5@5>2^104
+  Flute                    : A5@1>4^104 G5@5>2^104
+  Clarinet                 : A4@1>4^104 G4@5>2^104
+  Harpsichord              : D2+F#2+A4@1>4^104 D2+G4@5>2^104
+  Basson                   : D2@1>3^104 C2@4>1^104 B1@5>2^104
+  Strings                  : D2@1>3^104 C2@4>1^104 B1@5>2^104
+  Strings#2                : D3+F#4+A5@1>4^104 D4+G5@5>2^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104
+@144 [Am | D] (grid:8)
+  - Thomas Campion (1601)#2: A4+A5@1>4^104 F#4+F#5@5>2^104
+  Flute                    : A5@1>4^104 F#5@5>2^104
+  Clarinet                 : A4@1>4^104 F#4@5>2^104
+  Harpsichord              : C2+E2+A4@1>4^104 B1@4>1^80 A1+D2+F#4@5>2^104
+  Basson                   : A1@1>4^104 D2@5>2^104
+  Strings                  : A1@1>4^104 D2@5>2^104
+  Strings#2                : E3+C4+A5@1>4^104 B3@4>1^80 A3+D4+F#5@5>2^104
+  cowles@hydra.convex.com  : E4@5>2^80
+@145 [G | Em]
+  - Thomas Campion (1601)#2: G4+G5@1>31^104 G4+G5@33>15^104
+  Flute                    : G5@1>31^104 G5@33>15^104
+  Clarinet                 : G4@1>31^104 G4@33>15^104
+  Harpsichord              : B1+D2+G4@1>31^104 A1@25>7^80 G1+E2+G4@33>15^104
+  Basson                   : G2@1>31^104 E2@33>15^104
+  Strings                  : G2@1>31^104 E2@33>15^104
+  Strings#2                : D3+B3+G5@1>31^104 A3@25>7^80 G3+E4+G5@33>15^104
+  cowles@hydra.convex.com  : F#3+E4@1>15^104 C2+B5@2>15^104
+@146 [D | G]
+  - Thomas Campion (1601)#2: A4+A5@1>31^104 B4+B5@33>7^104 C5+C6@41>7^104
+  Flute                    : A5@1>31^104 B5@33>7^104 C6@41>7^104
+  Clarinet                 : A4@1>31^104 B4@33>7^104 C5@41>7^104
+  Harpsichord              : D2+F#2+A4@1>31^104 B1+D2+G2+B4@33>15^104 C5@41>7^104
+  Basson                   : D2@1>31^104 G1@33>15^104
+  Strings                  : D2@1>31^104 G1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 D3+B3+G4+B5@33>15^104 C6@41>7^104
+  cowles@hydra.convex.com  : E4@32>15^80 E4@48>15^104
+@147 [G]
+  - Thomas Campion (1601)#2: D5+D6@1>23^104 C5+C6@25>7^104 B4+B5@33>15^104
+  Flute                    : D6@1>23^104 C6@25>7^104 B5@33>15^104
+  Clarinet                 : D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>63^104 C2+C5@25>7^104 D2+B4@33>47^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D3+B3+G4+D6@1>63^104 C4+C6@25>7^104 D3+B5@33>47^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104 F#3+B5@26>7^80 F#3@34>15^80 B5@35>15^80
+@148 [D]
+  - Thomas Campion (1601)#2: A4+A5@1>31^104 A4+A5@33>15^104
+  Flute                    : A5@1>31^104 A5@33>15^104
+  Clarinet                 : A4@1>31^104 A4@33>15^104
+  Harpsichord              : A4@1>31^104 F#2@17>7^80 E2@25>7^80 F#2+A4@33>15^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : A5@1>31^104 F#4@17>7^80 E4@25>7^80 F#4+A5@33>15^104
+  cowles@hydra.convex.com  : F#3@1>15^104 C2+E4+B5@2>15^104 E4@33>15^80
+@149 [G]
+  - Thomas Campion (1601)#2: G4+G5@1>47^104
+  Flute                    : G5@1>47^104
+  Clarinet                 : G4@1>47^104
+  Harpsichord              : B1+D2+G2+G4@1>47^104
+  Basson                   : G1@1>47^104
+  Strings                  : G1+D2+G3@1>47^104
+  Strings#2                : D3+B3+G4+G5@1>47^104
+  cowles@hydra.convex.com  : C2+F#3+E4+B5@2>15^104
+@150 [G]
+  - Thomas Campion (1601)#2: D4+D6@33>15^104
+  Flute                    : D6@33>15^104
+  Clarinet                 : D5@33>15^104
+  Harpsichord              : B1+D2+G2+D5@33>15^104
+  Basson                   : G1@33>15^104
+  Strings                  : G1@33>15^104
+  Strings#2                : D3+B3+G4+D6@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80 E4@48>15^104
+@151 [G]
+  - Thomas Campion (1601)#2: D4+D6@1>23^104 C4+C6@25>7^104 B3+B5@33>15^104
+  Flute                    : D6@1>23^104 C6@25>7^104 B5@33>15^104
+  Clarinet                 : D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>31^104 C5@25>7^104 B1+D2+G2+B4@33>15^104
+  Basson                   : G1@1>31^104 G1@33>15^104
+  Strings                  : G1@1>31^104 G1@33>15^104
+  Strings#2                : D3+B3+G4+D6@1>31^104 C6@25>7^104 D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104 F#3+B5@26>7^80 F#3+B5@34>15^80
+@152 [D | G]
+  - Thomas Campion (1601)#2: A3+A5@1>31^104 B3+B5@33>15^104
+  Flute                    : A5@1>31^104 B5@33>15^104
+  Clarinet                 : A4@1>31^104 B4@33>15^104
+  Harpsichord              : D2+F#2+A4@1>31^104 C2@25>7^80 B1+D2+G2+B4@33>15^104
+  Basson                   : D2@1>31^104 G1@33>15^104
+  Strings                  : D2@1>31^104 G1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 C4@25>7^80 D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@2>15^104 C2+F#3+B5@3>15^104 E4@34>15^80
+@153 [C]
+  - Thomas Campion (1601)#2: C4+C6@1>47^104
+  Flute                    : C6@1>47^104
+  Clarinet                 : C5@1>47^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2+G3@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104
+  cowles@hydra.convex.com  : C2+F#3+B5@1>15^104 E4@2>15^104
+@154 [C]
+  - Thomas Campion (1601)#2: C4+C6@33>15^104
+  Flute                    : C6@33>15^104
+  Clarinet                 : C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@33>15^104
+  Basson                   : C2@33>15^104
+  Strings                  : C2@33>15^104
+  Strings#2                : E3+C4+G4+C6@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@33>15^80
+@155 [C]
+  - Thomas Campion (1601)#2: C4+C6@1>23^104 D4+D6@25>7^104 C4+C6@33>15^104
+  Flute                    : C6@1>23^104 D6@25>7^104 C6@33>15^104
+  Clarinet                 : C5@1>23^104 D5@25>7^104 C5@33>15^104
+  Harpsichord              : C2+E2+G2+C5@1>47^104 D2+D5@25>7^104 E2+C5@33>15^104
+  Basson                   : C2@1>47^104
+  Strings                  : C2@1>47^104
+  Strings#2                : E3+C4+G4+C6@1>47^104 D4+D6@25>7^104 E3+C6@33>15^104
+  cowles@hydra.convex.com  : F#3+E4@2>15^104 C2+B5@3>15^104 F#3+B5@26>7^80 F#3+B5@34>15^80
+@156 [G]
+  - Thomas Campion (1601)#2: B3+B5@1>31^104 B3+B5@33>15^104
+  Flute                    : B5@1>31^104 B5@33>15^104
+  Clarinet                 : B4@1>31^104 B4@33>15^104
+  Harpsichord              : D2+G2+B4@1>31^104 B1+D2+G2+B4@33>15^104
+  Basson                   : G1@1>31^104 G1@33>15^104
+  Strings                  : G1@1>31^104 G1@33>15^104
+  Strings#2                : D4+G4+B5@1>31^104 D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@2>15^104 C2+F#3+B5@3>15^104 E4@33>15^80
+@157 [D]
+  - Thomas Campion (1601)#2: A3+A5@1>47^104
+  Flute                    : A5@1>47^104
+  Clarinet                 : A4@1>47^104
+  Harpsichord              : A1+D2+F#2+A4@1>47^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : D3+A3+F#4+A5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@158 [G]
+  - Thomas Campion (1601)#2: B3+B5@33>15^104
+  Flute                    : B5@33>15^104
+  Clarinet                 : B4@33>15^104
+  Harpsichord              : B1+D2+G2+B4@33>15^104
+  Basson                   : G1@33>15^104
+  Strings                  : G1@33>15^104
+  Strings#2                : D3+B3+G4+B5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@32>15^80
+@159 [D | G]
+  - Thomas Campion (1601)#2: A3+A5@1>31^104 G3+G5@33>15^104
+  Flute                    : A5@1>31^104 G5@33>15^104
+  Clarinet                 : A4@1>31^104 G4@33>15^104
+  Harpsichord              : D2+F#2+A4@1>31^104 D2+G4@33>15^104
+  Basson                   : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings                  : D2@1>23^104 C2@25>7^104 B1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 D4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@160 [Am | D]
+  - Thomas Campion (1601)#2: A3+A5@1>31^104 F#3+F#5@33>15^104
+  Flute                    : A5@1>31^104 F#5@33>15^104
+  Clarinet                 : A4@1>31^104 F#4@33>15^104
+  Harpsichord              : C2+E2+A4@1>31^104 B1@25>7^80 A1+D2+F#4@33>15^104
+  Basson                   : A1@1>31^104 D2@33>15^104
+  Strings                  : A1@1>31^104 D2@33>15^104
+  Strings#2                : E3+C4+A5@1>31^104 B3@25>7^80 A3+D4+F#5@33>15^104
+  cowles@hydra.convex.com  : F#3+E4@1>15^104 C2+B5@2>15^104 E4@32>15^80
+@161 [G | Em]
+  - Thomas Campion (1601)#2: G3+G5@1>31^104 G3+G5@33>15^104
+  Flute                    : G5@1>31^104 G5@33>15^104
+  Clarinet                 : G4@1>31^104 G4@33>15^104
+  Harpsichord              : B1+D2+G4@1>31^104 A1@25>7^80 G1+E2+G4@33>15^104
+  Basson                   : G2@1>31^104 E2@33>15^104
+  Strings                  : G2@1>31^104 E2@33>15^104
+  Strings#2                : D3+B3+G5@1>31^104 A3@25>7^80 G3+E4+G5@33>15^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104
+@162 [D | G]
+  - Thomas Campion (1601)#2: A3+A5@1>31^104 B3+B5@33>7^104 C4+C6@41>7^104
+  Flute                    : A5@1>31^104 B5@33>7^104 C6@41>7^104
+  Clarinet                 : A4@1>31^104 B4@33>7^104 C5@41>7^104
+  Harpsichord              : D2+F#2+A4@1>31^104 B1+D2+G2+B4@33>15^104 C5@41>7^104
+  Basson                   : D2@1>31^104 G1@33>15^104
+  Strings                  : D2@1>31^104 G1@33>15^104
+  Strings#2                : F#3+D4+A5@1>31^104 D3+B3+G4+B5@33>15^104 C6@41>7^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 F#3+B5@26>7^80 E4@33>15^80 F#3+B5@34>15^80
+@163 [G]
+  - Thomas Campion (1601)#2: D4+D6@1>23^104 C4+C6@25>7^104 B3+B5@33>15^104
+  Flute                    : D6@1>23^104 C6@25>7^104 B5@33>15^104
+  Clarinet                 : D5@1>23^104 C5@25>7^104 B4@33>15^104
+  Harpsichord              : B1+D2+G2+D5@1>63^104 C2+C5@25>7^104 D2+B4@33>47^104
+  Basson                   : G2@1>47^104
+  Strings                  : G2@1>47^104
+  Strings#2                : D3+B3+G4+D6@1>63^104 C4+C6@25>7^104 D3+B5@33>47^104
+  cowles@hydra.convex.com  : C2+F#3+E4+B5@1>15^104
+@164 [D]
+  - Thomas Campion (1601)#2: A3+A5@1>31^104 A3+A5@33>15^104
+  Flute                    : A5@1>31^104 A5@33>15^104
+  Clarinet                 : A4@1>31^104 A4@33>15^104
+  Harpsichord              : A4@1>31^104 F#2@17>7^80 E2@25>7^80 F#2+A4@33>15^104
+  Basson                   : D2@1>47^104
+  Strings                  : D2@1>47^104
+  Strings#2                : A5@1>31^104 F#4@17>7^80 E4@25>7^80 F#4+A5@33>15^104
+  cowles@hydra.convex.com  : F#3@1>15^104 C2+E4+B5@2>15^104
+@165 [G]
+  - Thomas Campion (1601)#2: G3+G5@1>47^104
+  Flute                    : G5@1>47^104
+  Clarinet                 : G4@1>47^104
+  Harpsichord              : B1+D2+G2+G4@1>47^104
+  Basson                   : G1@1>47^104
+  Strings                  : G1+D2+G3@1>47^104
+  Strings#2                : D3+B3+G4+G5@1>47^104
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104 E4@33>15^104
+@166 [-]
+  cowles@hydra.convex.com  : E4@1>15^104 C2+F#3+B5@2>15^104

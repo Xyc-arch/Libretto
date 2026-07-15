@@ -19,7 +19,7 @@ import copy_risk as cr
 SCRIPT = Path(__file__).resolve().parent
 GRAMMAR = SCRIPT / "grammar"
 OUT = SCRIPT / "compositions" / "newgen"
-CANON = json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+CANON = json.loads((SCRIPT/"corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 GC = CANON["genre_conditioned"]
 # Length-artifact axes: dominated by how SHORT a region is, not by degeneracy. A short (8-24 bar) region

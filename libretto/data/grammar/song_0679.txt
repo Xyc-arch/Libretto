@@ -1,0 +1,733 @@
+KEY: A minor | METER: 1/4 | TEMPO: 70 | GRID: 12t (adaptive) | BARS: 167
+VOICES: Melody[prog=22], Drum[drums], Bass[prog=32], Keyboard[prog=0], Guitar[prog=26], Strings 1[prog=41], Strings 2[prog=49], Strings 3[prog=49], Strings 4[prog=44], Strings 5[prog=48], Strings 6[prog=48], Sax[prog=65], Brass[prog=63], Harp[prog=46], Vibraphone[prog=11]
+@1 [-]
+@2 [-] (grid:4)
+@3 [Am] (grid:64)
+  Drum      : E2@1>1^32 D2@2>18^56
+  Bass      : A1@3>27^80
+  Keyboard  : A3@1>30^56 C4@2>30^80 E4@4>28^80
+  Strings 2 : A3+C4+E4@5>119^80
+@4 [B7 | Am] (grid:16)
+  Drum      : F#2@1>6^56 D2@4>1^32
+  Sax       : B5@1>1^104 A5@2>1^80 E5@3>1^56 C5@4>1^80
+@5 [E] (grid:24t)
+  Drum      : E2@1>6^32 D2@2>6^56
+  Bass      : E2@2>5^56
+  Sax       : B5@1>8^104
+@6 [F]
+  Drum      : G#2@2>1^56
+  Bass      : A2@2>2^80
+  Keyboard  : C4+F4@2>2^80
+  Strings 2 : F4@2>3^104
+  Sax       : A5@3>1^80
+@7 [B | D#dim] (grid:64)
+  Drum      : D2+E2@5>26^56
+  Bass      : E2@5>26^56
+  Keyboard  : C4+F#4@5>11^80
+  Strings 2 : D#4+F#4@5>31^80
+  Sax       : B5@5>4^104 A5@9>5^80 E5@13>5^80
+@8 [B]
+  Drum      : G#2@2>1^56
+  Sax       : C5@1>3^80 B5@2>4^104
+@9 [C | A7] (grid:64)
+  Drum      : D2@1>1^32 E2@5>26^32 D2@6>12^56
+  Bass      : A1@6>13^56
+  Keyboard  : C4+G4@5>2^104
+  Strings 2 : G4@3>21^104 E4@4>23^80
+  Sax       : A5@13>7^80
+@10 [E | Eaug]
+  Drum      : G#2@2>1^56
+  Bass      : E2@2>2^80
+  Sax       : E5@2>2^80 C5@3>1^80
+@11 [Fm7 | G#7] (grid:64)
+  Drum      : D2+E2@5>26^32
+  Bass      : F1@5>45^80
+  Keyboard  : G3+G#3@5>36^56 C4@6>37^56 D#4@7>36^32
+@12 [Cm7] (grid:64)
+  Drum      : G#2@5>6^56 D2@16>2^32
+  Keyboard  : A#4@3>35^32 C5@4>34^56 D#5+G5@5>33^56
+  Strings 2 : F3+D4@4>106^80 C4@5>100^56
+  Sax       : G5@5>4^104 F5@9>5^80 C5@13>4^80
+@13 [D#] (grid:24t)
+  Drum      : E2@2>10^32 D2@3>6^56
+  Strings 2 : D#4@2>11^80
+  Sax       : G4@1>4^80 G5@3>8^104
+@14 [G# | F] (grid:64)
+  Drum      : G#2@5>6^56
+  Bass      : C2@5>13^56
+  Keyboard  : C4+D#4@4>3^80 G#3@5>3^56
+  Sax       : F5@13>5^80
+@15 [Eaug] (grid:64)
+  Drum      : E2@4>28^32 D2@5>15^32
+  Bass      : F2@5>27^80
+  Keyboard  : G#3+C4@4>22^80 E4@5>20^80
+  Strings 2 : E4@2>32^80
+  Sax       : G5@5>4^104 F5@8>5^80 C5@13>4^80
+@16 [G]
+  Drum      : G#2@2>1^56
+  Sax       : G4@1>4^80 G5@2>4^104
+@17 [Fm] (grid:64)
+  Drum      : D2@1>1^56 E2@4>21^32 D2@5>16^56
+  Bass      : F1@5>22^80
+  Keyboard  : G#3@4>18^56 C4@5>18^80 F4@6>17^80
+  Strings 2 : F4@2>28^104
+  Sax       : F5@13>6^104
+@18 [C | G#]
+  Drum      : G#2@2>1^56
+  Sax       : C5@2>2^80 G#4@3>1^104
+@19 [E] (grid:64)
+  Bass      : E2@13>2^80
+  Strings 1 : E5@12>2^80 E3+B3+E4+A4@13>2^104
+  Strings 2 : E3+E4@13>5^104
+  Sax       : E5@6>52^104
+@20 [A | E] (grid:64)
+  Drum      : A5@13>22^32
+  Bass      : E2@5>9^80
+  Keyboard  : B4+E5@13>21^104
+  Strings 1 : E3+B3+E4+A4+E5@5>12^104
+  Strings 2 : E3+E4@5>12^104
+@21 [Am] (grid:64)
+  Bass      : C2@5>2^80 C2@14>8^80
+  Strings 1 : C3+A4+E5@5>2^80 A#3+E4@6>2^80 C3+A#3+E4+A4+E5@13>10^80
+  Strings 2 : E3+E4@5>3^104 E4@12>11^104 E3@13>10^104
+@22 [E] (grid:64)
+  Drum      : A5@5>28^32
+  Bass      : C2@13>2^80
+  Keyboard  : B4+E5@5>26^104
+  Strings 1 : C3@12>2^80 A#3+E4+A4+E5@13>4^80
+  Strings 2 : E3+E4@12>3^104
+@23 [E] (grid:64)
+  Bass      : B1@5>2^80 B1@13>9^80
+  Strings 1 : B2+A4@4>2^80 A3+E4+E5@5>2^80 B2+E4+A4+E5@12>12^80 A3@13>10^80
+  Strings 2 : E3+E4@4>3^104 E3+E4@12>10^104
+@24 [E] (grid:64)
+  Drum      : A5@5>18^32
+  Bass      : B1@13>4^80
+  Keyboard  : B4+E5@5>20^104
+  Strings 1 : B2+E4@12>3^80 A3+A4+E5@13>4^80
+  Strings 2 : E4@12>3^104 E3@13>2^104
+@25 [E] (grid:64)
+  Bass      : E1@5>30^104
+  Strings 1 : A#2+E4+G#4+E5@4>31^80 G#3@5>23^80
+  Strings 2 : E3+E4@5>25^80
+@26 [-]
+@27 [G] (grid:6t)
+  Melody    : G3@2>1^104
+@28 [C#dim]
+  Melody    : G3@1>2^104 E3@3>1^104
+  Drum      : G#2@2>1^32
+  Bass      : A1@2>6^80
+  Strings 2 : E4@1>24^56
+  Strings 3 : G3@1>7^80
+  Strings 5 : C#4@2>7^56
+@29 [E]
+  Melody    : E3@1>16^80
+  Drum      : D2+G#2@2>4^56
+@30 [E | D] (grid:24t)
+  Drum      : G#2@3>3^32
+  Bass      : E2@3>12^80
+  Strings 3 : F#3@5>2^104
+  Strings 5 : D4@4>2^56 D#4@6>2^56
+@31 [E | D#m] (grid:24t)
+  Drum      : D2+G#2@3>10^80
+  Strings 3 : F3@1>2^56 E3@2>2^104 F3@4>2^80 F#3@6>2^80
+  Strings 5 : E4@2>2^80 D#4@4>2^56 D4@6>2^56
+@32 [Gdim | A7] (grid:24t)
+  Drum      : G#2@3>2^32
+  Bass      : A1@3>12^80
+  Strings 3 : G3@2>18^56
+  Strings 5 : C#4@2>18^80
+@33 [-]
+  Drum      : D2+G#2@2>5^80
+@34 [Em]
+  Melody    : G3@2>6^104
+  Drum      : G#2@2>1^32
+  Bass      : E2@2>3^80
+@35 [Em | A7]
+  Drum      : D2+G#2@2>5^80
+  Bass      : A1@2>3^80
+  Strings 3 : G3@2>3^80
+  Strings 5 : E4@2>3^80
+@36 [Dm]
+  Melody    : F3@2>18^104
+  Drum      : G#2@2>1^32
+  Bass      : D1@2>6^80
+  Strings 2 : F4@2>24^56
+  Strings 3 : A3@2>9^56
+  Strings 5 : D4@2>9^56
+@37 [E | Dm] (grid:16)
+  Drum      : D2+G#2@2>6^56
+  Sax       : E5@2>1^104 D5@3>1^104 A4@4>1^104
+@38 [A]
+  Drum      : G#2@2>1^32
+  Bass      : A1@2>6^80
+  Sax       : F4@1>1^80 E5@2>4^104
+@39 [E7]
+  Drum      : D2+G#2@2>5^80
+  Strings 3 : B3@2>3^80
+  Strings 5 : E4@2>3^80
+  Sax       : D5@3>1^104
+@40 [F7 | Dm7] (grid:16)
+  Drum      : G#2@2>2^32
+  Bass      : D1@2>8^56
+  Strings 3 : C4@2>4^80
+  Strings 5 : F4@2>8^56
+  Sax       : E5@2>1^104 D5@3>1^80 A4@4>1^80
+@41 [E]
+  Drum      : D2+G#2@2>5^80
+  Strings 3 : B3@2>3^80
+  Sax       : F4@1>1^80 E5@2>4^104
+@42 [A]
+  Drum      : G#2@2>1^32
+  Bass      : A1@2>6^104
+  Strings 3 : A#3@2>3^80
+  Strings 5 : E4@2>3^80
+  Sax       : D5@3>1^104
+@43 [Bm7] (grid:24t)
+  Drum      : D2+G#2@3>10^80
+  Strings 3 : B3@2>6^80
+  Strings 5 : D4@2>6^80
+  Sax       : A4@2>3^80 D4@5>3^80
+@44 [E]
+  Drum      : G#2@2>1^32
+  Bass      : E1@2>6^80
+  Strings 2 : E4@2>22^56
+  Strings 3 : G#3@2>21^80
+  Strings 5 : B3@2>21^56
+  Sax       : G4@1>1^32 G#4@2>6^80
+@45 [F] (grid:8)
+  Melody    : F3@2>1^104
+  Drum      : D2+G#2@1>3^32
+@46 [E]
+  Melody    : F3@1>1^104 E3@2>1^104 E3@3>11^104
+  Drum      : G#2@2>1^32
+  Bass      : B1@2>5^80
+  Sax       : G#4@3>1^80
+@47 [C | E] (grid:24t)
+  Drum      : D2+G#2@3>10^56
+  Bass      : E2@6>2^80
+  Sax       : A4@1>1^80 C5@2>2^104 B4@5>2^80 A4@6>2^80
+@48 [G#aug | E]
+  Drum      : G#2@2>1^32
+  Bass      : E1@2>6^56
+  Sax       : G#4@2>9^56
+@49 [-]
+  Drum      : D2+G#2@2>5^80
+@50 [E]
+  Melody    : E2@2>4^104
+  Drum      : G#2@2>1^32
+  Bass      : B1@2>6^80
+@51 [E]
+  Melody    : E3@3>2^104
+  Drum      : D2+G#2@2>5^80
+  Strings 5 : E4@2>3^56
+@52 [A] (grid:32)
+  Melody    : C#3@3>33^104
+  Drum      : G#2@3>3^32
+  Bass      : A1@3>16^80
+  Strings 2 : C#4@2>57^56
+  Strings 3 : E3@3>24^56
+  Strings 5 : C#4@2>17^56 C#4@3>17^56
+@53 [B | A] (grid:16)
+  Drum      : D2+G#2@2>6^32
+  Sax       : B4@2>1^104 A4@3>1^80 E4@4>1^80
+@54 [E]
+  Drum      : G#2@2>1^32
+  Bass      : E2@2>6^80
+  Strings 5 : C#4@3>1^80
+  Sax       : C#4@1>1^80 B4@2>5^104
+@55 [E | D#dim] (grid:24t)
+  Drum      : D2+G#2@3>10^56
+  Strings 3 : F#3@2>6^80
+  Strings 5 : D4@1>1^56 E4@2>2^80 D#4@4>2^32 D4@6>2^56
+  Sax       : A4@6>2^104
+@56 [C# | A7] (grid:16)
+  Drum      : G#2@2>2^32
+  Bass      : A1@2>8^80
+  Strings 3 : G#3@2>4^80
+  Strings 5 : C#4@2>13^56
+  Sax       : B4@2>1^104 A4@3>2^80 E4@4>1^80
+@57 [B] (grid:16)
+  Drum      : D2+G#2@2>6^80
+  Strings 3 : F#3@2>4^80
+  Sax       : C#4@1>1^104 B4@2>2^80 E5@4>2^104
+@58 [C#m]
+  Drum      : G#2@2>1^32
+  Bass      : E2@2>3^80
+  Strings 3 : E3@2>3^80
+  Sax       : C#5@2>6^104
+@59 [F#m] (grid:24t)
+  Drum      : D2+G#2@3>10^80
+  Bass      : A2@2>6^56
+  Strings 3 : F#3@2>4^80
+@60 [A7] (grid:64)
+  Melody    : G3@11>4^104
+  Drum      : G#2@5>7^32
+  Bass      : A1@5>32^80
+  Strings 2 : A3@3>125^56
+  Strings 3 : E3@4>38^80
+  Sax       : G4@4>38^56 E4@5>37^80
+@61 [G | Em]
+  Melody    : G3@1>1^104 E3@3>8^104
+  Drum      : D2+G#2@2>4^56
+@62 [E | D#m] (grid:64)
+  Drum      : G#2@5>7^32
+  Bass      : E2@5>32^80
+  Strings 3 : F3@10>4^80 F#3@15>6^56
+  Sax       : D#4+F#4@10>5^80 D4@15>5^80 F4@16>6^80
+@63 [C#dim | Dm] (grid:64)
+  Drum      : D2+G#2@5>28^80
+  Strings 3 : G3@4>5^104 F#3@9>4^80 F3@14>6^80
+  Sax       : C#4+E4@5>6^80 F4@10>5^56 D4@11>5^80 D#4+F#4@15>4^56
+@64 [Em]
+  Drum      : G#2@2>1^32
+  Bass      : A1@2>6^80
+  Strings 3 : E3@2>9^80
+  Sax       : E4+G4@2>6^80
+@65 [-]
+  Drum      : D2+G#2@2>5^80
+@66 [D#dim] (grid:24t)
+  Melody    : A2@3>2^104
+  Drum      : G#2@3>2^32
+  Bass      : E2@3>6^80
+  Sax       : D#4@2>6^56 F#4@3>6^80
+@67 [Em] (grid:64)
+  Melody    : A2@1>3^104 A2@10>11^104
+  Drum      : D2+G#2@5>26^80
+  Bass      : A1@5>14^80
+  Strings 3 : G3@4>16^80
+  Sax       : E4+G4@5>15^56
+@68 [Dm] (grid:64)
+  Melody    : F3@5>61^104
+  Drum      : G#2@5>7^32
+  Bass      : D1@5>32^80
+  Strings 2 : D4@4>127^80
+  Strings 3 : D3@5>32^56
+  Sax       : F4@4>70^80 D4@5>70^56
+@69 [E | Dm] (grid:16)
+  Drum      : D2+G#2@2>6^56
+  Strings 1 : E5@2>1^80 D5@3>1^56 A4@4>1^56
+  Strings 2 : E6@2>1^80 D6@3>1^56 A5@4>1^80
+@70 [A] (grid:24t)
+  Drum      : G#2@3>3^32
+  Bass      : A1@2>10^80
+  Strings 1 : F4@1>1^80 E5@2>9^80
+  Strings 2 : F5@1>1^80 E6@2>9^80
+  Strings 3 : E3@2>12^80
+@71 [D]
+  Drum      : D2+G#2@2>5^56
+  Strings 1 : D5@3>1^80
+  Strings 2 : D6@3>1^80
+@72 [E | Dm] (grid:24t)
+  Drum      : G#2@3>2^32
+  Bass      : D2@1>1^56 D1@3>12^80
+  Strings 1 : E5@2>2^80 D5@4>2^80 A4@6>2^80
+  Strings 2 : E6@2>2^80 D6@4>3^80 A5@6>2^80
+  Strings 3 : F3@2>6^80
+  Sax       : C#4+E4@5>2^80
+@73 [Bdim | Eaug] (grid:64)
+  Drum      : D2+G#2@5>25^80
+  Strings 1 : F4@1>4^80 E5@5>22^80
+  Strings 2 : F5@1>5^80 E6@6>21^80
+  Strings 3 : E3@4>16^56
+  Sax       : C4+D#4@1>2^56 B3+D4@5>5^80 C4+D#4@10>5^56 C#4@15>4^80 E4@16>4^32
+@74 [Dm] (grid:24t)
+  Drum      : G#2@3>2^32
+  Bass      : A1@3>5^104
+  Strings 1 : D5@5>3^80
+  Strings 2 : D6@5>4^104
+  Strings 3 : D#3@2>6^56
+  Sax       : F4@2>12^56 D4@3>11^56
+@75 [D]
+  Drum      : D2+G#2@2>5^80
+  Bass      : D1@2>3^80
+  Strings 1 : A4@1>1^80 D4@3>2^56
+  Strings 2 : A5@1>2^56 D5@3>2^104
+  Strings 3 : E3@2>3^80
+@76 [E7 | G#dim] (grid:64)
+  Drum      : G#2@5>7^32
+  Bass      : E1@5>32^80
+  Strings 1 : G#4@4>39^80
+  Strings 2 : G#5@4>37^80 B3@5>123^56
+  Strings 3 : G#3@5>48^56
+  Sax       : B3+D4@5>122^80
+@77 [E]
+  Melody    : E3@2>1^104
+  Drum      : D2+G#2@2>4^56
+@78 [B | Aaug] (grid:24t)
+  Melody    : F3@1>2^104 F3@5>2^104
+  Drum      : G#2@3>3^32
+  Bass      : B1@3>12^80
+  Strings 1 : A4@5>2^80
+  Strings 2 : A5@4>3^80 B5@6>2^80
+@79 [Am]
+  Melody    : E3@1>2^104 E3@2>8^104
+  Drum      : D2+G#2@2>5^80
+  Strings 1 : B4@1>2^80 C5@2>1^80 B4@3>1^80
+  Strings 2 : C6@2>2^80 B5@3>1^56
+  Strings 3 : A3@2>3^80
+@80 [G#aug]
+  Drum      : G#2@2>1^32
+  Bass      : E1@2>6^80
+  Strings 1 : A4@1>1^80 G#4@2>7^80
+  Strings 2 : A5@1>1^80 G#5@2>9^80
+  Strings 3 : G#3@2>10^80
+@81 [-]
+  Drum      : D2+G#2@2>5^80
+@82 [B | E]
+  Drum      : G#2@2>1^32
+  Bass      : B1@2>3^80
+@83 [Eaug | C]
+  Melody    : E2@1>1^104 C3@2>6^104
+  Drum      : D2+G#2@2>5^80
+  Bass      : E1@2>3^80
+@84 [A]
+  Drum      : G#2@2>1^32
+  Bass      : A1@2>6^80
+  Strings 2 : A3@2>21^56
+  Strings 3 : E3@2>9^56
+@85 [B7 | A] (grid:16)
+  Melody    : A2@2>2^104 A2@4>12^104
+  Drum      : D2+G#2@2>6^32
+  Strings 1 : B5@2>1^80 A5@3>1^56 E5@4>1^56
+  Strings 2 : B5@2>1^80 A5@3>1^56 E5@4>1^56
+@86 [E] (grid:24t)
+  Drum      : G#2@3>3^32
+  Bass      : E2@2>12^80
+  Strings 1 : C#5@1>1^80 B5@2>9^56
+  Strings 2 : C#5@1>1^80 B5@2>9^56
+  Strings 5 : C#4@4>2^56
+@87 [F#7 | D]
+  Drum      : D2+G#2@2>5^56
+  Strings 1 : A5@3>1^80
+  Strings 2 : A5@3>1^80
+  Strings 3 : F#3@2>3^80
+  Strings 5 : D4@1>2^56 E4@2>1^56 D4@3>2^56
+@88 [G#m | A7] (grid:16)
+  Drum      : G#2@2>2^32
+  Bass      : A1@2>8^80
+  Strings 1 : B5@2>1^80 A5@3>1^80 E5@4>1^80
+  Strings 2 : B5@2>1^80 A5@3>1^80 E5@4>1^80
+  Strings 3 : G#3@2>4^80
+  Strings 5 : C#4@2>13^32
+@89 [B | F#m7] (grid:16)
+  Drum      : D2+G#2@2>6^80
+  Strings 1 : C#5@1>1^80 B4@2>1^56 A4@3>1^80 E4@4>1^80
+  Strings 2 : C#5@1>1^80 B4@2>1^56 A4@3>1^80 E4@4>1^80
+  Strings 3 : F#3@2>4^56
+@90 [E | C#m7]
+  Drum      : G#2@2>1^32
+  Bass      : E2@2>3^80
+  Strings 1 : C#4@1>1^80 B3@2>2^80 C#4@3>2^80
+  Strings 2 : C#4@1>1^80 B3@2>2^80 C#4@3>2^80
+  Strings 3 : E3@2>3^56
+@91 [A | Am]
+  Melody    : C4@3>3^104
+  Drum      : D2+G#2@2>5^80
+  Bass      : A1@2>2^80
+  Strings 1 : E4@2>1^80 E5@3>3^56
+  Strings 2 : E4@2>1^80 E5@3>3^56
+  Strings 3 : F#3@2>2^80
+@92 [C] (grid:64)
+  Drum      : G#2@5>7^32
+  Bass      : D2@5>28^80
+  Strings 6 : C4+E4@4>128^56
+  Brass     : C4@4>50^80 F#3+E4@5>49^80
+@93 [C]
+  Melody    : C4@1>2^104 C4@3>8^104
+  Drum      : D2+G#2@2>4^56
+@94 [D]
+  Drum      : G#2@2>1^32
+  Bass      : D2@2>2^80
+@95 [D] (grid:64)
+  Drum      : D2+G#2@5>28^80
+  Bass      : D2@5>12^80
+  Brass     : D4@11>4^80 D5@12>3^104 C4@15>5^80 C5@16>4^104
+@96 [G#dim] (grid:8)
+  Drum      : G#2@1>1^32
+  Bass      : D2@2>3^80
+  Brass     : G#3@1>7^104 G#4@2>7^104
+@97 [-]
+  Drum      : D2+G#2@2>5^80
+@98 [D7]
+  Melody    : C4@3>2^104
+  Drum      : G#2@2>1^32
+  Bass      : D2@2>2^80
+@99 [D7] (grid:24t)
+  Melody    : D4@2>2^104 C4@4>2^104 D4@6>3^104
+  Drum      : D2+G#2@3>10^80
+  Bass      : D2@3>5^80
+@100 [Em7 | G] (grid:64)
+  Melody    : C4@6>56^104
+  Drum      : G#2@5>7^32
+  Bass      : G1@5>31^80
+  Brass     : G3+D4+E4+G4+B4@5>115^80
+@101 [D]
+  Drum      : D2+G#2@2>4^56
+  Strings 6 : D3@3>1^56
+@102 [B | E]
+  Drum      : G#2@2>1^32
+  Bass      : B1@2>3^80
+  Strings 6 : F#3@2>1^80 E3@3>1^80
+@103 [C# | D]
+  Drum      : D2+G#2@2>5^80
+  Bass      : D2@2>3^80
+  Strings 6 : C#3@1>2^80 D3@3>1^80
+@104 [F# | C#dim] (grid:16)
+  Drum      : G#2@2>2^32
+  Bass      : G1@2>8^80
+  Strings 6 : F#3@2>1^80 E3@3>1^56 C#3@4>1^56
+@105 [D | E] (grid:16)
+  Drum      : D2+G#2@2>6^80
+  Strings 6 : D3@1>1^80 E3@2>2^80 E4@4>2^80
+@106 [Bm]
+  Drum      : G#2@2>1^32
+  Bass      : D2@2>3^80
+  Strings 6 : B3@2>5^80
+@107 [C | G] (grid:64)
+  Melody    : B3@12>5^104
+  Drum      : D2+G#2@5>26^80
+  Bass      : G1@5>16^56
+  Guitar    : G3@3>9^32 A3+C4@5>8^32 D4@6>6^56
+@108 [Fdim | F] (grid:64)
+  Melody    : B3@2>9^104 A3@11>16^104
+  Drum      : G#2@5>7^32
+  Bass      : F1@5>28^80
+  Guitar    : F3@4>38^32 G3@5>39^56 A3+C4@6>38^32
+@109 [F] (grid:64)
+  Melody    : F3@10>7^104
+  Drum      : D2+G#2@5>24^56
+  Strings 4 : C6@13>7^56
+  Brass     : C4+D4+F4+A4@5>98^80 C4@13>8^104
+@110 [F]
+  Melody    : F3@1>7^104
+  Drum      : G#2@2>1^32
+  Bass      : F1@2>3^56
+  Strings 4 : A5@2>1^32 C6@3>2^56
+  Brass     : A3@2>2^104 C4@3>1^104
+@111 [Am | F#m7] (grid:64)
+  Drum      : D2+G#2@5>28^80
+  Bass      : C2@5>16^80
+  Strings 4 : A5@5>9^80 C6@13>7^80
+  Brass     : A3@5>9^104 C4@12>7^104
+  Harp      : C#3@4>2^56 D3@6>3^56 E3@7>2^80 F#3@8>2^80 G#3@9>2^80 A3@10>2^80 B3+C#4@11>2^80 D4@12>2^80 E4+F#4@13>2^80 G#4+A4@14>2^80 B4@15>2^104 C#5@16>2^104
+@112 [Dm] (grid:64)
+  Drum      : G#2@5>6^32
+  Bass      : F1@5>20^56
+  Strings 4 : F5+D6@5>62^104
+  Brass     : D4+F4+A4+C5+D5@5>55^104
+  Harp      : D5+E5@1>2^104 F#5@2>2^104 G#5@3>2^104 D6@5>2^104
+@113 [A]
+  Melody    : A3@3>1^104
+  Drum      : D2+G#2@2>5^80
+@114 [A]
+  Melody    : A3@1>1^104 A3@2>1^104 A3@3>2^104
+  Drum      : G#2@2>1^32
+@115 [F] (grid:24t)
+  Melody    : G3@4>2^104 F3@6>2^104
+  Drum      : D2+G#2@3>10^80
+  Bass      : F1@2>6^80
+@116 [E | Dm] (grid:64)
+  Melody    : F3@8>43^104
+  Bass      : E1@6>32^80
+  Strings 4 : D4+D6@13>16^56
+  Vibraphone: D5+F5@13>9^80
+@117 [Bm | A#m] (grid:64)
+  Strings 4 : B3+B5@5>9^104 A#5@12>8^80 A#3@13>8^80
+  Vibraphone: B4+D5@5>10^80 A#4+C#5@13>8^56
+@118 [G#m | Fdim] (grid:64)
+  Strings 4 : G#3+G#5@5>9^104 F3+F5@13>9^104
+  Vibraphone: G#4+B4@5>8^80 F4+G#4@13>7^80
+@119 [Em | Dm] (grid:64)
+  Strings 4 : E3+E5@4>9^104 D5@12>9^80 D3@13>8^80
+  Vibraphone: E4+G4@4>8^80 D4+F4@13>8^80
+@120 [E] (grid:64)
+  Drum      : G#2@5>6^32
+  Strings 4 : B2+B4@5>2^104
+  Vibraphone: E3+G#3@3>4^80 B3+D4@5>2^80
+@121 [G]
+  Melody    : G3@2>2^104
+  Drum      : D2+G#2@2>5^80
+@122 [E]
+  Melody    : E3@2>3^104
+  Drum      : G#2@2>1^32
+@123 [C#]
+  Melody    : C#3@2>3^104
+  Drum      : D2+G#2@2>5^80
+@124 [A] (grid:64)
+  Melody    : A2@5>22^104
+  Drum      : G#2@5>7^56
+  Bass      : A1@6>21^104
+  Strings 1 : A3+C#4+E4@5>38^56
+  Strings 2 : A3+C#4@5>38^56
+@125 [G]
+  Melody    : G3@3>2^104
+  Drum      : D2+G#2@2>4^56
+@126 [E | Eaug] (grid:64)
+  Melody    : E3@5>48^104
+  Drum      : G#2@5>7^32
+  Bass      : A1@1>1^80 E2@5>31^80
+  Strings 1 : D#4@10>6^56 C4@11>6^56 B3+D4@16>6^56
+  Strings 2 : C4@11>7^56
+@127 [A#m | Bm] (grid:64)
+  Drum      : D2+G#2@5>28^80
+  Strings 1 : A#3+C#4@5>6^80 B3+D4@10>5^56 C4+D#4@15>6^56
+  Strings 2 : B3@1>6^80 A#3@7>5^104 B3@11>5^80 C4@16>5^104
+@128 [A] (grid:32)
+  Drum      : G#2@3>3^32
+  Bass      : A1@3>16^104
+  Strings 1 : E4@2>16^32 C#4@3>15^56
+  Strings 2 : C#4@3>28^56
+@129 [-]
+  Drum      : D2+G#2@2>5^80
+@130 [Edim] (grid:32)
+  Melody    : A#3@3>12^104
+  Drum      : G#2@3>3^56
+  Bass      : E2@3>8^80
+  Strings 1 : G4@2>16^56 E4@3>16^56
+  Strings 2 : E4@2>16^56
+@131 [A]
+  Melody    : A3@3>2^104
+  Drum      : D2+G#2@2>5^80
+  Bass      : A1@2>3^104
+@132 [Dm] (grid:64)
+  Melody    : A3@9>6^104 F3@15>4^104
+  Drum      : G#2@5>7^56
+  Bass      : D1@5>32^80
+  Strings 1 : F4@4>48^56 D4@5>48^56
+  Strings 2 : F4@5>47^80 D4@7>44^32
+@133 [F7 | Dm] (grid:16)
+  Melody    : F3@2>1^104 F3@3>11^104
+  Drum      : D2+G#2@2>6^56
+  Sax       : E5@2>1^80 D5@3>1^80 A4@4>1^80
+@134 [A]
+  Drum      : G#2@2>1^32
+  Bass      : A1@2>5^80
+  Sax       : F4@1>1^80 E5@2>5^104
+@135 [E] (grid:64)
+  Drum      : D2+G#2@5>28^80
+  Bass      : D2@15>6^80
+  Strings 1 : E4@4>16^56 E4@5>16^80
+  Strings 2 : E4@4>16^80
+  Sax       : D5@14>8^104
+@136 [Dm] (grid:64)
+  Drum      : G#2@5>6^32
+  Bass      : D1@5>30^80
+  Strings 1 : D4+F4@5>15^56
+  Strings 2 : F4@4>16^80
+  Sax       : E5@6>5^104 D5@10>6^80 A4@14>5^80
+@137 [E] (grid:64)
+  Drum      : D2+G#2@5>25^80
+  Strings 1 : E4@4>16^80 E4@5>16^56
+  Strings 2 : E4@4>16^80
+  Sax       : F4@1>5^80 E5@5>25^104
+@138 [Dm] (grid:64)
+  Drum      : G#2@5>6^56
+  Bass      : A1@5>16^80
+  Strings 1 : D4@4>15^56 F4@5>15^56
+  Strings 2 : D4@4>14^80
+  Sax       : D5@13>9^104
+@139 [A] (grid:64)
+  Drum      : D2+G#2@5>26^80
+  Bass      : D1@5>15^104
+  Strings 1 : E4@4>16^56 E4@5>16^56
+  Strings 2 : E4@3>18^80
+  Sax       : A4@4>9^80 D4@13>7^80
+@140 [E] (grid:64)
+  Melody    : E3@11>6^104
+  Drum      : G#2@5>7^56
+  Bass      : E1@5>63^104
+  Strings 1 : B3@5>63^80
+  Strings 2 : B3@5>62^80
+  Sax       : F4@5>32^80
+@141 [F | E]
+  Melody    : F3@1>1^104 E3@3>1^104
+  Drum      : D2+G#2@2>4^56
+@142 [Em | Am] (grid:24t)
+  Melody    : E3@2>2^104 E3@5>8^104
+  Sax       : G5@2>2^104 E5@3>2^104 C5@5>2^80 A4@6>1^80
+@143 [F] (grid:64)
+  Sax       : G4@3>4^104 E4@7>5^80 D3+D4@12>8^80 E4@16>6^80
+  Brass     : F3+C4@4>16^104 C4+F4@5>13^104
+@144 [E | Eaug] (grid:64)
+  Strings 1 : E3@4>50^56 E4@5>50^56
+  Strings 2 : E3@3>54^80
+  Sax       : E3+G4@5>84^104 C5@13>7^80
+  Brass     : G#3+E4@4>94^104 E3+D4+E4@5>55^104 E4@13>7^104
+@145 [C]
+  Sax       : C5+E5@2>9^104
+  Brass     : G4@2>1^104 C5@3>1^104
+@146 [E]
+  Brass     : E5@2>6^104
+@147 [-]
+@148 [C]
+  Melody    : C4@2>7^104
+  Sax       : C6@2>5^32
+@149 [-]
+@150 [A] (grid:32)
+  Melody    : A3@6>53^104
+  Strings 2 : A2@3>31^80
+  Strings 6 : A3@3>28^32 E3@4>26^56
+  Brass     : A2@3>32^80
+@151 [E | A] (grid:16)
+  Strings 2 : E4@2>4^80
+  Strings 4 : E4@2>4^80
+  Strings 5 : E5@2>4^56
+  Sax       : B5@2>1^104 A5@3>1^104 E5@4>1^104
+@152 [B] (grid:24t)
+  Strings 2 : F#4@2>6^80
+  Strings 4 : F#4@2>6^56
+  Strings 5 : F#5@2>6^80
+  Sax       : C#5@1>1^104 B5@2>8^104
+@153 [G | C#dim] (grid:24t)
+  Strings 2 : G4@2>5^104
+  Strings 4 : G4@2>4^56
+  Strings 5 : G5@2>5^56
+  Sax       : A5@3>2^104 E5@5>2^80
+@154 [F | Dm] (grid:16)
+  Strings 2 : F2@2>15^104
+  Strings 6 : F4+A4@2>15^80
+  Sax       : C#5@1>2^80 F5@2>1^104 E5@3>1^80 D5@4>1^80
+  Brass     : F2@2>16^104
+@155 [Dm]
+  Strings 2 : D4@2>3^104
+  Strings 4 : D4@2>3^80
+  Strings 5 : D5@2>3^32
+  Sax       : F5@2>4^104
+@156 [E] (grid:24t)
+  Strings 2 : E4@2>6^104
+  Strings 4 : E4@2>6^80
+  Strings 5 : E5@2>6^80
+  Sax       : E5@5>3^104
+@157 [Dm] (grid:24t)
+  Strings 2 : F4@2>5^104
+  Strings 4 : F4@2>6^80
+  Strings 5 : F5@2>4^56
+  Sax       : D5@2>3^80 A4@6>1^104
+@158 [E] (grid:64)
+  Strings 2 : E2@5>96^104 B3@13>5^104
+  Strings 4 : E4@14>2^56
+  Strings 5 : B4@13>2^56
+  Sax       : F4@5>2^104 E4@7>2^80 F4@9>2^104 E4@11>2^56 F4@13>2^56 E4@15>2^80 F4@16>2^80
+  Brass     : E2@5>92^104
+@159 [E] (grid:64)
+  Strings 2 : B3@5>70^104
+  Strings 4 : E4@5>50^56
+  Strings 5 : B4@6>46^32
+  Sax       : E4@2>2^80 F4@3>2^80 E4@5>2^56 F4@6>2^56 E4@8>1^56 F4@9>2^56 E4@11>2^56 F4@12>2^80 E4@14>2^56 F4@15>2^56
+  Brass     : F4@5>2^104 E4@7>2^80 F4@9>2^80 E4@10>2^80 F4@12>2^80 E4@13>2^32 F4@15>2^80
+@160 [F7] (grid:64)
+  Sax       : E4@1>1^56 F4@2>2^80 E4@4>1^80 F4@5>2^56 E4@7>1^56 F4@9>2^56 E4@10>1^56 F4@11>2^56 E4@13>2^56 F4@15>2^56
+  Brass     : E4@1>2^80 F4@2>2^80 E4@3>2^32 F4@5>2^80 E4@6>2^32 F4@8>2^80 E4@9>2^32 F4@11>2^80 E4@12>2^32 F4@13>2^80 E4@15>2^32 F4@16>2^80
+@161 [F7] (grid:64)
+  Sax       : E4@1>1^56 F4@2>2^56 E4@3>1^56 F4@4>2^56 E4@6>1^56 F4@7>1^56 E4+F4@9>7^56 E4@11>1^56 E4@14>36^56
+  Brass     : E4@2>2^32 F4@3>2^80 E4@5>1^56 F4@6>2^80 E4@8>1^80 F4@9>2^80 E4@11>1^80 F4@12>4^80 E4@15>34^80
+@162 [F] (grid:4)
+  Sax       : F4@1>1^32
+@163 [-]
+@164 [A] (grid:64)
+  Strings 2 : A2+A3+C#4@5>55^80
+  Brass     : A2@4>58^56
+@165 [-]
+@166 [-]
+@167 [-]

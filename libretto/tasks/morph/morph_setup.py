@@ -14,14 +14,15 @@ Usage: python3 morph_setup.py <A_sid> <B_sid> [segments=6] [seg_bars=9]
 import json, sys, re
 from pathlib import Path
 import numpy as np
-import metric_discovery as md
-from understanding_probe import Song
+from libretto.core import metric_discovery as md
+from libretto.core import Song
 
-SCRIPT = Path(__file__).resolve().parent
-GRAMMAR = SCRIPT / "grammar"
-OUT = SCRIPT / "compositions" / "morph"; OUT.mkdir(parents=True, exist_ok=True)
-KEY = json.loads((SCRIPT/"answer_key"/"grammar_truth.json").read_text())
-CANON = json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+import libretto
+DATA = libretto.data_root()
+GRAMMAR = DATA / "grammar"
+OUT = Path("compositions") / "morph"; OUT.mkdir(parents=True, exist_ok=True)
+KEY = json.loads((DATA/"answer_key"/"grammar_truth.json").read_text())
+CANON = json.loads((DATA/"corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 
 def fp(p):

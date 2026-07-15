@@ -1,10 +1,9 @@
 {
-  "version": "2.0.0",
+  "version": "3.0.0",
   "files": {
-    "libretto/data/corpus_distribution_314.json": "55b6af8ec53860b80d0fa9cc4b623a773267a2011af057a130a7bfa1452469e9",
-    "libretto/core/midi_to_grammar.py": "6c375c4ce87f86f91c83f0d2b12338f42ce591d55e5307f00ed562840842c997",
-    "libretto/core/grammar_to_midi.py": "11fc441f7a39a70a2ada01d7d1669eba1a9d1d13ba8e7e023133dbfcc2a73d43",
-    "libretto/core/metric_discovery.py": "5dd74b6a7577aae153c5756795c2ec2ca8aa72779541a68efee5afc87b8bff1d",
-    "libretto/core/within_song_variation.py": "c3338e17c10e5a6cf63fc414a7529d9abb04d0873a45833eef9c05ba586cd263"
+    "libretto/data/corpus_distribution.json": "3dc04cb0dae873dfc582b48cb10d62902b68874e4affeb848e0c665b1e736f4b",
+    "libretto/core/midi_to_grammar.py": "64f543e0803de843c54fe45a09cd4eef82bcafc86eb13e76cfffb1198259b268",
+    "libretto/core/grammar_to_midi.py": "9c2ff4590b7d176a0561007f7b46bdca8dd5c35be4c56ee562358fd72d73eab9",
+    "libretto/core/axes_v3.py": "587a18668e77afdc7039189fac3f59674f686ac973f34f4787f296f55d5e0c71"
   }
 }

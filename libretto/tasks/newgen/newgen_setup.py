@@ -26,7 +26,7 @@ from . import calibrate as cal
 from . import retrieval as R
 
 DATA = libretto.data_root()
-CANON = json.loads((DATA / "corpus_distribution_314.json").read_text())
+CANON = json.loads((DATA / "corpus_distribution.json").read_text())
 GC = CANON["genre_conditioned"]; SPLIT = list(GC.keys())
 LEN_LO, LEN_HI = 64, 179
 

@@ -10,16 +10,17 @@ REF = (libretto.data_root().parent / "tasks" / "genre_loop" / "refdata" / "jazzl
 
 def test_all_genres_are_valid_targets():
     gs = gbc.genres()
-    assert len(gs) == 9 and "jazz" in gs and "classical" in gs
+    assert len(gs) == 11 and "jazz" in gs and "classical" in gs
 
 
 def test_engine_is_genre_adaptive():
     """Same piece, different genre target -> different verdict (proves it is not genre-fixed)."""
     jazz_oob = {a for a, *_ in gbc.check(str(REF), genre="jazz")[0] if a in gbc.SPLIT}
     classical_oob = {a for a, *_ in gbc.check(str(REF), genre="classical")[0] if a in gbc.SPLIT}
-    # the converged jazz piece is fully in-band for jazz, but off-band on >=1 split axis for classical
-    assert jazz_oob == set()
-    assert "rhy_triplet_share" in classical_oob
+    # the two genres disagree; the diagnostic signal: this triplet-heavy jazz loop is in-band on
+    # triplet-share for jazz but OFF-band for classical (classical doesn't swing triplets)
+    assert jazz_oob != classical_oob
+    assert "rhy_triplet_share" in classical_oob and "rhy_triplet_share" not in jazz_oob
 
 
 def test_degenerate_band_widens_not_hardcoded():

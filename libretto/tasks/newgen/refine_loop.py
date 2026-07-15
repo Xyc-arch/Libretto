@@ -19,7 +19,7 @@ from libretto.core import axis_feedback as afb
 from . import calibrate as cal
 
 DATA = libretto.data_root()
-CANON = json.loads((DATA / "corpus_distribution_314.json").read_text())
+CANON = json.loads((DATA / "corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 GC = CANON["genre_conditioned"]; SPLIT = list(GC.keys())
 LEN_LO, LEN_HI = 64, 179

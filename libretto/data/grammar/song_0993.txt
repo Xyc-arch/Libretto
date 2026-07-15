@@ -1,0 +1,2691 @@
+KEY: G major | METER: 1/4 | TEMPO: 145 | GRID: 4th (adaptive) | BARS: 593
+VOICES: Electric Piano 2[prog=5], Fretless Bass[prog=35], Acoustic Guitar (steel)[prog=25], Overdriven Guitar[prog=29], String Ensemble 2[prog=49], FX 5 (brightness)[prog=100], String Ensemble 1[prog=48], Drums[drums]
+@1 [-]
+@2 [C]
+  Electric Piano 2       : C3@1>3^104
+  Fretless Bass          : C2@1>4^104
+  Acoustic Guitar (steel): C3@1>3^80
+  Overdriven Guitar      : D5@1>4^104
+  String Ensemble 2      : C4+E4+G4@1>8^80
+  FX 5 (brightness)      : C4@1>3^80
+@3 [G]
+  Electric Piano 2       : G3@1>2^104
+  Acoustic Guitar (steel): G3@1>3^80
+  FX 5 (brightness)      : G4@1>3^80
+@4 [C]
+  Electric Piano 2       : C4@1>1^104
+  Acoustic Guitar (steel): C4@1>1^80
+  FX 5 (brightness)      : C5@1>1^80
+@5 [D]
+  Electric Piano 2       : D4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@6 [Bm]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : D5@1>3^104
+  String Ensemble 2      : B3+D4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+@7 [G]
+  Electric Piano 2       : D3@1>2^104
+  Acoustic Guitar (steel): G3@1>3^80
+  FX 5 (brightness)      : G4@1>3^80
+@8 [G]
+  Electric Piano 2       : G3+D4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@9 [Baug] (grid:8)
+  Electric Piano 2       : G4@1>4^104
+  Acoustic Guitar (steel): B3@1>2^80
+  Overdriven Guitar      : C5@1>1^104 B4@2>1^104
+  FX 5 (brightness)      : B4@1>2^80
+@10 [Am]
+  Electric Piano 2       : A2+A3@1>3^104
+  Fretless Bass          : A1@1>4^104
+  Acoustic Guitar (steel): A2@1>4^80
+  Overdriven Guitar      : C5@1>7^104
+  String Ensemble 2      : A3+C4+E4@1>4^80
+  FX 5 (brightness)      : A3@1>4^80
+@11 [Eaug]
+  Electric Piano 2       : E3+C4@1>3^104
+  Acoustic Guitar (steel): E3@1>3^80
+  FX 5 (brightness)      : E4@1>3^80
+@12 [A]
+  Electric Piano 2       : E4@1>2^104
+  Acoustic Guitar (steel): A3@1>1^80
+  FX 5 (brightness)      : A4@1>1^80
+@13 [Am]
+  Electric Piano 2       : E3+A3@1>1^104
+  Acoustic Guitar (steel): C4@1>1^80
+  FX 5 (brightness)      : C5@1>1^80
+@14 [G]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  String Ensemble 2      : B3+D4+G4@1>12^80
+  FX 5 (brightness)      : B3@1>4^80
+@15 [D]
+  Electric Piano 2       : D3+D4@1>3^104
+  Acoustic Guitar (steel): D3@1>3^80
+  FX 5 (brightness)      : D4@1>3^80
+@16 [G]
+  Electric Piano 2       : G3+G4@1>2^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@17 [Bm | B] (grid:8)
+  Electric Piano 2       : B3@1>1^104
+  Acoustic Guitar (steel): B3@1>2^80
+  Overdriven Guitar      : D5@1>1^104 D#5@2>1^104
+  FX 5 (brightness)      : B4@1>2^80
+@18 [C]
+  Electric Piano 2       : C3+G3+C4@1>3^104
+  Fretless Bass          : C2@1>4^104
+  Acoustic Guitar (steel): C3@1>4^80
+  Overdriven Guitar      : D5@1>4^104
+  String Ensemble 2      : C4+E4@1>4^80
+  FX 5 (brightness)      : C4@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@19 [Em]
+  Electric Piano 2       : E3+E4@1>1^104
+  Acoustic Guitar (steel): G3@1>3^80
+  FX 5 (brightness)      : G4@1>3^80
+@20 [C]
+  Electric Piano 2       : G3@1>3^104
+  Acoustic Guitar (steel): C4@1>1^80
+  FX 5 (brightness)      : C5@1>1^80
+@21 [D]
+  Electric Piano 2       : D4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@22 [Bm]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : D5@1>3^104
+  String Ensemble 2      : B3+D4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+@23 [G]
+  Electric Piano 2       : D3+D4@1>2^104
+  Acoustic Guitar (steel): G3@1>3^80
+  FX 5 (brightness)      : G4@1>3^80
+@24 [G]
+  Electric Piano 2       : G3+G4@1>2^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@25 [B] (grid:8)
+  Electric Piano 2       : B3@1>2^104
+  Acoustic Guitar (steel): B3@1>2^80
+  Overdriven Guitar      : C5@1>1^104 B4@2>1^104
+  FX 5 (brightness)      : B4@1>2^80
+@26 [Am]
+  Electric Piano 2       : A2+A3@1>4^104
+  Fretless Bass          : A1@1>4^104
+  Acoustic Guitar (steel): A2@1>4^80
+  Overdriven Guitar      : C5@1>4^104
+  String Ensemble 2      : A3+C4+E4@1>4^80
+  FX 5 (brightness)      : A3@1>4^80
+@27 [Eaug]
+  Electric Piano 2       : E3+C4@1>3^104
+  Acoustic Guitar (steel): E3@1>3^80
+  FX 5 (brightness)      : E4@1>3^80
+@28 [A]
+  Electric Piano 2       : E4@1>2^104
+  Acoustic Guitar (steel): A3@1>1^80
+  FX 5 (brightness)      : A4@1>1^80
+@29 [Am]
+  Electric Piano 2       : A4@1>1^104
+  Acoustic Guitar (steel): C4@1>1^80
+  FX 5 (brightness)      : C5@1>1^80
+@30 [G]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : C5@1>4^104
+  String Ensemble 2      : B3+D4+G4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+@31 [D]
+  Electric Piano 2       : D3+D4@1>2^104
+  Acoustic Guitar (steel): D3@1>3^80
+  FX 5 (brightness)      : D4@1>3^80
+@32 [G]
+  Electric Piano 2       : G3+G4@1>1^104
+  Acoustic Guitar (steel): G3@1>2^80
+  FX 5 (brightness)      : G4@1>2^80
+@33 [Bm | D]
+  Electric Piano 2       : B3@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@34 [C]
+  Electric Piano 2       : C3+G3+C4+E4+G4@1>3^104
+  Fretless Bass          : C1@1>4^104
+  Acoustic Guitar (steel): C3@1>1^80
+@35 [Em]
+  Electric Piano 2       : E3@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+@36 [C]
+  Electric Piano 2       : G3+E4+G4@1>2^104
+  Acoustic Guitar (steel): C4@1>1^80
+@37 [C]
+  Electric Piano 2       : G3@1>2^104
+  Acoustic Guitar (steel): C3@1>1^80
+@38 [G]
+  Electric Piano 2       : B2+B3+D4+G4@1>3^104
+  Fretless Bass          : B2@1>4^80
+  Acoustic Guitar (steel): B2@1>1^80
+@39 [D]
+  Electric Piano 2       : D3@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+@40 [G]
+  Electric Piano 2       : G3@1>1^104
+  Acoustic Guitar (steel): G3@1>1^80
+@41 [G | Baug]
+  Electric Piano 2       : D4+G4@1>1^104
+  Acoustic Guitar (steel): B2@1>1^80
+@42 [Am]
+  Electric Piano 2       : A2+E3+A3+C4+E4@1>3^104
+  Fretless Bass          : A2@1>4^80
+  Acoustic Guitar (steel): A2@1>1^80
+@43 [C]
+  Acoustic Guitar (steel): C3@1>1^80
+@44 [Eaug]
+  Electric Piano 2       : C4+E4@1>2^104
+  Acoustic Guitar (steel): E3@1>1^80
+@45 [A]
+  Electric Piano 2       : E3@1>1^104
+  Acoustic Guitar (steel): A2@1>1^80
+@46 [C]
+  Electric Piano 2       : G2+G3+C4+E4@1>3^104
+  Fretless Bass          : G2@1>4^80
+  Acoustic Guitar (steel): G2@1>1^80
+@47 [C]
+  Electric Piano 2       : E3@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+@48 [C]
+  Electric Piano 2       : G3+C4+E4@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+@49 [Em | G]
+  Electric Piano 2       : E3@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+@50 [F]
+  Electric Piano 2       : F2+C3+F3+A3+C4@1>4^104
+  Fretless Bass          : F2@1>4^80
+  Acoustic Guitar (steel): F2@1>1^80
+@51 [C]
+  Acoustic Guitar (steel): C3@1>1^80
+@52 [F]
+  Electric Piano 2       : A3+C4+F4@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+@53 [F]
+  Electric Piano 2       : C3@1>1^104
+  Acoustic Guitar (steel): F2@1>1^80
+@54 [C]
+  Electric Piano 2       : E2+E3+G3+C4@1>3^104
+  Fretless Bass          : E2@1>4^80
+  Acoustic Guitar (steel): E2@1>1^80
+@55 [G]
+  Acoustic Guitar (steel): G2@1>1^80
+@56 [C]
+  Electric Piano 2       : G3+C4@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+@57 [E]
+  Electric Piano 2       : E2@1>1^104
+  Acoustic Guitar (steel): E2@1>1^80
+@58 [Dm]
+  Electric Piano 2       : C2+D2+D3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D2@1>4^80
+  Acoustic Guitar (steel): D3@1>1^80
+@59 [F]
+  Acoustic Guitar (steel): F3@1>1^80
+@60 [Dm]
+  Electric Piano 2       : D4+F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+@61 [D] (grid:8)
+  Electric Piano 2       : D3@1>1^104
+  Acoustic Guitar (steel): D3@1>2^80 A3@2>2^80
+@62 [Dm]
+  Electric Piano 2       : D3+A3+D4+F4+A4@1>3^104
+  Acoustic Guitar (steel): D3@1>1^80
+@63 [F]
+  Electric Piano 2       : F3@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+@64 [Aaug]
+  Electric Piano 2       : F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+@65 [D] (grid:8)
+  Electric Piano 2       : A3@1>7^104
+  Fretless Bass          : D3@1>1^80 E3@2>1^80
+  Acoustic Guitar (steel): D3@1>2^80
+@66 [Dm]
+  Electric Piano 2       : D3+F3+D4+F4+A4@1>4^104
+  Fretless Bass          : F3@1>4^80
+  Acoustic Guitar (steel): F3@1>1^80
+@67 [D]
+  Electric Piano 2       : D4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+@68 [Dm]
+  Electric Piano 2       : D4+F4+A4@1>2^104
+  Acoustic Guitar (steel): D4@1>1^80
+@69 [D]
+  Electric Piano 2       : A3@1>1^104
+  Acoustic Guitar (steel): D3@1>1^80
+@70 [Am]
+  Electric Piano 2       : C3+A3+C4+F4+A4@1>2^104
+  Fretless Bass          : E3@1>4^80
+  Acoustic Guitar (steel): C3@1>1^80
+@71 [F]
+  Electric Piano 2       : F3@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+@72 [F]
+  Electric Piano 2       : C4+F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+@73 [Am | C]
+  Electric Piano 2       : C3+A3@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+@74 [G]
+  Electric Piano 2       : B2+D3+G3+B3+D4+G4@1>3^104
+  Fretless Bass          : D3@1>4^80
+  Acoustic Guitar (steel): B2@1>1^80
+@75 [D]
+  Acoustic Guitar (steel): D3@1>1^80
+@76 [G]
+  Electric Piano 2       : B3+D4+G4@1>1^104
+  Acoustic Guitar (steel): G3@1>1^80
+@77 [Baug | B]
+  Electric Piano 2       : G3@1>1^104
+  Acoustic Guitar (steel): B2@1>1^80
+@78 [F]
+  Electric Piano 2       : A2+C3+F3+A3+C4+F4@1>3^104
+  Fretless Bass          : A2@1>4^80
+  Acoustic Guitar (steel): A2@1>1^80
+@79 [C]
+  Acoustic Guitar (steel): C3@1>1^80
+@80 [F]
+  Electric Piano 2       : C4+F4@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+@81 [Aaug | A]
+  Electric Piano 2       : F3@1>1^104
+  Acoustic Guitar (steel): A2@1>1^80
+@82 [G]
+  Electric Piano 2       : G2+D3+G3+B3+D4@1>11^104
+  Fretless Bass          : G2@1>4^80
+  Acoustic Guitar (steel): G2@1>1^80
+@83 [B]
+  Acoustic Guitar (steel): B2@1>1^80
+@84 [G]
+  Electric Piano 2       : B3+D4+G4@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+@85 [G]
+  Electric Piano 2       : D3@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+@86 [G]
+  Electric Piano 2       : G3+B3+G4@1>4^104
+  Fretless Bass          : G1@1>4^104
+  Acoustic Guitar (steel): G3@1>1^80
+@87 [D]
+  Electric Piano 2       : D3@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+@88 [Bm | G] (grid:8)
+  Electric Piano 2       : D4@1>4^104 G4@2>2^104
+  Acoustic Guitar (steel): B2@1>2^80
+@89 [G]
+  Electric Piano 2       : G3@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+@90 [C]
+  Electric Piano 2       : C3+E3+G3+C4+E4@1>3^104
+  Fretless Bass          : C2@1>4^104
+  Acoustic Guitar (steel): C3@1>1^80
+@91 [E]
+  Acoustic Guitar (steel): E3@1>1^80
+@92 [Em]
+  Electric Piano 2       : E4+G4@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+@93 [C]
+  Electric Piano 2       : E3@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  Overdriven Guitar      : D5@1>1^104
+@94 [G] (grid:32)
+  Electric Piano 2       : G2+D3+G3+B3+D4@1>26^104
+  Fretless Bass          : G1@1>8^104
+  Acoustic Guitar (steel): G2@1>8^80
+  Overdriven Guitar      : G4@1>63^104
+  Drums                  : E2@1>2^104 E2@2>1^104
+@95 [A7]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : A1@1>1^104
+  Acoustic Guitar (steel): A2@1>1^80
+  Drums                  : B2@1>1^80
+@96 [Baug] (grid:8)
+  Electric Piano 2       : B3+G4@1>2^104 G3+B3@2>2^104
+  Fretless Bass          : B1@1>2^104
+  Acoustic Guitar (steel): B2@1>2^80
+  Drums                  : A2@1>1^80
+@97 [G] (grid:8)
+  Electric Piano 2       : D4@1>1^104
+  Fretless Bass          : D2@1>2^104
+  Acoustic Guitar (steel): G2@1>2^80
+  Drums                  : F2@1>1^80 F2@2>1^80
+@98 [C]
+  Electric Piano 2       : C3+G3+C4+E4+G4@1>3^104
+  Fretless Bass          : C2@1>3^104
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 2      : G3+C4+E4@1>8^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@99 [C]
+  Electric Piano 2       : E3@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : F#2@1>1^80
+@100 [C]
+  Electric Piano 2       : G3+E4+G4@1>2^104
+  Acoustic Guitar (steel): C4@1>1^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@101 [C]
+  Electric Piano 2       : G3@1>2^104
+  Fretless Bass          : C2@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 1      : A5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@102 [G]
+  Electric Piano 2       : B2+B3+D4+G4@1>3^104
+  Fretless Bass          : B1@1>3^104
+  Acoustic Guitar (steel): B2@1>1^80
+  String Ensemble 2      : B3+D4@1>4^80
+  String Ensemble 1      : G5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@103 [D]
+  Electric Piano 2       : D3@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : F#2@1>1^80
+@104 [G]
+  Electric Piano 2       : G3@1>1^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@105 [G | Baug]
+  Electric Piano 2       : D4+G4@1>1^104
+  Fretless Bass          : B1@1>1^104
+  Acoustic Guitar (steel): B2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@106 [Am]
+  Electric Piano 2       : A2+E3+A3+C4+E4@1>3^104
+  Fretless Bass          : A1@1>3^104
+  Acoustic Guitar (steel): A2@1>1^80
+  String Ensemble 2      : A3+C4+E4@1>16^80
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@107 [C7]
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F#2@1>1^80
+@108 [C]
+  Electric Piano 2       : C4+E4@1>2^104
+  Acoustic Guitar (steel): E3@1>1^80
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@109 [A]
+  Electric Piano 2       : E3@1>1^104
+  Fretless Bass          : A1@1>1^104
+  Acoustic Guitar (steel): A2@1>1^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@110 [C]
+  Electric Piano 2       : G2+G3+C4+E4@1>3^104
+  Fretless Bass          : G1@1>3^104
+  Acoustic Guitar (steel): G2@1>1^80
+  String Ensemble 2      : G3@1>4^80
+  String Ensemble 1      : E5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@111 [C]
+  Electric Piano 2       : E3@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  Drums                  : F#2@1>1^80
+@112 [C]
+  Electric Piano 2       : G3+C4+E4@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@113 [Em | G]
+  Electric Piano 2       : E3@1>1^104
+  Fretless Bass          : G1@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@114 [F]
+  Electric Piano 2       : F2+C3+F3+A3+C4@1>4^104
+  Fretless Bass          : F1@1>3^104
+  Acoustic Guitar (steel): F2@1>1^80
+  String Ensemble 2      : A3+F4@1>4^80
+  String Ensemble 1      : F4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@115 [C]
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@116 [F]
+  Electric Piano 2       : A3+C4+F4@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@117 [F | Dm]
+  Electric Piano 2       : C3@1>1^104
+  Fretless Bass          : F1@1>1^104
+  Acoustic Guitar (steel): F2@1>1^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@118 [C]
+  Electric Piano 2       : E2+E3+G3+C4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  Acoustic Guitar (steel): E2@1>1^80
+  String Ensemble 2      : G3+E4@1>4^80
+  String Ensemble 1      : C5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@119 [G]
+  Acoustic Guitar (steel): G2@1>1^80
+  Drums                  : F#2@1>1^80
+@120 [C]
+  Electric Piano 2       : G3+C4@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@121 [E]
+  Electric Piano 2       : E2@1>1^104
+  Fretless Bass          : E1@1>1^104
+  Acoustic Guitar (steel): E2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@122 [Dm]
+  Electric Piano 2       : C2+D2+D3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  Acoustic Guitar (steel): D3@1>1^80
+  String Ensemble 2      : A3+D4+F4@1>16^80
+  String Ensemble 1      : D5@1>3^80
+  Drums                  : B1+F#2@1>1^104
+@123 [F]
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : F#2@1>1^80
+@124 [Dm]
+  Electric Piano 2       : D4+F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@125 [D | Dm] (grid:8)
+  Electric Piano 2       : D3@1>1^104
+  Fretless Bass          : A1@1>2^104
+  Acoustic Guitar (steel): D3@1>2^80 A3@2>2^80
+  String Ensemble 1      : E5@1>1^80 F5@2>1^80
+  Drums                  : B1+F#2@1>1^104
+@126 [Dm]
+  Electric Piano 2       : D3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D2@1>3^104
+  Acoustic Guitar (steel): D3@1>1^80
+  String Ensemble 1      : A5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@127 [F]
+  Electric Piano 2       : F3@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : F#2@1>1^80
+@128 [Aaug]
+  Electric Piano 2       : F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@129 [D7] (grid:8)
+  Electric Piano 2       : A3@1>7^104
+  Fretless Bass          : A1@1>1^104 C2@2>1^104
+  Acoustic Guitar (steel): D3@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@130 [Dm]
+  Electric Piano 2       : D3+F3+D4+F4+A4@1>4^104
+  Fretless Bass          : D2@1>3^104
+  Acoustic Guitar (steel): F3@1>1^80
+  String Ensemble 1      : D6@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@131 [D]
+  Electric Piano 2       : D4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : F#2@1>1^80
+@132 [Dm]
+  Electric Piano 2       : D4+F4+A4@1>2^104
+  Acoustic Guitar (steel): D4@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@133 [D]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : D2@1>1^104
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@134 [F]
+  Electric Piano 2       : C3+A3+C4+F4+A4@1>2^104
+  Fretless Bass          : C2@1>3^104
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 2      : C4@1>4^80
+  String Ensemble 1      : C6@1>3^80
+  Drums                  : B1+F#2@1>1^104
+@135 [F]
+  Electric Piano 2       : F3@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : F#2@1>1^80
+@136 [F]
+  Electric Piano 2       : C4+F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@137 [Am] (grid:8)
+  Electric Piano 2       : C3+A3@1>1^104
+  Fretless Bass          : C2@1>2^104
+  Acoustic Guitar (steel): C3@1>2^80
+  String Ensemble 1      : B5@1>1^80 A5@2>1^80
+  Drums                  : B1+F#2@1>1^104
+@138 [G]
+  Electric Piano 2       : B2+D3+G3+B3+D4+G4@1>3^104
+  Fretless Bass          : B1@1>3^104
+  Acoustic Guitar (steel): B2@1>1^80
+  String Ensemble 2      : G3+B3+D4@1>4^80
+  String Ensemble 1      : B5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@139 [D]
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : F#2@1>1^80
+@140 [G]
+  Electric Piano 2       : B3+D4+G4@1>1^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@141 [Baug | B7] (grid:6t)
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : B1@1>1^104
+  Acoustic Guitar (steel): B2@1>2^80
+  String Ensemble 2      : A3@2>6^80
+  Drums                  : B1+F#2@1>1^104
+@142 [F]
+  Electric Piano 2       : A2+C3+F3+A3+C4+F4@1>3^104
+  Fretless Bass          : A1@1>3^104
+  Acoustic Guitar (steel): A2@1>1^80
+  String Ensemble 2      : C4+F4@1>4^80
+  String Ensemble 1      : A5@1>3^80
+  Drums                  : B1+F#2@1>1^104
+@143 [C]
+  Acoustic Guitar (steel): C3@1>1^80
+  Drums                  : F#2@1>1^80
+@144 [F]
+  Electric Piano 2       : C4+F4@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@145 [Aaug] (grid:8)
+  Electric Piano 2       : F3@1>1^104
+  Fretless Bass          : A1@1>2^104
+  Acoustic Guitar (steel): A2@1>2^80
+  String Ensemble 1      : G5@1>1^80 F5@2>1^80
+  Drums                  : B1+F#2@1>1^104
+@146 [G]
+  Electric Piano 2       : G2+D3+G3+B3+D4@1>11^104
+  Fretless Bass          : G1@1>3^104
+  Acoustic Guitar (steel): G2@1>1^80
+  String Ensemble 2      : G3+B3+D4@1>12^80
+  String Ensemble 1      : G5@1>12^80
+  Drums                  : B1+F#2@1>1^104
+@147 [B]
+  Acoustic Guitar (steel): B2@1>1^80
+  Drums                  : F#2@1>1^80
+@148 [G]
+  Electric Piano 2       : B3+D4+G4@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@149 [G]
+  Electric Piano 2       : D3@1>1^104
+  Fretless Bass          : G1@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@150 [G]
+  Electric Piano 2       : G3+B3+G4@1>4^104
+  Fretless Bass          : G1@1>3^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@151 [D]
+  Electric Piano 2       : D3@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : F#2@1>1^80
+@152 [Bm | G] (grid:8)
+  Electric Piano 2       : D4@1>4^104 G4@2>2^104
+  Acoustic Guitar (steel): B2@1>2^80
+  Drums                  : C#2+F#2@1>1^104
+@153 [G]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : G1@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@154 [C]
+  Electric Piano 2       : C3+E3+G3+C4+E4@1>3^104
+  Fretless Bass          : C2@1>3^104
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 2      : C4+E4@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@155 [E]
+  Acoustic Guitar (steel): E3@1>1^80
+  Drums                  : F#2@1>1^80
+@156 [Em]
+  Electric Piano 2       : E4+G4@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@157 [C]
+  Electric Piano 2       : E3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@158 [Gm]
+  Electric Piano 2       : G2+G3+A#3+D4@1>2^104
+  Fretless Bass          : G1@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+  String Ensemble 2      : G3+A#3+D4@1>4^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@159 [A#] (grid:8)
+  Acoustic Guitar (steel): A#3@1>2^80
+  String Ensemble 1      : A#4@1>2^80
+  Drums                  : F#2@1>1^80 B1@2>1^104
+@160 [C] (grid:32)
+  Electric Piano 2       : C3+E3+G3+C4+E4@1>15^104
+  Fretless Bass          : C2@1>16^104
+  Acoustic Guitar (steel): C4@1>8^80
+  String Ensemble 2      : C4+D4+E4@1>48^80
+  String Ensemble 1      : C4@1>16^80
+  Drums                  : C#2+E2+F#2@1>3^104 E2@2>1^104 B1@5>1^104
+@161 [G] (grid:8)
+  Acoustic Guitar (steel): G3@1>2^80
+  Drums                  : B1+F#2+A2@1>1^104 G2@2>1^80
+@162 [F]
+  Electric Piano 2       : F2+C3+F3+A3+C4@1>4^104
+  Fretless Bass          : F1@1>3^104
+  Acoustic Guitar (steel): F3@1>1^80
+  String Ensemble 2      : A3+F4@1>4^80
+  String Ensemble 1      : F3@1>4^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@163 [A]
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : F#2@1>1^80
+@164 [F]
+  Electric Piano 2       : A3+F4@1>2^104
+  Acoustic Guitar (steel): C4@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@165 [F]
+  Electric Piano 2       : C3@1>1^104
+  Fretless Bass          : F1@1>1^104
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@166 [G7]
+  Electric Piano 2       : F2+G3+B3+D4@1>3^104
+  Fretless Bass          : F1@1>3^104
+  Acoustic Guitar (steel): G3@1>1^80
+  String Ensemble 2      : G3+B3+D4@1>8^80
+  String Ensemble 1      : G3@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@167 [B]
+  Acoustic Guitar (steel): B3@1>1^80
+  Drums                  : F#2@1>1^80
+@168 [G]
+  Electric Piano 2       : B3+D4+G4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@169 [F | G7]
+  Electric Piano 2       : F2@1>1^104
+  Fretless Bass          : F1@1>1^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@170 [Em]
+  Electric Piano 2       : E2+E3+B3+E4+G4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  Acoustic Guitar (steel): E4@1>1^80
+  String Ensemble 2      : E4@1>8^80
+  String Ensemble 1      : E3@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@171 [B]
+  Acoustic Guitar (steel): B3@1>1^80
+  Drums                  : F#2@1>1^80
+@172 [Em] (grid:8)
+  Electric Piano 2       : E4+G4@1>4^104 B3@2>3^104
+  Acoustic Guitar (steel): G3@1>2^80
+  Drums                  : C#2+F#2@1>1^104
+@173 [E]
+  Electric Piano 2       : E3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@174 [Am]
+  Electric Piano 2       : A2+A3+C4+E4@1>4^104
+  Fretless Bass          : A1@1>3^104
+  Acoustic Guitar (steel): C4@1>1^80
+  String Ensemble 2      : A3+C4@1>4^80
+  String Ensemble 1      : A3@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@175 [A] (grid:8)
+  Electric Piano 2       : E3@1>5^104 A3@2>2^104
+  Acoustic Guitar (steel): A3@1>2^80
+  Drums                  : F#2@1>1^80
+@176 [C | Am] (grid:8)
+  Electric Piano 2       : C4@1>2^104 A4@2>2^104
+  Acoustic Guitar (steel): C4@1>2^80
+  String Ensemble 1      : C4@1>4^80
+  Drums                  : E2+F#2+G3@1>1^104
+@177 [A]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : A1@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@178 [A#]
+  Electric Piano 2       : A#2+F3+A#3+D4+F4@1>7^104
+  Fretless Bass          : A#1@1>3^104
+  Acoustic Guitar (steel): D4@1>1^80
+  String Ensemble 2      : A#3+D4+F4@1>16^80
+  String Ensemble 1      : D4@1>8^80
+  Drums                  : B1+F#2@1>1^104
+@179 [A#]
+  Acoustic Guitar (steel): A#3@1>1^80
+  Drums                  : F#2@1>1^80
+@180 [A#] (grid:8)
+  Electric Piano 2       : A#3+D4+A#4@1>8^104 F4@2>3^104
+  Acoustic Guitar (steel): F3@1>2^80
+  Drums                  : C#2+F#2@1>1^104
+@181 [A#] (grid:6t)
+  Electric Piano 2       : F3@1>3^104
+  Fretless Bass          : F1@2>1^104
+  Acoustic Guitar (steel): A#3@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@182 [A#]
+  Electric Piano 2       : A#3@1>2^104
+  Fretless Bass          : A#1@1>3^104
+  Acoustic Guitar (steel): D4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@183 [A#]
+  Electric Piano 2       : F3@1>2^104
+  Acoustic Guitar (steel): A#3@1>1^80
+  Drums                  : F#2@1>1^80
+@184 [Dm | A#] (grid:8)
+  Electric Piano 2       : D4+F4@1>2^104 A#3@2>1^104
+  Acoustic Guitar (steel): F3@1>2^80
+  Drums                  : E2+F#2+G3@1>1^104
+@185 [A# | Daug]
+  Electric Piano 2       : F3@1>1^104
+  Fretless Bass          : A#1@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@186 [G]
+  Electric Piano 2       : G2+D3+G3+B3+D4@1>7^104
+  Fretless Bass          : G1@1>3^104
+  Acoustic Guitar (steel): G3@1>1^80
+  String Ensemble 2      : G3+B3@1>8^80
+  String Ensemble 1      : B3@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@187 [B]
+  Acoustic Guitar (steel): B3@1>1^80
+  Drums                  : F#2@1>1^80
+@188 [G] (grid:8)
+  Electric Piano 2       : G4@1>8^104 G3@2>2^104
+  Acoustic Guitar (steel): D4@1>2^80
+  Drums                  : C#2+F#2@1>1^104
+@189 [G] (grid:8)
+  Electric Piano 2       : D3@1>3^104 G3@2>3^104
+  Fretless Bass          : G1@1>2^104
+  Acoustic Guitar (steel): G3@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@190 [G] (grid:8)
+  Electric Piano 2       : B3@1>3^104
+  Fretless Bass          : G1@1>6^104
+  Acoustic Guitar (steel): B3@1>2^80
+  String Ensemble 1      : G3@1>8^80
+  Drums                  : B1+F#2@1>1^104 B1@2>1^104
+@191 [D | G] (grid:8)
+  Electric Piano 2       : D3@1>3^104 G3@2>2^104
+  Acoustic Guitar (steel): D4@1>2^80
+  Drums                  : F2+F#2@1>1^80
+@192 [G] (grid:32)
+  Electric Piano 2       : B3@1>8^104 G4@5>5^104
+  Acoustic Guitar (steel): G4@1>8^80
+  Drums                  : E2+F#2+G3@1>3^104 E2@2>1^104 A2@5>1^80
+@193 [G] (grid:8)
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : G1@1>2^104
+  Acoustic Guitar (steel): D4@1>2^80
+  Drums                  : B1+F#2+G2@1>1^104 F2@2>1^80
+@194 [C]
+  Electric Piano 2       : C3+G3+C4+E4+G4@1>4^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : G3+C4+E4@1>4^80
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@195 [E]
+  Electric Piano 2       : E3@1>2^104
+  String Ensemble 1      : E4@1>1^80
+  Drums                  : F#2@1>1^80
+@196 [C]
+  Electric Piano 2       : E4+C5@1>2^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@197 [C]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@198 [Dm]
+  Electric Piano 2       : D3+F3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  String Ensemble 2      : A3+D4+F4@1>4^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@199 [Dm]
+  Electric Piano 2       : D4@1>2^104
+  String Ensemble 1      : F4@1>1^80
+  Drums                  : F#2@1>1^80
+@200 [Dm]
+  Electric Piano 2       : F4+A4+D5@1>2^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@201 [Dm | D]
+  Electric Piano 2       : F3@1>1^104
+  Fretless Bass          : D1@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@202 [Em]
+  Electric Piano 2       : E3+G3+B3+E4+G4+B4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  String Ensemble 2      : B3+E4+G4@1>4^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@203 [G]
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@204 [C7]
+  Electric Piano 2       : G4+B4@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@205 [Em | E]
+  Electric Piano 2       : E3+G3+B3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@206 [F]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>3^104
+  Fretless Bass          : F1@1>3^104
+  String Ensemble 2      : A3+C4+F4@1>12^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@207 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@208 [F] (grid:8)
+  Electric Piano 2       : F4+A4+C5@1>4^104 C4@2>2^104
+  String Ensemble 1      : D5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@209 [F7]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@210 [Dm]
+  Electric Piano 2       : D3+F3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  String Ensemble 2      : D4@1>4^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@211 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@212 [F | Dm7] (grid:8)
+  Electric Piano 2       : F4+A4+D5@1>4^104 D4@2>3^104
+  String Ensemble 1      : C5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@213 [Dm]
+  Electric Piano 2       : D3+F3+A3@1>1^104
+  Fretless Bass          : D1@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@214 [F]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>3^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : C4@1>4^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@215 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@216 [F] (grid:8)
+  Electric Piano 2       : F4@1>2^104 C4@2>1^104
+  String Ensemble 1      : C5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@217 [Am]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@218 [G]
+  Electric Piano 2       : G2+B3+D4+G4@1>7^104
+  Fretless Bass          : G1@1>3^104
+  String Ensemble 2      : B3+D4+G4@1>8^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@219 [G]
+  Electric Piano 2       : D3@1>3^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@220 [G | Baug] (grid:8)
+  Electric Piano 2       : G3@1>7^104 B3@2>3^104
+  String Ensemble 1      : B4@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@221 [G]
+  Electric Piano 2       : D4@1>1^104
+  Fretless Bass          : G1@1>1^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@222 [G]
+  Electric Piano 2       : B3+G4@1>3^104
+  Fretless Bass          : G1@1>2^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@223 [G] (grid:8)
+  Electric Piano 2       : D3@1>3^104
+  String Ensemble 1      : G4@1>2^80
+  Drums                  : F#2@1>1^80 B1@2>1^104
+@224 [G] (grid:32)
+  Electric Piano 2       : G3@1>5^104 D4@5>6^104
+  Fretless Bass          : G1@1>4^104 A1@5>4^104
+  String Ensemble 1      : G5@1>8^80
+  Drums                  : E2+F#2+G3@1>8^104 E2@2>1^104 B1@5>1^104
+@225 [C | G] (grid:8)
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : C2@1>1^104 D2@2>1^104
+  String Ensemble 1      : G4@1>2^80
+  Drums                  : B1+F#2+A2@1>1^104 G2@2>1^80
+@226 [C]
+  Electric Piano 2       : C3+G3+C4+E4+G4@1>4^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : G3+C4+E4@1>4^80
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@227 [E]
+  Electric Piano 2       : E3@1>2^104
+  String Ensemble 1      : E4@1>1^80
+  Drums                  : F#2@1>1^80
+@228 [C]
+  Electric Piano 2       : E4+C5@1>2^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@229 [C]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@230 [Dm]
+  Electric Piano 2       : D3+A3+D4+F4+A4@1>4^104
+  Fretless Bass          : D1@1>3^104
+  String Ensemble 2      : A3+D4+F4@1>4^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@231 [F]
+  Electric Piano 2       : F3@1>2^104
+  String Ensemble 1      : F4@1>1^80
+  Drums                  : F#2@1>1^80
+@232 [Dm]
+  Electric Piano 2       : F4+A4+D5@1>2^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@233 [Dm | D]
+  Electric Piano 2       : D3+F3+A3@1>1^104
+  Fretless Bass          : D1@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@234 [Em]
+  Electric Piano 2       : E3+F3+G3+B3+E4+G4+B4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  String Ensemble 2      : B3+E4+G4@1>4^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@235 [G]
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@236 [C7]
+  Electric Piano 2       : G4+B4+E5@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@237 [Em | E]
+  Electric Piano 2       : E3+G3+B3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@238 [F]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>3^104
+  Fretless Bass          : F1@1>3^104
+  String Ensemble 2      : A3+C4+F4@1>20^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@239 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@240 [F] (grid:8)
+  Electric Piano 2       : F4+A4+C5@1>4^104 C4@2>3^104
+  String Ensemble 1      : D5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@241 [F7]
+  Electric Piano 2       : F3+A3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@242 [Dm]
+  Electric Piano 2       : D3+F3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  String Ensemble 2      : D4@1>4^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@243 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@244 [F]
+  Electric Piano 2       : D4+F4+A4@1>2^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@245 [Dm]
+  Electric Piano 2       : D3+F3+A3+D4@1>1^104
+  Fretless Bass          : D1@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@246 [F]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>2^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : C4@1>4^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@247 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@248 [F | C]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@249 [Am]
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@250 [A#]
+  Electric Piano 2       : A#2+D3+F3+A#3+D4+F4@1>7^104
+  Fretless Bass          : A#1@1>3^104
+  String Ensemble 2      : A#3+D4@1>16^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@251 [F]
+  String Ensemble 1      : F4@1>1^80
+  Drums                  : F#2@1>1^80
+@252 [A#]
+  Electric Piano 2       : A#3+D4+F4+A#4@1>2^104
+  String Ensemble 1      : A#4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@253 [A#]
+  Electric Piano 2       : F3@1>2^104
+  Fretless Bass          : A#1@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@254 [A#]
+  Electric Piano 2       : A#3+D4+F4@1>2^104
+  Fretless Bass          : A#1@1>3^104
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@255 [Dm]
+  Electric Piano 2       : D3@1>2^104
+  String Ensemble 1      : F4@1>1^80
+  Drums                  : F#2@1>1^80
+@256 [A#]
+  Electric Piano 2       : A#3+D4+F4@1>1^104
+  String Ensemble 1      : A#4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@257 [Dm | D]
+  Electric Piano 2       : F3@1>1^104
+  Fretless Bass          : A1@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@258 [G] (grid:8)
+  Electric Piano 2       : G2+D3+B3+D4+G4@1>8^104
+  Fretless Bass          : G1@1>6^104
+  String Ensemble 2      : G3+B3@1>16^80
+  String Ensemble 1      : G4@1>2^80
+  Drums                  : B1+F#2@1>1^104 B1@2>1^104
+@259 [B]
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F2+F#2@1>1^80
+@260 [D] (grid:32)
+  String Ensemble 1      : D5@1>8^80
+  Drums                  : E2+F#2+G3@1>8^104 E2@2>1^104 A2@5>1^80
+@261 [G] (grid:8)
+  Fretless Bass          : D1@1>2^104
+  String Ensemble 1      : G5@1>2^80
+  Drums                  : B1+F#2+G2@1>1^104 F2@2>1^80
+@262 [G]
+  Electric Piano 2       : G2+D3+B3+D4+G4@1>4^104
+  Fretless Bass          : G1@1>4^104
+  String Ensemble 1      : G4@1>4^80
+  Drums                  : B1+C#3@1>1^104
+@263 [-]
+@264 [-]
+@265 [-]
+@266 [C]
+  Electric Piano 2       : C3@1>3^104
+  Fretless Bass          : C2@1>4^104
+  Acoustic Guitar (steel): C3@1>3^80
+  Overdriven Guitar      : D5@1>4^104
+  String Ensemble 2      : C4+E4+G4@1>8^80
+  FX 5 (brightness)      : C4@1>3^80
+  Drums                  : B1+A#2@1>3^104
+@267 [G]
+  Electric Piano 2       : G3@1>2^104
+  Acoustic Guitar (steel): G3@1>3^80
+  FX 5 (brightness)      : G4@1>3^80
+@268 [C]
+  Electric Piano 2       : C4@1>1^104
+  Acoustic Guitar (steel): C4@1>1^80
+  FX 5 (brightness)      : C5@1>1^80
+@269 [D]
+  Electric Piano 2       : D4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@270 [Bm]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : D5@1>3^104
+  String Ensemble 2      : B3+D4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+@271 [G]
+  Electric Piano 2       : D3@1>2^104
+  Acoustic Guitar (steel): G3@1>3^80
+  FX 5 (brightness)      : G4@1>3^80
+@272 [G]
+  Electric Piano 2       : G3+D4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@273 [Baug] (grid:8)
+  Electric Piano 2       : G4@1>4^104
+  Acoustic Guitar (steel): B3@1>2^80
+  Overdriven Guitar      : C5@1>1^104 B4@2>1^104
+  FX 5 (brightness)      : B4@1>2^80
+@274 [Am]
+  Electric Piano 2       : A2+A3@1>3^104
+  Fretless Bass          : A1@1>4^104
+  Acoustic Guitar (steel): A2@1>4^80
+  Overdriven Guitar      : C5@1>7^104
+  String Ensemble 2      : A3+C4+E4@1>4^80
+  FX 5 (brightness)      : A3@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@275 [Eaug]
+  Electric Piano 2       : E3+C4@1>3^104
+  Acoustic Guitar (steel): E3@1>3^80
+  FX 5 (brightness)      : E4@1>3^80
+@276 [A]
+  Electric Piano 2       : E4@1>2^104
+  Acoustic Guitar (steel): A3@1>1^80
+  FX 5 (brightness)      : A4@1>1^80
+@277 [Am]
+  Electric Piano 2       : E3+A3@1>1^104
+  Acoustic Guitar (steel): C4@1>1^80
+  FX 5 (brightness)      : C5@1>1^80
+@278 [G]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  String Ensemble 2      : B3+D4+G4@1>12^80
+  FX 5 (brightness)      : B3@1>4^80
+@279 [D]
+  Electric Piano 2       : D3+D4@1>3^104
+  Acoustic Guitar (steel): D3@1>3^80
+  FX 5 (brightness)      : D4@1>3^80
+@280 [G]
+  Electric Piano 2       : G3+G4@1>2^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@281 [Bm | B] (grid:8)
+  Electric Piano 2       : B3@1>1^104
+  Acoustic Guitar (steel): B3@1>2^80
+  Overdriven Guitar      : D5@1>1^104 D#5@2>1^104
+  FX 5 (brightness)      : B4@1>2^80
+@282 [C]
+  Electric Piano 2       : C3+G3+C4@1>3^104
+  Fretless Bass          : C2@1>4^104
+  Acoustic Guitar (steel): C3@1>4^80
+  Overdriven Guitar      : D5@1>4^104
+  String Ensemble 2      : C4+E4@1>4^80
+  FX 5 (brightness)      : C4@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@283 [Em]
+  Electric Piano 2       : E3+E4@1>1^104
+  Acoustic Guitar (steel): G3@1>3^80
+  FX 5 (brightness)      : G4@1>3^80
+@284 [C]
+  Electric Piano 2       : G3@1>3^104
+  Acoustic Guitar (steel): C4@1>1^80
+  FX 5 (brightness)      : C5@1>1^80
+@285 [D]
+  Electric Piano 2       : D4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@286 [Bm]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : D5@1>3^104
+  String Ensemble 2      : B3+D4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+@287 [G]
+  Electric Piano 2       : D3+D4@1>2^104
+  Acoustic Guitar (steel): G3@1>3^80
+  FX 5 (brightness)      : G4@1>3^80
+@288 [G]
+  Electric Piano 2       : G3+G4@1>2^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@289 [B] (grid:8)
+  Electric Piano 2       : B3@1>2^104
+  Acoustic Guitar (steel): B3@1>2^80
+  Overdriven Guitar      : C5@1>1^104 B4@2>1^104
+  FX 5 (brightness)      : B4@1>2^80
+@290 [Am]
+  Electric Piano 2       : A2+A3@1>4^104
+  Fretless Bass          : A1@1>4^104
+  Acoustic Guitar (steel): A2@1>4^80
+  Overdriven Guitar      : C5@1>4^104
+  String Ensemble 2      : A3+C4+E4@1>4^80
+  FX 5 (brightness)      : A3@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@291 [Eaug]
+  Electric Piano 2       : E3+C4@1>3^104
+  Acoustic Guitar (steel): E3@1>3^80
+  FX 5 (brightness)      : E4@1>3^80
+@292 [A]
+  Electric Piano 2       : E4@1>2^104
+  Acoustic Guitar (steel): A3@1>1^80
+  FX 5 (brightness)      : A4@1>1^80
+@293 [Am]
+  Electric Piano 2       : A4@1>1^104
+  Acoustic Guitar (steel): C4@1>1^80
+  FX 5 (brightness)      : C5@1>1^80
+@294 [G]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : C5@1>4^104
+  String Ensemble 2      : B3+D4+G4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+@295 [D] (grid:6t)
+  Electric Piano 2       : D3+D4@1>3^104
+  Acoustic Guitar (steel): D3@1>4^80
+  FX 5 (brightness)      : D4@1>4^80
+  Drums                  : B1@2>1^104
+@296 [G] (grid:32)
+  Electric Piano 2       : G3+G4@1>8^104
+  Acoustic Guitar (steel): G3@1>16^80
+  FX 5 (brightness)      : G4@1>16^80
+  Drums                  : E2@1>1^104 E2@2>1^104 B1@5>1^104
+@297 [Bm | D] (grid:8)
+  Electric Piano 2       : B3@1>1^104
+  Acoustic Guitar (steel): D4@1>2^80
+  FX 5 (brightness)      : D5@1>2^80
+  Drums                  : A2@1>1^80 G2@2>1^80
+@298 [C]
+  Electric Piano 2       : C3+G3+C4+E4+G4@1>3^104
+  Fretless Bass          : C2@1>3^104
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 2      : G3+C4+E4@1>8^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@299 [C]
+  Electric Piano 2       : E3@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : F#2@1>1^80
+@300 [C]
+  Electric Piano 2       : G3+E4+G4@1>2^104
+  Acoustic Guitar (steel): C4@1>1^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@301 [C]
+  Electric Piano 2       : G3@1>2^104
+  Fretless Bass          : C2@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 1      : A5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@302 [G]
+  Electric Piano 2       : B2+B3+D4+G4@1>3^104
+  Fretless Bass          : B1@1>3^104
+  Acoustic Guitar (steel): B2@1>1^80
+  String Ensemble 2      : B3+D4@1>4^80
+  String Ensemble 1      : G5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@303 [D]
+  Electric Piano 2       : D3@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : F#2@1>1^80
+@304 [G]
+  Electric Piano 2       : G3@1>1^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@305 [G | Baug]
+  Electric Piano 2       : D4+G4@1>1^104
+  Fretless Bass          : B1@1>1^104
+  Acoustic Guitar (steel): B2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@306 [Am]
+  Electric Piano 2       : A2+E3+A3+C4+E4@1>3^104
+  Fretless Bass          : A1@1>3^104
+  Acoustic Guitar (steel): A2@1>1^80
+  String Ensemble 2      : A3+C4+E4@1>16^80
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@307 [C7]
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F#2@1>1^80
+@308 [C]
+  Electric Piano 2       : C4+E4@1>2^104
+  Acoustic Guitar (steel): E3@1>1^80
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@309 [A]
+  Electric Piano 2       : E3@1>1^104
+  Fretless Bass          : A1@1>1^104
+  Acoustic Guitar (steel): A2@1>1^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@310 [C]
+  Electric Piano 2       : G2+G3+C4+E4@1>3^104
+  Fretless Bass          : G1@1>3^104
+  Acoustic Guitar (steel): G2@1>1^80
+  String Ensemble 2      : G3@1>4^80
+  String Ensemble 1      : E5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@311 [C]
+  Electric Piano 2       : E3@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  Drums                  : F#2@1>1^80
+@312 [C]
+  Electric Piano 2       : G3+C4+E4@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@313 [Em | G]
+  Electric Piano 2       : E3@1>1^104
+  Fretless Bass          : G1@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@314 [F]
+  Electric Piano 2       : F2+C3+F3+A3+C4@1>4^104
+  Fretless Bass          : F1@1>3^104
+  Acoustic Guitar (steel): F2@1>1^80
+  String Ensemble 2      : A3+F4@1>4^80
+  String Ensemble 1      : F4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@315 [C]
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@316 [F]
+  Electric Piano 2       : A3+C4+F4@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@317 [F | Dm]
+  Electric Piano 2       : C3@1>1^104
+  Fretless Bass          : F1@1>1^104
+  Acoustic Guitar (steel): F2@1>1^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@318 [C]
+  Electric Piano 2       : E2+E3+G3+C4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  Acoustic Guitar (steel): E2@1>1^80
+  String Ensemble 2      : G3+E4@1>4^80
+  String Ensemble 1      : C5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@319 [G]
+  Acoustic Guitar (steel): G2@1>1^80
+  Drums                  : F#2@1>1^80
+@320 [C]
+  Electric Piano 2       : G3+C4@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@321 [E]
+  Electric Piano 2       : E2@1>1^104
+  Fretless Bass          : E1@1>1^104
+  Acoustic Guitar (steel): E2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@322 [Dm]
+  Electric Piano 2       : C2+D2+D3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  Acoustic Guitar (steel): D3@1>1^80
+  String Ensemble 2      : A3+D4+F4@1>16^80
+  String Ensemble 1      : D5@1>3^80
+  Drums                  : B1+F#2@1>1^104
+@323 [F]
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : F#2@1>1^80
+@324 [Dm]
+  Electric Piano 2       : D4+F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@325 [D | Dm] (grid:8)
+  Electric Piano 2       : D3@1>1^104
+  Fretless Bass          : A1@1>2^104
+  Acoustic Guitar (steel): D3@1>2^80 A3@2>2^80
+  String Ensemble 1      : E5@1>1^80 F5@2>1^80
+  Drums                  : B1+F#2@1>1^104
+@326 [Dm]
+  Electric Piano 2       : D3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D2@1>3^104
+  Acoustic Guitar (steel): D3@1>1^80
+  String Ensemble 1      : A5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@327 [F]
+  Electric Piano 2       : F3@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : F#2@1>1^80
+@328 [Aaug]
+  Electric Piano 2       : F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@329 [D7] (grid:8)
+  Electric Piano 2       : A3@1>7^104
+  Fretless Bass          : A1@1>1^104 C2@2>1^104
+  Acoustic Guitar (steel): D3@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@330 [Dm]
+  Electric Piano 2       : D3+F3+D4+F4+A4@1>4^104
+  Fretless Bass          : D2@1>3^104
+  Acoustic Guitar (steel): F3@1>1^80
+  String Ensemble 1      : D6@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@331 [D]
+  Electric Piano 2       : D4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : F#2@1>1^80
+@332 [Dm]
+  Electric Piano 2       : D4+F4+A4@1>2^104
+  Acoustic Guitar (steel): D4@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@333 [D]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : D2@1>1^104
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@334 [F]
+  Electric Piano 2       : C3+A3+C4+F4+A4@1>2^104
+  Fretless Bass          : C2@1>3^104
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 2      : C4@1>4^80
+  String Ensemble 1      : C6@1>3^80
+  Drums                  : B1+F#2@1>1^104
+@335 [F]
+  Electric Piano 2       : F3@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : F#2@1>1^80
+@336 [F]
+  Electric Piano 2       : C4+F4+A4@1>1^104
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@337 [Am] (grid:8)
+  Electric Piano 2       : C3+A3@1>1^104
+  Fretless Bass          : C2@1>2^104
+  Acoustic Guitar (steel): C3@1>2^80
+  String Ensemble 1      : B5@1>1^80 A5@2>1^80
+  Drums                  : B1+F#2@1>1^104
+@338 [G]
+  Electric Piano 2       : B2+D3+G3+B3+D4+G4@1>3^104
+  Fretless Bass          : B1@1>3^104
+  Acoustic Guitar (steel): B2@1>1^80
+  String Ensemble 2      : G3+B3+D4@1>4^80
+  String Ensemble 1      : B5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@339 [D]
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : F#2@1>1^80
+@340 [G]
+  Electric Piano 2       : B3+D4+G4@1>1^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@341 [Baug | B7] (grid:6t)
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : B1@1>1^104
+  Acoustic Guitar (steel): B2@1>2^80
+  String Ensemble 2      : A3@2>6^80
+  Drums                  : B1+F#2@1>1^104
+@342 [F]
+  Electric Piano 2       : A2+C3+F3+A3+C4+F4@1>3^104
+  Fretless Bass          : A1@1>3^104
+  Acoustic Guitar (steel): A2@1>1^80
+  String Ensemble 2      : C4+F4@1>4^80
+  String Ensemble 1      : A5@1>3^80
+  Drums                  : B1+F#2@1>1^104
+@343 [C]
+  Acoustic Guitar (steel): C3@1>1^80
+  Drums                  : F#2@1>1^80
+@344 [F]
+  Electric Piano 2       : C4+F4@1>2^104
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@345 [Aaug] (grid:8)
+  Electric Piano 2       : F3@1>1^104
+  Fretless Bass          : A1@1>2^104
+  Acoustic Guitar (steel): A2@1>2^80
+  String Ensemble 1      : G5@1>1^80 F5@2>1^80
+  Drums                  : B1+F#2@1>1^104
+@346 [G]
+  Electric Piano 2       : G2+D3+G3+B3+D4@1>11^104
+  Fretless Bass          : G1@1>3^104
+  Acoustic Guitar (steel): G2@1>1^80
+  String Ensemble 2      : G3+B3+D4@1>12^80
+  String Ensemble 1      : G5@1>12^80
+  Drums                  : B1+F#2@1>1^104
+@347 [B]
+  Acoustic Guitar (steel): B2@1>1^80
+  Drums                  : F#2@1>1^80
+@348 [G]
+  Electric Piano 2       : B3+D4+G4@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@349 [G]
+  Electric Piano 2       : D3@1>1^104
+  Fretless Bass          : G1@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@350 [G]
+  Electric Piano 2       : G3+B3+G4@1>4^104
+  Fretless Bass          : G1@1>3^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@351 [D]
+  Electric Piano 2       : D3@1>2^104
+  Acoustic Guitar (steel): D3@1>1^80
+  Drums                  : F#2@1>1^80
+@352 [Bm | G] (grid:8)
+  Electric Piano 2       : D4@1>4^104 G4@2>2^104
+  Acoustic Guitar (steel): B2@1>2^80
+  Drums                  : C#2+F#2@1>1^104
+@353 [G]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : G1@1>1^104
+  Acoustic Guitar (steel): G2@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@354 [C]
+  Electric Piano 2       : C3+E3+G3+C4+E4@1>3^104
+  Fretless Bass          : C2@1>3^104
+  Acoustic Guitar (steel): C3@1>1^80
+  String Ensemble 2      : C4+E4@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@355 [E]
+  Acoustic Guitar (steel): E3@1>1^80
+  Drums                  : F#2@1>1^80
+@356 [Em]
+  Electric Piano 2       : E4+G4@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@357 [C]
+  Electric Piano 2       : E3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  Acoustic Guitar (steel): C3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@358 [Gm]
+  Electric Piano 2       : G2+G3+A#3+D4@1>2^104
+  Fretless Bass          : G1@1>2^104
+  Acoustic Guitar (steel): G3@1>1^80
+  String Ensemble 2      : G3+A#3+D4@1>4^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@359 [A#] (grid:8)
+  Acoustic Guitar (steel): A#3@1>2^80
+  String Ensemble 1      : A#4@1>2^80
+  Drums                  : F#2@1>1^80 B1@2>1^104
+@360 [C] (grid:32)
+  Electric Piano 2       : C3+E3+G3+C4+E4@1>15^104
+  Fretless Bass          : C2@1>16^104
+  Acoustic Guitar (steel): C4@1>8^80
+  String Ensemble 2      : C4+D4+E4@1>48^80
+  String Ensemble 1      : C4@1>16^80
+  Drums                  : C#2+E2+F#2@1>3^104 E2@2>1^104 B1@5>1^104
+@361 [G] (grid:8)
+  Acoustic Guitar (steel): G3@1>2^80
+  Drums                  : B1+F#2+A2@1>1^104 G2@2>1^80
+@362 [F]
+  Electric Piano 2       : F2+C3+F3+A3+C4@1>4^104
+  Fretless Bass          : F1@1>3^104
+  Acoustic Guitar (steel): F3@1>1^80
+  String Ensemble 2      : A3+F4@1>4^80
+  String Ensemble 1      : F3@1>4^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@363 [A]
+  Acoustic Guitar (steel): A3@1>1^80
+  Drums                  : F#2@1>1^80
+@364 [F]
+  Electric Piano 2       : A3+F4@1>2^104
+  Acoustic Guitar (steel): C4@1>1^80
+  Drums                  : C#2+F#2@1>1^104
+@365 [F]
+  Electric Piano 2       : C3@1>1^104
+  Fretless Bass          : F1@1>1^104
+  Acoustic Guitar (steel): F3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@366 [G7]
+  Electric Piano 2       : F2+G3+B3+D4@1>3^104
+  Fretless Bass          : F1@1>3^104
+  Acoustic Guitar (steel): G3@1>1^80
+  String Ensemble 2      : G3+B3+D4@1>8^80
+  String Ensemble 1      : G3@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@367 [B]
+  Acoustic Guitar (steel): B3@1>1^80
+  Drums                  : F#2@1>1^80
+@368 [G]
+  Electric Piano 2       : B3+D4+G4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@369 [F | G7]
+  Electric Piano 2       : F2@1>1^104
+  Fretless Bass          : F1@1>1^104
+  Acoustic Guitar (steel): G3@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@370 [Em]
+  Electric Piano 2       : E2+E3+B3+E4+G4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  Acoustic Guitar (steel): E4@1>1^80
+  String Ensemble 2      : E4@1>8^80
+  String Ensemble 1      : E3@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@371 [B]
+  Acoustic Guitar (steel): B3@1>1^80
+  Drums                  : F#2@1>1^80
+@372 [Em] (grid:8)
+  Electric Piano 2       : E4+G4@1>4^104 B3@2>3^104
+  Acoustic Guitar (steel): G3@1>2^80
+  Drums                  : C#2+F#2@1>1^104
+@373 [E]
+  Electric Piano 2       : E3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@374 [Am]
+  Electric Piano 2       : A2+A3+C4+E4@1>4^104
+  Fretless Bass          : A1@1>3^104
+  Acoustic Guitar (steel): C4@1>1^80
+  String Ensemble 2      : A3+C4@1>4^80
+  String Ensemble 1      : A3@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@375 [A] (grid:8)
+  Electric Piano 2       : E3@1>5^104 A3@2>2^104
+  Acoustic Guitar (steel): A3@1>2^80
+  Drums                  : F#2@1>1^80
+@376 [C | Am] (grid:8)
+  Electric Piano 2       : C4@1>2^104 A4@2>2^104
+  Acoustic Guitar (steel): C4@1>2^80
+  String Ensemble 1      : C4@1>4^80
+  Drums                  : E2+F#2+G3@1>2^104
+@377 [A]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : A1@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@378 [A#]
+  Electric Piano 2       : A#2+F3+A#3+D4+F4@1>7^104
+  Fretless Bass          : A#1@1>3^104
+  Acoustic Guitar (steel): D4@1>1^80
+  String Ensemble 2      : A#3+D4+F4@1>16^80
+  String Ensemble 1      : D4@1>8^80
+  Drums                  : B1+F#2@1>1^104
+@379 [A#]
+  Acoustic Guitar (steel): A#3@1>1^80
+  Drums                  : F#2@1>1^80
+@380 [A#] (grid:8)
+  Electric Piano 2       : A#3+D4+A#4@1>8^104 F4@2>3^104
+  Acoustic Guitar (steel): F3@1>2^80
+  Drums                  : C#2+F#2@1>1^104
+@381 [A#] (grid:6t)
+  Electric Piano 2       : F3@1>3^104
+  Fretless Bass          : F1@2>1^104
+  Acoustic Guitar (steel): A#3@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@382 [A#]
+  Electric Piano 2       : A#3@1>2^104
+  Fretless Bass          : A#1@1>3^104
+  Acoustic Guitar (steel): D4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@383 [A#]
+  Electric Piano 2       : F3@1>2^104
+  Acoustic Guitar (steel): A#3@1>1^80
+  Drums                  : F#2@1>1^80
+@384 [Dm | A#] (grid:8)
+  Electric Piano 2       : D4+F4@1>2^104 A#3@2>1^104
+  Acoustic Guitar (steel): F3@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@385 [A# | Daug]
+  Electric Piano 2       : F3@1>1^104
+  Fretless Bass          : A#1@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@386 [G]
+  Electric Piano 2       : G2+D3+G3+B3+D4@1>7^104
+  Fretless Bass          : G1@1>3^104
+  Acoustic Guitar (steel): G3@1>1^80
+  String Ensemble 2      : G3+B3@1>8^80
+  String Ensemble 1      : B3@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@387 [B]
+  Acoustic Guitar (steel): B3@1>1^80
+  Drums                  : F#2@1>1^80
+@388 [G] (grid:8)
+  Electric Piano 2       : G4@1>8^104 G3@2>2^104
+  Acoustic Guitar (steel): D4@1>2^80
+  Drums                  : C#2+F#2@1>1^104
+@389 [G] (grid:8)
+  Electric Piano 2       : D3@1>3^104 G3@2>3^104
+  Fretless Bass          : G1@1>2^104
+  Acoustic Guitar (steel): G3@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@390 [G] (grid:8)
+  Electric Piano 2       : B3@1>3^104
+  Fretless Bass          : G1@1>6^104
+  Acoustic Guitar (steel): B3@1>2^80
+  String Ensemble 1      : G3@1>8^80
+  Drums                  : B1+F#2@1>1^104 B1@2>1^104
+@391 [D | G] (grid:8)
+  Electric Piano 2       : D3@1>3^104 G3@2>2^104
+  Acoustic Guitar (steel): D4@1>2^80
+  Drums                  : F2+F#2@1>1^80
+@392 [G] (grid:32)
+  Electric Piano 2       : B3@1>8^104 G4@5>5^104
+  Acoustic Guitar (steel): G4@1>8^80
+  Drums                  : E2+F#2+G3@1>8^104 E2@2>1^104 A2@5>1^80
+@393 [G] (grid:8)
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : G1@1>2^104
+  Acoustic Guitar (steel): D4@1>2^80
+  Drums                  : B1+F#2+G2@1>1^104 F2@2>1^80
+@394 [C]
+  Electric Piano 2       : C3+G3+C4+E4+G4@1>4^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : G3+C4+E4@1>4^80
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@395 [E]
+  Electric Piano 2       : E3@1>2^104
+  String Ensemble 1      : E4@1>1^80
+  Drums                  : F#2@1>1^80
+@396 [C]
+  Electric Piano 2       : E4+C5@1>2^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@397 [C]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@398 [Dm]
+  Electric Piano 2       : D3+F3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  String Ensemble 2      : A3+D4+F4@1>4^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@399 [Dm]
+  Electric Piano 2       : D4@1>2^104
+  String Ensemble 1      : F4@1>1^80
+  Drums                  : F#2@1>1^80
+@400 [Dm]
+  Electric Piano 2       : F4+A4+D5@1>2^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@401 [Dm | D]
+  Electric Piano 2       : F3@1>1^104
+  Fretless Bass          : D1@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@402 [Em]
+  Electric Piano 2       : E3+G3+B3+E4+G4+B4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  String Ensemble 2      : B3+E4+G4@1>4^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@403 [G]
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@404 [C7]
+  Electric Piano 2       : G4+B4@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@405 [Em | E]
+  Electric Piano 2       : E3+G3+B3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@406 [F]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>3^104
+  Fretless Bass          : F1@1>3^104
+  String Ensemble 2      : A3+C4+F4@1>12^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@407 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@408 [F] (grid:8)
+  Electric Piano 2       : F4+A4+C5@1>4^104 C4@2>2^104
+  String Ensemble 1      : D5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@409 [F7]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@410 [Dm]
+  Electric Piano 2       : D3+F3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  String Ensemble 2      : D4@1>4^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@411 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@412 [F | Dm7] (grid:8)
+  Electric Piano 2       : F4+A4+D5@1>4^104 D4@2>3^104
+  String Ensemble 1      : C5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@413 [Dm]
+  Electric Piano 2       : D3+F3+A3@1>1^104
+  Fretless Bass          : D1@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@414 [F]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>3^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : C4@1>4^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@415 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@416 [F] (grid:8)
+  Electric Piano 2       : F4@1>2^104 C4@2>1^104
+  String Ensemble 1      : C5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@417 [Am]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@418 [G]
+  Electric Piano 2       : G2+B3+D4+G4@1>7^104
+  Fretless Bass          : G1@1>3^104
+  String Ensemble 2      : B3+D4+G4@1>8^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@419 [G]
+  Electric Piano 2       : D3@1>3^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@420 [G | Baug] (grid:8)
+  Electric Piano 2       : G3@1>7^104 B3@2>3^104
+  String Ensemble 1      : B4@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@421 [G]
+  Electric Piano 2       : D4@1>1^104
+  Fretless Bass          : G1@1>1^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@422 [G]
+  Electric Piano 2       : B3+G4@1>3^104
+  Fretless Bass          : G1@1>2^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@423 [G] (grid:8)
+  Electric Piano 2       : D3@1>3^104
+  String Ensemble 1      : G4@1>2^80
+  Drums                  : F#2@1>1^80 B1@2>1^104
+@424 [G] (grid:32)
+  Electric Piano 2       : G3@1>5^104 D4@5>6^104
+  Fretless Bass          : G1@1>4^104 A1@5>4^104
+  String Ensemble 1      : G5@1>8^80
+  Drums                  : E2+F#2+G3@1>8^104 E2@2>1^104 B1@5>1^104
+@425 [C | G] (grid:8)
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : C2@1>1^104 D2@2>1^104
+  String Ensemble 1      : G4@1>2^80
+  Drums                  : B1+F#2+A2@1>1^104 G2@2>1^80
+@426 [C]
+  Electric Piano 2       : C3+G3+C4+E4+G4@1>4^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : G3+C4+E4@1>4^80
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@427 [E]
+  Electric Piano 2       : E3@1>2^104
+  String Ensemble 1      : E4@1>1^80
+  Drums                  : F#2@1>1^80
+@428 [C]
+  Electric Piano 2       : E4+C5@1>2^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@429 [C]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@430 [Dm]
+  Electric Piano 2       : D3+F3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  String Ensemble 2      : A3+D4+F4@1>4^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@431 [Dm]
+  Electric Piano 2       : D4@1>2^104
+  String Ensemble 1      : F4@1>1^80
+  Drums                  : F#2@1>1^80
+@432 [Dm]
+  Electric Piano 2       : F4+A4+D5@1>2^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@433 [Dm | D]
+  Electric Piano 2       : F3@1>1^104
+  Fretless Bass          : D1@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@434 [Em]
+  Electric Piano 2       : E3+G3+B3+E4+G4+B4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  String Ensemble 2      : B3+E4+G4@1>4^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@435 [G]
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@436 [C7]
+  Electric Piano 2       : G4+B4@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@437 [Em | E]
+  Electric Piano 2       : E3+G3+B3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@438 [F]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>3^104
+  Fretless Bass          : F1@1>3^104
+  String Ensemble 2      : A3+C4+F4@1>12^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@439 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@440 [F] (grid:8)
+  Electric Piano 2       : F4+A4+C5@1>4^104 C4@2>2^104
+  String Ensemble 1      : D5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@441 [F7]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@442 [Dm]
+  Electric Piano 2       : D3+F3+A3+D4+F4+A4@1>3^104
+  Fretless Bass          : D1@1>3^104
+  String Ensemble 2      : D4@1>4^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@443 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@444 [F | Dm7] (grid:8)
+  Electric Piano 2       : F4+A4+D5@1>4^104 D4@2>3^104
+  String Ensemble 1      : C5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@445 [Dm]
+  Electric Piano 2       : D3+F3+A3@1>1^104
+  Fretless Bass          : D1@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@446 [F]
+  Electric Piano 2       : C3+F3+A3+C4+F4+A4@1>3^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : C4@1>4^80
+  String Ensemble 1      : F5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@447 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@448 [F] (grid:8)
+  Electric Piano 2       : F4@1>2^104 C4@2>1^104
+  String Ensemble 1      : C5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@449 [Am]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@450 [G]
+  Electric Piano 2       : G2+B3+D4+G4@1>7^104
+  Fretless Bass          : G1@1>3^104
+  String Ensemble 2      : B3+D4+G4@1>8^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@451 [G]
+  Electric Piano 2       : D3@1>3^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@452 [G | Baug] (grid:8)
+  Electric Piano 2       : G3@1>7^104 B3@2>3^104
+  String Ensemble 1      : B4@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@453 [G]
+  Electric Piano 2       : D4@1>1^104
+  Fretless Bass          : G1@1>1^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@454 [G]
+  Electric Piano 2       : B3+G4@1>3^104
+  Fretless Bass          : G1@1>2^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@455 [G]
+  Electric Piano 2       : D3@1>2^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@456 [G] (grid:8)
+  Electric Piano 2       : G3@1>1^104 D4@2>1^104
+  Fretless Bass          : G1@1>1^104 A1@2>1^104
+  String Ensemble 1      : G5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@457 [C | G] (grid:8)
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : C2@1>1^104 D2@2>1^104
+  String Ensemble 1      : G4@1>2^80
+  Drums                  : B1+F#2@1>1^104
+@458 [C]
+  Electric Piano 2       : C3+G3+C4+E4+G4@1>3^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : G3+C4+E4@1>4^80
+  String Ensemble 1      : C5@1>4^80
+  Drums                  : B1+F#2@1>1^104
+@459 [E]
+  Electric Piano 2       : E3@1>2^104
+  Drums                  : F#2@1>1^80
+@460 [Em]
+  Electric Piano 2       : G3+E4+G4@1>2^104
+  Drums                  : E2+F#2+G3@1>1^104
+@461 [C] (grid:8)
+  Electric Piano 2       : G3@1>2^104
+  Fretless Bass          : C2@1>2^104
+  Drums                  : B1+F#2@1>1^104 B1@2>1^104
+@462 [A] (grid:32)
+  Electric Piano 2       : A2+E3+A3+C#4+A4@1>21^104
+  Fretless Bass          : A1@1>22^104
+  String Ensemble 2      : A3+C#4+E4@1>32^80
+  String Ensemble 1      : A3+C#4@1>31^80
+  Drums                  : B1+E2+F#2@1>3^104 E2@2>1^104 D3@5>1^80
+@463 [E | A] (grid:24t)
+  Electric Piano 2       : E3@1>9^104 A3@4>6^104
+  Drums                  : F#2+D3@1>2^80 C3@4>1^80 C3@5>1^80
+@464 [C# | A] (grid:8)
+  Electric Piano 2       : C#4@1>2^104 A4@2>1^104
+  Drums                  : E2+F#2+B2+G3@1>2^104 A2@2>1^80
+@465 [A] (grid:8)
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : A1@1>2^104
+  Drums                  : B1+F#2+G2@1>1^104 F2@2>1^80
+@466 [D]
+  Electric Piano 2       : D3+A3+D4+F#4+A4@1>4^104
+  Fretless Bass          : D2@1>3^104
+  String Ensemble 2      : A3+D4+F#4@1>4^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@467 [F#]
+  Electric Piano 2       : F#3@1>2^104
+  String Ensemble 1      : F#4@1>1^80
+  Drums                  : F#2@1>1^80
+@468 [D]
+  Electric Piano 2       : F#4+D5@1>2^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@469 [D]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : D2@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@470 [Em]
+  Electric Piano 2       : E3+G3+B3+E4+G4+B4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  String Ensemble 2      : B3+E4+G4@1>4^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@471 [Em]
+  Electric Piano 2       : E4@1>2^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@472 [Em]
+  Electric Piano 2       : G4+B4+E5@1>2^104
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@473 [Em | E]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@474 [F#m]
+  Electric Piano 2       : F#3+A3+C#4+F#4+A4+C#5@1>3^104
+  Fretless Bass          : F#1@1>3^104
+  String Ensemble 2      : C#4+F#4+A4@1>4^80
+  String Ensemble 1      : F#5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@475 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@476 [D7]
+  Electric Piano 2       : A4+C#5@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@477 [F#m | F#]
+  Electric Piano 2       : F#3+A3+C#4@1>1^104
+  Fretless Bass          : F#1@1>1^104
+  String Ensemble 1      : F#5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@478 [G]
+  Electric Piano 2       : D3+G3+B3+D4+G4+B4@1>3^104
+  Fretless Bass          : G1@1>3^104
+  String Ensemble 2      : B3+D4+G4@1>12^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@479 [B]
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F#2@1>1^80
+@480 [G] (grid:8)
+  Electric Piano 2       : G4+B4+D5@1>4^104 D4@2>2^104
+  String Ensemble 1      : E5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@481 [G7]
+  Electric Piano 2       : B3@1>1^104
+  Fretless Bass          : F#1@1>1^104
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@482 [Em]
+  Electric Piano 2       : E3+G3+B3+E4+G4+B4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  String Ensemble 2      : E4@1>4^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@483 [B]
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F#2@1>1^80
+@484 [G | Em7] (grid:8)
+  Electric Piano 2       : G4+B4+E5@1>4^104 E4@2>3^104
+  String Ensemble 1      : D5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@485 [Em]
+  Electric Piano 2       : E3+G3+B3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@486 [G]
+  Electric Piano 2       : D3+G3+B3+D4+G4+B4@1>3^104
+  Fretless Bass          : D2@1>3^104
+  String Ensemble 2      : D4@1>4^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@487 [B]
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F#2@1>1^80
+@488 [G] (grid:8)
+  Electric Piano 2       : G4@1>2^104 D4@2>1^104
+  String Ensemble 1      : D5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@489 [Bm]
+  Electric Piano 2       : B3@1>1^104
+  Fretless Bass          : D2@1>1^104
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@490 [A]
+  Electric Piano 2       : A2+C#4+E4+A4@1>7^104
+  Fretless Bass          : A1@1>3^104
+  String Ensemble 2      : C#4+E4+A4@1>8^80
+  String Ensemble 1      : A5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@491 [A]
+  Electric Piano 2       : E3@1>3^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@492 [A | C#aug] (grid:8)
+  Electric Piano 2       : A3@1>7^104 C#4@2>3^104
+  String Ensemble 1      : C#5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@493 [A]
+  Electric Piano 2       : E4@1>1^104
+  Fretless Bass          : A1@1>1^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@494 [A]
+  Electric Piano 2       : C#4+A4@1>3^104
+  Fretless Bass          : A1@1>2^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@495 [A] (grid:8)
+  Electric Piano 2       : E3@1>3^104
+  String Ensemble 1      : A4@1>2^80
+  Drums                  : F#2@1>1^80 B1@2>1^104
+@496 [A] (grid:32)
+  Electric Piano 2       : A3@1>5^104 E4@5>6^104
+  Fretless Bass          : A1@1>4^104 B1@5>4^104
+  String Ensemble 1      : A5@1>8^80
+  Drums                  : E2+F#2+G3@1>8^104 E2@2>1^104 B1@5>1^104
+@497 [D | A] (grid:8)
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : D2@1>1^104 E2@2>1^104
+  String Ensemble 1      : A4@1>2^80
+  Drums                  : B1+F#2+A2@1>1^104 G2@2>1^80
+@498 [D]
+  Electric Piano 2       : D3+A3+D4+F#4+A4@1>4^104
+  Fretless Bass          : D2@1>3^104
+  String Ensemble 2      : A3+C#4+D4+F#4+A4@1>4^80
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2+C#3@1>1^104
+@499 [F#]
+  Electric Piano 2       : F#3@1>2^104
+  String Ensemble 1      : F#4@1>1^80
+  Drums                  : F#2@1>1^80
+@500 [D]
+  Electric Piano 2       : F#4+D5@1>2^104
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@501 [D]
+  Electric Piano 2       : A3@1>1^104
+  Fretless Bass          : D2@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@502 [Em]
+  Electric Piano 2       : E3+B3+E4+G4+B4@1>4^104
+  Fretless Bass          : E1@1>3^104
+  String Ensemble 2      : B3+E4+G4@1>4^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@503 [G]
+  Electric Piano 2       : G3@1>2^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@504 [Em]
+  Electric Piano 2       : G4+B4+E5@1>2^104
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@505 [Em | E]
+  Electric Piano 2       : E3+G3+B3@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@506 [F#m]
+  Electric Piano 2       : F#3+G3+A3+C#4+F#4+A4+C#5@1>3^104
+  Fretless Bass          : F#1@1>3^104
+  String Ensemble 2      : C#4+F#4+A4@1>4^80
+  String Ensemble 1      : F#5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@507 [A]
+  String Ensemble 1      : A4@1>1^80
+  Drums                  : F#2@1>1^80
+@508 [D7]
+  Electric Piano 2       : A4+C#5+F#5@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@509 [F#m | F#]
+  Electric Piano 2       : F#3+A3+C#4@1>1^104
+  Fretless Bass          : F#1@1>1^104
+  String Ensemble 1      : F#5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@510 [G]
+  Electric Piano 2       : D3+G3+B3+D4+G4+B4@1>3^104
+  Fretless Bass          : G1@1>3^104
+  String Ensemble 2      : B3+D4+G4@1>20^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@511 [B]
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F#2@1>1^80
+@512 [G] (grid:8)
+  Electric Piano 2       : G4+B4+D5@1>4^104 D4@2>3^104
+  String Ensemble 1      : E5@1>2^80
+  Drums                  : E2+F#2+G3@1>2^104
+@513 [G7]
+  Electric Piano 2       : G3+B3@1>1^104
+  Fretless Bass          : F#1@1>1^104
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@514 [Em]
+  Electric Piano 2       : E3+G3+B3+E4+G4+B4@1>3^104
+  Fretless Bass          : E1@1>3^104
+  String Ensemble 2      : E4@1>4^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@515 [B]
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F#2@1>1^80
+@516 [G]
+  Electric Piano 2       : E4+G4+B4@1>2^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@517 [Em]
+  Electric Piano 2       : E3+G3+B3+E4@1>1^104
+  Fretless Bass          : E1@1>1^104
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@518 [G]
+  Electric Piano 2       : D3+G3+B3+D4+G4+B4@1>2^104
+  Fretless Bass          : D2@1>3^104
+  String Ensemble 2      : D4@1>4^80
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@519 [B]
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : F#2@1>1^80
+@520 [G | D]
+  Electric Piano 2       : D3+G3+B3+D4+G4+B4@1>1^104
+  String Ensemble 1      : D5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@521 [Bm]
+  Fretless Bass          : D2@1>1^104
+  String Ensemble 1      : B4@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@522 [C]
+  Electric Piano 2       : C3+E3+G3+C4+E4+G4@1>7^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 2      : C4+E4@1>16^80
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@523 [G]
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@524 [C]
+  Electric Piano 2       : C4+E4+G4+C5@1>2^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@525 [C]
+  Electric Piano 2       : G3@1>2^104
+  Fretless Bass          : C2@1>1^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@526 [C]
+  Electric Piano 2       : C4+E4+G4@1>2^104
+  Fretless Bass          : C2@1>3^104
+  String Ensemble 1      : G5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@527 [Em]
+  Electric Piano 2       : E3@1>2^104
+  String Ensemble 1      : G4@1>1^80
+  Drums                  : F#2@1>1^80
+@528 [C]
+  Electric Piano 2       : C4+E4+G4@1>1^104
+  String Ensemble 1      : C5@1>1^80
+  Drums                  : E2+F#2+G3@1>1^104
+@529 [Em | E]
+  Electric Piano 2       : G3@1>1^104
+  Fretless Bass          : B1@1>1^104
+  String Ensemble 1      : E5@1>1^80
+  Drums                  : B1+F#2@1>1^104
+@530 [A] (grid:8)
+  Electric Piano 2       : A2+E3+C#4+E4+A4@1>8^104
+  Fretless Bass          : A1@1>6^104
+  String Ensemble 2      : A3+C#4@1>16^80
+  String Ensemble 1      : A4@1>2^80
+  Drums                  : B1+F#2@1>1^104 B1@2>1^104
+@531 [C#]
+  String Ensemble 1      : C#5@1>1^80
+  Drums                  : F2+F#2@1>1^80
+@532 [E] (grid:32)
+  String Ensemble 1      : E5@1>8^80
+  Drums                  : E2+F#2+G3@1>3^104 E2@2>1^104 A2@5>1^80
+@533 [A] (grid:8)
+  Fretless Bass          : E1@1>2^104
+  String Ensemble 1      : A5@1>2^80
+  Drums                  : B1+F#2+G2@1>1^104 F2@2>1^80
+@534 [A]
+  Electric Piano 2       : A2+E3+C#4+E4+A4@1>4^104
+  Fretless Bass          : A1@1>4^104
+  String Ensemble 1      : A4@1>4^80
+  Drums                  : B1+C#3@1>1^104
+@535 [-]
+@536 [-]
+@537 [-]
+@538 [D]
+  Electric Piano 2       : D3@1>3^104
+  Fretless Bass          : D2@1>4^104
+  Acoustic Guitar (steel): D3@1>3^80
+  Overdriven Guitar      : E5@1>4^104
+  String Ensemble 2      : D4+F#4+A4@1>8^80
+  FX 5 (brightness)      : D4@1>3^80
+  Drums                  : B1+A#2@1>1^104
+@539 [A]
+  Electric Piano 2       : A3@1>2^104
+  Acoustic Guitar (steel): A3@1>3^80
+  FX 5 (brightness)      : A4@1>3^80
+@540 [D]
+  Electric Piano 2       : D4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@541 [E]
+  Electric Piano 2       : E4@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  FX 5 (brightness)      : E5@1>1^80
+@542 [C#m]
+  Electric Piano 2       : C#3+C#4@1>3^104
+  Fretless Bass          : C#2@1>4^104
+  Acoustic Guitar (steel): C#3@1>4^80
+  Overdriven Guitar      : E5@1>3^104
+  String Ensemble 2      : C#4+E4@1>4^80
+  FX 5 (brightness)      : C#4@1>4^80
+@543 [A]
+  Electric Piano 2       : E3@1>2^104
+  Acoustic Guitar (steel): A3@1>3^80
+  FX 5 (brightness)      : A4@1>3^80
+@544 [A]
+  Electric Piano 2       : A3+E4@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  FX 5 (brightness)      : E5@1>1^80
+@545 [C#aug] (grid:8)
+  Electric Piano 2       : A4@1>4^104
+  Acoustic Guitar (steel): C#4@1>2^80
+  Overdriven Guitar      : D5@1>1^104 C#5@2>1^104
+  FX 5 (brightness)      : C#5@1>2^80
+@546 [Bm]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : D5@1>7^104
+  String Ensemble 2      : B3+D4+F#4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@547 [F#aug]
+  Electric Piano 2       : F#3+D4@1>3^104
+  Acoustic Guitar (steel): F#3@1>3^80
+  FX 5 (brightness)      : F#4@1>3^80
+@548 [B]
+  Electric Piano 2       : F#4@1>2^104
+  Acoustic Guitar (steel): B3@1>1^80
+  FX 5 (brightness)      : B4@1>1^80
+@549 [Bm]
+  Electric Piano 2       : F#3+B3@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@550 [A]
+  Electric Piano 2       : C#3+C#4@1>3^104
+  Fretless Bass          : C#2@1>4^104
+  Acoustic Guitar (steel): C#3@1>4^80
+  String Ensemble 2      : C#4+E4+A4@1>4^80
+  FX 5 (brightness)      : C#4@1>4^80
+@551 [E]
+  Electric Piano 2       : E3+E4@1>3^104
+  Acoustic Guitar (steel): E3@1>3^80
+  FX 5 (brightness)      : E4@1>3^80
+@552 [A]
+  Electric Piano 2       : A3+A4@1>2^104
+  Acoustic Guitar (steel): E4@1>1^80
+  FX 5 (brightness)      : E5@1>1^80
+@553 [C#m | C#] (grid:8)
+  Electric Piano 2       : C#4@1>1^104
+  Acoustic Guitar (steel): C#4@1>2^80
+  Overdriven Guitar      : E5@1>1^104 F5@2>1^104
+  FX 5 (brightness)      : C#5@1>2^80
+@554 [D]
+  Electric Piano 2       : D3+A3+D4@1>3^104
+  Fretless Bass          : D2@1>4^104
+  Acoustic Guitar (steel): D3@1>4^80
+  Overdriven Guitar      : E5@1>4^104
+  String Ensemble 2      : D4+F#4@1>4^80
+  FX 5 (brightness)      : D4@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@555 [F#m]
+  Electric Piano 2       : F#3+F#4@1>1^104
+  Acoustic Guitar (steel): A3@1>3^80
+  FX 5 (brightness)      : A4@1>3^80
+@556 [D]
+  Electric Piano 2       : A3@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@557 [E]
+  Electric Piano 2       : E4@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  FX 5 (brightness)      : E5@1>1^80
+@558 [A]
+  Electric Piano 2       : C#3+C#4+E4@1>3^104
+  Fretless Bass          : C#2@1>4^104
+  Acoustic Guitar (steel): C#3@1>4^80
+  Overdriven Guitar      : E5@1>3^104
+  String Ensemble 2      : C#4+E4+A4@1>4^80
+  FX 5 (brightness)      : C#4@1>4^80
+@559 [A]
+  Electric Piano 2       : E3@1>2^104
+  Acoustic Guitar (steel): A3@1>3^80
+  FX 5 (brightness)      : A4@1>3^80
+@560 [A]
+  Electric Piano 2       : A3+E4@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  FX 5 (brightness)      : E5@1>1^80
+@561 [C#aug] (grid:8)
+  Electric Piano 2       : A4@1>4^104
+  Acoustic Guitar (steel): C#4@1>2^80
+  Overdriven Guitar      : D5@1>1^104 C#5@2>1^104
+  FX 5 (brightness)      : C#5@1>2^80
+@562 [Bm]
+  Electric Piano 2       : B2+B3@1>3^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : D5@1>7^104
+  String Ensemble 2      : B3+D4+F#4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@563 [F#aug]
+  Electric Piano 2       : F#3+D4@1>3^104
+  Acoustic Guitar (steel): F#3@1>3^80
+  FX 5 (brightness)      : F#4@1>3^80
+@564 [B]
+  Electric Piano 2       : F#4@1>2^104
+  Acoustic Guitar (steel): B3@1>1^80
+  FX 5 (brightness)      : B4@1>1^80
+@565 [Bm]
+  Electric Piano 2       : F#3+B3@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@566 [A]
+  Electric Piano 2       : C#3+C#4@1>3^104
+  Fretless Bass          : C#2@1>4^104
+  Acoustic Guitar (steel): C#3@1>4^80
+  String Ensemble 2      : C#4+E4+A4@1>12^80
+  FX 5 (brightness)      : C#4@1>4^80
+@567 [E]
+  Electric Piano 2       : E3+E4@1>3^104
+  Acoustic Guitar (steel): E3@1>3^80
+  FX 5 (brightness)      : E4@1>3^80
+@568 [A]
+  Electric Piano 2       : A3+A4@1>2^104
+  Acoustic Guitar (steel): E4@1>1^80
+  FX 5 (brightness)      : E5@1>1^80
+@569 [C#m | C#] (grid:8)
+  Electric Piano 2       : C#4@1>1^104
+  Acoustic Guitar (steel): C#4@1>2^80
+  Overdriven Guitar      : E5@1>1^104 F5@2>1^104
+  FX 5 (brightness)      : C#5@1>2^80
+@570 [D]
+  Electric Piano 2       : D3+A3+D4@1>3^104
+  Fretless Bass          : D2@1>4^104
+  Acoustic Guitar (steel): D3@1>4^80
+  Overdriven Guitar      : E5@1>4^104
+  String Ensemble 2      : D4+F#4@1>4^80
+  FX 5 (brightness)      : D4@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@571 [F#m]
+  Electric Piano 2       : F#3+F#4@1>1^104
+  Acoustic Guitar (steel): A3@1>3^80
+  FX 5 (brightness)      : A4@1>3^80
+@572 [D]
+  Electric Piano 2       : A3@1>3^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@573 [E]
+  Electric Piano 2       : E4@1>1^104
+  Acoustic Guitar (steel): E4@1>1^80
+  FX 5 (brightness)      : E5@1>1^80
+@574 [C#m]
+  Electric Piano 2       : C#3+C#4@1>3^104
+  Fretless Bass          : C#2@1>4^104
+  Acoustic Guitar (steel): C#3@1>4^80
+  Overdriven Guitar      : E5@1>3^104
+  String Ensemble 2      : C#4+E4@1>4^80
+  FX 5 (brightness)      : C#4@1>4^80
+@575 [A]
+  Electric Piano 2       : E3+E4@1>2^104
+  Acoustic Guitar (steel): A3@1>3^80
+  FX 5 (brightness)      : A4@1>3^80
+@576 [A]
+  Electric Piano 2       : A3+A4@1>2^104
+  Acoustic Guitar (steel): E4@1>1^80
+  FX 5 (brightness)      : E5@1>1^80
+@577 [C#] (grid:8)
+  Electric Piano 2       : C#4@1>2^104
+  Acoustic Guitar (steel): C#4@1>2^80
+  Overdriven Guitar      : D5@1>1^104 C#5@2>1^104
+  FX 5 (brightness)      : C#5@1>2^80
+@578 [Bm]
+  Electric Piano 2       : B2+B3@1>4^104
+  Fretless Bass          : B1@1>4^104
+  Acoustic Guitar (steel): B2@1>4^80
+  Overdriven Guitar      : D5@1>4^104
+  String Ensemble 2      : B3+D4+F#4@1>4^80
+  FX 5 (brightness)      : B3@1>4^80
+  Drums                  : B1+A#2@1>1^104
+@579 [F#aug]
+  Electric Piano 2       : F#3+D4@1>3^104
+  Acoustic Guitar (steel): F#3@1>3^80
+  FX 5 (brightness)      : F#4@1>3^80
+@580 [B]
+  Electric Piano 2       : F#4@1>2^104
+  Acoustic Guitar (steel): B3@1>1^80
+  FX 5 (brightness)      : B4@1>1^80
+@581 [Bm]
+  Electric Piano 2       : B4@1>1^104
+  Acoustic Guitar (steel): D4@1>1^80
+  FX 5 (brightness)      : D5@1>1^80
+@582 [A]
+  Electric Piano 2       : C#3+C#4@1>3^104
+  Fretless Bass          : C#2@1>4^104
+  Acoustic Guitar (steel): C#3@1>4^80
+  Overdriven Guitar      : D5@1>4^104
+  String Ensemble 2      : C#4+E4+A4@1>4^80
+  FX 5 (brightness)      : C#4@1>4^80
+@583 [E] (grid:6t)
+  Electric Piano 2       : E3+E4@1>3^104
+  Acoustic Guitar (steel): E3@1>4^80
+  FX 5 (brightness)      : E4@1>4^80
+  Drums                  : B1@2>1^104
+@584 [A] (grid:32)
+  Electric Piano 2       : A3+A4@1>8^104
+  Acoustic Guitar (steel): A3@1>16^80
+  FX 5 (brightness)      : A4@1>16^80
+  Drums                  : E2@1>1^104 E2@2>1^104 B1@5>1^104
+@585 [C#m | E] (grid:8)
+  Electric Piano 2       : C#4@1>1^104
+  Acoustic Guitar (steel): E4@1>2^80
+  FX 5 (brightness)      : E5@1>2^80
+  Drums                  : A2@1>1^80 G2@2>1^80
+@586 [D]
+  Electric Piano 2       : D3+F#3+A3+D4+F#4+A4@1>8^104
+  Fretless Bass          : D1@1>8^104
+  Acoustic Guitar (steel): D3+A3+D4@1>8^80
+  Overdriven Guitar      : D5@1>8^104
+  String Ensemble 2      : A3+D4+F#4@1>8^80
+  FX 5 (brightness)      : D4+F#4+A4+D5@1>8^80
+  Drums                  : C#3@1>1^104
+@587 [-]
+@588 [-]
+@589 [-]
+@590 [-]
+@591 [-]
+@592 [-]
+@593 [-]

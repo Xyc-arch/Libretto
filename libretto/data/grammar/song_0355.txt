@@ -1,0 +1,976 @@
+KEY: A major | METER: 4/4 | TEMPO: 129 | GRID: 12t (adaptive) | BARS: 138
+VOICES: Acoustic Bass[prog=32], String Ensemble 1[prog=48], Overdriven Guitar[prog=29], Choir Aahs[prog=52], Whistle[prog=78], Trombone[prog=57], Muted Trumpet[prog=59], Acoustic Grand Piano[prog=0], Drums[drums], Acoustic Grand Piano#2[prog=0]
+@1 [-]
+@2 [D] (grid:4)
+  String Ensemble 1     : D2+A3+D4+F#4@1>3^56
+  Acoustic Grand Piano  : D2+A3+D4+F#4@1>3^80
+@3 [D]
+  Overdriven Guitar     : A4@7>2^104 B4@9>4^80
+  Acoustic Grand Piano  : D2+A3+D4+F#4@1>7^104 D3@4>5^80 A3+D4+F#4@7>5^104 D3@10>10^104
+@4 [F#dim | D7] (grid:8)
+  String Ensemble 1     : D4@5>1^80 E4@6>1^80 D4@7>1^80 A3@8>1^80
+  Overdriven Guitar     : F#4@1>8^80
+  Acoustic Grand Piano  : A3+C4+F#4@1>3^104 A3+C4+F#4@5>2^104 D3@7>2^80
+@5 [Am7]
+  String Ensemble 1     : C4@1>8^80
+  Overdriven Guitar     : A4@10>2^104 B4@12>1^104
+  Acoustic Grand Piano  : A2+A3+C4+E4+G4@1>7^80 A3+C4+E4+G4@7>5^104
+@6 [Am]
+  Overdriven Guitar     : C5@1>2^104 B4@4>2^80 A4@6>4^80 B4@10>3^80
+  Acoustic Grand Piano  : A2+A3+C4+E4+G4@1>7^104 A3+C4+E4+G4@7>5^80 A2@10>3^80
+  Drums                 : G#2@1>1^104 E2@3>1^104 G#2@4>1^104 G#2@7>1^104 F2@8>1^80 A2@9>1^104 F2+G#2@10>1^104
+@7 [G]
+  Acoustic Bass         : G1@1>9^80 G1@12>1^80
+  Overdriven Guitar     : G4@1>9^104 A4@10>2^80 D4@12>11^80
+  Acoustic Grand Piano  : G2+B3+D4+G4@1>8^104 B3+D4+G4@7>5^104 G2@10>9^80
+  Drums                 : B1+F#2@1>1^80 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@8 [G]
+  Acoustic Bass         : G1@1>9^80 G1@12>8^104
+  String Ensemble 1     : B3@9>1^80 D4@10>1^104 F#4@11>1^80
+  Acoustic Grand Piano  : B3+D4+G4@1>5^104 B3+D4+G4@7>3^104 G2@10>10^80
+  Drums                 : B1+F#2@1>1^80 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@9 [Gm7]
+  Acoustic Bass         : G1@10>3^80
+  String Ensemble 1     : A4@1>3^80 G4@4>10^80
+  Overdriven Guitar     : G4@10>2^104 A4@12>1^104
+  Acoustic Grand Piano  : G3+A#3+D4+F4@1>6^104 G3+A#3+D4+F4@7>5^104 G2@10>2^104
+  Drums                 : B1+F#2@1>1^80 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@10 [A#m]
+  Acoustic Bass         : A#1@1>7^80 A#1@10>3^80
+  Overdriven Guitar     : A#4@1>8^104 A4@9>2^104 G4@11>1^104 F4@12>1^104
+  Acoustic Grand Piano  : A#2+A#3+C#4+F4@1>7^104 A#3+C#4+F4@7>3^104 A#2@10>3^80
+  Drums                 : B1+F#2@1>1^80 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@11 [F] (grid:4)
+  Acoustic Bass         : F1@1>2^104 F2@3>2^104
+  String Ensemble 1     : F4+A4+C5@1>5^56
+  Overdriven Guitar     : A4@1>6^104
+  Acoustic Grand Piano  : F2+A3+C4+F4@1>2^104 A3+C4+F4@3>2^104 F2@4>3^104
+  Drums                 : B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^104 F#2@4>1^80
+@12 [Am | F] (grid:8)
+  Acoustic Bass         : E2@1>4^80 F1@5>4^80
+  String Ensemble 1     : E4@1>4^56 E5@5>1^104 F5@6>1^80 E5@7>1^104 A4@8>1^80
+  Acoustic Grand Piano  : A3+C4+E4+F4@1>3^104 A3+C4+E4+F4@5>3^104 F2@7>2^104
+  Drums                 : B1+F#2@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 F#2@7>1^80
+@13 [Am]
+  Acoustic Bass         : A1@1>8^104 A1@10>2^80
+  String Ensemble 1     : C5@1>21^80
+  Overdriven Guitar     : C5@10>1^104 D5@12>1^104
+  Acoustic Grand Piano  : A2+A3+C4+E4@1>6^104 A3+C4+E4@7>5^104 A2@10>3^80
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@14 [C]
+  Acoustic Bass         : G1@1>7^80 G1@10>3^80
+  Overdriven Guitar     : F5@1>2^104 E5@4>1^104 D5@6>3^104 C5@9>4^104
+  Acoustic Grand Piano  : G2+G3+C4+E4@1>7^104 G3+C4+E4@7>5^104 G2@10>3^104
+  Drums                 : B1+F#2@1>1^80 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@15 [F#m7] (grid:24t)
+  Acoustic Bass         : F#1@1>13^80 F#1@19>6^80
+  Overdriven Guitar     : F5@2>5^104 E5@7>6^104 D5@14>5^104 C5@19>6^104
+  Acoustic Grand Piano  : F#2+A3+C4+E4@1>16^104 A3+C4+E4@13>9^104 F#2@19>6^104
+  Drums                 : B1+F#2@1>1^80 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80
+@16 [E] (grid:4)
+  Acoustic Bass         : E1@1>2^80 E2@3>2^80
+  String Ensemble 1     : A3+B3+E4@1>9^56
+  Overdriven Guitar     : B4@1>4^104
+  Acoustic Grand Piano  : E2+A3+B3+E4@1>2^104 A3+B3+E4@3>2^104 E2@4>1^80
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 B1+F#2@3>1^104 F#2@4>1^80
+@17 [A | C#dim] (grid:16)
+  Acoustic Bass         : A1@1>7^80 G1@9>8^80
+  String Ensemble 1     : C#4@1>8^56 G3@9>8^80
+  Overdriven Guitar     : C5@1>1^80 C#5@2>20^80
+  Acoustic Grand Piano  : A2+A3+C#4+E4@1>30^104 G2+G3@9>8^104
+  Drums                 : B1+F#2@1>1^104 F#2@5>1^80 B1+F#2@9>1^104 F#2@13>1^80
+@18 [F | E] (grid:4)
+  Acoustic Bass         : F1@1>2^80 E1+E2@3>2^80
+  String Ensemble 1     : F3@1>2^80 E3@3>1^80
+  Overdriven Guitar     : D5@3>1^104 E5@4>1^104
+  Acoustic Grand Piano  : F2+F3@1>2^104 E2+E3+E4@3>2^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 B1+F#2@3>1^104 F#2@4>1^80
+@19 [Dm] (grid:4)
+  Acoustic Bass         : D2@1>2^104 D2@4>1^104
+  String Ensemble 1     : A4+D5@1>8^80
+  Overdriven Guitar     : F5@1>2^104 D5@3>2^104
+  Choir Aahs            : D4+F4+A4@1>8^80
+  Acoustic Grand Piano  : D2+A3+F4@1>3^104 D3@2>2^104 A3+F4@3>3^104 D2@4>3^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: D4+F4+A4@1>8^32
+@20 [D | Dm] (grid:16)
+  Acoustic Bass         : D2@1>9^104 D2@13>4^104
+  Overdriven Guitar     : A4@1>13^104
+  Acoustic Grand Piano  : D3@1>9^104 A3@5>8^104 D4+F4@9>4^104 D2+D3@13>3^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^80 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+@21 [E] (grid:4)
+  Acoustic Bass         : E1@1>2^104 E2@3>1^104 E1@4>1^80
+  String Ensemble 1     : B4+E5@1>8^80
+  Overdriven Guitar     : F5@1>2^104 E5@3>2^104
+  Choir Aahs            : E4+G#4+B4@1>14^80
+  Acoustic Grand Piano  : E2+A3+B3+E4@1>2^104 E3@2>2^104 A3+B3+E4@3>4^104 E2@4>3^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: E4+G#4+B4@1>14^32
+@22 [E] (grid:16)
+  Acoustic Bass         : E1@1>8^104 E2@9>4^104 E1@13>4^104
+  Overdriven Guitar     : B4@1>14^104
+  Acoustic Grand Piano  : G#3+E4@1>6^104 E3@5>5^80 G#3+B3+E4@9>6^104 E2+E3@13>3^80
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^80 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+@23 [A] (grid:4)
+  Acoustic Bass         : A1@1>2^104 A2@3>1^80 A1@4>1^104
+  String Ensemble 1     : A4+C#5@1>16^80
+  Overdriven Guitar     : E5@2>2^104 C#5@4>1^104
+  Choir Aahs            : A4@1>23^80
+  Acoustic Grand Piano  : A2+A3+C#4+E4@1>4^104 A3+E4@3>2^80 A2@4>3^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: A4@1>23^32
+@24 [A] (grid:24t)
+  Acoustic Bass         : A1@1>14^104 A1@19>5^104
+  Overdriven Guitar     : A4@2>6^104 A4@9>8^104 A4@19>6^104
+  Acoustic Grand Piano  : G3+C#4+E4@1>10^104 G3+C#4+E4@13>6^104 A2@19>5^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@7>1^80 E2@9>1^104 E2@11>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+@25 [Dm] (grid:24t)
+  Acoustic Bass         : D2@1>12^104 D2@19>1^104
+  String Ensemble 1     : D5@1>138^32
+  Overdriven Guitar     : A#4@1>6^104 A4@8>3^80 G4@11>2^80 A4@14>26^104
+  Choir Aahs            : F4+D5@1>48^56
+  Acoustic Grand Piano  : D2+A3+D4+F4@1>27^104 D3@13>18^104 A3@19>25^80
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: F4+D5@1>48^32
+@26 [D | Dm] (grid:16)
+  Acoustic Bass         : D2@1>10^104
+  Acoustic Grand Piano  : D4@1>12^104 D2@5>10^104 F4@9>5^104 D3@13>3^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^80 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+@27 [D] (grid:4)
+  Acoustic Bass         : D2@1>2^104 D2@4>1^104
+  String Ensemble 1     : F#5@1>8^80
+  Overdriven Guitar     : D5@1>2^104 A4@3>2^104
+  Choir Aahs            : F#4@1>8^56
+  Acoustic Grand Piano  : D3+A3+F#4@1>2^104 A3@2>1^80 A3+D4@3>2^104 D3@4>1^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: F#4@1>8^32
+@28 [F#dim] (grid:24t)
+  Acoustic Bass         : C2@1>13^104 C2@19>6^80
+  Overdriven Guitar     : F#4@1>19^104 C5@20>5^104
+  Acoustic Grand Piano  : C3@1>16^104 A3@7>13^104 C4+F#4@13>8^104 C3@19>5^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@7>1^80 E2@9>1^80 E2@11>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+@29 [Gm] (grid:8)
+  Acoustic Bass         : A#1@1>5^80 A#1@7>1^104
+  String Ensemble 1     : G5@1>14^56 A#4@7>8^56
+  Overdriven Guitar     : C5@1>2^104 A#4@3>1^80 A4@4>1^104 A#4@5>6^104
+  Choir Aahs            : G4+A#4+D5@1>16^80
+  Acoustic Grand Piano  : A#2@1>5^104 A#3@3>1^80 A#3+D4+G4@5>5^104 A#2@7>7^104
+  Drums                 : B1+F#2@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 B1+F#2@7>1^104
+  Acoustic Grand Piano#2: G4+A#4+D5@1>16^32
+@30 [A# | Gm] (grid:24t)
+  Acoustic Bass         : A#1@1>12^80 A#1@19>6^80
+  Overdriven Guitar     : F4@13>2^104 G4@16>3^104 A4@20>5^104
+  Acoustic Grand Piano  : A#3@1>16^80 D4@7>9^104 G4@13>3^104 A#2@19>6^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@7>1^80 E2@9>1^80 E2@11>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+@31 [A#] (grid:24t)
+  Acoustic Bass         : F1@1>12^104 F2@13>12^104
+  String Ensemble 1     : F5@1>47^56 A#4@16>8^80
+  Overdriven Guitar     : A#4@2>18^104 A4@20>22^80
+  Choir Aahs            : F4+A#4@1>48^56
+  Acoustic Grand Piano  : F2+F3+A#3+C4@1>14^104 F3+A#3+C4@13>11^104 F2@19>20^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: F4+A#4@1>48^32
+@32 [F] (grid:16)
+  Acoustic Bass         : F1@1>8^80 F2@9>4^80 F1@13>4^80
+  String Ensemble 1     : A4@1>31^32
+  Choir Aahs            : A4@1>16^56
+  Acoustic Grand Piano  : F3+A3+C4@1>7^104 F3+A3+C4@9>4^104 F2@13>4^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^80 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+  Acoustic Grand Piano#2: A4@1>16^32
+@33 [Dm]
+  Acoustic Bass         : D2@1>8^104 D2@10>3^80
+  String Ensemble 1     : D5@1>11^80
+  Overdriven Guitar     : F5@1>9^104 E5@11>1^104 D5@12>1^104
+  Choir Aahs            : F4+A4@1>28^80
+  Acoustic Grand Piano  : D3@1>7^104 A3@4>3^104 A3+C4+D4+F4@7>4^104 D3@10>3^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 B1+F#2@10>1^104
+  Acoustic Grand Piano#2: F4+A4@1>28^32
+@34 [E] (grid:16)
+  Acoustic Bass         : B1@1>10^80 B1@13>5^80
+  String Ensemble 1     : A4+B4+E5@1>20^80
+  Overdriven Guitar     : E5@1>19^104
+  Choir Aahs            : E4+B4@1>41^80
+  Acoustic Grand Piano  : E2+A3+B3+E4@1>9^104 A3+B3+E4@9>8^104 E2@13>13^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^104 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+  Acoustic Grand Piano#2: E4+B4@1>41^32
+@35 [E7] (grid:4)
+  Acoustic Bass         : B1@2>2^80
+  String Ensemble 1     : G#4@1>1^80 B4@2>1^104 C#5@3>1^104 D5@4>1^104
+  Choir Aahs            : G#4@3>4^56
+  Whistle               : B5@2>1^80 C#6@3>1^104 D6@4>1^104
+  Acoustic Grand Piano  : G#3+B3+E4@1>2^104 G#3+B3+E4@3>2^104 E2@4>2^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: G#4@3>4^32
+@36 [E]
+  Acoustic Bass         : E1@1>6^104 E2@7>5^104
+  String Ensemble 1     : F5@1>3^104 E5@4>3^104 B4@7>6^104
+  Whistle               : F6@1>3^104 E6@4>3^80 B5@7>4^104
+  Drums                 : B1+C#3@1>1^80 E2@3>1^104 E2@4>1^104 E2@5>1^104 E2@6>1^104 E2@7>1^104 G2@8>1^80 G2@9>1^80 A2@10>1^104 F2@11>1^104 F2@12>1^104
+@37 [A]
+  Acoustic Bass         : A1@1>7^104 A1@10>3^104
+  String Ensemble 1     : C#5+E5@1>48^80
+  Overdriven Guitar     : A4@7>2^104 B4@10>2^104 C#5@12>2^104
+  Choir Aahs            : A4+C#5@1>48^80
+  Trombone              : A2@1>12^104
+  Acoustic Grand Piano  : A1+A2@1>12^104
+  Drums                 : B1+C#3@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: A4+C#5@1>48^32
+@38 [C#m | C#] (grid:24t)
+  Acoustic Bass         : G#1@1>13^104 G#1@19>6^104
+  String Ensemble 1     : G#4@1>22^80
+  Overdriven Guitar     : E5@2>5^104 D5@8>3^104 C#5@12>17^104
+  Choir Aahs            : G#4@1>24^80
+  Trombone              : G#2@1>24^104
+  Acoustic Grand Piano  : G#1+G#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: G#4@1>24^32
+@39 [F# | F#m]
+  Acoustic Bass         : F#1@1>10^104
+  String Ensemble 1     : F#4@1>25^80
+  Overdriven Guitar     : A4@7>2^104 B4@9>2^104 C#5@11>2^104
+  Choir Aahs            : F#4@1>24^80
+  Trombone              : F#2@1>24^104
+  Acoustic Grand Piano  : F#1+F#2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: F#4@1>24^32
+@40 [A#aug | F#] (grid:24t)
+  Acoustic Bass         : F#1@1>12^104 F#2@13>10^104
+  String Ensemble 1     : A#4@1>21^80
+  Overdriven Guitar     : D5@2>6^104 C#5@8>5^104 B4@14>6^104 C#5@20>3^104
+  Choir Aahs            : A#4@1>24^80
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@41 [Bm] (grid:24t)
+  Acoustic Bass         : B1@1>12^80 B1@19>5^104
+  String Ensemble 1     : B4+D5@1>75^80
+  Overdriven Guitar     : B4@13>4^104 C#5@18>3^104 D5@21>3^104
+  Choir Aahs            : F#4+B4@1>67^80
+  Trombone              : B2@1>24^104
+  Acoustic Grand Piano  : B1+B2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: F#4+B4@1>67^32
+@42 [A#aug | A#] (grid:8)
+  Acoustic Bass         : A#1@1>4^104 A#1@7>2^104
+  String Ensemble 1     : A#4@1>8^80
+  Overdriven Guitar     : F#5@1>2^104 E5@3>1^104 D5@4>6^104
+  Choir Aahs            : A#4@1>8^80
+  Trombone              : A#2@1>8^104
+  Acoustic Grand Piano  : A#1+A#2@1>8^104
+  Drums                 : F#2@1>1^80 E2@2>1^80 B1+F#2@3>1^80 B1@4>1^104 E2+F#2@5>1^104 B1+F#2@7>1^104
+  Acoustic Grand Piano#2: A#4@1>8^32
+@43 [G#m | Bm] (grid:8)
+  Acoustic Bass         : B1@1>4^104 B1@7>2^104
+  String Ensemble 1     : B4@1>7^80 G#4@2>1^32 F#4@6>2^80
+  Overdriven Guitar     : B4@5>1^104 C#5@7>1^104 D5@8>1^104
+  Choir Aahs            : B4@1>23^104
+  Trombone              : B2@1>8^104
+  Acoustic Grand Piano  : B1+B2@1>8^104
+  Drums                 : B1+F#2@1>1^104 B1+F#2@3>1^104 E2+F#2@5>1^104 F#2@7>1^80 E2@8>1^104
+  Acoustic Grand Piano#2: B4@1>23^32
+@44 [E] (grid:24t)
+  Acoustic Bass         : E1@1>12^104 E2@13>18^104
+  String Ensemble 1     : E4+G#4+B4@1>36^104
+  Overdriven Guitar     : F#5@2>5^104 E5@8>5^104 E5@14>5^104 D#5@19>5^104
+  Choir Aahs            : G#4@1>48^104
+  Trombone              : E2@1>24^104
+  Acoustic Grand Piano  : E1+E2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: G#4@1>48^32
+@45 [E]
+  Acoustic Bass         : E1@4>3^104 E2@7>3^104 E1@10>3^104
+  Overdriven Guitar     : F#5@1>3^104 E5@4>2^104 E5@7>3^104 D5@10>2^104
+  Trombone              : E3@1>12^104
+  Acoustic Grand Piano  : E2+E3@1>12^104
+  Drums                 : E2+G#2@1>1^104 E2@2>1^80 E2@3>1^104 E2+G#2@4>1^104 E2@5>1^104 E2@6>1^104 E2+G#2@7>1^104 C3@8>1^104 F2@9>1^80 G#2+A2@10>1^104 F2@11>1^104 A2@12>1^104
+@46 [A]
+  Acoustic Bass         : A1@1>7^104 A1@10>3^104
+  String Ensemble 1     : A4+C#5@1>48^80
+  Overdriven Guitar     : A4@8>2^104 B4@10>1^104 C#5@12>1^104
+  Choir Aahs            : A4+C#5@1>47^104
+  Trombone              : A2@1>12^104
+  Muted Trumpet         : C#5+E5+A5@7>1^104
+  Acoustic Grand Piano  : A1+A2@1>12^104
+  Drums                 : B1+C#3@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: A4+C#5@1>47^32
+@47 [C#m] (grid:24t)
+  Acoustic Bass         : G#1@1>14^104 G#1@19>6^104
+  String Ensemble 1     : G#4@1>25^80
+  Overdriven Guitar     : E5@2>6^104 D5@8>3^104 C#5@11>16^104
+  Choir Aahs            : G#4@1>24^80
+  Trombone              : G#2@1>24^104
+  Muted Trumpet         : C#5+E5+G#5@13>9^104
+  Acoustic Grand Piano  : G#1+G#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: G#4@1>24^32
+@48 [F#m]
+  Acoustic Bass         : F#1@1>7^104 F#1@11>1^104
+  String Ensemble 1     : F#4@1>22^80
+  Overdriven Guitar     : A4@7>3^104 B4@10>2^104 C#5@12>1^104
+  Choir Aahs            : F#4@1>59^80
+  Trombone              : F#2@1>24^104
+  Muted Trumpet         : A4+C#5+F#5@1>10^80
+  Acoustic Grand Piano  : F#1+F#2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: F#4@1>59^32
+@49 [F#] (grid:24t)
+  Acoustic Bass         : F#1@1>12^104 F#2@13>6^104 F#1@19>6^104
+  String Ensemble 1     : A#4@1>23^80
+  Overdriven Guitar     : D5@2>6^104 C#5@8>5^104 B4@14>6^104 C#5@20>3^104
+  Choir Aahs            : A#4@1>24^80
+  Muted Trumpet         : A#4+C#5+F#5@1>20^80
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@50 [Bm] (grid:24t)
+  Acoustic Bass         : B1@1>14^104 B1@19>5^104
+  String Ensemble 1     : B4+D5@1>69^104
+  Overdriven Guitar     : B4@13>4^104 C#5@18>2^104 D5@22>2^104
+  Choir Aahs            : B4@1>24^104
+  Trombone              : B2@1>24^104
+  Muted Trumpet         : B4+D5+F#5@13>2^104
+  Acoustic Grand Piano  : B1+B2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: B4@1>24^32
+@51 [A#aug] (grid:24t)
+  Acoustic Bass         : A#1@1>14^104 A#1@19>6^80
+  String Ensemble 1     : A#4@1>25^80
+  Overdriven Guitar     : F#5@3>4^104 E5@8>2^104 D5@11>16^104
+  Choir Aahs            : A#4@1>24^80
+  Trombone              : A#2@1>24^104
+  Muted Trumpet         : A#4+D5+F#5@13>3^104
+  Acoustic Grand Piano  : A#1+A#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@52 [B | Bm] (grid:8)
+  Acoustic Bass         : B1@1>6^104 B1@8>1^104
+  String Ensemble 1     : B4@1>8^80
+  Overdriven Guitar     : B4@5>2^104 C#5@7>1^104 D5@8>1^104
+  Choir Aahs            : B4@1>22^104
+  Trombone              : B2@1>8^104
+  Muted Trumpet         : B4+D5+F#5@5>1^104
+  Acoustic Grand Piano  : B1+B2@1>8^104
+  Drums                 : B1+F#2@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 B1+F#2@7>1^80
+  Acoustic Grand Piano#2: B4@1>22^32
+@53 [E] (grid:24t)
+  Acoustic Bass         : E1@1>12^104 E2@13>18^104
+  String Ensemble 1     : E4+G#4+B4@1>39^104
+  Overdriven Guitar     : F#5@2>5^104 E5@8>5^104 E5@14>5^104 D#5@19>4^104
+  Choir Aahs            : E4+G#4@1>48^80
+  Trombone              : E2@1>24^104
+  Muted Trumpet         : G#4+B4+E5@13>1^104
+  Acoustic Grand Piano  : E1+E2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: E4+G#4@1>48^32
+@54 [E]
+  Acoustic Bass         : E1@4>3^80 E2@7>3^80
+  Overdriven Guitar     : F#5@1>3^104 E5@4>2^104 E5@7>2^104 D5@10>2^104
+  Trombone              : E3@1>12^104
+  Muted Trumpet         : F#5@1>3^104 E5@4>3^104 E5@7>3^104 D5@10>3^104
+  Acoustic Grand Piano  : E2+E3@1>12^104
+  Drums                 : E2+G#2@1>1^104 E2@2>1^80 E2@3>1^104 E2+G#2@4>1^104 E2@5>1^104 E2@6>1^104 E2+G#2@7>1^104 C3@8>1^104 F2@9>1^80 G#2+A2@10>1^104 F2@11>1^104 A2@12>1^104
+@55 [A] (grid:8)
+  Acoustic Bass         : A1@1>5^104 A1@7>2^104
+  String Ensemble 1     : A5@1>1^104 B5@2>1^104 C#6@3>1^104 D6@4>1^104 E6@5>4^104
+  Choir Aahs            : A4+C#5@1>30^104
+  Muted Trumpet         : A4@1>1^104 B4@2>1^104 C#5@3>1^104 D5@4>1^104 E5@5>4^104
+  Acoustic Grand Piano  : A2+A3+E4@1>4^104 A3@3>1^104 A3+C#4+E4@5>8^104 A2@7>2^104 C#4@8>5^80
+  Drums                 : B1+C#3@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 F#2@7>1^80 E2@8>1^104
+  Acoustic Grand Piano#2: A4+C#5@1>30^32
+@56 [G#dim | C#m] (grid:8)
+  Acoustic Bass         : G#1@1>5^104 G#1@7>2^104
+  String Ensemble 1     : A5@1>1^104 B5@2>1^104 C#6@3>1^104 D6@4>1^104 E6@5>4^104
+  Choir Aahs            : G#4@1>8^80
+  Muted Trumpet         : A4@1>1^104 B4@2>1^104 C#5@3>1^80 D5@4>1^80 E5@5>4^80
+  Acoustic Grand Piano  : G#2+G#3@1>5^104 G#3+C#4+E4@5>4^104 G#2@7>2^104
+  Drums                 : B1+F#2@1>1^104 E2@2>1^80 B1+F#2@3>1^80 B1@4>1^104 E2+F#2@5>1^104 F#2@7>1^80 B1@8>1^104
+  Acoustic Grand Piano#2: G#4@1>8^32
+@57 [C#dim] (grid:8)
+  Acoustic Bass         : G1@1>16^104
+  String Ensemble 1     : A5@1>1^104 B5@2>1^104 C#6@3>1^104 D6@4>1^104 E6@5>6^80
+  Choir Aahs            : G4@1>16^80
+  Muted Trumpet         : A4@1>1^104 B4@2>1^80 C#5@3>1^80 D5@4>1^80 E5@5>6^80
+  Acoustic Grand Piano  : G2+G3+C#4+E4@1>9^104 G3+C#4@5>5^104 G2@7>10^104
+  Drums                 : B1+F#2@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 F#2@7>1^80 E2@8>1^104
+  Acoustic Grand Piano#2: G4@1>16^32
+@58 [C#dim] (grid:8)
+  String Ensemble 1     : A5+C#6@3>2^104 B5+D6@5>2^104 A5+C#6@7>2^80
+  Muted Trumpet         : C#5@3>2^80 D5@5>2^80 C#5@7>12^80
+  Acoustic Grand Piano  : G3@1>8^104 C#4@3>7^56
+  Drums                 : F#2@1>1^80 E2@2>1^80 B1+F#2@3>1^80 B1@4>1^104 E2+F#2@5>1^104 B1+F#2@7>1^104
+@59 [Gdim] (grid:64)
+  Acoustic Bass         : G1@1>127^80
+  String Ensemble 1     : G3+G4+A4+C#5+A5+C#6@1>96^80
+  Acoustic Grand Piano  : G2+G3@1>46^104 A3@5>104^104 C#4@9>50^104
+  Drums                 : B1+C#3@2>1^104 B3@19>1^32 D#3@20>1^32 A#2@23>1^56 D#3+B3@26>1^56 A#2@31>1^56 D#3+B3@33>1^56 A#2@38>1^56 D#3+B3@40>1^56 A#2@44>1^56 D#3@47>1^56 A#2@51>1^56 D#3@53>1^56 A#2@57>1^56 D#3@59>1^56 A#2@63>1^56
+@60 [G] (grid:32)
+  Acoustic Grand Piano  : G2@1>23^56
+  Drums                 : D#3@1>1^56 A#2@3>1^56 D#3@5>1^56 A#2@6>1^56 D#3@8>1^56 A#2@9>1^56 D#3@11>1^56 A#2@12>1^80 B3@13>1^56 D#3@14>1^56
+@61 [D]
+  Overdriven Guitar     : A4@7>2^80 B4@9>4^80
+  Acoustic Grand Piano  : D2+A3+D4+F#4@1>7^104 D3@4>5^80 A3+D4+F#4@7>5^104 D3@10>10^104
+@62 [F#dim | D7] (grid:8)
+  String Ensemble 1     : D4@5>1^80 E4@6>1^80 D4@7>1^80 A3@8>1^80
+  Overdriven Guitar     : F#4@1>8^80
+  Acoustic Grand Piano  : A3+C4+F#4@1>3^80 A3+C4+F#4@5>2^104 D3@7>2^104
+@63 [Am7]
+  String Ensemble 1     : C4@1>8^80
+  Overdriven Guitar     : A4@10>2^80 B4@12>1^104
+  Acoustic Grand Piano  : A2+A3+C4+E4+G4@1>6^80 A3+C4+E4+G4@7>5^104
+@64 [Am]
+  Overdriven Guitar     : C5@1>2^104 B4@4>2^80 A4@6>4^80 B4@10>3^104
+  Acoustic Grand Piano  : A2+A3+C4+E4+G4@1>7^104 A3+C4+E4+G4@7>5^80 A2@10>3^80
+  Drums                 : G#2@1>1^104 E2@3>1^104 G#2@4>1^104 G#2@7>1^104 F2@8>1^80 A2@9>1^104 F2+G#2@10>1^104
+@65 [G]
+  Acoustic Bass         : G1@1>9^104 G1@12>1^80
+  Overdriven Guitar     : G4@1>9^104 A4@10>2^80 D4@12>11^80
+  Acoustic Grand Piano  : G2+B3+D4+G4@1>8^104 B3+D4+G4@7>5^104 G2@10>9^80
+  Drums                 : B1+F#2@1>1^80 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@66 [G]
+  Acoustic Bass         : G1@1>9^80 G1@12>8^104
+  String Ensemble 1     : B3@9>1^104 D4@10>1^104 F#4@11>1^80
+  Acoustic Grand Piano  : B3+D4+G4@1>5^104 B3+D4+G4@7>3^104 G2@10>10^80
+  Drums                 : B1+F#2@1>1^80 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@67 [Gm7]
+  Acoustic Bass         : G1@10>3^80
+  String Ensemble 1     : A4@1>3^80 G4@4>10^80
+  Overdriven Guitar     : G4@10>2^104 A4@12>1^104
+  Acoustic Grand Piano  : G3+A#3+D4+F4@1>6^104 G3+A#3+D4+F4@7>5^104 G2@10>2^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@68 [A#m]
+  Acoustic Bass         : A#1@1>7^80 A#1@10>3^80
+  Overdriven Guitar     : A#4@1>8^104 A4@9>2^104 G4@11>1^104 F4@12>1^104
+  Acoustic Grand Piano  : A#2+A#3+C#4+F4@1>7^104 A#3+C#4+F4@7>3^104 A#2@10>3^80
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@69 [F] (grid:4)
+  Acoustic Bass         : F1@1>2^80 F2@3>2^104
+  String Ensemble 1     : F4+A4+C5@1>5^56
+  Overdriven Guitar     : A4@1>3^104
+  Acoustic Grand Piano  : F2+A3+C4+F4@1>2^104 A3+C4+F4@3>2^104 F2@4>3^104
+  Drums                 : B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^104 F#2@4>1^80
+@70 [Am | F] (grid:8)
+  Acoustic Bass         : E2@1>4^80 F1@5>4^80
+  String Ensemble 1     : E4@1>4^56 E5@5>1^104 F5@6>1^104 E5@7>1^80 A4@8>1^80
+  Acoustic Grand Piano  : A3+C4+E4+F4@1>3^104 A3+C4+E4+F4@5>3^80 F2@7>2^104
+  Drums                 : B1+F#2@1>1^80 F#2@3>1^80 E2+F#2@5>1^104 F#2@7>1^80
+@71 [Am]
+  Acoustic Bass         : A1@1>8^104 A1@10>2^80
+  String Ensemble 1     : C5@1>21^80
+  Overdriven Guitar     : C5@10>1^104 D5@12>1^104
+  Acoustic Grand Piano  : A2+A3+C4+E4@1>6^104 A3+C4+E4@7>5^104 A2@10>3^80
+  Drums                 : B1+F#2@1>1^80 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@72 [C]
+  Acoustic Bass         : G1@1>7^104 G1@10>3^80
+  Overdriven Guitar     : F5@1>2^104 E5@4>1^80 D5@6>3^104 C5@9>4^104
+  Acoustic Grand Piano  : G2+G3+C4+E4@1>7^104 G3+C4+E4@7>5^104 G2@10>3^80
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80
+@73 [F#m7] (grid:24t)
+  Acoustic Bass         : F#1@1>13^104 F#1@19>6^80
+  Overdriven Guitar     : F5@2>5^104 E5@7>6^104 D5@14>5^104 C5@19>6^104
+  Acoustic Grand Piano  : F#2+A3+C4+E4@1>16^104 A3+C4+E4@13>9^104 F#2@19>6^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80
+@74 [E] (grid:8)
+  Acoustic Bass         : E1@1>4^80 E2@5>4^80
+  String Ensemble 1     : A3+B3@1>12^56 E4@2>19^32
+  Overdriven Guitar     : B4@1>8^104
+  Acoustic Grand Piano  : E2+A3+B3+E4@1>4^104 A3+B3+E4@5>3^104 E2@7>2^80
+  Drums                 : B1+F#2@1>1^104 F#2@3>1^80 B1+F#2@5>1^104 F#2@7>1^80
+@75 [A | C#dim] (grid:16)
+  Acoustic Bass         : A1@1>7^80 G1@9>8^80
+  String Ensemble 1     : C#4@1>8^56 G3@9>8^80
+  Overdriven Guitar     : C5@1>1^80 C#5@2>20^80
+  Acoustic Grand Piano  : A2+A3+C#4+E4@1>30^104 G2+G3@9>8^104
+  Drums                 : B1+F#2@1>1^104 F#2@5>1^80 B1+F#2@9>1^104 F#2@13>1^80
+@76 [F | E] (grid:4)
+  Acoustic Bass         : F1@1>2^80 E1+E2@3>2^80
+  String Ensemble 1     : F3@1>2^80 E3@3>1^80
+  Overdriven Guitar     : D5@3>1^104 E5@4>1^104
+  Acoustic Grand Piano  : F2+F3@1>2^104 E2+E3+E4@3>2^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 B1+F#2@3>1^104 F#2@4>1^80
+@77 [Dm] (grid:4)
+  Acoustic Bass         : D2@1>2^104 D2@4>1^104
+  String Ensemble 1     : A4+D5@1>8^80
+  Overdriven Guitar     : F5@1>2^104 D5@3>2^104
+  Choir Aahs            : D4+F4+A4@1>8^80
+  Acoustic Grand Piano  : D2+A3+F4@1>3^104 D3@2>2^80 A3+F4@3>3^104 D2@4>3^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: D4+F4+A4@1>8^32
+@78 [D | Dm] (grid:16)
+  Acoustic Bass         : D2@1>9^104 D2@13>4^104
+  Overdriven Guitar     : A4@1>13^104
+  Acoustic Grand Piano  : D3@1>9^104 A3@5>8^104 D4+F4@9>4^104 D2+D3@13>3^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^80 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+@79 [E] (grid:4)
+  Acoustic Bass         : E1@1>2^104 E2@3>1^104 E1@4>1^80
+  String Ensemble 1     : B4+E5@1>8^80
+  Overdriven Guitar     : F5@1>2^104 E5@3>2^104
+  Choir Aahs            : E4+G#4+B4@1>14^80
+  Acoustic Grand Piano  : E2+A3+B3+E4@1>2^104 E3@2>1^104 A3+B3+E4@3>4^104 E2@4>4^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: E4+G#4+B4@1>14^32
+@80 [E] (grid:16)
+  Acoustic Bass         : E1@1>8^104 E2@9>4^104 E1@13>4^104
+  Overdriven Guitar     : B4@1>14^104
+  Acoustic Grand Piano  : G#3+E4@1>6^104 E3@5>5^80 G#3+B3+E4@9>6^104 E2+E3@13>3^80
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^80 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+@81 [A] (grid:4)
+  Acoustic Bass         : A1@1>2^104 A2@3>1^80 A1@4>1^104
+  String Ensemble 1     : A4+C#5@1>16^56
+  Overdriven Guitar     : E5@2>2^104 C#5@4>1^104
+  Choir Aahs            : A4@1>23^80
+  Acoustic Grand Piano  : A2+A3+C#4+E4@1>4^104 A3+E4@3>2^80 A2@4>3^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: A4@1>23^32
+@82 [A] (grid:24t)
+  Acoustic Bass         : A1@1>12^104 A1@19>6^104
+  Overdriven Guitar     : A4@2>6^104 A4@9>8^104 A4@19>6^104
+  Acoustic Grand Piano  : G3+C#4+E4@1>10^104 G3+C#4+E4@13>6^104 A2@19>5^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@7>1^80 E2@9>1^80 E2@11>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+@83 [Dm] (grid:24t)
+  Acoustic Bass         : D2@1>12^104 D2@19>2^104
+  String Ensemble 1     : D5@1>138^32
+  Overdriven Guitar     : A#4@1>6^104 A4@8>3^80 G4@11>2^80 A4@14>26^104
+  Choir Aahs            : F4+D5@1>48^80
+  Acoustic Grand Piano  : D2+A3+D4+F4@1>27^104 D3@13>18^80 A3@19>25^80
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: F4+D5@1>48^32
+@84 [D | Dm] (grid:16)
+  Acoustic Bass         : D2@1>10^104
+  Acoustic Grand Piano  : D4@1>12^104 D2@5>10^104 F4@9>5^104 D3@13>3^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^80 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+@85 [D] (grid:4)
+  Acoustic Bass         : D2@1>2^104 D2@4>1^104
+  String Ensemble 1     : F#5@1>7^80
+  Overdriven Guitar     : D5@1>2^104 A4@3>2^104
+  Choir Aahs            : F#4@1>8^56
+  Acoustic Grand Piano  : D3+A3+F#4@1>2^104 A3@2>1^80 A3+D4@3>2^104 D3@4>1^80
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: F#4@1>8^32
+@86 [F#dim] (grid:24t)
+  Acoustic Bass         : C2@1>13^104 C2@19>6^80
+  Overdriven Guitar     : F#4@1>19^104 C5@20>5^104
+  Acoustic Grand Piano  : C3@1>16^104 A3@7>12^104 C4+F#4@13>8^104 C3@19>5^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@7>1^80 E2@9>1^80 E2@11>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+@87 [Gm] (grid:8)
+  Acoustic Bass         : A#1@1>5^80 A#1@7>1^104
+  String Ensemble 1     : G5@1>14^56 A#4@7>8^56
+  Overdriven Guitar     : C5@1>2^104 A#4@3>1^80 A4@4>1^104 A#4@5>6^104
+  Choir Aahs            : G4+A#4+D5@1>8^80
+  Acoustic Grand Piano  : A#2@1>5^104 A#3@3>1^80 A#3+D4+G4@5>5^104 A#2@7>7^104
+  Drums                 : B1+F#2@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 B1+F#2@7>1^104
+  Acoustic Grand Piano#2: G4+A#4+D5@1>8^32
+@88 [A#] (grid:24t)
+  Acoustic Bass         : A#1@1>12^80 A#1@19>6^80
+  Overdriven Guitar     : F4@13>2^104 G4@16>3^104 A4@20>5^104
+  Choir Aahs            : F4+A#4@1>48^56
+  Acoustic Grand Piano  : A#3@1>16^80 D4@7>9^80 G4@13>3^104 A#2@19>6^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@7>1^80 E2@9>1^80 E2@11>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: F4+A#4@1>48^32
+@89 [F] (grid:24t)
+  Acoustic Bass         : F1@1>12^104 F2@13>12^104
+  String Ensemble 1     : F5@1>47^56 A#4@16>8^80
+  Overdriven Guitar     : A#4@2>18^104 A4@20>22^80
+  Choir Aahs            : A4@1>24^56
+  Acoustic Grand Piano  : F2+F3+A#3+C4@1>14^104 F3+A#3+C4@13>11^104 F2@19>20^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A4@1>24^32
+@90 [F] (grid:16)
+  Acoustic Bass         : F1@1>8^80 F2@9>4^80 F1@13>4^80
+  String Ensemble 1     : A4@1>31^32
+  Choir Aahs            : F4+A4@1>32^80
+  Acoustic Grand Piano  : F3+A3+C4@1>7^104 F3+A3+C4@9>4^104 F2@13>4^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^80 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+  Acoustic Grand Piano#2: F4+A4@1>32^32
+@91 [Dm]
+  Acoustic Bass         : D2@1>8^104 D2@10>3^80
+  String Ensemble 1     : D5@1>11^80
+  Overdriven Guitar     : F5@1>9^104 E5@11>1^104 D5@12>1^104
+  Acoustic Grand Piano  : D3@1>7^104 A3@4>3^104 A3+C4+D4+F4@7>4^104 D3@10>3^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 B1+F#2@10>1^104
+@92 [E] (grid:16)
+  Acoustic Bass         : B1@1>10^80 B1@13>4^80
+  String Ensemble 1     : A4+B4+E5@1>16^104
+  Overdriven Guitar     : E5@1>19^104
+  Choir Aahs            : E4+B4@1>16^80
+  Acoustic Grand Piano  : E2+A3+B3+E4@1>9^104 A3+B3+E4@9>7^104 E2@13>4^104
+  Drums                 : B1+F#2@1>1^104 E2+F#2@5>1^80 E2@6>1^104 E2@8>1^104 E2+F#2@9>1^104 B1+F#2@13>1^104
+  Acoustic Grand Piano#2: E4+B4@1>16^32
+@93 [E] (grid:4)
+  Acoustic Bass         : B1@1>1^80 B1@2>2^104
+  String Ensemble 1     : G#4+B4+E5@1>1^80 B4@2>1^104 C#5@3>1^104 D5@4>1^104
+  Choir Aahs            : E4+A4+B4@1>6^80 G#4@3>4^80
+  Whistle               : B5@2>1^80 C#6@3>1^104 D6@4>1^104
+  Acoustic Grand Piano  : E2+G#3+B3+E4@1>2^104 G#3+B3+E4@3>2^104 E2@4>2^104
+  Drums                 : B1+F#2@1>1^104 F#2@2>1^80 E2+F#2@3>1^104 B1+F#2@4>1^104
+  Acoustic Grand Piano#2: E4+A4+B4@1>6^32 G#4@3>4^32
+@94 [E]
+  Acoustic Bass         : E1@1>6^104 E2@7>5^104
+  String Ensemble 1     : F5@1>3^104 E5@4>3^104 B4@7>6^104
+  Whistle               : F6@1>3^104 E6@4>3^104 B5@7>4^104
+  Drums                 : B1+A#2@1>1^104 E2@3>1^80 E2@4>1^104 E2@5>1^104 E2@6>1^104 E2@7>1^104 A2@8>1^104 G2@9>1^80 G2@10>1^104 F2@11>1^104 F2@12>1^104
+@95 [A]
+  Acoustic Bass         : A1@1>7^104 A1@10>3^104
+  String Ensemble 1     : C#5+E5@1>48^104
+  Overdriven Guitar     : A4@7>2^104 B4@10>2^104 C#5@12>2^104
+  Choir Aahs            : A4+C#5@1>48^80
+  Trombone              : A2@1>12^104
+  Acoustic Grand Piano  : A1+A2@1>12^104
+  Drums                 : B1+C#3@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: A4+C#5@1>48^32
+@96 [C#m | C#] (grid:24t)
+  Acoustic Bass         : G#1@1>13^104 G#1@19>6^104
+  String Ensemble 1     : G#4@1>22^80
+  Overdriven Guitar     : E5@2>5^104 D5@8>3^104 C#5@12>17^104
+  Choir Aahs            : G#4@1>24^80
+  Trombone              : G#2@1>24^104
+  Acoustic Grand Piano  : G#1+G#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: G#4@1>24^32
+@97 [F# | F#m]
+  Acoustic Bass         : F#1@1>10^104
+  String Ensemble 1     : F#4@1>25^80
+  Overdriven Guitar     : A4@7>2^104 B4@9>2^104 C#5@11>2^104
+  Choir Aahs            : F#4@1>24^80
+  Trombone              : F#2@1>24^104
+  Acoustic Grand Piano  : F#1+F#2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: F#4@1>24^32
+@98 [A#aug | F#] (grid:24t)
+  Acoustic Bass         : F#1@1>12^104 F#2@13>10^104
+  String Ensemble 1     : A#4@1>21^80
+  Overdriven Guitar     : D5@2>6^104 C#5@8>5^104 B4@14>6^104 C#5@20>3^104
+  Choir Aahs            : A#4@1>24^80
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@99 [Bm] (grid:24t)
+  Acoustic Bass         : B1@1>12^80 B1@19>5^104
+  String Ensemble 1     : B4+D5@1>75^80
+  Overdriven Guitar     : B4@13>4^104 C#5@18>3^104 D5@21>3^104
+  Choir Aahs            : F#4+B4@1>67^80
+  Trombone              : B2@1>24^104
+  Acoustic Grand Piano  : B1+B2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: F#4+B4@1>67^32
+@100 [A#aug | A#] (grid:8)
+  Acoustic Bass         : A#1@1>4^104 A#1@7>2^104
+  String Ensemble 1     : A#4@1>8^80
+  Overdriven Guitar     : F#5@1>2^104 E5@3>1^104 D5@4>6^104
+  Choir Aahs            : A#4@1>8^104
+  Trombone              : A#2@1>8^104
+  Acoustic Grand Piano  : A#1+A#2@1>8^104
+  Drums                 : F#2@1>1^80 E2@2>1^80 B1+F#2@3>1^80 B1@4>1^104 E2+F#2@5>1^104 B1+F#2@7>1^104
+  Acoustic Grand Piano#2: A#4@1>8^32
+@101 [G#m | Bm] (grid:8)
+  Acoustic Bass         : B1@1>4^104 B1@7>2^104
+  String Ensemble 1     : B4@1>7^80 G#4@2>1^56 F#4@6>2^80
+  Overdriven Guitar     : B4@5>1^104 C#5@7>1^104 D5@8>1^104
+  Choir Aahs            : B4@1>23^104
+  Trombone              : B2@1>8^104
+  Acoustic Grand Piano  : B1+B2@1>8^104
+  Drums                 : B1+F#2@1>1^104 B1+F#2@3>1^104 E2+F#2@5>1^104 F#2@7>1^80 E2@8>1^104
+  Acoustic Grand Piano#2: B4@1>23^32
+@102 [E] (grid:24t)
+  Acoustic Bass         : E1@1>12^104 E2@13>18^104
+  String Ensemble 1     : E4+G#4+B4@1>36^104
+  Overdriven Guitar     : F#5@2>5^104 E5@8>5^104 E5@14>5^104 D#5@19>5^104
+  Choir Aahs            : G#4@1>48^104
+  Trombone              : E2@1>24^104
+  Acoustic Grand Piano  : E1+E2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: G#4@1>48^32
+@103 [E]
+  Acoustic Bass         : E1@4>3^104 E2@7>3^104 E1@10>3^80
+  Overdriven Guitar     : F#5@1>3^104 E5@4>2^104 E5@7>3^104 D5@10>2^104
+  Trombone              : E3@1>12^104
+  Acoustic Grand Piano  : E2+E3@1>12^104
+  Drums                 : E2+G#2@1>1^104 E2@2>1^80 E2@3>1^104 E2+G#2@4>1^104 E2@5>1^104 E2@6>1^104 E2+G#2@7>1^104 C3@8>1^104 F2@9>1^80 G#2+A2@10>1^104 G2@11>1^104 F2@12>1^104
+@104 [A]
+  Acoustic Bass         : A1@1>7^104 A1@10>3^104
+  String Ensemble 1     : A4+C#5@1>48^80
+  Overdriven Guitar     : A4@8>2^104 B4@10>1^104 C#5@12>1^104
+  Choir Aahs            : A4+C#5@1>47^104
+  Trombone              : A2@1>12^104
+  Muted Trumpet         : C#5+E5+A5@7>1^104
+  Acoustic Grand Piano  : A1+A2@1>12^104
+  Drums                 : B1+C#3@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: A4+C#5@1>47^32
+@105 [C#m] (grid:24t)
+  Acoustic Bass         : G#1@1>14^104 G#1@19>6^104
+  String Ensemble 1     : G#4@1>25^80
+  Overdriven Guitar     : E5@2>6^104 D5@8>3^104 C#5@11>16^104
+  Choir Aahs            : G#4@1>24^80
+  Trombone              : G#2@1>24^104
+  Muted Trumpet         : C#5+E5+G#5@13>9^104
+  Acoustic Grand Piano  : G#1+G#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: G#4@1>24^32
+@106 [F#m]
+  Acoustic Bass         : F#1@1>7^104 F#1@11>1^104
+  String Ensemble 1     : F#4@1>22^80
+  Overdriven Guitar     : A4@7>2^104 B4@10>2^104 C#5@12>1^104
+  Choir Aahs            : F#4@1>59^80
+  Trombone              : F#2@1>24^104
+  Muted Trumpet         : A4+C#5+F#5@1>10^80
+  Acoustic Grand Piano  : F#1+F#2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: F#4@1>59^32
+@107 [F#] (grid:24t)
+  Acoustic Bass         : F#1@1>12^104 F#2@13>6^104 F#1@19>6^104
+  String Ensemble 1     : A#4@1>23^80
+  Overdriven Guitar     : D5@2>6^104 C#5@8>5^104 B4@14>6^104 C#5@20>3^104
+  Choir Aahs            : A#4@1>24^80
+  Muted Trumpet         : A#4+C#5+F#5@1>20^80
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@108 [Bm] (grid:24t)
+  Acoustic Bass         : B1@1>14^104 B1@19>5^104
+  String Ensemble 1     : B4+D5@1>69^104
+  Overdriven Guitar     : B4@13>4^104 C#5@18>2^104 D5@22>2^104
+  Choir Aahs            : B4@1>24^104
+  Trombone              : B2@1>24^104
+  Muted Trumpet         : B4+D5+F#5@13>2^104
+  Acoustic Grand Piano  : B1+B2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: B4@1>24^32
+@109 [A#aug] (grid:24t)
+  Acoustic Bass         : A#1@1>14^104 A#1@19>6^80
+  String Ensemble 1     : A#4@1>25^80
+  Overdriven Guitar     : F#5@3>4^104 E5@8>3^104 D5@11>16^104
+  Choir Aahs            : A#4@1>24^80
+  Trombone              : A#2@1>24^104
+  Muted Trumpet         : A#4+D5+F#5@13>3^104
+  Acoustic Grand Piano  : A#1+A#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@110 [B | Bm] (grid:8)
+  Acoustic Bass         : B1@1>6^104 B1@8>1^104
+  String Ensemble 1     : B4@1>8^80
+  Overdriven Guitar     : B4@5>2^104 C#5@7>1^104 D5@8>1^104
+  Choir Aahs            : B4@1>22^80
+  Trombone              : B2@1>8^104
+  Muted Trumpet         : B4+D5+F#5@5>1^104
+  Acoustic Grand Piano  : B1+B2@1>8^104
+  Drums                 : B1+F#2@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 B1+F#2@7>1^80
+  Acoustic Grand Piano#2: B4@1>22^32
+@111 [E] (grid:24t)
+  Acoustic Bass         : E1@1>12^104 E2@13>18^80
+  String Ensemble 1     : E4+G#4+B4@1>39^80
+  Overdriven Guitar     : F#5@2>5^104 E5@8>5^104 E5@14>5^104 D#5@19>4^104
+  Choir Aahs            : E4+G#4@1>48^104
+  Trombone              : E2@1>24^104
+  Muted Trumpet         : G#4+B4+E5@13>1^104
+  Acoustic Grand Piano  : E1+E2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: E4+G#4@1>48^32
+@112 [E]
+  Acoustic Bass         : E1@4>3^80 E2@7>3^80
+  Overdriven Guitar     : F#5@1>3^104 E5@4>2^104 E5@7>2^104 D5@10>2^104
+  Trombone              : E3@1>12^104
+  Muted Trumpet         : F#5@1>3^104 E5@4>3^104 E5@7>3^104 D5@10>2^104
+  Acoustic Grand Piano  : E2+E3@1>12^104
+  Drums                 : E2+G#2@1>1^104 E2@2>1^80 E2@3>1^104 E2+G#2@4>1^104 E2@5>1^104 E2@6>1^104 E2+G#2@7>1^104 C3@8>1^104 F2@9>1^80 G#2+A2@10>1^104 F2@11>1^104 A2@12>1^104
+@113 [A]
+  Acoustic Bass         : A1@1>7^104 A1@10>3^104
+  String Ensemble 1     : C#5+E5@1>48^104
+  Overdriven Guitar     : A4@7>2^104 B4@10>2^104 C#5@12>2^104
+  Choir Aahs            : A4+C#5@1>48^80
+  Trombone              : A2@1>12^104
+  Acoustic Grand Piano  : A1+A2@1>12^104
+  Drums                 : B1+C#3@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: A4+C#5@1>48^32
+@114 [C#m | C#] (grid:24t)
+  Acoustic Bass         : G#1@1>13^104 G#1@19>6^104
+  String Ensemble 1     : G#4@1>22^80
+  Overdriven Guitar     : E5@2>5^104 D5@8>3^104 C#5@12>17^104
+  Choir Aahs            : G#4@1>24^80
+  Trombone              : G#2@1>24^104
+  Acoustic Grand Piano  : G#1+G#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: G#4@1>24^32
+@115 [F# | F#m]
+  Acoustic Bass         : F#1@1>10^104
+  String Ensemble 1     : F#4@1>25^80
+  Overdriven Guitar     : A4@7>2^104 B4@9>2^104 C#5@11>2^104
+  Choir Aahs            : F#4@1>24^80
+  Trombone              : F#2@1>24^104
+  Acoustic Grand Piano  : F#1+F#2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: F#4@1>24^32
+@116 [A#aug | F#] (grid:24t)
+  Acoustic Bass         : F#1@1>12^104 F#2@13>10^104
+  String Ensemble 1     : A#4@1>21^80
+  Overdriven Guitar     : D5@2>6^104 C#5@8>5^104 B4@14>6^104 C#5@20>3^104
+  Choir Aahs            : A#4@1>24^80
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@117 [Bm] (grid:24t)
+  Acoustic Bass         : B1@1>12^80 B1@19>5^104
+  String Ensemble 1     : B4+D5@1>75^104
+  Overdriven Guitar     : B4@13>4^104 C#5@18>3^104 D5@21>3^104
+  Choir Aahs            : F#4+B4@1>67^80
+  Trombone              : B2@1>24^104
+  Acoustic Grand Piano  : B1+B2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: F#4+B4@1>67^32
+@118 [A#aug | A#] (grid:8)
+  Acoustic Bass         : A#1@1>4^104 A#1@7>2^104
+  String Ensemble 1     : A#4@1>8^80
+  Overdriven Guitar     : F#5@1>2^104 E5@3>1^104 D5@4>6^104
+  Choir Aahs            : A#4@1>8^80
+  Trombone              : A#2@1>8^104
+  Acoustic Grand Piano  : A#1+A#2@1>8^104
+  Drums                 : F#2@1>1^80 E2@2>1^80 B1+F#2@3>1^80 B1@4>1^104 E2+F#2@5>1^104 B1+F#2@7>1^104
+  Acoustic Grand Piano#2: A#4@1>8^32
+@119 [G#m | Bm] (grid:8)
+  Acoustic Bass         : B1@1>4^104 B1@7>2^104
+  String Ensemble 1     : B4@1>7^80 G#4@2>1^56 F#4@6>2^80
+  Overdriven Guitar     : B4@5>1^104 C#5@7>1^104 D5@8>1^104
+  Choir Aahs            : B4@1>23^104
+  Trombone              : B2@1>8^104
+  Acoustic Grand Piano  : B1+B2@1>8^104
+  Drums                 : B1+F#2@1>1^104 B1+F#2@3>1^104 E2+F#2@5>1^104 F#2@7>1^80 E2@8>1^104
+  Acoustic Grand Piano#2: B4@1>23^32
+@120 [E] (grid:24t)
+  Acoustic Bass         : E1@1>12^104 E2@13>18^104
+  String Ensemble 1     : E4+G#4+B4@1>36^104
+  Overdriven Guitar     : F#5@2>5^104 E5@8>5^104 E5@14>5^104 D#5@19>5^104
+  Choir Aahs            : G#4@1>48^104
+  Trombone              : E2@1>24^104
+  Acoustic Grand Piano  : E1+E2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: G#4@1>48^32
+@121 [E]
+  Acoustic Bass         : E1@4>3^104 E2@7>3^104 E1@10>3^104
+  Overdriven Guitar     : F#5@1>3^104 E5@4>2^104 E5@7>3^104 D5@10>2^104
+  Trombone              : E3@1>12^104
+  Acoustic Grand Piano  : E2+E3@1>12^104
+  Drums                 : E2+G#2@1>1^104 E2@2>1^80 E2@3>1^104 E2+G#2@4>1^104 E2@5>1^104 E2@6>1^104 E2+G#2@7>1^104 C3@8>1^104 F2@9>1^80 G#2+A2@10>1^104 F2@11>1^104 A2@12>1^104
+@122 [A]
+  Acoustic Bass         : A1@1>7^104 A1@10>3^104
+  String Ensemble 1     : A4+C#5@1>48^80
+  Overdriven Guitar     : A4@8>2^104 B4@10>1^104 C#5@12>1^104
+  Choir Aahs            : A4+C#5@1>47^104
+  Trombone              : A2@1>12^104
+  Muted Trumpet         : C#5+E5+A5@7>1^104
+  Acoustic Grand Piano  : A1+A2@1>12^104
+  Drums                 : B1+C#3@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: A4+C#5@1>47^32
+@123 [C#m] (grid:24t)
+  Acoustic Bass         : G#1@1>14^104 G#1@19>6^104
+  String Ensemble 1     : G#4@1>25^80
+  Overdriven Guitar     : E5@2>6^104 D5@8>3^104 C#5@11>16^104
+  Choir Aahs            : G#4@1>24^80
+  Trombone              : G#2@1>24^104
+  Muted Trumpet         : C#5+E5+G#5@13>9^104
+  Acoustic Grand Piano  : G#1+G#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: G#4@1>24^32
+@124 [F#m]
+  Acoustic Bass         : F#1@1>7^104 F#1@11>1^104
+  String Ensemble 1     : F#4@1>22^80
+  Overdriven Guitar     : A4@7>2^104 B4@10>2^104 C#5@12>1^104
+  Choir Aahs            : F#4@1>59^80
+  Trombone              : F#2@1>24^104
+  Muted Trumpet         : A4+C#5+F#5@1>10^80
+  Acoustic Grand Piano  : F#1+F#2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@4>1^80 E2+F#2@7>1^104 F#2@10>1^80 E2@12>1^104
+  Acoustic Grand Piano#2: F#4@1>59^32
+@125 [F#] (grid:24t)
+  Acoustic Bass         : F#1@1>12^104 F#2@13>6^104 F#1@19>6^104
+  String Ensemble 1     : A#4@1>23^104
+  Overdriven Guitar     : D5@2>6^104 C#5@8>5^104 B4@14>6^104 C#5@20>3^104
+  Choir Aahs            : A#4@1>24^80
+  Muted Trumpet         : A#4+C#5+F#5@1>20^80
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@126 [Bm] (grid:24t)
+  Acoustic Bass         : B1@1>14^104 B1@19>5^104
+  String Ensemble 1     : B4+D5@1>69^104
+  Overdriven Guitar     : B4@13>4^104 C#5@18>2^104 D5@22>2^104
+  Choir Aahs            : B4@1>24^104
+  Trombone              : B2@1>24^104
+  Muted Trumpet         : B4+D5+F#5@13>2^104
+  Acoustic Grand Piano  : B1+B2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: B4@1>24^32
+@127 [A#aug] (grid:24t)
+  Acoustic Bass         : A#1@1>14^104 A#1@19>6^80
+  String Ensemble 1     : A#4@1>25^80
+  Overdriven Guitar     : F#5@3>4^104 E5@8>3^104 D5@11>16^104
+  Choir Aahs            : A#4@1>24^80
+  Trombone              : A#2@1>24^104
+  Muted Trumpet         : A#4+D5+F#5@13>3^104
+  Acoustic Grand Piano  : A#1+A#2@1>24^104
+  Drums                 : F#2@1>1^80 E2@4>1^80 B1+F#2@7>1^80 B1@10>1^104 E2+F#2@13>1^104 B1+F#2@19>1^104
+  Acoustic Grand Piano#2: A#4@1>24^32
+@128 [B | Bm] (grid:8)
+  Acoustic Bass         : B1@1>6^104 B1@8>1^104
+  String Ensemble 1     : B4@1>8^80
+  Overdriven Guitar     : B4@5>2^104 C#5@7>1^104 D5@8>1^104
+  Choir Aahs            : B4@1>22^80
+  Trombone              : B2@1>8^104
+  Muted Trumpet         : B4+D5+F#5@5>1^104
+  Acoustic Grand Piano  : B1+B2@1>8^104
+  Drums                 : B1+F#2@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 B1+F#2@7>1^104
+  Acoustic Grand Piano#2: B4@1>21^32
+@129 [E] (grid:24t)
+  Acoustic Bass         : E1@1>12^104 E2@13>18^104
+  String Ensemble 1     : E4+G#4+B4@1>39^80
+  Overdriven Guitar     : F#5@2>5^104 E5@8>5^104 E5@14>5^104 D#5@19>4^104
+  Choir Aahs            : E4+G#4@1>48^104
+  Trombone              : E2@1>24^104
+  Muted Trumpet         : G#4+B4+E5@13>1^104
+  Acoustic Grand Piano  : E1+E2@1>24^104
+  Drums                 : B1+F#2@1>1^104 F#2@7>1^80 E2+F#2@13>1^104 F#2@19>1^80 E2@23>1^104
+  Acoustic Grand Piano#2: E4+G#4@1>48^32
+@130 [E]
+  Acoustic Bass         : E1@4>3^80 E2@7>3^80
+  Overdriven Guitar     : F#5@1>3^104 E5@4>2^104 E5@7>2^104 D5@10>2^104
+  Trombone              : E3@1>12^104
+  Muted Trumpet         : F#5@1>3^104 E5@4>3^104 E5@7>3^104 D5@10>3^104
+  Acoustic Grand Piano  : E2+E3@1>12^104
+  Drums                 : E2+G#2@1>1^104 E2@2>1^80 E2@3>1^104 E2+G#2@4>1^104 E2@5>1^104 E2@6>1^104 E2+G#2@7>1^104 C3@8>1^104 F2@9>1^80 G#2+A2@10>1^104 F2@11>1^104 A2@12>1^104
+@131 [Am] (grid:8)
+  Acoustic Bass         : A1@1>8^104
+  String Ensemble 1     : E5+E6@1>1^104 F5+F6@2>1^104 E5+E6@3>1^104 D5+D6@4>1^104 C5+C6@5>4^104
+  Choir Aahs            : A4+C5@1>39^80
+  Muted Trumpet         : E5@1>1^104 F5@2>1^104 E5@3>1^104 D5@4>1^104 C5@5>4^104
+  Acoustic Grand Piano  : A2+A3+C4+E4@1>4^104 A3+C4+E4@5>2^104 A2@7>2^104 C4@8>1^80
+  Drums                 : B1+F#2+C#3@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 F#2@7>1^80
+  Acoustic Grand Piano#2: A4+C5@1>39^32
+@132 [G#aug] (grid:8)
+  Acoustic Bass         : G#1@1>8^104
+  String Ensemble 1     : E5+E6@1>1^104 F5+F6@2>1^104 E5+E6@3>1^104 D5+D6@4>1^104 C5+C6@5>4^104
+  Choir Aahs            : G#4@1>8^80
+  Muted Trumpet         : E5@1>1^104 F5@2>1^104 E5@3>1^104 D5@4>1^104 C5@5>4^104
+  Acoustic Grand Piano  : G#2+G#3+C4+E4@1>7^104 G#3@5>3^104 G#2@7>2^104
+  Drums                 : B1+F#2+C#3@1>1^104 F#2@3>1^80 E2+F#2@5>1^104
+  Acoustic Grand Piano#2: G#4@1>8^32
+@133 [C] (grid:8)
+  Acoustic Bass         : G1@1>8^104
+  String Ensemble 1     : E5+E6@1>1^104 F5+F6@2>1^104 E5+E6@3>1^104 D5+D6@4>1^104 C5+C6@5>4^104
+  Choir Aahs            : G4@1>8^80
+  Muted Trumpet         : E5@1>1^104 F5@2>1^104 E5@3>1^104 D5@4>1^104 C5@5>4^104
+  Acoustic Grand Piano  : G2+G3+C4+E4@1>4^104 G3+C4+E4@5>3^104 G2@7>2^104
+  Drums                 : B1+F#2+C#3@1>1^104 F#2@3>1^80 E2+F#2@5>1^104 F#2@7>1^80
+  Acoustic Grand Piano#2: G4@1>8^32
+@134 [F#dim] (grid:64)
+  Acoustic Bass         : F#1@1>128^104
+  String Ensemble 1     : E5+E6@1>8^104 F5+F6@9>8^104 E5+E6@17>8^104 D5+D6@25>8^104 C5+C6@33>96^104
+  Choir Aahs            : F#4@1>128^80
+  Muted Trumpet         : E5@1>8^104 F5@9>8^104 E5@17>8^104 D5@25>8^104 C5@33>96^104
+  Acoustic Grand Piano  : F#2+F#3+A3+C4+E4@1>125^104
+  Drums                 : B1@2>1^80 C#3@3>1^80 B3@20>1^80 D#3@22>1^32 A#2@27>1^80 D#3@31>1^56 B3@32>1^32 A#2@38>1^56 D#3+B3@42>1^56 A#2@50>1^32 D#3+B3@51>1^56 A#2@57>1^56 D#3@61>1^32
+  Acoustic Grand Piano#2: F#4@1>128^32
+@135 [-] (grid:32)
+  Drums                 : A#2@2>1^56 D#3@3>1^56 A#2@6>1^56 D#3@8>1^56 A#2@11>1^56 D#3@13>1^56 A#2@15>1^56 D#3@17>1^56 A#2@19>1^80 D#3@22>1^56 A#2@23>1^80 B3@25>1^56 D#3@26>1^80 A#2@28>1^80
+@136 [A] (grid:64)
+  Acoustic Bass         : A1@1>160^80
+  String Ensemble 1     : A4+C#5+E5+A5+C#6@1>160^80
+  Choir Aahs            : E4+A4+C#5@1>160^56
+  Muted Trumpet         : A4+C#5@1>160^56
+  Acoustic Grand Piano  : A2+A3+C#4+E4@1>160^104
+  Drums                 : B1+C#3@2>1^80 D#3@25>1^56 A#2@31>1^32 D#3+B3@36>1^56 A#2@41>1^56 D#3+B3@45>1^56 A#2@50>1^56 D#3@54>1^56 A#2@58>1^56 D#3@63>1^56
+  Acoustic Grand Piano#2: E4+A4+C#5@1>160^32
+@137 [-] (grid:64)
+  Drums                 : A#2@3>1^56 D#3@8>1^56 A#2@12>1^56 D#3@18>1^56 A#2@21>1^56 D#3@28>1^56 A#2@30>1^56 D#3@38>1^56 A#2@39>1^56 B3@46>1^32 D#3@47>1^56 A#2@49>1^56 D#3@57>1^56 A#2@59>1^56
+@138 [-] (grid:64)
+  Drums                 : D#3+B3@3>1^56 A#2@8>1^56 D#3+B3@13>1^56 A#2@18>1^56 D#3@22>1^56 A#2@27>1^80 D#3@31>1^56 A#2@34>1^80 D#3+B3@37>1^80

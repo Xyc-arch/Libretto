@@ -19,13 +19,14 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent.parent          # repo root (parent of libretto/)
 MANIFEST = Path(__file__).resolve().parent.parent / "FROZEN_CORE.sha256"
 
-# The validated core — distribution + axis set (inside the json) + encoder + decoder + metric defs + 29th axis.
+# The validated core — distribution + axis set (inside the json) + encoder + decoder + metric defs.
+# v3: metric definitions are the 33 discovered axes (axes_v3.py); the old hand-authored metric_discovery
+# 28 + within_song_variation are superseded (preserved in git history), so no longer in the frozen set.
 FROZEN = [
-    "libretto/data/corpus_distribution_314.json",   # distribution + axes_order (the axis SET)
+    "libretto/data/corpus_distribution.json",   # distribution + axes_order (the 33-axis SET)
     "libretto/core/midi_to_grammar.py",             # encoder
     "libretto/core/grammar_to_midi.py",             # decoder
-    "libretto/core/metric_discovery.py",            # metric definitions
-    "libretto/core/within_song_variation.py",       # the 29th axis definition
+    "libretto/core/axes_v3.py",                     # the 33 discovered axis definitions
 ]
 
 

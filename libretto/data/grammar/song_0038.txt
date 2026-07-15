@@ -1,1036 +1,950 @@
-KEY: F# major | METER: 4/4 | TEMPO: 120 | GRID: 16th (adaptive) | BARS: 144
-VOICES: Melody, Part2, Part3, Synth Brass, Bass 1, Synth Brass#2, Synth Pad, Bass 2, Guitar, Part10
-@1 [-]
-@2 [D#m | D#]
-  Bass 1       : F#2@1>2 F#2@4>1 Eb2@5>2 F#2@7>2 Eb2@15>1
-  Bass 2       : F#1@1>2 F#1@4>1 Eb1@5>2 F#1@7>2 Eb1@15>1
-@3 [F#] (grid:6t)
-  Bass 1       : F#2@1>2 F#2@3>1
-  Bass 2       : F#1@1>2 F#1@3>1
-@4 [D#m | D#]
-  Bass 1       : F#2@1>2 F#2@4>1 Eb2@5>2 F#2@7>2 Eb2@15>1
-  Bass 2       : F#1@1>2 F#1@4>1 Eb1@5>2 F#1@7>2 Eb1@15>1
-@5 [F#] (grid:12t)
-  Bass 1       : F#2@1>4 F#2@5>1 F#3@10>3
-  Bass 2       : F#1@1>4 F#1@5>1 F#2@10>3
-@6 [F#]
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 Bb4+Bb5@13>2 Bb4+Bb5@16>1
-  Synth Pad    : F#5+Bb5@1>4
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
-@7 [F#] (grid:24t)
-  Synth Brass  : C#4+F#4+Bb4@1>22
-  Bass 1       : F#2@1>4 F#2@5>3 F#2@10>2
-  Synth Brass#2: G#4+G#5@1>3 F#4+F#5@4>2 G#4+G#5@10>2 Bb4+Bb5@16>2
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@8 [F#]
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 Bb4+Bb5@13>2 Bb4+Bb5@16>1
-  Synth Pad    : F#5+Bb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
-@9 [F#] (grid:24t)
-  Synth Brass  : C#4+F#4+Bb4@1>22
-  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
-  Synth Brass#2: G#4+G#5@1>3 F#4+F#5@4>2 G#4+G#5@10>2 A4+Bb4+A5+Bb5@16>3 G#4+G#5@19>3 F#4+F#5@22>2
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@10 [F#]
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1
-  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 Bb4+Bb5@13>2 Bb4+Bb5@16>1
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
-@11 [F#]
-  Synth Brass  : C#4+F#4+Bb4@1>15
-  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
-  Synth Brass#2: G#4+G#5@1>2 F#4+F#5@3>1 G#4+G#5@7>1 Bb4+Bb5@11>1
-  Synth Pad    : F5+G#5@13>2 Eb5+F#5@15>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
-@12 [D#m]
-  Synth Brass  : Eb4+F#4+Bb4@1>14
-  Bass 1       : B2@1>3 B2@4>3 B2@7>1 B2@15>1 Bb2@16>1
-  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 F#4+F#5@15>1 F#4+F#5@16>1
-  Synth Pad    : Eb5+F#5@1>2
-  Guitar       : B3+F#4@1>2 B3+F#4@4>1
-  Part10       : Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
-@13 [F# | C#7]
-  Synth Brass  : C#4+F#4+B4@1>11 F#4+B4+C#5@13>4
-  Bass 1       : G#2@1>4 Bb2@5>3 G#2@8>1 B2@9>3 G#2@12>1 C#3@13>4
-  Synth Brass#2: F#4+F#5@1>2 G#4+G#5@3>2 Bb4+Bb5@5>1 G#4+G#5@7>9
-  Guitar       : B3+F#4@1>2 B3+F#4@4>1 B3+F#4@9>1 B3+F#4@10>1 B3+F#4@13>1
-  Part10       : C#5+F#5+B5@1>6 C#5+F#5+G#5@7>10
-@14 [F#]
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: Bb4+Bb5@1>3 C#5+C#6@5>2 C#4+F#4+C#5+F#5@15>1
-  Guitar       : C#4+F#4@1>2 C#4+F#4@4>1
-  Part10       : F#4+Bb4@1>3 C#5+Eb5+F#5+G#5@4>1 Bb5@5>2
-@15 [F#7] (grid:8)
-  Synth Brass  : C#4+F#4+Bb4@1>4 F#4+Bb4@7>1 C#4+F4+G#4@8>1
-  Bass 1       : F#2@1>1 Eb2@2>1 C#2@3>1 F#2@4>1
-  Synth Brass#2: G4+G#4+A4+Bb4+G5+G#5+A5+Bb5@1>1 G#4+G#5@2>1 F#4+F#5@3>1 F#4+F#5+F#6@4>1
-  Synth Pad    : F#5+Bb5@7>1 F5+G#5@8>1
-  Bass 2       : F#1@1>1 Eb1@2>1 C#1@3>1 F#1@4>1
-  Guitar       : C#4+F#4@1>1 C#4+F#4@3>1 C#4+F#4@4>1
-  Part10       : C#5+F#5@1>1 C#5+F5@2>1 C#5+Eb5@3>1 Bb5@4>1
-@16 [C#]
-  Melody       : C#5@5>4 C#5@9>4 C#5@15>1
-  Synth Brass  : C#4+F4+G#4@1>16
-  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
-  Synth Pad    : F5+G#5@1>2
-@17 [C#] (grid:24t)
-  Melody       : Eb5@1>6 C#5@7>3 Eb5@10>2 F5@19>2 F5@22>2
-  Synth Brass  : C#4+F4+G#4@1>24
-  Bass 1       : C#2@1>4 C#2@5>4 C#2@10>2 Bb1@22>2 C#2@23>2
-@18 [F#]
-  Melody       : F#5@1>4 F5@5>2 F#5@7>1 Bb5@11>1 Eb5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : Eb2@1>2 Eb2@4>1 C#2@5>2 Eb2@7>1 C#2@15>1
-  Guitar       : C#4+F#4@1>14
-@19 [D#m] (grid:8)
-  Melody       : Eb5@1>3
-  Synth Brass  : C#4@1>1 Bb4@2>1 F#4@3>1 Eb4@4>1 Bb3+Eb4+F#4@5>2 Bb3+Eb4+F#4@7>2
-  Bass 1       : Eb2@1>2 Eb2@3>2 Eb2@4>1 G#1@5>2 Bb1@7>2
-  Synth Pad    : F#5+Bb5@2>1 Eb5+F#5@3>1 B4+Eb5@4>1 Bb4+C#5@5>1 B4+Eb5@6>1 F#5+Bb5@7>1 F5+G#5@8>1
-  Guitar       : F#4@2>1 Eb4@3>2 Bb3@5>1 Eb4@6>1 F#4@7>1 F4@8>1
-@20 [C#]
-  Melody       : C#5@5>4 Eb5@9>2 C#5@11>1 C#5@15>1
-  Synth Brass  : G#3+C#4+F4@1>16
-  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
-  Synth Pad    : F5+G#5@1>2
-  Guitar       : F4@1>12
-@21 [C#] (grid:24t)
-  Melody       : Eb5@1>6 C#5@7>3 Eb5@10>3 F5@19>2 F5@22>2
-  Synth Brass  : G#3+C#4+F4@1>20
-  Bass 1       : C#2@1>4 C#2@5>4 C#2@10>2 C#2@19>2 Bb1@22>2 C#2@23>2
-@22 [F#] (grid:24t)
-  Melody       : F#5@1>6 F5@7>4 F#5@10>2 Bb5@16>2 Eb5@22>3
-  Synth Brass  : Bb3+C#4+F#4@1>24
-  Bass 1       : Eb2@1>3 Eb2@5>4 Eb2@10>2 C#2@22>2
-  Guitar       : F#4+C#5@1>21
-@23 [D#m7 | F#] (grid:24t)
-  Melody       : Eb5@1>9
-  Synth Brass  : Bb3+C#4+F#4@1>20
-  Bass 1       : Eb2@1>4 Eb2@5>4 C#2@10>2 Eb2@13>6 Bb1@19>6
-  Synth Pad    : Eb5+F#5@13>3 F5+G#5@16>3 F#5+Bb5@19>6
-  Guitar       : F#3+C#4@13>12
-@24 [B | F#]
-  Melody       : B5@3>2 B5@5>1 B5@7>1 B5@9>2 Bb5@11>1 Bb5@15>1
-  Synth Brass  : G#3+Eb4+F#4@1>7 G#3+C#4+F#4@11>2 G#3+C#4+F#4@15>2
-  Bass 1       : G#1@1>2 G#1@8>1 G#1@9>2 Bb1@11>2 B1@13>2 C#2@15>2
-  Synth Pad    : G#5+B5@1>4
-  Guitar       : Eb4+F#4@1>10 Eb4+F#4@11>1 Eb4+F#4@15>1
-@25 [C#]
-  Melody       : G#5@3>2 G#5@7>4 C#5@13>1 C#5@15>2
-  Synth Brass  : G#3+C#4+F4@3>2 G#3+C#4+F4@7>9
-  Bass 1       : C#2@7>1 C#2@9>3 Bb1@12>1 B1@13>3 Bb1@16>1
-  Guitar       : C#4+F4@3>1 C#4+F4@7>7
-@26 [F# | C#]
-  Melody       : Bb5@1>3 Bb5@5>1 C#6@7>4 Bb5@11>1 G#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>7 C#4+F4+G#4@11>2 C#4+F4+G#4@15>2
-  Bass 1       : Bb1@1>1 Bb1@8>1 Bb1@9>2 G#1@11>2 Bb1@13>2 B1@15>1
-  Guitar       : C#4+F#4@1>10 C#4+F4@11>1 C#4+F4@15>1
-@27 [B] (grid:8)
-  Melody       : F#5@2>1 F#5@4>4 Eb5@8>1
-  Synth Brass  : C#4+F#4+Bb4@2>1 B3+Eb4+F#4@4>4
-  Bass 1       : B1@4>1 B1@5>2 Bb1@7>2
-  Synth Pad    : Eb5+F#5@5>1 F5+G#5@6>1 F#5+Bb5@7>2
-  Guitar       : C#4+F#4@2>1 B3+Eb4@4>5
-@28 [G#m7 | C#] (grid:8)
-  Melody       : B5@1>2 B5@3>1 Bb5@4>1 G#5@6>3
-  Synth Brass  : B3+Eb4+F#4@1>2 B3+C#4+F#4@4>1 G#3+C#4+F4@6>3
-  Bass 1       : G#1@1>2 Bb1@4>1 Eb2@6>3
-  Synth Brass#2: B3+Eb4@1>3 F#4@4>1 C#4+F4@6>3
-  Synth Pad    : G#5+B5@1>2 F#5+Bb5@4>1 F5+G#5@6>2
-  Guitar       : B3+Eb4@1>2 C#4+F#4@4>1 C#4+F4@6>3
-  Part10       : G#3@1>2 G#3+C#4@4>1 G#3@6>3
-@29 [C#] (grid:24t)
-  Melody       : G#5@1>6 Bb5@10>2 G#5@13>4 G#5@17>4 Bb5@22>2
-  Synth Brass  : G#3+C#4+F4@1>12
-  Bass 1       : Eb2@1>16
-  Synth Brass#2: C#4+F4@1>18
-  Guitar       : C#4+F4@1>15
-  Part10       : G#3@1>18
-@30 [B7 | A#aug] (grid:8)
-  Melody       : F#5@1>6
-  Synth Brass  : B4@1>1 Bb4@2>1 B4@3>1 C#5@4>1
-  Bass 1       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
-  Synth Brass#2: F#4+B4+B5@1>1 F#4+Bb4+Bb5@2>1 F#4+B4+B5@3>1 G#4+C#5+C#6@4>1
-  Bass 2       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
-  Guitar       : B3@1>1 Bb3@2>1 B3@3>1 C#4@4>1
-  Part10       : Eb4@1>1 Eb4@2>1 Eb4@3>1 C#4@4>1
-@31 [F#]
-  Melody       : Bb5@5>7 Bb5@13>1 Bb5@15>2
-  Part2        : F#4@5>7 F#4@13>1 F#4@15>2
-  Part3        : C#5@5>7 C#5@13>1 C#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>2 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : F#5+Bb5@1>4
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : C#5+C#6@1>2 C#5+C#6@4>1
-@32 [F#] (grid:24t)
-  Melody       : Bb5@1>3 F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
-  Part2        : F#4@1>3 C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
-  Part3        : C#5@1>3 Bb4@4>2 Bb4@7>2 Bb4@10>8 B4@16>2
-  Synth Brass  : C#4+F#4+Bb4@1>20
-  Bass 1       : F#2@1>4 F#2@5>4 F#2@10>2
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@33 [F#]
-  Melody       : Bb5@7>1 Bb5@9>1 Bb5@11>1 Bb5@13>2 C#6@15>1
-  Part2        : F#4@7>1 F#4@9>1 F#4@11>1 F#4@13>2 Bb4@15>1
-  Part3        : C#5@7>1 C#5@9>1 C#5@11>1 C#5@13>2 F#5@15>1
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>2 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : F#5+Bb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@34 [F#] (grid:24t)
-  Melody       : F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
-  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
-  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>6 B4@16>2
-  Synth Brass  : C#4+F#4+Bb4@1>20
-  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@35 [F#]
-  Melody       : Bb5@5>7 Bb5@13>1 Bb5@15>2
-  Part2        : F#4@5>7 F#4@13>1 F#4@15>2
-  Part3        : C#5@5>7 C#5@13>1 C#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : Eb2@1>2 Eb2@4>1 C#2@5>2 Eb2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@36 [F#]
-  Melody       : Bb5@1>2 F#5@3>1 F#5@5>1 F#5@7>4 G#5@11>1
-  Part2        : F#4@1>2 F#4@3>1 C#4@5>1 C#4@7>4 C#4@11>1
-  Part3        : C#5@1>2 C#5@3>1 Bb4@5>1 Bb4@7>4 Bb4@11>1
-  Synth Brass  : C#4+F#4+Bb4@1>13
-  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
-  Synth Pad    : C#5+F5@13>2 B4+Eb5@15>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
-@37 [D#m] (grid:12t)
-  Melody       : F#5@7>1 F#5@10>1
-  Part2        : Eb4@7>1 Eb4@10>1
-  Part3        : B4@7>1 B4@10>1
-  Synth Brass  : Eb4+F#4+Bb4@1>10
-  Bass 1       : B2@1>2 B2@3>2 B2@5>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@3>1 C#4+C#5@12>1
-  Synth Pad    : B4+Eb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@3>1
-  Part10       : B4+F#5@1>2 B4+F#5@3>1
-@38 [B]
-  Melody       : F#5@1>2 G#5@3>1 Bb5@5>2 G#5@7>4 F#5@11>1 F#5@13>3
-  Part2        : Eb4@1>2 F4@3>1 F#4@5>2 F4@7>4 C#4@11>1 C#4@13>3
-  Part3        : B4@1>2 C#5@3>1 C#5@5>2 C#5@7>4 Bb4@11>1 Bb4@13>3
-  Synth Brass  : Eb4+F#4+B4@1>11 Eb4+F#4+B4@13>4
-  Bass 1       : B2@1>2 B2@4>3 B2@7>1 B2@9>4 C#3@13>4
-  Synth Brass#2: F#4+F#5@1>2 G#4+G#5@3>1 Bb4+Bb5@5>1 G#4+G#5@7>4 F#4+F#5@13>2
-  Synth Pad    : F5+G#5@13>2 F#5+Bb5@15>2
-  Guitar       : F#4+B4@1>1 F#4+B4@2>1 F#4+B4@4>1 F#4+B4@9>1 F#4+B4@10>1 F#4+B4@13>1
-@39 [F#]
-  Melody       : Bb5@5>8 Bb5@13>1 Bb5@15>2
-  Part2        : F#4@5>8 F#4@13>1 F#4@15>2
-  Part3        : C#5@5>8 C#5@13>1 C#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : F#5+Bb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@40 [F#] (grid:24t)
-  Melody       : Bb5@1>3 F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
-  Part2        : F#4@1>3 F#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
-  Part3        : C#5@1>3 C#5@4>2 Bb4@7>2 Bb4@10>8 B4@16>2
-  Synth Brass  : C#4+F#4+Bb4@1>20
-  Bass 1       : F#2@1>4 F#2@5>4 F#2@10>2
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@41 [F#]
-  Melody       : Bb5@7>1 Bb5@9>1 Bb5@10>1 Bb5@11>4 C#6@15>1
-  Part2        : F#4@7>1 F#4@9>1 F#4@10>1 F#4@11>4 Bb4@15>1
-  Part3        : C#5@7>1 C#5@9>1 C#5@10>1 C#5@11>4 F#5@15>1
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@42 [F#] (grid:24t)
-  Melody       : F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
-  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
-  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>6 Bb4@16>2
-  Synth Brass  : C#4+F#4+Bb4@1>20
-  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@43 [F#]
-  Melody       : Bb5@5>8 Bb5@13>1 Bb5@15>2
-  Part2        : F#4@5>8 F#4@13>1 F#4@15>2
-  Part3        : C#5@5>8 C#5@13>1 C#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : F#5+Bb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@44 [F#]
-  Melody       : Bb5@1>2 F#5@3>1 F#5@5>1 F#5@7>4 G#5@11>1
-  Part2        : F#4@1>2 C#4@3>1 C#4@5>1 C#4@7>4 C#4@11>1
-  Part3        : C#5@1>2 Bb4@3>1 Bb4@5>1 Bb4@7>5 B4@11>1
-  Synth Brass  : C#4+F#4+Bb4@1>13
-  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
-  Synth Pad    : F5+G#5@13>2 Eb5+F#5@15>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
-@45 [D#m7]
-  Melody       : F#5@9>1 F#5@13>1
-  Part2        : Eb4@9>1 Eb4@13>1
-  Part3        : B4@9>1 B4@13>1
-  Synth Brass  : Eb4+F#4+Bb4@1>14
-  Bass 1       : B2@1>3 B2@4>1 Bb2@5>1 B2@7>2 B2@15>1 Bb2@16>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : Eb5+F#5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : B4+C#6@1>2 B4+C#6@4>1
-@46 [D#m7 | B]
-  Melody       : F#5@1>2 G#5@3>1 Bb5@5>2 G#5@7>4 F#5@11>1 F#5@13>3
-  Part2        : Eb4@1>2 F4@3>1 F#4@5>2 F4@7>4 C#4@11>1 C#4@13>3
-  Part3        : B4@1>2 C#5@3>1 C#5@5>2 C#5@7>4 Bb4@11>1 Bb4@13>3
-  Synth Brass  : Eb4+F#4+Bb4@1>7 Eb4+F#4+B4@9>7
-  Bass 1       : G#2@1>4 Bb2@5>4 B2@9>4 C#3@13>2
-  Synth Brass#2: F#4+F#5@1>2 G#4+G#5@3>1 Bb4+Bb5@5>1 G#4+G#5@7>9
-  Bass 2       : G#1@1>4 Bb1@5>4 B1@9>4 C#2@13>2
-  Guitar       : F#4+Bb4@1>1 F#4+Bb4@3>1 F#4+B4@9>2 F#4+B4@12>1 F#4+B4@13>1
-@47 [F#]
-  Melody       : F#5@1>8 Bb5@11>4 C#6@15>1
-  Part2        : C#4@1>8
-  Part3        : Bb4@1>8
-  Synth Brass  : C#4+F#4+Bb4@1>14
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1 C#5+C#6@16>1
-  Guitar       : F#4+Bb4@1>1 F#4+Bb4@3>1 F#4+Bb4@4>1 F#4+Bb4@16>1
-  Part10       : C#6@1>2 C#6@4>1
-@48 [F#7] (grid:8)
-  Synth Brass  : F#4+Bb4+C#5@1>4 F#4+Bb4@7>1 C#4+F4+G#4@8>1
-  Bass 1       : F#2@1>1 Eb2@2>1 C#2@3>1 F#2@4>1
-  Synth Brass#2: Bb4+Bb5@1>1 G#4+G#5@2>1 F#4+F#5@3>1 F#4+F#5+F#6@4>1
-  Synth Pad    : F#5+Bb5@7>1 F5+G#5@8>1
-  Bass 2       : F#1@1>1 Eb1@2>1 C#1@3>1 F#1@4>1
-  Guitar       : F#4+Bb4@2>1 F#4+Bb4@4>1 F#4+Bb4@8>1
-  Part10       : F#5@1>1 F#5@2>1 F#5@3>1 Bb5@4>1
-@49 [C#]
-  Melody       : C#5@3>1 C#5@5>2 C#5@7>1 C#5@9>4 C#5@15>1
-  Synth Brass  : C#4+F4+G#4@1>16
-  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
-  Synth Pad    : F5+G#5@1>2
-@50 [C#] (grid:24t)
-  Melody       : C#5@1>3 C#5@4>2 C#5@7>3 Eb5@10>3 F5@16>3 F#5@22>3
-  Synth Brass  : C#4+F4+G#4@1>24
-  Bass 1       : C#2@1>4 C#2@5>4 C#2@10>2 Bb1@22>2 C#2@23>2
-@51 [F#]
-  Melody       : F#5@1>4 F5@5>2 F#5@7>1 Bb5@11>1 Eb5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : Eb2@1>2 Eb2@4>1 C#2@5>2 Eb2@7>1 C#2@15>1
-  Guitar       : C#4+F#4@1>14
-@52 [D#m] (grid:8)
-  Melody       : Eb5@1>3
-  Synth Brass  : C#4@1>1 Bb4@2>1 F#4@3>1 Eb4@4>1 Bb3+Eb4+F#4@5>2 Bb3+Eb4+F#4@7>2
-  Bass 1       : Eb2@1>2 Eb2@3>2 Eb2@4>1 G#1@5>2 Bb1@7>2
-  Synth Pad    : F#5+Bb5@2>1 Eb5+F#5@3>1 B4+Eb5@4>1 Bb4+C#5@5>1 B4+Eb5@6>1 F#5+Bb5@7>1 F5+G#5@8>1
-  Guitar       : F#4@2>1 Eb4@3>2 Bb3@5>1 Eb4@6>1 F#4@7>1 F4@8>1
-@53 [C#]
-  Melody       : Eb5@3>2 Eb5@5>3 Eb5@9>2 C#5@11>1 C#5@15>1
-  Synth Brass  : G#3+C#4+F4@1>16
-  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
-  Synth Pad    : F5+G#5@1>2
-  Guitar       : F4@1>12
-@54 [C#] (grid:24t)
-  Melody       : Eb5@1>6 C#5@7>3 Eb5@10>3 F5@19>2 F5@22>2
-  Synth Brass  : G#3+C#4+F4@1>20
-  Bass 1       : C#2@1>4 C#2@5>4 C#2@10>2 C#2@19>2 Bb1@22>2 C#2@23>2
-@55 [F#] (grid:24t)
-  Melody       : F#5@1>6 F5@7>4 F#5@10>2 Bb5@16>2 Eb5@22>3
-  Synth Brass  : Bb3+C#4+F#4@1>24
-  Bass 1       : Eb2@1>3 Eb2@5>4 Eb2@10>2 C#2@22>2
-  Guitar       : F#4+C#5@1>21
-@56 [D#m7 | F#] (grid:24t)
-  Melody       : Eb5@1>9
-  Synth Brass  : Bb3+C#4+F#4@1>20
-  Bass 1       : Eb2@1>4 Eb2@5>4 C#2@10>2 Eb2@13>6 Bb1@19>6
-  Synth Pad    : Eb5+F#5@13>3 F5+G#5@16>3 F#5+Bb5@19>6
-  Guitar       : F#3+C#4@13>12
-@57 [B | F#]
-  Melody       : B5@3>2 B5@5>1 B5@7>1 B5@9>3 Bb5@13>2 Bb5@15>2
-  Synth Brass  : G#3+Eb4+F#4@1>7 G#3+C#4+F#4@11>2 G#3+C#4+F#4@15>2
-  Bass 1       : G#1@1>2 G#1@8>1 G#1@9>2 Bb1@11>2 B1@13>2 C#2@15>2
-  Synth Pad    : G#5+B5@1>4
-  Guitar       : Eb4+F#4@1>10 Eb4+F#4@11>1 Eb4+F#4@15>1
-@58 [C#]
-  Melody       : G#5@3>2 G#5@7>4 C#5@13>1 C#5@15>2
-  Synth Brass  : G#3+C#4+F4@3>2 G#3+C#4+F4@7>9
-  Bass 1       : C#2@7>1 C#2@9>3 Bb1@12>1 B1@13>3 Bb1@16>1
-  Guitar       : C#4+F4@3>1 C#4+F4@7>7
-@59 [F# | C#]
-  Melody       : Bb5@1>3 Bb5@5>1 C#6@7>4 Bb5@11>1 G#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>7 C#4+F4+G#4@11>2 C#4+F4+G#4@15>2
-  Bass 1       : Bb1@1>1 Bb1@8>1 Bb1@9>2 G#1@11>2 Bb1@13>2 B1@15>1
-  Guitar       : C#4+F#4@1>10 C#4+F4@11>1 C#4+F4@15>1
-@60 [B] (grid:8)
-  Melody       : F#5@2>1 F#5@4>4 Eb5@8>1
-  Synth Brass  : C#4+F#4+Bb4@2>1 B3+Eb4+F#4@4>4
-  Bass 1       : B1@4>1 B1@5>2 Bb1@7>2
-  Synth Pad    : Eb5+F#5@5>1 F5+G#5@6>1 F#5+Bb5@7>2
-  Guitar       : C#4+F#4@2>1 B3+Eb4@4>5
-@61 [G#m7 | C#] (grid:8)
-  Melody       : B5@1>2 B5@3>1 Bb5@4>1 G#5@6>3
-  Synth Brass  : B3+Eb4+F#4@1>2 B3+C#4+F#4@4>1 G#3+C#4+F4@6>3
-  Bass 1       : G#1@1>2 Bb1@4>1 Eb2@6>3
-  Synth Brass#2: B3+Eb4@1>3 F#4@4>1 C#4+F4@6>3
-  Synth Pad    : G#5+B5@1>2 F#5+Bb5@4>1 F5+G#5@6>2
-  Guitar       : B3+Eb4@1>2 C#4+F#4@4>1 C#4+F4@6>3
-  Part10       : G#3@1>2 G#3+C#4@4>1 G#3@6>3
-@62 [C#] (grid:24t)
-  Melody       : G#5@1>6 Bb5@10>2 G#5@13>4 G#5@17>4 Bb5@22>2
-  Synth Brass  : G#3+C#4+F4@1>12
-  Bass 1       : Eb2@1>16
-  Synth Brass#2: C#4+F4@1>18
-  Guitar       : C#4+F4@1>15
-  Part10       : G#3@1>18
-@63 [B7 | A#aug] (grid:8)
-  Melody       : F#5@1>6
-  Synth Brass  : B4@1>1 Bb4@2>1 B4@3>1 C#5@4>1
-  Bass 1       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
-  Synth Brass#2: B4+B5@1>1 Bb4+Bb5@2>1 B4+B5@3>1 C#5+C#6@4>1
-  Bass 2       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
-  Guitar       : B3@1>1 Bb3@2>1 B3@3>1 C#4@4>1
-  Part10       : Eb4@1>1 Eb4@2>1 Eb4@3>1 C#4@4>1
-@64 [F#]
-  Melody       : Bb5@5>7 Bb5@13>1 Bb5@15>2
-  Part2        : F#4@5>7 F#4@13>1 F#4@15>2
-  Part3        : C#5@5>7 C#5@13>1 C#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : F#5+Bb5@1>4
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : C#5+C#6@1>2 C#5+C#6@4>1
-@65 [F#] (grid:24t)
-  Melody       : Bb5@1>3 F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
-  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
-  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>6 Bb4@16>2
-  Synth Brass  : C#4+F#4+Bb4@1>20
-  Bass 1       : F#2@1>4 F#2@5>4 F#2@10>2
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@66 [F#]
-  Melody       : Bb5@7>1 Bb5@9>1 Bb5@11>1 Bb5@13>2 C#6@15>1
-  Part2        : F#4@7>1 F#4@9>1 F#4@11>1 F#4@13>2 Bb4@15>1
-  Part3        : C#5@7>1 C#5@9>1 C#5@11>1 C#5@13>2 F#5@15>1
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : F#5+Bb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@67 [F#] (grid:24t)
-  Melody       : F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
-  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
-  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>6 B4@16>2
-  Synth Brass  : C#4+F#4+Bb4@1>20
-  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@68 [F#]
-  Melody       : Bb5@5>7 Bb5@13>1 Bb5@15>2
-  Part2        : F#4@5>7 F#4@13>1 F#4@15>2
-  Part3        : C#5@5>7 C#5@13>1 C#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@69 [F#]
-  Melody       : Bb5@1>2 F#5@3>1 F#5@5>1 F#5@7>4 G#5@11>1
-  Part2        : F#4@1>2 F#4@3>1 C#4@5>1 C#4@7>4 C#4@11>1
-  Part3        : C#5@1>2 C#5@3>1 Bb4@5>1 Bb4@7>4 Bb4@11>1
-  Synth Brass  : C#4+F#4+Bb4@1>13
-  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
-  Synth Pad    : C#5+F5@13>2 B4+Eb5@15>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
-@70 [D#m] (grid:12t)
-  Melody       : F#5@7>1 F#5@10>1
-  Part2        : Eb4@7>1 Eb4@10>1
-  Part3        : B4@7>1 B4@10>1
-  Synth Brass  : Eb4+F#4+Bb4@1>10
-  Bass 1       : B2@1>2 B2@3>2 B2@5>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@3>1 C#4+C#5@12>1
-  Synth Pad    : B4+Eb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@3>1
-  Part10       : B4+F#5@1>2 B4+F#5@3>1
-@71 [B]
-  Melody       : F#5@1>2 G#5@3>1 Bb5@5>2 G#5@7>4 F#5@11>1 F#5@13>3
-  Part2        : Eb4@1>2 F4@3>1 F#4@5>2 F4@7>4 Eb4@11>1 C#4@13>3
-  Part3        : B4@1>2 C#5@3>1 C#5@5>2 C#5@7>4 Bb4@11>1 Bb4@13>3
-  Synth Brass  : Eb4+F#4+B4@1>11 Eb4+F#4+B4@13>4
-  Bass 1       : B2@1>2 B2@4>3 B2@7>1 B2@9>4 C#3@13>4
-  Synth Brass#2: F#4+F#5@1>2 G#4+G#5@3>2 Bb4+Bb5@5>2 G#4+G#5@7>4 F#4+F#5@13>2
-  Synth Pad    : F5+G#5@13>2 F#5+Bb5@15>2
-  Guitar       : F#4+B4@1>1 F#4+B4@4>1 F#4+B4@9>1 F#4+B4@10>1 F#4+B4@13>1
-@72 [F#]
-  Melody       : Bb5@5>8 Bb5@13>1 Bb5@15>2
-  Part2        : F#4@5>8 F#4@13>1 F#4@15>2
-  Part3        : C#5@5>8 C#5@13>1 C#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : F#5+Bb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@73 [F#] (grid:24t)
-  Melody       : Bb5@1>3 F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
-  Part2        : F#4@1>3 C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
-  Part3        : C#5@1>3 Bb4@4>2 Bb4@7>2 Bb4@10>8 B4@16>2
-  Synth Brass  : C#4+F#4+Bb4@1>20
-  Bass 1       : F#2@1>4 F#2@5>4 F#2@10>2
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@74 [F#]
-  Melody       : Bb5@7>1 Bb5@9>1 Bb5@10>1 Bb5@11>4 C#6@15>1
-  Part2        : F#4@7>1 F#4@9>1 F#4@10>1 F#4@11>4 Bb4@15>1
-  Part3        : C#5@7>1 C#5@9>1 C#5@10>1 C#5@11>4 F#5@15>1
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : F#2@1>3 F#2@4>1 Eb2@5>2 F#2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@75 [F#] (grid:24t)
-  Melody       : F#5@4>2 F#5@7>2 F#5@10>6 G#5@16>2
-  Part2        : C#4@4>2 C#4@7>2 C#4@10>6 C#4@16>2
-  Part3        : Bb4@4>2 Bb4@7>2 Bb4@10>8 B4@16>2
-  Synth Brass  : C#4+F#4+Bb4@1>20
-  Bass 1       : F#2@1>4 F#2@5>2 F#2@13>6 F2@19>6
-  Synth Pad    : F5+G#5@19>3 F#5+Bb5@22>3
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@5>2 F#4+Bb4@13>3 F#4+Bb4@17>2
-@76 [F#]
-  Melody       : Bb5@5>8 Bb5@13>1 Bb5@15>2
-  Part2        : F#4@5>8 F#4@13>1 F#4@15>2
-  Part3        : C#5@5>8 C#5@13>1 C#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>16
-  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Synth Pad    : F#5+Bb5@1>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : F#4+C#6@1>2 F#4+C#6@4>1
-@77 [F#]
-  Melody       : Bb5@1>2 F#5@3>1 F#5@5>1 F#5@7>4 G#5@11>1
-  Part2        : F#4@1>2 C#4@3>1 C#4@5>1 C#4@7>4 C#4@11>1
-  Part3        : C#5@1>2 Bb4@3>1 Bb4@5>1 Bb4@7>5 B4@11>1
-  Synth Brass  : C#4+F#4+Bb4@1>13
-  Bass 1       : Eb2@1>3 Eb2@4>1 Eb2@9>3 Eb2@12>1 Bb2@13>3 Bb2@16>1
-  Synth Pad    : F5+G#5@13>2 Eb5+F#5@15>2
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1 F#4+Bb4@9>2 F#4+Bb4@12>1
-@78 [D#m7]
-  Melody       : F#5@9>1 F#5@13>1
-  Part2        : Eb4@9>1 Eb4@13>1
-  Part3        : B4@9>1 B4@13>1
-  Synth Brass  : Eb4+F#4+Bb4@1>14
-  Bass 1       : B2@1>3 B2@4>1 Bb2@5>1 B2@7>2 B2@15>1 Bb2@16>1
-  Synth Brass#2: C#5+F#5+Bb5@1>2 C#5+F#5+Bb5@4>1
-  Guitar       : F#4+Bb4@1>2 F#4+Bb4@4>1
-  Part10       : B4+C#6@1>2 B4+C#6@4>1
-@79 [D#m7 | B] (grid:8)
-  Melody       : F#5@1>1 G#5@2>1 Bb5@3>1 G#5@4>2 F#5@6>1 F5@7>1 F#5@8>1
-  Part2        : Eb4@1>1 F4@2>1 F#4@3>1 F4@4>2 Eb4@6>1 C#4@7>1 C#4@8>1
-  Part3        : Bb4@1>1 C#5@2>1 C#5@3>1 C#5@4>2 Bb4@6>1 Bb4@7>1 Bb4@8>1
-  Synth Brass  : Eb4+F#4+Bb4@1>4 Eb4+F#4+B4@5>4
-  Bass 1       : G#2@1>2 Bb2@3>2 B2@5>2 C#3@7>1
-  Synth Brass#2: F#4+F#5@1>1 G#4+G#5@2>1 Bb4+Bb5@3>1 G#4+G#5@4>2
-  Bass 2       : G#1@1>2 Bb1@3>2 B1@5>2 C#2@7>1
-  Guitar       : F#4+Bb4@1>1 F#4+Bb4@2>1 F#4+Bb4@3>1 F#4+B4@5>1 F#4+B4@7>1
-@80 [D#m]
-  Melody       : F#5@1>10 Bb5@13>4
-  Part2        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Bb4@7>7 Bb4@16>1
-  Part3        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Eb5@7>7 Bb4@16>1
-  Synth Brass  : Bb3+Eb4+F#4@1>14
-  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1 C#2@16>1
-  Bass 2       : Eb2@1>3 Eb2@4>1 C#2@5>2 Eb2@7>1 C#2@16>1
-  Guitar       : Eb4+F#4@1>1 Eb4+F#4@2>1 Eb4+F#4@3>1 C#4+F4@4>1 C4@5>1 Eb4+F#4@6>1 Eb4@7>1 Eb4+F#4@8>1 C#4+F4@9>3 Eb4+F#4@12>1
-@81 [D#7 | D#m7]
-  Melody       : Bb5@1>4
-  Part2        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Bb4@7>7
-  Part3        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Eb5@7>7
-  Bass 1       : Eb2@1>2 Eb2@4>2 Eb2@7>1 C#2@16>1
-  Bass 2       : Eb2@1>3 Eb2@4>3 Eb2@7>1 C#2@16>1
-  Guitar       : G#3+C#4+F4@1>1 G#3+C#4+F4@2>1 G#3+C#4@3>1 G#3+C#4+F4@4>1 G#3+C#4@5>1 G#3+C#4@6>1 G#3+C#4@7>1 G#3+C#4+F4@9>1 G#3+C#4+F4@10>1 G#3+C#4@11>1 Bb3+Eb4+F#4@12>1
-@82 [C#]
-  Melody       : Bb5@5>1 C#6@7>4 Bb5@11>1 Bb5@13>1 C5+C#6@15>2
-  Synth Brass  : G#3+C#4+F4@1>14
-  Bass 1       : C#2@1>2 C#2@4>1 Bb1@5>2 C#2@7>1
-  Bass 2       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1
-  Guitar       : C#4+F4@1>1 G#3@2>1 G#3@3>1 C#4+F4@4>1 G#3@6>1 G#3@7>1 G#3@8>1 C#4@9>1 G#3@10>1 G#3@11>1 G#3@12>1 C#4@14>1 G#3@15>1 G#3@16>1
-@83 [A#m7]
-  Melody       : C#6@1>3 Bb5@5>7
-  Bass 1       : C#2@1>3 C#2@4>3 C#2@7>1 G#1@9>4 Bb1@13>4
-  Bass 2       : C#2@1>3 C#2@4>3 C#2@7>1 G#1@9>4 Bb1@13>4
-  Guitar       : C#4+F4@1>1 G#3@2>1 G#3+C#4@3>1 C#4+F4@4>1 C#4@6>1 G#3@7>1 B3+Eb4+G#4@9>4 C#4+F4+Bb4@13>4
-@84 [D#m]
-  Part2        : Bb4@1>1 Bb4@3>1 Bb4@4>1 Bb4@7>7 Bb4@16>1
-  Part3        : Bb4@1>1 Bb4@3>1 Bb4@4>1 Eb5@7>7 Bb4@16>1
-  Synth Brass  : Bb3+Eb4+F#4@1>14
-  Bass 1       : Eb2@1>3 Eb2@4>1 C#2@5>1 Eb2@7>5
-  Bass 2       : Eb2@1>3 Eb2@4>1 C#2@5>1 Eb2@7>5
-  Guitar       : Eb4+F#4@1>1 Eb4+F#4@2>1 Eb4+F#4@3>1 C#4+F4@4>1 C4@5>1 Eb4+F#4@6>1 Eb4@7>1 Eb4+F#4@8>1 C#4+F4@9>3 Eb4+F#4@12>1
-@85 [D#7 | D#m7]
-  Part2        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Bb4@7>7
-  Part3        : Bb4@1>2 Bb4@3>1 Bb4@4>1 Eb5@7>7
-  Bass 1       : Eb2@1>3 Eb2@4>2 Eb2@7>1 C#2@15>1 Eb2@16>1
-  Bass 2       : Eb2@1>3 Eb2@4>2 Eb2@7>1 C#2@15>1 Eb2@16>1
-  Guitar       : G#3+C#4+F4@1>1 G#3+C#4+F4@2>1 G#3+C#4@3>1 G#3+C#4+F4@4>1 G#3+C#4@5>1 G#3+C#4@6>1 G#3+C#4@7>1 G#3+C#4+F4@9>1 G#3+C#4+F4@10>1 G#3+C#4@11>1 Bb3+Eb4+F#4@12>1
-@86 [C#]
-  Melody       : Bb5@5>1 C#6@7>7 Bb5@15>1
-  Synth Brass  : G#3+C#4+F4@1>14
-  Bass 1       : C#2@1>3 C#2@4>3 C#2@7>1
-  Bass 2       : C#2@1>3 C#2@4>3 C#2@7>1
-  Guitar       : C#4+F4@1>1 G#3@2>1 G#3@3>1 C#4+F4@4>1 G#3@6>1 G#3@7>1 G#3@8>1 C#4@9>1 G#3@10>1 G#3@11>1 G#3@12>1 C#4@14>1 G#3@15>1 G#3@16>1
-@87 [A#m7] (grid:24t)
-  Melody       : Eb6@1>6 Bb5@7>2 C#6@10>8 Bb5@19>4
-  Bass 1       : C#2@1>4 C#2@5>3 Bb1@10>2 C#2@13>4 B1@17>4 B1@22>3
-  Synth Pad    : C#5+F5@13>4 Eb5+F#5@17>4 F5+G#5@22>3
-  Bass 2       : C#2@1>4 C#2@5>3 Bb1@10>2 C#2+C#3@13>4 B1+B2@17>4 B1+Bb2@22>3
-  Guitar       : C#4+F4@1>4 C#4+F4@5>2 C#4+F4@13>3 Eb4+F#4@17>3 F4+G#4@22>2
-@88 [B | F#]
-  Melody       : B5@5>4 B5@9>2 Bb5@11>1 Bb5@15>1
-  Synth Brass  : G#3+Eb4+F#4@1>7 G#3+C#4+F#4@11>2 G#3+C#4+F#4@15>2
-  Bass 1       : G#1@1>2 G#1@8>1 G#1@9>2 Bb1@11>2 B1@13>2 C#2@15>2
-  Synth Pad    : G#5+B5@1>4
-  Guitar       : Eb4+F#4@1>9 Eb4+F#4@11>1 C#4+F4@15>1
-@89 [C#]
-  Melody       : G#5@3>1 G#5@7>2 C#5@11>1 C#5@13>1 Eb6@15>2
-  Synth Brass  : G#3+C#4+F4@3>2 G#3+C#4+F4@7>9
-  Bass 1       : C#2@7>1 C#2@9>3 Bb1@12>1 B1@13>3 Bb1@16>1
-  Guitar       : C#4+F4@3>1 C#4+F4@7>9
-@90 [F# | C#]
-  Melody       : Eb6@1>2 C#6@3>1 Bb5@7>4 G#5@11>1 G#5@15>2
-  Synth Brass  : C#4+F#4+Bb4@1>7 C#4+F4+G#4@11>2 C#4+F4+G#4@15>2
-  Bass 1       : Bb1@1>2 Bb1@8>1 Bb1@9>2 G#1@11>2 Bb1@13>2 B1@15>1
-  Synth Pad    : F#5+Bb5@1>4
-  Guitar       : F#4+Bb4@1>3 F#4+Bb4@4>1 F4+G#4@11>1 F4+G#4@15>1
-@91 [D#m7 | B]
-  Melody       : G#5@1>2 Bb5@3>1 F#5@7>1 G#5@9>1 F#5@10>1 Eb5@11>2 C#5@15>1
-  Synth Brass  : C#4+F#4+Bb4@3>2 B3+Eb4+F#4@7>7
-  Bass 1       : B1@7>1 B1@9>4 Bb1@13>4
-  Synth Pad    : C#5+F5@9>2 Eb5+F#5@11>2 F5+G#5@13>4
-  Guitar       : F#4+Bb4@3>1 Eb4+F#4@7>8
-@92 [G#m | C#] (grid:8)
-  Melody       : B5@1>2 B5@3>1 Bb5@4>1 G#5@6>3
-  Synth Brass  : G#3+B3+Eb4@1>2 Bb3+Eb4+F#4@4>1 Bb3+C#4+F4@6>3
-  Bass 1       : G#1@1>2 Bb1@4>1 Eb2@6>3
-  Synth Pad    : G#5+B5@1>2 F#5+Bb5@4>1 Eb5+G#5@6>2
-  Guitar       : G#3+Eb4@1>2 Bb3+F#4@4>1 G#3+F4@6>3
-@93 [C# | G#] (grid:24t)
-  Melody       : G#5@1>8 Bb5@10>2 G#5@13>3 G#5@17>3 Bb5@22>2
-  Synth Brass  : Bb3+C#4+F4@1>12
-  Bass 1       : Eb2@1>15
-  Guitar       : G#3+F4@1>14
-@94 [A#m] (grid:8)
-  Melody       : C#6@1>7
-  Synth Brass  : B4@1>1 Bb4@2>1 B4@3>1 C#5@4>1
-  Bass 1       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
-  Synth Brass#2: B4+B5@1>1 Bb4+Bb5@2>1 B4+B5@3>1 C#5+C#6@4>1
-  Bass 2       : B1@1>1 Bb1@2>1 B1@3>1 C#2@4>1 Bb1@7>2
-  Guitar       : B3@1>1 Bb3@2>1 B3@3>1 C#4@4>1
-@95 [G#]
-  Melody       : C6@5>8 C6@13>1 C6@15>2
-  Part2        : G#4@5>8 G#4@13>1 G#4@15>2
-  Part3        : Eb5@5>8 Eb5@13>1 Eb5@15>2
-  Synth Brass  : G#3+C4+Eb4@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
-  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
-  Synth Pad    : G#5+C6@1>4
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@96 [G#] (grid:24t)
-  Melody       : C6@1>3 G#5@4>2 G#5@7>2 G#5@10>6 Bb5@16>2
-  Part2        : G#4@1>3 Eb4@4>2 Eb4@7>2 Eb4@10>6 Eb4@16>2
-  Part3        : Eb5@1>3 C5@4>2 C5@7>2 C5@10>8 C#5@16>2
-  Synth Brass  : G#3+C4+Eb4@1>20
-  Bass 1       : G#1@1>3 G#1@5>4 G#1@10>2
-  Synth Pad    : G5+Bb5@19>3 G#5+C6@22>3
-  Guitar       : G#4+C5@1>4 G#4+C5@5>2 G#4+C5@13>4 G#4+C5@17>2
-@97 [G#]
-  Melody       : C6@7>1 C6@9>1 C6@10>1 C6@11>4 Eb6@15>1
-  Part2        : G#4@7>1 G#4@9>1 G#4@10>1 G#4@11>4 C5@15>1
-  Part3        : Eb5@7>1 Eb5@9>1 Eb5@10>1 Eb5@11>4 G#5@15>1
-  Synth Brass  : G#3+C4+Eb4@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
-  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@98 [G#]
-  Melody       : G#5@3>1 G#5@5>1 G#5@7>4 Bb5@11>1
-  Part2        : Eb4@3>1 Eb4@5>1 Eb4@7>4 Eb4@11>1
-  Part3        : C5@3>1 C5@5>1 C5@7>5 C#5@11>1
-  Synth Brass  : G#3+C4+Eb4@1>13
-  Bass 1       : G#1@1>2 G#1@4>3 G#1@7>1 G#1@9>3 G#1@12>1 G1@13>3 G1@16>1
-  Synth Brass#2: G#5+C6+Eb6@13>2
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@99 [G#]
-  Melody       : C6@5>8 C6@13>1 C6@15>2
-  Part2        : G#4@5>8 G#4@13>1 G#4@15>2
-  Part3        : Eb5@5>8 Eb5@13>1 Eb5@15>2
-  Synth Brass  : G#3+C4+Eb4@1>16
-  Bass 1       : F1@1>3 F1@4>1 Eb1@5>2 F1@7>1
-  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@100 [G#]
-  Melody       : C6@1>2 G#5@3>1 G#5@5>1 G#5@7>4 Bb5@11>1
-  Part2        : G#4@1>2 Eb4@3>1 Eb4@5>1 Eb4@7>4 Eb4@11>1
-  Part3        : Eb5@1>2 C5@3>1 C5@5>1 C5@7>4 C5@11>1
-  Synth Brass  : G#3+C4+Eb4@1>13
-  Bass 1       : F1@1>3 F1@4>1 F1@7>1 Eb1@8>1 F1@9>3 Eb1@12>1 C2@13>4
-  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@101 [C#]
-  Melody       : G#5@9>1 G#5@13>1
-  Part2        : F4@9>1 F4@13>1
-  Part3        : C#5@9>1 C#5@13>1
-  Synth Brass  : G#3+C#4+F4@1>14
-  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>2 Bb1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : F5+G#5@1>2
-  Guitar       : Eb4+G#4@1>3 Eb4+G#4@4>1
-  Part10       : G#4+F5@1>2 G#4+F5@4>1
-@102 [C# | D#7] (grid:8)
-  Melody       : G#5@1>1 Bb5@2>1 C6@3>1 Bb5@4>2 G#5@6>1 G#5@7>1
-  Part2        : Eb4@1>1 G4@2>1 G#4@3>1 G4@4>2 Eb4@6>1 Eb4@7>1
-  Part3        : C#5@1>1 C#5@2>1 Eb5@3>1 Eb5@4>2 C5@6>1 C5@7>1
-  Synth Brass  : G#3+C#4+F4@1>4 G#3+C#4+F4@5>2 Bb3+Eb4+G4@7>1
-  Bass 1       : C#2@1>2 C#2@3>1 C#2@4>1 C#2@5>2 Eb2@7>2
-  Synth Brass#2: G#4+G#5@1>1 Bb4+Bb5@2>1 C5+C6@3>1 Bb4+G5+Bb5@4>4
-  Synth Pad    : G5+Bb5@7>1 G#5+C6@8>1
-  Bass 2       : C#2@1>2 C#2@3>1 C#2@4>1 C#2@5>2 Eb2@7>2
-  Guitar       : Eb4+G#4@1>1 Eb4+G#4@3>1 Eb4+G#4@5>1 Eb4+G4@7>1
-@103 [G#]
-  Melody       : C6@5>8 C6@13>1 C6@15>2
-  Part2        : G#4@5>8 G#4@13>1 G#4@15>2
-  Part3        : Eb5@5>8 Eb5@13>1 Eb5@15>2
-  Synth Brass  : C4+Eb4+G#4@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
-  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@104 [G#] (grid:24t)
-  Melody       : C6@1>3 G#5@4>2 G#5@7>2 G#5@10>6 Bb5@16>2
-  Part2        : G#4@1>3 Eb4@4>2 Eb4@7>2 Eb4@10>6 Eb4@16>2
-  Part3        : Eb5@1>3 C5@4>2 C5@7>2 C5@10>8 C#5@16>2
-  Synth Brass  : C4+Eb4+G#4@1>20
-  Bass 1       : G#1@1>3 G#1@5>4 G#1@10>2
-  Synth Pad    : G5+Bb5@19>3 G#5+C6@22>3
-  Guitar       : G#4+C5@1>4 G#4+C5@5>2 G#4+C5@13>4 G#4+C5@17>2
-@105 [G#]
-  Melody       : C6@7>1 C6@9>1 C6@10>1 C6@11>4 Eb6@15>1
-  Part2        : G#4@7>1 G#4@9>1 G#4@10>1 G#4@11>4 C5@15>1
-  Part3        : Eb5@7>1 Eb5@9>1 Eb5@10>1 Eb5@11>4 G#5@15>1
-  Synth Brass  : C4+Eb4+G#4@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@106 [G#]
-  Melody       : G#5@3>1 G#5@5>1 G#5@7>4 Bb5@11>1
-  Part2        : Eb4@3>1 Eb4@5>1 Eb4@7>4
-  Part3        : C5@3>1 C5@5>1 C5@7>4
-  Synth Brass  : C4+Eb4+G#4@1>13
-  Bass 1       : G#1@1>3 G#1@4>1 F1@7>1 G#1@8>1 G#1@9>4 G1@13>4
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@107 [G#]
-  Melody       : C6@5>8 C6@13>1 C6@15>2
-  Part2        : G#4@5>8 G#4@13>1 G#4@15>2
-  Part3        : Eb5@5>8 Eb5@13>1 Eb5@15>2
-  Synth Brass  : C4+Eb4+G#4@1>16
-  Bass 1       : F1@1>3 F1@4>1 Eb1@5>2 F1@7>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@108 [G#]
-  Melody       : C6@1>2 G#5@3>1 G#5@5>1 G#5@7>4 Bb5@11>1
-  Part2        : G#4@1>2 Eb4@3>1 Eb4@5>1 Eb4@7>4 Eb4@11>1
-  Part3        : Eb5@1>2 C5@3>1 C5@5>1 C5@7>4 C5@11>1
-  Synth Brass  : C4+Eb4+G#4@1>13
-  Bass 1       : F1@1>3 F1@4>2 F1@7>1 F1@9>3 F1@12>1 C2@13>3 C2@16>1
-  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@109 [C#]
-  Melody       : G#5@9>1 G#5@13>1
-  Part2        : F4@9>1 F4@13>1
-  Part3        : C#5@9>1 C#5@13>1
-  Synth Brass  : G#3+C#4+F4@1>14
-  Bass 1       : C#2@1>3 C#2@4>1 B1@5>2 C#2@7>1 C#2@15>1 C2@16>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : F5+G#5@1>2
-  Guitar       : C#4+F4@1>2 C#4+F4@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@110 [Fm7 | D#]
-  Melody       : G#5@1>2 Bb5@3>1 C6@5>2 Eb6@7>4 C6@11>1
-  Part2        : F4@1>2 G4@3>1 G#4@5>2 G4@7>4
-  Part3        : C#5@1>2 Eb5@3>1 Eb5@5>2 Eb5@7>4
-  Synth Brass  : G#3+C#4+F4@1>7 Bb3+Eb4+G4@9>7
-  Bass 1       : Bb1@1>3 Bb1@4>1 C2@5>3 C2@8>1 C#2@9>3 Bb1@12>1 Eb2@13>4
-  Synth Brass#2: G#4+G#5@1>2 Bb4+Bb5@3>1 C5+C6@5>2 Bb4+G5+Bb5@7>5 G#4+G#5@13>1 G#5+G#6@15>1
-  Bass 2       : Bb1@1>3 Bb1@4>1 C2@5>3 C2@8>1 C#2@9>3 Bb1@12>1 Eb2@13>4
-  Guitar       : C#4+F4@1>2 C#4+F4@4>1 Eb4+G4@9>1 Eb4+G4@13>1 Eb4+G4@14>1
-@111 [G#] (grid:24t)
-  Bass 1       : G#1@1>15
-  Synth Brass#2: Eb5+G#5+C6@1>3 Eb5+G#5+C6@5>2
-  Bass 2       : G#1@1>15
-  Guitar       : G#4+C5@1>6 G#4@15>2 F4@16>2 Eb4@17>2
-@112 [G#]
-  Synth Brass#2: Eb5+G#5+C6@16>1
-  Guitar       : G#3+G#4@10>1 G#3+G#4@12>1 G#3+G#4@14>1 G#3+G#4@16>1
-@113 [G#] (grid:24t)
-  Bass 1       : G#1@1>15
-  Synth Brass#2: Eb5+G#5+C6@1>4
-  Bass 2       : G#1@1>15
-  Guitar       : G#3+G#4@1>4 G#4@21>2 F4@22>2 Eb4@23>2
-@114 [G#]
-  Synth Brass#2: Eb5+G#5+C6@16>1
-  Guitar       : G#3+G#4@10>1 G#3+G#4@12>1 G#3+G#4@14>1 G#3+G#4@16>1
-@115 [G#] (grid:24t)
-  Bass 1       : G#1@1>15
-  Synth Brass#2: Eb5+G#5+C6@1>4
-  Bass 2       : G#1@1>15
-  Guitar       : G#3+G#4@1>4 G#4@21>2 F4@22>2 Eb4@23>2
-@116 [G#]
-  Synth Brass#2: Eb5+G#5+C6@16>1
-  Guitar       : G#3+G#4@10>1 G#3+G#4@12>1 G#3+G#4@14>1 G#3+G#4@16>1
-@117 [G#] (grid:24t)
-  Bass 1       : G#1@1>15
-  Synth Brass#2: Eb5+G#5+C6@1>4
-  Bass 2       : G#1@1>15
-  Guitar       : G#3+G#4@1>4 G#4@21>2 F4@22>2 Eb4@23>2
-@118 [G#]
-  Melody       : C6@1>1 C6@3>1 C6@5>1 C6@7>1 Eb6@8>2 C6@11>1
-  Part2        : G#4@1>1 G#4@3>1 G#4@5>1 G#4@7>1 C5@8>2 G#4@11>1
-  Guitar       : G#3+G#4@10>1 G#3+G#4@12>1 G#3+G#4@14>1 G#4@16>1
-@119 [G#]
-  Melody       : C6@1>1 C6@4>1 C6@5>1 C6@6>1 C6@7>3
-  Part2        : G#4@1>1 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>3
-  Part3        : Eb5@1>1 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>3
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
-  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
-  Synth Pad    : G#5+C6@1>4
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@120 [G#]
-  Melody       : G#5@5>1 Eb5@7>1 F5@8>2 G#5@11>1
-  Synth Brass  : Eb4+G#4+C5@1>13
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>5
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@121 [G#]
-  Melody       : C6@1>1 C6@4>1 C6@5>1 C6@6>1 C6@7>1 G5+G#5+A5+Bb5+B5@8>1 D5+Eb5+E5+F5+F#5@9>1 C5+C#5@10>1
-  Part2        : G#4@1>1 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>1 Eb4+E4+F4+F#4+G4@8>1 Bb3+B3+C4+C#4+D4@9>1 G#3+A3@10>1
-  Part3        : Eb5@1>1 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>1 Bb4+B4+C5+C#5+D5@8>1 F4+F#4+G4+G#4+A4@9>1 Eb4+E4@10>1
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>1
-  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@122 [G#]
-  Melody       : G#5@5>2 F5@7>1 G#5@8>1 D6+Eb6@13>2 A5+Bb5+B5+C6+C#6+D6@15>1 E5+F5+F#5+G5+G#5@16>1
-  Synth Brass  : Eb4+G#4+C5@1>13
-  Bass 1       : G#1@1>3 G#1@4>1 F1@5>1 G#1@7>1 G#1@8>1 G#1@9>3 G#1@12>1 G1@13>4
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@123 [G#]
-  Melody       : Eb6@1>1 Eb6@4>1 Eb6@5>1 Eb6@6>1 C6@7>2 F#5+G5+G#5+A5+Bb5+B5@9>1 C#5+D5+Eb5+E5+F5@10>1
-  Part2        : G#4@1>1 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>2 D4+Eb4+E4+F4+F#4+G4@9>1 A3+Bb3+B3+C4+C#4@10>1
-  Part3        : Eb5@1>1 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>2 A4+Bb4+B4+C5+C#5+D5@9>1 E4+F4+F#4+G4+G#4@10>1
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : F1@1>3 F1@4>1 Eb1@5>2 F1@7>2
-  Synth Brass#2: Eb5+G#5+C6@1>2 Eb5+G#5+C6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@124 [G# | Fm7]
-  Melody       : G#5@5>1 F5@7>1 G#5@8>2 C6@11>4
-  Synth Brass  : Eb4+G#4+C5@1>13
-  Bass 1       : F1@1>3 F1@4>1 F1@9>3 F1@12>1 C2@13>3 C2@16>1
-  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@125 [C#]
-  Melody       : G#5@9>2 G#5@13>2
-  Part2        : F4@9>2 F4@13>2
-  Part3        : C#5@9>2 C#5@13>2
-  Synth Brass  : F4+G#4+C#5@1>14
-  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 C#2@15>1 C2@16>1
-  Synth Brass#2: G#5+C6+Eb6@1>3 G#5+C6+Eb6@4>1
-  Synth Pad    : F5+G#5@1>2
-  Guitar       : Eb4+G#4@1>2 Eb4+G#4@4>1
-  Part10       : G#4+F5@1>2 G#4+F5@4>1
-@126 [A#m | D#]
-  Melody       : G#5@1>2 Bb5@3>1 C6@5>1 Eb6@7>7 C6@15>2
-  Part2        : F4@1>2 F4@3>1 F4@5>1 G4@7>7 G#4@15>2
-  Part3        : C#5@1>2 C#5@3>1 C#5@5>1 Eb5@7>7 Eb5@15>2
-  Synth Brass  : F4+Bb4+C#5@1>11 G4+Bb4+Eb5@13>4
-  Bass 1       : Bb1@1>4 C2@5>3 Bb1@8>1 C#2@9>3 Bb1@12>1 Eb2@13>4
-  Synth Brass#2: G#4+G#5@1>2 Bb4+Bb5@3>1 C5+C6@5>2 Bb4+Bb5@7>5 G#4+G#5@13>1 G#5+G#6@15>1
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Bass 2       : Bb1@1>4 C2@5>3 Bb1@8>1 C#2@9>3 Bb1@12>1 Eb2@13>4
-  Guitar       : Eb4+G#4@1>2 Eb4+G#4@4>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G4@13>1
-  Part10       : G#5@1>2 Bb5@3>1 C6@5>1 G5@7>7 G5@15>1
-@127 [G#]
-  Melody       : C6@1>1 C6@3>1 C6@5>1 C6@6>1 C6@7>4 C6@12>1 C6@13>1 C6@14>1 C6@15>2
-  Part2        : G#4@1>1 G#4@3>1 G#4@5>1 G#4@6>1 G#4@7>4 G#4@12>1 G#4@13>1 G#4@14>1 G#4@15>2
-  Part3        : Eb5@1>1 Eb5@3>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 Eb5@12>1 Eb5@13>1 Eb5@14>1 Eb5@15>2
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>2 G#1@7>1 F1@15>1
-  Synth Brass#2: Eb5+G#5+C6@1>3 Eb5+G#5+C6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@128 [G#]
-  Melody       : C6@1>2 C6@4>1 C6@5>1 C6@6>1 C6@7>4 F#5+G5+G#5+A5+Bb5+B5@11>1 C#5+D5+Eb5+E5+F5@12>1
-  Part2        : G#4@1>2 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>4 D4+Eb4+E4+F4+F#4+G4@11>1 A3+Bb3+B3+C4+C#4@12>1
-  Part3        : Eb5@1>2 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 A4+Bb4+B4+C5+C#5+D5@11>1 E4+F4+F#4+G4+G#4@12>1
-  Synth Brass  : Eb4+G#4+C5@1>13
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>1 G#1@7>5
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@129 [G#]
-  Melody       : C6@1>3 C6@4>1 C6@6>1 C6@7>4 C6@12>1 C6@13>1 C6@14>1 C6@15>2
-  Part2        : G#4@1>3 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>4 G#4@12>1 G#4@13>1 G#4@14>1 G#4@15>2
-  Part3        : Eb5@1>3 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 Eb5@12>1 Eb5@13>1 Eb5@14>1 Eb5@15>2
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>2 G#1@7>1 F1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@130 [G#]
-  Melody       : C6@1>2 C6@4>1 C6@5>1 C6@6>1 C6@7>4 F#5+G5+G#5+A5+Bb5+B5@11>1 C#5+D5+Eb5+E5+F5@12>1
-  Part2        : G#4@1>2 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>4 D4+Eb4+E4+F4+F#4+G4@11>1 A3+Bb3+B3+C4+C#4@12>1
-  Part3        : Eb5@1>2 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 A4+Bb4+B4+C5+C#5+D5@11>1 E4+F4+F#4+G4+G#4@12>1
-  Synth Brass  : Eb4+G#4+C5@1>13
-  Bass 1       : G#1@1>2 G#1@4>1 G#1@7>1 F1@8>1 G#1@9>3 G1@13>3
-  Synth Brass#2: G#5+C6+Eb6@9>2 G#5+C6+Eb6@13>2
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@131 [G#]
-  Melody       : Eb6@1>3 Eb6@4>1 Eb6@5>1 Eb6@6>1 C6@7>4 C6@12>1 C6@13>1 C6@14>1 C6@15>2
-  Part2        : G#4@1>3 G#4@4>1 G#4@5>1 G#4@6>1 G#4@7>4 G#4@12>1 G#4@13>1 G#4@14>1 G#4@15>2
-  Part3        : Eb5@1>3 Eb5@4>1 Eb5@5>1 Eb5@6>1 Eb5@7>4 Eb5@12>1 Eb5@13>1 Eb5@14>1 Eb5@15>2
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : F1@1>2 F1@4>1 Eb1@5>1 F1@7>1 Eb1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@132 [G#]
-  Melody       : C6@1>2 Bb5@5>1 G#5@7>4 C#5+D5+Eb5+E5+F5+F#5@11>1 A4+Bb4+B4+C5@12>1
-  Part2        : G#4@1>2
-  Part3        : Eb5@1>2
-  Synth Brass  : Eb4+G#4+C5@1>13
-  Bass 1       : F1@1>3 F1@4>1 F1@7>1 F1@9>3 F1@12>1 C2@13>3 C2@16>1
-  Synth Brass#2: G#5+C6+Eb6@13>2
-  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@133 [C#]
-  Melody       : G#5@9>2 G#5@13>2
-  Part2        : F4@9>2 F4@13>2
-  Part3        : C#5@9>2 C#5@13>2
-  Synth Brass  : F4+G#4+C#5@1>14
-  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>3 G#5+C6+Eb6@4>1
-  Synth Pad    : F5+G#5@1>2
-  Guitar       : G#4+C#5@1>3 G#4+C#5@4>11
-  Part10       : G#4+F5@1>2 G#4+F5@4>1
-@134 [A#m7 | D#7]
-  Melody       : G#5@1>2 Bb5@3>1 C6@5>1 Eb6@7>8 C6@15>1
-  Part2        : F4@1>2 F4@3>1 F4@5>1 G4@7>8 G4@15>1
-  Part3        : C#5@1>2 C#5@3>1 C#5@5>1 Eb5@7>8 D5@15>1
-  Synth Brass  : F4+Bb4+C#5@1>11 G4+Bb4+Eb5@13>4
-  Bass 1       : C#2@1>3 C#2@4>1 C#2@7>1 C#2@9>4 Eb2@13>2
-  Synth Brass#2: G#4+G#5@1>2 Bb4+Bb5@3>1 C5+C6@5>2 Bb4+Bb5@7>5 G#4+G#5@13>1 G#5+G#6@15>1
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Bass 2       : C#2@1>3 C#2@4>1 C#2@7>1 C#2@9>4 Eb2@13>2
-  Guitar       : G#4+C#5@1>2 G#4+C#5@4>1 G#4+C#5@9>1 G#4+C#5@10>1 G4+C#5@13>1
-  Part10       : G#4@1>2 Bb4@3>1 C5@5>1 G4@7>8
-@135 [G#]
-  Melody       : Bb5@11>2 G#5@13>1
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>2 G#1@7>1 F1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>2 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@136 [G#] (grid:24t)
-  Synth Brass  : Eb4+G#4+C5@1>20
-  Bass 1       : G#1@1>4 G#1@5>2 G#1@10>2 G#1@13>3
-  Synth Pad    : G5+Bb5@19>3 G#5+C6@22>3
-  Guitar       : G#4+C5@1>3 G#4+C5@5>2 G#4+C5@13>3 G#4+C5@17>2
-@137 [G#]
-  Melody       : Bb5@11>2 G#5@13>1
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : G#1@1>3 G#1@4>1 F1@5>1 G#1@7>1 F1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>2 G#4+C5@4>1
-  Part10       : Eb4+G#4@1>2 Eb4+G#4@4>1
-@138 [G#] (grid:24t)
-  Synth Brass  : Eb4+G#4+C5@1>20
-  Bass 1       : G#1@1>3 G#1@5>2 G#1@10>2 G#1@13>4 G1@19>4
-  Synth Brass#2: G#5+C6+Eb6@13>3 G#5+C6+Eb6@19>3
-  Synth Pad    : G5+Bb5@19>3 G#5+C6@22>3
-  Guitar       : G#4+C5@1>4 G#4+C5@5>2 G#4+C5@13>3 G#4+C5@17>2
-@139 [G#]
-  Melody       : Bb5@3>1 G#5@5>4 F5@11>2 Bb4@13>1
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : F1@1>2 F1@4>1 Eb1@5>1 F1@7>1 Eb1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>2 G#4+C5@4>1
-@140 [G#]
-  Synth Brass  : Eb4+G#4+C5@1>13
-  Bass 1       : F1@1>3 F1@4>1 F1@7>1 F1@9>3 F1@12>1 C2@13>3 C2@16>1
-  Synth Brass#2: G#5+C6+Eb6@13>2
-  Synth Pad    : G5+Bb5@13>2 F5+G#5@15>2
-  Guitar       : G#4+C5@1>3 G#4+C5@4>1 G#4+C5@9>3 G#4+C5@12>1
-@141 [C#]
-  Synth Brass  : F4+G#4+C#5@1>14
-  Bass 1       : C#2@1>3 C#2@4>1 Bb1@5>2 C#2@7>1 Bb1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>2 G#5+C6+Eb6@4>1
-  Synth Pad    : F5+G#5@1>2
-  Guitar       : G#4+C#5@1>2 G#4+C#5@4>1
-@142 [A#m7 | Gdim]
-  Synth Brass  : F4+Bb4+C#5@1>11 G4+Bb4+Eb5@13>4
-  Bass 1       : C#2@1>3 C#2@4>1 C#2@7>1 C#2@9>4 Eb2@13>2
-  Synth Brass#2: G#4+G#5@1>2 Bb4+Bb5@3>1 C5+C6@5>2 Bb4+Bb5@7>5 G#4+G#5@13>1 G#5+G#6@15>1
-  Synth Pad    : G5+Bb5@13>2 G#5+C6@15>2
-  Bass 2       : C#2@1>3 C#2@4>1 C#2@7>1 C#2@9>4 Eb2@13>2
-  Guitar       : G#4+C#5@1>2 G#4+C#5@4>1 G#4+C#5@9>1 G#4+C#5@10>1 G4+C#5@13>1
-@143 [G#]
-  Synth Brass  : Eb4+G#4+C5@1>16
-  Bass 1       : G#1@1>2 G#1@4>1 F1@5>2 G#1@7>1 F1@15>1
-  Synth Brass#2: G#5+C6+Eb6@1>3 G#5+C6+Eb6@4>1
-  Synth Pad    : G#5+C6@1>2
-  Guitar       : G#4+C5@1>2 G#4+C5@4>1
-@144 [G#] (grid:4)
-  Synth Brass  : Eb4+G#4+C5@1>3
+KEY: Bb major | METER: 4/4 | TEMPO: 103 | GRID: 64th (adaptive) | BARS: 115
+VOICES: xxxxxxxx[prog=11], xxxxxxxx#2[prog=0], xxxxxxxx#3[prog=25], xxxxxxxx#4[prog=0], xxxxxxxx#5[prog=24], xxxxxxxx#6[prog=50], xxxxxxxx#7[prog=98], xxxxxxxx#8[prog=24], xxxxxxxx#9[prog=35], xxxxxxxx#10[drums], xxxxxxxx#11[prog=68], xxxxxxxx#12[prog=98], xxxxxxxx#13[prog=90], xxxxxxxx#14[prog=98]
+@1 [F] (grid:12t)
+  xxxxxxxx   : A3@11>4^32
+  xxxxxxxx#2 : F3+C6@10>8^104 A3@11>4^56
+  xxxxxxxx#5 : C4@10>9^104
+@2 [F | C]
+  xxxxxxxx   : C4@1>11^56 F4@9>9^32 C4@17>10^32 A3@25>8^32 A5@28>4^56 G5@30>2^56 G3@41>19^32 C4@49>10^32 E5@57>24^80
+  xxxxxxxx#2 : C4@1>11^56 F4@9>9^56 C4@17>10^32 A3@25>8^56 A5@28>4^80 G5@30>2^80 E3+F5+G5@33>42^104 G3@41>19^32 C4@49>10^56 E4+E5@57>24^104
+  xxxxxxxx#3 : C4@1>24^56 C4@25>22^32
+  xxxxxxxx#4 : F3+C6@1>43^56 A3@9>20^32 C4@17>11^32 F4@25>9^32 C4@33>10^32 A3@41>8^32 A5@44>4^32 G5@47>2^32 F5@48>2^32 E3@49>42^32 G5@50>23^32 G3@57>19^32
+  xxxxxxxx#5 : C4@57>7^104
+@3 [C | Bb]
+  xxxxxxxx   : C4@1>11^32 D5@17>20^80 Bb3@33>10^32 C5@38>2^56 D4+D5@41>18^80 C5@49>7^80 F3+Bb4@57>9^80
+  xxxxxxxx#2 : C4@1>11^56 G3@9>9^56 D3+D5@17>42^104 F3@25>18^56 Bb3@33>10^32 C5@38>2^80 D4+D5@41>18^104 Bb3+C5@49>10^104 F3+Bb4@57>9^104
+  xxxxxxxx#3 : C4@9>6^32 D4@17>6^32 C4@25>8^56 F3+C4@33>24^32 D4@41>6^32 C4@49>8^32 F3@57>27^32
+  xxxxxxxx#4 : C4@1>10^32 E4+E5@9>24^56 C4@17>11^32 G3@25>9^32 D3+D5@33>42^56 F3@41>18^32 Bb3@49>10^32 C5@54>2^32 D5@56>8^56 D4@57>18^32 C5@64>7^32
+  xxxxxxxx#5 : D4@1>7^104 C4@9>8^104 F3@17>51^104
+@4 [F]
+  xxxxxxxx   : F3+F5@9>37^80 A3@17>10^32 C4@25>24^56 A3@33>17^32 F3@41>9^32 F5@49>7^80 D5@57>7^56
+  xxxxxxxx#2 : C3+C5@1>47^104 F3+F5@9>37^104 A3@17>10^56 C4@25>24^56 A3@33>17^32 F3@41>9^56 D3+F5@49>41^104 F3+D5@57>18^80
+  xxxxxxxx#3 : F3@41>3^32 G3@49>6^32 A3@57>12^80
+  xxxxxxxx#4 : Bb3@1>10^32 Bb4@7>8^32 F3@9>9^32 C5@16>47^32 C3@17>45^32 F3+F5@25>37^56 A3@33>10^32 C4@41>24^32 A3@49>17^32 F3@57>9^32
+  xxxxxxxx#5 : F3@25>7^104 G3@33>7^104 A3@41>7^104 Bb3@49>2^104 A3@53>35^104
+@5 [Bb | F]
+  xxxxxxxx   : Bb3+Bb5@1>27^80 D4+F5@9>16^80 F3+D5@25>9^32 F5@33>7^56 C5@41>8^56 A3+A5@49>26^56 C4+F5@57>17^80
+  xxxxxxxx#2 : Bb3+Bb5@1>27^104 D4+F5@9>16^104 Bb3@17>18^56 F3+D5@25>9^56 C3+F5@33>43^80 F3+C5@41>20^80 A3+A5@49>26^80 C4+F5@57>17^104
+  xxxxxxxx#3 : F3@1>6^32 Bb3@5>2^32 G3+A3@9>8^56 A3@17>12^32 Bb3@29>2^32 A3@33>11^32 G3@45>2^32 F3@49>24^32
+  xxxxxxxx#4 : D3+F5@1>41^56 F3+D5@9>18^32 Bb3+Bb5@17>27^32 D4@25>16^32 F5@26>16^32 Bb3@33>18^32 F3+D5@41>9^32 C3+F5@49>43^32 C5@56>8^32 F3@57>20^32 A5@64>26^32
+  xxxxxxxx#5 : G3@29>2^104 F3@33>43^104
+@6 [F | C]
+  xxxxxxxx   : F3+C5@9>9^56 E3+G4@25>18^32 G3+E4@33>9^56 C5@41>15^80 G3+G4@49>16^56 E3+E4@57>9^80
+  xxxxxxxx#2 : A3@1>10^56 F3+C5@9>9^80 C3+D5@17>41^104 E3+G4@25>18^56 G3+E4@33>9^80 C4+C5@41>23^104 G3+G4@49>16^80 E3+E4@57>9^104
+  xxxxxxxx#3 : G3@5>2^32 F3@9>19^32 A3@29>3^32 G3@33>24^32 A3@53>3^32 G3@57>24^32
+  xxxxxxxx#4 : A3@1>9^32 C4+F5@9>17^56 A3@17>10^32 F3+C5@25>9^32 C3+D5@33>41^56 E3+G4@41>18^32 G3+E4@49>9^32 C4+C5@57>23^56
+  xxxxxxxx#5 : A3@13>3^104 G3@17>48^104
+@7 [C]
+  xxxxxxxx   : E3+G4@9>18^56 G3+E4@17>10^104 E5@25>19^104 G3+G4@33>9^80 E4@41>2^80 C6@49>44^80
+  xxxxxxxx#2 : C3+D5@1>36^104 E3+G4@9>18^80 G3+E4@17>10^104 C4+E5@25>19^104 G3+G4@33>9^104 E3+E4@41>9^104 F3+C6@49>44^104 A3@57>18^56
+  xxxxxxxx#3 : C3@41>10^32 Db3@51>2^32 D3@54>2^32 Eb3@55>2^32 E3@57>2^32 F3@59>1^32 Gb3@61>1^32 G3@62>1^32 Ab3@63>1^32 A3@64>1^32
+  xxxxxxxx#4 : G3+G4@1>16^32 E3+E4@9>9^32 C3+D5@17>36^56 E3+G4@25>18^32 G3+E4@33>10^80 C4+E5@41>19^80 G3+G4@49>9^32 E3+E4@57>9^56
+  xxxxxxxx#5 : C3@25>10^104 Db3@35>2^56 D3@38>2^56 Eb3@39>2^56 E3@41>2^80 F3@43>1^56 Gb3@45>1^56 G3@46>1^56 Ab3@47>1^56 A3@48>1^56 Bb3+B3@49>1^56 C4@51>45^104
+  xxxxxxxx#6 : C6@49>191^80
+@8 [F | C]
+  xxxxxxxx   : C4@1>10^32 F4@9>10^32 A3@25>8^32 A6+C7@33>43^80 C4@49>9^32 E4@57>9^32
+  xxxxxxxx#2 : C4@1>10^56 F4@9>10^56 C4@17>9^56 A3@25>8^56 F6+G6@30>3^104 E3+A6+C7@33>43^104 G3@41>17^32 C4@49>9^56 E4@57>9^56
+  xxxxxxxx#3 : C3+Bb3+B3@1>10^32 C4@3>24^80 Db3@11>2^32 D3@14>2^32 Eb3@15>2^32 E3@17>2^32 F3@19>1^32 Gb3@21>1^32 G3@22>1^32 Ab3@23>1^32 A3@24>1^32 Bb3+B3@25>1^32 C4@27>21^32
+  xxxxxxxx#4 : F3@1>40^32 C6@2>44^56 A3@9>18^32 C4@17>10^32 F4@25>10^32 C4@33>9^32 A3@41>8^32 F6@45>3^32 G6@46>3^32 A6@47>2^32 E3@49>41^32 C7@50>43^56 G3@57>17^32
+  xxxxxxxx#5 : C4@57>7^104
+@9 [Dm7 | Bb]
+  xxxxxxxx   : G3@9>8^32 A6@14>2^32 D6@20>20^80 Bb3@33>9^32 C6@38>2^56 D4+D6@41>21^80 C6@49>8^80 F3+Bb5@57>8^80
+  xxxxxxxx#2 : C4@1>10^32 G3@9>8^56 G6+A6@14>3^80 D3+F6@17>41^104 D6@20>20^104 F3@25>17^32 Bb3@33>9^56 C6@38>2^80 D4+D6@41>21^104 Bb3+C6@49>10^104 F3+Bb5@57>8^104
+  xxxxxxxx#3 : C4@9>6^56 D4@17>5^32 C4@25>7^56 F3+C4@33>24^32 D4@41>5^32 C4@49>7^32 F3@57>19^32
+  xxxxxxxx#4 : C4@1>9^32 E4@9>9^32 C4@17>10^32 G3@25>8^32 A6@29>2^32 G6@30>3^32 F6@32>3^56 D3@33>41^32 D6@35>20^56 F3@41>17^32 Bb3@49>9^32 C6@55>2^32 D4+D6@57>21^56
+  xxxxxxxx#5 : D4@1>7^104 C4@9>7^80 F3@17>43^104
+  xxxxxxxx#6 : Bb5@41>23^56
+@10 [F]
+  xxxxxxxx   : F3+F6@9>36^80 A3@17>9^32 C4@25>23^32 A3@33>15^32 F3@41>8^32 F6@49>7^80 D6@57>8^80
+  xxxxxxxx#2 : C3+C6@1>46^104 F3+F6@9>36^104 A3@17>9^32 C4@25>23^56 A3@33>15^56 F3@41>8^56 D3+F6@49>40^104 F3+D6@57>17^104
+  xxxxxxxx#3 : F3@41>6^32 G3@49>6^32 A3@57>10^56
+  xxxxxxxx#4 : Bb3+C6@1>10^32 F3+Bb5@9>8^56 C3+C6@17>46^56 F3+F6@25>36^56 A3@33>9^32 C4@41>23^32 A3@49>15^32 F3@57>8^32
+  xxxxxxxx#5 : F3@25>7^104 G3@33>7^104 A3@41>7^104 Bb3@49>2^104 A3@53>32^104
+  xxxxxxxx#6 : A5@1>39^56 F4+Bb4+C5@49>47^56 F4@57>39^56
+@11 [Bb | C7]
+  xxxxxxxx   : Bb3+Bb6@1>27^56 D4+F6@9>19^56 D6@20>1^32 D6@28>2^56 G3@49>9^32 C4@57>6^32
+  xxxxxxxx#2 : Bb3+Bb6@1>27^80 D4+F6@9>19^80 Bb3@17>9^56 D6@20>1^32 F3@25>8^56 D6@28>2^80 C3@33>40^80 E3@41>17^56 G3@49>9^56 C4@57>6^56
+  xxxxxxxx#3 : F3@1>6^32 Bb3@5>2^32 G3+A3@9>8^56 A3@17>10^32 Bb3@29>2^32 A3@33>8^32 A3@49>3^56 G3@53>3^56 F3@57>24^32
+  xxxxxxxx#4 : D3+F6@1>40^56 D6@8>8^32 F3@9>17^32 Bb3+Bb6@17>27^32 D4+F6@25>19^32 Bb3@33>9^32 D6@35>1^32 F3@41>8^32 D6@42>2^32 C3@49>40^32 E3@57>17^32
+  xxxxxxxx#5 : A3@33>3^104 G3@37>3^104 F3@41>30^104
+  xxxxxxxx#6 : G4+Bb4+C5@33>143^80
+@12 [F7]
+  xxxxxxxx   : E3@9>3^56 A4@17>8^104 Bb4@25>7^56 B4@33>8^80 C5@41>8^80 A5@49>8^80 C5@57>8^80
+  xxxxxxxx#2 : G3@1>9^56 E3@9>3^56 A3+A4@17>9^104 Bb3+Bb4@25>8^80 B3+B4@33>9^104 C4+C5@41>8^104 A4+A5@49>8^104 C4+C5@57>8^104
+  xxxxxxxx#3 : A3@9>3^32 G3@13>3^32 F3@17>6^32 E3@24>8^32 F3@33>13^32 E3@48>8^32 F3@57>6^32
+  xxxxxxxx#4 : G3@1>9^32 C4@9>6^32 G3@17>9^32 E3@25>3^32 A3+A4@33>9^80 Bb3+Bb4@41>8^32 B3+B4@49>9^32 C4+C5@57>8^56
+  xxxxxxxx#5 : E3@8>8^104 F3@17>30^104
+  xxxxxxxx#6 : F4+A4@17>47^80 F4@25>39^32
+@13 [Em7 | Am]
+  xxxxxxxx   : Bb4@1>7^56 G5@9>8^56 E5@17>9^56 D5@25>8^56 Bb3+Bb4@41>8^80 A3@49>14^56 C4@57>18^56
+  xxxxxxxx#2 : Bb3+Bb4@1>8^80 G4+G5@9>10^80 E4+E5@17>9^80 D4+D5@25>8^104 C4+C5@33>9^104 Bb3+Bb4@41>8^104 F3+A3@49>34^80 C4@57>18^80
+  xxxxxxxx#3 : Bb2@17>6^80 G2@25>6^32 E2@33>6^56 D2+Bb2@41>6^32 G2@49>6^32 C2@50>6^32 Bb1+E2@57>6^32
+  xxxxxxxx#4 : A4+A5@1>8^56 C4+C5@9>8^32 Bb3+Bb4@17>8^32 G5@24>8^32 G4@25>10^32 E5@32>9^32 E4@33>8^32 D4+D5@41>8^32 C4+C5@49>9^32 Bb3+Bb4@57>8^56
+  xxxxxxxx#5 : Bb3@1>9^104 G3@9>9^104 E3@17>9^80 D3@25>9^80 C3@34>9^80 Bb2@41>9^80
+  xxxxxxxx#6 : E4+G4@1>47^56
+  xxxxxxxx#7 : Db5@24>1^56 D5@25>13^80 C5@41>5^80 C5@49>7^80 A4@57>54^80
+  xxxxxxxx#8 : A3+C4@49>46^56 C4@57>29^56
+  xxxxxxxx#9 : F1@49>27^104
+@14 [F | C]
+  xxxxxxxx   : F4@1>10^56 A4@9>11^80 F4@17>12^56 C4@25>7^56 E4@49>8^32 G4@57>25^56
+  xxxxxxxx#2 : F4@1>10^80 A4@9>11^104 F4@17>12^80 F3+C4@25>7^80 C3+G3@33>44^104 C4@41>16^56 E4@49>8^56 G4@57>25^56
+  xxxxxxxx#3 : D2@1>6^32 C2@10>6^32 Bb1@17>5^32
+  xxxxxxxx#4 : F3+A3@1>34^32 C4@9>18^32 F4@17>10^32 A4@25>11^32
+  xxxxxxxx#7 : Db5@56>1^56 D5@57>13^80
+  xxxxxxxx#8 : F4@1>13^56 A4@9>19^56 F4@17>15^56 C4@25>4^56 G3+E4@33>45^56 C4@41>31^80 E4@45>1^56 E4@49>14^56 G4@57>20^56
+  xxxxxxxx#9 : F1@25>7^104 C2@33>31^104
+@15 [F7] (grid:8)
+  xxxxxxxx   : C4@2>1^56 C4@4>2^32 F4@5>1^56 A4@6>2^56 F3+C4@8>1^56
+  xxxxxxxx#2 : E4@1>2^80 C4@2>1^80 F3+A3@3>5^80 C4@4>2^56 F4@5>1^80 A4@6>2^80 F4@7>1^80 F3+C4@8>1^80
+  xxxxxxxx#7 : C5@2>1^80 C5@3>6^80
+  xxxxxxxx#8 : E4@1>2^56 C4@2>1^32 A3@3>6^56 C4@4>4^56 F4@5>2^56 A4@6>2^56 F4@7>2^56 C4@8>1^32
+  xxxxxxxx#9 : F1@3>3^104 F1@8>1^104
+@16 [C]
+  xxxxxxxx   : E4@17>8^56 E4@33>16^56 C4@41>8^56 C4@57>16^56
+  xxxxxxxx#2 : C3+G3@1>45^80 C4@9>12^80 E4@17>8^80 G4@25>24^80 E4@33>16^80 C4@41>8^80 F3+A3@49>42^80 C4@57>16^80
+  xxxxxxxx#7 : Db5@24>1^56 D5@25>15^80 C5@41>5^80 C5@49>7^80 A4@57>14^80
+  xxxxxxxx#8 : G3@1>8^56 G3+C4@9>38^56 E4@17>14^56 G4@25>20^56 E4@33>13^56 C4@41>6^56 A3@49>45^56 C4@57>30^56
+  xxxxxxxx#9 : C2@1>31^104 F1@49>37^104
+@17 [F | C] (grid:8)
+  xxxxxxxx   : F4@1>1^56 A4@2>2^56 F3+C4@4>1^56 C4@6>2^56 E4@7>1^56 G4@8>3^56
+  xxxxxxxx#2 : F4@1>1^80 A4@2>2^80 F4@3>1^80 F3+C4@4>1^56 C3+G3@5>5^80 C4@6>2^80 E4@7>1^80 G4@8>3^56
+  xxxxxxxx#7 : D5@3>1^80 C5@4>1^80 C5@5>1^80 G4@6>3^80
+  xxxxxxxx#8 : F4@1>2^56 A4@2>2^80 F4@3>2^56 C4@4>1^32 G3@5>6^56 C4@6>2^56 E4@7>2^56 G4@8>2^56
+  xxxxxxxx#9 : F1@4>1^104 C2@5>5^104
+@18 [Am | F] (grid:8)
+  xxxxxxxx   : E4@1>2^56 C4@2>1^56 A3@3>1^80 Bb3@4>1^80 B3@5>1^56 C4@6>1^104 E4@8>1^104
+  xxxxxxxx#2 : E4@1>2^56 C4@2>1^80 F3+A3@3>10^104 Bb3@4>1^104 B3@5>1^80 C4@6>1^104 D4@7>1^104 E4@8>1^104
+  xxxxxxxx#7 : Db5+D5@1>1^80 C5@2>1^80 C5@3>7^80
+  xxxxxxxx#8 : E4@1>2^56 C4@2>1^56 A3@3>1^56 Bb3@4>1^56 B3@5>1^56 C4@6>1^56 D4@7>1^56 E4@8>1^56
+  xxxxxxxx#9 : F1@3>4^104 C2@8>1^104
+@19 [Dm | Bb]
+  xxxxxxxx   : G4@1>8^80 E4@17>8^104 F4@25>9^80 Bb5+D6@49>5^80 D4@57>7^56
+  xxxxxxxx#2 : D4+G4@1>8^104 F4@9>8^104 E4@17>8^104 F4@25>9^104 F5@46>8^104 Bb3+Bb5+D6@49>10^104 D4@57>7^80
+  xxxxxxxx#7 : Gb5@24>1^56 G5@25>13^80 F5@41>6^80 F5@49>7^80 D5@57>51^80
+  xxxxxxxx#8 : G4@1>6^56 F4@9>6^56 E4@17>7^56 G4@25>5^56 F4@33>7^56 Eb4@41>5^56 Bb3+D4+F4@49>91^104
+  xxxxxxxx#9 : F1@1>31^104 G1@33>7^104 A1@41>7^104 Bb1@49>38^104
+@20 [Bb]
+  xxxxxxxx   : Bb4+F5+Bb5@9>4^80 F4@17>6^56 D4@25>5^56 D5+F5@33>10^80 D4@41>5^56 Bb4@57>8^56
+  xxxxxxxx#2 : F4@1>9^80 D5@6>4^80 Bb4+F5+Bb5@9>4^104 F4@17>6^80 D4@25>5^80 Bb3+Bb4+D5+F5@33>10^104 D4@41>5^80 F4@49>9^80 Bb4@57>8^80
+  xxxxxxxx#7 : Db5@56>1^56 D5@57>15^80
+  xxxxxxxx#8 : Bb3+D4@9>23^80 Bb3@33>41^80
+  xxxxxxxx#9 : F1@25>7^104 Bb1@33>39^104
+@21 [F] (grid:32)
+  xxxxxxxx   : F4@1>3^56 Bb3@5>1^56 F3+C6@9>12^56 C5+F5+A5@21>2^56 A3@29>3^56
+  xxxxxxxx#2 : F4@1>3^80 Bb3@5>1^80 F5@6>4^56 A5@8>2^80 F3+C6@9>12^80 A3@13>7^80 C4@17>5^80 F4+C5+F5+A5@21>3^80 C4@25>5^80 A3@29>3^80 A4@32>5^56
+  xxxxxxxx#7 : C5@5>3^80 C5@9>27^80
+  xxxxxxxx#8 : F3+A3@7>24^56 C4+F4@9>14^56 A3+C4@21>34^56
+  xxxxxxxx#9 : F1@9>15^104 C2@29>4^104
+@22 [F | Bb7] (grid:16)
+  xxxxxxxx   : C5+F5@1>2^56 C4@5>2^56 C4+A4@9>2^104 Bb4+D5@13>4^56 Bb3@16>1^32
+  xxxxxxxx#2 : F3+C5+F5@1>9^80 A3@3>2^80 C4@5>2^80 F4@7>2^104 C4+A4@9>2^104 A3+C5@11>2^80 Bb3+Bb4+D5@13>4^80 D4@15>1^80 Bb3@16>1^32
+  xxxxxxxx#7 : F4@5>1^80 F4@7>2^56 A4@9>2^80 C5@11>1^80 C5@13>2^80 Bb4@15>8^80
+  xxxxxxxx#8 : F3+A3@1>11^56 F3@13>11^56 Bb3@15>8^56
+  xxxxxxxx#9 : F1@1>8^104 G1@9>2^104 A1@11>2^104 Bb1@13>7^104
+@23 [Bb | C] (grid:8)
+  xxxxxxxx   : Bb4@2>1^32 D6@4>1^80 E4@6>1^56 G4@7>1^56 C5@8>1^80
+  xxxxxxxx#2 : F4@1>1^80 Bb4@2>1^56 F4+Bb5@3>1^104 D4+D6@4>1^104 C4+C6@5>3^80 E4@6>1^80 G4@7>1^80 C5@8>1^104
+  xxxxxxxx#7 : A4@4>1^80 A4@5>2^80 G4@7>2^80
+  xxxxxxxx#8 : D4@1>2^56 F4@2>3^56 D4@3>2^56 G3@5>6^56 C4@6>3^56 E4@7>2^56 G4@8>2^56
+  xxxxxxxx#9 : Bb1@4>1^104 C2@5>5^104
+@24 [F] (grid:8)
+  xxxxxxxx   : C4@2>1^56 A3@3>1^80 Bb3@4>1^80 C4@6>1^80 A4@7>1^80 C4@8>1^80
+  xxxxxxxx#2 : G4@1>1^80 C4@2>1^80 F3+A3@3>4^104 Bb3@4>1^104 B3@5>1^104 C4@6>1^104 A4@7>1^104 F3+C4@8>1^104
+  xxxxxxxx#7 : G4@1>1^80 F4@2>1^80 F4@3>6^80
+  xxxxxxxx#8 : E4@1>2^56 C4@2>1^56 A3@3>1^80 Bb3@4>1^56 B3@5>1^56 C4@6>2^56 A4@7>1^56 C4@8>1^32
+  xxxxxxxx#9 : F1@3>4^104 F1@8>1^104
+@25 [C | F]
+  xxxxxxxx   : Bb3@1>7^56 G4@9>7^80 D4@25>8^80 Bb3@41>5^80 C4@57>17^56
+  xxxxxxxx#2 : C3+Bb3@1>42^80 G4@9>7^104 E4@17>8^80 D4@25>8^104 C4@33>9^104 Bb3@41>5^104 F3+A3@49>42^104 C4@57>17^80
+  xxxxxxxx#7 : Db5@24>1^56 D5@25>13^80 C5@41>7^80 C5@49>7^80 A4@57>53^80
+  xxxxxxxx#8 : Bb4@1>6^80 G4@9>6^56 E4@17>6^56 D4@25>6^56 C4@33>6^56 Bb3@41>5^56 A3@49>46^56 C4@57>29^56
+  xxxxxxxx#9 : C2@1>32^104 F1@49>37^104
+  xxxxxxxx#10: C2@49>1^80
+  xxxxxxxx#11: Bb4@57>1^32
+@26 [F | C]
+  xxxxxxxx   : F4@1>10^56 A4@9>17^80 F3+C4@25>7^56 C4@41>16^56 E4@49>8^56 G4@57>24^56
+  xxxxxxxx#2 : F4@1>10^80 A4@9>17^104 F4@17>11^80 F3+C4@25>7^80 C3+G3@33>43^80 C4@41>16^80 E4@49>8^80 G4@57>24^80
+  xxxxxxxx#7 : Db5@56>1^56 D5@57>13^80
+  xxxxxxxx#8 : F4@1>13^56 A4@9>19^56 F4@17>15^56 C4@25>4^56 G3+E4@33>45^56 C4@41>31^80 E4@45>1^56 E4@49>14^56 G4@57>20^56
+  xxxxxxxx#9 : F1@25>7^104 C2@33>39^104
+  xxxxxxxx#10: Db2@9>1^80 C2@25>1^80 C2@33>1^80 Db2@57>1^80
+  xxxxxxxx#11: Bb4@1>12^56 A4@17>2^56 A4@25>13^80 G4@41>2^32 G4@49>12^56
+@27 [Am | F] (grid:8)
+  xxxxxxxx   : E4@1>2^56 C4@2>1^80 C4@4>2^56 F4@5>1^56 A4@6>2^80 F3+C4@8>1^56
+  xxxxxxxx#2 : E4@1>2^80 C4@2>1^104 F3+A3@3>5^104 C4@4>2^80 F4@5>1^80 A4@6>2^104 F4@7>2^80 F3+C4@8>1^80
+  xxxxxxxx#7 : C5@2>1^80 C5@3>7^80
+  xxxxxxxx#8 : E4@1>2^56 C4@2>1^32 A3@3>6^56 C4@4>4^56 F4@5>2^56 A4@6>2^56 F4@7>2^56 C4@8>1^32
+  xxxxxxxx#9 : F1@3>4^104 F1@8>1^104
+  xxxxxxxx#10: C2@3>1^80 Db2@6>1^80 C2@8>1^80
+  xxxxxxxx#11: Bb4@1>1^56 Bb4@2>1^56 Bb4@4>1^56 Bb4@5>1^56 A4@7>1^56 A4@8>1^80
+@28 [C]
+  xxxxxxxx   : C4@9>16^56 E4@17>8^56 G4@25>24^80 E4@33>16^56 C4@41>8^56 C4@57>17^56
+  xxxxxxxx#2 : C3+G3@1>43^104 C4@9>16^80 E4@17>8^80 G4@25>24^104 E4@33>16^80 C4@41>8^80 F3+A3@49>42^104 C4@57>17^80
+  xxxxxxxx#7 : Db5@24>1^56 D5@25>11^80 C5@41>5^80 C5@49>8^80 A4@57>18^80
+  xxxxxxxx#8 : G3@1>8^56 G3+C4@9>38^56 E4@17>14^56 G4@25>20^56 E4@33>13^56 C4@41>6^56 A3@49>45^56 C4@57>30^56
+  xxxxxxxx#9 : C2@1>38^104 F1@49>36^104
+  xxxxxxxx#10: C2@1>1^80 Db2@25>1^80 C2@49>1^80
+  xxxxxxxx#11: G4@9>2^56 G4@17>13^56 Bb4@33>2^56 Bb4@41>10^56 Bb4@57>2^56
+@29 [F | C] (grid:8)
+  xxxxxxxx   : F4@1>1^56 A4@2>1^80 F3+C4@4>1^56 C4@6>2^56 E4@7>1^56 G4@8>2^56
+  xxxxxxxx#2 : F4@1>1^80 A4@2>1^104 F4@3>1^80 F3+C4@4>1^80 C3+G3@5>5^104 C4@6>2^80 E4@7>1^56 G4@8>2^80
+  xxxxxxxx#7 : D5@3>1^80 C5@4>1^80 C5@5>1^80 G4@6>2^80
+  xxxxxxxx#8 : F4@1>2^56 A4@2>2^80 F4@3>2^56 C4@4>1^32 G3@5>6^56 C4@6>2^56 E4@7>2^56 G4@8>2^56
+  xxxxxxxx#9 : F1@4>1^104 C2@5>5^104
+  xxxxxxxx#10: Db2@2>1^80 C2@4>1^80 C2@5>1^80 Db2@8>1^80
+  xxxxxxxx#11: Bb4@1>1^80 A4@3>1^56 A4@4>2^80 G4@6>1^56 G4@7>2^56
+@30 [Am | F] (grid:8)
+  xxxxxxxx   : E4@1>1^32 C4@2>1^56 Bb4@4>1^80 B4@5>1^80 D5@7>1^80 E5@8>1^80
+  xxxxxxxx#2 : E4@1>1^56 C4@2>1^80 F3+A4@3>6^104 Bb4@4>1^104 B4@5>1^104 C5@6>1^104 D5@7>1^104 E5@8>1^104
+  xxxxxxxx#7 : D5@1>1^80 C5@2>1^80 C5@3>6^80
+  xxxxxxxx#8 : E4@1>2^56 C4@2>1^56 A3@3>1^56 Bb3@4>1^56 B3@5>1^56 C4@6>1^56 D4@7>1^56 E4@8>1^56
+  xxxxxxxx#9 : F1@3>4^104 C2@8>1^104
+  xxxxxxxx#10: C2@3>1^80 Db2@6>1^80 C2@8>1^80
+  xxxxxxxx#11: Bb4@1>1^56 Bb4@2>1^56 Bb4@4>1^56 Bb4@5>1^56 A4@7>1^56 A4@8>1^56
+@31 [Dm | Bb] (grid:16)
+  xxxxxxxx   : G5@1>2^80 E5@5>2^104 F5@7>2^80 Bb3+Bb5+D6@13>3^56 D4@15>1^56
+  xxxxxxxx#2 : F3+D5+G5@1>7^104 F5@3>2^104 E5@5>2^104 F5@7>2^104 F5+G5@12>1^80 Bb3+Bb5+D6@13>3^80 D4@15>1^80
+  xxxxxxxx#7 : G5@7>3^80 F5@11>1^80 F5@13>4^80
+  xxxxxxxx#8 : G4@1>2^56 F4@3>2^56 E4@5>2^56 G4@7>1^56 F4@9>2^56 Eb4@11>1^56 Bb3+D4+F4@13>23^104
+  xxxxxxxx#9 : F1@1>8^104 G1@9>2^104 A1@11>2^104 Bb1@13>8^104
+  xxxxxxxx#10: C2@1>1^80 Db2@7>1^80 C2@13>1^80
+  xxxxxxxx#11: G4@3>1^56 G4@5>3^56 Bb4@9>1^56 Bb4@11>3^56
+@32 [Bb]
+  xxxxxxxx   : Bb4+F5+Bb5@9>4^80 F4@17>7^56 D4@25>7^80 D5+F5@33>9^56 D4@41>6^56 Bb4@57>8^56
+  xxxxxxxx#2 : Bb3+F4@1>9^80 D5@6>3^80 Bb4+F5+Bb5@9>4^104 F4@17>7^56 D4@25>7^104 Bb3+Bb4+D5+F5@33>10^80 D4@41>6^80 F4@49>8^80 Bb4@57>8^80
+  xxxxxxxx#7 : D5@1>47^80 Db5@56>1^56 D5@57>14^80
+  xxxxxxxx#8 : Bb3+D4@9>23^80 Bb3@13>15^80 F3@29>43^56 Bb3@33>41^80
+  xxxxxxxx#9 : F1@25>7^104 Bb1@33>31^104
+  xxxxxxxx#10: Db2@9>1^80 C2@25>1^80 C2@33>1^80 Db2@57>1^80
+@33 [F] (grid:16)
+  xxxxxxxx   : Bb3@3>1^56 F3+C6@5>3^80 C5+F5+A5@11>1^56 C4@13>2^56 A3@15>2^56
+  xxxxxxxx#2 : F4@1>2^80 Bb3@3>1^80 F5+A5@4>1^80 F3+C6@5>3^104 A3@7>2^80 C4@9>2^80 F4+C5+F5+A5@11>2^104 C4@13>2^80 A3@15>2^80
+  xxxxxxxx#7 : C5@3>1^80 C5@5>14^80
+  xxxxxxxx#8 : F3+A3@4>12^56 C4+F4@5>7^56 A3+C4@11>17^56
+  xxxxxxxx#9 : F1@5>8^104 C2@15>2^104
+  xxxxxxxx#10: C2@5>1^80 Db2@11>1^80 C2@15>1^80
+@34 [F | Bb7] (grid:8)
+  xxxxxxxx   : C5+F5@1>4^80 A3@2>1^56 C4@3>1^56 A4@5>1^80 C5@6>1^56 D5@7>2^56 D4@8>1^56
+  xxxxxxxx#2 : F3+A4+C5+F5@1>4^104 A3@2>1^80 C4@3>1^80 F4@4>1^104 C4+A4@5>1^104 A3+C5@6>1^80 Bb3+Bb4+D5@7>2^80 D4@8>1^80
+  xxxxxxxx#7 : F4@3>1^80 F4@4>1^80 A4@5>1^80 C5@6>1^80 C5@7>1^80 Bb4@8>4^80
+  xxxxxxxx#8 : F3+A3@1>6^56 F3@7>6^56 Bb3@8>4^56
+  xxxxxxxx#9 : F1@1>4^104 G1@5>1^104 A1@6>1^104 Bb1@7>4^104
+  xxxxxxxx#10: C2@1>1^80 Db2@4>1^80 C2@7>1^80
+@35 [Bb | C] (grid:16)
+  xxxxxxxx   : F4@1>2^56 Bb4@3>1^56 D4+D6@7>2^56 C6@10>6^56 E4@11>2^56 G4@13>2^56 C5@15>2^80
+  xxxxxxxx#2 : F4@1>2^80 Bb4@3>1^80 F4+Bb5@5>2^80 D4+D6@7>2^80 C4+E5@9>10^104 C6@10>6^80 E4@11>2^80 G4@13>2^80 C5@15>2^104
+  xxxxxxxx#7 : A4@7>2^80 A4@9>3^80 G4@13>4^80
+  xxxxxxxx#8 : D4@1>4^56 F4@3>5^56 D4@5>3^56 G3@9>12^56 C4@11>6^56 E4@13>3^56 G4@15>5^56
+  xxxxxxxx#9 : Bb1@7>2^104 C2@9>10^104
+  xxxxxxxx#10: Db2@3>1^80 C2@7>1^80 C2@9>1^80 Db2@15>1^80
+@36 [F] (grid:16)
+  xxxxxxxx   : E4@3>1^56 C5+F5@5>20^56 A3@7>4^56 C4@9>2^56 F4@11>4^80 C4@13>1^80 C4@15>10^56
+  xxxxxxxx#2 : G4@1>2^56 E4@3>1^80 A4@4>21^56 F3+C5+F5@5>20^104 A3@7>4^80 C4@9>2^80 F4@11>4^104 C4@13>1^104 A3+C4@15>10^80
+  xxxxxxxx#7 : G4@1>2^80 F4@3>1^80 F4@5>12^80
+  xxxxxxxx#8 : E4@1>4^56 C4@3>2^56 F3@5>8^56 A3@7>6^56 C4@9>3^56 F4@11>6^56 A3+C4@13>4^56 A3@14>2^56 F3@15>2^56
+  xxxxxxxx#9 : F1@5>7^104 F1@15>1^104
+  xxxxxxxx#10: C2@5>1^80
+@37 [Ebdim | Bb7]
+  xxxxxxxx   : Eb4+Eb5@1>32^104 Eb5@57>2^56
+  xxxxxxxx#2 : A3+Eb4+Eb5@1>32^104 G4+Bb4+Eb5@57>3^56
+  xxxxxxxx#6 : Bb4+Eb5@57>2^56
+  xxxxxxxx#7 : Gb5@24>1^56 G5@25>13^80 F5@41>5^80 F5@49>6^80 F5@57>10^80
+  xxxxxxxx#8 : F3+A3+Eb4+F4@25>19^80 F3@49>47^80 D4+F4@57>4^56
+  xxxxxxxx#9 : F1@1>33^104 Bb1@49>35^104
+  xxxxxxxx#10: C2+D2+Db3@25>1^104 C2+Gb2+Db3@49>1^80 Gb2@57>1^56
+  xxxxxxxx#12: Eb5@25>11^80 D5@41>5^80 D5@49>5^80 D5@57>6^80
+  xxxxxxxx#13: G4+Eb5@57>4^80
+@38 [Bb | F]
+  xxxxxxxx   : Eb5@1>5^56 D5@9>3^56 D5@17>3^56 D5@25>4^56 C5@33>3^56 C5@41>3^56 C5@49>4^56 Eb5@57>3^56
+  xxxxxxxx#2 : G4+Bb4+Eb5@1>5^56 F4+Bb4+D5@9>3^56 F4+Bb4+D5@17>3^56 F4+Bb4+D5@25>4^56 F4+A4+C5@33>3^80 F4+A4+C5@41>3^56 F4+A4+C5@49>4^56 A4+C5+Eb5@57>3^56
+  xxxxxxxx#6 : Bb4+Eb5@1>4^56 Bb4+D5@9>3^56 Bb4+D5@17>3^56 Bb4+D5@25>3^56 A4+C5@33>4^56 A4+C5@41>3^56 A4+C5@49>5^56 C5+Eb5@57>3^56
+  xxxxxxxx#7 : F5@44>1^56 Gb5@45>2^80 G5@49>22^80
+  xxxxxxxx#8 : Bb3+D4+F4@1>11^80 Bb3+D4@17>4^80 Bb3+D4+F4@25>9^80 F3@33>48^80 A3+C4+F4@41>3^80 A3+C4+F4@49>13^104
+  xxxxxxxx#9 : Bb1@25>7^104 F1@33>31^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@9>1^80 Gb2@17>1^56 C2+Gb2@25>1^80 C2+Gb2@33>1^80 Gb2@41>1^56 Gb2@49>1^56 D2+Gb2@57>1^80
+  xxxxxxxx#12: Eb5@49>17^80
+  xxxxxxxx#13: G4+Eb5@1>12^56 F4+D5@17>3^80 F4+D5@25>11^80 F4+C5@41>4^80 F4+C5@49>10^80
+@39 [Adim | Bb] (grid:8)
+  xxxxxxxx   : Eb5@1>1^56 Eb5@2>1^56 Eb5@4>1^56 Eb5@5>1^56 D5@6>1^56 D5@7>1^56 D5@8>1^56
+  xxxxxxxx#2 : A4+C5+Eb5@1>1^56 A4+C5+Eb5@2>1^80 G4+Bb4+Eb5@4>1^80 G4+Bb4+Eb5@5>1^56 F4+Bb4+D5@6>1^56 F4+Bb4+D5@7>1^56 F4+Bb4+D5@8>1^56
+  xxxxxxxx#6 : C5+Eb5@1>1^56 C5+Eb5@2>1^56 Bb4+Eb5@4>1^56 Bb4+Eb5@5>1^56 Bb4+D5@6>1^56 Bb4+D5@7>1^56 Bb4+D5@8>1^56
+  xxxxxxxx#7 : F5@2>2^80 Bb5@4>5^80
+  xxxxxxxx#8 : A3+Eb4+F4@1>1^80 A3+Eb4+F4@2>1^104 F3@3>1^104 Bb3+Eb4+F4@4>1^80 Bb3+Eb4+F4@5>1^80 Bb3+D4+F4@7>1^80 Bb3+D4+F4@8>1^56
+  xxxxxxxx#9 : Bb1@3>4^104 F1@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@2>1^80 C2+Gb2@3>1^80 Gb2@4>1^56 Gb2@5>1^56 D2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#12: D5@2>2^80 F5@4>7^80
+  xxxxxxxx#13: A4+Eb5@1>1^80 A4+Eb5@2>1^80 G4+Eb5@4>1^56 G4+Eb5@5>1^80 F4+D5@7>1^80 F4+D5@8>1^80
+@40 [Bb | Eb7]
+  xxxxxxxx   : C5@1>4^56 C5@9>3^56 C5@17>4^56 D5@25>4^56 D5@33>3^56 D5@41>5^56 Eb5@49>45^56 G3@57>14^56
+  xxxxxxxx#2 : F4+A4+C5@1>4^80 F4+A4+C5@9>3^80 F4+A4+C5@17>4^56 F4+Bb4+D5@25>4^80 F4+Bb4+D5@33>4^80 F4+Bb4+D5@41>5^80 Eb3+G4+Bb4+Eb5@49>45^80 G3@57>14^56
+  xxxxxxxx#6 : F4+A4+C5@9>4^56 F4+A4+C5@17>4^56 F4+Bb4+D5@25>3^56 F4+Bb4+D5@33>4^56 F4+Bb4+D5@41>4^56 Eb5+G5@49>47^56
+  xxxxxxxx#7 : A5@24>1^56 Bb5@25>13^80 A5@41>5^80 A5@49>13^80
+  xxxxxxxx#8 : Bb3+C4+F4@9>4^80 Bb3+C4+F4@17>12^80 Bb3+D4+F4@33>5^80 Bb3+D4+F4@41>8^80 Bb3@49>14^104 Eb4@57>7^80
+  xxxxxxxx#9 : Bb1@1>31^104 C2@33>7^104 D2@41>7^104 Eb2@49>36^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@9>1^56 Gb2@17>1^56 D2+Gb2@25>1^80 Gb2@33>1^80 Gb2@41>1^80 C2+Gb2@49>1^80 Gb2@57>1^56
+  xxxxxxxx#12: D5@25>12^80 F5@41>5^80 F5@49>21^80
+  xxxxxxxx#13: F4+C5@9>4^80 F4+C5@17>11^80 F4+D5@33>4^80 F4+D5@41>5^80 Bb4+G5@57>4^80
+@41 [Eb | F]
+  xxxxxxxx   : Bb3@1>10^56 Eb4@9>10^56 Bb3@17>9^56 A4+C5+F5@33>46^80 A3@41>6^56 F4@57>7^56
+  xxxxxxxx#2 : Bb3@1>10^56 Eb4@9>10^80 Bb3@14>9^56 G3@25>4^56 F3+A4+C5+F5@33>46^80 A3@41>6^56 C4@49>10^56 F4@57>7^80
+  xxxxxxxx#6 : F5+A5@33>47^80
+  xxxxxxxx#7 : G5@1>13^80 G5@17>5^80 F5@25>6^80 F5@32>1^56 Gb5@33>2^80 G5@37>16^80 G5@57>4^80
+  xxxxxxxx#8 : Bb3@1>14^80 G4@9>20^104 Eb4@17>15^80 Bb3@25>6^56 C4@33>14^80 F4@41>21^80 C4@49>23^80 A4@57>21^104
+  xxxxxxxx#9 : Eb2@25>7^104 F1@33>31^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@9>1^80 Gb2@17>1^56 C2+Gb2@25>1^80 C2+Gb2@33>1^80 Gb2@41>1^56 Gb2@49>1^56 D2+Gb2@57>1^80
+  xxxxxxxx#12: Eb5@25>5^80 Eb5@33>23^80 Eb5@57>3^80
+  xxxxxxxx#13: Bb4+G5@1>13^80 Bb4+G5@17>4^56 Bb4+G5@25>6^80 C5+A5@41>4^80 C5+A5@49>13^56
+@42 [Bb] (grid:8)
+  xxxxxxxx   : C4@1>1^56 A3@2>1^56 Eb5@4>1^56 Eb5@5>1^56 Bb4@6>1^56 D5@7>1^56 D5@8>1^56
+  xxxxxxxx#2 : C4@1>1^56 A3@2>1^56 Bb3@3>1^56 D4+Bb4+Eb5@4>1^80 Bb3+F4+Bb4+Eb5@5>1^80 Bb4@6>1^56 F4+Bb4+D5@7>1^80 D4+Bb4+D5@8>1^56
+  xxxxxxxx#6 : Bb4+Eb5@4>1^80 Bb4+Eb5@5>1^56 Bb4+D5@6>1^56 Bb4+D5@7>1^56 Bb4+D5@8>1^56
+  xxxxxxxx#7 : F5@1>1^80 F5@2>1^80 F5@3>3^80
+  xxxxxxxx#8 : F4@1>2^80 C4@2>1^56 F3@3>3^104 Bb3+Eb4+F4@4>1^80 Bb3+Eb4+F4@5>1^80 Bb3+D4+F4@7>1^80 Bb3+D4+F4@8>1^56
+  xxxxxxxx#9 : Bb1@3>4^104 F1@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@2>1^80 C2+Gb2@3>1^80 Gb2@4>1^56 Gb2@5>1^56 D2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#12: Eb5@1>1^80 D5@2>1^80 D5@3>5^80
+  xxxxxxxx#13: C5+A5@1>1^56 C5+A5@2>1^80 G4+Eb5@4>1^56 G4+Eb5@5>1^80 F4+D5@7>1^80 F4+D5@8>1^80
+@43 [Bb | Eb7] (grid:16)
+  xxxxxxxx   : C5@1>1^56 C5@3>1^56 C5@5>1^56 D5@7>1^56 D5@9>1^56 D5@11>1^56 Bb4+Eb5@13>18^56 G3@15>3^56
+  xxxxxxxx#2 : Bb3+Bb4+C5@1>3^80 D4+Bb4+C5@3>1^56 Bb3+F4+Bb4+C5@5>1^80 Bb4+D5@7>1^56 F4@8>1^56 Bb4+D5@9>1^80 Bb3+Bb4+D5@11>1^80 Eb3+G4+Bb4+Eb5@13>18^56 G3@15>3^56
+  xxxxxxxx#6 : A4+C5@1>1^80 A4+C5@3>1^80 A4+C5@5>1^80 A4+D5@7>1^80 Bb4+D5@9>1^80 Bb4+D5@11>1^80 Eb5+G5@13>24^32
+  xxxxxxxx#7 : C6@7>3^80 Bb5@11>2^80 Bb5@13>1^80 F5@14>1^80 G5@15>12^80
+  xxxxxxxx#8 : Bb3+C4+F4@3>1^80 Bb3+C4+F4@5>3^80 Bb3+D4+F4@9>1^80 Bb3+D4+F4@11>2^80 Bb3@15>8^80
+  xxxxxxxx#9 : Bb1@1>7^104 C2@9>2^104 D2@11>2^104 Eb2@13>10^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@3>1^56 Gb2@5>1^56 D2+Gb2@7>1^80 Gb2@9>1^80 Gb2@11>1^80 C2+Gb2@13>1^80 Gb2@15>1^56
+  xxxxxxxx#12: D5@7>3^80 D5@11>2^80 Eb5@13>15^80
+  xxxxxxxx#13: F4+C5@3>1^80 F4+C5@5>3^80 F4+D5@9>1^80 F4+D5@11>1^80 Eb4@13>6^104 G4@15>4^56
+@44 [Eb] (grid:16)
+  xxxxxxxx   : Bb3@1>2^56 Eb3@4>1^32 Bb3@5>2^56 Eb3@9>3^56 Bb3@13>2^56
+  xxxxxxxx#2 : Bb3@1>2^56 Eb4@3>2^80 Eb3@4>1^32 Bb3@5>2^56 G3@7>2^56 Eb3@9>3^56 G3@11>3^56 Bb3@13>2^56 Eb4@15>2^104
+  xxxxxxxx#7 : G5@16>3^80
+  xxxxxxxx#8 : Eb4@1>4^80 G4@3>8^104 Eb4@5>2^80 Bb3@7>4^104 Eb4@11>5^104 Bb3@13>4^80 G4@15>4^104
+  xxxxxxxx#9 : Bb1@7>2^104 Eb2@9>10^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@3>1^80 Gb2@5>1^56 C2+Gb2@7>1^80 C2+Gb2@9>1^80 Gb2@11>1^56 Gb2@13>1^56 D2+Gb2@15>1^80
+  xxxxxxxx#12: D5@13>1^80 Eb5@15>3^80
+  xxxxxxxx#13: Bb4@1>2^80 Eb5@3>6^80 Bb4@5>4^56 G4@7>2^80 Eb4@9>4^80 G4@11>4^80 Bb4@13>3^56 Eb5@15>6^80
+@45 [Bb] (grid:8)
+  xxxxxxxx   : G4@1>1^80 Bb4@2>1^80 Bb3@3>1^56 Eb5@4>1^56 Eb5@5>1^56 Bb4@6>1^56 D5@7>1^56 D5@8>1^56
+  xxxxxxxx#2 : Bb3+G4@1>1^80 G3+Bb4@2>1^80 Bb3@3>1^56 D4+Bb4+Eb5@4>1^80 F4+Bb4+Eb5@5>1^80 Bb4@6>1^80 F4+Bb4+D5@7>1^56 D4+Bb4+D5@8>1^56
+  xxxxxxxx#6 : F4+Bb4+Eb5@4>1^80 F4+Bb4+Eb5@5>1^80 F4+Bb4+D5@6>1^56 F4+Bb4+D5@7>1^56 F4+Bb4+D5@8>1^80
+  xxxxxxxx#7 : F5@2>1^80 F5@3>5^80
+  xxxxxxxx#8 : Eb4@1>2^80 Bb3@2>1^80 F3@3>3^104 Bb3+Eb4+F4@4>1^80 Bb3+Eb4+F4@5>1^80 Bb3+D4+F4@7>1^80 Bb3+D4+F4@8>1^56
+  xxxxxxxx#9 : Bb1@3>5^104 F1@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@2>1^80 C2+Gb2@3>1^80 Gb2@4>1^56 Gb2@5>1^56 D2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#12: D5@2>1^80 D5@3>7^80
+  xxxxxxxx#13: Bb4@1>2^56 G4@2>1^80 G4+Eb5@4>1^80 G4+Eb5@5>2^80 F4+D5@7>1^80 F4+D5@8>1^80
+@46 [Bb | Eb7] (grid:8)
+  xxxxxxxx   : C5@1>1^56 C5@2>1^56 C5@3>1^56 D5@4>1^56 D5@5>1^56 D5@6>1^56 Bb4+Eb5@7>6^56 G3@8>3^56
+  xxxxxxxx#2 : Bb3+Bb4+C5@1>1^56 D4+Bb4+C5@2>1^56 F4+Bb4+C5@3>1^80 Bb4+D5@4>1^80 F4+Bb4+D5@5>1^56 Bb3+Bb4+D5@6>1^80 Eb3+G4+Bb4+Eb5@7>6^56 G3@8>3^56
+  xxxxxxxx#6 : F4+Bb4+C5@1>1^80 F4+Bb4+C5@2>1^56 F4+Bb4+C5@3>1^56 F4+Bb4+D5@4>1^80 F4+Bb4+D5@5>1^80 F4+Bb4+D5@6>1^80 Eb4@7>6^80
+  xxxxxxxx#7 : Bb4@3>1^80 Bb4@4>1^80 D5@5>1^80 F5@6>1^80 F5@7>1^80 Eb5@8>4^80
+  xxxxxxxx#8 : Bb3+C4+F4@2>1^80 Bb3+C4+F4@3>1^80 Bb3+D4+F4@5>1^80 Bb3+D4+F4@6>1^80 Bb3@7>2^80 Eb4@8>2^80
+  xxxxxxxx#9 : Bb1@1>4^104 C2@5>1^104 D2@6>1^104 Eb2@7>3^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^56 D2+Gb2@4>1^80 Gb2@5>1^80 Gb2@6>1^80 C2+Gb2@7>1^80 Gb2@8>1^56
+  xxxxxxxx#12: Bb4@3>1^80 Bb4@4>1^80 Bb4@5>1^80 Bb4@6>1^80 Bb4@7>1^80 Bb4@8>1^80
+  xxxxxxxx#13: F4+C5@2>1^80 F4+C5@3>2^80 F4+D5@5>1^80 F4+D5@6>1^80 G4@8>2^80
+@47 [Eb | F] (grid:8)
+  xxxxxxxx   : Bb3@1>1^32 Eb4@2>1^80 Bb3@3>1^56 G3@4>1^56 C5+F5@5>4^56 A3@6>1^32 C4@7>1^56 F4@8>1^56
+  xxxxxxxx#2 : Bb3@1>1^56 Eb3+Eb4@2>1^80 Bb3@3>1^56 G3@4>1^56 F3+A4+C5+F5@5>4^80 A3@6>1^56 C4@7>1^56 F4@8>1^80
+  xxxxxxxx#6 : F4@5>6^104
+  xxxxxxxx#7 : D5@4>1^80 D5@5>1^80 C5@6>1^80 C5@7>2^80
+  xxxxxxxx#8 : Bb3@1>3^56 G4@2>4^56 Eb4@3>2^80 F4@6>3^80 C4@7>3^80 A4@8>3^56
+  xxxxxxxx#9 : Eb2@4>1^104 F1@5>4^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@2>1^80 Gb2@3>1^56 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^56 D2+Gb2@8>1^80
+  xxxxxxxx#13: Bb4@1>1^80 Eb5@2>3^80 Bb4@3>2^56 G4@4>1^56 F4@5>6^80 A4@6>2^80 C5@7>1^80 Eb5@8>3^80
+  xxxxxxxx#14: F6@4>1^56 F6@5>1^56 Eb6@7>2^56
+@48 [Bb] (grid:32)
+  xxxxxxxx   : C4@1>4^56 A3@5>2^56 B3@10>1^32 D4@13>3^56 F4@17>2^32 Bb4@21>2^56 F4@25>3^56 D4@29>3^56
+  xxxxxxxx#2 : C4@1>4^56 A3@5>2^56 Bb4+D5@9>11^80 B3@10>1^32 D4@13>3^80 F4@17>2^56 Bb4@21>2^80 F4@25>3^56 D4@29>3^56
+  xxxxxxxx#6 : Bb4+D5+F5@13>1^56 Bb4+D5+F5@17>6^80 Bb4+D5+F5@25>1^80 Bb4+D5+F5@29>3^80
+  xxxxxxxx#7 : C5@1>3^80 Bb4@5>3^80 C5@9>6^80 C5@17>1^56 Db5@18>1^56 D5@19>22^80
+  xxxxxxxx#8 : F4@1>6^80 Bb3@9>22^104 D4@13>14^56 F4@17>6^80 Bb4@21>14^56 F4@25>10^80
+  xxxxxxxx#9 : Bb1@9>15^104 F1@29>3^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@5>1^80 C2+Gb2@9>1^80 Gb2@13>1^56 Gb2@17>1^56 D2+Gb2@21>1^80 Gb2@25>1^56 C2+Gb2@29>1^80
+  xxxxxxxx#13: C5@1>8^80 A4@5>4^80 F4+D5@13>1^80 F4+D5@17>6^80 F4+D5@25>1^80 F4+D5@29>6^80
+  xxxxxxxx#14: Eb6@1>2^56 D6@5>3^56 Eb6@9>4^56 Eb6@13>1^56 F6@17>19^56
+@49 [Bb | Eb] (grid:8)
+  xxxxxxxx   : D4@2>1^56 Bb4@4>1^56 F4@5>1^56 Bb3@6>1^56 Eb5@7>6^56 G3@8>2^56
+  xxxxxxxx#2 : Bb3@1>2^56 D4@2>1^80 F4@3>1^56 Bb4@4>1^80 F4@5>1^56 Bb3@6>1^56 Eb3+Bb4+Eb5@7>6^56 G3@8>2^56
+  xxxxxxxx#6 : Bb4+D5+F5@2>1^56 Bb4+D5+F5@3>1^56 Bb4+D5+F5@5>1^80 Bb4+D5+F5@6>1^80 Eb4+Eb5@7>6^56
+  xxxxxxxx#7 : Bb4@3>1^80 Bb4@4>1^80 D5@5>1^80 F5@6>1^80 F5@7>1^80 Eb5@8>4^80
+  xxxxxxxx#8 : Bb3@1>2^80 D4@2>3^56 Bb3@3>3^80 F4@4>2^80 D4@5>1^56 Bb3@6>1^80 Bb3@7>2^80 Eb4@8>3^56
+  xxxxxxxx#9 : Bb1@1>4^104 C2@5>1^104 D2@6>1^104 Eb2@7>5^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^56 D2+Gb2@4>1^80 D2+Gb2@5>1^80 D2+Gb2@6>1^80 C2+Bb2@7>1^104 Gb2@8>1^56
+  xxxxxxxx#12: Bb4@3>1^80 Bb4@4>1^80 Bb4@5>1^80 Bb4@6>1^80 Bb4@7>1^80 Bb4@8>1^80
+  xxxxxxxx#13: F4+D5@2>1^80 F4+D5@3>2^80 F4+D5@5>1^80 F4+D5@6>1^80 G4+Eb5@8>3^56
+@50 [Eb | F] (grid:8)
+  xxxxxxxx   : Bb3@1>1^56 Eb4@2>1^56 Bb3@3>1^32 G3@4>1^56 C5+F5@5>3^56 A3@6>1^32 F4@8>1^56
+  xxxxxxxx#2 : Bb3@1>1^56 Eb4@2>1^80 Bb3@3>1^56 G3@4>1^56 F3+A4+C5+F5@5>5^80 A3@6>1^56 C4@7>1^56 F4@8>1^80
+  xxxxxxxx#6 : F4+F5@5>6^56
+  xxxxxxxx#7 : D5@4>1^80 D5@5>1^80 C5@6>1^80 C5@7>2^80
+  xxxxxxxx#8 : Bb3@1>3^80 G4@2>4^80 Eb4@3>3^56 Bb3@4>2^80 F4@6>3^80 C4@7>3^80 A4@8>3^80
+  xxxxxxxx#9 : Eb2@4>1^104 F1@5>5^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@2>1^80 Gb2@3>1^56 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^56 D2+Gb2@8>1^80
+  xxxxxxxx#13: G4+Eb5@3>1^56 G4+Eb5@4>1^80 A4+F5@6>1^56 A4+F5@7>2^80
+  xxxxxxxx#14: F6@4>1^56 F6@5>2^56 Eb6@7>2^56
+@51 [Bb] (grid:32)
+  xxxxxxxx   : A3@5>2^32 D4@13>7^56 F4@17>5^56 Bb4@21>4^56 F4@25>4^56 C6@30>1^56 Bb5@32>1^80
+  xxxxxxxx#2 : C4@1>4^56 A3@5>2^56 Bb3+D6@9>22^104 D4@13>7^80 F4@17>5^80 Bb4@21>4^80 F4@25>4^80 D4@29>2^80 C6@30>1^80 Bb5@32>1^104
+  xxxxxxxx#3 : F3@17>12^80 F3@29>18^56
+  xxxxxxxx#4 : D6@17>22^32 D4@21>7^32 F4@25>5^32 Bb4@29>4^32
+  xxxxxxxx#5 : F3@9>30^104
+  xxxxxxxx#6 : Bb3@9>24^56
+  xxxxxxxx#7 : C5@1>3^80 Bb4@5>3^80 Bb4@9>24^80
+  xxxxxxxx#8 : F4@1>8^56 C4@5>4^80
+  xxxxxxxx#9 : Bb2@9>19^104 Bb2@29>4^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@5>1^80 C2+Gb2@9>1^80 Gb2@13>1^56 Gb2@17>1^56 D2+Gb2@21>1^80 Gb2@25>1^56 C2+Gb2@29>1^80
+  xxxxxxxx#13: A4+F5@1>2^80 A4+F5@5>3^80
+  xxxxxxxx#14: Eb6@1>2^56 D6@5>3^56 D6@9>24^56
+@52 [F]
+  xxxxxxxx   : C4@9>12^56 F4@17>7^56 A5@25>24^80 F4@33>11^56 C4@41>5^56 Bb3@57>16^56
+  xxxxxxxx#2 : A3+C6@1>43^104 C4@9>12^80 F4@17>7^80 A4+A5@25>24^104 F4@33>11^80 C4@41>5^80 G3+G5@49>44^104 Bb3@57>16^80
+  xxxxxxxx#3 : F3@41>6^56 G3@49>5^56 F3@57>6^56
+  xxxxxxxx#4 : F4@1>8^32 D4@9>4^32 C6@12>3^32 Bb5@14>2^56 A3@16>43^32 C6@17>24^32 C4@24>12^32 F4@32>7^32 A4+A5@41>24^56 F4@48>11^32 C4@57>5^32
+  xxxxxxxx#5 : F3@25>7^104 G3@33>7^104 F3@41>7^104 Bb2@49>60^104
+  xxxxxxxx#6 : C4@1>47^80 Bb3@49>95^80
+  xxxxxxxx#9 : A2@1>31^104 G2@49>38^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@9>1^56 Gb2@17>1^56 D2+Gb2@25>1^80 Gb2@33>1^80 Gb2@41>1^80 C2+Gb2@49>1^80 Gb2@57>1^56
+@53 [Eb | Bb]
+  xxxxxxxx   : Eb4@1>9^56 G4@9>16^56 Eb4@17>8^56 Bb3@25>6^56 Bb3+Bb5@41>32^80 D4@49>9^56 F4@57>16^80
+  xxxxxxxx#2 : Eb4@1>9^80 G4@9>16^80 Eb4@17>8^80 Bb3@25>6^80 F3+F5@33>41^104 Bb3+Bb5@41>32^104 D4@49>9^80 F4@57>16^104
+  xxxxxxxx#3 : Bb2+F3@1>24^56 G3@9>5^32 F3@17>6^32 Bb2@25>36^32
+  xxxxxxxx#4 : G3+G5@1>44^56 Bb3@9>16^32 Eb4@17>9^32 G4@25>16^32 Eb4@33>8^32 Bb3@41>6^32 F3+F5@49>41^56 Bb5@56>32^56 Bb3@57>16^32
+  xxxxxxxx#5 : Bb2@57>7^104
+  xxxxxxxx#9 : G2@25>7^104 F1@33>38^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@9>1^80 Gb2@17>1^56 C2+Gb2@25>1^80 C2+Gb2@33>1^80 Gb2@41>1^56 Gb2@49>1^56 D2+Gb2@57>1^80
+@54 [Bb | Eb]
+  xxxxxxxx   : D4@1>9^56 Bb3@9>5^80 Eb5@17>6^80 Bb3@33>10^56 Bb3+Eb6@49>9^80 Eb5@57>5^80
+  xxxxxxxx#2 : D4@1>9^80 Bb3@9>5^104 Eb3+Eb5@17>42^104 G3@25>14^80 Bb3@33>10^80 Eb4@41>10^104 Bb3+Eb6@49>9^104 G3+Eb5@57>5^104
+  xxxxxxxx#3 : Bb2@9>7^32 C3@17>6^32 D3@24>8^32 Bb2+Eb3@33>7^32 D3@37>11^32 C3@41>6^32 D3@48>8^32 Eb3@57>2^32 D3@61>13^32
+  xxxxxxxx#4 : D4@1>9^32 F4@9>16^32 D4@16>9^32 Bb3@24>5^32 Eb3+Eb5@33>42^56 G3@41>14^32 Bb3@48>10^32 Eb4@57>10^32
+  xxxxxxxx#5 : C3@1>7^104 D3@9>7^104 Eb3@17>2^104 D3@21>37^104
+  xxxxxxxx#6 : Bb3@17>47^80
+  xxxxxxxx#9 : Eb2@17>37^104 Eb2@57>7^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@9>1^80 C2+Gb2@17>1^80 Gb2@25>1^56 Gb2@33>1^56 D2+Gb2@41>1^80 Gb2@49>1^56 C2+Gb2@57>1^80
+@55 [F | Bb]
+  xxxxxxxx   : A3@9>7^56 C4@17>9^56 F4@25>11^80 C4@33>7^56 A3@41>3^56 D5@49>10^80 D4@57>6^56
+  xxxxxxxx#2 : F3+F5@1>42^104 A3@9>7^80 C4@17>9^80 F4@25>11^104 C4@33>7^80 A3@41>3^80 Bb3+Bb4+D5@49>25^104 D4@57>6^80
+  xxxxxxxx#3 : D3@17>3^56 C3@21>2^32 Bb2@24>24^56 D3@41>3^32 C3@45>2^32 Bb2@48>7^32 A2@57>7^32
+  xxxxxxxx#4 : Bb3+Eb6@1>9^32 Eb5@8>5^32 G3@9>4^32 F3+F5@16>42^56 A3@25>7^32 C4@33>9^32 F4@41>11^56 C4@49>7^32 A3@57>3^32
+  xxxxxxxx#5 : D3@1>3^104 C3@5>2^104 Bb2@8>31^104 A2@41>7^104 Bb2@50>50^104
+  xxxxxxxx#6 : C4@1>47^80 Bb3@49>55^80
+  xxxxxxxx#9 : F1@1>31^104 Bb1@49>31^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@9>1^56 Gb2@17>1^56 D2+Gb2@25>1^80 Gb2@33>1^80 Gb2@41>1^80 C2+Gb2@49>1^80 Gb2@53>1^80 Gb2@57>1^56
+@56 [Bb]
+  xxxxxxxx   : Bb4@9>6^56 F4@17>6^56 D5+F5+Bb5@33>6^56 E5+G5@57>19^80
+  xxxxxxxx#2 : F4@1>9^80 Bb4@9>6^80 F4@17>6^80 D4@25>8^80 Bb3+D5+F5+Bb5@33>23^80 C4+C5+E5+G5@57>19^104
+  xxxxxxxx#3 : Bb2@2>14^32 A2@17>7^32 Bb2@26>26^32
+  xxxxxxxx#4 : Bb3+Bb4+D5@1>25^56 D4@9>6^32 F4@17>9^32 Bb4@25>6^32 F4@33>6^32 D4@41>8^32 Bb3+F5+Bb5@49>23^32 D5@50>6^32
+  xxxxxxxx#6 : C3+C4@57>17^80
+  xxxxxxxx#7 : D5@57>14^80
+  xxxxxxxx#9 : F1@25>7^104 Bb1@33>24^104 C2@57>24^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@9>1^80 Gb2@17>1^56 C2+Gb2@25>1^80 C2+Gb2@33>1^80 Gb2@41>1^56 Gb2@49>1^56 D2+Gb2+Db3@57>1^80
+@57 [C | F]
+  xxxxxxxx   : C4@25>17^56 F4@33>9^56 A4@41>17^56 F3+C4@57>7^56
+  xxxxxxxx#2 : F3+A3@17>42^104 C4@25>17^80 F4@33>9^80 A4@41>17^80 F4@49>10^80 F3+C4@57>7^80
+  xxxxxxxx#3 : Bb1+E2@9>19^32 G2@10>17^32 Bb1+E2@33>19^32 G2@34>17^32
+  xxxxxxxx#4 : C4+C5+E5+G5@9>19^56
+  xxxxxxxx#7 : C5@9>5^80 C5@17>9^80 A4@29>45^80
+  xxxxxxxx#8 : E4+G4@1>8^32 Bb3+E4+G4@9>11^32 A3@17>46^56 C4@25>29^56 F4@33>13^56 A4@41>19^56 F4@49>15^56 C4@57>4^56
+  xxxxxxxx#9 : F1@17>35^104 F1@57>7^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@9>1^80 C2@17>1^80 Gb2@25>1^56 Gb2@33>1^56 Db2+Gb2@41>1^80 Gb2@49>1^32 C2+Gb2@57>1^80
+@58 [C] (grid:16)
+  xxxxxxxx   : E4@5>2^56 E4@9>4^56 C4@11>2^56 C4@15>4^56
+  xxxxxxxx#2 : C3+G3@1>11^104 C4@3>4^80 E4@5>2^80 G4@7>6^80 E4@9>4^80 C4@11>2^80 F3+A3@13>11^104 C4@15>4^80
+  xxxxxxxx#7 : D5@7>3^80 C5@11>1^80 C5@13>12^80
+  xxxxxxxx#8 : G3+E4@1>11^56 C4@3>8^80 E4@4>1^56 E4@5>3^56 G4@7>5^56 E4@9>3^56 C4@11>1^32 A3@13>12^56 C4@15>8^56
+  xxxxxxxx#9 : C2@1>10^104 F1@13>9^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@3>1^32 Gb2@5>1^56 Db2+Gb2@7>1^80 Gb2@9>1^32 Gb2@11>1^56 C2+Gb2@13>1^80 Gb2@15>1^32
+@59 [F | C] (grid:8)
+  xxxxxxxx   : F4@1>1^56 A4@2>2^56 F3+C4@4>1^56 E4@7>1^56
+  xxxxxxxx#2 : F4@1>1^80 A4@2>2^80 F4@3>1^80 F3+C4@4>1^80 C3+G3@5>6^104 C4@6>2^80 E4@7>1^80 G4@8>3^80
+  xxxxxxxx#7 : D5@8>2^80
+  xxxxxxxx#8 : F4@1>2^56 A4@2>2^56 F4@3>2^56 C4@4>1^32 G3@5>1^56 G3+C4@6>5^56 E4@7>2^56 G4@8>2^56
+  xxxxxxxx#9 : F1@4>1^104 C2@5>5^104
+  xxxxxxxx#10: Gb2@1>1^32 Db2+Gb2@2>1^80 Gb2@3>1^32 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^56 Db2+Gb2@8>1^80
+@60 [Am | F] (grid:8)
+  xxxxxxxx   : E4@1>2^56 C4@2>1^56 C4@4>2^56 F4@5>1^56 A4@6>1^80 F3+C4@8>1^56
+  xxxxxxxx#2 : E4@1>2^80 C4@2>1^80 F3+A3@3>5^104 C4@4>2^80 F4@5>1^80 A4@6>1^104 F4@7>1^80 F3+C4@8>1^80
+  xxxxxxxx#7 : C5@2>1^80 C5@3>1^80 A4@4>2^80 D5@7>1^80
+  xxxxxxxx#8 : E4@1>2^56 C4@2>1^56 A3@3>6^56 C4@4>4^56 F4@5>2^56 A4@6>2^80 F4@7>2^56 C4@8>1^32
+  xxxxxxxx#9 : F1@3>5^104 F1@8>1^104
+  xxxxxxxx#10: Gb2@1>1^56 Gb2@2>1^56 C2+Gb2@3>1^80 Gb2@4>1^32 Gb2@5>1^32 Db2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+@61 [C] (grid:8)
+  xxxxxxxx   : C4@2>1^56 E4@3>1^56 G4@4>3^80 E4@5>2^56 C4@6>1^56 A3@7>1^80 Bb3@8>1^80
+  xxxxxxxx#2 : C3+G3@1>5^104 C4@2>1^80 E4@3>1^80 G4@4>3^104 E4@5>2^80 C4@6>1^80 F3+A3@7>10^104 Bb3@8>1^104
+  xxxxxxxx#7 : C5@1>1^80 G4@2>2^80 D5@5>1^80 C5@6>1^80 C5@7>6^80
+  xxxxxxxx#8 : G3@1>6^56 C4@2>2^56 E4@3>2^56 G4@4>2^56 E4@5>2^56 C4@6>1^56 A3@7>1^56 Bb3@8>1^56
+  xxxxxxxx#9 : C2@1>4^104 F1@7>4^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^32 Db2+Gb2@4>1^80 Gb2@5>1^32 Gb2@6>1^56 C2+Gb2@7>1^80 Gb2@8>1^32
+@62 [C7 | Dm] (grid:8)
+  xxxxxxxx   : B3@1>1^80 C4@2>1^104 E4@4>1^80 G4@5>1^80 E4@7>1^80 F4@8>1^80
+  xxxxxxxx#2 : B3@1>1^104 C4@2>1^104 D4@3>1^104 E4@4>1^104 D4+G4@5>1^104 F4@6>1^80 E4@7>1^104 F4@8>1^104
+  xxxxxxxx#7 : G5@8>2^80
+  xxxxxxxx#8 : B3@1>1^56 C4@2>1^56 D4@3>1^56 E4@4>1^56 G4@5>1^56 F4@6>1^56 E4@7>1^56 G4@8>1^56
+  xxxxxxxx#9 : C2@4>1^104 F1@5>4^104
+  xxxxxxxx#10: Gb2@1>1^56 Db2+Gb2@2>1^80 Gb2@3>1^56 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^56 Db2+Gb2@8>1^80
+@63 [Bb] (grid:16)
+  xxxxxxxx   : D6@5>1^80 Bb3@6>5^56 D4@7>2^56 F4@9>2^56 F5+Bb5@11>1^56 F4@13>1^56 F4@16>1^32
+  xxxxxxxx#2 : F5+Bb5+D6@5>2^104 Bb3@6>5^80 D4@7>2^80 F4@9>2^80 Bb4+D5+F5+Bb5@11>1^80 F4@13>1^80 D4@15>2^80 F4@16>1^32
+  xxxxxxxx#7 : F5@3>1^80 F5@5>3^80 D5@9>12^80
+  xxxxxxxx#8 : F4@1>2^56 Eb4@3>1^56 Bb3+D4+F4@5>23^104 Bb3+D4@11>6^80 Bb3@12>4^80 F3@16>11^56
+  xxxxxxxx#9 : G1@1>2^104 A1@3>2^104 Bb1@5>10^104 F1@15>2^104
+  xxxxxxxx#10: Ab2@1>1^56 Ab2@3>1^80 C2+Gb2@5>1^80 Gb2@7>1^56 Gb2@9>1^32 Db2+Gb2@11>1^80 Gb2@13>1^56 C2+Gb2@15>1^80
+@64 [Bb | F] (grid:16)
+  xxxxxxxx   : D5+F5@1>4^56 D4@3>2^56 F4@5>2^56 Bb3@11>1^56 A5+C6@13>1^56 A3@15>2^56
+  xxxxxxxx#2 : Bb3+Bb4+D5+F5@1>5^80 D4@3>2^80 F4@5>2^80 Bb4@7>2^80 F4@9>2^80 Bb3@11>1^80 F5@12>2^80 F3+A5+C6@13>5^104 A3@15>2^80
+  xxxxxxxx#7 : D5@7>3^80 C5@11>1^80 C5@13>12^80
+  xxxxxxxx#8 : Bb3@1>10^80 F3+A3@12>12^56 C4+F4@13>7^56
+  xxxxxxxx#9 : Bb1@1>8^104 F1@13>10^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@3>1^56 Gb2@5>1^56 Db2+Gb2@7>1^80 Gb2@9>1^32 Gb2@11>1^56 C2+Gb2@13>1^80 Gb2@15>1^32
+@65 [F] (grid:8)
+  xxxxxxxx   : C5+F5+A5@2>1^80 C4@3>1^56 A3@4>1^56 C5+F5@5>3^56 A3@6>1^56 C4@7>1^56 F4@8>1^56
+  xxxxxxxx#2 : C4@1>1^80 F4+C5+F5+A5@2>1^104 C4@3>1^80 A3@4>1^80 F3+A4+C5+F5@5>5^80 A3@6>1^80 C4@7>1^80 F4@8>1^80
+  xxxxxxxx#7 : F4@7>1^80 F4@8>1^80
+  xxxxxxxx#8 : A3+C4@2>8^56 F3+A3@5>6^56
+  xxxxxxxx#9 : C2@4>1^104 F1@5>4^104
+  xxxxxxxx#10: Gb2@1>1^56 Db2+Gb2@2>1^80 Gb2@3>1^32 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^80 Db2+Gb2@8>1^80
+@66 [Bb] (grid:8)
+  xxxxxxxx   : A4@1>1^80 C5@2>1^56 D5@3>2^56 D4@4>1^56 F4@5>1^56 Bb4@6>1^56 Bb5@7>1^56 D6@8>1^56
+  xxxxxxxx#2 : C4+A4@1>1^104 A3+C5@2>1^80 Bb3+Bb4+D5@3>2^80 Bb3+D4@4>1^80 F4@5>1^80 Bb4@6>1^80 F4+Bb5@7>1^80 D4+D6@8>1^80
+  xxxxxxxx#7 : C5@2>1^80 C5@3>1^80 Bb4@5>3^80 A4@8>1^80
+  xxxxxxxx#8 : F3@3>6^56 Bb3@4>4^56 D4@5>2^56 F4@6>3^56 D4@7>2^56
+  xxxxxxxx#9 : G1@1>1^104 A1@2>1^104 Bb1@3>3^104 Bb1@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@2>1^80 C2+Gb2@3>1^80 Gb2@4>1^32 Gb2@5>1^56 Db2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#11: Bb4@4>1^56 Bb4@5>2^32 A4@7>1^32 A4@8>2^56
+@67 [C | F] (grid:16)
+  xxxxxxxx   : E4@3>2^56 C5@7>2^80 E4@11>1^56 C5+F5@13>18^80 A3@15>2^56
+  xxxxxxxx#2 : C4+C6@1>9^80 E4@3>2^56 G4@5>2^80 C5@7>2^104 G4@9>2^80 E4@11>1^56 A4@12>18^80 F3+C5+F5@13>18^104 A3@15>2^80
+  xxxxxxxx#7 : A4@1>3^80 G4@5>4^80 G4@9>1^80 F4@11>2^80 F4@13>11^80
+  xxxxxxxx#8 : G3@1>12^56 C4@3>6^56 E4@5>3^56 G4@7>5^56 E4@9>4^56 C4@11>2^56 F3@13>9^56 A3@15>6^56
+  xxxxxxxx#9 : C2@1>8^104 F1@13>7^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@3>1^56 Gb2@5>1^56 Db2+Gb2@7>1^80 Gb2@9>1^56 Gb2@11>1^56 C2+Gb2@13>1^80 Gb2@15>1^32
+  xxxxxxxx#11: G4@3>1^56 G4@5>3^56 F4@9>2^56 E4@11>2^56 F4@13>13^56
+@68 [F | Adim] (grid:16)
+  xxxxxxxx   : C4@1>2^56 F4@3>3^80 C4@5>10^56 A3@7>2^56 Eb5@9>6^80 A3@10>6^32
+  xxxxxxxx#2 : C4@1>2^80 F4@3>3^104 C4@5>10^80 A3@7>2^80 Eb4+Eb5@9>6^104 A3@10>6^56
+  xxxxxxxx#7 : F5@13>1^56 Gb5@14>1^56 G5@15>3^80
+  xxxxxxxx#8 : C4@1>3^56 F4@3>6^56 A3+C4@5>4^56 A3@6>2^56 F3@7>2^56 F3+A3+Eb4+F4@15>5^80
+  xxxxxxxx#9 : F1@7>1^104 F1@9>8^104
+  xxxxxxxx#10: Gb2@1>1^56 Gb2@3>1^80 Gb2@5>1^32 Gb2@7>1^56 Gb2@9>1^80 Gb2@11>1^56 Gb2@13>1^56 D2+Db3@15>1^104
+  xxxxxxxx#12: Eb5@15>4^80
+@69 [Bb] (grid:8)
+  xxxxxxxx   : Eb5@4>1^56 Eb5@5>1^56 D5@6>1^56 D5@7>1^56 D5@8>1^56
+  xxxxxxxx#2 : G4+Bb4+Eb5@4>1^80 G4+Bb4+Eb5@5>1^80 F4+Bb4+D5@6>1^80 F4+Bb4+D5@7>1^80 F4+Bb4+D5@8>1^80
+  xxxxxxxx#6 : F4+Eb5@3>1^80 Eb4+F4+Eb5@4>1^80 Eb4+F4+Eb5@5>1^56 D4+F4+D5@6>1^56 D4+F4+D5@7>1^56 D4+F4+D5@8>1^80
+  xxxxxxxx#7 : F5@2>1^80 F5@3>1^80 F5@4>4^80
+  xxxxxxxx#8 : F3@3>6^56 Eb4+F4@4>1^56 Bb3+Eb4+F4@5>1^56 Bb3+D4@7>1^56 Bb3+D4+F4@8>1^56
+  xxxxxxxx#9 : Bb1@3>5^104 Bb1@8>1^104
+  xxxxxxxx#10: C2+Gb2+Db3@3>1^80 Gb2@4>1^56 Gb2@5>1^56 D2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#12: D5@2>1^80 D5@3>1^80 D5@4>5^80
+  xxxxxxxx#13: G4+Eb5@4>1^80 G4+Eb5@5>2^56 F4+D5@7>1^80 F4+D5@8>1^80
+@70 [F | Eb] (grid:8)
+  xxxxxxxx   : C5@1>1^56 C5@2>1^56 C5@3>1^56 Eb5@4>1^56 Eb5@5>1^56 Eb5@8>1^56
+  xxxxxxxx#2 : F4+A4+C5@1>1^80 F4+A4+C5@2>1^80 F4+A4+C5@3>1^80 A4+C5+Eb5@4>1^80 A4+C5+Eb5@5>2^80 G4+Bb4+Eb5@8>1^104
+  xxxxxxxx#6 : C4+F4+C5@1>1^80 C4+F4+C5@2>1^80 C4+F4+C5@3>1^80 Eb4+F4+Eb5@4>1^80 Eb4+F4+Eb5@5>1^56 Eb4+F4+Eb5@8>1^80
+  xxxxxxxx#7 : G5@4>1^80 F5@6>1^80 Bb5@7>6^80
+  xxxxxxxx#8 : F3@1>6^56 A3+C4+F4@2>1^56 A3+C4+F4@3>2^80 A3+Eb4+F4@5>1^56 A3+Eb4+F4@6>1^80 F3@7>3^80 Bb3+Eb4+F4@8>1^56
+  xxxxxxxx#9 : F1@1>5^104 Bb1@7>4^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^56 D2+Gb2@4>1^80 Gb2@5>1^80 Gb2@6>1^80 C2+Gb2@7>1^80 Gb2@8>1^56
+  xxxxxxxx#12: Eb5@4>2^80 D5@6>2^80 F5@8>7^80
+  xxxxxxxx#13: F4+C5@2>1^80 F4+C5@3>1^80 A4+Eb5@5>1^80 A4+Eb5@6>1^80 G4+Eb5@8>1^56
+@71 [Bb]
+  xxxxxxxx   : Eb5@1>4^56 F4@9>3^32 F4@17>3^56 F4@25>4^56 C5@33>4^56 C5@41>3^56 C5@49>4^56 D5@57>4^56
+  xxxxxxxx#2 : G4+Bb4+Eb5@1>4^80 F4+Bb4+D5@9>3^80 F4+Bb4+D5@17>3^80 F4+Bb4+D5@25>4^80 F4+A4+C5@33>4^80 F4+A4+C5@41>3^80 F4+A4+C5@49>4^80 F4+Bb4+D5@57>4^80
+  xxxxxxxx#6 : Eb4+F4+Eb5@1>5^80 D4+F4+D5@9>3^56 D4+F4+D5@17>3^80 D4+F4+D5@25>7^80 C4+F4+C5@33>3^80 C4+F4+C5@41>3^80 C4+F4+C5@49>4^80 D4+F4+D5@57>4^80
+  xxxxxxxx#7 : A5@56>1^56 Bb5@57>14^80
+  xxxxxxxx#8 : Bb3+Eb4+F4@1>10^56 Bb3+D4+F4@17>4^56 Bb3+D4+F4@25>10^56 Bb3+C4+F4@41>4^56 Bb3+C4+F4@49>12^56
+  xxxxxxxx#9 : F1@25>7^104 Bb1@33>31^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@9>1^80 Gb2@17>1^56 C2+Gb2@25>1^80 C2+Gb2@33>1^80 Gb2@41>1^56 Gb2@49>1^56 D2+Gb2@57>1^80
+  xxxxxxxx#12: D5@57>15^80
+  xxxxxxxx#13: G4+Eb5@1>11^80 F4+D5@17>3^80 F4+D5@25>10^80 F4+C5@41>4^80 F4+C5@49>11^80
+@72 [Eb7] (grid:8)
+  xxxxxxxx   : D5@1>1^56 D5@2>1^56 Bb4+Eb5@3>6^80 G3@4>2^56 Bb3@5>1^56 Eb4@6>1^56 Bb3@7>1^56
+  xxxxxxxx#2 : F4+Bb4+D5@1>1^80 F4+Bb4+D5@2>1^80 Eb3+G4+Bb4+Eb5@3>6^104 G3@4>2^80 Bb3@5>1^80 Eb4@6>1^80 Bb3@7>1^56 G3@8>1^56
+  xxxxxxxx#6 : D4+F4+D5@1>1^80 D4+F4+D5@2>1^80 G4+Eb5+G5@3>6^80 Bb4@8>1^80
+  xxxxxxxx#7 : A5@2>1^80 A5@3>2^80 G5@5>2^80 G5@7>1^80 F5@8>1^80
+  xxxxxxxx#8 : Bb3+D4+F4@1>1^56 Bb3+D4+F4@2>1^56 Bb3@3>2^104 Eb4@4>1^56 Bb3@5>2^56 G4@6>2^80 Eb4@7>2^56 Bb3@8>1^32
+  xxxxxxxx#9 : C2@1>1^104 D2@2>1^104 Eb2@3>5^104 Eb2@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@2>1^80 C2+Gb2@3>1^80 Gb2@4>1^56 Gb2@5>1^56 D2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#12: F5@2>1^80 F5@3>2^80 Eb5@5>2^80 Eb5@7>1^80 D5@8>1^80
+  xxxxxxxx#13: F4+D5@1>2^80 Bb4+G5@4>1^80 Bb4+G5@5>2^80 Bb4+G5@7>1^56 Bb4+G5@8>1^80
+@73 [F] (grid:8)
+  xxxxxxxx   : A4+C5+F5@1>6^80 A3@2>1^56 F4@4>1^56 C4@5>1^56 A3@6>1^56 Bb4+Eb5@8>1^80
+  xxxxxxxx#2 : F3+A4+C5+F5@1>6^104 A3@2>1^56 C4@3>1^80 F4@4>1^80 C4@5>1^56 A3@6>1^80 Bb3@7>1^56 D4+Bb4+Eb5@8>1^104
+  xxxxxxxx#6 : A4+F5+A5@1>6^80 G4@6>1^56 Eb4+F4+Eb5@8>1^80
+  xxxxxxxx#7 : G5@1>2^80 G5@4>1^80 G5@5>1^80 F5@6>1^80 F5@7>6^80
+  xxxxxxxx#8 : C4@1>2^56 F4@2>3^56 C4@3>3^56 A4@4>3^80 F4@5>2^56 C4@6>1^32 F3@7>3^80 Bb3+Eb4+F4@8>1^56
+  xxxxxxxx#9 : F1@1>4^104 Bb1@7>5^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^56 D2+Gb2@4>1^80 Gb2@5>1^80 Gb2@6>1^80 C2+Gb2@7>1^80 Gb2@8>1^56
+  xxxxxxxx#12: D5@1>1^80 Eb5@2>2^80 Eb5@4>1^80 Eb5@5>1^80 D5@6>1^80 D5@7>6^80
+  xxxxxxxx#13: C5+A5@2>1^80 C5+A5@3>2^56 C5+A5@5>1^56 C5+A5@6>1^80 G4+Eb5@8>1^56
+@74 [Bb] (grid:8)
+  xxxxxxxx   : Bb4+Eb5@1>1^56 Bb4@2>1^56 D5@3>1^56 D5@4>1^56 C5@5>1^56 Bb4+C5@6>1^56 Bb4+C5@7>1^56 D5@8>1^56
+  xxxxxxxx#2 : Bb3+F4+Bb4+Eb5@1>1^80 Bb4@2>1^80 F4+Bb4+D5@3>1^80 D4+Bb4+D5@4>1^80 Bb3+Bb4+C5@5>2^80 D4+Bb4+C5@6>1^80 Bb3+F4+Bb4+C5@7>1^80 Bb4+D5@8>1^80
+  xxxxxxxx#6 : Eb4+F4+Eb5@1>1^80 D4+F4+D5@2>1^80 D4+F4+D5@3>1^80 D4+F4+D5@4>1^80 C4+F4+C5@5>1^80 C4+F4+C5@6>1^80 C4+F4+C5@7>1^80 D4+F4+D5@8>1^80
+  xxxxxxxx#7 : C6@8>2^80
+  xxxxxxxx#8 : Bb3+Eb4+F4@1>1^56 Bb3+D4+F4@3>1^56 Bb3+D4+F4@4>1^56 Bb3+C4+F4@6>1^56 Bb3+C4+F4@7>1^56
+  xxxxxxxx#9 : F1@4>1^104 Bb1@5>4^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@2>1^80 Gb2@3>1^56 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 C2+Gb2+B2@7>1^80 D2+Gb2@8>1^80
+  xxxxxxxx#12: D5@8>2^80
+  xxxxxxxx#13: G4+Eb5@1>1^80 F4+D5@3>1^80 F4+D5@4>1^80 F4+C5@6>1^80 F4+C5@7>1^80
+@75 [Eb7] (grid:16)
+  xxxxxxxx   : D5@1>3^56 Bb4+Eb5@5>18^56 G3@7>3^56 Bb3@9>2^56 Eb3@12>1^32 Bb3@13>2^56
+  xxxxxxxx#2 : F4+Bb4+D5@1>3^80 Eb3+G4+Bb4+Eb5@5>18^80 G3@7>3^80 Bb3@9>2^80 Eb4@11>2^80 Eb3@12>1^32 Bb3@13>2^56 G3@15>2^56
+  xxxxxxxx#6 : D4+F4+D5@1>3^56 G4+Eb5+G5@5>23^80 Eb5+G5@15>1^56
+  xxxxxxxx#7 : Bb5@3>2^80 Bb5@5>1^80 F5@6>1^80 G5@7>12^80
+  xxxxxxxx#8 : Bb3+D4+F4@1>1^56 Bb3+D4+F4@3>2^56 Bb3@7>8^56 Eb4@9>4^56 G4@11>8^80 Eb4@13>2^56 Bb3@15>4^80
+  xxxxxxxx#9 : C2@1>2^104 D2@3>2^104 Eb2@5>10^104 Bb1@15>2^104
+  xxxxxxxx#10: D2+Gb2@1>1^80 D2+Gb2@3>1^104 C2+Gb2@5>1^80 Gb2@7>1^56 Gb2@9>1^56 D2+Gb2@11>1^80 Gb2@13>1^56 C2+Gb2@15>1^80
+  xxxxxxxx#12: D5@3>2^80 Eb5@5>3^80 Eb5@9>12^80
+  xxxxxxxx#13: F4+D5@1>1^80 F4+D5@3>1^80 Eb4@5>6^104 G4@7>4^56 Bb4@9>2^80 Eb5@11>6^80 Bb4@13>4^56 G4@15>2^80
+@76 [Eb]
+  xxxxxxxx   : Eb3@1>13^56 Bb3@17>9^56 G4@33>7^80 Bb4@41>6^80 Bb3@49>6^56 Eb5@57>2^56
+  xxxxxxxx#2 : Eb3@1>13^80 G3@9>11^80 Bb3@17>9^80 Eb4@25>9^104 Bb3+G4@33>7^104 G3+Bb4@41>6^104 Bb3@49>6^80 D4+Bb4+Eb5@57>4^80
+  xxxxxxxx#6 : F4@49>2^80 F4+Eb5@57>2^80
+  xxxxxxxx#7 : Gb5@24>1^56 G5@25>12^80 F5@41>5^80 F5@49>50^80
+  xxxxxxxx#8 : Eb4@9>21^80 Bb3@17>14^56 G4@25>14^104 Eb4@33>13^56 Bb3@41>5^80 F3@49>24^80 Bb3+Eb4+F4@57>4^56
+  xxxxxxxx#9 : Eb2@1>38^104 Bb1@49>31^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@9>1^56 Gb2@17>1^56 D2+Gb2@25>1^80 Gb2@33>1^80 Gb2@41>1^80 C2+Gb2@49>1^80 Gb2@57>1^56
+  xxxxxxxx#12: Eb5@25>11^80 D5@41>5^80 D5@49>55^80
+  xxxxxxxx#13: Eb4@1>16^80 G4@9>18^80 Bb4@17>11^56 Eb5@25>23^80 Bb4@33>15^56 G4@41>6^80 G4+Eb5@57>4^80
+@77 [Bb] (grid:8)
+  xxxxxxxx   : Eb5@1>1^56 Bb4@2>1^56 D5@3>1^56 D5@4>1^56 C5@5>1^56 C5@6>1^56 C5@7>1^56 D5@8>1^56
+  xxxxxxxx#2 : F4+Bb4+Eb5@1>1^80 Bb4@2>1^80 F4+Bb4+D5@3>1^80 D4+Bb4+D5@4>1^80 Bb3+Bb4+C5@5>1^80 D4+Bb4+C5@6>1^80 F4+Bb4+C5@7>1^104 Bb4+D5@8>1^80
+  xxxxxxxx#6 : Eb4+F4+Eb5@1>1^80 D4+F4+D5@2>1^80 D4+F4+D5@3>1^80 D4+F4+D5@4>1^80 C4+F4+C5@5>1^80 C4+F4+C5@6>1^80 C4+F4+C5@7>1^80 D4+F4+D5@8>1^80
+  xxxxxxxx#7 : Bb4@7>1^80 Bb4@8>1^80
+  xxxxxxxx#8 : Bb3+Eb4+F4@1>1^56 Bb3+D4+F4@3>1^56 Bb3+D4+F4@4>1^56 Bb3+C4+F4@6>1^56 Bb3+C4+F4@7>1^56
+  xxxxxxxx#9 : F1@4>1^104 Bb1@5>4^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@2>1^80 Gb2@3>1^56 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^56 D2+Gb2@8>1^80
+  xxxxxxxx#12: F4@7>1^80 F4@8>1^80
+  xxxxxxxx#13: G4+Eb5@1>2^80 F4+D5@3>1^80 F4+D5@4>1^80 F4+C5@6>1^80 F4+C5@7>2^80
+  xxxxxxxx#14: D6@7>1^56 D6@8>1^56
+@78 [Eb7] (grid:8)
+  xxxxxxxx   : D5@1>2^56 Bb4+Eb5@3>6^56 G3@4>3^56 Bb3@5>1^32 Eb4@6>1^80 Bb3@7>1^56 G3@8>1^56
+  xxxxxxxx#2 : F4+Bb4+D5@1>2^80 Eb3+G4+Bb4+Eb5@3>6^80 G3@4>3^80 Bb3@5>1^56 Eb3+Eb4@6>1^104 Bb3@7>1^80 G3@8>1^80
+  xxxxxxxx#6 : D4+F4+D5@1>2^80 Eb5+G5@3>6^56 Bb4@8>1^80
+  xxxxxxxx#7 : D5@1>1^80 F5@2>1^80 F5@3>1^80 Eb5@4>4^80 D5@8>1^80
+  xxxxxxxx#8 : Bb3+D4+F4@1>1^56 Bb3+D4+F4@2>1^56 Bb3@3>2^56 Eb4@4>2^56 Bb3@5>3^32 G4@6>4^32 Eb4@7>2^56
+  xxxxxxxx#9 : C2@1>1^104 D2@2>1^104 Eb2@3>5^104 Eb2@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@2>1^80 C2+Gb2@3>1^80 Gb2@4>1^56 Gb2@5>1^56 D2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#12: Bb4@2>1^80 Bb4@3>1^80 G4@5>3^80 Bb4@8>1^80
+  xxxxxxxx#13: F4+D5@1>1^80 F4+D5@2>1^80 G4@4>2^80 Bb4@5>1^80 Eb5@6>3^80 Bb4@7>2^56 G4@8>1^56
+  xxxxxxxx#14: F6@1>1^56 Bb6@2>1^56 Bb6@3>1^56 G6@4>3^56 F6@8>1^56
+@79 [F | Bb7] (grid:16)
+  xxxxxxxx   : C5+F5@1>7^56 A3@3>1^32 C4@5>3^56 F4@7>1^56 C4@9>2^56 A3@11>1^56 B3@14>1^32 D4@15>2^56
+  xxxxxxxx#2 : F3+A4+C5+F5@1>7^80 A3@3>1^56 C4@5>3^80 F4@7>1^80 C4@9>2^56 A3@11>1^80 Bb4+D5@13>5^104 B3@14>1^32 D4@15>2^80
+  xxxxxxxx#6 : A4+F5+A5@1>12^80 Bb4+D5@13>8^56
+  xxxxxxxx#7 : D5@1>3^80 C5@5>4^80 C5@9>1^80 Bb4@11>2^80 C5@13>3^80
+  xxxxxxxx#8 : F4@3>5^56 C4@5>5^56 A4@7>5^56 F4@9>3^56 Bb3@13>11^80 D4@15>7^32
+  xxxxxxxx#9 : F1@1>8^104 Bb1@13>8^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@3>1^56 Gb2@5>1^56 D2+Gb2@7>1^80 Gb2@9>1^80 Gb2@11>1^80 C2+Gb2@13>1^80 Gb2@15>1^56
+  xxxxxxxx#12: Bb4@1>3^80 A4@5>4^80 A4@9>1^80 A4@13>3^80
+  xxxxxxxx#13: F4@1>12^80 A4@3>5^80 C5@5>2^80 Eb5@7>6^80 C5@9>4^80 A4@11>2^80 F4+D5@15>1^80
+  xxxxxxxx#14: F6@1>2^56 Eb6@5>4^56 Eb6@9>1^56 D6@11>1^56 Eb6@13>3^56
+@80 [Bb] (grid:8)
+  xxxxxxxx   : F4@1>1^32 Bb4@2>1^56 F4@3>1^56 D4@4>1^56 D4@6>1^56 Bb4@8>1^56
+  xxxxxxxx#2 : F4@1>1^56 Bb4@2>1^80 F4@3>1^80 D4@4>1^80 Bb3@5>2^80 D4@6>1^80 F4@7>1^80 Bb4@8>1^80
+  xxxxxxxx#6 : Bb4+D5+F5@3>1^56 Bb4+D5+F5@4>1^80 Bb4+D5+F5@6>1^56 Bb4+D5+F5@7>1^80
+  xxxxxxxx#7 : D5@1>5^80 Bb4@7>1^80 Bb4@8>1^80
+  xxxxxxxx#8 : F4@1>1^56 Bb4@2>4^56 F4@3>3^56 Bb3@5>2^56
+  xxxxxxxx#9 : F1@4>1^104 Bb1@5>4^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@2>1^80 Gb2@3>1^56 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^56 D2+Gb2@8>1^80
+  xxxxxxxx#12: Bb4@1>5^80 F4@8>1^80
+  xxxxxxxx#13: F4+D5@1>2^80 F4+D5@3>1^80 F4+D5@4>1^80 F4+D5@6>1^80 F4+D5@7>2^80
+  xxxxxxxx#14: F6@1>5^56 D6@7>1^56 D6@8>1^56
+@81 [Eb] (grid:8)
+  xxxxxxxx   : F4@1>1^56 Bb3@2>1^56 Eb5@3>6^56 G3@4>2^56 Bb3@5>1^56 Eb4@6>1^56 Bb3@7>1^32 G3@8>1^56
+  xxxxxxxx#2 : F4@1>1^80 Bb3@2>1^80 Eb3+Bb4+Eb5@3>6^80 G3@4>2^56 Bb3@5>1^80 Eb4@6>1^80 Bb3@7>1^56 G3@8>1^80
+  xxxxxxxx#6 : Bb4+Eb5+G5@3>6^80 Bb4@8>1^80
+  xxxxxxxx#7 : D5@1>1^80 F5@2>1^80 F5@3>1^80 Eb5@4>4^80 D5@8>1^80
+  xxxxxxxx#9 : C2@1>1^104 D2@2>1^104 Eb2@3>3^104 Eb2@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 D2+Gb2@2>1^80 C2+Gb2+Db3@3>1^104 Gb2@4>1^56 Gb2@5>1^56 D2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#12: Bb4@2>1^80 Bb4@3>1^80 G4@5>3^80 Bb4@8>1^80
+  xxxxxxxx#13: F4+D5@1>1^80 F4+D5@2>1^80 G4+Eb5@4>3^56 G4+Eb5@7>1^56 G4+Eb5@8>1^80
+  xxxxxxxx#14: F6@1>1^56 Bb6@2>1^56 Bb6@3>1^56 G6@4>3^56 F6@7>1^56
+@82 [F | Eb] (grid:8)
+  xxxxxxxx   : C5+F5@1>3^56 A3@2>1^32 F4@4>1^56 A3@6>1^32 Eb5@7>4^80 G3@8>2^56
+  xxxxxxxx#2 : F3+A4+C5+F5@1>5^80 A3@2>1^56 C4@3>1^56 F4@4>1^80 C4@5>1^56 A3@6>1^56 Eb3+Bb4+Eb5@7>4^80 G3@8>2^80
+  xxxxxxxx#6 : A4+F5+A5@1>6^80 Eb5+G5@7>6^56
+  xxxxxxxx#7 : D5@1>2^80 C5@3>2^80 C5@5>1^80 Bb4@6>1^80 Bb4@7>8^80
+  xxxxxxxx#9 : F1@1>4^104 Eb2@7>3^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^56 D2+Gb2@4>1^80 Gb2@5>1^80 Gb2@6>1^80 C2+Gb2+Db3@7>1^80 Gb2@8>1^56
+  xxxxxxxx#12: Bb4@1>2^80 A4@3>2^80 Bb4@7>5^80
+  xxxxxxxx#13: A4+F5@2>1^56 A4+F5@3>2^80 A4+F5@5>1^80 A4+F5@6>1^80 Eb4@7>1^104 G4@8>1^80
+  xxxxxxxx#14: F6@1>1^56 Eb6@3>2^56 Eb6@5>1^56 D6@6>1^56 G6@7>5^56
+@83 [Eb | F] (grid:8)
+  xxxxxxxx   : Bb3@1>1^56 Eb4@2>1^80 Bb3@3>1^56 G3@4>1^56 F5@5>3^80 A3@6>1^56 C4@7>1^56 F4@8>1^80
+  xxxxxxxx#2 : Bb3@1>1^80 Eb4@2>1^80 Bb3@3>1^80 G3@4>1^80 F3+C5+F5@5>5^80 A3@6>1^80 C4@7>1^80 F4@8>1^104
+  xxxxxxxx#6 : G4+G5@4>1^80 A4+F5+A5@5>5^80
+  xxxxxxxx#7 : A4@8>2^80
+  xxxxxxxx#9 : Eb2@4>1^104 F1@5>4^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@2>1^80 Gb2@3>1^56 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^56 D2+Gb2@8>1^80
+  xxxxxxxx#12: Bb4@5>2^80 A4@8>2^80
+  xxxxxxxx#13: Bb4@1>1^80 Eb5@2>1^80 Bb4@3>1^80 G4@4>1^80 F4@5>1^80 A4@6>1^80 C5@7>1^80 F5@8>1^80
+  xxxxxxxx#14: F6@5>3^56 Eb6@8>3^56
+@84 [Bb] (grid:16)
+  xxxxxxxx   : C4@1>2^56 A3@3>1^56 D5@5>3^56 D4@7>2^56 F4@9>2^56 Bb4@12>1^56 F4@13>2^56 Bb5@15>2^80
+  xxxxxxxx#2 : C4@1>2^80 A3@3>1^80 Bb3+Bb4+D5@5>3^80 D4@7>2^80 Bb3+F4@9>2^80 Bb4@12>1^80 F4@13>2^80 D4+Bb5@15>2^80
+  xxxxxxxx#6 : Bb4+D5@5>2^56 Bb4+D5+F5@7>1^56 Bb4+D5+F5@9>3^80 Bb4+D5+F5@13>1^80 Bb4+D5+F5@15>2^80
+  xxxxxxxx#7 : Bb4@5>14^80
+  xxxxxxxx#9 : Bb1@5>8^104 F1@15>2^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@3>1^80 C2+Gb2@5>1^80 Gb2@7>1^56 Gb2@9>1^56 D2+Gb2@11>1^80 Gb2@13>1^56 C2+Gb2@15>1^80
+  xxxxxxxx#12: Bb4@5>17^80
+  xxxxxxxx#13: C5@1>4^80 A4@3>2^80 F4+D5@7>1^80 F4+D5@9>2^80 F4+D5@13>1^80 F4+D5@15>2^80
+  xxxxxxxx#14: F6@5>1^56 Eb6@6>1^56 D6@7>11^56
+@85 [Bb | Eb] (grid:8)
+  xxxxxxxx   : Bb6@1>1^56 D4@2>1^56 Bb4@4>1^80 F4@5>1^80 Bb3@6>1^56 Eb5@7>10^80 G3@8>1^32
+  xxxxxxxx#2 : Bb3+Bb6@1>1^80 D4@2>1^80 F4@3>1^80 Bb4@4>1^80 F4@5>1^80 Bb3@6>1^80 Eb3+Bb4+Eb5@7>10^80 G3@8>1^56
+  xxxxxxxx#3 : Bb2@6>1^104 C3@7>1^104 D3@8>1^80
+  xxxxxxxx#4 : Bb3@8>1^32
+  xxxxxxxx#5 : Bb2@4>1^104 C3@5>1^104 D3@6>1^104 Eb3@7>9^104
+  xxxxxxxx#6 : Bb4+D5+F5@2>1^80 Bb4+D5+F5@3>1^80 Bb4+D5+F5@5>1^80 Bb4+D5+F5@6>1^80 Eb4+G4@7>12^56
+  xxxxxxxx#9 : Bb1@1>2^104 Bb1@4>1^104 C2@5>1^104 D2@6>1^104 Eb2@7>5^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^56 D2+Gb2@4>1^80 C2+Gb2@5>1^80 C2+Gb2@6>1^80 C2+Gb2@7>1^80 Gb2@8>1^56
+  xxxxxxxx#13: F4+D5@2>1^80 F4+D5@3>1^80 F4+D5@5>1^80 F4+D5@6>1^80
+@86 [Eb]
+  xxxxxxxx   : Bb3@1>10^56 Eb4@9>10^80 G3@25>7^56 G3@41>22^56 Bb3@49>9^56 Eb4@57>8^80
+  xxxxxxxx#2 : Eb3+Bb3@1>10^80 Eb4@9>10^80 Eb3@12>2^32 Bb3@17>13^80 G3@25>7^80 Eb3@33>37^80 G3@41>22^80 Bb3@49>9^80 Eb4@57>8^80
+  xxxxxxxx#3 : Bb2+Eb3@1>24^104 C3@9>6^56 D3@17>7^32 Eb3@25>47^56
+  xxxxxxxx#4 : Eb3+Bb4+Eb5@1>80^32 G3@9>7^32 Eb3+Bb3@17>10^32 Eb3+Eb4@25>10^32 Bb3@33>13^32 G3@41>7^32 Eb3@49>37^32 G3@57>22^32
+  xxxxxxxx#5 : C3@57>6^104
+  xxxxxxxx#9 : Bb1@25>7^104 Eb2@33>21^104 Eb2@57>7^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@9>1^80 Gb2@17>1^56 C2+Gb2@25>1^80 C2+Gb2@33>1^80 Gb2@41>1^56 Gb2@49>1^56 D2+Gb2@57>1^80
+@87 [Dm7 | F]
+  xxxxxxxx   : Bb3@1>7^56 G3@9>4^56 F5@17>9^80 A3@25>9^56 F4+F5+A5@41>9^56 A3@57>7^56
+  xxxxxxxx#2 : Bb3@1>7^80 G3@9>4^80 F3+C5+F5@17>37^80 A3@25>9^80 C4@33>10^80 F4+F5+A5@41>9^80 C4@49>10^80 A3@57>7^80
+  xxxxxxxx#3 : C3@9>6^104 D3@17>7^80 Eb3@25>7^80 C3+F3@33>24^80 D3@41>7^32 Eb3@49>8^32 F3@57>43^56
+  xxxxxxxx#4 : Bb3@1>9^32 Eb4@9>8^32 Bb3@17>7^32 G3@25>4^32 F3+C5+F5@33>37^32 A3@41>9^32 C4@49>10^32 F4+F5+A5@57>9^32
+  xxxxxxxx#5 : D3@1>7^104 Eb3@9>8^104 F3@17>67^104
+  xxxxxxxx#6 : F4+A4@17>95^56
+  xxxxxxxx#9 : D2@1>7^104 Eb2@9>7^104 F1@17>31^104 C2@57>7^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@9>1^80 C2+Gb2@17>1^80 Gb2@25>1^56 Gb2@33>1^56 D2+Gb2@41>1^80 Gb2@49>1^56 C2+Gb2@57>1^80
+@88 [F | Bb] (grid:8)
+  xxxxxxxx   : C6@1>1^80 C4@3>1^56 C4+C5+F5@5>1^56 A3@6>1^56 D5@7>1^56 D4@8>1^56
+  xxxxxxxx#2 : F3+A5+C6@1>5^104 A3@2>1^80 C4@3>1^80 F4@4>1^80 C4+C5+F5@5>1^80 A3@6>1^80 Bb3+Bb4+D5@7>2^104 D4@8>1^80
+  xxxxxxxx#3 : F3@6>1^80 G3@7>1^56 A3@8>1^80
+  xxxxxxxx#4 : C4@1>1^32 A3@2>1^32 F3+A5+C6@3>5^56 A3@4>1^32 C4@5>1^32 F4@6>1^32 C4+C5+F5@7>1^32 A3@8>1^32
+  xxxxxxxx#5 : F3@4>1^104 G3@5>1^104 A3@6>1^104 Bb3@7>3^104
+  xxxxxxxx#6 : Bb4@7>7^80
+  xxxxxxxx#9 : F1@1>3^104 F1@4>1^104 G1@5>1^104 A1@6>1^104 Bb1@7>3^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^56 D2+Gb2@4>1^80 Gb2@5>1^80 Gb2@6>1^80 C2+Gb2@7>1^80 Gb2@8>1^56
+@89 [Bb | C]
+  xxxxxxxx   : F4@1>8^56 Bb4@9>5^56 Bb5@17>5^80 D4@25>4^56 C6@33>13^56 E4@41>6^56 C5@57>7^80
+  xxxxxxxx#2 : F4@1>8^80 Bb4@9>5^80 F4+F5+Bb5@17>5^80 D4@25>4^80 C4+G5+C6@33>37^80 E4@41>6^80 G4@49>10^80 C5@57>7^80
+  xxxxxxxx#3 : F3+Bb3@1>23^80 G3@10>6^32 A3@17>7^32 Bb3@26>23^80 Bb3@50>6^32 A3@58>6^56
+  xxxxxxxx#4 : Bb3+Bb4+D5@1>12^56 D4@9>6^32 F4@17>8^32 Bb4@25>5^32 F4+F5+Bb5@33>5^32 D4@41>4^32 C4+G5+C6@49>37^32 E4@57>6^32
+  xxxxxxxx#5 : Bb3@10>23^104 Bb3@33>6^104 A3@42>6^104 Bb3@49>6^104 A3@57>3^104 Bb3@61>4^104 A3@64>7^104
+  xxxxxxxx#6 : A4@41>9^56 Bb4@49>9^56 A4@57>15^80
+  xxxxxxxx#9 : Bb1@25>7^104 C2@33>31^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@9>1^80 Gb2@17>1^56 C2+Gb2@25>1^80 C2+Gb2@33>1^80 Gb2@41>1^56 Gb2@49>1^56 D2+Gb2@57>1^80
+@90 [F]
+  xxxxxxxx   : E4@9>4^56 F5@17>45^80 A3@25>9^56 C4@33>10^56 F4@41>14^80 C4@49>38^56
+  xxxxxxxx#2 : G4@1>10^80 E4@9>4^80 F3+C5+F5@17>68^104 A3@25>9^80 C4@33>10^80 F4@41>14^80 C4@49>38^80 A3@57>25^80
+  xxxxxxxx#3 : Bb3@1>6^56 A3+Bb3@9>3^80 Bb3@13>3^80 A3@18>6^32 G3+Bb3@25>7^32 F3+A3@33>24^104 Bb3@37>4^32 A3@40>7^32 G3@49>7^32 F3@57>29^56
+  xxxxxxxx#4 : G4@1>10^32 C5@9>7^32 G4@17>10^32 E4@25>4^32 F3+C5+F5@33>68^56 A3@41>9^32 C4@49>10^32 F4@57>14^32
+  xxxxxxxx#5 : G3@9>7^104 F3@17>53^104
+  xxxxxxxx#6 : G4@9>9^80 F4@17>90^80
+  xxxxxxxx#9 : F1@17>34^104 F1@57>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@9>1^80 C2+Gb2@17>1^80 Gb2@25>1^56 Gb2@33>1^56 D2+Gb2@41>1^80 Gb2@49>1^56 C2+Gb2@57>1^80
+@91 [Adim | Gm]
+  xxxxxxxx   : Eb4+Eb5@1>21^80 Bb4+D5@25>17^80 Bb4+Eb5@57>40^80
+  xxxxxxxx#2 : Eb4+Eb5@1>21^104 Bb3+D4+Bb4+D5@25>18^104 Eb3+G4+Bb4+Eb5@57>40^104
+  xxxxxxxx#4 : C4@1>38^32 A3@9>25^32 Eb4+Eb5@17>21^56 Bb3+D4+Bb4+D5@41>18^56
+  xxxxxxxx#6 : Eb4@1>24^56 D4@25>20^80
+  xxxxxxxx#7 : B5@24>1^56 C6@25>13^80 Bb5@41>5^80 Bb5@49>3^80 F5@53>3^80 G5@57>51^80
+  xxxxxxxx#8 : Bb3@49>47^56 Eb4@57>30^80
+  xxxxxxxx#9 : F1@1>24^104 Bb1@25>23^104 Eb2@49>38^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@9>1^56 Gb2@17>1^56 D2+Gb2+Db3@25>1^104 Gb2@33>1^80 Gb2@41>1^80 C2+Gb2@49>1^80 Gb2@57>1^56
+  xxxxxxxx#13: G4+Bb4+Eb5@57>3^80
+@92 [Eb]
+  xxxxxxxx   : G3@1>16^56 Bb3@9>9^56 Eb4@17>21^80 Bb3@25>7^56 Bb3@49>10^56 Eb4@57>10^80
+  xxxxxxxx#2 : G3@1>16^80 Bb3@9>9^80 Eb4@17>21^104 Bb3@25>7^80 Eb3@33>36^80 G3@41>24^80 Bb3@49>10^80 Eb4@57>10^104
+  xxxxxxxx#7 : Gb5@56>1^56 G5@57>12^80
+  xxxxxxxx#8 : G4@1>14^56 Bb4@9>45^56 G4@17>30^56 Eb4@25>14^32 Bb3@33>24^56 Eb4@41>30^56 G4@49>8^56 Bb3@57>4^56
+  xxxxxxxx#9 : Bb1@25>7^104 Eb2@33>31^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@9>1^80 Gb2@17>1^56 C2+Gb2@25>1^80 C2+Gb2@33>1^80 Gb2@41>1^56 Gb2@49>1^56 D2+Gb2@57>1^80
+  xxxxxxxx#13: G4+Bb4+Eb5@1>4^56 G4+Bb4+Eb5@17>3^56 G4+Bb4+Eb5@25>3^56 G4+Bb4+Eb5@41>3^56 G4+Bb4+Eb5@49>3^56 G4+Bb4+Eb5@57>3^56
+@93 [Eb | Bb] (grid:8)
+  xxxxxxxx   : Bb3+Bb4+Eb5@1>1^80 Eb5@2>1^56 Bb3@3>1^80 Eb5@4>1^56 Eb5@5>1^80 D5@6>1^56 D5@7>1^56 D5@8>1^80
+  xxxxxxxx#2 : Bb3+Bb4+Eb5@1>1^104 G3+Bb4+Eb5@2>1^80 Bb3@3>1^80 D4+Bb4+Eb5@4>1^80 F4+Bb4+Eb5@5>1^104 Bb4+D5@6>1^80 F4+Bb4+D5@7>1^80 D4+Bb4+D5@8>1^80
+  xxxxxxxx#6 : F4+Eb5@4>1^56 F4+Eb5@5>1^56 F4+D5@7>1^56 F4+D5@8>1^32
+  xxxxxxxx#7 : F5@2>1^80 F5@3>7^80
+  xxxxxxxx#8 : G4@1>2^56 Bb4@2>4^56 Bb3@3>6^80 D4@4>4^80 F4@5>2^56 Bb4@6>6^80 F4@7>4^56 D4@8>2^56
+  xxxxxxxx#9 : Bb1@3>4^104 F1@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@2>1^80 C2+Gb2@3>1^80 Gb2@4>1^56 Gb2@5>1^56 D2+Gb2@6>1^80 Gb2@7>1^56 C2+Gb2@8>1^80
+  xxxxxxxx#13: G4+Bb4+Eb5@1>1^56 G4+Bb4+Eb5@2>1^56 G4+Bb4+Eb5@4>1^56 G4+Bb4+Eb5@5>1^56 F4+Bb4+D5@6>1^56 F4+Bb4+D5@7>1^56 F4+Bb4+D5@8>1^56
+@94 [Bb | Eb7] (grid:8)
+  xxxxxxxx   : C5@1>1^56 Bb4+C5@2>1^56 F4+Bb4+C5@3>1^80 D5@4>1^80 D5@5>1^80 Bb4+D5@6>1^80 Bb4+Eb5@7>6^80
+  xxxxxxxx#2 : Bb3+Bb4+C5@1>1^80 D4+Bb4+C5@2>1^80 Bb3+F4+Bb4+C5@3>1^80 Bb4+D5@4>1^80 F4+Bb4+D5@5>1^80 Bb3+Bb4+D5@6>1^80 Eb3+G4+Bb4+Eb5@7>6^80 G3@8>2^56
+  xxxxxxxx#6 : F4+C5@1>1^56 F4+C5@2>1^56 F4+C5@3>1^56 F4+D5@4>1^56 Eb5+G5@7>5^56
+  xxxxxxxx#7 : Bb4@3>1^80 Bb4@4>1^80 D5@5>1^80 F5@6>1^80 F5@7>1^80 Eb5@8>4^80
+  xxxxxxxx#8 : Bb3@1>6^80 D4@2>4^80 F4@3>2^80 Bb4@4>5^80 F4@5>2^56 D4@6>1^56 Bb3@7>6^80 Eb4@8>1^56
+  xxxxxxxx#9 : Bb1@1>4^104 C2@5>1^104 D2@6>1^104 Eb2@7>5^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^56 Gb2@3>1^56 D2+Gb2@4>1^80 Gb2@5>1^80 C2+Gb2@6>1^80 C2+Gb2@7>1^80 Gb2@8>1^56
+  xxxxxxxx#13: F4+A4+C5@1>1^56 F4+A4+C5@2>1^56 F4+A4+C5@3>1^56 F4+Bb4+D5@4>1^56 F4+Bb4+D5@5>1^56 F4+Bb4+D5@6>1^80 Eb4@8>1^80
+@95 [Eb | F] (grid:16)
+  xxxxxxxx   : Bb3@1>2^56 Eb4@3>4^80 Eb3@4>4^32 G3@7>1^56 C5+F5@9>11^80 A3@11>2^56 C4@13>2^56 F4@15>2^80
+  xxxxxxxx#2 : Bb3@1>2^80 Eb4@3>4^80 Eb3@4>4^32 Bb3@5>2^56 G3@7>1^80 F3+A4+C5+F5@9>11^104 A3@11>2^80 C4@13>2^80 F4@15>2^104
+  xxxxxxxx#6 : G4+Eb5+G5@7>3^80 F4+F5+A5@9>12^80
+  xxxxxxxx#7 : D5@7>1^80 D5@9>3^80 C5@13>4^80
+  xxxxxxxx#8 : G4@1>4^80 Bb4@3>5^104 G4@5>3^56 Eb4@7>1^56 C4@9>11^56 F4@11>7^56 A4@13>3^56 C5@15>5^56
+  xxxxxxxx#9 : Eb2@7>2^104 F1@9>8^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@3>1^80 Gb2@5>1^56 C2+Gb2@7>1^80 C2+Gb2@9>1^80 Gb2@11>1^56 Gb2@13>1^56 D2+Gb2@15>1^80
+  xxxxxxxx#12: F5@7>2^80 F5@9>3^80 Eb5@13>3^80
+  xxxxxxxx#13: G4@1>2^80 Bb4@3>2^56 Eb5@5>2^80 Bb4@7>2^56 F4@9>2^80 A4@11>2^80 C5@13>2^56 F5@15>2^80
+@96 [Adim | Bb] (grid:16)
+  xxxxxxxx   : A3@3>1^56 Bb3@5>1^56 Eb5@7>1^56 Eb5@9>2^80 D5@11>1^56 D5@13>1^56 D5@15>1^56
+  xxxxxxxx#2 : C4@1>2^80 A3@3>1^80 Bb3@5>1^80 D4+Bb4+Eb5@7>1^104 F4+Bb4+Eb5@9>2^104 Bb4+D5@11>1^80 F4+Bb4+D5@13>1^104 D4+Bb4+D5@15>1^104
+  xxxxxxxx#6 : Eb4+F4+Eb5@7>1^80 Eb4+F4+Eb5@9>1^80 D4+F4+D5@11>1^56 D4+F4+D5@13>1^80 D4+F4+D5@15>2^80
+  xxxxxxxx#7 : C5@1>1^80 Bb4@3>1^80 C5@5>3^80 C5@9>1^80 D5@10>10^80
+  xxxxxxxx#8 : A4@1>3^56 F4@3>1^32 Bb3@5>11^56 D4@7>7^56 F4@9>3^56 Bb4@11>11^80 F4@13>8^56 D4@15>3^32
+  xxxxxxxx#9 : Bb1@5>8^104 F1@15>2^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@3>1^80 C2+Gb2@5>1^80 Gb2@7>1^56 Gb2@9>1^56 D2+Gb2@11>1^80 C2+Gb2@13>1^80 C2+Gb2@15>1^80
+  xxxxxxxx#12: Eb5@1>1^80 D5@3>1^80 Eb5@5>3^80 F5@9>12^80
+  xxxxxxxx#13: C5@1>4^80 A4@3>2^56 D4@5>2^80 F4@7>2^56 Bb4@9>2^56 D5@11>2^80 Bb4@13>2^56 F4@15>2^80
+@97 [Bb | Eb7] (grid:16)
+  xxxxxxxx   : C5@1>1^80 Bb4+C5@3>1^80 C5@5>1^80 Bb4+D5@7>1^80 D5@9>1^80 D5@11>1^80 Bb4+Eb5@13>7^80 G3@15>6^56
+  xxxxxxxx#2 : Bb3+Bb4+C5@1>1^104 Bb3+D4+Bb4+C5@3>1^104 F4+Bb4+C5@5>2^104 Bb4+D5@7>1^104 Bb3@8>1^32 F4+Bb4+D5@9>2^104 Bb3+Bb4+D5@11>1^104 Eb3+G4+Bb4+Eb5@13>9^104 G3@15>6^80
+  xxxxxxxx#6 : C4+F4@1>1^80 C4+F4@3>1^80 C4+F4@5>1^80 D4+F4+D5@7>1^80 D4+F4+D5@9>1^56 D4+F4+D5@11>1^80 G4+Eb5+G5@13>12^80
+  xxxxxxxx#7 : Bb4@5>2^80 D5@9>2^80 F5@13>2^80 Eb5@15>7^80
+  xxxxxxxx#8 : Bb3@1>11^56 D4@3>7^56 F4@5>3^56 Bb4@7>5^56 F4@9>4^56 D4@11>2^32 Bb3+G4@13>11^80 Eb4@15>8^80
+  xxxxxxxx#9 : Bb1@1>7^104 C2@9>2^104 D2@11>2^104 Eb2@13>9^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@3>1^56 Gb2@5>1^56 D2+Gb2@7>1^80 C2+Gb2@9>1^80 Gb2@11>1^80 C2+Gb2+Db3@13>1^80 Gb2@15>1^56
+  xxxxxxxx#13: D4@1>2^80 F4@3>2^80 Bb4@5>2^56 D5@7>2^80 Bb4@9>3^56 F4@11>1^56 G4@13>2^56 Bb4@15>3^56
+@98 [Eb | F] (grid:8)
+  xxxxxxxx   : Bb3@1>1^56 Eb4@2>1^80 G3@4>1^56 F5@5>3^80 A3@6>1^56 C4@7>1^56
+  xxxxxxxx#2 : Bb3@1>1^80 Eb4@2>1^104 Bb3@3>1^80 G3@4>1^80 F3+C5+F5@5>5^104 A3@6>1^80 C4@7>1^80 F4@8>2^104
+  xxxxxxxx#6 : Bb4@4>1^80 A4+F5+A5@5>6^80
+  xxxxxxxx#7 : D5@4>1^80 D5@5>2^80 C5@7>2^80
+  xxxxxxxx#8 : G4@1>2^56 Bb4@2>2^56 G4@3>2^32 C4@5>5^80 F4@6>4^56 A4@7>2^56 C5@8>2^56
+  xxxxxxxx#9 : Eb2@4>1^104 F1@5>5^104
+  xxxxxxxx#10: Gb2@1>1^56 D2+Gb2@2>1^80 Gb2@3>1^56 C2+Gb2@4>1^80 C2+Gb2@5>1^80 Gb2@6>1^56 Gb2@7>1^56 D2+Gb2@8>1^80
+  xxxxxxxx#12: F5@4>1^80 F5@5>1^80 Eb5@7>2^80
+  xxxxxxxx#13: Eb5@1>1^80 G5@2>1^56 Eb5@3>2^56 Bb4@4>1^80 G4@5>1^56 A4@6>1^80 C5@7>1^80 F5@8>2^80
+@99 [Bb] (grid:8)
+  xxxxxxxx   : C4@1>1^56 A3@2>1^56 Bb4+D5@4>1^80 Bb4+D5@5>1^80 Bb4@6>1^56 D5@7>1^56 D5@8>1^80
+  xxxxxxxx#2 : C4@1>1^80 A3@2>1^80 Bb3@3>2^80 D4+Bb4+D5@4>1^104 F4+Bb4+D5@5>1^104 Bb4@6>1^80 F4+Bb4+D5@7>1^104 D4+Bb4+D5@8>1^104
+  xxxxxxxx#6 : Bb4+D5+F5@3>5^56
+  xxxxxxxx#7 : C5@1>1^80 Bb4@2>1^80 Bb4@3>7^80
+  xxxxxxxx#8 : A4@1>1^56 D4@4>4^56 F4@5>2^56 Bb4@6>4^56 F4@7>3^56 D4@8>1^56
+  xxxxxxxx#9 : Bb1@3>5^104 F1@8>1^104
+  xxxxxxxx#10: Gb2@1>1^80 Gb2@2>1^80 C2+Gb2@3>1^104 Gb2@4>1^80 Gb2@5>1^80 D2+Gb2@6>1^104 Gb2@7>1^104 C2+Gb2@8>1^104
+  xxxxxxxx#12: Eb5@1>1^80 D5@2>1^80 D5@3>6^80
+  xxxxxxxx#13: C5@1>1^56 A4@2>1^80 F4+Bb4+D5@4>1^56 F4+Bb4+D5@5>1^56 F4+Bb4+D5@7>1^56 F4+Bb4+D5@8>1^80
+@100 [Bb | Eb] (grid:8)
+  xxxxxxxx   : Bb4+D5@2>1^56 D5@3>1^56 Bb4@4>1^56 D5@5>1^56 D5@6>1^56 Eb5@7>4^80 G3@8>3^56
+  xxxxxxxx#2 : Bb3@1>2^80 D4+Bb4+D5@2>1^104 F4+Bb4+D5@3>1^104 Bb4@4>1^80 F4+Bb4+D5@5>1^80 Bb3+Bb4+D5@6>1^104 Eb3+Bb4+Eb5@7>5^104 G3@8>3^80
+  xxxxxxxx#6 : Eb4+G4@7>6^56
+  xxxxxxxx#7 : Bb4@3>1^80 Bb4@4>1^80 D5@5>1^80 F5@6>1^80 F5@7>1^80 Eb5@8>4^80
+  xxxxxxxx#8 : Bb3@1>6^56 D4+F4+Bb4@2>4^56 F4@3>2^56 Bb4@4>3^56 F4@5>2^32 Bb3@7>6^56 Eb4@8>4^56
+  xxxxxxxx#9 : Bb1@1>2^104 C2@5>1^104 D2@6>1^104 Eb2@7>3^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 Gb2@2>1^80 Gb2@3>1^80 D2@4>1^56 F2@5>1^104 D2@6>1^104 C2+Gb2+Db3@7>1^80 Gb2@8>1^56
+  xxxxxxxx#13: F4+Bb4+D5@2>1^56 F4+Bb4+D5@3>2^56 F4+Bb4+D5@5>1^56 F4+Bb4+D5@6>1^80
+@101 [Eb | F] (grid:8)
+  xxxxxxxx   : Bb3@1>1^56 Eb4@2>1^56 Bb3@3>1^56 G3@4>1^56 C5+F5@5>9^56 A3@6>1^56 C4@7>1^56 F4@8>10^56
+  xxxxxxxx#2 : Bb3@1>1^80 Eb4@2>1^80 Bb3@3>1^80 G3@4>1^80 F3+A4+C5+F5@5>9^80 A3@6>1^80 C4@7>1^80 F4@8>10^80
+  xxxxxxxx#6 : F4@5>7^56
+  xxxxxxxx#7 : D5@4>1^80 D5@5>1^80 C5@6>1^80 C5@7>10^80
+  xxxxxxxx#8 : G4@1>2^56 Bb4@2>3^56 G4@3>2^56 Eb4@4>1^32 C4@5>10^56 F4@6>9^56 A4@7>8^80 C5@8>7^80
+  xxxxxxxx#9 : Eb2@4>1^104 F1@5>15^104
+  xxxxxxxx#10: Gb2@1>1^56 Gb2@2>1^56 Gb2@3>1^56 Gb2@4>1^56 D2@5>1^56 D2@6>1^56 D2@7>1^80 C2+D2+Db3@8>1^104
+  xxxxxxxx#12: F5@4>1^80 F5@5>1^80 Eb5@6>1^80 Eb5@7>10^80
+@102 [F] (grid:8)
+  xxxxxxxx   : C4@1>1^56 C4@2>1^32
+  xxxxxxxx#2 : C4@1>1^80 A3+C4@2>1^80 F3@3>7^104
+@103 [Bb]
+  xxxxxxxx   : F6@1>2^80 F6@9>2^80 F6@17>2^80 D4@33>13^80 F4@41>10^80 Bb4@49>14^80 F4@57>10^80
+  xxxxxxxx#2 : F5+F6@1>2^104 F5+F6@9>2^104 F5+F6@17>2^104 Bb3+D6+F6@25>45^104 D4@33>13^104 F4@41>10^104 Bb4@49>14^104 F4@57>10^104
+  xxxxxxxx#3 : F3@41>24^80
+  xxxxxxxx#4 : F5+F6@17>2^32 F5+F6@25>2^32 F5+F6@33>2^56 Bb3+D6+F6@41>45^56 D4@49>13^32 F4@57>10^32
+  xxxxxxxx#5 : F3@25>69^104
+  xxxxxxxx#6 : Bb4@25>38^56
+  xxxxxxxx#7 : E5@24>1^56 F5@25>89^80
+  xxxxxxxx#9 : Bb2@25>38^104
+  xxxxxxxx#10: C2+Gb2+Db3@25>1^80 Gb2@33>1^56 Gb2@41>1^56 D2+Gb2@49>1^80 Gb2@57>1^56
+@104 [F] (grid:32)
+  xxxxxxxx   : D4@1>2^56 C4@9>6^56 F4@13>4^56 A5@17>12^104 F4@21>5^56 C4@25>2^56
+  xxxxxxxx#2 : D4@1>2^80 B5+C6@4>1^80 A3+Bb5+C6@5>21^104 C4@9>6^80 F4@13>4^80 A4+A5@17>12^104 F4@21>5^80 C4@25>2^80 G3+G5@29>21^104
+  xxxxxxxx#3 : F3@1>23^56 F3@25>3^80 G3@29>3^80
+  xxxxxxxx#4 : Bb4@1>7^32 F4@5>5^32 D4@9>2^32 B5@11>1^32 Bb5@12>1^56 A3+C6@13>21^32 C4@17>6^32 F4@21>4^32 A4+A5@25>12^80 F4@29>5^32
+  xxxxxxxx#5 : F3@17>3^104 G3@21>3^104 F3@25>4^104 Bb2@29>32^104
+  xxxxxxxx#6 : Bb4@1>5^56 C5@5>24^80 G4+Eb5@29>24^56
+  xxxxxxxx#9 : Bb2@1>4^104 A2@5>16^104 G2@29>15^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 C2+Gb2@5>1^80 Gb2@9>1^56 Gb2@13>1^56 D2+Gb2@17>1^80 Gb2@21>1^80 Gb2@25>1^80 C2+Gb2@29>1^80
+@105 [Eb | Bb]
+  xxxxxxxx   : Bb3@1>17^56 Eb4@9>10^56 G4@17>19^56 Eb4@25>8^56 Bb3@33>6^80 Bb3+Bb5@49>34^80 D4@57>9^56
+  xxxxxxxx#2 : Bb3@1>17^80 Eb4@9>10^80 G4@17>19^80 Eb4@25>8^80 Bb3@33>6^104 F3+F5@41>42^104 Bb3+Bb5@49>34^104 D4@57>9^56
+  xxxxxxxx#3 : F3@1>3^80 Bb2+F3@9>24^56 G3@17>5^32 F3@25>8^32 Bb2@33>40^32
+  xxxxxxxx#4 : C4@1>5^32 G3+G5@9>42^80 Bb3@17>17^32 Eb4@25>10^32 G4@33>19^32 Eb4@41>8^32 Bb3@49>6^32 F3+F5@57>42^80
+  xxxxxxxx#6 : F4+D5@41>47^80
+  xxxxxxxx#9 : G2@33>7^104 F1@41>32^104
+  xxxxxxxx#10: Gb2@1>1^56 Gb2@9>1^56 D2+Gb2@17>1^80 Gb2@25>1^56 C2+Gb2@33>1^80 C2+Gb2@41>1^80 Gb2@49>1^56 Gb2@57>1^56
+@106 [Bb | Eb]
+  xxxxxxxx   : F4@1>17^56 D4@9>9^56 Bb3@17>4^80 Eb5@25>8^104 Bb3@41>10^56 Eb4@49>16^80 Eb6@57>6^80
+  xxxxxxxx#2 : F4@1>17^80 D4@9>9^80 Bb3@17>4^104 Eb3+Eb5@25>41^104 G3@33>20^80 Bb3@41>10^80 Eb4@49>16^104 Bb3+Eb6@57>9^104
+  xxxxxxxx#3 : Bb2@17>7^32 C3@25>6^32 D3@33>10^104 Bb2@41>7^32 Eb3@45>1^56 C3+D3@49>8^80 D3@57>10^56
+  xxxxxxxx#4 : Bb3+Bb5@1>34^56 D4@9>9^32 F4@17>17^32 D4@25>9^32 Bb3@33>4^56 Eb3+Eb5@41>41^80 G3@49>20^32 Bb3@57>10^32
+  xxxxxxxx#5 : Bb2@1>7^104 C3@9>6^104 D3@17>10^104 Eb3@29>1^104 D3@33>35^104
+  xxxxxxxx#6 : Eb5+G5@25>39^56
+  xxxxxxxx#9 : Eb2@25>36^104
+  xxxxxxxx#10: D2+Gb2@1>1^80 Gb2@9>1^80 C2+Gb2@17>1^80 C2+Gb2@25>1^80 Gb2@33>1^56 Gb2@41>1^56 D2+Gb2@49>1^80 Gb2@57>1^56
+@107 [Bb] (grid:16)
+  xxxxxxxx   : G3+Eb5@1>1^80 F3@5>3^56 Bb3@7>2^56 D4@9>4^56 C5@11>2^80 F3+Bb4@13>2^80 C5@15>7^56
+  xxxxxxxx#2 : G3+Eb5@1>1^104 D3+D5@3>10^104 F3@5>3^80 Bb3@7>2^80 D4@9>4^80 Bb3+C5@11>3^104 F3+Bb4@13>2^104 F3+A4+C5@15>10^104
+  xxxxxxxx#3 : Eb3@2>1^32 D3@3>3^32 C3@7>1^56 Bb2@8>6^32 C3@13>1^32 Bb2@14>5^32
+  xxxxxxxx#4 : Eb4@1>4^32 Bb3+Eb6@3>2^56 G3+Eb5@5>1^56 D3+D5@7>10^56 F3@9>3^32 Bb3@11>2^32 D4@13>4^32 Bb3+C5@15>3^56
+  xxxxxxxx#5 : C3@3>1^104 Bb2@4>11^104 D3@15>1^104 C3@16>12^104
+  xxxxxxxx#6 : Eb5+G5@1>2^32 Bb4+F5@3>12^56 A4+C5@15>24^56
+  xxxxxxxx#9 : Eb2@1>2^104 D2@3>8^104 F1@15>18^104
+  xxxxxxxx#10: C2+Gb2@1>1^80 C2+Gb2@3>1^80 Gb2@5>1^56 Gb2@7>1^56 D2+Gb2@9>1^80 Gb2@11>1^80 Gb2@13>1^80 C2+Gb2@15>1^80
+@108 [F] (grid:16)
+  xxxxxxxx   : A3@1>2^56 C4@3>2^56 F4@5>2^80 A3@9>2^56 F4@11>2^104 G4@13>2^80 A4@15>1^80
+  xxxxxxxx#2 : A3@1>2^80 C4@3>2^80 F4@5>2^104 C4@7>2^80 A3@9>2^80 F3+F4@11>10^104 A3+G4@13>2^104 C4+A4@15>2^104
+  xxxxxxxx#3 : D3@3>1^56 C3@4>6^56 D3@9>1^32 C3@10>6^32
+  xxxxxxxx#4 : F3+Bb4@1>2^56 F3+A4+C5@3>10^56 A3@5>2^32 C4@7>2^32 F4@9>2^56 C4@11>2^32 A3@13>2^32 F3+F4@15>10^80
+  xxxxxxxx#10: Gb2@1>1^56 Gb2@3>1^56 D2+Gb2@5>1^80 Gb2@7>1^56 C2+Gb2@9>1^80 C2+Gb2@11>1^104 Gb2@13>1^80 Gb2@15>1^56
+@109 [F | Bb]
+  xxxxxxxx   : F4+C5@1>16^80 Eb5@9>10^80 G5@17>8^80 Bb4@25>24^80 D4@33>12^32 F4+F5@41>10^80 Bb4+Bb5@49>8^80 F5@57>18^56
+  xxxxxxxx#2 : F4+C5@1>16^104 C4+Eb5@9>10^104 A3+G5@17>8^104 Bb3+Bb4@25>24^104 D4@33>12^56 D5@36>15^56 F4+F5@41>10^104 Bb4+Bb5@49>8^104 F4+F5@57>18^80
+  xxxxxxxx#3 : F2@17>11^56 Gb2@29>2^56 G2@31>1^56 Ab2@33>1^56 A2+Bb2@34>1^56 B2@35>1^56 C3@36>1^56 Db3@37>1^56 D3+Eb3@38>1^56 E3@39>1^56 F3@40>2^56 F2@41>11^32 F3@42>21^56 Gb2@53>2^32 G2@55>1^32 Ab2@57>1^32 A2+Bb2@58>1^32 B2@59>1^32 C3@60>1^32 Db3@61>1^32 D3+Eb3@62>1^32 E3@63>1^32 F3@64>2^32
+  xxxxxxxx#4 : A3+G4@1>7^56 C4+A4@9>8^56 F4+C5@17>16^56 C4+Eb5@25>10^56 A3+G5@33>8^32 Bb3+Bb4@41>24^56 D4+D5@49>15^32 F4+F5@57>10^32
+  xxxxxxxx#5 : F2@1>11^104 Gb2@13>2^56 G2@15>1^80 Ab2@17>1^56 A2+Bb2@18>1^56 B2@19>1^56 C3@20>1^56 Db3@21>1^56 D3+Eb3@22>1^56 E3@23>1^56 F3@24>2^56 F3@26>69^104
+  xxxxxxxx#6 : Bb4+D5+F5@25>143^80
+  xxxxxxxx#9 : F1@1>24^104 F1@25>189^104
+  xxxxxxxx#10: D2+Gb2+Db3@1>1^104 C2+Gb2@9>1^80 C2+Gb2@17>1^80 C2+Db3@25>1^80 Gb2@33>1^80
+@110 [F] (grid:8)
+  xxxxxxxx   : D4+D5@1>1^56 C4+C5@3>2^80 F4+F5@4>1^56 A4+A5@5>1^56 F4+F5@6>1^56 C4+C5@7>1^56
+  xxxxxxxx#2 : D4+D5@1>1^80 A3+A4@2>5^104 C4+C5@3>2^104 F4+F5@4>1^80 A4+A5@5>1^80 F4+F5@6>1^80 C4+C5@7>1^80 G3+G4@8>5^104
+  xxxxxxxx#3 : F3@1>6^32 F3@7>1^56 G3@8>1^56
+  xxxxxxxx#4 : Bb4+Bb5@1>1^32 F4+F5@2>2^32 D4+D5@3>1^32 A3+A4@4>5^32 C4+C5@5>2^32 F4+F5@6>1^32 A4+A5@7>1^32 F4+F5@8>1^32
+  xxxxxxxx#5 : F3@5>1^104 G3@6>1^104 F3@7>1^104 Bb2@8>8^104
+  xxxxxxxx#6 : A4+C5@2>6^56 G4+Bb4@8>12^56
+@111 [Eb | Bb]
+  xxxxxxxx   : Bb3+Bb4@1>18^56 Eb4+Eb5@9>10^56 G4+G5@17>8^56 Eb4+Eb5@25>15^56 Bb3+Bb4@33>8^56 Bb3+Bb4@49>18^56 D4+D5@57>9^56
+  xxxxxxxx#2 : Bb3+Bb4@1>18^80 Eb4+Eb5@9>10^80 G4+G5@17>8^80 Eb4+Eb5@25>15^80 Bb3+Bb4@33>8^80 F3+F4@41>39^80 Bb3+Bb4@49>18^80 D4+D5@57>9^80
+  xxxxxxxx#3 : F3@1>6^80 Bb2+F3@9>24^56 G3@17>6^32 F3@25>8^32 Bb2@33>38^32
+  xxxxxxxx#4 : C4+C5@1>7^32 G3+G4@9>40^32 Bb3+Bb4@17>18^32 Eb4+Eb5@25>10^32 G4+G5@33>8^32 Eb4+Eb5@41>15^32 Bb3+Bb4@49>8^32 F3+F4@57>39^32
+  xxxxxxxx#6 : Eb5@17>23^80 F4+D5@41>47^80
+@112 [Bb | Eb]
+  xxxxxxxx   : F4+F5@1>8^80 D4+D5@9>9^56 Bb4@17>4^56 G3+G4@33>15^80 Bb4@41>9^56 Eb4+Eb5@49>7^80 Bb4@57>9^56
+  xxxxxxxx#2 : F4+F5@1>8^104 D4+D5@9>9^80 Bb3+Bb4@17>6^80 Eb3+Eb4@25>39^104 G3+G4@33>15^104 Bb3+Bb4@41>9^80 Eb4+Eb5@49>7^104 Bb3+Bb4@57>9^80
+  xxxxxxxx#3 : Bb2@17>7^32 C3@25>7^32 D3@33>12^56 Bb2@41>7^32 Eb3@45>2^32 C3+D3@49>8^56 D3@57>12^32
+  xxxxxxxx#4 : Bb3+Bb4@1>18^32 D4+D5@9>9^32 F4+F5@17>8^32 D4+D5@25>9^32 Bb3+Bb4@33>6^32 Eb3+Eb4@41>39^56 G3+G4@49>15^32 Bb3+Bb4@57>9^32
+  xxxxxxxx#5 : Bb2@1>7^104 C3@9>7^104 D3@17>12^104 Eb3@29>2^104 D3@33>34^104
+  xxxxxxxx#6 : Eb4+G4@25>47^56
+@113 [F] (grid:16)
+  xxxxxxxx   : G4@1>2^56 A3+A4@5>4^80 C5@7>2^56 F4+F5@9>2^80 C5@11>2^56 A3+A4@13>1^56 Bb4@15>2^80
+  xxxxxxxx#2 : G3+G4@1>2^80 F3+F4@3>10^104 A3+A4@5>4^104 C4+C5@7>2^80 F4+F5@9>2^104 C4+C5@11>2^80 A3+A4@13>1^80 Bb3+Bb4@15>2^104
+  xxxxxxxx#3 : Eb3@2>1^32 D3@3>2^32 D3@7>1^56 C3@8>1^32 Bb2@9>6^56 D3@13>1^32 C3@14>1^32 Bb2@15>2^32
+  xxxxxxxx#4 : Eb4+Eb5@1>2^32 Bb3+Bb4@3>2^32 G3+G4@5>2^32 F3+F4@7>10^32 A3+A4@9>4^32 C4+C5@11>2^32 F4+F5@13>2^56 C4+C5@15>2^32
+  xxxxxxxx#5 : D3@3>1^104 C3@4>1^104 Bb2@5>8^104 A2@13>2^104 Bb2@15>8^104
+  xxxxxxxx#6 : F4+A4@3>12^56
+@114 [Bb7] (grid:16)
+  xxxxxxxx   : D5@1>2^80 F5@3>1^56 Bb5@5>1^56 D6@7>1^56 F6@9>5^56
+  xxxxxxxx#2 : D4+D5@1>2^104 F4+F5@3>1^80 Bb4+Bb5@5>2^56 D6@6>1^80 D5@7>2^56 F5+F6@9>1^80 Bb5+Bb6@11>1^80
+  xxxxxxxx#3 : A2@1>2^32 Bb2@3>4^56 A2@7>2^32 Bb2@9>2^32 Bb3@15>2^56
+  xxxxxxxx#4 : A3+A4@1>1^32 Bb3+Bb4@3>2^56 D4+D5@5>2^32 F4+F5@7>1^32 Bb4+Bb5@9>2^32 D5+D6@11>2^32 F5+F6@13>1^32 Bb5+Bb6@15>1^32
+  xxxxxxxx#5 : Bb3@11>2^104
+@115 [Bb] (grid:6t)
+  xxxxxxxx#3 : Bb3@2>1^32 Bb3@3>1^32

@@ -19,7 +19,7 @@ from . import metric_discovery as md
 from .understanding_probe import Song
 
 SCRIPT = Path(os.environ.get("LIBRETTO_DATA") or (Path(__file__).resolve().parent.parent / "data"))
-CANON = json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+CANON = json.loads((SCRIPT/"corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]
 FORM = {"form_self_similarity","form_novelty_rate","form_distinct_bar_frac","form_section_per100bars"}
 # 24 local-character axes: exclude the FORM axes (already measure repetition) AND the axis itself

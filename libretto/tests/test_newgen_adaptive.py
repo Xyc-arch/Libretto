@@ -8,8 +8,8 @@ from libretto.tasks.newgen import calibrate as cal
 from libretto.tasks.newgen import retrieval as R
 
 DATA = libretto.data_root()
-GENRES = ["classical", "core_pop_rock", "electronic_dance", "film_score",
-          "folk_country", "funk_soul_rnb", "jazz", "latin_reggae_world"]
+GENRES = ["pop_rock", "funk_soul_rnb", "electronic_dance", "jazz", "folk_country",
+          "classical", "metal", "hiphop_rap", "reggae_ska", "latin", "blues_gospel"]
 
 
 def test_calibration_cached_and_sane():
@@ -20,7 +20,7 @@ def test_calibration_cached_and_sane():
         assert 3 <= b <= 6 and 3 <= f <= 6
         assert cal.COPY_FLOOR <= cp <= cal.COPY_CAP
     # adaptive: a naturally-varied genre gets a looser C1 budget than a tight one
-    assert cal.c1_budget("jazz") >= cal.c1_budget("core_pop_rock")
+    assert cal.c1_budget("jazz") >= cal.c1_budget("pop_rock")
     # unknown / brief -> conservative floors
     assert cal.c1_budget(None) == 3 and cal.fit_threshold(None) == 3 and cal.copy_threshold(None) == cal.COPY_FLOOR
 
@@ -40,11 +40,11 @@ def test_calibration_admits_more_real_songs_than_fixed_gate():
     """The whole point: the old fixed fit>=6 rejected ~80% of real songs; the calibrated floor must be lower."""
     for g in GENRES:
         assert cal.fit_threshold(g) <= 6
-    assert cal.fit_threshold("latin_reggae_world") < 6
+    assert cal.fit_threshold("latin") < 6
 
 
 def test_retrieval_is_mandatory_and_grounded():
-    r = R.build_retrieval("latin_reggae_world")
+    r = R.build_retrieval("latin")
     assert r["concept_ids"] and r["exemplar_ids"]
     assert "EXAMPLE:" in r["text"] and "COMPOSE:" in r["text"]      # real corpus example + generative move
     assert "STYLE REFERENCE" in r["text"]                          # exemplar excerpts present
@@ -55,8 +55,8 @@ def test_retrieval_is_mandatory_and_grounded():
 
 
 def test_retrieval_excludes_held_out_song():
-    target = R.prototypical_songs("latin_reggae_world", k=1)[0]
-    r = R.build_retrieval("latin_reggae_world", exclude={target})
+    target = R.prototypical_songs("latin", k=1)[0]
+    r = R.build_retrieval("latin", exclude={target})
     assert target not in r["exemplar_ids"]
 
 

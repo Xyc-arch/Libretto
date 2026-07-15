@@ -19,11 +19,11 @@ from pathlib import Path
 
 import numpy as np
 
-from . import metric_discovery as md
+from . import axes_v3 as md                     # v3: 33 discovered axes (md.metrics_for)
 from .understanding_probe import Song
 
 SCRIPT = Path(os.environ.get("LIBRETTO_DATA") or (Path(__file__).resolve().parent.parent / "data"))
-CANON = json.loads((SCRIPT / "corpus_distribution_314.json").read_text())   # FROZEN canonical reference
+CANON = json.loads((SCRIPT / "corpus_distribution.json").read_text())   # FROZEN canonical reference
 AXES = CANON["axes_order"]
 CORPUS = {m: CANON["axes"][m]["values"] for m in AXES}
 LO_EXT, LO, HI, HI_EXT = 5, 25, 75, 95

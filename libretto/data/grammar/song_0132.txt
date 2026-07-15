@@ -1,223 +1,1027 @@
-KEY: Bb major | METER: 4/4 | TEMPO: 120 | GRID: 12t (adaptive) | BARS: 111
-VOICES: Part1
+KEY: E minor | METER: 4/4 | TEMPO: 118 | GRID: 64th (adaptive) | BARS: 131
+VOICES: DON'T ASK ME WHY                ;David Stewart / Annie Lennox[drums], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2[prog=45], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3[prog=45], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4[prog=35], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5[prog=27], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6[prog=28], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7[prog=27], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8[prog=48], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9[prog=0], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10[prog=102], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11[prog=0], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12[prog=48], DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13[prog=48]
 @1 [-]
-@2 [F]
-  Part1: F5@1>1 F5+G5@2>1 F5+G5@3>1 F5+G5@4>1 F5+G5@5>1 F5+G5@6>1 F3+G3@7>6
-@3 [F | Fdim]
-  Part1: F4@1>1 F4+F#4@2>1 F4+F#4@3>1 F4+F#4@4>1 F4+F#4@5>1 F4+F#4@6>1 F2+F#2@7>2 B3@10>2
-@4 [F7 | Fm7]
-  Part1: Eb3+B3+F4@3>1 F2+A3+Eb4@5>1 Eb3+B3+F4@8>4 Eb4@11>1
-@5 [Adim | Db] (grid:24t)
-  Part1: C2+Eb3+A3+Bb3+D4+Eb4@1>2 C2+Eb3+A3+Bb3+D4+Eb4@4>2 Eb3+A3+B3@7>10 C#5+C#6@19>2 D5+C#6+D6@23>2
-@6 [D | Ebaug] (grid:4)
-  Part1: D2+D5+C#6+D6@1>1 F#3+C4+D4@2>1 G2+Eb5+Eb6@3>1 F3+B3@4>1
-@7 [C | D]
-  Part1: C2@1>1 E3+Bb3+C4+C5@4>1 F2+C#5+D5@6>7 Eb3+A3+D4@9>1 Bb2@12>1
-@8 [Bb7 | Ab7] (grid:16)
-  Part1: D5@1>4 F3+G#3+Bb3+D4@5>1 Bb4@8>1 Eb2@9>1 Bb4+C5@10>5 G3+C#4@13>1 G#4+A4@15>2 D2@16>1
-@9 [D7 | F]
-  Part1: G#4+A4@1>5 F#3+C4+D4@3>1 G2@6>1 F3+B3@9>1 C2@12>1
-@10 [Eb | Dbdim7] (grid:16)
-  Part1: F4@1>2 Eb3+Bb3+C4@4>1 G4@8>1 G2@9>1 Eb3+Bb3+C4+F4@12>1 G4@13>2 C#2+E4+C#5@16>1
-@11 [Dm | Bdim] (grid:24t)
-  Part1: C#2+E4+C#5@1>2 F4+D5@4>21 C4+D4@5>2 G2@11>2 F3+B3@17>2 C2@23>2
-@12 [Bb | Eb] (grid:16)
-  Part1: F4+D5@1>4 E3+Bb3+C4@4>1 F2@8>1 E4+Bb4@11>1 B2+C3@12>3 Eb4+Bb4@14>2
-@13 [Bb | Ddim] (grid:16)
-  Part1: Bb2+D4+Bb4@1>1 F3+G#3+Bb3+D4@4>1 A2+G3@8>1 F3@9>1 G#2+F#3@12>1 D2@16>1
-@14 [G7 | Ebaug] (grid:32)
-  Part1: D2@1>1 D5+C#6+D6@6>2 F#3+C4+D4@7>2 D5+C#6+D6@11>2 G2+F3+Eb5+B5+Eb6@15>16 F3+B3@23>2 C2+E3@31>2
-@15 [Bbaug] (grid:24t)
-  Part1: C2+E3@1>4 A2+Bb2+Bb4+Bb5@5>3 A4+D5+F#5+A5@10>2 F2+Bb4+D5+F#5+Bb5@11>3 C5+C6@16>2 Eb3+A3@17>2 Bb2@23>2
-@16 [Bb | Gm] (grid:24t)
-  Part1: F3+Bb3+D4+Bb4@5>3 Eb2+C5@11>3 G3+C#4+B4@16>2 Bb4@17>3 A4@22>3 D2@23>2
-@17 [Aaug | C7]
-  Part1: A4@1>6 F3+A3+C4+D4@3>1 C#2@6>1 G3+Bb3+C#4+E4@9>1 C2+F4@12>1
-@18 [C7 | Bbm] (grid:24t)
-  Part1: C2+F4@1>2 G3+Bb3+C4@5>2 G2+G4@10>2 F4@11>4 G4@16>2 F3+B3+Bb4@17>3 C2+C#5@23>2
-@19 [Gm7 | Bdim] (grid:24t)
-  Part1: C#5@1>2 D5@4>2 G3+Bb3+C4@5>2 G2+F3@11>2 F3+B3+D4@17>2 C2+E4+C#5@22>2
-@20 [C7 | Bb] (grid:8)
-  Part1: G3+Bb3+C4@3>1 C3+E4+Bb4@5>1 B2@6>1 Eb4+Bb4@7>1
-@21 [Bb | Gb7]
-  Part1: Bb2+D4+Bb4@1>1 F3+Bb3+D4@3>1 E3+F3@6>2 F#3@9>2 G2@12>1
-@22 [Gm] (grid:8)
-  Part1: D5+D6@2>1 G3+Bb3+D4@3>1 D2+Bb5@4>1 D5+D6@5>1 G3+Bb3+D4+Bb5@6>1 C#5+Bb5+C6+C#6@8>1
-@23 [Bbm | C]
-  Part1: Eb2+C#5+Bb5+C6+C#6@1>3 G3+Bb3+C#4+F4@3>1 C5+F#5+A5+C6@5>1 D2@6>1 F#3+C4+D4@9>1 G2+F3@12>1
-@24 [Gm] (grid:32)
-  Part1: G3+Bb3+D4@6>3 Bb5+D6@9>3 D5+G5@12>3 G2+D6@14>3 G5+Bb5@15>2 D5+D6@17>3 G5+Bb5@20>3 G3+Bb3+D4+D5@22>3 C5+C#5@25>8 Eb2@27>3 C2@30>2
-@25 [C]
-  Part1: C5+C#5@1>8 E3+Bb3+C4@3>1 G2@6>1 F#2+E3@9>2 F2+D3@12>1
-@26 [Caug | Ab]
-  Part1: C5+G#5+C6@2>1 G#3+C4@3>1 C2@6>1 C#5+F#5+G#5+C#6@8>1 G#3+Bb3+C4+G#4+G#5@9>1 Bb4+Bb5@11>1 G2+C5+C6@12>1
-@27 [C | F7] (grid:32)
-  Part1: F4+C5+C6@4>2 G3+Bb3+C#4@5>3 C2+E3@14>2 Bb3+C4@22>3 C5+D5@27>2 E3+Eb5+E5@28>3 F3+F5@30>3
-@28 [Adim] (grid:6t)
-  Part1: F3+F5@1>1 Eb5@2>1 Eb3+A3+A4+B4@3>4
-@29 [F | Bm7] (grid:24t)
-  Part1: F4+G4+A4+B4@1>2 G3+Eb4@3>2 F3+A3+B3@4>15 C5+C6@19>2 D2+D5+C#6+D6@23>2
-@30 [D | Cm] (grid:8)
-  Part1: D5+C#6+D6@1>1 F#3+C4+D4+D5+C#6+D6@2>1 D5+C#6+D6@3>1 G2+F3+Eb5+D6+Eb6@4>4 F3+B3@6>1 C2@8>1
-@31 [F | Eb] (grid:24t)
-  Part1: Bb5@3>2 G3+Bb3+C4+C5+C6@4>3 F2+D5+F#5+A5+D6@10>2 Eb3+A3+B3@16>2 Bb2+G5@21>2 Bb4+Bb5@23>2
-@32 [Bb7 | Aaug] (grid:24t)
-  Part1: Bb4+Bb5@1>1 F3+G#3+Bb3+D4+Bb4+Bb5@4>3 Eb2+C5+F5+G#5+C6@10>3 B4+F5+B5@15>2 G3+Bb3+C#4+Bb4+Bb5@16>2 A4+G#5+A5@21>4 D2@22>2
-@33 [A | Em] (grid:8)
-  Part1: A4+A5@1>3 A3+C4+D4@2>1 C#2@4>1 E3+G#3+B3+G4+G5@6>1 C2+F4@8>1
-@34 [Eb | Db] (grid:8)
-  Part1: G3+Bb3+C4+G4@2>1 Eb2+Bb4@4>1 G3+C#4+C#5@6>1 D2+F4+D5@8>1
-@35 [G7 | Gm7] (grid:24t)
-  Part1: F#3+C4+D4@4>2 G2+F4+G#4+B4@9>2 G3+C4+F4@15>2 G4@16>3 Bb4@21>2 D2+F4+C#5@22>3
-@36 [Dm7 | Bbm] (grid:24t)
-  Part1: F4+G#4+D5@3>2 G#3+C4+D4@4>2 G2@10>2 C#2@16>3 C2+Bb4+F5@21>2
-@37 [Ebdim | Bb] (grid:24t)
-  Part1: G4+Bb4+D5@3>2 F#2@4>3 Eb4+F#4+A4@9>2 F2@10>6 D4+Bb4@15>2 A2@16>2 D4+F4+G4+Bb4@19>6 Bb2@22>2
-@38 [Gm7 | Dm] (grid:16)
-  Part1: D4+F4+G4+Bb4@1>5 Bb2@2>1 G2@3>4 F2@7>3 Eb2@10>4 D2+C#5+D5@14>3
-@39 [D7 | Gb]
-  Part1: D2@1>1 F#2@3>2 C#5+D5@4>1 G2@5>2 Eb5@6>1 C#2+F#4@8>3 C2@11>2
-@40 [Cdim]
-  Part1: C2@1>1 E2+E4+Bb4@2>2 D4+F#4+C5@4>4 Eb3@5>5 Eb2@9>2 D2@11>1
-@41 [Cm7 | Dm7] (grid:16)
-  Part1: C4+D4@2>1 Bb4@3>2 Eb2+F4+C5@7>2 G3+C#4+F4+C5@10>4 Bb4@11>3 D2+A4@14>2 F4+A4@15>2
-@42 [D7 | C7] (grid:6t)
-  Part1: A3+C4+D4@2>1 C#2@3>1 E3+Bb3@5>1 C2@6>1
-@43 [Eb | F]
-  Part1: G3+Bb3+C4@2>1 G2+Eb5@5>1 A4+B4+F5@7>1 G3+Bb3+C4+A4+B4+F5@8>5 F2@11>1
-@44 [B7 | Dm] (grid:8)
-  Part1: A4+B4+F5@1>2 Eb3+A3+B3@2>1 Eb2+Eb5@3>1 A4+B4+F5@5>1 F#3+C4+D4@6>1 Eb5@7>1 D2+A4+F5@8>1
-@45 [Bbm | Faug]
-  Part1: C#2+B4+F5@2>2 C2+G4+Bb4+Eb5+F5@5>2 B1+A4+C#5+F5@8>2 C5+D5+F5@10>1 Bb1@11>1
-@46 [Bb | D7]
-  Part1: G#3+Bb3+D4@2>1 Bb4+Bb5@4>1 Eb2@5>1 F#3+C4+D4@8>1 D2@11>1
-@47 [G7 | Cm] (grid:32)
-  Part1: F#3+C4+D4@4>2 G2@12>3 Eb5+Bb5+Eb6@17>2 F3+B3+Eb5+Eb6@19>2 Eb5+Bb5+Eb6@23>2 C2@27>2 C5+B5+C6@28>4
-@48 [D]
-  Part1: F#3+Bb3+C4+D5+F#5+A5+D6@2>8 F2@5>1 Eb3+A3+B3@8>1 Bb2@11>1
-@49 [Adim | C7] (grid:16)
-  Part1: F3+A3+Bb3+D4+A5@2>2 Eb2+Bb5@5>1 C6@6>2 Bb5@9>1 G3+C#4+C6@10>2 D2+G#5@14>1
-@50 [G | Abm] (grid:16)
-  Part1: G6+G#6@1>5 F#3+C4+D4@2>1 G2@6>1 F6+G6@8>1 B5+Eb6@9>1 F3+B3+Eb4+Bb5@10>1 G5+G#5@11>1 F5+F#5@12>1 B1+Eb5+E5@13>1 C5+C#5@14>1 G#4+Bb4@16>1
-@51 [F | Cm] (grid:16)
-  Part1: Bb3+C4+F#4+G4@1>1 F4@2>1 C#4+Eb4@3>1 C4@5>7 F2+F#2@6>5 Eb3@10>3 C4+F4@13>1 D2@14>1
-@52 [Abdim7 | Bm] (grid:16)
-  Part1: G#3+C4+D4@2>1 E4+G#4+B4@5>1 G2+F3@6>1 F3+B3@10>1 C2+E3@14>1 D4+F#4@15>1 Bb4+B4+C5@16>1
-@53 [Bb | Dm7] (grid:16)
-  Part1: D5+F#5@1>1 G5+Bb5+C#6@2>1 E6+Bb6@4>1 B6+D7+E7+F7+C8@5>1 F2+Eb3@6>7 C3@10>2 C5+C#5+D5+F5@13>4
-@54 [F | Gbaug] (grid:16)
-  Part1: E3+F3@1>7 D2@9>2 F#3@10>3 G2+E3@13>2
-@55 [Gm | Gdim] (grid:16)
-  Part1: D5+G5+Bb5+D6@1>1 G3+Bb3+D4@2>1 G2+E3+Bb5@5>1 D5+G5+D6@6>3 G3+Bb3+D4+Bb5@9>1 G5@10>2 Eb2+C#5+C#6@14>3
-@56 [Gb | Gm] (grid:16)
-  Part1: Bb2+G3+C#4+C#5+Bb5+C#6@1>2 A2+F#3+C4+C5+C6@6>2 F#3+C4+D4@10>1 C#5+G5+Bb5+D6@12>1 G2+E3+D5+G5+Bb5+D6@14>1 D5+G5+Bb5+D6@16>1
-@57 [Gm | Bbm] (grid:16)
-  Part1: G3+Bb3+D4+D5+G5+Bb5+D6@1>2 D5+G5+Bb5+D6@4>1 G2+D5+G5+Bb5+D6@5>1 Bb3+C#4+F4@9>1 C#2+C#5+C#6@13>1
-@58 [Gdim | C7] (grid:16)
-  Part1: Bb3+C4@1>1 C3+Bb3@5>5 G4+A4+C#5@8>1 E3@9>1 Bb4@12>1 F2+G4+G#4+B4+C5@13>1
-@59 [Db7 | F] (grid:16)
-  Part1: G#3+Bb3+C4+G4+G#4+C#5@1>2 D2+F4+G#4@5>2 G4+Bb4@8>1 G#3+Bb3+C4+F4+G4+A4+C5@9>4 G2+F3@13>4
-@60 [Caug | Cdim] (grid:16)
-  Part1: C#3@1>1 Eb4+E4+G#4+C5@4>1 C2+E3@5>4 F#2+C4+Eb4@9>4 Eb3+A3+B3@16>1
-@61 [F7 | Eb7]
-  Part1: F2+A3+B3+F4@2>1 F#2+E3+A3+B3+Eb4@4>1 F#2+E3+G#3+Bb3+C#4@9>1 Eb3+G3+A3@10>1 Eb3+G3+A3@12>1
-@62 [Ebaug | Adim] (grid:8)
-  Part1: Eb3+G3+A3@1>4 F2@3>2 B4+F5@4>1 C3+A4+Eb5@5>2 D2@7>1
-@63 [D | C7] (grid:16)
-  Part1: F#3+C4+D4+F#4+D5@1>3 G2+C#5@4>1 D5@5>2 F3+F4+Eb5@8>4 B3@9>1 C2+E4+C5@13>3 B4@16>1
-@64 [D7 | Dm] (grid:4)
-  Part1: F#2+E3+E4+B4+C5@1>1 Eb3+G#4+A4+D5@2>1 F2@3>1 Eb3+G#4+A4+D5@4>1
-@65 [Bb] (grid:16)
-  Part1: Bb2+G3+F4+Bb4@1>5 Eb2@5>2 G3+F4+Bb4@9>3 A4@12>1 F3+Bb4@13>4 F4+C5@16>1
-@66 [Dbaug | E] (grid:16)
-  Part1: D2+F3+F4+C5@1>2 E4+A4@4>1 C#2@5>4 B3+G#4@8>3 E3@9>6 C#2+G4+G#4@13>2
-@67 [Cm | Faug]
-  Part1: Eb3+G4@1>5 C2+F4@4>2 F3+A4+Bb4@7>4 Eb2+E4+C#5@12>1
-@68 [Bb | Faug] (grid:32)
-  Part1: Eb2+E4+C#5@1>1 D2+F4+Bb4+D5@6>8 F4@14>4 F3@15>12 G4@17>3 A4+C#5@22>3 G2@25>3 F4+Bb4+D5@30>3
-@69 [Bb | Cm7] (grid:4)
-  Part1: F3+B3+F4+Bb4+D5@1>2 F3@2>1 B1+D3@3>1 C2+Eb3+G4+Bb4+F5@4>1
-@70 [Gbaug | Ebdim] (grid:4)
-  Part1: G2@1>1 F#2+F4+Bb4+D5@2>1 Eb2@3>1 F2+C4+Eb4+F#4+A4@4>1
-@71 [Dm]
-  Part1: F1+F2@1>2 Eb4+F#4+A4+D5@4>2 E3+F3@5>8 F2+D4@10>3
-@72 [Bb]
-  Part1: F2+F3+D4@1>12 Eb4@3>1 F#4@4>1 Bb4@5>1 D5@6>2 Eb5@8>1 D5+Eb5+F#5+Bb5@9>1 D5+Eb5+F#5+Bb5@11>1 D5+Eb5+F#5+Bb5@12>1
-@73 [Eb | Daug] (grid:16)
-  Part1: F2@1>4 Eb3@4>5 Eb2@8>1 D4+Eb4@9>1 F#4+Bb4@10>1 D2+D5@12>1
-@74 [D | C7]
-  Part1: F#3+C4+D4@1>1 D5+C#6+D6@3>1 G2@4>1 F3+B3+D4@7>1 C2@9>1 E3+Bb3+C4+C5+Bb5+C6@12>1
-@75 [Dbaug | Bb] (grid:32)
-  Part1: E3+Bb3+C4+C5+Bb5+C6@1>1 F2+C#5+C#6@6>3 D5+D6@9>2 A3+C#5+C#6@13>2 Eb3+B3+C5+C6@15>4 B4+B5@21>2 Bb2@23>2 Bb4+Bb5@25>5 G#3+Bb3+D4+G#5@30>2 F3+G#3+Bb3+Bb4+Bb5@31>2
-@76 [Faug | D7]
-  Part1: Eb2+F5@3>2 G3+C#4@6>1 D2@9>1 F#3+C4+D4@12>1
-@77 [Abm | Ebm] (grid:32)
-  Part1: G2+F3+Bb5@7>2 Eb5+G#5@9>3 B4@12>2 G#5+Bb5@13>2 F3+B3+Eb4+B4+Eb5@15>2 G#5+Bb5@19>2 Eb5+F#5@21>2 C2+B4@22>2 Bb5@23>4 A4@29>4 E3+Bb3+C4@31>2
-@78 [Am | Adim]
-  Part1: A4@1>11 G2@3>1 E3+Bb3+C4@6>1 G2@9>1 F3+B3+Eb4@12>1
-@79 [Abm | Ebm] (grid:32)
-  Part1: D2@7>2 F#5+G#5+Bb5@11>2 B4+Eb5@12>3 C#2+G#2+G#5+Bb5@14>3 B4+Eb5+F#5@17>3 F#5+G#5+Bb5@20>3 C2+G2+B4+Eb5@23>2 G#5+Bb5@25>3 E5+F#5@27>3 E3+Bb3+C4+Bb4@30>3
-@80 [Edim | Bb]
-  Part1: E3+Bb3+C4+Bb4@1>8 G2@3>1 F2@6>2 Bb2@9>1 G#3+C4@12>1
-@81 [Ab7 | D] (grid:24t)
-  Part1: G#3+C4@1>1 G4@9>2 G#4@11>2 F5@16>2 D2+D5@17>3 F#3+C4+D4@23>2
-@82 [Daug | Em7]
-  Part1: F#3+C4+D4@1>1 Bb5+C#6+D6+E6@2>1 G2+D5+F#5@3>1 Bb5+C#6+D6@4>1 D5+F#5@5>1 F3+B3+C#6+D6@6>1 D5+F#5+Bb5@7>1 Bb5+C#6+D6@8>1 C2+E3+D5+F#5@9>1 E6@10>1 E5+G5+A5+Bb5@11>2 E3+Bb3+D4@12>1
-@83 [Edim]
-  Part1: E5+G5+A5+Bb5@1>8 F2@3>1 Eb3+A3+C4@6>1 Bb2@9>1 D3+G3+G#3+C4@12>1
-@84 [Bbm | Db] (grid:24t)
-  Part1: Eb2+Bb2@5>2 Eb6+F6@7>2 Bb5+C#6@9>2 G3+C#4+F5@10>2 Eb6+F6@11>2 F5+Bb5+C#6@13>2 C#6+Eb6+F6@15>2 D2+F5+Bb5@17>2 F6@19>2 G5+G#5@21>4 F#3+C4+D4@23>2
-@85 [Dbdim | Eb]
-  Part1: G5+G#5@1>8 G2@3>1 C#2+E3@6>2 C2+Eb3@9>1 Eb5@10>1 G5@11>1 G3+Bb3+C4+Bb5@12>1
-@86 [Gb | Fm] (grid:16)
-  Part1: C#5+G5+C#6@2>1 F#2@4>1 F#3+C4+D4@8>1 C5+F#5+Bb5+C6@11>1 D2+F3@12>1 F3+G#3+C4+D4@16>1
-@87 [Bb7 | Gm7]
-  Part1: F3+G#3+C4+D4@1>1 Bb4+D5+F5+G5+Bb5@2>1 G2+F3@3>1 F3+G#3+B3@6>1 Bb4+C#5+F5+G5+Bb5@8>1 C2+Eb3@9>1 G3+Bb3+C4@12>1
-@88 [Am7 | Bb] (grid:24t)
-  Part1: G4+A4+C#5+Eb5+F5@3>2 F2+Eb3@5>2 Eb3+A3+C4@11>2 Bb2+Bb4+D5@17>2 C5+Eb5@21>2 F3+Bb3+D4@22>2 C#5+E5@23>2
-@89 [Bb | Edim]
-  Part1: C#5+E5@1>1 D5+F5@2>4 Bb2@3>1 F#3+C4+D4@6>1 G2+E3+G5+Bb5@9>1 A5+C6@11>1 E3+G3+Bb3+D4+A5+Bb5+C#6@12>1
-@90 [Gm | Bbdim7]
-  Part1: D2+A5+Bb5+D6@3>1 G3+Bb3+D4@6>1 Eb2+Bb2+Bb5+C#6@9>1 C6+Eb6@11>1 G3+C#4+C#6+E6@12>1
-@91 [Dm | Em7] (grid:24t)
-  Part1: F5+C#6+D6+F6@3>2 D2+F5+D6+F6@5>2 F5+D6+F6@7>2 D4+F5+D6+F6@9>2 F#3+C4+C#4+D4+F5@11>2 G2+E3@16>2 E3+G3+Bb3+D4@22>2 G5+Bb5@23>2
-@92 [Am | Gm] (grid:16)
-  Part1: G5+Bb5@1>1 A5+C6@2>1 F3+G5+Bb5+D6@3>1 C#2+E3+A5+C6@7>2 C2+E3+G5+Bb5@11>1 G5+Bb5@13>1 G5+Bb5@14>1 D2+F3@15>1
-@93 [Ab7 | Fm] (grid:24t)
-  Part1: Eb2+F#3@4>2 E2+G3+G#5@10>3 Bb5@13>2 F2+G#3+C6@16>3 G#5@21>2 G#3+C4+D4+Bb5@22>3
-@94 [Caug | Abm] (grid:16)
-  Part1: C2+C5+G#5+C6@3>1 G#3+C4+D4@7>1 D2+Eb2@11>1 G#5@14>1 F3+B3+B4+Eb5+Bb5@15>2
-@95 [Bbm7 | F] (grid:24t)
-  Part1: C2+Bb4+C#5+E5+G#5@4>3 Bb3@10>2 B2+C3+C6+C#6+D6@16>9 F6@21>3
-@96 [Cm | Dbaug] (grid:24t)
-  Part1: C3+D6@1>10 F5+Bb5@7>2 C#5+Eb5@10>4 A4+C#5+Eb5@19>2 F4+G4@21>2 C#4+Eb4@23>2
-@97 [Fdim | D] (grid:16)
-  Part1: G3+A3+B3@1>1 F3@2>1 C#3+Eb3@3>1 B2@4>1 F2@5>2 D2+F#2+D5+C#6+D6@11>5 F#3+C4+D4@15>1
-@98 [Ebaug | Ab] (grid:16)
-  Part1: G2+F3+Eb5+D6+Eb6@3>1 Eb5+D6+Eb6@5>5 F3+B3+Eb4@7>1 Eb2@10>1 C2@11>1 E3+Bb3+C4+C6@15>1 G#5+Bb5@16>1
-@99 [D7 | Bbaug] (grid:24t)
-  Part1: C5+F#5@1>2 F2+C5+C6@4>2 D5+F#5+A5+D6@9>8 Eb3+A3+B3@10>2 Bb2@16>2 G3+G#3+C4+A5@21>2 Bb4+Bb5@22>3
-@100 [Eb | Dm7] (grid:24t)
-  Part1: A5@3>2 Eb2+Bb4+Bb5@4>2 C5+F#5+G#5+C6@9>2 G3+C4@10>2 Bb4+Bb5@11>3 D2+A4+A5@16>9 F3+A3+C4+D4@22>2
-@101 [A7 | C] (grid:24t)
-  Part1: A4+A5@1>6 C#2@3>2 G3+Bb3+C#4@9>2 G4+G5@10>4 C2+F4@15>2 G3+Bb3+C4+G4@22>3
-@102 [Gm | Bbdim] (grid:24t)
-  Part1: F4@3>2 G2@4>2 C4+G4@9>2 G3+Bb3+Bb4@10>3 Eb2+E4+C#5@16>3 F#3+C4+F4+Bb4+C#5@21>2
-@103 [Dm | Bb] (grid:32)
-  Part1: F4+C#5+D5@3>3 D2@5>2 F#3+C4+D4+F4@13>2 G4@15>2 Bb4@19>2 D2+F4+C#5@21>4 F4+D5@27>6 F#3+C4+D4@28>2
-@104 [Bdim | Eb] (grid:8)
-  Part1: F4+D5@1>3 G2@2>1 B3@4>1 Eb5@5>1 G4+Bb4+F5@6>1 C2+Eb3@7>1
-@105 [G7 | Fm]
-  Part1: Eb4+F#4+A4+B4+D5@2>2 F#3+G3@4>4 C4+Eb4+F#4+G#4+B4@8>1 F2+F3@10>3
-@106 [Faug | Bb7]
-  Part1: F2@1>4 Eb3+A3+C#4+F4@2>2 Eb3+A3+C#4+F4@5>1 Bb2+G#3+D4+E4+Bb4@8>3 G#4@10>2 D4+E4@11>1 G#4+Bb4@12>1
-@107 [Eb7 | Ab7] (grid:32)
-  Part1: Eb3+C#4@3>10 G4+Eb5@4>5 C#5@9>4 Bb3@12>2 G4+A4@13>3 C#5+Eb5@15>3 C5+G#5@20>5 G#3+F#4+F#5@25>5 C5+D5@30>3
-@108 [Fdim | Am] (grid:16)
-  Part1: F#5+G#5@1>1 C#6@2>1 C#4+F4+B4+F5+B5@5>2 F5+G5@7>1 Bb5+B5+C#6@8>1 C4+E4+Bb4+Bb5+F6@10>1 C4+E4+Bb4+Bb5+F6@12>1 B3+Eb4+A4+A5+E6@14>1 B3+Eb4+A4+A5+E6@16>1
-@109 [Gm | Gbm] (grid:16)
-  Part1: Bb3+D4+G#4+G#5+Eb6@2>1 Bb3+D4+G#4+G#5+Eb6@4>1 A3+D4+G4+G5+D6@6>1 A3+D4+G4+G5+D6@8>1 G#3+C4+C#4+D4+F#5+C#6@10>1 B2+Eb3+A3+C#4+F#4+A4@15>2
-@110 [Bb7 | C] (grid:32)
-  Part1: Bb2+F3+G3+D4+E4+A4@3>5 C5+D5+E5+G5@22>3 C6+D6+E6+F6@25>2 G6+C7@27>3 F6+D7+G7+A7@30>2 F6+G6+G7+A7@31>2
-@111 [G | Bb] (grid:16)
-  Part1: G6+G7@2>1 G6+G7+A7@3>1 G6+G7@4>1 G6+G7@5>1 G6+G7@6>1 G6+G7@8>1 D1+F1+Bb1@13>1 Bb0@15>2
+@2 [D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : D2@49>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@61>109^80 A3@64>105^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@60>109^80 A3@63>106^104
+@3 [Bm | D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+D#2+A#4@1>1^104 C#3@2>1^80 A#4@9>1^32 D2+A#4@17>1^104 B1+A#4@25>1^104 B1+A#4@33>1^104 A#4@41>1^56 D2+A#4@49>1^104 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : F#4+F#5@1>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@1>3^56 B3@9>4^56 B3@17>3^56 B3@25>4^56 B3@33>3^56 B3@41>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>5^104 F#1@9>6^80 A1@17>6^104 F#1@25>6^80 A1@33>6^104 F#1@41>4^80 A1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3+B3+D4@17>17^80 F#4@29>3^80 B3+D4@30>4^80 D4+F#4@33>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D4@1>105^104 F#4@3>104^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : D4@1>105^104 F#4@3>102^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : F#3+F#4@1>127^56
+@4 [Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 A#4@9>1^56 D2+A#4@17>1^104 B1+A#4@25>1^104 B1+A#4@33>1^104 D#2+A#4@41>1^80 D2+D#2+A#4@49>1^104 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : F#4+F#5@33>4^80 F#4+F#5@49>5^80 G4+G5@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>4^56 D4@17>3^80 F#4@25>3^56 B3@33>4^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>6^104 A1@9>5^104 F#1@17>4^80 A1@25>4^104 B1@33>5^104 A1@41>4^104 D2@49>5^104 E2@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3@16>16^56 B3+D4+F#4@17>15^80 D4+F#4@29>4^80 B3@32>2^56 D4+F#4@33>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@61>98^80 G3@63>102^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@61>108^104 G3@63>106^80
+@5 [Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 A#4@9>1^56 D2+A#4@17>1^104 B1+A#4@25>1^104 B1+A#4@33>1^104 A#4@41>1^56 D2+A#4@49>1^104 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : E4+E5@1>3^80 G4+G5@9>3^56 E4+E5@17>3^56 G4+G5@25>3^32 E4+E5@33>3^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@1>3^56 A3@9>4^56 C4@17>4^80 E4@25>3^56 A3@33>4^56 A3@41>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 A1@9>4^104 A1@17>4^104 G1@25>4^104 A1@33>5^104 G1@41>4^104 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3+A3+C4+E4@17>13^80 C4+E4@29>3^80 E3+A3@30>4^56 C4+E4@33>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : C4@1>94^104 E4@3>102^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C4@1>105^104 E4@3>104^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : A3+A4@1>128^56
+@6 [Am]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 A#4@9>1^56 D2+A#4@17>1^104 B1+A#4@25>1^104 B1+A#4@33>1^104 D#2+A#4@41>1^80 D2+D#2+A#4@49>1^104 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : E4+E5@1>3^80 A4+A5@9>4^80 A4+A5@25>4^80 C5+C6@41>4^80 E4+E5@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^32 B3@17>3^56 A3@25>3^56 A3@41>3^56 C4@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 A1@9>4^104 A1@17>5^104 G1@25>3^104 A1@33>5^104 G1@41>4^104 E1@49>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3+A3@16>18^80 C4+E4@17>12^80 C4+E4@29>3^80 C4@32>2^56 E4@33>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@62>103^80 A3@63>98^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : A3@62>88^104 D4@64>87^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : F#4@64>128^56
+@7 [Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+D#2+A#4@1>1^104 A#4@9>1^56 D2+A#4@17>1^104 B1+A#4@25>1^104 B1+A#4@33>1^104 A#4@41>1^56 D2+A#4@49>1^104 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : F#4+F#5@1>3^80 F#4+F#5@17>3^56 F#4+F#5@33>4^32 F#4+F#5@49>4^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@1>3^56 B3@9>3^56 B3@17>3^56 B3@25>4^56 B3@33>4^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>5^104 F#1@9>5^80 A1@17>5^104 F#1@25>4^80 B1@33>5^104 F#1@41>4^104 F#1@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3+B3+D4@17>18^80 D4+F#4@29>3^80 D4+F#4@33>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D4@1>100^104 F#4@2>97^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#4@3>85^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : F#3@1>128^56
+@8 [Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 A#4@9>1^56 D2+A#4@17>1^104 B1+A#4@25>1^104 B1+A#4@33>1^104 D#2+A#4@41>1^80 D2+D#2+A#4@49>1^104 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : F#4+F#5@33>4^80 F#4+F#5@49>4^80 G4+G5@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>3^56 F#4@25>4^56 B3@33>4^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>6^104 F#1@9>6^80 A1@17>5^104 F#1@25>3^104 D2@33>5^104 B1@41>4^104 A1@49>5^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3+B3@16>17^80 D4@17>12^80 B3+D4+F#4@29>3^80 B3+D4@32>2^80 F#4@33>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@64>96^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@62>105^80 G3@63>108^104
+@9 [C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+D#2+A#4@1>1^104 A#4@9>1^56 D2+A#4@17>1^104 B1+A#4@25>1^104 B1+A#4@33>1^104 A#4@41>1^80 D2+A#4@49>1^104 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : E4+E5@1>3^80 G4+G5@9>3^56 E4+E5@17>2^56 G4+G5@25>3^32 E4+E5@33>3^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@1>3^56 A3@9>4^56 C4@17>3^56 E4@25>3^56 A3@33>4^56 A3@41>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>6^104 G1@9>3^104 E1@17>5^104 G1@25>4^104 A1@33>5^104 G1@41>4^104 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : A3+C4+E4@17>16^80 C4+E4@29>3^80 A3@33>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@1>102^80 C4@3>90^80 E4@5>98^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C4@2>98^104 E4@5>102^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : A3+A4@1>128^56
+@10 [Am | F#m7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 A#4@9>1^56 D2+A#4@17>1^104 B1+A#4@25>1^104 B1+A#4@33>1^104 D#2@40>1^80 B1+A#4@41>1^104 D2@48>1^104 D2+D#2+A#4@49>1^104 A#4@57>1^80 C#3@64>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : A3+A4@1>4^80 E4+E5@9>4^80 C4+C5@25>4^80 A3+A4@41>4^80 C4+C5@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>4^56 C4@25>5^80 A3@33>3^56 A3@41>4^56 B3@49>4^80 C4@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 G1@9>4^104 E1@17>4^104 G1@25>3^104 A1@33>4^104 G1@41>3^104 E1@49>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3@16>18^56 A3+C4+E4@17>15^80 C4@29>3^80 E4@30>2^80 A3@32>2^56 C4+E4@33>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@61>105^80 A3@62>102^80 D4@63>103^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@60>104^104 A3@61>100^104 D4@64>99^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+B4@64>128^56
+@11 [Bm7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#2 : B3+B4@1>4^56 C4+C5@9>3^56 B3+B4@17>4^56 C4+C5@25>2^56 B3+B4@33>3^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@1>3^56 B3@9>3^56 B3@33>3^56 B3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>5^104 A1@17>4^104 F#1@25>4^80 B1@33>4^104 F#1@41>5^80 A1@49>4^104 F#1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3+B3+D4@17>17^80 F#4@18>7^32 D4+F#4@29>4^80 D4@32>1^56 F#4@33>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#4@1>102^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#4@3>97^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : F#4@1>126^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@34>4^104 A4@38>4^80 B4@46>5^104 A4@55>19^104
+@12 [Bm | Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 F#2@48>1^56 D2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>2^56 B3@33>2^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>5^80 A1@17>4^104 F#1@25>4^104 D2@33>4^104 B1@41>3^104 A1@49>5^104 B1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3@16>17^32 B3+D4+F#4@17>15^80 D4+F#4@29>4^80 B3@32>1^56 F#4@33>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@62>93^56 G3@63>95^80 C4@64>92^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@59>115^80 G3@61>124^104 C4@63>112^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : A4@64>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@15>5^104 D5@21>3^104 B4@27>27^104
+@13 [Am | Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^56 C4@17>2^56 E4@25>2^56 A3@33>3^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 G1@9>3^104 E1@17>4^104 G1@25>3^104 A1@33>4^104 G1@41>3^104 E1@49>3^80 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : A3+C4@16>13^80 E4@17>12^80 A3+C4+E4@29>3^80 A3+C4@33>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@2>90^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@2>115^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : C5@1>8^104 D5@10>14^104 C5@25>4^104 B4@29>11^104 B4@41>16^104 A4@57>49^104
+@14 [Am | D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>2^56 E4@25>2^56 A3@33>2^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>3^104 E1@17>4^104 G1@25>4^104 A1@33>4^104 G1@41>3^104 E1@49>4^104 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3+A3@16>17^80 C4+E4@17>13^80 C4@29>3^80 E4@30>2^80 A3+C4@33>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@62>98^56 A3@63>96^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@62>108^80 A3@64>105^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+B4@64>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : G4@48>10^104 A4@56>8^104
+@15 [Bm | D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>2^56 B3@33>3^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 A1@9>3^104 F#1@17>5^80 A1@25>3^104 B1@33>4^104 A1@41>3^104 F#1@49>5^80 A1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3+B3@16>17^80 D4+F#4@17>13^80 D4@29>3^80 F#4@30>3^80 D4@33>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D4@1>96^104 F#4@2>96^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : D4@2>105^104 F#4@5>101^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : F#4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@1>7^104 B4@9>14^104 B4@25>15^104 A4@41>21^104 B4@64>9^104
+@16 [Bm | Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>2^56 B3@33>2^56 B3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 A1@9>4^104 F#1@17>6^104 A1@25>5^104 D2@33>5^104 B1@41>4^104 A1@49>5^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : B3+D4+F#4@17>16^80 D4+F#4@29>3^80 B3@32>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@60>98^56 G3@61>104^80 C4@63>97^104 E4@64>105^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@61>115^80 G3@63>122^104 C4@64>111^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@9>14^104 B4@26>22^104
+@17 [Am | Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>2^56 E4@25>2^56 A3@33>3^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 G1@9>4^104 E1@17>4^80 G1@25>3^104 A1@33>4^104 G1@41>4^104 E1@49>4^80 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3@16>17^56 A3+C4+E4@17>17^80 E4@29>3^80 C4@33>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@3>110^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+A4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@1>6^104 D5@9>21^104 B4@32>13^104 B4@48>8^104 A4@57>38^104
+@18 [Am | D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>2^56 E4@25>2^56 A3@33>2^56 A3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>4^104 E1@17>4^80 G1@25>3^104 A1@33>4^104 G1@41>4^104 E1@49>4^104 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3+A3+C4+E4@17>15^80 C4+E4@29>3^80 A3+C4+E4@33>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@60>102^80 A3@62>100^80 D4@64>100^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@62>110^80 A3@63>107^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@48>13^104
+@19 [Bm | D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>1^56 B3@33>2^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>3^104 F#1@9>5^80 A1@17>3^80 F#1@25>4^80 B1@33>3^104 F#1@41>6^80 A1@49>4^104 F#1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#4@2>97^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : D4@1>107^104 F#4@3>104^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+B4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>19^104 B5@24>10^104 A5@32>12^104 A5@48>10^104 F#5@56>7^80
+@20 [Bm7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2@40>1^80 F#2+A#4@41>1^80 D#2+F#2@48>1^80 D2+A#4@49>1^104 B1+F#2+A#4@57>1^104 A#4@64>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>2^56 B3@33>2^56 B3@41>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>6^80 A1@17>3^104 F#1@25>5^104 B1@33>4^104 F#1@41>5^80 A1@49>4^104 F#1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@62>104^80 G3@63>114^80 C4@64>99^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@61>105^80 G3@63>107^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#5@1>7^104 F#5@8>9^104 E5@17>7^80 E5@24>11^104 D5@48>16^104 B5@64>8^80
+@21 [Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104 F#2@64>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>2^56 E4@25>2^56 A3@33>2^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 G1@9>4^104 E1@17>4^80 G1@25>4^104 A1@33>4^104 G1@41>4^104 E1@49>4^80 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@1>106^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C4@1>100^104 E4@3>103^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+A4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@8>16^80 A5@25>16^80 A5@41>15^104 F#5@57>38^104
+@22 [C | G7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2@40>1^80 F#2+A#4@41>1^56 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>2^56 E4@25>2^56 A3@33>3^56 A3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>4^104 E1@17>4^104 G1@25>3^104 A1@33>3^104 G1@41>4^104 E1@49>4^80 G1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@61>109^80 A3@63>107^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@61>106^80 A3@63>101^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@41>11^104 D5@53>10^104 B5@64>20^104
+@23 [Bm | D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>2^56 B3@33>3^56 B3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>3^104 D2@9>4^104 B1@17>5^104 A1@25>3^104 B1@33>5^104 F#1@41>4^80 A1@49>4^104 F#1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D4@1>106^104 F#4@4>101^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : D4@1>101^104 F#4@3>99^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+B4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@24>8^104 A5@33>13^104 A5@49>8^80 F#5@57>11^80
+@24 [Bm7 | G7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2@40>1^80 F#2+A#4@41>1^56 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>1^56 B3@33>3^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>3^104 F#1@9>5^80 A1@17>4^104 F#1@25>4^80 D2@33>4^104 B1@41>4^104 A1@49>3^80 F#1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@62>118^80 G3@63>119^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@60>114^80 G3@63>112^80 C4@64>110^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4@64>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#5@7>14^80 E5@32>7^104 D5@41>18^104 B5@64>12^104
+@25 [Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^104 F#2@32>1^56 B1+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^56 C4@17>2^56 E4@25>2^56 A3@33>3^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>3^80 E1@17>4^80 G1@25>4^80 A1@33>5^104 G1@41>4^80 E1@49>3^80 G1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : C4@1>118^104 E4@5>113^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@2>108^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : E4+A4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@15>15^104 A5@32>14^80 A5@49>7^104 G5@57>20^80
+@26 [Am7 | G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2@48>1^104 D2+F#2+A#4@49>1^104 F#2@56>1^56 B1+A#4@57>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>2^56 E4@25>2^80 A3@33>2^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>3^80 E1@17>4^80 G1@25>3^104 A1@33>4^104 G1@41>4^104 E1@49>4^104 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : E5@25>15^104 D5@41>18^104
+@27 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+C#3+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>4^104 G1@17>4^104 G1@25>4^80 G1@33>4^104 G1@41>4^104 G1@49>3^104 G1@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@9>6^56 G4@17>8^56 G3@25>2^56 G3@41>8^56 G4@49>8^80 G3@57>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@1>23^56 B3+D4+G4@17>7^80 G3@41>23^32 B3@42>7^32 B3+D4@49>31^56 G4@50>31^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+G4+B4@1>510^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>51^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>8^56 G4@33>7^56 G4@49>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@1>64^104
+@28 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^80 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D#2@48>1^104 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>3^104 G1@17>3^104 G1@25>3^104 G1@33>3^104 G1@41>4^104 B1@49>9^104 D2@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@9>8^56 G4@17>8^80 G3@25>4^56 G4@41>8^56 G3@49>5^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@16>4^80 G4@17>4^80 G3@41>42^32 B3+D4+G4@49>22^104 E4@64>16^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@26>5^104 D5@33>4^104 D5@41>21^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>8^56 G4@33>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: E5@64>64^104
+@29 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D#2@48>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 E2@9>4^104 E2@17>4^104 E2@25>4^104 E2@33>4^104 E2@41>4^104 B1@49>6^104 D2@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@9>2^56 G4@17>8^80 E4@25>2^56 E4@41>2^56 G4@49>7^80 E4@57>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@16>4^80 E4+G4@17>3^80 G3@40>33^32 B3@41>32^32 E4+G4@49>32^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : E4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>44^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>9^80 G4@17>7^56 G4@33>7^80 G4@49>6^56
+@30 [Em7 | G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D#2@48>1^104 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 B1@9>8^104 D2@17>8^104 B1@25>3^104 E2@33>4^104 D2@41>8^104 B1@49>8^104 A1@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@9>2^56 G4@17>7^80 E4@25>3^56 G4@33>2^56 G4@41>8^80 E4@49>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@9>13^56 B3+E4+G4@17>6^104 G3@41>23^32 B3@48>16^56 E4+G4@49>31^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@41>6^104 D5@49>10^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^80 G4@33>8^80
+@31 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>3^80 G1@17>4^104 G1@25>4^104 G1@33>4^104 G1@41>3^80 G1@49>4^104 G1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@8>2^56 G4@17>8^56 G3@25>3^56 G3@41>2^56 G4@49>6^56 G3@57>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@16>4^104 G4@17>2^80 G3@40>30^32 B3@48>16^56 D4+G4@49>32^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>42^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>7^56 G4@49>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@1>64^104
+@32 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2@40>1^56 A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>3^80 G1@17>3^104 G1@25>4^80 A1@33>3^104 A1@41>3^104 B1@49>7^104 D2@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@9>2^56 G4@17>6^80 G3@25>4^56 G4@33>2^32 G4@41>9^80 G3@49>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@16>4^80 G4@17>4^80 G3@40>43^32 B3@48>16^56 D4+G4@49>31^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@17>17^104 A5@32>16^104 G5@48>12^104 F#5@64>55^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>7^56 G4@33>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@17>16^104 C5@33>16^80 B4@49>16^80
+@33 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>2^104 E2@9>3^104 E2@17>3^104 E2@25>3^104 E2@33>3^104 E2@41>4^104 D2@49>7^104 B1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@9>3^56 G4@17>7^56 E4@25>2^56 G4@49>8^56 E4@57>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+E4@1>16^56 B3+E4+G4@17>3^80 G3@40>44^32 B3@48>16^56 E4+G4@49>32^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : E4@1>126^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : G5@57>5^80 F#5@61>5^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>6^56 G4@33>7^56 G4@49>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: A4@1>56^104 B4@57>4^80 A4@60>4^56
+@34 [Em7 | G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2@48>1^104 D2+A#4@49>1^104 F#2@56>1^56 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>5^104 B1@9>6^104 D2@17>8^104 B1@25>4^104 E2@33>4^104 D2@41>7^104 B1@49>8^104 D2@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G4@17>7^80 E4@25>2^56 G4@41>8^80 E4@49>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+E4@17>4^80 G3@40>20^32 B3@41>8^32 B3+E4@49>12^56 C3+G3@64>59^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : E5@1>33^80 D5@41>6^104 D5@49>12^104 D5@64>15^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^56 G4@33>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4@1>35^80
+@35 [C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+C#3+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>4^104 C2@9>4^104 C2@17>4^104 C2@25>4^104 C2@33>5^104 B1@41>8^104 A1@49>8^104 C2@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : C3+G3@1>8^80 C3@8>7^80 G3@9>7^56 C3@16>16^80 G3@17>8^80 G3@25>15^56 C3@33>12^56 G3@41>8^56 C3@48>8^80 G3@49>8^80 G3@57>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C4@1>16^56 G3@16>32^56 C4@17>31^56 G3@48>11^56 C4@49>10^80 D3@64>16^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : E4+G4+C5@1>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : C5@17>14^104 C5@32>8^104 B4@41>14^104 C5@55>4^80 B4@58>6^80 A4@63>24^80
+@36 [D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : D2@1>3^104 D2@9>4^104 D2@17>6^104 B1@25>5^104 A1@33>4^104 G1@41>5^104 F#1@49>6^104 A1@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D3+A3@1>15^104 D3+A3@17>8^80 D3@24>8^80 A3@25>16^80 D3@32>8^80 D3+A3@41>8^80 D3@48>8^80 A3@49>8^80 A3@57>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : A3+D4@1>16^56 D3@16>8^56 A3+D4@17>32^56 D3@41>15^32 A3+D4@49>9^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+A4@1>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@57>8^104
+@37 [B | Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 F#2@56>1^56 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>5^104 B1@9>5^104 B1@17>5^104 B1@25>4^104 B1@33>5^104 A1@41>6^104 F#1@49>6^104 A1@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : B2+F#3@1>7^80 B2+F#3@9>8^80 B2+F#3@17>8^80 B2+F#3@25>15^80 B2@40>7^56 B2@48>8^80 F#3@49>8^56 B2@56>3^80 F#3@57>3^56 C3@64>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B2+F#3@1>15^32 B2@16>15^80 F#3+B3@17>32^56 B2@41>7^56 B2+F#3+B3@49>11^56 C3@64>16^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+B4@1>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@1>13^104 B4@17>9^104 A4@25>10^104 B4@33>8^104 D5@41>14^104 G4@56>40^104
+@38 [C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>4^104 C2@9>4^104 C2@17>4^104 C2@25>5^104 C2@33>5^104 A1@41>5^104 G1@49>5^104 A1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@1>7^56 C3@8>8^56 G3@9>8^56 C3@16>8^80 G3@17>8^56 C3@24>8^80 G3@25>8^80 C3@32>7^56 G3@33>7^56 C3@40>8^56 G3@41>8^56 C3@48>7^80 G3@49>12^56 C3@57>3^56 C3@64>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C3@16>22^56 G3+C4@17>40^56 C3@48>8^56 C3+G3@56>24^56 C4@57>15^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+G4@1>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D4@41>10^80 D5@49>8^104 D5@57>7^104 D5@64>7^104
+@39 [C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>4^104 C2@9>4^104 C2@17>4^104 C2@25>4^104 C2@33>5^104 A1@41>4^104 G1@49>5^104 C2@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@1>15^56 C3@9>7^56 C3@16>8^80 G3@17>16^80 C3@25>7^56 C3@32>7^56 C3@40>8^80 G3@41>8^56 C3@48>8^80 G3@49>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C3@15>16^56 G3@16>32^56 C4@17>16^56 C3@48>11^56 G3+C4@49>8^56 G3@57>3^56 D3@64>8^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+G4@1>64^56 C5@32>23^56 B4@49>16^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : C5@9>8^104 C5@17>10^104 C5@33>8^104 C5@41>6^104 C5@49>10^104 B4@57>7^104
+@40 [D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : D2@1>5^104 D2@9>4^104 D2@17>5^104 D2@25>5^104 D2@33>6^104 B1@41>7^104 A1@49>6^104 D2@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D3+A3@1>15^80 D3@9>7^80 D3+A3@17>8^80 D3+A3@25>21^80 D3@33>6^56 D3@40>7^56 D3@48>7^80 A3@49>8^80 A3@57>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : A3@3>14^32 D3@9>7^56 D3@16>15^80 A3+D4@17>32^56 D3@41>7^56 D3+A3+D4@49>8^80 B2@64>8^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+A4@1>64^56 D4+B4@64>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@1>9^104 A4@9>8^80 A4@17>8^80 A4@25>16^104 A4@57>7^104
+@41 [B | Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 F#2@48>1^56 D2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>5^104 B1@9>5^104 B1@17>6^104 F#1@25>6^80 A1@33>5^104 A1@41>7^104 B1@49>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : B2+F#3@1>15^56 B2@8>8^80 B2@16>8^80 F#3@17>8^56 B2+F#3@25>8^80 B2@41>7^80 B2+F#3@49>4^104 C3@64>116^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@1>8^56 B2@9>8^56 B2+F#3+B3@17>31^80 F#3@40>8^56 B2@41>7^56 B2+F#3@48>7^80 B3@49>4^56 C3@62>110^56 G3@63>106^80 B3@64>108^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : F#4@1>63^56 B4@64>116^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@1>6^104 B4@9>5^80 B4@17>14^104 B4@33>7^104 D5@41>15^104 G4@64>93^104
+@42 [Em] (grid:32)
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+C#3+A#4@1>1^104 A#4@25>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>120^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@1>102^80 B3@2>51^80 E4@3>29^80 G4@4>29^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@1>116^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : E4+G4@1>116^80
+@43 [Bm7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : A#4@1>1^80 A#4@9>1^56 A#4@17>1^56 D2+A#4@25>1^104 D2+A#4@33>1^104 A#4@41>1^80 D2+A#4@49>1^104 A#4@57>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@61>105^80 A3@62>102^80 D4@63>103^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B2@60>107^56 F#3@62>107^56 A3@63>105^80
+@44 [Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+G3+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>4^80 F#4@25>3^56 B3@33>2^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>5^104 A1@17>4^104 F#1@25>4^80 B1@33>4^104 F#1@41>5^80 A1@49>4^104 F#1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#4@1>102^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : D4@1>106^80 F#4@3>104^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+B4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@16>6^104 A4@21>5^80 B4@27>13^80 B4@42>14^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: B2@1>87^80
+@45 [Bm | Em7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>3^56 F#4@25>3^80 B3@33>3^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>5^80 A1@17>4^104 F#1@25>4^104 D2@33>4^104 B1@41>3^104 A1@49>5^104 B1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@62>93^56 G3@63>95^80 C4@64>92^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@61>100^56 G3@63>97^80 C4@64>94^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@15>6^104 D5@21>6^104 B4@27>21^104 A4@56>7^80 D5@64>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: F#3@23>25^80 G3@47>16^80 A2@63>81^80
+@46 [Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>4^56 C4@17>4^56 E4@25>2^56 A3@33>3^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 G1@9>3^104 E1@17>4^104 G1@25>3^104 A1@33>4^104 G1@41>3^104 E1@49>3^80 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@2>90^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@1>94^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+A4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@8>16^104 C5@25>16^104 B4@41>17^104 A4@56>32^104
+@47 [Em | Am]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>3^56 E4@25>2^56 A3@33>3^56 A3@41>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>3^104 E1@17>4^104 G1@25>4^104 A1@33>4^104 G1@41>3^104 E1@49>4^104 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@62>98^56 A3@63>96^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@59>112^56 A3@61>108^80 D4@62>107^104 F#4@64>105^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@64>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#4@56>9^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: B2@14>18^80 C3@31>17^80 E3@47>16^80 B2@64>89^80
+@48 [D | B7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>4^56 D4@17>2^56 F#4@25>2^56 B3@33>3^56 B3@41>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 A1@9>3^104 F#1@17>5^80 A1@25>3^104 B1@33>4^104 A1@41>3^104 F#1@49>5^80 A1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D4@1>96^104 F#4@2>96^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@1>17^104 A4@24>11^104 B4@33>14^80 A4@56>9^104 B4@64>9^104
+@49 [Bm7 | Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 F#2@32>1^56 B1+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104 F#2@64>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^80 F#4@25>2^56 B3@33>3^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 A1@9>4^104 F#1@17>6^104 A1@25>5^104 D2@33>5^104 B1@41>4^104 A1@49>5^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@60>98^56 G3@61>104^80 C4@63>97^104 E4@64>105^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@61>110^80 G3@63>105^80 C4@64>105^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : A4@64>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@8>15^104 B4@25>23^80 E4@57>8^104 D5@64>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: F#3@24>24^80 G3@47>18^80 A2@64>81^56
+@50 [C | Am]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>2^80 E4@25>2^56 A3@33>3^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 G1@9>4^104 E1@17>4^80 G1@25>3^104 A1@33>4^104 G1@41>4^104 E1@49>4^80 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@2>107^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@8>20^104 C5@33>13^104 B4@48>7^104 A4@57>44^104
+@51 [Em | Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^80 C4@17>3^56 E4@25>1^56 A3@33>3^56 A3@41>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>4^104 E1@17>4^80 G1@25>3^104 A1@33>4^104 G1@41>4^104 E1@49>4^104 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@60>102^80 A3@62>100^80 D4@64>100^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@62>105^56 A3@63>104^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+B4@64>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@57>8^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: B2@16>17^80 C3@32>17^80 E3@48>16^80 B2@64>90^80
+@52 [Bm | D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^80 D4@17>2^56 F#4@25>2^56 B3@33>3^80 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>3^104 F#1@9>5^80 A1@17>3^80 F#1@25>4^80 B1@33>3^104 F#1@41>6^80 A1@49>4^104 F#1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#4@2>97^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : D4@1>100^80 F#4@3>98^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : F#4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>20^104 B5@24>7^104 A5@32>7^104 A5@41>14^104 F#5@56>16^104
+@53 [Bm7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104 F#2@64>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>3^80 F#4@25>2^56 B3@33>2^56 B3@41>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>6^80 A1@17>3^104 F#1@25>5^104 B1@33>4^104 F#1@41>5^80 A1@49>4^104 F#1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@62>104^80 G3@63>114^80 C4@64>99^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@63>99^80 C4@64>97^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : E4@64>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#5@8>19^80 E5@32>9^104 D5@40>15^104 B5@55>23^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: F#3@23>25^56 G3@47>17^80 A2@63>81^56
+@54 [Em | A]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2@8>1^56 A#4@9>1^80 F#2@16>1^56 D2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^56 C4@17>2^80 E4@25>2^56 A3@33>3^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 G1@9>4^104 E1@17>4^80 G1@25>4^104 A1@33>4^104 G1@41>4^104 E1@49>4^80 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@1>106^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@2>95^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+A4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@15>10^104 A5@25>16^104 A5@41>14^80 F#5@56>25^80
+@55 [Em | Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>2^80 C4@17>2^56 E4@25>2^80 A3@33>3^56 A3@41>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>4^104 E1@17>4^104 G1@25>3^104 A1@33>3^104 G1@41>4^104 E1@49>4^80 G1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : F#3@61>109^80 A3@63>107^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B2@58>108^80 F#3@60>109^56 A3@61>104^80 D4@63>102^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@64>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@42>11^104 D5@54>9^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: B2@15>18^80 C3@31>17^80 E3@47>16^80 B2@64>89^80
+@56 [Bm | D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>2^56 B3@33>3^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>3^104 D2@9>4^104 B1@17>5^104 A1@25>3^104 B1@33>5^104 F#1@41>4^80 A1@49>4^104 F#1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D4@1>106^104 F#4@4>101^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#4@1>96^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>16^104 B5@17>13^104 A5@32>15^104 A5@49>9^104 F#5@57>15^104
+@57 [Bm7 | Em7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^80 D4@17>2^56 F#4@25>2^56 B3@33>3^56 B3@41>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>3^104 F#1@9>5^80 A1@17>4^104 F#1@25>4^80 D2@33>4^104 B1@41>4^104 A1@49>3^80 F#1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E3@62>118^80 G3@63>119^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@60>102^80 G3@62>101^80 C4@64>101^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#5@8>15^104 E5@33>8^104 D5@41>12^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: F#3@24>25^80 G3@48>16^80 A2@64>82^56
+@58 [Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 F#2@56>1^56 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^56 C4@17>3^80 E4@25>2^56 A3@33>3^56 A3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>3^80 E1@17>4^80 G1@25>4^80 A1@33>5^104 G1@41>4^80 E1@49>3^80 G1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : C4@1>118^104 E4@5>113^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@2>100^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+A4@1>123^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>6^104 B5@8>22^80 A5@32>8^80 A5@41>16^80 G5@57>18^80
+@59 [Em | Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2@8>1^56 A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2@48>1^104 D2+A#4@49>1^104 B1+F#2+A#4@57>1^104 C#3@63>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^56 C4@17>2^56 E4@25>2^56 A3@33>2^56 A3@41>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>3^80 E1@17>4^80 G1@25>3^104 A1@33>4^104 G1@41>4^104 E1@49>4^104 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@64>122^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : E5@17>2^80 E5@23>11^104 D5@32>7^80 D5@40>8^80 B5@64>49^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#12: B2@15>17^80 C3@31>18^80 E3@48>14^80
+@60 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>3^104 G1@17>4^104 G1@25>4^104 G1@33>4^104 G1@41>4^80 G1@49>4^104 G1@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@9>6^56 G4@17>8^56 G3@25>2^56 G3@41>8^56 G4@49>8^80 G3@57>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@1>48^56 G4@17>32^32 B3+D4+G4@49>64^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G3@17>108^56 B3@30>94^56 D4@49>16^80 G4@64>9^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>9^56 G4@33>8^56 G4@49>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@1>64^104
+@61 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^80 G1@9>4^80 G1@17>4^80 G1@25>4^80 B1@33>4^104 B1@41>4^104 B1@49>5^104 D2@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@9>8^56 G4@17>8^80 G3@25>4^56 G4@41>8^56 G3@49>5^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@17>31^56 B3+D4+G4@49>9^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4@9>4^56 G4@12>3^56 D4@16>10^56 G4@25>7^56 G4@33>9^56 D4@41>4^56 G4@44>4^56 D4@48>12^56 G4@57>9^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@24>7^80 D5@32>6^80 D5@41>19^104 B5@64>50^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^56 G4@33>7^56
+@62 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^80 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D#2@48>1^104 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 E2@9>4^104 E2@17>4^104 E2@25>4^104 E2@33>4^104 E2@41>4^104 E2@49>4^104 E2@57>3^104 B1@61>3^104 E2@64>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@9>2^56 G4@17>8^80 E4@25>2^56 E4@41>2^56 G4@49>7^80 E4@57>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>15^56 E4@2>15^56 B3+E4@17>32^80 G4@18>32^80 G3@41>22^32 B3+E4@49>32^80 G4@50>63^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G3@17>107^56 B3@33>92^56 F#4@48>8^56 E4@56>9^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>8^56 G4@33>7^56 G4@49>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: E5@1>64^80
+@63 [Em | G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@9>3^104 E2@13>4^104 D2@17>8^104 B1@25>3^104 D2@33>4^104 D2@41>3^104 D2@45>4^80 B1@49>8^104 A1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@9>2^56 G4@17>7^80 E4@25>3^56 G4@33>2^56 G4@41>8^80 E4@49>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@17>31^56 G3@40>23^32 B3@48>14^56 E4+G4@49>14^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@1>8^56 E4@9>4^56 G4@13>6^56 E4@17>12^56 G4@24>6^56 G4@32>9^56 E4@41>4^56 G4@45>4^56 E4@48>8^56 G4@57>9^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@25>7^80 D5@32>5^80 D5@40>18^80 B5@64>48^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>7^56 G4@33>6^56
+@64 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2@8>1^56 A#4@9>1^56 F#2+A#4@16>1^56 D2@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>4^104 G1@17>4^104 G1@25>4^80 G1@33>4^104 G1@41>3^80 G1@49>4^104 G1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@8>2^56 G4@17>8^56 G3@25>3^56 G3@41>2^56 G4@49>6^56 G3@57>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@16>24^32 B3+D4@17>31^56 B3+D4+G4@49>64^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G3@16>111^56 B3@29>96^56 D4@46>16^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>5^56 G4@17>8^56 G4@32>6^56 G4@48>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@1>64^80
+@65 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>3^80 G1@17>4^104 G1@25>4^104 A1@33>4^104 B1@41>4^104 B1@49>3^104 C2@53>4^104 D2@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@9>2^56 G4@17>6^80 G3@25>4^56 G4@33>2^32 G4@41>9^80 G3@49>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@17>32^56 B3+D4+G4@49>18^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@1>8^56 D4@8>4^56 G4@12>4^56 D4@17>10^56 G4@24>6^56 G4@32>8^56 D4@41>4^56 G4@45>4^80 D4@48>8^56 G4@56>9^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@16>15^104 A5@32>16^104 G5@48>15^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>7^56 G4@33>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@17>16^104 C5@32>16^80 B4@49>16^80
+@66 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D#2@48>1^104 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>3^104 E2@9>4^104 E2@17>3^104 E2@25>3^104 E2@33>4^104 E2@41>7^104 D2@49>8^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E4@9>3^56 G4@17>7^56 E4@25>2^56 G4@49>8^56 E4@57>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@16>23^32 B3+E4@17>32^80 G4@18>31^32 B3+E4@49>56^80 G4@50>31^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G3@17>110^56 B3@33>94^56 F#4@49>9^56 E4@57>9^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#5@1>55^104 G5@57>5^80 F#5@61>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>6^56 G4@33>7^56 G4@48>6^56 G4@64>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: A4@1>56^80 B4@57>4^80 A4@61>4^56
+@67 [Em7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 F#2@16>1^56 D2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2@48>1^104 D2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 E2@9>8^104 D2@17>8^104 B1@25>8^104 D2@33>4^104 D2@41>7^104 B1@49>7^104 D2@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G4@17>7^80 E4@25>2^56 G4@41>8^80 E4@49>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4+G4@17>32^56 B3@48>4^80 E4+G4@49>3^80 G3@64>15^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@1>8^56 E4@9>4^56 G4@13>4^56 E4@17>10^56 G4@25>7^56 G4@32>9^56 E4@41>5^56 G4@45>4^56 E4@49>9^56 G4@56>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : E5@1>38^80 D5@41>4^104 D5@49>14^104 D5@64>15^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@17>7^56 G4@33>5^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4@1>36^80
+@68 [C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+G3+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>3^104 C2@9>3^104 C2@17>7^104 A1@25>5^80 C2@33>4^104 C2@41>6^104 A1@49>9^104 C2@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : C3+G3@1>8^80 C3@8>7^80 G3@9>7^56 C3@16>16^80 G3@17>8^80 G3@25>15^56 C3@33>12^56 G3@41>8^56 C3@48>8^80 G3@49>8^80 G3@57>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@15>26^56 C4@16>33^56 C3@40>16^56 G3+C4@49>10^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : E4+G4+C5@1>64^56 F#4@64>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : C5@17>11^104 C5@33>8^104 B4@41>13^104 C5@56>5^80 B4@60>4^80 A4@64>36^104
+@69 [D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^104 F#2@32>1^56 B1+A#4@33>1^104 F#2@40>1^56 A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : D2@1>4^104 A1@9>6^104 G1@13>6^104 F#1@17>7^104 A1@25>5^104 G1@29>6^104 F#1@33>6^104 F#1@41>8^104 G1@49>8^104 A1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D3+A3@1>15^104 D3+A3@17>8^80 D3@24>8^80 A3@25>16^80 D3@32>8^80 D3+A3@41>8^80 D3@48>8^80 A3@49>8^80 A3@57>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : D3+A3@1>16^32 D4@2>15^32 D3@9>7^32 D3+A3+D4@17>31^80 D4@49>8^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+A4@1>64^56 F#4+B4@64>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@56>8^104 B4@64>14^104
+@70 [B | Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 F#2@16>1^56 D2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>5^104 B1@9>4^80 B1@17>5^80 B1@25>5^80 B1@33>5^104 B1@41>5^80 B1@49>6^104 B1@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : B2+F#3@1>7^80 B2+F#3@9>8^80 B2+F#3@17>8^80 B2+F#3@25>15^80 B2@40>7^56 B2@48>8^80 F#3@49>8^56 B2@56>3^80 F#3@57>3^56 C3@64>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B2+F#3@1>8^32 B2@8>8^56 B2+F#3+B3@17>23^56 B2@40>17^56 B3@49>8^56 C3@64>16^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4@1>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@16>10^80 A4@25>9^80 B4@32>8^104 D5@41>15^104 G4@57>40^104
+@71 [C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 F#2@56>1^56 B1+A#4@57>1^104 F#2@64>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>3^104 C2@9>4^104 C2@17>3^104 C2@25>3^104 A1@29>4^104 C2@33>3^104 C2@41>4^104 A1@49>6^104 C2@57>3^104 A1@61>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@1>7^56 C3@8>8^56 G3@9>8^56 C3@16>8^80 G3@17>8^56 C3@24>8^80 G3@25>8^80 C3@32>7^56 G3@33>7^56 C3@40>8^56 G3@41>8^56 C3@48>7^80 G3@49>12^56 C3@57>3^56 C3@64>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@1>15^56 C3@16>24^56 G3+C4@17>44^56 C3@41>7^32 C3@49>11^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+G4@1>126^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@40>6^104 D5@49>6^80 D5@57>6^104
+@72 [C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2@8>1^56 A#4@9>1^80 F#2@16>1^56 D2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2@40>1^56 A#4@41>1^80 F#2@48>1^56 D2+A#4@49>1^104 F#2@56>1^56 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>3^104 C2@9>4^104 C2@17>4^104 C2@25>3^104 A1@29>4^104 C2@33>4^104 C2@41>4^104 C2@49>7^104 A1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@1>15^56 C3@9>7^56 C3@16>8^80 G3@17>16^80 C3@25>7^56 C3@32>7^56 C3@40>8^80 G3@41>8^56 C3@48>8^80 G3@49>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C3+G3@1>38^56 G3+C4@17>24^56 C3@40>8^56 G3@41>8^32 C3+G3@48>9^80 C4@49>8^80 D3@64>7^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C5@33>24^56 B4@49>16^56 D4@64>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@1>7^104 C5@8>6^104 C5@16>12^104 C5@33>5^80 C5@40>6^80 C5@48>8^104 B4@56>6^80 B4@64>13^104
+@73 [D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : D2@1>3^104 D2@9>3^104 D2@17>8^104 B1@25>4^104 D2@33>4^104 D2@41>3^104 D2@49>5^104 C2@53>5^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D3+A3@1>15^80 D3@9>7^80 D3+A3@17>8^80 D3+A3@25>21^80 D3@33>6^56 D3@40>7^56 D3@48>7^80 A3@49>8^80 A3@57>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : A3@1>16^32 D3@16>23^56 A3+D4@17>24^56 D3@41>15^80 A3@48>9^56 D4@49>8^56 B2@64>16^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : F#4+A4@1>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@16>8^80 A4@25>6^80 B4@29>10^80 A4@57>4^104
+@74 [Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2@8>1^56 A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2@48>1^104 D2+F#2+A#4@49>1^104 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 B1@9>4^104 B1@17>4^104 B1@25>4^104 B1@33>4^104 B1@41>4^104 B1@49>4^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : B2+F#3@1>15^56 B2@8>8^80 B2@16>8^80 F#3@17>8^56 B2+F#3@25>8^80 B2@41>7^80 B2+F#3@49>4^104 C3@64>116^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : F#3@1>16^32 B2@16>14^56 F#3+B3@17>31^80 B2+F#3@48>6^56 B3@49>3^80 C3+G3@63>100^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+B4@1>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@1>6^104 A4@9>4^80 B4@16>12^104 B4@32>7^104 D5@40>23^104 G4@64>95^104
+@75 [Em] (grid:32)
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 A#4@9>1^80 A#4@17>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>57^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G3@1>102^80 B3@2>51^80 E4@3>29^80 G4@4>29^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>49^80 E4@2>48^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : E4+G4+B4@1>65^56
+@76 [C7 | Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : A#4@1>1^80 A#4@17>1^80 D2@24>1^104 D2@25>1^104 D2+A#4@33>1^104 A#4@41>1^80 D2+G3+A#4@49>1^104 A#4@57>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E4@64>39^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@63>24^56 B3@64>16^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G3+B3+C4+E4@1>61^80
+@77 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+C#3+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 B1@9>4^104 D2@17>6^104 B1@25>4^80 E2@33>4^104 B1@41>4^80 D2@49>6^104 B1@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E4@40>16^104 E4@56>16^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@2>15^80 G4@3>40^56 E3@25>14^32 B3@40>16^56 E4@48>8^56 G4@49>8^56 B3+E4@56>66^80 G4@57>24^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B3+E4+G4@1>127^80
+@78 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2+F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 E2@9>8^104 B1@17>7^104 D2@25>5^104 E2@33>4^104 B1@41>4^104 D2@49>8^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : D4@9>7^104 D4@17>4^104 E4@20>4^104 D4@23>5^104 B3@26>7^104 B3@33>8^104 A3@40>9^104 G3@48>3^104 A3@51>3^104 G3@54>4^104 F#3@57>8^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3+E4+G4@17>32^56 E3@41>16^56 E4@48>9^80 G4@49>8^80 A3@64>40^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@64>128^56
+@79 [Em | Am]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2@40>1^80 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 A1@9>8^104 E1@17>7^104 G1@25>6^104 A1@33>4^104 E1@41>5^104 G1@49>6^104 E1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : G3@1>8^80 E3@9>14^104 F#3@17>12^104 G3@25>12^104 A2@33>13^104 B2@41>14^104 C3@49>12^104 D3@57>12^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C4+E4@1>47^56 C4@48>15^56 E4+A4@49>15^80 E4@64>48^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4@1>127^56
+@80 [C | Am]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2@40>1^104 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>3^104 G1@9>4^104 E1@17>5^104 G1@25>5^104 A1@33>5^104 A1@41>4^104 B1@49>8^104 D2@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3@1>12^80 G3@8>15^104 A3@16>13^80 C4@24>14^104 D4@33>12^104 E4@40>14^104 G4@48>9^104 F#4@57>64^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : A3@39>8^56 A3@48>10^56 C4+E4+A4@49>8^80 E3+B3@64>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@56>3^80 E6@64>6^80
+@81 [G | Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2@8>1^56 A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 F#2@32>1^56 B1+A#4@33>1^104 D#2@40>1^80 F#2+A#4@41>1^80 D#2@48>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104 F#2@64>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>3^104 B1@9>4^104 D2@17>5^104 C2@21>5^104 B1@25>4^104 E2@33>3^104 E2@41>3^104 B1@45>4^104 D2@49>6^104 C2@53>4^104 B1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : G5+B5+E6@56>66^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4+G4@1>48^56 E4+G4@49>15^56 E3+B3@63>56^56 E4@64>23^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B3+E4+G4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B5@16>39^80
+@82 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2@8>1^56 A#4@9>1^56 F#2@16>1^80 D2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^80 B1+F#2+A#4@33>1^104 D#2@40>1^104 F#2+A#4@41>1^80 D#2@48>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104 F#2@64>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>3^104 B1@9>4^104 D2@17>4^104 B1@25>4^104 E2@33>4^104 B1@41>4^104 D2@49>7^104 E2@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : B4@64>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E4@23>25^56 G4@24>25^56 B3@48>10^56 E4+G4@49>8^80 A3@64>64^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: G6@9>4^80 F#6@12>4^80 G6@16>4^80 B5@40>4^80 D6@49>8^80 E6@56>4^56 B5@64>7^56
+@83 [Am]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2+F#2+A#4@41>1^80 D#2@48>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 A1@9>5^80 A1@17>4^104 A1@25>4^104 A1@33>4^104 A1@41>5^104 A1@49>4^104 A1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : A4@8>32^104 G4@40>10^104 A4@49>9^104 B4@56>31^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C4+E4@1>47^80 C4+E4@48>17^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+G4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@8>7^80 C6@16>37^80
+@84 [Am7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2@40>1^56 D#2+A#4@41>1^104 D2@48>1^104 D2+D#2+F#2+A#4@49>1^104 F#2@56>1^56 B1+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 A1@9>4^104 A1@17>4^104 A1@25>4^104 A1@33>4^104 A1@41>4^104 A1@49>6^104 G1@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : B4@24>11^104 A4@33>15^104 G4@49>15^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C4@1>47^56 E4@2>47^56 A3@40>12^56 C4+E4@49>4^80 C3+G3@64>23^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@1>6^80 C6@4>6^80 B5@8>5^80 A5@11>4^80 B5@16>8^80 A5@24>2^80 A5@32>9^80 G5@40>3^80 G5@48>9^80 F#5@56>4^56 E5@64>39^80
+@85 [C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+C#3+A#4@1>1^104 F#2@8>1^56 A#4@9>1^56 F#2@16>1^56 D2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D#2@48>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>4^104 C2@9>3^104 C2@17>10^104 A1@25>7^104 C2@33>4^104 C2@41>6^104 D2@49>10^104 E2@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3@1>17^104 E4@9>20^104 C4@17>13^104 G3@25>23^104 D3@33>10^104 E3@41>10^104 B3@49>17^104 G3@57>9^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : C4@1>23^56 C3@23>16^32 G3+C4@24>24^56 C3@40>16^56 G3+C4@49>9^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+G4@1>64^80 A4@64>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: C5@40>9^80 E5@48>9^80 G5@55>9^80 F#5@64>10^80
+@86 [D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D#2@48>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : D2@1>3^104 D2@9>3^104 D2@17>8^104 B1@25>7^104 D2@33>3^104 D2@41>3^104 D2@49>8^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : D3@1>23^104 A3@9>10^104 G3@17>10^104 F#3@25>10^104 A3+D4@33>11^104 G3@41>9^104 A3+D4@49>10^104 F#3@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : D3+A3@1>39^56 A3@16>32^56 D4@17>32^56 D3@40>8^56 D3@48>9^56 A3+D4@49>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4@1>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D5@7>13^80 D5@24>8^80 F#5@32>10^80 G5@40>9^80 A5@48>9^80 F#5@55>8^80
+@87 [Bm]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 F#2@24>1^56 B1+A#4@25>1^80 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D#2+F#2@48>1^104 D2+A#4@49>1^104 F#2@56>1^56 B1+A#4@57>1^104 C#3@64>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 B1@9>4^104 B1@17>6^104 F#1@25>5^104 A1@29>4^104 B1@33>6^104 B1@41>7^104 A1@49>7^104 B1@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : B2@1>10^104 B3+D4@9>18^104 F#3@25>8^104 B3+C#4@33>11^104 D4@41>3^104 B3+D4@49>12^104 C3+G3@63>113^104 B3@64>112^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B2+F#3@1>16^32 B2@16>23^56 F#3+B3@17>8^56 F#3+B3@25>23^56 B2@40>13^56 F#3@48>8^56 B3@49>3^80 C3@63>115^80 G3@64>113^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B3+D4+F#4@1>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B5@24>3^104 B5@32>16^104 D6@48>8^104 B5@57>8^80 E6@64>116^104
+@88 [E] (grid:4)
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 A#4@4>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : C2@1>110^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E4@1>7^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+E4@1>111^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B3+C4+E4@1>113^56
+@89 [D]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : D2+A#4@1>1^104 D2@9>1^104 A#4@17>1^80 D2@25>1^104 D2+A#4@33>1^104 A#4@41>1^56 D2+A#4@49>1^104 A#4@57>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3@60>112^56 A3@62>110^80 D4@63>110^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@49>15^104
+@90 [Bm7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+C#3+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^56 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>3^56 F#4@25>2^56 B3@33>1^56 B3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>5^104 A1@17>4^104 F#1@25>5^80 B1@33>4^104 F#1@41>5^80 A1@49>4^104 F#1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#4@1>108^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+B4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>21^104 B5@24>10^104 A5@33>14^104 A5@49>16^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B5@48>114^56
+@91 [D | G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 F#2@32>1^56 B1+A#4@33>1^104 F#2@40>1^56 D#2+A#4@41>1^104 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^80 D4@17>3^80 F#4@25>3^80 B3@33>3^56 B3@41>2^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>5^104 A1@17>4^104 F#1@25>4^104 D2@33>4^104 B1@41>4^104 A1@49>6^104 B1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E3@61>114^80 G3@63>113^80 C4@64>109^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#5@1>6^104 F#5@9>14^104 E5@25>19^104 D5@50>15^80 B5@64>6^104
+@92 [Am]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^56 C4@17>3^56 E4@25>2^56 A3@33>3^56 A3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>3^104 G1@9>4^104 E1@17>4^104 G1@25>3^104 A1@33>4^104 G1@41>3^80 E1@49>5^104 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E4@2>111^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+A4@1>127^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@9>14^104 A5@25>13^104 A5@40>14^104 F#5@57>33^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: C6@32>34^56
+@93 [D | Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2+F#2+A#4@41>1^104 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^56 C4@17>2^56 E4@25>2^56 A3@33>3^56 A3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 G1@9>3^80 E1@17>4^104 G1@25>3^104 A1@33>4^104 G1@41>3^104 E1@49>5^80 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : F#3@62>110^56 A3@63>107^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B4@41>10^104 D5@52>12^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@1>33^56 E6@33>32^56 F#6@64>98^56
+@94 [Bm | F#m]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 F#2@16>1^56 D2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@9>3^56 D4@17>2^56 F#4@25>2^56 B3@33>3^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>6^80 A1@17>5^104 F#1@25>6^80 B1@33>5^104 F#1@41>5^80 A1@49>6^104 F#1@57>5^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : D4@1>104^80 F#4@2>93^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+F#4+B4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>20^104 B5@24>7^104 A5@33>14^104 A5@48>9^80 F#5@57>9^80
+@95 [D | G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2@40>1^80 F#2+A#4@41>1^80 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104 F#2@64>1^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : B3@8>4^56 D4@17>4^80 F#4@25>2^56 B3@33>3^56 B3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : B1@1>4^104 F#1@9>6^80 A1@17>6^104 F#1@25>4^80 D2@33>5^104 B1@41>5^104 A1@49>5^104 B1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : G3@61>106^80 C4@63>97^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#5@5>30^80 E5@34>14^104 D5@49>14^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: G6@33>34^56
+@96 [Em | A7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 F#2+A#4@41>1^80 D2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^56 C4@17>3^56 E4@25>3^80 A3@33>3^56 A3@41>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>5^104 G1@9>4^104 E1@17>4^80 G1@25>3^104 A1@33>5^104 G1@41>4^104 E1@49>4^80 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#5 : E4@1>102^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : C4+E4+A4@1>128^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>12^104 B5@16>14^104 A5@32>7^80 A5@41>14^80 G5@57>20^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: E6@1>64^56 D6@64>33^56
+@97 [Am | C]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^80 D2+F#2+A#4@17>1^104 B1+F#2+A#4@25>1^104 B1+F#2+A#4@33>1^104 D#2+F#2+A#4@41>1^104 D2+D#2+F#2+A#4@49>1^104 B1+F#2+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#3 : A3@9>3^56 C4@17>2^56 E4@25>2^56 A3@33>3^56 A3@41>2^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : A1@1>4^104 A1@9>4^80 A1@17>4^80 A1@25>4^80 A1@33>4^80 G1@41>5^104 G1@49>5^104 G1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@64>32^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : E5@24>7^80 D5@32>6^80 D5@41>21^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: C6@33>29^56
+@98 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+C#3+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>4^104 G1@17>5^104 G1@25>4^104 G1@33>5^104 G1@41>4^104 G1@49>4^104 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>4^56 G2+D3@9>3^32 G2+D3@17>3^32 G2+D3@25>4^56 G2+D3@33>5^56 G2+D3@41>4^56 G2+D3@49>6^56 D3@56>5^56 G2@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>8^56 B3+D4@17>32^80 G4@18>103^32 G3@40>32^56 B3@50>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+G4+B4@1>63^56 D4@17>15^56 D4@33>14^56 D4@49>7^56 D4@57>23^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^80 G4@17>7^56 G4@33>8^56 G4@49>8^56
+@99 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^56 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>4^104 G1@17>4^104 G1@25>5^104 B1@33>6^104 C2@37>5^104 D2@41>7^104 E2@49>8^104 B1@57>7^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>13^56 G2@9>4^56 G2+D3@17>4^56 G2+D3@24>4^56 G2+D3@33>5^56 G2+D3@40>4^56 G2+D3@48>5^56 G2+D3@56>4^56 E2+B2@64>6^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3@9>49^56 B3+D4@17>32^80 B3+D4@49>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>64^56 D4@16>13^56 D4@30>18^56 D4@49>17^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^56 G4@33>7^56 G4@49>7^56
+@100 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E1@1>3^104 E1@9>4^104 E1@17>4^104 E1@25>4^104 E1@33>5^104 E1@41>5^104 E1@49>4^104 E1@57>6^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@8>4^56 E2@16>5^56 B2@17>3^56 E2+B2@25>5^56 E2+B2@33>4^56 E2+B2@41>4^32 E2+B2@49>4^56 E2+B2@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3@8>71^32 G3@16>16^56 B3@17>24^56 G3@48>8^80 B3+E4@49>32^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>10^80 G4@9>6^56 F#4@13>6^56 E4@17>8^56 E4@25>8^56 B4@32>10^56 G4@41>7^56 F#4@44>6^56 E4@48>8^56 E4@57>12^56 B4@64>10^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^56 G4@33>8^56 G4@49>7^56
+@101 [Em7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^56 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 E2@9>3^104 E2@17>6^104 D2@25>4^104 E2@33>4^104 D2@41>4^104 B1@49>6^104 D2@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>5^56 E2+B2@9>3^56 E2+B2@17>3^56 E2+B2@25>4^56 E2+B2@33>4^56 E2+B2@41>3^56 E2+B2@49>4^56 E2+B2@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B2+E3+G3@16>40^80 B3@17>32^80 B2@39>8^56 G3+B3@49>14^80 G3@56>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@8>7^56 F#4@13>6^56 E4@16>5^56 E4@22>11^56 B4@32>10^56 G4@41>7^56 F#4@45>6^56 E4@48>8^56 E4@57>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@24>8^104 B4@31>8^80 D5@40>12^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^56 G4@33>8^56 G4@49>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: A3@24>8^80 B3@31>8^80 D4@40>25^80
+@102 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^56 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>3^104 G1@17>4^104 G1@25>4^104 G1@33>4^104 G1@41>3^80 G1@49>4^104 G1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>5^80 G2+D3@9>4^56 G2+D3@17>4^56 G2+D3@25>5^56 G2+D3@33>5^56 G2+D3@41>4^56 G2+D3@49>4^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G2+D3@1>8^56 G2@9>56^56 G3+B3+D4+G4@17>105^80 B3@49>32^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>64^56 D4@17>15^56 D4@33>16^56 D4@48>8^56 D4@56>23^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^56 G4@33>8^56 G4@49>7^56
+@103 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 F#2@16>1^80 D2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>3^80 G1@17>3^104 G1@25>4^80 B1@33>5^104 C2@37>5^104 D2@41>6^80 B1@49>9^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>5^56 G2+D3@9>5^56 G2+D3@17>5^56 G2+D3@24>5^56 G2+D3@32>5^56 G2+D3@40>4^56 G2+D3@48>5^56 G2+D3@56>4^56 E2+B2@64>5^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G2@1>56^56 B3+D4@17>39^56 B3@50>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>64^56 D4@17>15^56 D4@33>15^56 D4@48>17^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>7^56 G4@33>7^56 G4@49>7^56
+@104 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E1@1>4^104 E1@9>4^104 E1@17>4^104 E1@25>4^104 E1@33>4^104 E1@41>5^104 B1@49>5^104 C2@53>4^104 D2@57>8^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@8>4^56 E2@16>4^32 B2@17>3^56 E2+B2@24>5^56 E2+B2@33>4^56 E2+B2@41>4^56 E2+B2@49>4^56 E2+B2@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E2@1>30^56 B2@9>30^56 E3+G3+B3+E4@17>88^56 B2@40>7^56 G3@48>33^80 B3@49>8^80 B3@57>16^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>10^56 G4@9>8^56 F#4@13>7^56 E4@16>8^56 E4@25>10^56 B4@33>10^56 G4@41>6^56 F#4@45>7^56 E4@49>7^56 E4@57>10^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>7^56 G4@49>7^56
+@105 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 F#2@24>1^56 B1+F#3+A#4@25>1^104 F#2@32>1^80 B1+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104 C#3@64>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>5^104 E1@9>4^104 E1@17>5^104 E1@25>4^104 E1@33>6^104 B1@41>6^104 D2@49>6^104 B1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>5^80 E2+B2@9>4^56 E2@16>5^56 B2@17>4^56 E2@24>6^56 B2@25>4^80 E2@32>4^32 B2@33>3^56 E2+B2@40>5^56 E2+B2@48>5^80 E2+B2@56>4^56 G2+D3@64>5^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B2@2>38^56 G3@17>31^56 E4@18>31^32 E2+B2@40>24^80 E3+G3+B3+E4@49>14^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>10^56 G4@9>6^56 F#4@13>6^56 E4@17>8^56 E4@25>10^56 B4@32>10^56 G4@41>6^56 F#4@45>6^56 E4@48>7^56 E4@57>8^56 G4+B4@64>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : G5@40>7^104 G5@49>14^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^56 G4@33>7^56 G4@49>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4@40>8^104 G4@49>16^104
+@106 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>4^80 G1@17>4^80 G1@25>4^80 G1@33>4^104 G1@41>4^80 G1@49>4^104 G1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : D3@8>4^56 G2@9>3^56 D3@16>4^56 G2@17>3^56 G2+D3@24>5^56 D3@32>5^32 G2@33>3^56 D3@40>4^56 G2@41>4^56 G2+D3@49>5^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G2@1>55^80 D3@2>14^80 D3@16>24^80 G3+B3+D4@17>105^80 D3@40>7^56 D3@48>9^56 B3@49>32^56 G2+D3@57>23^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4@16>15^56 D4@32>16^56 D4@48>8^56 D4@57>23^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : G5@1>15^104 D5@17>14^104 D5@33>8^104 D5@42>12^104 D5@57>23^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>8^56 G4@33>7^56 G4@49>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4@1>16^104 D4@17>16^104 D4@33>9^104 D4@42>15^104 D4@57>40^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@1>105^56
+@107 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>3^104 G1@17>4^80 G1@25>4^104 G1@33>3^104 G1@41>4^104 B1@49>5^104 C2@53>4^104 D2@57>8^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>5^56 D3@8>4^56 G2@9>3^56 G2+D3@17>4^56 G2+D3@25>5^56 D3@32>4^32 G2@33>4^56 G2+D3@40>4^56 G2+D3@49>5^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G2@16>24^56 D3+B3@17>32^56 G2@40>16^80 B3@49>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>65^56 D4@16>16^56 D4@33>15^56 D4@48>16^56 B4@64>10^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : G5@40>6^104 G5@49>13^104 G5@64>12^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>8^56 G4@17>8^56 G4@33>7^56 G4@49>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4@41>8^104 G4+A4@49>16^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: G6@41>57^56
+@108 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>5^104 E1@9>4^104 E1@17>5^80 E1@25>4^80 E1@33>4^80 E1@41>5^80 E1@49>6^80 B1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>5^56 E2@8>4^32 B2@9>3^56 E2@16>4^32 B2@17>3^56 E2@24>4^56 B2@25>4^80 E2@32>4^56 B2@33>3^56 E2+B2@41>4^56 E2+B2@49>4^56 E2+B2@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E2+B2@9>116^56 G3+B3@17>32^56 B2@41>7^56 B2@48>8^56 E3+B3@49>32^56 B2@57>60^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@8>6^56 F#4@13>7^56 E4@17>8^56 E4@25>11^56 B4@33>10^56 G4@41>6^56 F#4@45>6^56 E4@49>8^56 E4@57>10^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : E5@16>12^104 E5@33>6^104 E5@41>12^104 E5@57>21^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>7^56 G4@33>8^56 G4@49>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4+B4@1>16^104 E4+G4@17>16^104 E4+G4@33>8^80 E4+G4@41>16^104 E4+G4@57>40^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: F#6@33>32^56
+@109 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : D2@1>5^104 B1@9>4^80 D2@17>5^104 B1@25>4^80 D2@33>4^104 B1@41>4^104 D2@49>5^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^80 E2@8>4^32 B2@9>3^56 E2@16>3^32 B2@17>3^56 E2+B2@24>5^56 E2@32>4^56 B2@33>3^56 E2@40>4^56 B2@41>3^56 E2+B2@49>4^56 E2@56>3^56 B2@57>3^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3+G3+B3@17>37^56 G3+B3@48>15^80 E4@49>14^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>10^56 G4@9>7^56 F#4@13>5^56 E4@16>8^56 E4@25>9^56 B4@33>9^56 G4@41>8^56 F#4@45>6^56 E4@49>8^56 E4@57>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : G5@41>5^104 G5@48>14^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>7^56 G4@33>7^56 G4@49>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4@41>8^104 G4+A4@49>16^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: E6@1>64^56
+@110 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2@40>1^56 F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>4^80 G1@17>4^104 G1@25>4^80 G1@33>4^80 G1@41>4^80 G1@49>4^104 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>4^56 G2+D3@9>4^56 G2+D3@17>3^56 G2+D3@25>4^56 G2+D3@33>4^56 G2+D3@41>3^56 G2+D3@49>4^56 G2+D3@57>3^56 G2+D3@64>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>30^56 D4@2>15^32 D4+G4@17>95^80 B3@40>8^56 B3+D4@48>16^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>63^56 D4@17>15^56 D4@32>16^56 D4@48>8^56 D4@56>24^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : G5@1>12^104 D5@17>13^104 D5@32>6^104 D5@41>12^104 D5@57>21^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>7^56 G4@33>6^56 G4@49>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4+B4@1>16^104 D4@17>15^104 D4@32>8^104 D4@41>16^104 D4@57>40^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@1>66^56
+@111 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 F#2@32>1^56 B1+F#3+A#4@33>1^104 F#2@40>1^56 F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^80 G1@9>4^104 G1@17>4^104 G1@25>4^104 B1@33>6^104 C2@37>5^104 D2@40>6^104 B1@49>7^104 C2@53>6^104 D2@57>8^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@8>4^56 D3@16>4^56 G2@17>3^56 G2+D3@25>5^56 G2+D3@33>3^56 G2+D3@41>4^56 G2+D3@49>4^56 G2+D3@57>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@17>31^80 G3@40>16^56 B3@41>7^56 B3+D4+G4@49>8^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>64^56 D4@16>15^56 D4@32>16^56 D4@48>18^56 B4@64>11^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : G5@41>5^80 G5@49>13^104 G5@63>12^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>6^56 G4@46>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4@41>8^80 G4+A4@49>16^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: A6@1>34^56 G6@33>50^80
+@112 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>5^104 B1@9>5^80 D2@17>7^104 B1@25>4^80 E2@33>7^104 B1@41>5^80 D2@49>7^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^80 E2+B2@9>3^56 E2+B2@17>3^56 E2@24>4^56 B2@25>4^80 E2+B2@32>4^56 E2@40>4^56 B2@41>3^56 E2+B2@48>5^80 E2@56>4^56 B2@57>3^56 E2+B2@64>5^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : E3+G3@1>103^32 B3@16>32^80 E4@17>32^56 G3+B3+E4@48>65^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@9>6^56 F#4@13>6^56 E4@16>8^56 E4@25>10^56 B4@33>10^56 G4@40>7^56 F#4@45>6^56 E4@48>7^56 E4@57>9^56 B4@64>9^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : E5@17>11^104 E5@32>5^104 E5@39>13^104 E5@56>28^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>8^56 G4@49>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4+B4@1>16^104 E4+G4@17>16^104 E4+G4@33>8^104 E4+G4@41>16^80 E4+G4@57>40^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: E6@17>57^56
+@113 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2@8>1^56 F#3+A#4@9>1^56 F#3@16>1^80 D2+F#2+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2@48>1^104 D2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>8^104 E2@13>6^104 B1@17>5^104 C2@21>4^104 D2@25>5^104 B1@29>4^104 E2@33>4^104 B1@41>7^104 D2@49>8^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@9>3^56 E2+B2@17>3^56 E2+B2@24>4^56 E2+B2@32>3^56 E2+B2@40>3^56 E2+B2@48>4^56 E2+B2@56>4^56 G2+D3@64>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>48^56 E3@40>16^56 G3@41>15^80 B3+E4@49>14^80 G3@64>39^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@8>7^56 F#4@13>6^56 E4@16>8^56 E4@25>10^56 B4@33>10^80 G4@41>7^56 F#4@45>7^56 E4@48>7^56 E4@57>9^56 B4@64>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : D5@40>5^104 D5@49>14^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@32>7^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: F#6@9>10^56 E6@17>11^56 F#6@25>6^56 F#6@33>10^56 G6@41>20^56 G6@61>18^56
+@114 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#3+G3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>3^104 G1@17>4^104 G1@25>4^104 G1@33>5^104 G1@41>4^104 G1@49>5^104 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@8>4^56 G2+D3@17>4^56 D3@24>4^56 G2@25>4^56 G2+D3@33>4^56 G2+D3@41>4^56 G2+D3@49>4^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>15^56 B3@16>24^56 D4+G4@17>32^104 G3+B3@40>64^56 D4@41>8^56 B3+D4+G4@49>32^104 A2@63>47^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@1>64^56 D4@17>15^56 D4@33>15^56 D4@48>8^56 D4@56>24^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>27^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>7^56 G4@17>8^56 G4@33>6^56 G4@49>7^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@1>64^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@17>52^56
+@115 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>4^104 G1@17>4^104 G1@25>4^104 G1@33>4^104 G1@41>5^104 B1@49>4^104 C2@53>4^104 D2@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>4^56 G2+D3@9>4^56 G2+D3@17>4^56 G2+D3@25>5^56 G2+D3@33>4^56 G2+D3@41>4^56 G2+D3@49>4^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4+G4@17>30^80 B3@41>7^56 B3@48>16^80 D4+G4@49>14^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>64^56 D4@16>16^56 D4@33>16^56 D4@49>17^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@25>8^104 B4@33>8^80 D5@41>16^104 B5@64>28^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>7^56 G4@33>7^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: E5@64>64^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B6@1>30^80 A6@33>32^56
+@116 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 F#2@24>1^56 B1+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2@40>1^56 F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 E2@9>4^104 E2@17>4^104 E2@25>4^104 E2@33>3^104 E2@41>5^104 D2@49>7^104 B1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^80 E2+B2@9>4^56 E2+B2@17>3^56 E2+B2@25>4^80 E2+B2@33>3^56 E2+B2@40>4^56 E2@48>4^56 B2@49>4^56 E2+B2@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>15^56 B3+E4@16>25^80 G4@17>64^32 E4@49>32^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>11^56 G4@9>4^56 F#4@13>5^56 E4@17>8^56 E4@25>8^56 B4@33>10^56 G4@40>6^56 F#4@45>5^56 E4@49>7^56 E4@57>9^56 B4@64>10^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>5^56 G4@33>6^56 G4@48>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: G6@1>18^56 A6@17>47^56
+@117 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 F#3@16>1^80 D2+F#2+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>3^104 B1@9>6^104 D2@17>6^104 B1@25>3^104 E2@33>6^104 B1@41>5^80 D2@49>8^104 B1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^80 E2+B2@9>4^56 E2+B2@17>4^56 E2+B2@25>4^56 E2+B2@33>3^56 E2+B2@41>4^56 E2+B2@49>4^80 E2@56>4^56 B2@57>3^56 D3@64>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>15^32 B3+E4@17>32^80 G4@18>63^32 G3@41>23^56 B3@42>7^32 B3+E4@49>10^80 G3@64>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@8>6^56 F#4@12>6^56 E4@16>8^56 E4@25>10^56 B4@32>9^56 G4@41>6^56 F#4@45>4^56 E4@48>8^56 E4@56>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@25>8^80 B4@33>8^80 D5@41>16^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@16>6^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@64>64^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: G6@1>17^56 E6@17>9^56 F#6@25>24^56 E6@49>15^80
+@118 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>4^80 G1@17>4^80 G1@25>4^80 G1@33>4^104 G1@41>4^80 G1@49>4^104 G1@57>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2@1>3^56 D3@8>4^56 G2@9>3^56 G2+D3@17>3^56 G2+D3@25>4^56 G2+D3@32>4^56 D3@40>4^56 G2@41>3^56 G2+D3@49>4^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>30^56 D4@2>39^56 G4@17>31^56 B3@41>7^56 B3@48>15^80 D4+G4@49>16^80 D4@64>16^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>63^56 D4@17>16^56 D4@32>16^56 D4@49>8^56 D4@57>22^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>40^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>5^56 G4@17>5^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@1>64^56
+@119 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^56 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>3^104 G1@17>4^80 G1@25>4^104 G1@33>3^104 G1@41>4^104 B1@49>5^104 C2@53>4^104 D2@57>8^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>4^56 G2+D3@9>4^56 G2+D3@17>4^56 G2+D3@25>4^56 G2+D3@33>4^56 G2+D3@41>4^56 G2+D3@49>4^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>16^80 B3+D4+G4@17>32^80 G3@40>24^56 B3+D4+G4@49>15^80 G3@64>40^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>64^56 D4@16>15^56 D4@33>15^56 D4@48>17^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@17>14^104 A5@33>13^104 G5@49>14^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@17>16^104 C5@33>16^80 B4@49>16^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: A6@1>33^56 B6@33>33^56
+@120 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>5^104 E1@9>4^104 E1@17>5^80 E1@25>4^80 E1@33>4^80 E1@41>5^80 E1@49>6^80 B1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^80 E2+B2@9>4^56 E2@16>4^56 B2@17>2^56 E2+B2@24>4^56 E2+B2@32>4^56 E2+B2@40>4^56 E2@48>4^56 B2@49>3^56 E2@56>4^56 B2@57>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>14^56 B3+E4+G4@16>33^80 G3@40>64^56 E4+G4@49>16^80 B3@50>14^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>10^56 G4@9>5^56 F#4@13>5^56 E4@16>8^56 E4@25>8^56 B4@33>9^56 G4@40>6^56 F#4@45>5^56 E4@49>7^56 E4@57>8^56 B4@64>10^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : F#5@1>55^104 G5@57>6^80 F#5@61>5^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: A4@1>56^80 B4@57>4^80 A4@61>4^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: G6@1>79^80
+@121 [Em7]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : D2@1>5^104 B1@9>4^80 D2@17>5^104 B1@25>4^80 D2@33>4^104 B1@41>4^104 D2@49>5^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^56 E2+B2@9>3^56 E2+B2@17>4^56 E2+B2@25>4^56 E2+B2@33>3^56 E2+B2@41>3^56 E2+B2@49>4^80 E2+B2@57>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+E4+G4@1>16^80 B3+E4+G4@17>32^80 G3@41>63^56 B3+E4@49>8^80 G4@50>31^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@9>6^56 F#4@12>6^56 E4@16>7^56 E4@24>10^56 B4@33>8^56 G4@41>6^56 F#4@45>5^56 E4@48>8^56 E4@56>8^56 G4@64>129^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : E5@1>28^80 D5@41>5^80 D5@48>15^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>6^56 G4@49>5^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: G4@1>36^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: E6@17>10^56 F#6@25>24^56 D6@49>16^80
+@122 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#3+G3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>4^80 G1@17>4^104 G1@25>4^80 G1@33>4^80 G1@41>4^80 G1@49>4^104 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>4^56 G2+D3@9>4^56 G2+D3@17>3^56 G2+D3@25>4^56 G2+D3@33>3^56 G2+D3@41>3^56 G2+D3@49>4^56 D3@56>4^56 G2@57>3^56 D3@64>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@1>15^56 B3+D4+G4@17>128^104 B3@33>8^56 B3@48>8^80 D4@49>32^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>119^56 D4@16>16^56 D4@32>15^56 D4@48>15^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>52^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@1>63^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B6@1>64^56
+@123 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^80 G1@9>4^104 G1@17>4^104 G1@25>4^104 B1@33>6^104 C2@37>5^104 D2@40>6^104 B1@49>7^104 C2@53>6^104 D2@57>8^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2@1>3^56 G2+D3@9>4^56 G2+D3@17>3^56 G2+D3@25>4^56 G2+D3@33>4^56 D3@40>4^56 G2@41>4^56 G2+D3@48>4^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>15^56 B3+D4@17>32^80 D4@49>14^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4@1>15^56 D4@17>15^56 D4@33>15^56 D4@48>17^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@26>7^80 B4@33>8^80 D5@42>14^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>5^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@1>32^80 B5@33>33^56
+@124 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 F#2@48>1^80 D2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>5^104 B1@9>5^80 D2@17>7^104 B1@25>4^80 E2@33>7^104 B1@41>5^80 D2@49>7^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>3^56 E2@8>4^56 B2@9>3^56 E2@16>3^56 B2@17>3^56 E2@24>4^56 B2@25>3^56 E2+B2@33>4^56 E2+B2@41>4^56 E2+B2@49>4^56 E2@56>4^56 B2@57>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>15^56 B3@16>24^56 E4+G4@17>32^80 B3@41>8^56 B3+E4+G4@49>32^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>11^56 G4@9>6^56 F#4@12>6^56 E4@17>7^56 E4@25>9^56 B4@33>9^56 G4@41>5^56 F#4@45>6^56 E4@49>7^56 E4@57>9^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>52^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>5^56 G4@17>6^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: E5@1>64^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: G6@1>16^80 D6@17>8^56 F#6@25>33^56 A6@57>8^56
+@125 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>8^104 E2@13>6^104 B1@17>5^104 C2@21>4^104 D2@25>5^104 B1@29>4^104 E2@33>4^104 B1@41>7^104 D2@49>8^104 B1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^80 E2+B2@9>3^56 E2+B2@17>4^56 E2+B2@25>3^56 E2+B2@33>4^56 E2+B2@41>3^56 E2+B2@49>4^56 E2+B2@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+E4@1>16^56 E4+G4@17>32^80 B3+E4@41>8^56 B3+E4+G4@49>31^80 G3@64>61^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>9^56 G4@8>5^56 F#4@13>5^56 E4@16>8^56 E4@25>9^56 B4@32>9^56 G4@41>5^56 F#4@44>6^56 E4@49>8^56 E4@57>8^56 G4@64>64^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@25>8^104 B4@33>9^80 D5@41>14^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B5@1>62^56
+@126 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>3^104 G1@9>3^104 G1@17>4^104 G1@25>4^104 G1@33>5^104 G1@41>4^104 G1@49>5^104 G1@57>4^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>4^56 G2+D3@9>4^56 G2+D3@17>3^56 G2+D3@25>4^56 G2+D3@33>4^56 G2+D3@41>4^56 G2+D3@49>5^56 G2+D3@57>4^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3@1>15^56 B3+D4@16>16^80 G4@17>32^56 D4@33>15^56 B3+D4@48>16^80 G4@49>17^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>64^56 D4@16>15^56 D4@33>15^56 D4@48>7^56 D4@56>23^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>46^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>5^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: D5@1>64^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B6@1>65^56
+@127 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2@8>1^56 F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : G1@1>4^104 G1@9>4^104 G1@17>4^104 G1@25>4^104 G1@33>4^104 G1@41>5^104 B1@49>4^104 C2@53>4^104 D2@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2+D3@1>5^56 G2+D3@9>4^56 G2+D3@17>4^56 G2+D3@25>4^56 G2+D3@33>4^56 D3@40>4^32 G2@41>3^56 G2+D3@49>4^56 D3@56>4^56 G2@57>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+D4@1>8^56 G3+B3+D4@17>31^80 G4@18>31^32 G3+B3@41>15^56 B3+D4+G4@49>32^80 G3@57>46^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4+B4@1>64^56 D4@17>16^56 D4@32>16^56 D4@49>17^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : A4@25>8^104 B4@32>9^80 D5@41>18^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>5^56 G4@33>6^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: D6@1>32^56 B5@33>33^56
+@128 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>4^104 E2@9>4^104 E2@17>4^104 E2@25>4^104 E2@33>3^104 E2@41>5^104 D2@49>7^104 B1@57>5^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^80 E2+B2@9>3^56 E2+B2@17>3^56 E2@24>4^56 B2@25>3^80 E2@32>4^56 B2@33>3^56 E2@40>4^56 B2@41>3^56 E2+B2@48>4^56 E2@56>4^56 B2@57>3^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : B3+E4@2>14^80 B3+E4+G4@17>32^104 B3@33>8^56 B3+E4+G4@49>32^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : B4@1>10^56 G4@9>6^56 F#4@12>6^56 E4@16>8^56 E4@25>10^56 B4@33>10^56 G4@41>6^56 F#4@45>6^56 E4@48>8^56 E4@57>11^56 B4@64>10^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#9 : B5@1>36^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>5^56 G4@49>6^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#11: E5@1>63^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: G6@1>17^56 E6@17>9^56 F#6@25>32^56 A6@57>8^56
+@129 [Em]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+F#3+A#4@1>1^104 F#2+F#3+A#4@9>1^80 D2+F#2+F#3+A#4@17>1^104 B1+F#2+F#3+A#4@25>1^104 B1+F#2+F#3+A#4@33>1^104 F#2+F#3+A#4@41>1^80 D2+F#2+F#3+A#4@49>1^104 B1+F#2+F#3+A#4@57>1^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#4 : E2@1>3^104 B1@9>6^104 D2@17>6^104 B1@25>3^104 E2@33>6^104 B1@41>5^80 D2@49>8^104 B1@57>3^104
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : E2+B2@1>4^56 E2+B2@9>3^56 E2@16>3^56 B2@17>3^56 E2+B2@25>4^56 E2+B2@33>3^56 E2+B2@41>3^56 E2+B2@49>4^56 E2+B2@57>3^56 D3@64>50^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3+B3+E4@17>39^56 E4@34>14^56 B3@42>6^56 B3@48>9^56 E4@49>9^80 G4@50>16^32 B3@58>6^32
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : G4@9>7^56 F#4@13>6^56 E4@17>8^56 E4@25>10^56 B4@33>9^56 G4@41>6^56 F#4@44>5^56 E4@48>8^56 E4@57>8^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>6^56 G4@17>6^56 G4@33>5^56 G4@49>5^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B5@1>64^56
+@130 [G]
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox   : B1+F#2+A#4@1>1^104 F#2+A#4@9>1^56 D2+A#4@17>1^104 B1+A#4@25>1^80 B1+A#4@33>1^104 A#4@41>1^80 D2+A#4@49>1^104 A#4@57>1^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#6 : G2@1>50^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#7 : G3+B3+G4@1>74^80 D4@2>72^80
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#8 : D4+G4+B4@1>63^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#10: G4@1>12^56
+  DON'T ASK ME WHY                ;David Stewart / Annie Lennox#13: B6@1>38^32
+@131 [-]

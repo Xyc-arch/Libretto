@@ -53,6 +53,27 @@ def scale_pcs(key):
     return tonic_pc, set((tonic_pc + i) % 12 for i in iv), mode
 
 
+def _freq_balance(mids, lo, hi, bin_semitones=12):
+    """How EVENLY note occurrences are spread across the register — not just whether pitches appear, but how
+    OFTEN each octave is used. Bins the target [lo,hi] range into ~octave bins (clamping out-of-range notes to
+    the edges), returns (evenness in [0,1] = normalized entropy of the per-octave counts, the single most-used
+    octave's share, per-octave fractions). Even spread -> ~1; all notes packed in one octave -> ~0."""
+    import math
+    if not mids or hi <= lo:
+        return 0.0, 1.0, []
+    k = max(1, math.ceil((hi - lo + 1) / bin_semitones))
+    counts = [0] * k
+    for m in mids:
+        b = min(k - 1, max(0, int((m - lo) // bin_semitones)))
+        counts[b] += 1
+    n = sum(counts) or 1
+    fracs = [c / n for c in counts]
+    if k == 1:
+        return 1.0, 1.0, [round(f, 2) for f in fracs]
+    h = -sum(f * math.log(f) for f in fracs if f > 0)
+    return h / math.log(k), max(fracs), [round(f, 2) for f in fracs]
+
+
 # ---- challenge detectors: each returns (passed, detail) given the parsed song + grammar text ----
 def _beat_unit(meter):
     """Beat unit in quarter-beats from the meter denominator: 4/4->1.0, 3/4->1.0, 6/8->0.5 (compound)."""
@@ -113,6 +134,28 @@ def detect_challenge(cid, events, grammar_text, beat_unit=1.0):
         has = any(d >= 3.5 for d in durs); return ("whole-note present", has, has)
     if cid in ("TR-DOTTED-NOTE", "TR-PAT-DOTTED-LONG-SHORT", "TR-PAT-DOTTED-SHORT-LONG"):
         has = any(abs(d - 1.5) < 0.05 or abs(d - 0.75) < 0.05 for d in durs); return ("dotted rhythm present", has, has)
+    if cid == "TR-SHORT-LONG-SHORT":
+        # FAMILY (not a rigid 1:2:1): a longer note that ATTACKS off-beat and is HELD across the next beat,
+        # flanked by shorter notes. Accepts variants (0.5-1-0.5, 0.5-1-0.25-0.25, dotted, any scale). Reports
+        # the long-note durations found. Soft/informational — not part of the mandatory gate anymore.
+        from collections import defaultdict as _dd
+        byvb = _dd(list)
+        for ev in events:
+            byvb[(ev["voice"], ev["bar"])].append(ev)
+        scales = set()
+        for evs in byvb.values():
+            evs = sorted(evs, key=lambda x: x["onb"])
+            for i in range(1, len(evs) - 1):
+                prev, cur, nxt = evs[i - 1], evs[i], evs[i + 1]
+                mid = cur["onb"]
+                offbeat = abs(mid - round(mid / beat_unit) * beat_unit) > 1e-6
+                nb = (int(round(mid / beat_unit - 0.5)) + 1) * beat_unit      # next beat line after mid
+                held = mid < nb < mid + cur["dur"] - 1e-9                     # long note sustains over that beat
+                longer = cur["dur"] > prev["dur"] + 1e-9 and cur["dur"] >= nxt["dur"] - 1e-9
+                if offbeat and held and longer:
+                    scales.add(round(cur["dur"], 3))
+        ok = len(scales) >= 1
+        return (f"syncopated short-long(-short) cell family at {len(scales)} scale(s) {sorted(scales)}", ok, sorted(scales))
     if cid in ("TR-TIE",):
         # a tie = a note sustained ACROSS a beat line (sounding through the next beat). Meter-aware; a plain
         # on-beat quarter (ends exactly on the next beat) is NOT a tie — only notes that cross the boundary.
@@ -240,15 +283,21 @@ def check_requirements(case, events, text):
         _, pcs, _ = scale_pcs(case.get("key", "C major"))
         target = [m for m in range(gs["cover_lo"], gs["cover_hi"] + 1) if m % 12 in pcs]
         cover_frac = (sum(1 for m in target if m in used) / len(target)) if target else 0.0
+        # FREQUENCY BALANCE: notes must be spread EVENLY across the octaves, not clustered in one while merely
+        # touching the extremes. evenness in [0,1]; also cap the single busiest octave's share.
+        bal, maxbin, binf = _freq_balance(mids, gs["cover_lo"], gs["cover_hi"])
+        bmin = gs.get("balance_min", 0.0); bmax = gs.get("balance_max_octave", 1.0)
+        balanced = bal >= bmin and maxbin <= bmax
         ok = (lo <= gs["low_max"] and hi >= gs["high_min"]
               and bass_frac >= gs["min_low_frac"] and treble_frac >= gs["min_high_frac"]
-              and cover_frac >= gs["cover_min"])
-        reqs.append((f"grand-staff span+coverage: lowest {lo}≤{gs['low_max']} & highest {hi}≥{gs['high_min']}, "
+              and cover_frac >= gs["cover_min"] and balanced)
+        reqs.append((f"grand-staff span+coverage+balance: lowest {lo}≤{gs['low_max']} & highest {hi}≥{gs['high_min']}, "
                      f"bass/treble share {bass_frac:.2f}/{treble_frac:.2f} ≥{gs['min_low_frac']:.2f}, "
-                     f"covers {cover_frac:.2f}≥{gs['cover_min']:.2f} of in-key staff pitches "
-                     f"(both clefs, hits most notes a reader meets)", ok,
+                     f"covers {cover_frac:.2f}≥{gs['cover_min']:.2f} of in-key staff pitches, "
+                     f"freq-balance {bal:.2f}≥{bmin:.2f} (busiest octave {maxbin:.2f}≤{bmax:.2f})", ok,
                      dict(low=lo, high=hi, bass_frac=round(bass_frac, 2), treble_frac=round(treble_frac, 2),
-                          coverage=round(cover_frac, 2))))
+                          coverage=round(cover_frac, 2), balance=round(bal, 2), busiest_octave=round(maxbin, 2),
+                          octave_fracs=binf)))
     if case.get("clef_band"):
         cb = case["clef_band"]
         mids = [e["midi"] for e in events]
@@ -256,15 +305,21 @@ def check_requirements(case, events, text):
         _, pcs, _ = scale_pcs(case.get("key", "C major"))
         target = [m for m in range(cb["cover_lo"], cb["cover_hi"] + 1) if m % 12 in pcs]
         cover = (sum(1 for m in target if m in set(mids)) / len(target)) if target else 0.0
+        bal, maxbin, binf = _freq_balance(mids, cb["cover_lo"], cb["cover_hi"])
+        bmin = cb.get("balance_min", 0.0); bmax = cb.get("balance_max_octave", 1.0)
+        balanced = bal >= bmin and maxbin <= bmax
         if cb["mode"] == "treble":
-            ok = hi >= cb["hi_min"] and lo >= cb["lo_floor"] and cover >= cb["cover_min"]
+            ok = hi >= cb["hi_min"] and lo >= cb["lo_floor"] and cover >= cb["cover_min"] and balanced
             lbl = (f"treble-clef register: highest {hi}≥{cb['hi_min']} and lowest {lo}≥{cb['lo_floor']} "
-                   f"(stay in/above the treble staff), covers {cover:.2f}≥{cb['cover_min']:.2f} of treble-clef pitches")
+                   f"(stay in/above the treble staff), covers {cover:.2f}≥{cb['cover_min']:.2f} of treble-clef pitches, "
+                   f"freq-balance {bal:.2f}≥{bmin:.2f} (busiest octave {maxbin:.2f}≤{bmax:.2f})")
         else:
-            ok = lo <= cb["lo_max"] and hi <= cb["hi_ceil"] and cover >= cb["cover_min"]
+            ok = lo <= cb["lo_max"] and hi <= cb["hi_ceil"] and cover >= cb["cover_min"] and balanced
             lbl = (f"bass-clef register: lowest {lo}≤{cb['lo_max']} and highest {hi}≤{cb['hi_ceil']} "
-                   f"(stay in/below the bass staff), covers {cover:.2f}≥{cb['cover_min']:.2f} of bass-clef pitches")
-        reqs.append((lbl, ok, dict(low=lo, high=hi, coverage=round(cover, 2))))
+                   f"(stay in/below the bass staff), covers {cover:.2f}≥{cb['cover_min']:.2f} of bass-clef pitches, "
+                   f"freq-balance {bal:.2f}≥{bmin:.2f} (busiest octave {maxbin:.2f}≤{bmax:.2f})")
+        reqs.append((lbl, ok, dict(low=lo, high=hi, coverage=round(cover, 2), balance=round(bal, 2),
+                                   busiest_octave=round(maxbin, 2), octave_fracs=binf)))
     if case.get("single_line"):
         # monophonic: essentially one note at a time (arpeggiate harmony), so it engraves on ONE staff with
         # clef changes rather than a grand staff. Allow a rare dyad but never a block chord.

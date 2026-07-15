@@ -1,0 +1,869 @@
+KEY: G major | METER: 2/4 | TEMPO: 154 | GRID: 12t (adaptive) | BARS: 195
+VOICES: * MUTED LYRICS[prog=118], Split Chan 1[prog=40], Split Chan 16[prog=33], Split Chan 10[drums], Split Chan 11[prog=0]
+@1 [F#] (grid:6t)
+  * MUTED LYRICS: F#3@3>1^104
+@2 [F#] (grid:8)
+  * MUTED LYRICS: F#3@2>1^104 F#3@4>1^104
+@3 [F#]
+  * MUTED LYRICS: F#3@2>1^104
+@4 [-] (grid:4)
+  Split Chan 10 : F#2@1>1^104 F#2@2>1^104
+@5 [-] (grid:4)
+  Split Chan 10 : F#2@1>1^104 F#2@2>1^104
+@6 [F#] (grid:4)
+  * MUTED LYRICS: F#3@2>1^104
+  Split Chan 10 : F#2@1>1^104
+@7 [G#7]
+  * MUTED LYRICS: G#3@1>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 10 : D2+F2@4>2^104
+@8 [G] (grid:32)
+  * MUTED LYRICS: F#3@6>2^104
+  Split Chan 16 : G1@1>6^104 G1@9>5^104
+  Split Chan 10 : C2+F#2+C#3@1>2^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : G3@1>7^104 D4+G4@8>15^104 B4@9>15^104
+@9 [G] (grid:64)
+  Split Chan 16 : G1@1>11^104 G1@17>12^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D4@17>16^104 G4+B4@18>16^104
+@10 [Cdim | C] (grid:64)
+  * MUTED LYRICS: F#3@12>4^104 G#3@17>5^104 F#3@28>4^104
+  Split Chan 16 : C2@1>12^104 C2@17>11^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : C4@1>15^104 E4+G4+C5@16>30^104 A#4@17>1^80
+@11 [Caug | C]
+  * MUTED LYRICS: G#3@1>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : E4+G4+C5@4>3^104
+@12 [G] (grid:64)
+  Split Chan 16 : G1@1>11^104 G1@17>11^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@2>15^104 D4@17>29^104 G4+B4@18>28^104
+@13 [G] (grid:64)
+  Split Chan 16 : G1@1>10^80 G1@17>9^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : D4@17>17^104 G4+B4@18>17^104
+@14 [G]
+  * MUTED LYRICS: F#3@3>1^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@15 [G] (grid:64)
+  * MUTED LYRICS: G#3@17>3^104 F#3@32>4^104
+  Split Chan 16 : G1@1>7^80 D1@13>5^104 E1@17>11^104 F#1@29>4^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^80
+  Split Chan 11 : D4@16>18^104 G4+B4@17>17^104
+@16 [G] (grid:64)
+  * MUTED LYRICS: G#3@12>3^104
+  Split Chan 16 : G1@1>11^104 G1@17>11^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@2>15^104 D4@17>28^104 G4+B4@18>28^104
+@17 [G] (grid:64)
+  Split Chan 16 : G1@1>11^80 G1@17>10^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D4+G4+B4@17>17^104 A#4@18>1^104
+@18 [G] (grid:64)
+  * MUTED LYRICS: F#3@13>3^104 G#3@18>4^104 F#3@27>4^104
+  Split Chan 16 : G1@1>11^104 G1@17>11^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@2>14^104 D4@16>28^104 G4+B4@17>27^104
+@19 [C | G] (grid:64)
+  * MUTED LYRICS: G#3@18>4^104 F#3@26>3^104
+  Split Chan 16 : C2@1>13^104 C#2@17>13^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : D4@16>17^104 G4+B4@17>17^104
+@20 [D]
+  Split Chan 16 : D2@1>2^80 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D3@1>3^104 D4+F#4+A4@4>5^104
+@21 [D]
+  Split Chan 16 : D2@1>2^80 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+F#4+A4@4>3^104
+@22 [Ddim | D7]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : D2@1>3^104 C2@4>3^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : D3@1>3^104 D4+F#4+A4@4>5^104
+@23 [B | D] (grid:64)
+  * MUTED LYRICS: F#3@18>4^104 G#3@28>3^104
+  Split Chan 16 : B1@1>16^80 A1@17>15^104
+  Split Chan 10 : C2+F#2@1>3^104 D2@12>1^104 C2+D2+F#2@17>3^104 D2+F#2@28>3^104
+  Split Chan 11 : D4@17>17^104 F#4+A4@18>17^104 G3@32>15^104
+@24 [G]
+  * MUTED LYRICS: F#3@1>1^104 G#3@3>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^104
+  Split Chan 10 : C2+F#2+C#3@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>5^104
+@25 [G]
+  Split Chan 16 : G1@1>2^80 G1@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@26 [C] (grid:32)
+  * MUTED LYRICS: G#3@9>2^104 F#3@14>2^104
+  Split Chan 16 : C2@1>6^80 C2@9>5^104
+  Split Chan 10 : C2+F#2@1>2^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : C4@1>3^104 E4@8>14^104 G4+C5@9>14^104
+@27 [Cdim | C] (grid:64)
+  * MUTED LYRICS: G#3@1>2^104 F#3@11>3^104 G#3@28>3^104
+  Split Chan 16 : C2@1>9^104 C2@17>10^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : E4@16>17^104 G4+C5@17>16^104
+@28 [G] (grid:32)
+  Split Chan 16 : G1@1>8^104 A1@9>8^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : G3@1>7^104 D4@8>15^104 G4+B4@9>15^104
+@29 [A# | G] (grid:32)
+  Split Chan 16 : A#1@1>7^104 B1@9>7^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : D4@9>8^104 G4+B4@10>7^104
+@30 [Caug | C]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104
+  Split Chan 16 : C2@1>2^80 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : E4+G4+C5@4>5^104
+@31 [Caug | C]
+  * MUTED LYRICS: G#3@1>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : E4+G4+C5@4>3^104
+@32 [G] (grid:64)
+  * MUTED LYRICS: F#3@10>3^104
+  Split Chan 16 : G1@1>15^104 G1@17>13^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@1>15^104 D4@17>27^104 G4+B4@18>27^104
+@33 [C | G]
+  Split Chan 16 : C2@1>2^104 C#2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@34 [Ddim | D] (grid:64)
+  * MUTED LYRICS: G#3@12>4^104 F#3@17>4^104 G#3@27>5^104
+  Split Chan 16 : D2@1>13^80 D2@17>13^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D3@1>3^104 D4+A4@16>27^104 F#4@17>27^104
+@35 [D] (grid:64)
+  * MUTED LYRICS: F#3@1>4^104 G#3@12>4^104 F#3@27>4^104
+  Split Chan 16 : D2@1>11^80 D2@17>8^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : D4@16>17^104 F#4+A4@17>17^104
+@36 [G] (grid:64)
+  Split Chan 16 : G2@1>15^104 E2@17>15^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@1>15^80 D4+B4@16>29^104 G4@17>28^104
+@37 [D | Em] (grid:16)
+  Split Chan 16 : D2@1>2^104 A1@4>1^104 B1@5>4^80
+  Split Chan 10 : C2+F#2@1>1^104 D2@4>1^80 C2+D2+F#2@5>1^104 D2@6>1^104 D2@7>1^104 F#2@8>1^104
+  Split Chan 11 : E4+G4+C5@5>3^104
+@38 [G#dim | F#] (grid:64)
+  * MUTED LYRICS: G#3@12>5^104 F#3@17>5^104 G#3@28>4^104
+  Split Chan 10 : C2+D2+F#2@1>2^104
+  Split Chan 11 : G3+G4+B4@1>10^104 D4@2>9^104
+@39 [G#] (grid:4)
+  * MUTED LYRICS: F#3@1>4^104 G#3@2>1^104
+@40 [G# | C] (grid:24t)
+  * MUTED LYRICS: F#3@1>1^104 G#3@5>1^104
+  Split Chan 16 : C2@1>11^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@7>1^104 F#2+D#3@11>1^104
+  Split Chan 11 : C4@1>6^104 D4@5>1^104 D#4@6>1^104 E4+G4+C5@7>9^104 C5@11>5^104
+@41 [Gm | C] (grid:64)
+  Split Chan 16 : G2@1>29^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2@16>3^104 F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : A#4@1>9^104 C4+D4@12>3^104 D#4@15>2^104 E4+G4+C5@17>16^104 D#4+E4@18>15^104 C5@28>6^104 A#4@32>38^104
+@42 [Cdim | C] (grid:64)
+  * MUTED LYRICS: F#3@11>4^104 G#3@17>4^104 F#3@27>3^104
+  Split Chan 16 : C2@1>27^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2@16>3^104 F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : C4@1>14^104 E4+G4+C5@17>26^104
+@43 [C] (grid:24t)
+  * MUTED LYRICS: G#3@7>1^104 F#3@11>1^104
+  Split Chan 16 : C2@1>11^80
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@7>1^104 F#2+D#3@11>1^80
+  Split Chan 11 : C4@5>1^104 E4+G4+C5@7>6^104 G4@11>2^104 A4@12>1^104
+@44 [G] (grid:64)
+  Split Chan 16 : G1@1>29^80
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : G3+B4+D5@1>14^104 B4+D5@11>2^80 B4+D5@16>8^80 D4+G4+B4@17>25^104 B4+D5@26>5^80 B4+D5@32>11^104
+@45 [G7] (grid:32)
+  Split Chan 16 : D2@1>14^80
+  Split Chan 10 : C2+F#2+D#3@1>2^104 C#2+F#2+D#3@9>1^104 F#2+D#3@14>1^80
+  Split Chan 11 : F#4@5>2^104 G3@6>2^104 G4@7>1^104 A4+C5@8>6^104 D4+G4+B4@9>8^104 G4+B4@16>9^104
+@46 [G] (grid:24t)
+  * MUTED LYRICS: G#3@5>2^104 F#3@7>2^104 G#3@11>2^104
+  Split Chan 16 : G1@1>10^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@7>1^104 F#2@11>1^104 D#3@12>1^80
+  Split Chan 11 : G3@1>5^104 D4+G4+B4@7>11^104
+@47 [G] (grid:24t)
+  * MUTED LYRICS: F#3@1>2^104 G#3@7>1^104
+  Split Chan 16 : G1@1>8^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@7>1^104 F#2@11>1^80 D#3@12>1^104
+  Split Chan 11 : G3@5>1^104 D4+G4+B4@7>6^104
+@48 [F#m | A] (grid:64)
+  * MUTED LYRICS: F#3@1>4^104 G#3@28>5^104
+  Split Chan 16 : A1@1>29^80
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : A3@1>14^104 C#5@16>1^104 E4+A4+C#5@17>25^104 B4@26>5^104 D5@28>5^104 C#5@32>11^104
+@49 [A] (grid:64)
+  * MUTED LYRICS: F#3@2>4^104
+  Split Chan 16 : E2@1>28^80
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2@16>3^104 F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : E5@1>11^104 A3+A4+C#5@12>4^104 E4+A4+B4+C#5+D5@17>17^104 A4@27>7^104 C#5@28>5^104
+@50 [D7 | A] (grid:64)
+  * MUTED LYRICS: F#3@12>3^104 G#3@18>5^104 F#3@28>3^104
+  Split Chan 16 : A1@1>27^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2@16>3^104 F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : A3+B4+D5@1>14^104 C#5@10>7^104 E5@12>37^104 E4+A4+C#5@17>27^104
+@51 [A] (grid:64)
+  * MUTED LYRICS: G#3@18>4^104 F#3@28>3^104
+  Split Chan 16 : A1@1>19^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2@16>3^104 F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : A3@12>3^104 E4+A4+C#5@17>17^104 F#4@28>3^104 G4@30>3^80 A4@32>1^104
+@52 [D] (grid:64)
+  Split Chan 16 : D2@1>29^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : D4+G4+A4@1>15^104 F#4@2>5^104 F#4+A4@12>3^104 E4+G4@16>7^104 F#4+A4+D5@17>25^104 D4+F#4@32>9^104
+@53 [D] (grid:64)
+  Split Chan 16 : A1@1>29^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : D4@12>3^104 E4+G4@16>7^104 F#4+A4+D5@17>16^104 D4+F#4@32>5^104
+@54 [G7 | D] (grid:64)
+  * MUTED LYRICS: F#3@10>4^104 G#3@16>4^104 F#3@27>4^104
+  Split Chan 16 : D2@1>27^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : D4@1>14^104 E4@11>3^104 G4@12>4^104 D4@16>27^104 F#4+A4+D5@17>27^104
+@55 [D]
+  * MUTED LYRICS: G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : A1@1>5^80
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : D4@3>1^104 F#4+A4+D5@4>3^104
+@56 [C]
+  * MUTED LYRICS: G#3@6>1^104
+  Split Chan 16 : C2@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@57 [C] (grid:24t)
+  Split Chan 16 : G2@1>10^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@7>1^104 F#2@11>1^80 D#3@12>1^80
+  Split Chan 11 : C4@4>2^104 E4+G4+C5@7>7^104
+@58 [C] (grid:24t)
+  * MUTED LYRICS: F#3@7>1^104 G#3@11>1^104
+  Split Chan 16 : C2@1>11^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@7>1^104 F#2@11>1^80 D#3@12>1^104
+  Split Chan 11 : C4@1>6^104 E4+G4+C5@7>10^104
+@59 [Caug | C] (grid:64)
+  * MUTED LYRICS: F#3@1>1^104 G#3@11>3^104 F#3@28>3^104
+  Split Chan 16 : C2@1>24^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2@16>3^104 F#2+D#3@17>3^104 F#2@28>2^80 D#3@30>2^104
+  Split Chan 11 : C4@12>5^104 E4+G4@17>17^104 C5@18>17^104
+@60 [G] (grid:64)
+  Split Chan 16 : G1@1>27^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2@28>2^80 D#3@30>1^104
+  Split Chan 11 : G3@2>15^104 D4+G4@17>26^104 B4@18>25^104
+@61 [G] (grid:64)
+  Split Chan 16 : G1@1>13^104 B1@17>14^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2@16>3^104 F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : G3@10>5^104 D4@16>15^104 G4+B4@17>15^104 C4@32>16^104
+@62 [Caug | C] (grid:64)
+  * MUTED LYRICS: G#3@13>4^104 F#3@18>4^104 G#3@28>4^104
+  Split Chan 16 : C2@1>29^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 F#2+D#3@17>3^104 C#2@18>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : E4+G4+C5@16>27^104
+@63 [Caug | C] (grid:64)
+  * MUTED LYRICS: F#3@1>4^104 G#3@16>4^104 F#3@32>4^104
+  Split Chan 16 : C2@1>27^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : C4@12>5^104 E4+C5@16>18^104 G4@17>17^104
+@64 [G] (grid:64)
+  * MUTED LYRICS: G#3@11>4^104 F#3@27>4^104
+  Split Chan 16 : G1@1>27^80
+  Split Chan 10 : C2+F#2+D#3@1>3^104 F#2+D#3@17>3^104 C#2@18>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : G3@1>15^104 D4+G4+B4@17>27^104
+@65 [Baug | G]
+  * MUTED LYRICS: G#3@3>1^104
+  Split Chan 16 : B1@1>3^80 C2@4>2^80
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : G3@3>1^104 D4+G4+B4@4>3^104
+@66 [D] (grid:64)
+  * MUTED LYRICS: F#3@11>4^104 G#3@16>4^104 F#3@27>3^104
+  Split Chan 16 : D2@1>29^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2@16>3^104 F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : D3@1>3^104 D4@16>27^104 F#4+A4@17>27^104
+@67 [D] (grid:64)
+  * MUTED LYRICS: G#3@1>3^104 F#3@17>3^104 G#3@28>3^104
+  Split Chan 16 : D2@1>26^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : D3@12>6^104 D4+F#4@17>16^104 A4@18>16^104 G3@32>16^104
+@68 [G] (grid:64)
+  Split Chan 16 : G2@1>15^104 E2@17>14^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : D4+B4@17>26^104 G4@18>25^104
+@69 [D | Em] (grid:64)
+  Split Chan 16 : D2@1>10^104 A1@13>3^104 B1@17>14^80
+  Split Chan 10 : C2+F#2+D#3@1>3^104 D2+D#3@17>2^104 D2@22>2^80 D2+D#3@28>1^104
+  Split Chan 11 : G3@12>3^104 E4+G4+C5@16>13^104 B4@17>2^80
+@70 [G | G#] (grid:64)
+  * MUTED LYRICS: F#3@12>4^104 G#3@17>4^104
+  Split Chan 16 : G1@1>13^104
+  Split Chan 10 : C2+D2+D#3@1>3^104
+  Split Chan 11 : G4@1>11^104 D4+B4@2>11^104
+@71 [G#7]
+  * MUTED LYRICS: F#3@1>4^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 10 : D2+F2@4>1^104
+@72 [G] (grid:32)
+  * MUTED LYRICS: G#3@6>1^104
+  Split Chan 16 : G1@1>6^104 G1@9>5^104
+  Split Chan 10 : C2+F#2+C#3@1>3^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : G3@1>8^104 B4@8>14^104 D4+G4@9>14^104
+@73 [G] (grid:64)
+  Split Chan 16 : G1@1>11^104 G1@17>11^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@11>5^80 D4+G4@17>17^104 B4@18>16^104
+@74 [Caug | C] (grid:64)
+  * MUTED LYRICS: G#3@12>4^104 F#3@18>3^104 G#3@28>4^104
+  Split Chan 16 : C2@1>11^104 C2@17>11^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : C4@1>15^104 E4@16>30^104 G4+C5@17>29^104
+@75 [Cdim | C]
+  * MUTED LYRICS: F#3@1>1^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : E4+G4+C5@4>3^104
+@76 [G] (grid:64)
+  Split Chan 16 : G1@1>11^104 G1@17>11^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@1>15^104 D4@17>27^104 G4+B4@18>27^104
+@77 [G] (grid:64)
+  Split Chan 16 : G1@1>11^104 G1@17>11^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : D4@16>18^104 G4+B4@17>18^104
+@78 [G] (grid:64)
+  * MUTED LYRICS: G#3@13>4^104 F#3@18>4^104 G#3@28>4^104
+  Split Chan 16 : G1@1>11^80 G1@17>9^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>4^104 F#2@28>2^80
+  Split Chan 11 : G3@1>15^104 D4@16>29^104 G4+B4@17>28^104
+@79 [G] (grid:16)
+  * MUTED LYRICS: F#3@5>1^104
+  Split Chan 16 : G1@1>2^104 D1@4>1^104 E1@5>3^80 F#1@8>1^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@5>1^104 F#2@8>1^80
+  Split Chan 11 : D4+G4+B4@5>4^104
+@80 [G]
+  * MUTED LYRICS: G#3@1>1^104 F#3@3>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@81 [G] (grid:64)
+  Split Chan 16 : G1@1>10^80 G1@17>10^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D4@16>18^104 G4+B4@17>18^104
+@82 [G] (grid:64)
+  * MUTED LYRICS: F#3@12>4^104 G#3@17>5^104 F#3@28>4^104
+  Split Chan 16 : G1@1>11^104 G1@17>11^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@2>14^104 B4@16>29^104 D4+G4@17>29^104 F#4@18>5^104
+@83 [B | G] (grid:64)
+  * MUTED LYRICS: G#3@18>4^104 F#3@28>4^104
+  Split Chan 16 : B1@1>12^104 C2@17>13^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : G4@17>17^104 D4+B4@18>17^104
+@84 [D] (grid:32)
+  Split Chan 16 : D2@1>6^104 D2@9>5^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : D3@1>7^104 A4@8>14^104 D4+F#4@9>14^104
+@85 [D] (grid:64)
+  Split Chan 16 : D2@1>11^104 D2@17>9^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : D4+F#4@16>18^104 A4@17>17^104 D3@32>15^104
+@86 [D | F#dim] (grid:64)
+  * MUTED LYRICS: F#3@12>4^104 G#3@17>4^104 F#3@28>3^104
+  Split Chan 16 : D2@1>15^104 A1@13>3^80 C2@17>16^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>4^104 F#2@28>2^80
+  Split Chan 11 : A4@16>29^104 D4+F#4@17>28^104
+@87 [B | D] (grid:64)
+  * MUTED LYRICS: G#3@18>4^104 F#3@28>3^104
+  Split Chan 16 : B1@1>14^104 A1@17>15^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 D2@18>3^104 D2@22>2^104 D2@26>3^104 F#2@28>2^80
+  Split Chan 11 : D4+F#4@17>16^104 A4@18>16^104
+@88 [G]
+  * MUTED LYRICS: G#3@1>1^104 F#3@3>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^104
+  Split Chan 10 : C2+F#2+C#3@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@89 [G] (grid:64)
+  Split Chan 16 : G1@1>11^104 G1@17>11^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D4@16>16^104 G4+B4@17>16^104
+@90 [C]
+  * MUTED LYRICS: G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@91 [Cdim | C] (grid:64)
+  * MUTED LYRICS: G#3@1>1^104 F#3@11>3^104 G#3@26>3^104
+  Split Chan 16 : C2@1>10^104 C2@17>9^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : E4@17>16^104 G4+C5@18>15^104
+@92 [G] (grid:32)
+  Split Chan 16 : G1@1>7^104 A1@9>8^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : G3@1>7^104 B4@8>15^104 D4+G4@9>15^104
+@93 [A# | G] (grid:32)
+  Split Chan 16 : A#1@1>7^104 B1@9>7^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : D4@9>7^104 G4+B4@10>7^104
+@94 [Caug | C]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@95 [C] (grid:64)
+  * MUTED LYRICS: G#3@1>1^104 F#3@17>3^104 G#3@26>4^104
+  Split Chan 16 : C2@1>10^80 C2@17>11^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^80
+  Split Chan 11 : E4@16>16^104 G4+C5@17>16^104 G3@32>16^104
+@96 [G] (grid:64)
+  * MUTED LYRICS: F#3@11>4^104
+  Split Chan 16 : G1@1>13^104 G1@17>12^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D4@16>28^104 G4+B4@17>27^104
+@97 [Bm | G] (grid:64)
+  Split Chan 16 : B1@1>12^104 C2@17>13^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D4@16>18^104 G4+B4@17>17^104 D3@32>16^104
+@98 [Ddim | D] (grid:64)
+  * MUTED LYRICS: G#3@12>4^104 F#3@17>3^104 G#3@27>4^104 F#3@32>3^104
+  Split Chan 16 : D2@1>13^104 D2@17>10^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D4+A4@16>28^104 F#4@17>27^104
+@99 [Ddim | D]
+  * MUTED LYRICS: G#3@3>1^104 F#3@6>1^104
+  Split Chan 16 : D2@1>2^80 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+F#4+A4@4>3^104
+@100 [G]
+  Split Chan 16 : G1@1>2^104 G1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@101 [G]
+  Split Chan 16 : G1@1>2^104 G1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@102 [G] (grid:32)
+  Split Chan 16 : G1@1>4^104 D1@6>1^104 E1@8>7^104 F1@16>7^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@9>2^104 F#2@14>1^80
+  Split Chan 11 : G3@1>7^104 D4+G4@8>14^104 B4@9>14^104
+@103 [F# | G7] (grid:16)
+  Split Chan 16 : F#1@5>4^104
+  Split Chan 10 : C2+F#2@1>1^104 D2@4>1^104 C2+D2+F#2+C3@5>1^104 A2@6>1^104 F2@7>1^104 F#2@8>1^80
+  Split Chan 11 : D4+G4+B4@5>4^104
+@104 [G]
+  * MUTED LYRICS: G#3@1>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^80
+  Split Chan 10 : C2+F#2+C#3@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>4^104 D4+G4+B4@4>5^104
+@105 [G] (grid:64)
+  Split Chan 16 : G1@1>12^80 G1@17>12^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : D4@16>17^104 G4+B4@17>16^104
+@106 [C] (grid:64)
+  * MUTED LYRICS: G#3@25>3^104
+  Split Chan 16 : C2@1>11^104 C2@17>11^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : C4@1>16^104 G4+C5@17>28^104 E4@18>27^104
+@107 [C]
+  Split Chan 16 : C2@1>2^80 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : E4+G4+C5@4>3^104
+@108 [G] (grid:64)
+  Split Chan 16 : G1@1>13^80 A1@17>14^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@2>14^104 G4+B4@16>29^104 D4@17>28^104
+@109 [A# | G] (grid:32)
+  Split Chan 16 : A#1@1>6^80 B1@9>6^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+  Split Chan 11 : D4@9>8^104 G4+B4@10>7^104
+@110 [C]
+  Split Chan 16 : C2@1>2^80 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@111 [C]
+  Split Chan 16 : C2@1>2^80 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : E4+G4+C5@4>3^104
+@112 [G] (grid:64)
+  Split Chan 16 : G1@1>11^80 G1@17>13^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G3@1>3^104 D4+B4@16>27^104 G4@17>27^104
+@113 [C | G] (grid:64)
+  Split Chan 16 : C2@1>13^80 C#2@17>13^104
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>3^104
+  Split Chan 11 : G4@16>18^104 B4@17>18^104 D4@18>17^104
+@114 [D]
+  Split Chan 16 : D2@1>2^104 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D3@1>3^104 D4+F#4+A4@4>5^104
+@115 [D] (grid:64)
+  * MUTED LYRICS: G#3@32>3^104
+  Split Chan 16 : D2@1>11^80 D2@17>7^80
+  Split Chan 10 : C2+F#2@1>3^104 C2+D2+F#2@17>3^104 F#2@28>2^104
+  Split Chan 11 : D4@16>17^104 F#4+A4@17>17^104
+@116 [G]
+  Split Chan 16 : G2@1>3^80 E2@4>3^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@117 [D | Em] (grid:64)
+  Split Chan 16 : D2@1>9^80 A1@13>3^104 B1@17>15^80
+  Split Chan 10 : C2+F#2@1>3^104 D2@12>3^104 C2+D2+F#2+C3@17>3^104 A2@21>4^104 F2@27>5^104 F#2@28>2^80
+  Split Chan 11 : G3@12>3^104 E4+G4@17>12^104 C5@18>11^104 G3+G4+B4@32>10^104
+@118 [F#] (grid:4)
+  * MUTED LYRICS: F#3@2>1^104
+  Split Chan 10 : C2+D2+F#2@1>1^104
+@119 [G# | F#] (grid:4)
+  * MUTED LYRICS: G#3@1>1^104 F#3@2>1^104
+  Split Chan 10 : C2@2>1^104
+@120 [Cdim | C]
+  * MUTED LYRICS: G#3@1>1^104 F#3@3>1^104
+  Split Chan 1  : D4@3>1^80 E4@4>1^104
+  Split Chan 16 : C2@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>2^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^80
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@121 [C]
+  Split Chan 1  : E4@1>4^104 D4@5>8^80
+  Split Chan 16 : G2@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>2^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : C4@3>1^104 E4+G4+C5@4>3^104
+@122 [Cdim | C]
+  * MUTED LYRICS: F#3@3>1^104 G#3@4>1^104
+  Split Chan 16 : C2@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^80
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@123 [Cdim | C]
+  * MUTED LYRICS: F#3@1>1^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : C2@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2@6>1^80
+  Split Chan 11 : C4@3>1^104 E4+G4+C5@4>3^104
+@124 [G] (grid:24t)
+  Split Chan 1  : G3@1>5^104 A3@6>2^104 G3@11>1^104
+  Split Chan 16 : G1@1>10^104
+  Split Chan 10 : C2+F#2+D#3@1>2^104 C#2+F#2+D#3@7>1^104 F#2+D#3@11>1^80
+  Split Chan 11 : G3@1>5^104 D4+G4+B4@7>10^104
+@125 [G] (grid:24t)
+  Split Chan 1  : A3@1>6^104 C4@6>2^80 D4@10>1^104
+  Split Chan 16 : D2@1>10^80
+  Split Chan 10 : C2+F#2+D#3@1>2^104 C#2+F#2+D#3@7>1^104 F#2@11>1^80 D#3@12>1^104
+  Split Chan 11 : G3@5>2^104 D4+G4+B4@7>6^104
+@126 [G] (grid:16)
+  * MUTED LYRICS: G#3@4>1^104 F#3@5>1^104 G#3@8>1^104
+  Split Chan 1  : D#4@1>5^104 D4@4>1^104 D4@7>1^104
+  Split Chan 16 : G1@1>7^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@5>1^104 F#2+D#3@8>1^104
+  Split Chan 11 : G3@1>4^104 D4+G4+B4@5>6^104
+@127 [G]
+  * MUTED LYRICS: F#3@1>1^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 1  : B3@1>4^104 A3@4>2^80
+  Split Chan 16 : G1@1>4^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : G3@3>1^104 D4+G4+B4@4>3^104
+@128 [F#m | A]
+  * MUTED LYRICS: G#3@1>1^104 F#3@3>1^104
+  Split Chan 1  : A3@3>1^80 C#4@4>2^104 E4@6>1^104
+  Split Chan 16 : A1@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : A3@1>3^104 E4+A4+C#5@4>5^104
+@129 [Em | A] (grid:24t)
+  Split Chan 1  : G4@1>4^104 B4@4>2^80 D5@7>3^80 B4@10>3^80
+  Split Chan 16 : E2@1>11^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@7>1^104 F#2@11>1^80 D#3@12>1^104
+  Split Chan 11 : A3@5>1^104 E4+A4+C#5@7>6^104
+@130 [A] (grid:16)
+  * MUTED LYRICS: F#3@4>1^104 G#3@5>1^104 F#3@6>1^104 G#3@7>1^104
+  Split Chan 1  : C#5@1>3^104 E5@3>2^80 F#5@5>2^80 A5@8>5^80
+  Split Chan 16 : A1@1>7^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@5>1^104 F#2+D#3@8>1^104
+  Split Chan 11 : A3@1>4^104 E4+A4+C#5@5>6^104
+@131 [A]
+  * MUTED LYRICS: F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : A1@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : A3@3>1^104 E4+A4+C#5@4>3^104
+@132 [D] (grid:64)
+  Split Chan 1  : F#5@11>21^104 D5@32>10^104
+  Split Chan 16 : D2@1>29^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^104
+  Split Chan 11 : D4@2>15^104 F#4+D5@17>27^104 A4@18>25^104
+@133 [D7]
+  Split Chan 1  : A4@3>1^80 C5@4>3^104
+  Split Chan 16 : A2@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : D4@3>1^104 F#4+A4+D5@4>3^104
+@134 [D] (grid:64)
+  * MUTED LYRICS: G#3@19>4^104
+  Split Chan 1  : F#4@1>10^104 F4@11>5^104 E4@16>12^104 D4@27>31^80
+  Split Chan 16 : D2@1>29^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2@28>2^80 D#3@30>2^104
+  Split Chan 11 : D4@2>15^104 F#4@16>25^104 A4+D5@17>25^104
+@135 [D] (grid:32)
+  * MUTED LYRICS: F#3@1>2^104 G#3@7>2^104 F#3@9>2^104 G#3@14>2^104
+  Split Chan 16 : A1@1>14^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@9>1^104 F#2+D#3@14>1^80
+  Split Chan 11 : D4@6>2^104 F#4@8>10^104 A4+D5@9>9^104
+@136 [C]
+  * MUTED LYRICS: F#3@1>2^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : C2@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^80
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@137 [C] (grid:64)
+  Split Chan 16 : G1@1>28^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : C4@12>3^104 E4+G4@16>17^104 C5@17>16^104
+@138 [Caug | C] (grid:64)
+  * MUTED LYRICS: G#3@13>4^104 F#3@18>4^104 G#3@28>5^104
+  Split Chan 16 : C2@1>26^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : C4@1>15^104 E4+G4@16>25^104 C5@17>25^104
+@139 [Cdim | C]
+  * MUTED LYRICS: F#3@1>1^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : C2@1>4^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^80
+  Split Chan 11 : C4@3>1^104 E4+G4+C5@4>3^104
+@140 [G] (grid:64)
+  Split Chan 16 : G1@1>25^80
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : G3@1>3^104 A4@9>3^104 C5@10>3^104 B4@12>5^104 D5@13>19^104 D4+G4+B4@17>25^104
+@141 [G] (grid:64)
+  Split Chan 16 : G1@1>14^104 B1@17>14^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : B4@1>10^104 G4@2>9^104 G3@12>5^104 F4+A4@17>5^104 D4+G4+B4@18>15^104 C4@32>1^104
+@142 [F | C] (grid:64)
+  * MUTED LYRICS: G#3@13>4^104 F#3@18>4^104 G#3@29>4^104
+  Split Chan 16 : C2@1>27^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : C4@1>15^104 F4+A4@2>4^104 G4+B4@6>6^104 F4+A4@10>5^104 E4@15>2^104 G4@16>1^104 E4+G4+C5@17>32^104
+@143 [Cdim | C] (grid:24t)
+  * MUTED LYRICS: F#3@1>1^104 G#3@7>1^104
+  Split Chan 16 : C2@1>9^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@7>1^104 F#2+D#3@11>1^80
+  Split Chan 11 : C4@5>1^104 E4@6>6^104 G4+C5@7>6^104
+@144 [G] (grid:64)
+  * MUTED LYRICS: F#3@1>4^104 G#3@13>3^104 F#3@27>4^104
+  Split Chan 16 : G1@1>25^104
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : G3@1>15^104 D5@16>5^104 D4+G4+B4@17>25^104
+@145 [G#dim | G] (grid:64)
+  * MUTED LYRICS: G#3@11>3^104
+  Split Chan 16 : B1@1>13^104 C2@17>13^80
+  Split Chan 10 : C2+F#2+D#3@1>3^104 C#2+F#2+D#3@17>3^104 F#2+D#3@28>2^80
+  Split Chan 11 : B4+D5@1>9^104 G3+A4+C5@12>5^104 B4@16>1^104 D4+G4+B4@17>16^104 F#4@32>17^104
+@146 [D]
+  * MUTED LYRICS: F#3@3>1^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : D2@1>5^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^80
+  Split Chan 11 : D3+A4@1>3^104 D4+F#4+A4@4>6^104
+@147 [D]
+  * MUTED LYRICS: G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : D2@1>4^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C#2+F#2+D#3@4>1^104 F#2+D#3@6>1^104
+  Split Chan 11 : D3@3>1^104 D4+F#4+A4@4>3^104
+@148 [G]
+  Split Chan 16 : G2@1>3^104 E2@4>3^104
+  Split Chan 10 : C2+F#2+D#3@1>1^104 C2+C#2+D2+F#2+D#3@4>1^104 F#2+D#3@6>1^80
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@149 [G | Em] (grid:16)
+  Split Chan 16 : D2@1>2^104 A1@4>1^104 B1@5>4^80
+  Split Chan 10 : C2+F#2+D#3@1>1^104 D2@4>1^104 C2+D2+F#2+C3+D#3@5>1^104 A2@6>1^104 F2@7>1^104 F#2+D#3@8>1^104
+  Split Chan 11 : G3@4>1^104 E4+G4+C5@5>3^104
+@150 [G | G#]
+  * MUTED LYRICS: F#3@3>1^104 G#3@4>1^104
+  Split Chan 16 : G1@1>2^104
+  Split Chan 10 : C2+D2+F#2+D#3@1>1^104
+  Split Chan 11 : D4+G4+B4@1>2^104
+@151 [F# | G#7] (grid:64)
+  * MUTED LYRICS: F#3@1>4^104 G#3@18>4^104 F#3@27>3^104
+  Split Chan 10 : F2@17>5^104 C2+D2@18>5^104
+@152 [G]
+  * MUTED LYRICS: G#3@3>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^104
+  Split Chan 10 : C2+F#2+C#3@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@153 [G]
+  Split Chan 16 : G1@1>2^80 G1@4>2^104 B1@6>1^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@154 [Caug | C]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@155 [Cdim | C]
+  * MUTED LYRICS: F#3@1>1^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : C2@1>2^80 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : E4+G4+C5@4>3^104
+@156 [G]
+  Split Chan 16 : G1@1>2^104 G1@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@157 [G]
+  Split Chan 16 : G1@1>2^104 G1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@158 [G] (grid:16)
+  * MUTED LYRICS: F#3@4>1^104 G#3@5>1^104 F#3@8>1^104
+  Split Chan 16 : G1@1>2^104 G1@5>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@5>1^104 F#2@8>1^80
+  Split Chan 11 : G3@1>4^104 D4+G4+B4@5>7^104
+@159 [Em | G7] (grid:16)
+  * MUTED LYRICS: G#3@5>1^104
+  Split Chan 16 : G1@1>2^104 E1@4>1^104 F1@5>2^104 F#1@7>1^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@5>1^104 F#2@8>1^80
+  Split Chan 11 : D4+G4+B4@5>4^104
+@160 [G]
+  * MUTED LYRICS: F#3@1>1^104 G#3@3>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@161 [G]
+  Split Chan 16 : G1@1>2^104 G1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@162 [G]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : G1@1>2^80 B1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>2^104 D4+G4+B4@4>5^104
+@163 [C | G]
+  * MUTED LYRICS: F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C#2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@164 [D]
+  Split Chan 16 : D2@1>2^80 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D3@1>3^104 D4+F#4+A4@4>5^104
+@165 [D]
+  Split Chan 16 : D2@1>2^80 D2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+F#4+A4@4>3^104
+@166 [Ddim | D7]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : D2@1>2^104 A1@3>1^104 C2@4>3^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : D3@1>3^104 D4+F#4+A4@4>5^104
+@167 [B | D] (grid:64)
+  * MUTED LYRICS: F#3@18>4^104 G#3@28>4^104
+  Split Chan 16 : B1@1>15^104 A1@17>15^104
+  Split Chan 10 : C2+F#2@1>3^104 D2@13>2^104 C2+D2+F#2@17>3^104 D2@18>3^104 D2@27>4^104 F#2@28>2^80
+  Split Chan 11 : D4+F#4+A4@17>15^104
+@168 [G]
+  * MUTED LYRICS: F#3@1>1^104 G#3@3>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^104
+  Split Chan 10 : C2+F#2+C#3@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@169 [G]
+  Split Chan 16 : G1@1>2^80 G1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@170 [C]
+  * MUTED LYRICS: G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@171 [Caug | C]
+  * MUTED LYRICS: G#3@1>1^104 F#3@3>1^104 G#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : E4+G4+C5@4>3^104
+@172 [G]
+  Split Chan 16 : G1@1>2^104 A1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@173 [A# | G]
+  Split Chan 16 : A#1@1>2^104 B1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@174 [Cdim | C]
+  * MUTED LYRICS: F#3@3>1^104 G#3@4>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : C4@1>2^104 E4+G4+C5@4>5^104
+@175 [Cdim | C]
+  * MUTED LYRICS: F#3@1>1^104 G#3@4>1^104 F#3@6>1^104
+  Split Chan 16 : C2@1>2^104 C2@4>2^104 D2@6>1^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : E4+G4+C5@4>3^104
+@176 [G]
+  * MUTED LYRICS: G#3@3>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@177 [G]
+  Split Chan 16 : G1@1>2^80 G1@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@178 [Ddim | D]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : D2@1>2^104 D2@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D3@1>3^104 D4+F#4+A4@4>5^104
+@179 [Ddim | D]
+  * MUTED LYRICS: F#3@1>1^104 G#3@3>1^104 F#3@6>1^104
+  Split Chan 16 : D2@1>2^80 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 D2@3>1^104 C2+D2+F#2@4>1^104 D2+F#2@6>1^104
+  Split Chan 11 : D4+F#4+A4@4>3^104
+@180 [G]
+  Split Chan 16 : G1@1>3^104 A1@4>2^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@181 [A# | G]
+  Split Chan 16 : A#1@1>2^104 B1@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@182 [Caug | C]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104
+  Split Chan 16 : C2@1>2^80 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^80
+  Split Chan 11 : C4@1>3^104 E4+G4+C5@4>5^104
+@183 [E | C]
+  * MUTED LYRICS: G#3@1>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : E2@1>2^80 F#2@4>3^80
+  Split Chan 10 : C2+F#2@1>1^104 D2@3>1^104 C2+D2+F#2+C3@4>1^104 A2@5>1^80 F2+F#2@6>1^104
+  Split Chan 11 : E4+G4+C5@4>3^104
+@184 [G]
+  * MUTED LYRICS: F#3@3>1^104
+  Split Chan 16 : G1@1>2^104 G1@4>2^80
+  Split Chan 10 : C2+F#2+C#3@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : G3@1>3^104 D4+G4+B4@4>5^104
+@185 [B | G]
+  Split Chan 16 : B1@1>2^80 C2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+G4+B4@4>3^104
+@186 [Ddim | D]
+  * MUTED LYRICS: G#3@3>1^104 F#3@4>1^104 G#3@6>1^104
+  Split Chan 16 : D2@1>3^80 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D3@1>3^104 D4+F#4+A4@4>5^104
+@187 [D]
+  * MUTED LYRICS: F#3@1>1^104 G#3@3>1^104 F#3@6>1^104
+  Split Chan 16 : D2@1>2^80 D2@4>2^80
+  Split Chan 10 : C2+F#2@1>1^104 C2@3>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+  Split Chan 11 : D4+F#4+A4@4>3^104
+@188 [G | D]
+  Split Chan 16 : G1@1>1^104 G1@3>1^104 D2@4>3^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@4>1^104 F#2@6>1^104
+@189 [C] (grid:32)
+  Split Chan 16 : C#2@1>3^104 C2@9>7^104 B1@16>5^104
+  Split Chan 10 : C2+F#2@1>1^104 C2+D2+F#2@9>2^104 F#2@14>1^104
+@190 [G] (grid:32)
+  Split Chan 16 : C2@1>1^56 G1@16>64^104
+  Split Chan 10 : C2+D2+F2+F#2@1>2^104 C#3@16>3^104
+@191 [G] (grid:4)
+  Split Chan 10 : C2@1>5^104 F#2@2>1^104
+  Split Chan 11 : G3+G4+B4+D5@1>61^104
+@192 [-] (grid:4)
+  Split Chan 10 : F#2@2>1^104
+@193 [-] (grid:4)
+  Split Chan 10 : F#2@2>1^104
+@194 [G] (grid:4)
+  Split Chan 10 : F#2@2>1^104
+@195 [G] (grid:4)
+  Split Chan 16 : G1@1>1^104
+  Split Chan 10 : C2+C#3@1>1^104
+  Split Chan 11 : G3+G4+B4+D5@1>1^104

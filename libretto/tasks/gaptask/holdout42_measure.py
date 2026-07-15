@@ -4,17 +4,19 @@ import json
 from collections import defaultdict
 from pathlib import Path
 import numpy as np
-import pattern_catalog as pc
-import metric_discovery as md
-from understanding_probe import Song
+from libretto.core import pattern_catalog as pc
+from libretto.core import metric_discovery as md
+from libretto.core import Song
+from libretto.tasks.gaptask.refine_loop import region_c1_budget
 
-SCRIPT = Path(__file__).resolve().parent
-GRAMMAR = SCRIPT / "grammar"; H = SCRIPT / "compositions" / "holdout42"
-CANON = json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+import libretto
+DATA = libretto.data_root()
+GRAMMAR = DATA / "grammar"; H = Path("compositions") / "holdout42"
+CANON = json.loads((DATA/"corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 GC = CANON["genre_conditioned"]
 corpus_fp = {s: np.array(v, float) for s, v in
-             json.loads((SCRIPT/"compositions"/"continuation"/"corpus_fps.json").read_text()).items()}
+             json.loads((DATA / "corpus_fps.json").read_text()).items()}
 cases = json.loads((H/"cases.json").read_text())
 
 def fp(p):
@@ -65,7 +67,7 @@ for cid,c in cases.items():
     cpr=round(sum(1 for b in gb if b in realb)/n*100); cpn=round(sum(1 for b in gb if b in neighb)/n*100)
     h8=harm8(gen); cp8=round(sum(1 for g in h8 if g in CH8)/max(1,len(h8))*100) if h8 else 0
     gbars=len(sorted({e["bar"] for e in Song(gen).events})); rbars=len(sorted({e["bar"] for e in Song(H/c["real"]).events}))
-    c1=len(ge)<=3; c2=abs(gbars-rbars)<=2; c3=(cpr<5 and cpn<5 and cp8<10); repl=cpr>=20 or (D_gr<5 and cp8>=20)
+    c1=len(ge)<=region_c1_budget(c["genre"]); c2=abs(gbars-rbars)<=2; c3=(cpr<5 and cpn<5 and cp8<10); repl=cpr>=20 or (D_gr<5 and cp8>=20)
     rows[cid]=dict(h=c["hsid"],t=c["type"],g=c["genre"],D_gr=round(D_gr,1),D_cg=round(D_cg,1),beat=beat,
         gext=len(ge),c1=c1,c2=c2,c3=c3,cpr=cpr,cpn=cpn,cp8=cp8,repl=repl)
 

@@ -5,10 +5,36 @@ generate -> measure -> if a challenge/requirement/key/novelty check failed, turn
 feedback and regenerate (<= max_iter rounds), pick the best round. Leakage-free by construction (the gate is
 all structural + vs the frozen corpus / shown material).
 """
+import re
 from pathlib import Path
 
 from . import setup as S
 from . import measure as M
+
+
+def _req_fix(check):
+    """A CONCRETE, actionable correction for a failed requirement check (not just a restatement)."""
+    cl = check.lower()
+    if "syncopation" in cl:
+        m = re.search(r"ratio ([\d.]+) in \[([\d.]+),([\d.]+)\]", check)
+        cur, lo, hi = (float(m.group(1)), float(m.group(2)), float(m.group(3))) if m else (0.0, 0.30, 0.55)
+        if cur < lo:
+            pct = int(round((lo + hi) / 2 * 100))
+            return (f"SYNCOPATION TOO LOW (off-beat ratio {cur:.2f}, MUST be {lo:.2f}-{hi:.2f}): put about "
+                    f"{pct}% of note ONSETS OFF the beat. In a 16th 4/4 bar the DOWNBEATS are slots 1,5,9,13 — "
+                    f"put FEWER onsets there and MORE on the off-beats 3,7,11,15 (the '&' of each beat) and the "
+                    f"16th-offbeats 2,4,6,8,10,12,14,16. Use syncopated cells like `>2 >4 >2` (eighth, then a "
+                    f"quarter that ATTACKS on the '&' at slot 3 or 7 or 11 and TIES across the next beat, then an "
+                    f"eighth) and dotted `>3 >1`; tie notes across the beat. Do NOT land nearly every note on "
+                    f"1/5/9/13 — that reads as zero syncopation.")
+        return (f"SYNCOPATION TOO HIGH (off-beat ratio {cur:.2f}, MUST be {lo:.2f}-{hi:.2f}): anchor MORE onsets "
+                f"ON the beat (slots 1,5,9,13) and fewer on the off-beats.")
+    if "grand-staff" in cl or "freq-balance" in cl or "busiest octave" in cl:
+        return ("REGISTER BALANCE not met — spread the notes EVENLY across the octaves: no single octave may "
+                "hold more than ~45% of the notes. Don't sit in the middle — move whole phrases UP to the high "
+                "treble (toward E6/MIDI 88) and DOWN to the deep bass (toward A1/MIDI 33) so every octave in the "
+                "range gets comparable use, and dip to <=41 and climb to >=84 somewhere.")
+    return f"REQUIREMENT not met — {check}: fix this exactly."
 
 
 def feedback(report):
@@ -22,7 +48,7 @@ def feedback(report):
             lines.append(f"CHALLENGE not met — {c['check']}: exercise this device more clearly/often.")
     for c in report["requirement_checks"]:
         if c["pass"] is False:
-            lines.append(f"REQUIREMENT not met — {c['check']}: fix this exactly.")
+            lines.append(_req_fix(c["check"]))
     if report["copy_vs_shown"] >= report["copy_vs_shown_thr"]:
         lines.append(f"NOVELTY: you reproduced the shown example (overlap {report['copy_vs_shown']:.2f}); "
                      f"invent DIFFERENT notes for the same device.")
@@ -61,12 +87,24 @@ class RefinementLoop:
             _strip_prose(p)
             rep = M.measure(p, case); rep["round"] = r; rep["path"] = str(p)
             rep["score"] = _score(rep); rounds.append(rep)
-            if best is None or rep["score"] < best["score"]:
+            if best is None or _better(rep, best):
                 best = rep
-            if rep["verdict"]:
+            if best["verdict"]:
                 break
-            corrections = feedback(rep)
+            # ANCHOR the next round on the BEST draft so far (revise it; don't regenerate from scratch and
+            # regress a passing dimension) + the concrete fixes for what that best draft still fails.
+            anchor = ("REVISE THE DRAFT BELOW — keep EVERY bar and aspect that already passes, and change ONLY "
+                      "what the fixes below require. Do not rewrite from scratch. Your current best draft:\n"
+                      + Path(best["path"]).read_text(encoding="utf-8"))
+            corrections = [anchor] + feedback(best)
         return best, rounds
+
+
+def _better(cand, best):
+    """cand strictly better than best: pass beats fail; then fewer failed gate checks."""
+    if bool(cand["verdict"]) != bool(best["verdict"]):
+        return bool(cand["verdict"])
+    return cand["score"] < best["score"]
 
 
 def _strip_prose(p):

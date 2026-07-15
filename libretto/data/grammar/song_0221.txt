@@ -1,583 +1,440 @@
-KEY: A minor | METER: 4/4 | TEMPO: 134 | GRID: 8th (adaptive) | BARS: 108
-VOICES: Electric Bass, Electric Organ, Part3, Part4, Part5, Electric Organ#2, Part7, Electric Piano, Electric Piano#2
-@1 [-]
-@2 [Am]
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
-  Part4           : A3@1>1 B3@3>1 C4@5>1 B3@7>2
-  Part7           : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@3 [Em7 | Am7]
-  Part3           : G4@1>3 A4@4>4
-  Part4           : G3@1>3 A3@4>4
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@4 [Am]
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@5 [Em7]
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@6 [Am]
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
-  Part4           : A3@1>1 B3@3>1 C4@5>1 B3@7>2
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@7 [Em7 | Am7]
-  Part3           : G4@1>3 A4@4>4
-  Part4           : G3@1>3 A3@4>4
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@8 [Am]
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@9 [Em7]
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@10 [Am] (grid:16)
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A4@1>2 B4@5>2 C5@9>2 B4@13>2
-  Part4           : A3@1>2 B3@5>2 C4@9>2 B3@13>4
-  Electric Organ#2: E4+A4+E5@1>2 E4+A4+E5@5>2
-  Part7           : A4@1>2 A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
-  Electric Piano  : A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
-  Electric Piano#2: A3+C4@1>1 A3+C4@5>1 A3+C4@11>1 E3@13>1 A3+C4@14>1 G3+B3@15>1
-@11 [G | Am] (grid:16)
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : G4@1>6 A4@7>9
-  Part4           : G3@1>6 A3@7>9
-  Part7           : D5@1>2 G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
-  Electric Piano  : G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
-  Electric Piano#2: G3+B3@3>1 G3+B3@7>1 G3+B3@11>1 G3+B3@14>1 E3@15>1
-@12 [Am | D7] (grid:16)
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Electric Organ#2: E4+A4+E5@1>2 E4+A4+E5@5>2
-  Part7           : A4@1>2 A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
-  Electric Piano  : A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
-  Electric Piano#2: A3+C4@1>1 A3+C4@5>1 A3+C4@11>1 E3@13>1 A3+C4@14>1 G3+B3@15>1
-@13 [G | Em] (grid:16)
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part7           : D5@1>2 G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
-  Electric Piano  : G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
-  Electric Piano#2: G3+B3@3>1 G3+B3@7>1 G3+B3@11>1 G3+B3@14>1 E3@15>1
-@14 [Am] (grid:16)
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A4@1>2 B4@5>2 C5@9>2 B4@13>2
-  Part4           : A3@1>2 B3@5>2 C4@9>2 B3@13>4
-  Electric Organ#2: E4+A4+E5@1>2 E4+A4+E5@5>2
-  Part7           : A4@1>2 A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
-  Electric Piano  : A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
-  Electric Piano#2: A3+C4@1>1 A3+C4@5>1 A3+C4@11>1 E3@13>1 A3+C4@14>1 G3+B3@15>1
-@15 [G | Am7] (grid:16)
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : G4@1>6 A4@7>6 C5@13>2 A4@15>2
-  Part4           : G3@1>6 A3@7>6 C4@13>2 A3@15>2
-  Part7           : D5@1>2 G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
-  Electric Piano  : G4@3>2 D5@5>2 G4@7>2 C5@9>2 G4@11>2 B4@13>2 A4@15>2
-  Electric Piano#2: G3+B3@3>1 G3+B3@7>1 G3+B3@11>1 G3+B3@14>1 E3@15>1
-@16 [Am] (grid:16)
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A4@1>4 C5@5>2 A4@7>6 C5@13>2 A4@15>2
-  Part4           : A3@1>4 C4@5>2 A3@7>6 C4@13>2 A3@15>2
-  Electric Organ#2: E4+A4+E5@1>2 E4+A4+E5@5>2
-  Part7           : A4@1>2 B3@15>2
-  Electric Piano  : A4@3>2 E5@5>2 A4@7>2 D5@9>2 A4@11>2 C5@13>2 D5@15>2
-  Electric Piano#2: A3+C4@1>1 A3+C4@5>1 A3+C4@11>1 E3@13>1 A3+C4@14>1 G3+B3@15>1
-@17 [Am | Baug]
-  Electric Bass   : D2@2>1 D2@3>1 C2@4>1 C2@5>1 B1@6>1 B1@7>1 G1@8>1
-  Part3           : A4@1>2 C5@3>1 A4@4>3
-  Part4           : A3@1>2 C4@3>1 A3@4>3
-  Part5           : C#6@8>1
-  Part7           : B3@1>7
-@18 [A | C#dim] (grid:24t)
-  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
-  Part5           : E6@1>21 C#6@23>2
-@19 [E | C#m] (grid:24t)
-  Electric Bass   : E1@1>2 E1@4>2 E1@7>2 E1@10>2 E1@13>2 E1@16>2 E1@19>3 E1@22>2
-  Part5           : E6@1>21 C#6@23>2
-@20 [A | C#dim] (grid:24t)
-  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
-  Part5           : E6@1>21 C#6@23>2
-@21 [E | C#m] (grid:24t)
-  Electric Bass   : E1@1>2 E1@4>2 E1@7>2 E1@10>2 E1@13>2 E1@16>2 E1@19>3 E1@22>2
-  Part5           : E6@1>21 C#6@23>2
-@22 [A | C#dim] (grid:24t)
-  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
-  Part5           : E6@1>21 C#6@23>2
-  Electric Organ#2: A4+E5+A5@1>6
-@23 [E | C#m] (grid:24t)
-  Electric Bass   : E1@1>2 E1@4>2 E1@7>2 E1@10>2 E1@13>2 E1@16>2 E1@19>3 E1@22>2
-  Part5           : E6@1>21 C#6@23>2
-@24 [A] (grid:24t)
-  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
-  Part5           : E6@1>21 C#6@23>2
-  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
-@25 [E | Eaug] (grid:24t)
-  Electric Bass   : E1@1>2 E1@4>2 E1@7>2 E1@10>2 E1@13>2 E1@16>2 E1@19>3 E1@22>2
-  Part3           : C4@22>3
-  Part5           : E6@1>21 C#6@23>2
-@26 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>2 A3@12>2 A3@15>1
-  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-@27 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>2 A3@4>2 G3@7>1 E3@9>3 C4@15>2
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-@28 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>1 A3@11>1 A3@13>1 A3@15>1
-  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-@29 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>3 C4@15>2
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-@30 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>2 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
-  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-@31 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>1 C4@11>1 C4@13>1 C4@15>1
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-@32 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>2 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
-  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-@33 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>2 C4@15>1
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-@34 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
-  Electric Organ#2: E4+A4+E5@1>2 C5+E5+A5@3>1 C5+E5+A5@4>1 E4+A4+E5@5>2 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-@35 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>1 G3@7>1 E3@9>3 C4@15>1
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-@36 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>2 A3@13>2
-  Electric Organ#2: E4+A4+E5@1>2 C5+E5+A5@3>1 C5+E5+A5@4>1 E4+A4+E5@5>2 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-@37 [A7 | E] (grid:24t)
-  Electric Bass   : E1@1>3 E1@7>3 E1@13>3
-  Part3           : A3@1>3 A3@5>3 G3@10>3 E3@13>6
-@38 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
-  Part7           : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@39 [Em7]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
-  Part3           : G4@1>3 A4@4>4
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@40 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 E1@6>1 G1@7>1 E1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>2
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@41 [Em7]
-  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
-  Part3           : G4@1>7
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@42 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@43 [Em7]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
-  Part3           : G4@1>3 A4@4>4
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@44 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 E1@6>1 G1@7>1 E1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>2
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@45 [Em7]
-  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
-  Part3           : G4@1>7
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@46 [A | Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
-  Part3           : D4@8>1
-  Part5           : E6@1>7
-  Electric Organ#2: A4+E5+A5@1>2
-  Part7           : A4@1>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-@47 [C | Em]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
-  Part3           : D4@1>1 D4@2>1 C4@4>2 B3@6>2
-  Part5           : C#6+E6@1>7
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-@48 [A | Am] (grid:24t)
-  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
-  Part3           : C4@22>3
-  Part5           : C#6+E6@1>21 C#6@23>2
-  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
-  Electric Piano  : A4@4>3 E5@7>3 A4@10>3 D5@13>3 A4@16>3 C5@19>3 D5@22>3
-@49 [C7 | Am]
-  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
-  Part3           : C4@1>1 C4@2>1 B3@4>2 A3@6>2
-  Part5           : E6@1>7
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-@50 [A | Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
-  Part3           : D4@8>1
-  Part5           : C#6+E6@1>7
-  Electric Organ#2: A4+E5+A5@1>2
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-@51 [C | Em]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
-  Part3           : D4@1>1 D4@2>1 C4@4>2 B3@6>2
-  Part5           : C#6+E6@1>7
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-@52 [A | Am] (grid:24t)
-  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
-  Part3           : C4@22>3
-  Part5           : C#6+E6@1>21 C#6@23>2
-  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
-  Electric Piano  : A4@4>3 E5@7>3 A4@10>3 D5@13>3 A4@16>3 C5@19>3 D5@22>3
-@53 [C7 | Am]
-  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
-  Part3           : C4@1>1 C4@2>1 B3@4>2 A3@6>2 C4@8>1
-  Part5           : E6@1>7
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-@54 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>2 A3@12>2 A3@15>1
-  Part5           : C#6@1>1
-  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-  Part7           : A4@1>16
-@55 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>2 A3@4>2 G3@7>1 E3@9>3 C4@15>2
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-  Part7           : B4@1>16
-@56 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>1 A3@11>1 A3@13>1 A3@15>1
-  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-  Part7           : C5@1>16
-@57 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>3 C4@15>2
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-  Part7           : B4@1>8 G4@9>8
-@58 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>2 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
-  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-  Part7           : A4@1>16
-@59 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>1 C4@11>1 C4@13>1 C4@15>1
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-  Part7           : B4@1>16
-@60 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>2 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
-  Electric Organ#2: C5+E5+A5@3>1 C5+E5+A5@4>1 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-  Part7           : C5@1>16
-@61 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>2 A3@4>2 G3@7>2 E3@9>2 C4@15>1
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-  Part7           : B4@1>8 G4@9>8
-@62 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>2 A3@9>1 A3@11>1 A3@13>1 A3@15>1
-  Electric Organ#2: E4+A4+E5@1>2 C5+E5+A5@3>1 C5+E5+A5@4>1 E4+A4+E5@5>2 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-  Part7           : A4@1>16
-@63 [Em] (grid:16)
-  Electric Bass   : E1@1>2 E1@5>2 E1@9>2 E1@12>1 G1@13>2 E1@15>2
-  Electric Organ  : E3@1>2 E3@5>2 E3@9>2 E3@12>1 E4@13>1 E3@14>1 G3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>1 G3@7>1 E3@9>3 C4@15>1
-  Electric Organ#2: E5+G5+B5@3>1 E5+G5+B5@4>1 E5+G5+B5@7>1 E5+G5+B5@8>1 E5+G5+B5@11>1 E5+G5+B5@12>1 E5+G5+B5@15>1 E5+G5+B5@16>1
-  Part7           : B4@1>16
-@64 [Am] (grid:16)
-  Electric Bass   : A1@1>2 A1@5>2 A1@9>2 A1@12>1 C2@13>2 D2@15>2
-  Electric Organ  : A3@1>2 A3@5>2 A3@9>2 A3@12>1 C4@13>2 D3@15>2
-  Part3           : A3@1>1 A3@3>1 A3@5>1 A3@7>1 A3@9>2 A3@13>2
-  Electric Organ#2: E4+A4+E5@1>2 C5+E5+A5@3>1 C5+E5+A5@4>1 E4+A4+E5@5>2 C5+E5+A5@7>1 C5+E5+A5@8>1 C5+E5+A5@11>1 C5+E5+A5@12>1 C5+E5+A5@15>1 C5+E5+A5@16>1
-  Part7           : C5@1>16
-@65 [D] (grid:24t)
-  Electric Bass   : E1@1>3 E1@7>3 E1@13>3
-  Part3           : A3@1>3 A3@5>3 G3@10>3 E3@13>6
-  Part7           : D5@1>24
-@66 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
-  Part7           : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@67 [Em7]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
-  Part3           : G4@1>3 A4@4>4
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@68 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 E1@6>1 G1@7>1 E1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>2
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@69 [Em7]
-  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
-  Part3           : G4@1>7
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@70 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@71 [Em7]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
-  Part3           : G4@1>3 A4@4>4
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@72 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 E1@6>1 G1@7>1 E1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>2
-  Part7           : A4@1>1 A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-  Electric Piano#2: A2+A3+C4+E4@1>6 A2+C4+E4@8>1
-@73 [Em7]
-  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
-  Part3           : G4@1>7
-  Part7           : D5@1>1 G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-  Electric Piano#2: E3+G3+B3@1>8
-@74 [A | Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
-  Part3           : D4@8>1
-  Part5           : E6@1>7
-  Electric Organ#2: A4+E5+A5@1>2
-  Part7           : A4@1>1
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-@75 [C | Em]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
-  Part3           : D4@1>1 D4@2>1 C4@4>2 B3@6>2
-  Part5           : C#6+E6@1>7
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-@76 [A | Am] (grid:24t)
-  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
-  Part3           : C4@22>3
-  Part5           : C#6+E6@1>21 C#6@23>2
-  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
-  Electric Piano  : A4@4>3 E5@7>3 A4@10>3 D5@13>3 A4@16>3 C5@19>3 D5@22>3
-@77 [C7 | Am]
-  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
-  Part3           : C4@1>1 C4@2>1 B3@4>2 A3@6>2
-  Part5           : E6@1>7
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-@78 [A | Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 G1@8>1
-  Part3           : D4@8>1
-  Part5           : C#6+E6@1>7
-  Electric Organ#2: A4+E5+A5@1>2
-  Electric Piano  : A4@2>1 E5@3>1 A4@4>1 D5@5>1 A4@6>1 C5@7>1 D5@8>1
-@79 [C | Em]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 E1@8>1
-  Part3           : D4@1>1 D4@2>1 C4@4>2 B3@6>2
-  Part5           : C#6+E6@1>7
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-@80 [A | Am] (grid:24t)
-  Electric Bass   : A1@1>2 A1@4>2 A1@7>2 A1@10>2 A1@13>2 E1@16>3 G1@19>3 E1@22>2
-  Part3           : C4@22>3
-  Part5           : C#6+E6@1>21 C#6@23>2
-  Electric Organ#2: A4+E5+A5@4>3 A4+E5+A5@9>3 A4+E5+A5@13>3 A4+E5+A5@17>3 A4+E5+A5@22>3
-  Electric Piano  : A4@4>3 E5@7>3 A4@10>3 D5@13>3 A4@16>3 C5@19>3 D5@22>3
-@81 [C7 | Am]
-  Electric Bass   : E1@1>1 E1@2>1 E1@3>1 E1@4>1 E1@5>1 E1@6>1 E1@7>1 E1@8>1
-  Part3           : C4@1>1 C4@2>1 B3@4>2 A3@6>2
-  Part5           : E6@1>7
-  Electric Piano  : G4@2>1 D5@3>1 G4@4>1 C5@5>1 G4@6>1 B4@7>1 A4@8>1
-@82 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 A1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
-  Part4           : A3@1>1 B3@3>1 C4@5>1 B3@7>2
-  Part5           : C#6@1>1
-  Part7           : C5@1>8
-  Electric Piano#2: E3+A3+C4@1>7
-@83 [G]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
-  Part3           : G4@1>3 A4@4>4
-  Part4           : G3@1>3 A3@4>4
-  Part7           : B4@1>8
-  Electric Piano#2: D3+G3+B3@1>7
-@84 [F#dim]
-  Electric Bass   : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1 F#1@5>1 F#1@6>1 F#1@7>1 F#1@8>1
-  Part7           : C5@1>8
-  Electric Piano#2: D3+F#3+A3@1>7
-@85 [F | G]
-  Electric Bass   : F1@1>1 F1@2>1 F1@3>1 F1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
-  Part7           : C5@1>4 B4@5>4
-  Electric Piano#2: C3+F3+A3@1>4 D3+G3+B3@5>4
-@86 [Am]
-  Electric Bass   : A1@1>1 A1@2>1 A1@3>1 A1@4>1 A1@5>1 A1@6>1 A1@7>1 A1@8>1
-  Part3           : A4@1>1 B4@3>1 C5@5>1 B4@7>1
-  Part4           : A3@1>1 B3@3>1 C4@5>1 B3@7>2
-  Part7           : C5@1>8
-  Electric Piano#2: E3+A3+C4@1>7
-@87 [G]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
-  Part3           : G4@1>3 A4@4>3 C5@7>1 A4@8>1
-  Part4           : G3@1>3 A3@4>3 C4@7>1 A3@8>1
-  Part7           : B4@1>8
-  Electric Piano#2: D3+G3+B3@1>7
-@88 [F#dim]
-  Electric Bass   : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1 F#1@5>1 F#1@6>1 F#1@7>1 F#1@8>1
-  Part3           : A4@1>2 C5@3>1 A4@4>3 C5@7>1 A4@8>1
-  Part4           : A3@1>2 C4@3>1 A3@4>3 C4@7>1 A3@8>1
-  Part7           : C5@1>8
-  Electric Piano#2: D3+F#3+A3@1>7
-@89 [F | G]
-  Electric Bass   : F1@1>1 F1@2>1 F1@3>1 F1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
-  Part3           : A4@1>2 C5@3>1 A4@4>3
-  Part4           : A3@1>2 C4@3>1 A3@4>3
-  Part7           : C5@1>4 B4@5>4
-  Electric Piano#2: C3+F3+A3@1>4 D3+G3+B3@5>4
-@90 [Cm]
-  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 C2@6>1 C2@7>1 Bb1@8>1
-  Part3           : C5@1>1 D5@3>1 Eb5@5>1 D5@7>1
-  Part7           : C5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
-  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
-  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
-@91 [Gm7]
-  Electric Bass   : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 G1@8>1
-  Part3           : Bb4@1>3 G4@4>4
-  Part7           : F4+D5@1>8 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4@5>1 Bb3@6>1 D4@7>1 C4@8>1
-  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
-  Electric Piano#2: G3+Bb3+D4@1>8
-@92 [Cm]
-  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 G1@6>1 Bb1@7>1 G1@8>1
-  Part3           : F4@8>1
-  Part7           : C4+Eb5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
-  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
-  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
-@93 [Gm7]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
-  Part3           : F4@1>1 F4@2>1 Eb4@4>2 D4@6>2
-  Part7           : F4+D5@1>4 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4+Bb4@5>4 Bb3@6>1 D4@7>1 C4@8>1
-  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
-  Electric Piano#2: G3+Bb3+D4@1>8
-@94 [Cm]
-  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 C2@6>1 C2@7>1 Bb1@8>1
-  Part3           : C5@1>1 D5@3>1 Eb5@5>1 D5@7>1
-  Part7           : C4+C5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
-  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
-  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
-@95 [Gm7]
-  Electric Bass   : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 G1@8>1
-  Part3           : Bb4@1>3 C5@4>3 Eb5@7>1 C5@8>1
-  Part7           : F4+D5@1>8 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4@5>1 Bb3@6>1 D4@7>1 C4@8>1
-  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
-  Electric Piano#2: G3+Bb3+D4@1>8
-@96 [Cm]
-  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 G1@6>1 Bb1@7>1 G1@8>1
-  Part3           : C5@1>2 Eb5@3>1 C5@4>3 Eb5@7>1 C5@8>1
-  Part4           : F4@8>1
-  Part7           : C4+Eb5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
-  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
-  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
-@97 [Gm7]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
-  Part3           : C5@1>2
-  Part4           : F4@1>1 F4@2>1 Eb4@4>2 D4@6>2
-  Part7           : F4+D5@1>4 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4+Bb4@5>4 Bb3@6>1 D4@7>1 C4@8>1
-  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
-  Electric Piano#2: G3+Bb3+D4@1>8
-@98 [Cm]
-  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 C2@6>1 C2@7>1 Bb1@8>1
-  Part3           : C5@1>1 D5@3>1 Eb5@5>1 D5@7>1
-  Part7           : C4+C5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
-  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
-  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
-@99 [Gm7]
-  Electric Bass   : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 G1@8>1
-  Part3           : Bb4@1>3 G4@4>4
-  Part7           : F4+D5@1>8 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4@5>1 Bb3@6>1 D4@7>1 C4@8>1
-  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
-  Electric Piano#2: G3+Bb3+D4@1>8
-@100 [Cm]
-  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 G1@6>1 Bb1@7>1 G1@8>1
-  Part3           : F4@8>1
-  Part7           : C4+Eb5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
-  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
-  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
-@101 [Gm7]
-  Electric Bass   : G1@1>1 G1@2>1 G1@3>1 G1@4>1 G1@5>1 G1@6>1 G1@7>1 G1@8>1
-  Part3           : F4@1>1 F4@2>1 Eb4@4>2 D4@6>2
-  Part7           : F4+D5@1>4 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4+Bb4@5>4 Bb3@6>1 D4@7>1 C4@8>1
-  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
-  Electric Piano#2: G3+Bb3+D4@1>8
-@102 [Cm]
-  Electric Bass   : C2@1>1 C2@2>1 C2@3>1 C2@4>1 C2@5>1 C2@6>1 C2@7>1 G1@8>1
-  Part3           : C5@1>1 D5@3>1 Eb5@5>1 D5@7>1
-  Part7           : C4+C5@1>8 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 F4@8>1
-  Electric Piano  : C5@2>1 G5@3>1 C5@4>1 F5@5>1 C5@6>1 Eb5@7>1 F5@8>1
-  Electric Piano#2: C3+C4+Eb4+G4@1>6 C3+Eb4+G4@8>1
-@103 [Gm7]
-  Electric Bass   : Bb1@2>1 Bb1@4>1 Bb1@6>1 G1@8>1
-  Part3           : Bb4@1>8
-  Part7           : F4+D5@1>8 Bb3@2>1 F4@3>1 Bb3@4>1 Eb4@5>1 Bb3@6>1 D4@7>1 C4@8>1
-  Electric Piano  : Bb4@2>1 F5@3>1 Bb4@4>1 Eb5@5>1 Bb4@6>1 D5@7>1 C5@8>1
-  Electric Piano#2: G3+Bb3+D4@1>8
-@104 [C | Cm]
-  Part3           : C5@1>8
-  Part7           : C4@1>1
-  Electric Piano  : C4@1>1 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 D4@8>1
-@105 [C | F7]
-  Electric Piano  : C4@1>1 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 D4@8>1
-@106 [C | F7]
-  Electric Piano  : C4@1>1 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 D4@8>1
-@107 [C | F7]
-  Electric Piano  : C4@1>1 C4@2>1 G4@3>1 C4@4>1 F4@5>1 C4@6>1 Eb4@7>1 D4@8>1
-@108 [C] (grid:4)
-  Electric Piano  : C4@1>1
+KEY: G major | METER: 4/4 | TEMPO: 66 | GRID: 64th (adaptive) | BARS: 77
+VOICES: Acoustic Grand Piano[prog=0], Acoustic Grand Piano#2[prog=0], Acoustic Grand Piano#3[prog=0], Acoustic Grand Piano#4[prog=0], Acoustic Grand Piano#5[prog=0]
+@1 [G | C]
+  Acoustic Grand Piano  : D4+G4+A4+B4@1>12^104 C5@13>4^104 F#4+A4+D5@17>16^104 E4+G4+C5@33>12^104 B4@45>2^104 A4@47>2^104 B4@49>4^104 G5@53>4^104 F#5@57>4^104 G5@61>4^104
+  Acoustic Grand Piano#2: G2+G3@1>32^104 F#3@17>16^104 G2+E3@33>32^104 D3@49>16^104
+  Acoustic Grand Piano#4: G1@17>9^104 G1@33>10^104 G1@49>9^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@2 [C7 | D]
+  Acoustic Grand Piano  : D5@1>4^104 G5@5>4^104 C5@9>4^104 G5@13>4^104 B4@17>4^104 G5@21>4^104 A4@25>4^104 G4@29>4^104 D4+F#4+A4@33>24^104 B4@57>4^104 C5@61>4^104
+  Acoustic Grand Piano#2: C3+E3@1>16^104 B2+G3@17>16^104 D3+F#3@33>16^104 D2@49>16^104
+  Acoustic Grand Piano#4: C2@1>13^104 B1@17>9^104 D2@33>26^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@3 [Em7 | C7] (grid:32)
+  Acoustic Grand Piano  : G4+D5@1>4^104 G5@5>4^104 G4+D5@9>4^104 G4@13>4^104 G4+E5@17>6^104 D5@23>1^104 C5@24>1^104 G4+D5@25>4^104 G4@29>4^104
+  Acoustic Grand Piano#2: E3+B3@1>8^104 B2+G3@9>8^104 C3+G3@17>8^104 B2+G3@25>8^104
+  Acoustic Grand Piano#4: E2@1>7^56 B1@9>6^104 C2@17>6^104 B1@25>5^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@5>1^80 A2+E3+A3@9>1^80 A3@13>1^80 A2+A3@17>1^80 A3@21>1^80 A2+E3+A3@25>1^80 A3@29>1^80
+@4 [Am7 | D] (grid:16)
+  Acoustic Grand Piano  : E4+C5@1>4^104 E4+B4@5>2^104 A4@7>1^104 G4@8>1^104 D4+F#4+A4@9>6^104 D4@15>1^104 E4@16>1^104
+  Acoustic Grand Piano#2: A2+E3@1>4^104 G2+E3@5>4^104 F#2+D3@9>4^104 D2@13>4^104
+  Acoustic Grand Piano#4: A1@1>3^104 G1@5>1^104 F#1@7>1^104 D2@9>5^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@3>1^80 A2+E3+A3@5>1^80 A3@7>1^80 A2@9>1^80 E3@11>1^80 A2+E3+A3@13>1^80 E3@15>1^80
+@5 [G | Em] (grid:8)
+  Acoustic Grand Piano  : D4@1>1^104 G3@2>2^104 G4@4>1^104 F#4@5>1^104 E4@7>1^104 D4@8>3^104
+  Acoustic Grand Piano#2: G2+D3@1>4^104 G2+E3@5>4^104
+  Acoustic Grand Piano#4: G1@1>2^104 G1@4>1^104 G1@5>3^80
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@2>1^80 A2+E3+A3@3>1^80 A3@4>1^80 A2+A3@5>1^80 A3@6>1^80 A2+E3+A3@7>1^80 A3@8>1^80
+@6 [Em | G]
+  Acoustic Grand Piano  : A3@17>8^104 B3@25>4^104 A3@29>4^104 B3@33>24^104 D4@57>4^104 D4@61>4^104
+  Acoustic Grand Piano#2: G2+F#3@1>32^104 G2+D3+G3@33>32^104
+  Acoustic Grand Piano#4: G1@1>19^80 G1@25>2^104 G1@33>22^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@7 [G | D] (grid:8)
+  Acoustic Grand Piano  : D4@1>1^104 C4@2>2^104 B3@4>1^104 F#3+A3@5>3^104 F#3@8>1^104
+  Acoustic Grand Piano#2: G2+B2@1>4^104 D2+A2@5>4^104
+  Acoustic Grand Piano#4: C2@1>3^80 D2@5>3^104 C#2@8>1^32
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@2>1^80 A2+E3+A3@3>1^80 A3@4>1^80 A2+A3@5>1^80 A3@6>1^80 A2+E3+A3@7>1^80 A3@8>1^80
+@8 [G | C]
+  Acoustic Grand Piano  : B3+G4@1>8^104 D4@9>8^104 A3+F#4@17>8^104 D4@25>16^56 C4+D4+E4@33>24^104 D4@57>4^104 E4@61>4^104
+  Acoustic Grand Piano#2: G2+D3@1>32^104 G2@33>32^104
+  Acoustic Grand Piano#4: G1@1>19^80 D2@25>1^104 G2@32>18^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3@49>1^80 B3@57>1^80
+@9 [G | C]
+  Acoustic Grand Piano  : D4@1>8^104 G3@9>16^104 G4@25>8^104 C4+D4+F#4@33>24^104 E4@49>8^104 G3+D4@57>24^104
+  Acoustic Grand Piano#2: G2+D3@1>24^104 B2+G3@25>8^104 C3+G3@33>24^104 E2+C3@57>8^104
+  Acoustic Grand Piano#4: G1@1>17^80 G1@25>2^80 C2@33>13^104 E2@50>11^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@10 [D | G] (grid:16)
+  Acoustic Grand Piano  : E4@5>2^104 B3@7>1^104 A3@8>1^104 G3+B3@9>4^104 B3@13>1^104 C4@14>1^104 D4@16>1^104
+  Acoustic Grand Piano#2: F#2+D3@1>4^104 F#2@5>4^104 G2@9>4^104 B2+G3@13>4^104
+  Acoustic Grand Piano#4: F#2@1>4^104 F#2@7>1^104 G2@9>3^104 B1@13>3^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@3>1^80 A2+E3+A3@5>1^80 A3@7>1^80 A2+A3@9>1^80 A3@11>1^80 A3@12>1^80 A2+E3+A3@13>1^80 A2+B3@15>1^80
+@11 [C | D]
+  Acoustic Grand Piano  : D4@1>12^104 C4@13>4^104 C4@17>8^104 B3@25>4^104 A3@29>4^104 A3@33>12^104 B3@45>2^104 A3@47>2^104 F#3@49>8^104 A3@57>4^104 G3@61>4^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>32^104 D3+F#3@33>16^104 D2@49>16^104
+  Acoustic Grand Piano#4: C2@1>27^104 D2@33>25^80
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@12 [G] (grid:16)
+  Acoustic Grand Piano  : G3@1>2^104 B3@3>2^104 F#3+A3+D4@5>4^104 F#3+A3+D4@9>1^104 G3+B3+D4@10>3^104 D4+G4@13>1^104 E4+A4@14>1^104 D4+G4+B4@15>2^104
+  Acoustic Grand Piano#2: G2@1>7^104 D2@8>1^104 G2@9>4^104 G1@13>1^104 B2@15>2^104
+  Acoustic Grand Piano#4: G1@1>3^104 D2@5>2^104 G1@9>2^80 G1@13>1^80 A1@14>1^104 B1@15>1^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@3>1^80 A2+E3+A3@5>1^80 A3@7>1^80 A2+A3@9>1^80 A3@11>1^80 A3@12>1^80 A2+E3@13>1^80 E3@15>1^80
+@13 [C | D]
+  Acoustic Grand Piano  : E4+G4@1>8^104 G3+B3+E4@9>16^104 E4+G4@25>8^104 D4+F#4+A4@33>8^104 F#4+A4@41>8^104 D4+E4+G4@49>8^104 E4+G4@57>12^104
+  Acoustic Grand Piano#2: C2+G2@1>32^104 D2+A2@33>32^104
+  Acoustic Grand Piano#4: C2@1>17^104 C2@24>2^104 D2@33>19^104 D2@57>2^104 C#2@58>1^80
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@14 [Em]
+  Acoustic Grand Piano  : F#4+A4@5>4^104 B3+E4+G4@9>16^104 E5+G5@25>4^104 E5+A5@29>4^104 G5+B5@33>16^104 G4+B4@49>8^104 F#4+A4@57>4^104 E4+G4@61>4^104
+  Acoustic Grand Piano#2: E2+B2@1>64^104
+  Acoustic Grand Piano#4: E2@1>24^104 E2@25>3^104 E2@33>24^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@15 [C | G] (grid:8)
+  Acoustic Grand Piano  : C4+E4+G4@1>1^104 E3+G3+C4@2>2^104 G3+B3+D4@4>3^104 B3+D4+G4@7>1^104 B3+D4+G4@8>2^104
+  Acoustic Grand Piano#2: C2@1>4^104 B1@5>4^104
+  Acoustic Grand Piano#4: C2@1>2^104 B1@3>1^56 C2@4>1^104 B1@5>2^104 B1@8>1^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@2>1^80 A2+E3+A3@3>1^80 A3@4>1^80 A2+A3@5>1^80 A3@6>1^80 A2+E3+A3@7>1^80 A3@8>1^80
+@16 [D]
+  Acoustic Grand Piano  : A3+D4+F#4@9>4^104 G3+E4@13>4^104 F#3+A3+D4@17>32^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: D2@1>32^104 D3@33>32^104
+  Acoustic Grand Piano#4: D2@1>17^104 D2@25>1^80 D2@33>16^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@17 [C | G]
+  Acoustic Grand Piano  : G4@1>8^104 C4@17>16^104 B3@25>24^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>48^104 B2+D3+G3@25>48^104
+  Acoustic Grand Piano#4: C2@1>10^104 B1@26>31^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@18 [C | G]
+  Acoustic Grand Piano  : G4@1>8^104 C4@17>16^104 B3@25>24^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>24^104 B2+D3+G3@25>32^104
+  Acoustic Grand Piano#4: C2@1>15^104 B1@25>31^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@19 [C | D]
+  Acoustic Grand Piano  : G4@1>16^104 C4@17>8^104 B3@25>4^104 A3@29>4^104 A3@33>12^104 B3@45>2^104 A3@47>2^104 F#3@49>8^104 A3@57>4^104 G3@61>4^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>32^104 D3+F#3@33>16^104 D2@49>16^104
+  Acoustic Grand Piano#3: G2+B2@64>9^32
+  Acoustic Grand Piano#4: C2@1>23^104 D2@33>23^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@20 [G | C7]
+  Acoustic Grand Piano  : D4+G4+A4+B4@1>12^104 C5@13>4^104 F#4+A4+D5@17>16^104 C4+E4+G4@33>12^104 A4@45>4^104 B4@49>4^104 G4@53>4^104 F#4@57>4^104 G4@61>4^104
+  Acoustic Grand Piano#2: G2+G3@1>32^104 F#3@17>16^104 G2+E3@33>32^104 D3@49>16^104
+  Acoustic Grand Piano#3: C#3+D3+F#3+G3+A#3+B3@1>8^104 G4@2>7^32 G#2+A2+C#3+D3@16>8^80 A3+D4@17>7^104 F#4@18>6^104 C#4+F4@24>1^80 C3+E3@32>9^80 F#3+G3+C4@33>8^104 E4@34>7^104 G2@48>10^56 B2+C#3+D3+F#3+G3@49>9^104 A#3+B3+G4@50>9^104
+  Acoustic Grand Piano#4: G1@1>16^80 G1@18>11^56 G1@32>16^104 G1@48>9^80
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@21 [C7 | D]
+  Acoustic Grand Piano  : D4@1>4^104 G4@5>4^104 C4@9>4^104 G4@13>4^104 B3@17>8^104 A3@25>4^104 G3@29>4^104 A3@33>24^104 D4@57>4^104 E4@61>4^104
+  Acoustic Grand Piano#2: C3+E3@1>16^104 B2+G3@17>16^104 D3+F#3@33>16^104 D2@49>16^104
+  Acoustic Grand Piano#3: E2@1>2^32 C3+E3+F#3+G3+C4+E4@2>9^104 B2+G4@17>8^56 C#3+D3+F#3+G3+B3+G4@18>9^104 C#3@33>1^56 D3+A3+D4+F#4@34>24^104
+  Acoustic Grand Piano#4: C2@1>12^104 B1@17>9^104 D2@33>20^104 E1@57>3^80 F#1@61>3^56
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 E3@57>1^80
+@22 [G | C]
+  Acoustic Grand Piano  : D4@1>8^104 G3@9>16^104 G4@25>8^104 F#4@33>8^104 E4@45>8^104 D4@57>24^104
+  Acoustic Grand Piano#2: G2+D3@1>32^104 G2+E3@33>32^104
+  Acoustic Grand Piano#3: G2+B2+C#3@1>28^56 D3+F#3+G3+A#3+B3+G4@2>31^80 C#3+D3@25>7^56 F#2@29>1^32 F#2+C3+D#3+E3+F#3+G3+B3+C4+E4@33>25^104 A2@64>24^32
+  Acoustic Grand Piano#4: G1@2>16^104 D2@25>2^104 G2@33>19^104 G2@58>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@23 [D | G]
+  Acoustic Grand Piano  : A3@17>8^104 B3@25>4^104 A3@29>4^104 B3@33>24^104 D4@57>4^104 D4@61>4^104
+  Acoustic Grand Piano#2: G2+F#3@1>32^104 G2+D3+G3@33>32^104
+  Acoustic Grand Piano#3: C#3+D3+A3@1>23^80 D4+F#4@2>22^104 G2@31>23^32 B2+C#3+D3+A3@32>23^56 G3+A#3+B3+G4@33>22^104 E2@63>2^32 C3@64>24^56
+  Acoustic Grand Piano#4: G1@2>19^104 D2@26>1^104 G2@33>16^104 G1@53>2^56 A1@57>3^80 B1@61>4^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@24 [C7 | D]
+  Acoustic Grand Piano  : D4@1>8^104 C4@9>16^104 B3@25>8^104 F#3+A3@33>24^104 F#3@57>8^104
+  Acoustic Grand Piano#2: G2+B2@1>32^104 D2+A2@33>32^104
+  Acoustic Grand Piano#3: E3+F#3+G3@1>24^80 C4+E4@2>23^104 A2+C#3+D3@32>32^80 A3@33>23^80 D4+F#4@34>22^104 F4@56>1^32 G2@63>13^56 B2+C#3+D3@64>16^80
+  Acoustic Grand Piano#4: C2@2>16^104 C2@24>2^104 C2@28>2^104 D2@32>19^104 D2@57>1^80
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@25 [G | C]
+  Acoustic Grand Piano  : B3+G4@1>8^104 D4@9>8^104 A3+F#4@17>8^104 D4@25>16^56 C4+D4+E4@33>24^104 D4@57>4^104 E4@61>4^104
+  Acoustic Grand Piano#2: G2+D3@1>32^104 G2@33>32^104
+  Acoustic Grand Piano#3: F#3+G3@1>15^80 A#3+B3+G4@2>14^104 C#3+D3+A3+D4@17>9^104 F#4@18>7^104 C3+E3@32>23^80 F#3+G3+C4@33>22^104 E4@34>22^80 G2+B2@64>26^32
+  Acoustic Grand Piano#4: G2@1>13^104 D2@17>12^104 C2@33>22^104 E1@57>3^80 F#1@61>4^80
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3@49>1^80 B3@57>1^80
+@26 [G | C]
+  Acoustic Grand Piano  : D4@1>8^104 G3@9>16^104 G4@25>8^104 C4+D4+F#4@33>16^104 E4@49>8^104 G3+D4@57>24^104
+  Acoustic Grand Piano#2: G2+D3@1>24^104 B2+G3@25>8^104 C3+G3@33>24^104 E2+C3@57>8^104
+  Acoustic Grand Piano#3: C#3+D3+F#3@1>29^80 G3+A#3+B3@2>28^104 G4@3>24^80 F#2@25>1^32 E2@31>1^32 C3+E3@32>24^80 F#3+G3@33>29^80 C4@34>22^104 E4@35>26^80 C#3+D3@64>24^56
+  Acoustic Grand Piano#4: G1@1>17^80 G1@25>1^104 C2@33>12^104 E2@51>9^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@27 [Bm7 | G]
+  Acoustic Grand Piano  : E4@17>8^104 B3@25>4^104 A3@29>4^104 G3+B3@33>16^104 B3@49>5^104 C4@54>5^104 D4@60>5^104
+  Acoustic Grand Piano#2: F#2+D3@1>16^104 F#2@17>16^104 G2@33>16^104 B2+G3@49>16^104
+  Acoustic Grand Piano#3: A3+D4@1>22^104 F#4@2>21^80 G2@31>23^32 B2@32>23^56 C#3+D3+F#3+G3@33>22^80 A#3+B3@34>20^104 G4@35>20^80 F#2@54>1^32 C3+E3@64>25^80
+  Acoustic Grand Piano#4: F#2@2>22^104 G1@34>12^56 B1@49>11^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@28 [C | D]
+  Acoustic Grand Piano  : D4@1>12^104 C4@13>4^104 C4@17>8^104 B3@25>4^104 A3@29>4^104 A3@33>12^104 B3@45>2^104 A3@47>2^104 F#3@49>8^104 A3@57>4^104 G3@61>4^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>32^104 D3+F#3@33>16^104 D2@49>16^104
+  Acoustic Grand Piano#3: F#3+G3@1>24^80 C4+E4@2>24^104 C#3+D3+A3@33>24^80 D4+F#4@34>23^104 G2+B2@64>11^32
+  Acoustic Grand Piano#4: C2@1>18^104 C2@25>3^104 D2@33>17^104 D2@57>1^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@29 [G]
+  Acoustic Grand Piano  : G3@1>8^104 B3@9>8^104 F#3+A3+D4@17>16^104 F#3+A3+D4@33>4^104 G3+B3+D4@37>12^104 D4+G4@49>4^104 E4+A4@53>4^104 D4+G4+B4@57>8^104
+  Acoustic Grand Piano#2: G2@1>28^104 D2@29>4^104 G2@33>16^104 G1@49>8^104 B2@57>8^104
+  Acoustic Grand Piano#3: C#3+D3+F#3+G3+A#3@1>9^104 B3+G4@2>8^104 A2+C#3+D3@16>9^56 A3+D4+F#4@17>8^104 G2@31>25^32 B2+C#3+D3+C4@32>25^80 G3+A#3+B3@33>23^104 G4@34>23^104 C3+D#3@64>24^80
+  Acoustic Grand Piano#4: G2@1>11^104 D2@18>2^104 G1@33>9^104 F#1@49>1^104 G1@50>2^104 A1@53>3^104 B1@57>7^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@30 [C7 | D]
+  Acoustic Grand Piano  : E4+G4@1>8^104 G3+B3+E4@9>16^104 E4+G4@25>8^104 D4+F#4+A4@33>8^104 F#4+A4@41>8^104 D4+E4+G4@49>8^104 E4+G4@57>12^104
+  Acoustic Grand Piano#2: C2+G2@1>32^104 D2+A2@33>32^104
+  Acoustic Grand Piano#3: E3+F#3+G3+A#3+B3@1>24^104 E4@2>29^80 E3+F#3+G3+A#3@25>7^80 B3@26>6^80 F4+F#4@31>2^32 C#3+D3+A3+D4@33>24^104 F#4@34>22^104 E2@63>66^32 B2+E3@64>24^80
+  Acoustic Grand Piano#4: C2@1>15^104 C2@24>2^104 C2@28>2^104 D2@33>16^104 D2@57>3^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@31 [Em]
+  Acoustic Grand Piano  : F#4+A4@5>4^104 B3+E4+G4@9>16^104 E5+G5@25>4^104 E5+A5@29>4^104 G5+B5@33>16^104 G4+B4@49>8^104 F#4+A4@57>4^104 E4+G4@61>4^104
+  Acoustic Grand Piano#2: E2+B2@1>64^104
+  Acoustic Grand Piano#3: F#3+G3@1>23^80 A#3+B3+E4@2>23^104 B2+E3@24>32^56 F#3+G3+A#3+B3+E4@25>8^104 E3+F#3+G3+A#3@33>26^80 B3+E4@34>30^80 A#2+B2@56>3^32 C3@64>26^32
+  Acoustic Grand Piano#4: E2@1>16^104 A2@24>4^104 B2@28>3^80 D#3+E3@33>16^104 B2@57>3^104 G#2+A2+A#2@60>1^104 G2@61>1^80 F#2@62>1^80 F2@63>2^56
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@32 [C | G]
+  Acoustic Grand Piano  : C4+E4+G4@1>8^104 E3+G3+C4@9>16^104 G3+B3+D4@25>24^104 B3+D4+G4@49>8^104 B3+D4+G4@57>16^104
+  Acoustic Grand Piano#2: C2@1>32^104 B1@33>32^104
+  Acoustic Grand Piano#3: F2+E3+F#3+G3@1>26^80 C4+E4@2>25^104 G2@31>28^32 B2@32>17^32 F#3+G3+A#3+B3@33>32^104 G4@34>25^80 C#3@64>1^56
+  Acoustic Grand Piano#4: C2@1>17^104 C2@24>5^104 B1@33>17^104 B1@57>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@33 [D]
+  Acoustic Grand Piano  : A3+D4+F#4@9>4^104 G3+E4@13>4^104 F#3+A3+D4@17>32^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: D2@1>32^104 D3@33>32^104
+  Acoustic Grand Piano#3: B2+D3+F#3+G3+A#3+B3@1>10^104 G4@2>7^80 C#3@16>1^32 D3+A3+D4+F#4@17>34^80 C3+E3@64>15^32
+  Acoustic Grand Piano#4: D2@1>16^104 D2@25>2^104 D2@33>16^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@34 [C | G]
+  Acoustic Grand Piano  : G4@1>8^104 C4@17>16^104 B3@25>24^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>48^104 B2+D3+G3@25>48^104
+  Acoustic Grand Piano#3: F#3+G3+C4@1>15^80 E4@2>14^80 B2@15>1^32 G2@24>28^56 B2+D3@25>27^56 F#3+G3+A#3+B3@26>25^104 G4@27>24^80 F#2@62>12^32 C3@63>16^32 D#3+E3@64>15^56
+  Acoustic Grand Piano#4: C2@1>15^104 B1@26>24^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@35 [C7 | G]
+  Acoustic Grand Piano  : G4@1>8^104 C4@17>16^104 B3@25>24^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>24^104 B2+D3+G3@25>32^104
+  Acoustic Grand Piano#3: F#3+G3+C4@1>15^104 E4@2>14^80 G2+B2@24>27^80 C#3+D3@25>30^80 F#3+G3+A#3+B3@26>29^104 G4@27>24^80 E2+C3@64>21^56
+  Acoustic Grand Piano#4: C2@2>15^104 B1@26>31^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@36 [C | D]
+  Acoustic Grand Piano  : G4@1>16^104 C4@17>8^104 B3@25>4^104 A3@29>4^104 A3@33>12^104 B3@45>2^104 A3@47>2^104 F#3@49>8^104 A3@57>4^104 G3@61>4^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>32^104 D3+F#3@33>16^104 D2@49>16^104
+  Acoustic Grand Piano#3: E3+F#3+G3+C4@1>23^104 E4@2>22^104 G#2+A2+C#3+D3@32>26^56 A3+D4@33>23^80 F#4@34>22^80 F4@56>1^32
+  Acoustic Grand Piano#4: C2@1>23^104 D2@33>25^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@37 [G]
+  Acoustic Grand Piano  : B3+D4+G4@1>16^104 A3+D4+F#4@17>16^104 A3+D4+F#4@33>4^104 B3+D4+G4@37>12^104 D4+G4@49>4^104 E4+A4@53>4^104 D4+G4+B4@57>8^104
+  Acoustic Grand Piano#2: G2+G3@1>28^104 D2@29>4^104 G1@33>16^104 B2@49>16^104
+  Acoustic Grand Piano#3: B2+C#3+F#3+F4@1>9^80 D3+G3+B3+G4@2>8^104 C#3+D3@17>10^56 A3+D4+F#4@18>8^104 G2+B2@33>3^56 G2@37>22^32 B2+C#3+D3+F#3+G3+A#3+B3+G4@38>22^104 B2+C#3+D3@64>3^56
+  Acoustic Grand Piano#4: G1@2>11^80 G1@18>9^104 F#1@33>1^104 G1@34>9^104 G1@49>3^104 A1@53>3^104 B1@57>7^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@38 [Am | D]
+  Acoustic Grand Piano  : D4+G4+B4@1>8^104 C4+E4+A4@9>16^104 C4+E4+A4@25>8^104 D4+F#4+A4@33>16^104 A3+D4+F#4@49>4^104 B3+G4@53>4^104 C4+D4+A4@57>8^104
+  Acoustic Grand Piano#2: B1@1>24^104 C2@25>8^104 D2@33>32^104
+  Acoustic Grand Piano#3: F#3+G3+A#3+B3+G4@1>2^80 B2+C3+D#3+F#3+G3+C4+E4@9>8^80 E3@10>6^56 C#3+D3@24>30^32 A3+D4+F#4@25>29^80 C#3+D3@64>3^56
+  Acoustic Grand Piano#4: C2@2>16^104 C2@24>3^104 D2@33>18^104 D2@57>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@39 [G | Em]
+  Acoustic Grand Piano  : C4+D4+A4@1>8^104 B3+D4+G4@9>16^104 A3+D4+G4@25>8^104 B3+E4+G4@33>16^104 G3+B3@49>4^104 A3+C4@53>4^104 B3+D4@57>8^104
+  Acoustic Grand Piano#2: G2@1>24^104 F#2@25>8^104 E2@33>32^104
+  Acoustic Grand Piano#3: A3+C4+F#4@1>2^104 B2+C#3+D3@9>8^56 F#3+G3+A#3+B3+G4@10>8^104 B2+E3+F#3+G3+A#3@25>8^80 B3+E4@26>8^104 C#3@33>1^56 D3+F#3+G3+A#3+B3+E4@34>23^80 A2@63>27^32 E3@64>25^56
+  Acoustic Grand Piano#4: G2@1>11^104 F#2@17>10^104 E2@33>13^104 D2@49>11^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@40 [Am7 | D]
+  Acoustic Grand Piano  : B3+D4@1>8^104 A3+C4@9>8^104 A3+C4+E4+G4@17>16^104 E3+G3+C4@33>16^104 F#3+A3+D4@49>8^104 A3+C4@57>4^104 A3+C4@61>4^104
+  Acoustic Grand Piano#2: A2+G3@1>24^104 A1@25>8^104 D2@33>32^104
+  Acoustic Grand Piano#3: A3+C4@1>24^104 G4@2>23^80 D#3+E3+F#3+G3+C4@33>8^80 E4@34>7^56 C#3+D3@48>10^32 A3+D4@49>7^80 F#4@50>7^80 G2+B2@64>58^32
+  Acoustic Grand Piano#4: A1@2>17^80 A1@25>2^104 D2@33>19^104 D2@58>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@41 [G]
+  Acoustic Grand Piano  : A3+C4@1>8^104 G3+B3@9>8^104 G3+B3@17>32^104 G4@53>4^104 F#4@57>4^104 G4@61>4^104
+  Acoustic Grand Piano#2: G2+D3@1>64^104
+  Acoustic Grand Piano#3: C#3+D3+F#3+G3@1>63^80 A#3+B3+G4@2>62^80
+  Acoustic Grand Piano#4: G1@2>56^104 G#1@58>1^32
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@42 [G | Em]
+  Acoustic Grand Piano  : D4@1>4^104 G4@5>4^104 C4@9>4^104 G4@13>4^104 B3@17>4^104 G4@21>4^104 A3@25>4^104 G4@29>4^104 G3@33>4^104 G4@37>4^104 A3@41>4^104 G4@45>4^104 B3@49>4^104 G4@53>4^104 F#4@57>4^104 G4@61>4^104
+  Acoustic Grand Piano#2: G2+D3@1>32^104 B2+G3@33>32^104
+  Acoustic Grand Piano#4: G1@1>27^80 B1@33>26^80
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@43 [C | D] (grid:16)
+  Acoustic Grand Piano  : D4@1>1^104 G4@2>1^104 C4@3>1^104 G4@4>1^104 B3@5>1^104 G4@6>1^104 G3@7>1^104 G4@8>1^104 A3@9>5^104 D4@14>1^104 B4@15>1^104 C5@16>1^104
+  Acoustic Grand Piano#2: C3+E3@1>8^104 D3+F#3@9>8^104
+  Acoustic Grand Piano#4: C2@1>25^80 D2@9>6^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@3>1^80 A2+E3+A3@5>1^80 A3@7>1^80 A2+A3@9>1^80 A3@11>1^80 A2+E3+A3@13>1^80 A3@15>1^80
+@44 [Em7 | C7] (grid:32)
+  Acoustic Grand Piano  : G4+D5@1>4^104 G5@5>4^104 G4+D5@9>4^104 G4@13>4^104 G4+E5@17>6^104 D5@23>1^104 C5@24>1^104 G4+D5@25>4^104 G4@29>4^104
+  Acoustic Grand Piano#2: E3+B3@1>8^104 B2+G3@9>8^104 C3+G3@17>8^104 B2+G3@25>8^104
+  Acoustic Grand Piano#4: E2@1>5^104 B1@9>5^80 C2@17>6^104 B1@25>5^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@5>1^80 A2+E3+A3@9>1^80 A3@13>1^80 A2+A3@17>1^80 A3@21>1^80 A3@23>1^80 A2+E3+A3@25>1^80 A2+B3@29>1^80
+@45 [Am7 | D] (grid:16)
+  Acoustic Grand Piano  : E4+C5@1>4^104 E4+B4@5>2^104 A4@7>1^104 G4@8>1^104 D4+F#4+A4@9>6^104 G4@15>1^104 F#4@16>1^104
+  Acoustic Grand Piano#2: A2+E3@1>4^104 G2+E3@5>4^104 F#2+D3@9>4^104 D2@13>4^104
+  Acoustic Grand Piano#4: A1@1>3^104 G1@5>1^104 F#1@7>1^104 D2@9>6^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@3>1^80 A2+E3+A3@5>1^80 A3@7>1^80 A2+A3@9>1^80 A3@11>1^80 A2+E3+A3@13>1^80 A3@15>1^80
+@46 [G7 | C7]
+  Acoustic Grand Piano  : B3+G4@1>16^104 A3@17>4^104 D3@21>4^104 A3@25>4^104 D4@29>4^104 C4@33>4^104 E3@37>4^104 G3@41>4^104 C4@45>4^104 B3@49>4^104 D4@53>4^104 G4@57>4^104 F#4@61>4^104
+  Acoustic Grand Piano#2: G2+D3@1>8^104 G2@9>8^104 F#2@17>16^104 E2@33>16^104 D2@49>16^104
+  Acoustic Grand Piano#4: G1@1>3^80 F#1@18>11^104 E1@33>11^80 D2@49>10^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@47 [Am7 | D]
+  Acoustic Grand Piano  : E4@1>4^104 C4@5>4^104 E4@9>4^104 G4@13>4^104 E4+A4+C5@17>8^104 E4+G4+B4@25>8^104 D4+F#4@33>4^104 E4+G4@37>4^104 D4+F#4+A4@41>8^104 D4@57>4^104 E4@61>4^104
+  Acoustic Grand Piano#2: C2@1>16^104 A1@17>8^104 E2@25>8^104 D2@33>4^104 E2@37>4^104 F#2@41>8^104
+  Acoustic Grand Piano#4: C2@1>13^104 A1@17>4^104 E1@26>3^104 D1@33>2^104 E2@37>2^104 F#2@41>16^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@48 [G | C]
+  Acoustic Grand Piano  : D4@1>8^104 G3@9>16^104 G4@25>8^104 F#4@33>8^104 E4@45>8^104 D4@57>24^104
+  Acoustic Grand Piano#2: G2+D3@1>32^104 G2+E3@33>32^104
+  Acoustic Grand Piano#3: C#3+D3+F#3+G3+A#3+B3@2>17^80 G4@3>15^56 B2@24>3^32 C#3+D3+F#3+G3+A#3+B3+G4@25>3^80 C3+D#3+E3@33>19^56 F#3+G3+C4+E4@34>19^104 B2@52>1^32 C3+D#3+E3+F#3+B3@57>3^80 G3+C4@58>3^80 B2@60>1^32
+  Acoustic Grand Piano#4: G1@2>16^104 G1@25>2^80 G1@33>18^80 G1@57>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@49 [D | G]
+  Acoustic Grand Piano  : A3@17>8^104 B3@25>4^104 A3@29>4^104 B3@33>24^104 D4@57>4^104 D4@61>4^104
+  Acoustic Grand Piano#2: G2+F#3@1>32^104 G2+D3+G3@33>32^104
+  Acoustic Grand Piano#3: A3+D4@2>17^80 F#4@3>16^32 C#3@24>1^32 D3+A3+D4+F#4@25>2^80 G2@32>24^32 B2+C#3+D3+F#3@33>17^80 G3+A#3+B3+G4@34>22^104 C3@64>25^32
+  Acoustic Grand Piano#4: G1@1>17^80 G1@24>2^104 G1@32>21^80 A1@57>3^80 B1@61>3^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@50 [C7 | D]
+  Acoustic Grand Piano  : D4@1>8^104 C4@9>16^104 B3@25>8^104 F#3+A3@33>24^104 F#3@57>8^104
+  Acoustic Grand Piano#2: G2+B2@1>32^104 D2+A2@33>32^104
+  Acoustic Grand Piano#3: D#3+E3+F#3+G3@1>24^80 C4@2>23^80 C#3+D3@33>30^32 A3+D4@34>24^80 F#4@35>23^32 C#4@57>1^32 F4@58>1^32 G4@64>13^32
+  Acoustic Grand Piano#4: C2@1>16^104 C2@24>2^104 D2@33>19^104 D2@56>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@51 [G | C]
+  Acoustic Grand Piano  : B3+G4@1>8^104 D4@9>8^104 A3+F#4@17>8^104 D4@25>16^56 C4+D4+E4@33>24^104 D4@57>4^104 E4@61>4^104
+  Acoustic Grand Piano#2: G2+D3@1>32^104 G2@33>32^104
+  Acoustic Grand Piano#3: B2+C#3+D3+F#3+G3+A#3+B3@1>16^80 C#3+D3@17>10^56 A3+D4+F#4@18>8^104 E4@32>18^32 C3+E3@33>18^56 F#3+G3+C4@34>16^80 G2+B2@64>28^32
+  Acoustic Grand Piano#4: G1@1>27^80 G1@33>23^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+D3+F3+A3@33>1^80 B3@41>1^80 E3@45>1^80 A2+E3@49>1^80 E3@57>1^80
+@52 [G | C]
+  Acoustic Grand Piano  : D4@1>8^104 G3@9>16^104 G4@25>8^104 C4+D4+F#4@33>24^104 E4@49>8^104 G3+D4@57>24^104
+  Acoustic Grand Piano#2: G2+D3@1>24^104 B2+G3@25>8^104 C3+G3@33>24^104 E2+C3@57>8^104
+  Acoustic Grand Piano#3: C#3+D3+F#3+G3@1>26^56 A#3+B3@2>25^80 G4@3>24^32 F#3+G3@25>2^56 B2@32>1^32 F#2+C3+D#3+E3+F#3@33>23^80 G3+C4+E4@34>23^80 E2@35>1^32 F#2@36>1^32 B2@54>1^32
+  Acoustic Grand Piano#4: G1@1>15^80 G1@24>2^80 C2@33>12^104 E2@50>11^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@53 [D | G]
+  Acoustic Grand Piano  : E4@17>8^104 B3@25>4^104 A3@29>4^104 G3+B3@33>16^104 B3@49>5^104 C4@54>5^104 D4@60>5^104
+  Acoustic Grand Piano#2: F#2+D3@1>16^104 F#2@17>16^104 G2@33>16^104 B2+G3@49>16^104
+  Acoustic Grand Piano#3: A2+C#3+D3@1>26^56 A3@2>23^80 D4+F#4@3>23^80 F4@25>1^32 C#4@26>1^32 B2+C#3+D3@33>23^32 F#3+G3+A#3+B3@34>22^80 G4@35>21^80 C3@64>24^32
+  Acoustic Grand Piano#4: F#2@2>22^104 G1@33>12^104 B1@49>12^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@54 [C | D]
+  Acoustic Grand Piano  : D4@1>12^104 C4@13>4^104 C4@17>8^104 B3@25>4^104 A3@29>4^104 A3@33>12^104 B3@45>2^104 A3@47>2^104 F#3@49>8^104 A3@57>4^104 G3@61>4^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>32^104 D3+F#3@33>16^104 D2@49>16^104
+  Acoustic Grand Piano#3: E3+F#3+G3@1>24^80 C4+E4@2>23^104 B2@24>1^32 A2@32>26^32 C#3+D3+A3+D4@33>25^104 F#4@34>23^80
+  Acoustic Grand Piano#4: C2@1>18^104 C2@25>4^104 D2@33>18^104 D2@57>3^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@55 [G]
+  Acoustic Grand Piano  : G3@1>8^104 B3@9>8^104 F#3+A3+D4@17>16^104 F#3+A3+D4@33>4^104 G3+B3+D4@37>12^104 D4+G4@49>4^104 E4+A4@53>4^104 D4+G4+B4@57>8^104
+  Acoustic Grand Piano#2: G2@1>28^104 D2@29>4^104 G2@33>16^104 G1@49>8^104 B2@57>8^104
+  Acoustic Grand Piano#3: G2+B2+C#3+D3@1>9^80 F#3+G3+A#3+B3+G4@2>8^104 F#2@10>1^32 A2+C#3+D3@17>10^80 A3+D4+F4+F#4@18>9^104 C#4+D4@25>1^80 F4@26>1^56 B2+C#3@33>9^80 D3+F#3+G3+B3+G4@34>17^104 C3@63>22^56 E2+E3@64>21^80
+  Acoustic Grand Piano#4: G1@1>18^80 D2@25>2^104 G2@33>8^104 G1@49>3^104 A1@53>3^104 B1@57>4^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 B3@41>1^80 E3@45>1^80 A2+E3@49>1^80 E3@57>1^80
+@56 [C7 | D]
+  Acoustic Grand Piano  : E4+G4@1>8^104 G3+B3+E4@9>16^104 E4+G4@25>8^104 D4+F#4+A4@33>8^104 F#4+A4@41>8^104 D4+E4+G4@49>8^104 E4+G4@57>12^104
+  Acoustic Grand Piano#2: G1+C2@1>32^104 D2+A2@33>32^104
+  Acoustic Grand Piano#3: F#3+G3@1>20^104 A#3+B3@2>19^104 E4@3>18^56 A2@31>25^32 C#3+D3+A3@32>24^80 D4@33>21^104 F#4@34>21^80 E2@63>59^32 B2+E3@64>56^56
+  Acoustic Grand Piano#4: C2@2>19^104 G2@21>2^56 C2@25>1^56 C#2@28>2^80 D2@33>17^104 D2@57>2^104 D#2@61>2^80
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@44>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@57 [Em]
+  Acoustic Grand Piano  : F#4+A4@5>4^104 B3+E4+G4@9>16^104 E5+G5@25>4^104 E5+A5@29>4^104 G5+B5@33>16^104 G4+B4@49>8^104 F#4+A4@57>4^104 E4+G4@61>4^104
+  Acoustic Grand Piano#2: E2+B2@1>64^104
+  Acoustic Grand Piano#3: F#3+G3@1>54^80 A#3+B3+E4@2>27^80 C3@25>1^32 B2@26>31^32 A#3+B3@29>28^56 E4@31>26^56 A2@57>1^32 E2+C3+D#3@64>23^56
+  Acoustic Grand Piano#4: E2@1>17^104 A2@24>3^80 B2@28>4^80 E3@33>1^104 B2@37>2^80 E2@41>10^104 B1@57>3^80 A#1@60>1^56 A1@61>1^56 G#1@63>1^32 G1@64>1^32
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@58 [C | G]
+  Acoustic Grand Piano  : C4+E4+G4@1>8^104 E3+G3+C4@9>16^104 G3+B3+D4@25>24^104 B3+D4+G4@49>8^104 B3+D4+G4@57>16^104
+  Acoustic Grand Piano#2: C2@1>32^104 B1@33>32^104
+  Acoustic Grand Piano#3: E3+F#3+G3+C4@1>24^104 E4@2>22^80 E2+F2@5>1^32 B2@24>1^32 G4@31>2^32 G2+B2+C#3+D3@32>32^56 F#3+G3+A#3+B3@33>31^80 G4@34>25^80
+  Acoustic Grand Piano#4: C2@2>16^104 C2@25>2^104 B1@33>18^104 B1@57>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@59 [D]
+  Acoustic Grand Piano  : A3+D4+F#4@9>4^104 G3+E4@13>4^104 F#3+A3+D4@17>32^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: D2@1>32^104 D3@33>32^104
+  Acoustic Grand Piano#3: A3+D4@1>24^80 F#4@2>24^56 A3@25>7^56 D4+F#4@26>7^80 A3+D4+F#4@33>22^80 F4@54>1^32 E2@64>17^32
+  Acoustic Grand Piano#4: D2@1>22^104 A2@24>3^104 A1@29>3^104 D2@33>17^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@60 [C | G]
+  Acoustic Grand Piano  : G4@1>8^104 C4@17>16^104 B3@25>24^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>48^104 B2+D3+G3@25>48^104
+  Acoustic Grand Piano#3: E3+F#3+G3@1>15^80 C4+E4@2>13^80 G2@24>25^32 B2@25>25^32 C#3+D3@26>25^32 F#3+G3+A#3+B3@27>24^80 G4@28>22^80 F#2@50>1^32 C3@64>16^32
+  Acoustic Grand Piano#4: C2@2>16^104 B1@26>25^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@61 [C7 | G]
+  Acoustic Grand Piano  : G4@1>8^104 C4@17>16^104 B3@25>24^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>24^104 B2+D3+G3@25>32^104
+  Acoustic Grand Piano#3: E3+F#3+G3@1>15^80 C4+E4@2>14^80 B2@16>1^32 G2@24>33^32 B2+C#3+D3@25>31^56 F#3+G3+A#3+B3+G4@26>32^80 F#2@56>1^32 E2+C3@64>22^32
+  Acoustic Grand Piano#4: C2@2>15^104 B1@25>33^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@62 [C | D7]
+  Acoustic Grand Piano  : C4+E4+G4@1>12^104 A4@9>4^104 E4+G4+B4@13>8^104 A4@21>4^104 F#4+A4+C5@25>20^104 D5@45>4^104 B4@49>4^104 A4@53>4^104 G4@57>4^104 E4@61>4^104
+  Acoustic Grand Piano#2: C2+G2@1>32^104 D2+A2@33>32^104
+  Acoustic Grand Piano#3: E3+F#3+G3@1>22^80 C4+E4@2>20^80 A3+C4@33>23^104 F#4@34>22^80
+  Acoustic Grand Piano#4: C2@1>17^104 C2@24>3^104 D2@33>23^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@63 [Em7]
+  Acoustic Grand Piano  : D4+F#4+A4@1>12^104 B4@13>2^104 A4@15>2^104 B3+E4+G4@17>8^104 F#3+A3+D4@25>8^104 G3+B3+E4@33>16^104 F#3+B3+D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: E2+B2@1>32^104 E3@33>16^104 D3@49>16^104
+  Acoustic Grand Piano#3: C#3+D3@1>14^56 A3+D4@2>8^80 F#4@3>7^80 D#3@15>1^32 D#3+E3+F#3+G3+A#3+B3@18>37^80 F#3+G3+A#3+B3@33>22^80 E4@34>22^80 E2@64>4^32
+  Acoustic Grand Piano#4: E2@2>18^104 B1@25>1^80 E2@34>11^104 D2@49>11^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 E3@37>1^80 A2+E3@49>1^80 B3@57>1^80
+@64 [C7 | G]
+  Acoustic Grand Piano  : G4@1>12^104 C4@13>12^104 B3@25>24^104 D4@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>24^104 B2+D3+G3@25>32^104
+  Acoustic Grand Piano#3: C3+F#3+G3@1>16^80 E3+C4+E4@2>16^104 G2@24>32^32 B2+C#3+D3+F#3@25>35^80 G3+A#3+B3+G4@26>35^80 F#2@56>1^32 D#4+E4@63>2^32 E2@64>19^32
+  Acoustic Grand Piano#4: C2@2>16^104 B1@24>33^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@65 [C7 | G]
+  Acoustic Grand Piano  : G4@1>12^104 C4@13>12^104 B3@25>24^104 D4@49>5^104 E4@54>5^104 A4@60>5^104
+  Acoustic Grand Piano#2: C3+E3+G3@1>24^104 B2+D3+G3@25>32^104
+  Acoustic Grand Piano#3: C3+E3+F#3+G3+B3+C4@1>16^80 E4@2>1^56 B2@15>1^32 F2@19>1^32 G2@22>31^32 B2@23>28^32 C#3+D3+F#3+G3@24>35^80 A#3+B3+G4@25>35^80 F#2@53>1^32 E4@62>3^32 C3+E3+F#3+G3@64>22^80
+  Acoustic Grand Piano#4: C2@2>15^104 B1@24>29^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@66 [C | D7]
+  Acoustic Grand Piano  : C4+E4+G4@1>20^104 G4@21>1^104 A4@25>4^104 B4@29>4^104 C5@33>8^104 B4@41>4^104 A4@45>8^104 B4@57>8^104
+  Acoustic Grand Piano#2: C2@1>32^104 D2@33>32^104
+  Acoustic Grand Piano#3: C4+E4@1>21^80 A3@32>25^80 C4@33>25^80 F#4@34>25^80 G2@64>58^32
+  Acoustic Grand Piano#4: C2@1>17^104 C2@25>3^104 D2@33>19^104 D2@57>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@67 [G]
+  Acoustic Grand Piano  : D4+G4+B4@1>12^104 C4+D4+A4@13>4^104 B3+D4+G4@17>28^104 D4@45>1^104 D4+G4@49>4^104 E4+A4@53>4^104 D4+G4+B4@57>8^104
+  Acoustic Grand Piano#2: G2@1>28^104 D2@29>4^104 G1@33>16^104 B1@49>16^104
+  Acoustic Grand Piano#3: C#3+D3+F#3+G3@1>56^80 A#3+B3+G4@2>29^104 G4@25>6^56 B2@26>28^32 G4@32>25^56 A#3+B3@33>24^80 G2@64>3^32
+  Acoustic Grand Piano#4: G1@2>18^104 F#1+G1@25>2^104 G1@33>10^104 G1@49>3^104 A1@53>3^104 B1@57>6^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+D3+F3+A3@33>1^80 B3@41>1^80 E3@45>1^80 A2+E3@49>1^80 E3@57>1^80
+@68 [Am7 | D]
+  Acoustic Grand Piano  : D4+G4+B4@1>8^104 C4+E4+A4@9>16^104 C4+E4+A4@25>8^104 D4+F#4+A4@33>16^104 A3+D4+F#4@49>4^104 B3+G4@53>4^104 C4+D4+A4@57>8^104
+  Acoustic Grand Piano#2: C2@1>24^104 C2@25>8^104 D2@33>32^104
+  Acoustic Grand Piano#3: B2+C#3+D3+F#3+G3+A#3+B3+G4@1>2^104 C3+E3+F#3+G3+C4@9>9^80 E4@10>8^32 B2@17>1^32 G#2+A2@24>32^32 C#3+D3+A3+F#4@25>31^80 D4+F#4@26>31^104 F4@56>1^32 C#3+D3+A3@64>3^80
+  Acoustic Grand Piano#4: C2@2>17^104 C2@24>3^104 D2@33>19^104 D2@57>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@69 [G | Em]
+  Acoustic Grand Piano  : C4+D4+A4@1>8^104 B3+D4+G4@9>16^104 A3+D4+G4@25>8^104 B3+E4+G4@33>16^104 G3+B3@49>4^104 A3+C4@53>4^104 B3+D4@57>8^104
+  Acoustic Grand Piano#2: G2@1>24^104 F#2@25>8^104 E2@33>32^104
+  Acoustic Grand Piano#3: C4+F#4@1>3^104 B2+F#3@9>1^32 C#3+D3+G3+A#3+B3+G4@10>8^80 B2+E3+F#3+G3+A#3@25>39^80 B3@26>31^80 B2+C3+D#3@48>12^56 C#3+D3@49>15^56 E4@53>13^80 A#3+B3@57>7^80 E3@64>1^32
+  Acoustic Grand Piano#4: G2@1>12^104 F#2@17>10^104 D#2+E2@33>13^104 D2@50>9^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@70 [Am7 | D7]
+  Acoustic Grand Piano  : B3+D4@1>8^104 A3+C4@9>8^104 C4+E4+G4@17>16^104 G3+C4+E4@33>8^104 G4@41>8^104 D4+F#4+C5@49>8^104 B4@57>4^104 A4@61>4^104
+  Acoustic Grand Piano#2: A2+G3@1>24^104 A1@25>8^104 D2@33>16^104 D3@49>16^104
+  Acoustic Grand Piano#3: E3+A3+C4+E4@2>24^80 B3@16>1^56 C4+G4@17>8^80 E4@30>3^32 C3+E3+F#3+G3+B3@32>9^80 C4+E4@33>8^80 G#2+A2@47>10^32 A3@48>8^56 C4+F#4@49>8^104 F#4+G4@62>4^32 G2@63>61^32 B2+C#3+D3+F#3@64>32^56
+  Acoustic Grand Piano#4: A1@1>21^104 A1@26>2^32 B1@29>1^80 D2@34>15^104 D2@49>12^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@71 [G]
+  Acoustic Grand Piano  : D4+G4+B4@1>8^104 B3+D4+G4@9>12^104 C4+E4+A4@21>4^104 D4+G4+B4@25>16^104 D5@41>8^104 G4+B4+D5@49>8^104 D4+G4+B4@57>4^104 A4@61>4^104
+  Acoustic Grand Piano#2: G2+D3@1>28^104 D2@29>4^104 G1@33>12^104 A1@45>4^104 B1@49>16^104
+  Acoustic Grand Piano#3: F#3+G3+A#3+B3@1>32^104 G4@2>1^80 B2+C#3+D3+F#3+G3+A#3+B3@33>32^80 F#3+G3+A#3+B3@49>16^56 G4@54>6^56 A#3+B3@58>11^80
+  Acoustic Grand Piano#4: G1@2>20^104 D2@25>6^104 G1@33>11^104 B1@50>12^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@72 [Am | D]
+  Acoustic Grand Piano  : D4+G4+B4@1>8^104 C4+E4+A4@9>16^104 C4+E4+A4@25>8^104 D4+F#4+A4@33>16^104 A3+D4+F#4@49>4^104 B3+G4@53>4^104 C4+D4+A4@57>8^104
+  Acoustic Grand Piano#2: C2@1>24^104 C2@25>8^104 D2@33>32^104
+  Acoustic Grand Piano#3: B2+D3+F#3+G3@2>3^80 D#2@9>2^32 C3+E3+F#3+G3+C4@10>8^80 F#2@12>2^32 G#2@23>1^32 A2+C#3+D3@24>35^32 A3+D4@25>32^80 F#4@26>31^80 C#4+F4@57>1^32 C#3+D3@64>4^32
+  Acoustic Grand Piano#4: C2@2>16^104 C2@25>4^104 D2@34>17^104 D2@58>2^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@73 [G | Em]
+  Acoustic Grand Piano  : C4+D4+A4@1>8^104 B3+D4+G4@9>16^104 A3+D4+G4@25>8^104 B3+E4+G4@33>16^104 G3+B3@49>4^104 A3+C4@53>4^104 B3+D4@57>8^104
+  Acoustic Grand Piano#2: G2@1>12^104 F#2@25>8^104 E2@33>32^104
+  Acoustic Grand Piano#3: A3+C4+F#4@1>3^104 B2+C#3+D3+F#3+G3+A#3+B3+G4@9>9^80 C#3+D3@24>8^32 A3+D4+F#4@25>4^80 F#4+G4@26>1^80 C#4+F4@28>1^80 B2+E3+F#3@33>26^56 G3+A#3+B3+E4@34>28^104 G#2+A2+E3+A3+C4@64>54^80
+  Acoustic Grand Piano#4: G2@2>11^104 F#2@17>10^104 D#2@33>1^104 E2@34>10^104 D2@49>10^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@74 [Am7 | G] (grid:16)
+  Acoustic Grand Piano  : B3+D4@1>2^104 A3+C4@3>2^104 C4+E4+G4@5>8^104 C4+E4+G4@13>2^104 D4@15>2^104
+  Acoustic Grand Piano#2: A2+G3@1>6^104 A1@7>6^104 D2@9>8^104
+  Acoustic Grand Piano#3: G4@1>44^56
+  Acoustic Grand Piano#4: A1@1>4^80 A1@7>1^104 D2@9>3^104 D2@13>4^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@3>1^80 A2+E3+A3@5>1^80 A3@7>1^80 A2+A3@9>1^80 A3@11>1^80 A3@12>1^80 A2+E3+A3@13>1^80 A2+B3@15>1^80
+@75 [Em7]
+  Acoustic Grand Piano  : C4+E4+G4@1>32^104 B3@9>16^104 B3@25>4^104 C4@29>4^104 G4+D5@33>8^104 G5@41>8^104 G4+D5@49>8^104 G4@57>8^104
+  Acoustic Grand Piano#2: E3+B3@33>16^104 B2+G3@49>16^104
+  Acoustic Grand Piano#3: E3+F#3+G3@2>8^32 B2@32>9^32 E3+F#3+G3@33>8^80 A#3+B3+E4@34>7^104 G2+B2@47>10^32 C#3+D3@48>10^56 F#3+G3+A#3+B3@49>9^104 G4@50>7^80 E2@63>5^32 B2+C3+E3@64>9^56
+  Acoustic Grand Piano#4: E2@33>10^104 B1@49>10^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A2+E3+A3@49>1^80 A3@57>1^80
+@76 [Em | D7]
+  Acoustic Grand Piano  : G4+E5@1>12^104 D5@13>2^104 C5@15>2^104 G4+B4@17>4^104 G5@21>4^104 F#5@25>4^104 G5@29>4^104 E4+D5@33>4^104 G5@37>4^104 E4+C5@41>4^104 B4@45>4^104 D4+A4@49>12^104 G4@61>4^104
+  Acoustic Grand Piano#2: C3+G3@1>16^104 B2+G3@17>16^104 C4@33>16^104 A2+E3@34>16^104 F#2+D3@49>16^104
+  Acoustic Grand Piano#3: F#3+G3+C4@1>8^80 E4@2>7^56 G2@14>9^32 B2@15>8^32 F#3+G3@16>7^56 A#3+B3@17>7^80 G4@18>6^80 D#3+E3+A3@33>10^56 B3+C4+G4@34>9^80 C#3+D3@49>11^32 A3+D4@50>9^80 F#4@51>8^32
+  Acoustic Grand Piano#4: C2@1>9^104 B1@18>9^104 A1@34>8^104 F#1@50>9^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80 A3@9>1^80 A2+E3+A3@17>1^80 A3@25>1^80 A2+A3@33>1^80 A3@41>1^80 A3@45>1^80 A2+E3+A3@49>1^80 A2+B3@57>1^80
+@77 [G]
+  Acoustic Grand Piano  : A3+B3+D4+G4@1>64^104
+  Acoustic Grand Piano#2: G2+D3@1>64^104
+  Acoustic Grand Piano#3: G2+B2@2>54^32 C#3+D3+F#3+G3@3>55^56 A#3+B3@4>56^80 G4@5>41^56
+  Acoustic Grand Piano#4: G1@2>48^104
+  Acoustic Grand Piano#5: A2+A3@1>1^80

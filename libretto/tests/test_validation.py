@@ -22,13 +22,13 @@ CANON = canonical_axes()
 
 
 # --------------------------------------------------------------------------- #
-# registry + coverage (the 25-of-29 story)
+# registry + coverage (the 24-of-28 story)
 # --------------------------------------------------------------------------- #
-def test_coverage_is_25_of_29():
+def test_coverage_is_24_of_28():
     canon = set(CANON)
     levered = canon & set(LEVERS)
-    assert len(canon) == 29
-    assert len(levered) == 25, f"expected 25 levered canonical axes, got {len(levered)}"
+    assert len(canon) == 28
+    assert len(levered) == 24, f"expected 24 levered canonical axes, got {len(levered)}"
 
 
 def test_uncovered_axes_are_canonical_and_explained():
@@ -51,7 +51,7 @@ def test_levered_plus_uncovered_covers_all_canonical():
 @pytest.mark.parametrize("axis", ["tex_voice_count", "rhy_onset_density_per_bar",
                                   "tex_mean_simultaneity", "mel_voice_range"])
 def test_lever_moves_target_axis_monotonically(axis, tmp_path):
-    text = (GRAMMAR / "song_0047.txt").read_text()
+    text = (GRAMMAR / "song_0100.txt").read_text()
     push = LEVERS[axis].push
     pcts = []
     for dose in (0.0, 0.5, 1.0):
@@ -141,11 +141,11 @@ class FakeJudge:
 @pytest.mark.skipif(shutil.which("fluidsynth") is None, reason="fluidsynth not installed")
 def test_validate_end_to_end_fake_judge():
     try:
-        res = validate(songs=["song_0047"], axes=["tex_voice_count"], judge=FakeJudge(),
+        res = validate(songs=["song_0100"], axes=["tex_voice_count"], judge=FakeJudge(),
                        doses=[0.0, 1.0], clip_seconds=20, progress=lambda *a: None)
     except FileNotFoundError as e:
         pytest.skip(str(e))  # no soundfont
     assert res.primary == "CE"
     assert len(res.axes) == 1 and res.axes[0].axis == "tex_voice_count"
-    assert res.coverage()["canonical"] == 29
+    assert res.coverage()["canonical"] == 28
     assert all(c in res.rows[0] for c in ("song", "axis", "dose", "CE"))

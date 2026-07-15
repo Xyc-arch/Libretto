@@ -1,0 +1,876 @@
+KEY: Ab major | METER: 4/4 | TEMPO: 114 | GRID: 8th (adaptive) | BARS: 122
+VOICES: Overdriven Guitar[prog=29], Electric Bass (pick)[prog=34], Chant[prog=18], Electric Guitar (muted)[prog=28], Pad 1 (new age)[prog=88], Pad 6 (metallic)[prog=93], Voice Oohs[prog=53], Drums[drums]
+@1 [-]
+@2 [-] (grid:4)
+  Drums                  : Db2@1>1^56 Db2@2>1^56 Db2@3>1^56 Db2@4>1^56
+@3 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Db5+Eb5+Ab5@1>15^104
+  Pad 6 (metallic)       : Db4+Eb4+Ab4+Db5+Eb5+Ab5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@4 [Ab] (grid:16)
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@3>1^104 Ab2@5>1^104 Ab2@7>1^104 Ab2@9>1^104 Ab2@11>1^104 Ab2@12>1^80 Ab2@13>1^104 Ab2@15>1^104 Ab2@16>1^80
+  Electric Bass (pick)   : Ab1@1>7^104 Ab1@9>6^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@3>1^104 Ab2@5>1^104 Ab2@7>1^104 Ab2@9>1^104 Ab2@11>1^104 Ab2@12>1^80 Ab2@13>1^104 Ab2@15>1^104 Ab2@16>1^80
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@5 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>4^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Db5+Eb5+Ab5@1>14^104
+  Pad 6 (metallic)       : Db4+Eb4+Ab4+Db5+Eb5+Ab5@1>14^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@6 [Ab] (grid:16)
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@3>1^104 Ab2@5>1^104 Ab2@7>1^104 Ab2@9>1^104 Ab2@10>1^104 Ab2@11>1^80 Ab2@13>1^104 Ab2@14>1^56 Ab2@15>1^104
+  Electric Bass (pick)   : Ab1@1>7^104 Ab1@9>7^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@3>1^104 Ab2@5>1^104 Ab2@7>1^104 Ab2@9>1^104 Ab2@10>1^104 Ab2@11>1^80 Ab2@13>1^104 Ab2@14>1^56 Ab2@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@7 [Gb]
+  Overdriven Guitar      : Gb2@1>1^104 Gb2@2>1^104 Gb2@3>1^104 Gb2@4>1^104 Gb2@5>1^104 Gb2@6>1^104 Gb2@7>1^104 Gb2@8>1^104
+  Electric Bass (pick)   : Gb1@1>3^104 Gb1@5>3^104
+  Electric Guitar (muted): Gb2@1>1^104 Gb2@2>1^104 Gb2@3>1^104 Gb2@4>1^104 Gb2@5>1^104 Gb2@6>1^104 Gb2@7>1^104 Gb2@8>1^104
+  Pad 1 (new age)        : B4+Db5+Gb5@1>15^104
+  Pad 6 (metallic)       : B3+Db4+Gb4+B4+Db5+Gb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@8 [Gb] (grid:16)
+  Overdriven Guitar      : Gb2@1>1^104 Gb2@2>1^56 Gb2@3>1^104 Gb2@5>1^104 Gb2@7>1^104 Gb2@9>1^104 Gb2@10>1^80 Gb2@11>1^80 Gb2@13>1^104 Gb2@14>1^80 Gb2@15>1^104 Gb2@16>1^80
+  Electric Bass (pick)   : Gb1@1>7^104 Gb1@9>6^104
+  Electric Guitar (muted): Gb2@1>1^104 Gb2@2>1^56 Gb2@3>1^104 Gb2@5>1^104 Gb2@7>1^104 Gb2@9>1^104 Gb2@10>1^80 Gb2@11>1^80 Gb2@13>1^104 Gb2@14>1^80 Gb2@15>1^104 Gb2@16>1^80
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@9 [Gb]
+  Overdriven Guitar      : Gb2@1>1^104 Gb2@2>1^104 Gb2@3>1^104 Gb2@4>1^104 Gb2@5>1^104 Gb2@6>1^104 Gb2@7>1^104 Gb2@8>1^104
+  Electric Bass (pick)   : Gb1@1>4^104 Gb1@5>3^104
+  Electric Guitar (muted): Gb2@1>1^104 Gb2@2>1^104 Gb2@3>1^104 Gb2@4>1^104 Gb2@5>1^104 Gb2@6>1^104 Gb2@7>1^104 Gb2@8>1^104
+  Pad 1 (new age)        : B4+Db5+Gb5@1>14^104
+  Pad 6 (metallic)       : B3+Db4+Gb4+B4+Db5+Gb5@1>14^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@10 [Gb] (grid:16)
+  Overdriven Guitar      : Gb2@1>1^104 Gb2@3>1^104 Gb2@5>1^104 Gb2@7>1^104 Gb2@9>1^104 Gb2@10>1^104 Gb2@12>1^104 Gb2@13>1^104 Gb2@15>1^104
+  Electric Bass (pick)   : Gb1@1>6^104 Gb1@9>6^104
+  Chant                  : A5+Bb5@15>2^104
+  Electric Guitar (muted): Gb2@1>1^104 Gb2@3>1^104 Gb2@5>1^104 Gb2@7>1^104 Gb2@9>1^104 Gb2@10>1^104 Gb2@12>1^104 Gb2@13>1^104 Gb2@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@11 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : A5+Bb5@1>1^104 Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@6>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@12 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Bb5@9>2^104 Eb5@11>1^80 A5+Bb5@15>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@13 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@1>1^104 Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@14 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@3>2^104 Db6@5>1^104 Db6@7>1^104 Db6@9>2^104 Eb6@11>3^104 Bb5@15>3^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@15 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@7>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@16 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@1>1^104 Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Bb5@9>2^104 Eb5@11>2^104 Bb5@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@17 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@7>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@18 [Eb | Cm] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@1>1^104 Bb5@3>1^80 Bb5@5>1^104 Db6@7>3^104 C6@11>1^104 Db6@13>5^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@19 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>7^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>1^104 Eb5@8>1^104 Eb1+Eb6@9>6^104 Eb5@11>2^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>29^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>29^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@20 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>5^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>5^104 Eb1@7>1^80 Eb5@8>1^104 Eb1@9>7^104 Eb5@10>2^104 Bb5@13>1^104 Db6@14>1^104 Eb6@15>1^104 Db6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@21 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb6@1>7^104 Eb5@3>4^104 Eb6@5>1^104 Eb6@7>1^104 Eb1+Eb5@9>6^104 Eb6@11>1^104 Eb5@13>1^104 Eb6@14>1^104 Eb6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>29^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>29^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@22 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>5^104 Eb6@3>2^104 Eb5@5>2^104 Eb1+Eb6@7>2^104 Eb1+Eb5@9>7^104 Eb6@11>1^104 Bb5@13>1^104 Db6@14>1^104 Eb6@15>1^104 Db6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@23 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : A5+Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@6>1^104 Bb5@7>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@24 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Eb5@9>1^104 Eb5@11>1^104 Eb5@13>1^104 Eb5@15>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@25 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@6>1^104 Bb5@7>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@26 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@3>1^104 A5+Bb5@5>1^104 Db6@7>1^104 Db6@9>1^104 Db6@11>1^104 Eb6@13>2^104 Bb5@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@27 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>2^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@28 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@1>1^104 Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Eb5@9>1^104 Eb5@11>1^104 Eb5@13>1^104 Eb5@15>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@29 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@3>1^104 Bb5@5>2^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@30 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@1>1^104 Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Eb6@9>4^104 Db6@13>3^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@31 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>7^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>1^104 Eb5@8>1^104 Eb1+Eb6@9>6^104 Eb5@11>2^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>29^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>29^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@32 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>5^104 Eb6@3>2^104 Eb5@5>1^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : D6+Eb6@7>1^104 Eb6@9>1^104 Eb6@11>1^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B2@7>1^104 B1+Gb2+A2+B2@9>4^104 A2@11>1^104 D2+Gb2+A2@13>4^104 G2@15>2^104
+@33 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab1@8>1^104
+  Chant                  : Eb6@1>6^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2+Db3@1>4^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@34 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>2^104 Bb1@5>2^104 Bb1@7>1^104
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>4^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>7^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>7^104
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@35 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>2^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@36 [Bb]
+  Overdriven Guitar      : Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>2^104 Bb1@8>1^80
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>3^104
+  Electric Guitar (muted): Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@37 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>4^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@38 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 D6@7>1^104 Eb6@8>5^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@39 [Ab]
+  Overdriven Guitar      : Ab2+Bb2@1>1^104 Ab2@2>1^104 Ab2+Bb2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab2@7>1^104 Ab1@8>1^104
+  Electric Guitar (muted): Ab2+Bb2@1>1^104 Ab2@2>1^104 Ab2+Bb2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^80
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@40 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^80 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : D6@5>1^104 D6@6>1^104 Eb6@7>1^56 Eb6@8>2^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^80 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^104
+  Voice Oohs             : F4@1>8^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@41 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^56 Eb3@5>1^80 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>1^104 Eb5@8>1^104 Eb1+Eb6@9>7^104 Eb5@11>2^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^56 Eb3@5>1^80 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab5+Bb5+Eb6@1>63^104
+  Pad 6 (metallic)       : Ab3+Bb3+Eb4+Ab5+Bb5+Eb6@1>63^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@42 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>5^104 Eb5@8>1^104 Eb1@9>4^104 Eb5@10>2^104 Bb1+Bb5@13>2^104 Db6@14>1^104 Eb2+Eb6@15>2^104 Db6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@43 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb6@1>6^104 Eb5@3>4^104 Eb6@5>1^104 Eb6@7>1^104 Eb1+Eb5@9>6^104 Eb6@11>1^104 Eb5@13>1^104 Eb6@14>1^104 Eb6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab5+Bb5+Eb6@1>31^104
+  Pad 6 (metallic)       : Ab5+Bb5+Eb6@1>31^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@44 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>2^104 Eb6@7>2^104 Eb1+Eb5@9>3^104 Bb1+Eb6@11>2^104 Eb2+Bb5@13>2^104 Db6@14>1^104 Bb1+Eb6@15>2^104 Db6@16>1^104
+  Chant                  : A5+Bb5@13>1^104 Bb5@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@45 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : A5+Bb5@1>1^104 Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@6>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@46 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Bb5@9>2^104 Eb5@11>1^80 A5+Bb5@15>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@47 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@1>1^104 Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@48 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@3>2^104 Db6@5>1^104 Db6@7>1^104 Db6@9>2^104 Eb6@11>3^104 Bb5@15>3^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@49 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@7>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@50 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@1>1^104 Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Bb5@9>2^104 Eb5@11>2^104 Bb5@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@51 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@7>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@52 [Eb | Cm] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@1>1^104 Bb5@3>1^80 Bb5@5>1^104 Db6@7>3^104 C6@11>1^104 Db6@13>5^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@53 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>7^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>1^104 Eb5@8>1^104 Eb1+Eb6@9>6^104 Eb5@11>2^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>29^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>29^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@54 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>5^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>5^104 Eb1@7>1^80 Eb5@8>1^104 Eb1@9>7^104 Eb5@10>2^104 Bb5@13>1^104 Db6@14>1^104 Eb6@15>1^104 Db6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@55 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb6@1>7^104 Eb5@3>4^104 Eb6@5>1^104 Eb6@7>1^104 Eb1+Eb5@9>6^104 Eb6@11>1^104 Eb5@13>1^104 Eb6@14>1^104 Eb6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>29^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>29^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@56 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>5^104 Eb6@3>2^104 Eb5@5>2^104 Eb1+Eb6@7>2^104 Eb1+Eb5@9>7^104 Eb6@11>1^104 Bb5@13>1^104 Db6@14>1^104 Eb6@15>1^104 Db6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@57 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : A5+Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@6>1^104 Bb5@7>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@58 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Eb5@9>1^104 Eb5@11>1^104 Eb5@13>1^104 Eb5@15>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@59 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@6>1^104 Bb5@7>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@60 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@3>1^104 A5+Bb5@5>1^104 Db6@7>1^104 Db6@9>1^104 Db6@11>1^104 Eb6@13>2^104 Bb5@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@61 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>2^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@62 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@1>1^104 Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Eb5@9>1^104 Eb5@11>1^104 Eb5@13>1^104 Eb5@15>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@63 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@5>3^104
+  Chant                  : Bb5@3>1^104 Bb5@5>2^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>15^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@64 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>5^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : Bb5@1>1^104 Bb5@3>1^104 Bb5@5>1^104 Bb5@7>1^104 Eb6@9>4^104 Db6@13>3^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@14>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@65 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>7^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>1^104 Eb5@8>1^104 Eb1+Eb6@9>6^104 Eb5@11>2^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab4+Bb4+Eb5@1>29^104
+  Pad 6 (metallic)       : Ab4+Bb4+Eb5@1>29^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@66 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>5^104 Eb6@3>2^104 Eb5@5>1^104 Eb1@7>1^80 Eb1@9>7^104
+  Chant                  : D6+Eb6@7>1^104 Eb6@9>1^104 Eb6@11>1^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B2@7>1^104 B1+Gb2+A2+B2@9>4^104 A2@11>1^104 D2+Gb2+A2@13>4^104 G2@15>2^104
+@67 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab1@8>1^104
+  Chant                  : Eb6@1>6^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2+Db3@1>4^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@68 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>2^104 Bb1@5>2^104 Bb1@7>1^104
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>4^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>7^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>7^104
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@69 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>2^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@70 [Bb]
+  Overdriven Guitar      : Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>2^104 Bb1@8>1^80
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>3^104
+  Electric Guitar (muted): Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@71 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>4^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@72 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 D6@7>1^104 Eb6@8>5^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@73 [Ab]
+  Overdriven Guitar      : Ab2+Bb2@1>1^104 Ab2@2>1^104 Ab2+Bb2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab2@7>1^104 Ab1@8>1^104
+  Electric Guitar (muted): Ab2+Bb2@1>1^104 Ab2@2>1^104 Ab2+Bb2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^80
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@74 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^80 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : D6@5>1^104 D6@6>1^104 Eb6@7>1^56 Eb6@8>2^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^80 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^104
+  Voice Oohs             : F4@1>8^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@75 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^56 Eb3@5>1^80 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>1^104 Eb5@8>1^104 Eb1+Eb6@9>7^104 Eb5@11>2^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^56 Eb3@5>1^80 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab5+Bb5+Eb6@1>63^104
+  Pad 6 (metallic)       : Ab3+Bb3+Eb4+Ab5+Bb5+Eb6@1>63^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@76 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>5^104 Eb5@8>1^104 Eb1@9>4^104 Eb5@10>2^104 Bb1+Bb5@13>2^104 Db6@14>1^104 Eb2+Eb6@15>2^104 Db6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@77 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb6@1>6^104 Eb5@3>4^104 Eb6@5>1^104 Eb6@7>1^104 Eb1+Eb5@9>6^104 Eb6@11>1^104 Eb5@13>1^104 Eb6@14>1^104 Eb6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab5+Bb5+Eb6@1>31^104
+  Pad 6 (metallic)       : Ab5+Bb5+Eb6@1>31^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@78 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>2^104 Eb6@7>2^104 Eb1+Eb5@9>3^104 Bb1+Eb6@11>2^104 Eb2+Bb5@13>2^104 Db6@14>1^104 Bb1+Eb6@15>2^104 Db6@16>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@79 [Eb7]
+  Overdriven Guitar      : Db3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Db1@1>1^104 Eb1@2>2^104 Eb1@5>1^104 Eb1@7>1^104
+  Electric Guitar (muted): Db3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Db4+F4+Ab4+Db5+F5+Ab5@1>1^104 Eb4+G4+Bb4+Eb5+G5+Bb5@2>14^104
+  Pad 6 (metallic)       : Db5+F5+Ab5@1>1^104 Eb5+G5+Bb5@2>14^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@80 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@8>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@12>1^104 Eb3@13>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Electric Bass (pick)   : Eb1@1>2^104 Eb1@5>2^104 Eb1@9>2^104 Eb1@13>1^104 Eb1@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@8>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@12>1^104 Eb3@13>1^104 Eb3@15>1^104 Eb3@16>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@81 [Db]
+  Overdriven Guitar      : Db3@1>1^104 Db3@2>1^104 Db3@3>1^104 Db3@4>1^104 Db3@5>1^104 Db3@6>1^104 Db3@7>1^104 Db3@8>1^104
+  Electric Bass (pick)   : Db1@1>1^104 Db1@3>1^104 Db1@5>1^104 Db1@7>1^104
+  Electric Guitar (muted): Db3@1>1^104 Db3@2>1^104 Db3@3>1^104 Db3@4>1^104 Db3@5>1^104 Db3@6>1^104 Db3@7>1^104 Db3@8>1^104
+  Pad 1 (new age)        : Db4+F4+Ab4+Db5+F5+Ab5@1>15^104
+  Pad 6 (metallic)       : Db5+F5+Ab5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@82 [Db] (grid:16)
+  Overdriven Guitar      : Db3@1>1^104 Db3@2>1^104 Db3@3>1^80 Db3@5>1^104 Db3@7>1^104 Db3@9>1^104 Db3@11>1^104 Db3@13>1^104 Db3@15>1^104
+  Electric Bass (pick)   : Db1@1>3^104 Db1@5>2^104 Db1@9>2^104 Db2@11>2^104 Db1@13>2^104 Db2@15>1^104
+  Electric Guitar (muted): Db3@1>1^104 Db3@2>1^104 Db3@3>1^80 Db3@5>1^104 Db3@7>1^104 Db3@9>1^104 Db3@11>1^104 Db3@13>1^104 Db3@15>1^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@83 [B] (grid:16)
+  Overdriven Guitar      : B2@1>1^104 B2@3>1^104 B2@5>1^104 B2@6>1^104 B2@7>1^80 B2@9>1^104 B2@11>1^104 B2@13>1^104 B2@14>1^104 B2@15>1^104
+  Electric Bass (pick)   : B1@1>2^104 B1@5>2^104 B1@9>2^104 B1@13>3^104
+  Electric Guitar (muted): B2@1>1^104 B2@3>1^104 B2@5>1^104 B2@6>1^104 B2@7>1^80 B2@9>1^104 B2@11>1^104 B2@13>1^104 B2@14>1^104 B2@15>1^104
+  Pad 1 (new age)        : B3+Eb4+Gb4+B4+Eb5+Gb5@1>15^104
+  Pad 6 (metallic)       : B4+Eb5+Gb5@1>15^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@84 [Db]
+  Overdriven Guitar      : Db3@1>1^104 Db3@2>1^104 Db3@3>1^104 Db3@4>1^104 Db3@5>1^104 Db3@6>1^104 Db3@7>1^104 Db3@8>1^104
+  Electric Bass (pick)   : Db2@1>2^104 Db2@3>1^104 Db2@5>1^104 Db2@7>1^104
+  Electric Guitar (muted): Db3@1>1^104 Db3@2>1^104 Db3@3>1^104 Db3@4>1^104 Db3@5>1^104 Db3@6>1^104 Db3@7>1^104 Db3@8>1^104
+  Pad 1 (new age)        : Db4+F4+Ab4+Db5+F5+Ab5@1>8^104
+  Pad 6 (metallic)       : Db5+F5+Ab5@1>8^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@85 [Bb] (grid:16)
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@3>1^104 Bb2@5>1^104 Bb2@7>1^104 Bb2@9>1^104 Bb2@10>1^104 Bb2@11>1^104 Bb2@13>1^104 Bb2@15>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>2^104 Bb1@9>2^104 Bb1@13>3^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@3>1^104 Bb2@5>1^104 Bb2@7>1^104 Bb2@9>1^104 Bb2@10>1^104 Bb2@11>1^104 Bb2@13>1^104 Bb2@15>1^104
+  Pad 1 (new age)        : Bb3+D4+F4+Bb4+D5+F5@1>30^104
+  Pad 6 (metallic)       : Bb4+D5+F5@1>30^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@86 [Bb] (grid:16)
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@7>1^104 Bb2@9>1^104 Bb2@10>1^104 Bb2@11>1^104 Bb2@13>1^104 Bb2@14>1^104 Bb2@15>1^80 Bb2@16>1^56
+  Electric Bass (pick)   : Bb1@1>2^104 Bb1@5>3^104 Bb1@9>2^104 Bb1@13>3^104
+  Chant                  : A5+Bb5@15>3^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@7>1^104 Bb2@9>1^104 Bb2@10>1^104 Bb2@11>1^104 Bb2@13>1^104 Bb2@14>1^104 Bb2@15>1^80 Bb2@16>1^56
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2@5>6^104 B1+Gb2@9>4^104 D2+Gb2@13>4^104
+@87 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>1^104 Ab1@3>1^104 Ab1@5>1^104 Ab1@7>1^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@6>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : C4+Eb4+Ab4+C5+Eb5+Ab5@1>15^104
+  Pad 6 (metallic)       : C5+Eb5+Ab5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@88 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>1^104 Ab1@3>1^104 Ab1@5>1^104 Ab1@6>1^80 Ab1@7>1^104 Bb1@8>1^104
+  Chant                  : Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Eb5@6>1^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@89 [Eb]
+  Overdriven Guitar      : Eb2@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb2@1>1^104 Eb2@3>1^104 Eb2@5>1^104 Eb2@7>1^104 Eb1@8>2^104
+  Chant                  : A5+Bb5+B5@1>2^104 Bb5@3>1^104 Bb5@5>1^104 Bb5@6>1^104
+  Electric Guitar (muted): Eb2@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Pad 1 (new age)        : Bb3+Eb4+Ab4+Bb4+Eb5+Ab5@1>15^104
+  Pad 6 (metallic)       : Bb4+Eb5+Ab5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@90 [Eb]
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Electric Bass (pick)   : Eb1@3>1^104 Eb2@4>3^104 Eb1@7>1^104 Eb2@8>1^104
+  Chant                  : A5+Bb5@1>1^104 Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Eb5@6>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@6>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@91 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>1^104 Ab1@3>1^104 Ab1@5>1^104 Ab1@7>1^104
+  Chant                  : Bb5@1>1^104 Bb5@2>1^104 Bb5@3>1^104 Bb5@4>1^104 Bb5@5>1^104 Bb5@6>1^104 Bb5@8>1^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : C4+Eb4+Ab4+C5+Eb5+Ab5@1>7^104
+  Pad 6 (metallic)       : C5+Eb5+Ab5@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@92 [B]
+  Overdriven Guitar      : B2@1>1^104 B2@2>1^104 B2@3>1^104 B2@4>1^104 B2@5>1^104 B2@6>1^104 B2@7>1^104 B2@8>1^104
+  Electric Bass (pick)   : B1@1>2^104 B1+C2@3>1^80 B1@5>1^104 B1@7>2^104
+  Chant                  : Db6@1>1^104 Db6@2>1^104 Db6@3>1^104 Eb6@4>3^104 Ab5@7>1^104 Ab5@8>7^104
+  Electric Guitar (muted): B2@1>1^104 B2@2>1^104 B2@3>1^104 B2@4>1^104 B2@5>1^104 B2@6>1^104 B2@7>1^104 B2@8>1^104
+  Pad 1 (new age)        : B3+Eb4+Gb4+B4+Eb5+Gb5@1>7^104
+  Pad 6 (metallic)       : B4+Eb5+Gb5@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@93 [Db]
+  Overdriven Guitar      : Db3@1>1^104 Db3@2>1^104 Db3@3>1^104 Db3@4>1^104 Db3@5>1^104 Db3@6>1^104 Db3@7>1^104 Db3@8>1^104
+  Electric Bass (pick)   : Db2@1>2^104 Db2@3>2^104 Db2@5>1^104 Db2@7>1^104
+  Electric Guitar (muted): Db3@1>1^104 Db3@2>1^104 Db3@3>1^104 Db3@4>1^104 Db3@5>1^104 Db3@6>1^104 Db3@7>1^104 Db3@8>1^104
+  Pad 1 (new age)        : Db4+F4+Ab4+Db5+F5+Ab5@1>15^104
+  Pad 6 (metallic)       : Db5+F5+Ab5@1>15^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@94 [Db]
+  Overdriven Guitar      : Db3@1>1^104 Db3@2>1^104 Db3@3>1^104 Db3@4>1^104 Db3@5>1^104 Db3@6>1^104 Db3@7>1^104 Db3@8>1^104
+  Electric Bass (pick)   : Db2@1>1^104 Db2@3>1^104 Db2@5>1^104 Db2@7>1^104 Eb2@8>1^104
+  Chant                  : Db6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>8^104
+  Electric Guitar (muted): Db3@1>1^104 Db3@2>1^104 Db3@3>1^104 Db3@4>1^104 Db3@5>1^104 Db3@6>1^104 Db3@7>1^104 Db3@8>1^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@95 [Eb] (grid:24t)
+  Overdriven Guitar      : Eb2@1>4^104 Eb3@4>1^104 Eb3@7>1^104 Eb3@10>1^104 Eb3@13>1^104 Eb3@16>1^104 Eb3@19>1^104 Eb3@22>1^104 Eb3@23>1^104
+  Electric Bass (pick)   : Eb1@1>4^104 Eb1@7>4^104 Eb1@13>3^104 Eb1@19>3^104
+  Electric Guitar (muted): Eb2@1>4^104 Eb3@4>1^104 Eb3@7>1^104 Eb3@10>1^104 Eb3@13>1^104 Eb3@16>1^104 Eb3@19>1^104 Eb3@22>1^104 Eb3@23>1^104
+  Pad 1 (new age)        : Eb4+Ab4+Bb4+Eb5+Ab5+Bb5@1>48^104
+  Pad 6 (metallic)       : Eb5+Ab5+Bb5@1>48^104
+  Drums                  : B1+Gb2@1>7^104 D2+Gb2@7>9^104 B1+Gb2@13>6^104 D2+Gb2@19>6^104 C3@22>1^56 B2@23>1^56
+@96 [Eb] (grid:24t)
+  Overdriven Guitar      : Eb2@1>3^104 Eb3@4>2^104 Eb2@7>3^104 Eb3@10>2^104 Eb2@13>3^104 Eb3@16>1^104 Eb3@19>1^104 Eb3@22>1^104 Eb3@23>1^104
+  Electric Bass (pick)   : Eb1@1>3^104 Eb1@7>3^104 Eb1@13>3^104 Eb1@19>5^104
+  Chant                  : Eb6@10>1^104 Eb6@13>1^104 Eb6@16>1^104 Eb6@19>1^104 Eb6@22>3^104
+  Electric Guitar (muted): Eb2@1>3^104 Eb3@4>2^104 Eb2@7>3^104 Eb3@10>2^104 Eb2@13>3^104 Eb3@16>1^104 Eb3@19>1^104 Eb3@22>1^104 Eb3@23>1^104
+  Drums                  : B1+Gb2+C3@1>7^104 B2@4>1^104 D2+Gb2+B2@7>9^104 B2@10>1^104 B1+Gb2+A2@13>6^104 A2@16>1^104 D2+Gb2+A2@19>6^104 A2@22>1^104 G2@23>1^104
+@97 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab1@8>1^104
+  Chant                  : Eb6@1>6^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2+Db3@1>4^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@98 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>2^104 Bb1@5>2^104 Bb1@7>1^104
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>4^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>7^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>7^104
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@99 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>2^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@100 [Bb]
+  Overdriven Guitar      : Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>2^104 Bb1@8>1^80
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>3^104
+  Electric Guitar (muted): Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@101 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>4^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@102 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 D6@7>1^104 Eb6@8>5^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@103 [Ab]
+  Overdriven Guitar      : Ab2+Bb2@1>1^104 Ab2@2>1^104 Ab2+Bb2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab2@7>1^104 Ab1@8>1^104
+  Electric Guitar (muted): Ab2+Bb2@1>1^104 Ab2@2>1^104 Ab2+Bb2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^80
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@104 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^80 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : D6@5>1^104 D6@6>1^104 Eb6@7>1^56 Eb6@8>2^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^80 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^104
+  Voice Oohs             : F4@1>8^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@105 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^56 Eb3@5>1^80 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>1^104 Eb5@8>1^104 Eb1+Eb6@9>7^104 Eb5@11>2^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^56 Eb3@5>1^80 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab5+Bb5+Eb6@1>32^104
+  Pad 6 (metallic)       : Ab3+Bb3+Eb4+Ab5+Bb5+Eb6@1>32^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2+C3@5>6^104 B1+Gb2@9>4^104 C3@11>1^80 D2+Gb2+C3@13>4^104 B2@16>1^56
+@106 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>5^104 Eb5@8>1^104 Eb1@9>4^104 Eb5@10>2^104 Bb1+Bb5@13>2^104 Db6@14>1^104 Eb2+Eb6@15>2^104 Db6@16>1^104
+  Chant                  : D6+Eb6@7>1^104 Eb6@9>1^104 Eb6@11>1^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2+C3@1>4^104 B2@3>1^104 D2+Gb2+B2@5>6^104 A2@7>1^104 B1+Gb2+A2@9>4^104 D2@11>1^104 D2+Gb2@13>4^104 D2@15>2^104
+@107 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab1@8>1^104
+  Chant                  : Eb6@1>6^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2+Db3@1>4^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@108 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>2^104 Bb1@5>2^104 Bb1@7>1^104
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>4^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>7^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>7^104
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@109 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>2^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@110 [Bb]
+  Overdriven Guitar      : Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>2^104 Bb1@8>1^80
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>3^104
+  Electric Guitar (muted): Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@111 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>4^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@112 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 D6@7>1^104 Eb6@8>5^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@113 [Ab]
+  Overdriven Guitar      : Ab2+Bb2@1>1^104 Ab2@2>1^104 Ab2+Bb2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab2@7>1^104 Ab1@8>1^104
+  Electric Guitar (muted): Ab2+Bb2@1>1^104 Ab2@2>1^104 Ab2+Bb2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^80
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@114 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^80 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : D6@5>1^104 D6@6>1^104 Eb6@7>1^56 Eb6@8>2^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^80 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^104
+  Voice Oohs             : F4@1>8^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@115 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^56 Eb3@5>1^80 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>1^104 Eb5@8>1^104 Eb1+Eb6@9>7^104 Eb5@11>2^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^56 Eb3@5>1^80 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Pad 1 (new age)        : Ab3+Bb3+Eb4+Ab5+Bb5+Eb6@1>32^104
+  Pad 6 (metallic)       : Ab3+Bb3+Eb4+Ab5+Bb5+Eb6@1>32^104
+  Drums                  : B1+Gb2@1>4^104 D2+Gb2+C3@5>6^104 B1+Gb2@9>4^104 C3@11>1^80 D2+Gb2+C3@13>4^104 B2@16>1^56
+@116 [Eb] (grid:16)
+  Overdriven Guitar      : Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Electric Bass (pick)   : Eb1+Eb5@1>6^104 Eb6@3>2^104 Eb5@5>1^104 Eb6@6>5^104 Eb5@8>1^104 Eb1@9>4^104 Eb5@10>2^104 Bb1+Bb5@13>2^104 Db6@14>1^104 Eb2+Eb6@15>2^104 Db6@16>1^104
+  Chant                  : D6+Eb6@7>1^104 Eb6@9>1^104 Eb6@11>1^104 Eb6@13>1^104 Eb6@15>2^104
+  Electric Guitar (muted): Eb3@1>1^104 Eb3@3>1^80 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@11>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Drums                  : B1+Gb2+C3@1>4^104 B2@3>1^104 D2+Gb2+B2@5>6^104 A2@7>1^104 B1+Gb2+A2@9>4^104 D2@11>1^104 D2+Gb2@13>4^104 D2@15>2^104
+@117 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>3^104 Ab1@5>2^104 Ab1@8>1^104
+  Chant                  : Eb6@1>6^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^56 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2+Db3@1>4^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@118 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>2^104 Bb1@5>2^104 Bb1@7>1^104
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>4^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^80 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>7^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>7^104
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@119 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>2^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^104 Ab2@3>1^104 Ab2@4>1^104 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@120 [Bb]
+  Overdriven Guitar      : Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>2^104 Bb1@8>1^80
+  Chant                  : D6+Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 Eb6@7>1^104 Eb6@8>3^104
+  Electric Guitar (muted): Bb2@1>1^80 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@121 [Ab]
+  Overdriven Guitar      : Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Electric Bass (pick)   : Ab1@1>4^104 Ab1@5>4^104
+  Electric Guitar (muted): Ab2@1>1^104 Ab2@2>1^80 Ab2@3>1^104 Ab2@4>1^80 Ab2@5>1^104 Ab2@6>1^104 Ab2@7>1^104 Ab2@8>1^104
+  Pad 1 (new age)        : Ab3+C4+Eb4@1>7^56
+  Pad 6 (metallic)       : Ab3+C4+Eb4@1>7^104
+  Voice Oohs             : Eb4@5>2^104 Ab4@7>2^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104
+@122 [Bb]
+  Overdriven Guitar      : Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Electric Bass (pick)   : Bb1@1>3^104 Bb1@5>4^104
+  Chant                  : Eb6@4>1^104 Eb6@5>1^104 Eb6@6>1^104 D6@7>1^104 Eb6@8>1^104
+  Electric Guitar (muted): Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^80 Bb2@7>1^104 Bb2@8>1^104
+  Pad 1 (new age)        : F3+Bb3+D4@1>6^56
+  Pad 6 (metallic)       : F3+Bb3+D4@1>6^80
+  Voice Oohs             : F4@1>7^104
+  Drums                  : B1+Gb2@1>2^104 D2+Gb2@3>3^104 B1+Gb2@5>2^104 D2+Gb2@7>2^104

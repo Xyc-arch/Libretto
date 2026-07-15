@@ -1,0 +1,796 @@
+KEY: B minor | METER: 3/4 | TEMPO: 162 | GRID: 4th (adaptive) | BARS: 161
+VOICES: melodie[prog=3], Acoustic Guitar (nylon)[prog=24], Acoustic Bass[prog=32], Drums[drums]
+@1 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@2 [B | Bm]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+B3@2>1^104 F#3+B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@3 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 G4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@4 [D]
+  melodie                : F#4@1>3^104
+  Acoustic Guitar (nylon): F#4@1>3^104 A3+D4@2>1^104 A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@5 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@6 [G]
+  melodie                : D4@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): D4@1>1^104 E3+G3+C#4@2>1^104 D3+G3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@7 [C# | Ddim7]
+  melodie                : C#4@1>1^104 D4@2>2^104
+  Acoustic Guitar (nylon): C#4@1>1^104 F3+G#3+B3+D4@2>2^104 F3+G#3+B3@3>1^104
+  Acoustic Bass          : C#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@8 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+F#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104 G#2@2>1^104 A#2@3>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@9 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@10 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 F#3+B3@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@11 [A7]
+  melodie                : A4@1>2^104 G4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 A3+C#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@12 [D] (grid:8)
+  melodie                : F#4@1>4^104 B4@5>1^104 A4@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+B4@5>2^104 A4@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+D2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@13 [G | D]
+  melodie                : G4@1>1^104 D5@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 D4+F#4+D5@2>1^104 D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@14 [G7 | Bdim]
+  melodie                : D4@1>4^104
+  Acoustic Guitar (nylon): D4@1>4^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@15 [F#7 | A#dim]
+  melodie                : C#4@2>2^104
+  Acoustic Guitar (nylon): E3+A#3+C#4@2>2^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@16 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@17 [B]
+  melodie                : B3@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): B3@1>1^104 C#4@2>1^104 B3@3>1^104
+@18 [A]
+  melodie                : A3@1>3^104
+  Acoustic Guitar (nylon): A3@1>3^104 C#3+E3@2>1^104 C#3+E3@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@19 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 E4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 G3+C#4+E4@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@20 [D]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F#3+A3@2>1^104 F#3+A3@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@21 [D]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+A3@2>1^104 F#3+A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@22 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@23 [Aaug | Fdim]
+  melodie                : A4@1>2^104 G#4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 B3+F4@2>1^104 B3+F4+G#4@3>1^104
+  Acoustic Bass          : C#3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@24 [F#]
+  melodie                : F#4@1>1^104
+  Acoustic Guitar (nylon): A#3+C#4+E4+F#4@1>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : G3@1>1^104
+@25 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@26 [Ddim | E7]
+  melodie                : D5@1>2^104 B4@3>1^104
+  Acoustic Guitar (nylon): D5@1>2^104 E4+G#4@2>1^104 E4+G#4+B4@3>1^104
+  Acoustic Bass          : E2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@27 [G | C#m7]
+  melodie                : G4@1>1^104 A4@2>1^104 B4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 C#4+G4+A4@2>1^104 C#4+G4+B4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@28 [D] (grid:8)
+  melodie                : F#4@1>4^104 D5@5>1^104 C#5@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+D5@5>2^104 C#5@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+E2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@29 [Bm | D]
+  melodie                : B4@1>1^104 A4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>1^104 D4+F#4+A4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@30 [G7 | Bdim]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@31 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@32 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@33 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@34 [B | Bm]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+B3@2>1^104 F#3+B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@35 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 G4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@36 [D]
+  melodie                : F#4@1>3^104
+  Acoustic Guitar (nylon): F#4@1>3^104 A3+D4@2>1^104 A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@37 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@38 [G]
+  melodie                : D4@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): D4@1>1^104 E3+G3+C#4@2>1^104 D3+G3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@39 [C# | Ddim7]
+  melodie                : C#4@1>1^104 D4@2>2^104
+  Acoustic Guitar (nylon): C#4@1>1^104 F3+G#3+B3+D4@2>2^104 F3+G#3+B3@3>1^104
+  Acoustic Bass          : C#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@40 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+F#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104 G#2@2>1^104 A#2@3>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@41 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@42 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 F#3+B3@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@43 [A7]
+  melodie                : A4@1>2^104 G4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 A3+C#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@44 [D] (grid:8)
+  melodie                : F#4@1>4^104 B4@5>1^104 A4@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+B4@5>2^104 A4@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+D2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@45 [G | D]
+  melodie                : G4@1>1^104 D5@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 D4+F#4+D5@2>1^104 D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@46 [G7 | Bdim]
+  melodie                : D4@1>4^104
+  Acoustic Guitar (nylon): D4@1>4^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@47 [F#7 | A#dim]
+  melodie                : C#4@2>2^104
+  Acoustic Guitar (nylon): E3+A#3+C#4@2>2^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@48 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@49 [B]
+  melodie                : B3@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): B3@1>1^104 C#4@2>1^104 B3@3>1^104
+@50 [A]
+  melodie                : A3@1>3^104
+  Acoustic Guitar (nylon): A3@1>3^104 C#3+E3@2>1^104 C#3+E3@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@51 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 E4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 G3+C#4+E4@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@52 [D]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F#3+A3@2>1^104 F#3+A3@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@53 [D]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+A3@2>1^104 F#3+A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@54 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@55 [Aaug | Fdim]
+  melodie                : A4@1>2^104 G#4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 B3+F4@2>1^104 B3+F4+G#4@3>1^104
+  Acoustic Bass          : C#3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@56 [F#]
+  melodie                : F#4@1>1^104
+  Acoustic Guitar (nylon): A#3+C#4+E4+F#4@1>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : G3@1>1^104
+@57 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@58 [Ddim | E7]
+  melodie                : D5@1>2^104 B4@3>1^104
+  Acoustic Guitar (nylon): D5@1>2^104 E4+G#4@2>1^104 E4+G#4+B4@3>1^104
+  Acoustic Bass          : E2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@59 [G | C#m7]
+  melodie                : G4@1>1^104 A4@2>1^104 B4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 C#4+G4+A4@2>1^104 C#4+G4+B4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@60 [D] (grid:8)
+  melodie                : F#4@1>4^104 D5@5>1^104 C#5@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+D5@5>2^104 C#5@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+E2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@61 [Bm | D]
+  melodie                : B4@1>1^104 A4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>1^104 D4+F#4+A4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@62 [G7 | Bdim]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@63 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@64 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@65 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@66 [B | Bm]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+B3@2>1^104 F#3+B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@67 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 G4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@68 [D]
+  melodie                : F#4@1>3^104
+  Acoustic Guitar (nylon): F#4@1>3^104 A3+D4@2>1^104 A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@69 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@70 [G]
+  melodie                : D4@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): D4@1>1^104 E3+G3+C#4@2>1^104 D3+G3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@71 [C# | Ddim7]
+  melodie                : C#4@1>1^104 D4@2>2^104
+  Acoustic Guitar (nylon): C#4@1>1^104 F3+G#3+B3+D4@2>2^104 F3+G#3+B3@3>1^104
+  Acoustic Bass          : C#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@72 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+F#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104 G#2@2>1^104 A#2@3>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@73 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@74 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 F#3+B3@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@75 [A7]
+  melodie                : A4@1>2^104 G4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 A3+C#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@76 [D] (grid:8)
+  melodie                : F#4@1>4^104 B4@5>1^104 A4@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+B4@5>2^104 A4@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+D2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@77 [G | D]
+  melodie                : G4@1>1^104 D5@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 D4+F#4+D5@2>1^104 D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@78 [G7 | Bdim]
+  melodie                : D4@1>4^104
+  Acoustic Guitar (nylon): D4@1>4^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@79 [F#7 | A#dim]
+  melodie                : C#4@2>2^104
+  Acoustic Guitar (nylon): E3+A#3+C#4@2>2^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@80 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@81 [B]
+  melodie                : B3@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): B3@1>1^104 C#4@2>1^104 B3@3>1^104
+@82 [A]
+  melodie                : A3@1>3^104
+  Acoustic Guitar (nylon): A3@1>3^104 C#3+E3@2>1^104 C#3+E3@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@83 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 E4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 G3+C#4+E4@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@84 [D]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F#3+A3@2>1^104 F#3+A3@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@85 [D]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+A3@2>1^104 F#3+A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@86 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@87 [Aaug | Fdim]
+  melodie                : A4@1>2^104 G#4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 B3+F4@2>1^104 B3+F4+G#4@3>1^104
+  Acoustic Bass          : C#3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@88 [F#]
+  melodie                : F#4@1>1^104
+  Acoustic Guitar (nylon): A#3+C#4+E4+F#4@1>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : G3@1>1^104
+@89 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@90 [Ddim | E7]
+  melodie                : D5@1>2^104 B4@3>1^104
+  Acoustic Guitar (nylon): D5@1>2^104 E4+G#4@2>1^104 E4+G#4+B4@3>1^104
+  Acoustic Bass          : E2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@91 [G | C#m7]
+  melodie                : G4@1>1^104 A4@2>1^104 B4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 C#4+G4+A4@2>1^104 C#4+G4+B4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@92 [D] (grid:8)
+  melodie                : F#4@1>4^104 D5@5>1^104 C#5@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+D5@5>2^104 C#5@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+E2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@93 [Bm | D]
+  melodie                : B4@1>1^104 A4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>1^104 D4+F#4+A4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@94 [G7 | Bdim]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@95 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@96 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@97 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@98 [B | Bm]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+B3@2>1^104 F#3+B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@99 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 G4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@100 [D]
+  melodie                : F#4@1>3^104
+  Acoustic Guitar (nylon): F#4@1>3^104 A3+D4@2>1^104 A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@101 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@102 [G]
+  melodie                : D4@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): D4@1>1^104 E3+G3+C#4@2>1^104 D3+G3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@103 [C# | Ddim7]
+  melodie                : C#4@1>1^104 D4@2>2^104
+  Acoustic Guitar (nylon): C#4@1>1^104 F3+G#3+B3+D4@2>2^104 F3+G#3+B3@3>1^104
+  Acoustic Bass          : C#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@104 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+F#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104 G#2@2>1^104 A#2@3>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@105 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@106 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 F#3+B3@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@107 [A7]
+  melodie                : A4@1>2^104 G4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 A3+C#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@108 [D] (grid:8)
+  melodie                : F#4@1>4^104 B4@5>1^104 A4@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+B4@5>2^104 A4@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+D2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@109 [G | D]
+  melodie                : G4@1>1^104 D5@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 D4+F#4+D5@2>1^104 D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@110 [G7 | Bdim]
+  melodie                : D4@1>4^104
+  Acoustic Guitar (nylon): D4@1>4^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@111 [F#7 | A#dim]
+  melodie                : C#4@2>2^104
+  Acoustic Guitar (nylon): E3+A#3+C#4@2>2^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@112 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@113 [B]
+  melodie                : B3@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): B3@1>1^104 C#4@2>1^104 B3@3>1^104
+@114 [A]
+  melodie                : A3@1>3^104
+  Acoustic Guitar (nylon): A3@1>3^104 C#3+E3@2>1^104 C#3+E3@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@115 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 E4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 G3+C#4+E4@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@116 [D]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F#3+A3@2>1^104 F#3+A3@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@117 [D]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+A3@2>1^104 F#3+A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@118 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@119 [Aaug | Fdim]
+  melodie                : A4@1>2^104 G#4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 B3+F4@2>1^104 B3+F4+G#4@3>1^104
+  Acoustic Bass          : C#3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@120 [F#]
+  melodie                : F#4@1>1^104
+  Acoustic Guitar (nylon): A#3+C#4+E4+F#4@1>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : G3@1>1^104
+@121 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@122 [Ddim | E7]
+  melodie                : D5@1>2^104 B4@3>1^104
+  Acoustic Guitar (nylon): D5@1>2^104 E4+G#4@2>1^104 E4+G#4+B4@3>1^104
+  Acoustic Bass          : E2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@123 [G | C#m7]
+  melodie                : G4@1>1^104 A4@2>1^104 B4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 C#4+G4+A4@2>1^104 C#4+G4+B4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@124 [D] (grid:8)
+  melodie                : F#4@1>4^104 D5@5>1^104 C#5@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+D5@5>2^104 C#5@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+E2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@125 [Bm | D]
+  melodie                : B4@1>1^104 A4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>1^104 D4+F#4+A4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@126 [G7 | Bdim]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@127 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@128 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@129 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@130 [B | Bm]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+B3@2>1^104 F#3+B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@131 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 G4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@132 [D]
+  melodie                : F#4@1>3^104
+  Acoustic Guitar (nylon): F#4@1>3^104 A3+D4@2>1^104 A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@133 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@134 [G]
+  melodie                : D4@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): D4@1>1^104 E3+G3+C#4@2>1^104 D3+G3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@135 [C# | Ddim7]
+  melodie                : C#4@1>1^104 D4@2>2^104
+  Acoustic Guitar (nylon): C#4@1>1^104 F3+G#3+B3+D4@2>2^104 F3+G#3+B3@3>1^104
+  Acoustic Bass          : C#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@136 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+F#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104 G#2@2>1^104 A#2@3>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@137 [Bm]
+  melodie                : B3@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): B3@1>2^104 D3+F#3@2>1^104 D3+F#3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@138 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 F#3+B3@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@139 [A7]
+  melodie                : A4@1>2^104 G4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 A3+C#4@2>1^104 A3+E4+G4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@140 [D] (grid:8)
+  melodie                : F#4@1>4^104 B4@5>1^104 A4@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+B4@5>2^104 A4@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+D2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@141 [G | D]
+  melodie                : G4@1>1^104 D5@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 D4+F#4+D5@2>1^104 D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@142 [G7 | Bdim]
+  melodie                : D4@1>4^104
+  Acoustic Guitar (nylon): D4@1>4^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@143 [F#7 | A#dim]
+  melodie                : C#4@2>2^104
+  Acoustic Guitar (nylon): E3+A#3+C#4@2>2^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@144 [Bm]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : G3@1>1^104
+@145 [B]
+  melodie                : B3@1>1^104 C#4@2>1^104 B3@3>1^104
+  Acoustic Guitar (nylon): B3@1>1^104 C#4@2>1^104 B3@3>1^104
+@146 [A]
+  melodie                : A3@1>3^104
+  Acoustic Guitar (nylon): A3@1>3^104 C#3+E3@2>1^104 C#3+E3@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@147 [A | C#dim]
+  melodie                : E4@1>1^104 F#4@2>1^104 E4@3>1^104
+  Acoustic Guitar (nylon): E4@1>1^104 A3+C#4+F#4@2>1^104 G3+C#4+E4@3>1^104
+  Acoustic Bass          : A2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@148 [D]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F#3+A3@2>1^104 F#3+A3@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@149 [D]
+  melodie                : F#4@1>2^104 D4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>2^104 F#3+A3@2>1^104 F#3+A3+D4@3>1^104
+  Acoustic Bass          : D3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@150 [Bm]
+  melodie                : F#4@1>1^104 D4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): F#4@1>1^104 F#3+B3+D4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@151 [Aaug | Fdim]
+  melodie                : A4@1>2^104 G#4@3>1^104
+  Acoustic Guitar (nylon): A4@1>2^104 B3+F4@2>1^104 B3+F4+G#4@3>1^104
+  Acoustic Bass          : C#3@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@152 [F#]
+  melodie                : F#4@1>1^104
+  Acoustic Guitar (nylon): A#3+C#4+E4+F#4@1>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : G3@1>1^104
+@153 [Bm]
+  melodie                : B4@1>2^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>2^104 B3+D4@2>1^104 B3+D4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@154 [Ddim | E7]
+  melodie                : D5@1>2^104 B4@3>1^104
+  Acoustic Guitar (nylon): D5@1>2^104 E4+G#4@2>1^104 E4+G#4+B4@3>1^104
+  Acoustic Bass          : E2@1>1^104
+  Drums                  : C2+D2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@155 [G | C#m7]
+  melodie                : G4@1>1^104 A4@2>1^104 B4@3>1^104
+  Acoustic Guitar (nylon): G4@1>1^104 C#4+G4+A4@2>1^104 C#4+G4+B4@3>1^104
+  Acoustic Bass          : A2@1>1^104 B2@2>1^104 C#3@3>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@156 [D] (grid:8)
+  melodie                : F#4@1>4^104 D5@5>1^104 C#5@6>1^104
+  Acoustic Guitar (nylon): F#4@1>4^104 A3+D4@3>2^104 D4+F#4+D5@5>2^104 C#5@6>1^104
+  Acoustic Bass          : D3@1>2^104
+  Drums                  : C2+E2@1>2^104 A#2@3>1^104 F#2@5>1^104
+@157 [Bm | D]
+  melodie                : B4@1>1^104 A4@2>1^104 F#4@3>1^104
+  Acoustic Guitar (nylon): B4@1>1^104 D4+F#4+A4@2>1^104 B3+D4+F#4@3>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@158 [G7 | Bdim]
+  melodie                : D4@1>3^104
+  Acoustic Guitar (nylon): D4@1>3^104 F3+B3@2>1^104 F3+B3@3>1^104
+  Acoustic Bass          : G2@1>1^104
+  Drums                  : C2+E2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@159 [F#7 | A#dim]
+  melodie                : C#4@1>3^104
+  Acoustic Guitar (nylon): C#4@1>3^104 E3+A#3@2>1^104 E3+A#3@3>1^104
+  Acoustic Bass          : F#2@1>1^104
+  Drums                  : D2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@160 [Bm | F#7]
+  melodie                : B3@1>1^104
+  Acoustic Guitar (nylon): D3+F#3+B3@1>1^104 C#3+E3+F#3+A#3@3>1^104
+  Acoustic Bass          : B2@1>1^104 F#2@3>1^104
+  Drums                  : E2+G2@1>1^104 A#2@2>1^104 F#2@3>1^104
+@161 [Bm]
+  Acoustic Guitar (nylon): B2+D3+F#3+B3@1>1^104
+  Acoustic Bass          : B2@1>1^104
+  Drums                  : C#3+E3@1>1^104

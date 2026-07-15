@@ -10,21 +10,24 @@ reads — guaranteeing structural round-trip fidelity.
 
 Per token: note name (F2, Bb4) -> MIDI number; absolute tick from (bar-1)*ticks_per_bar +
 (pos-1)*ticks_per_slot using the header (and any per-bar (grid:G)); length = duration*ticks_per_slot;
-note-on at start, note-off at start+length. Chord tokens (P+P+P) -> simultaneous note-ons. Each voice
-gets a sensible default GM instrument by name and a fixed velocity (85).
+note-on at start, note-off at start+length. Chord tokens (P+P+P) -> simultaneous note-ons.
 
-KNOWN LOSSES (honest): this is a STRUCTURALLY-FAITHFUL deterministic decode, NOT the original
-performance. It faithfully reconstructs PITCH, TIMING (onset), DURATION, and VOICE SEPARATION. It does
-NOT recover: original VELOCITY / dynamics (fixed at 85), MICRO-TIMING / human feel (quantized away at
-encode time), original INSTRUMENTS (reassigned by voice name), or DRUMS / unpitched percussion
-(dropped during encoding). Two pieces that differ only in those lost dimensions decode identically.
+TIMBRE / DYNAMICS / DRUMS are now preserved when the grammar carries them:
+  - VOICES "[prog=N]" -> that GM program; "[drums]" -> percussion channel (is_drum=True).
+    A bare voice name (old-format grammar) still falls back to name-based program guessing.
+  - a token's optional "^V" suffix sets that note's velocity; absent -> default 85.
 
-One further INHERENT MIDI limit (not a decoder bug): a single channel cannot sound the SAME pitch
-twice simultaneously. Where one voice re-articulates a pitch while the same pitch is still sounding
-(overlapping same-pitch notes), the note-off pairing is ambiguous and durations get reassigned on
-playback/readback. Pitch / onset / voice still round-trip exactly; only the duration of such
-overlapping same-pitch notes shifts. Affects a few % of notes in string-pad-heavy arrangements
-(song_0047: 0.9%; song_0009: 4.7%; song_0030: 0%).
+KNOWN LOSSES (honest): still a STRUCTURALLY-FAITHFUL deterministic decode, NOT the original
+performance. It faithfully reconstructs PITCH, TIMING (onset), DURATION, VOICE SEPARATION, and now
+(when declared) INSTRUMENT PROGRAM, COARSE VELOCITY, and DRUM routing. It does NOT recover:
+MICRO-TIMING / human feel (quantized away at encode time), or fine velocity (coarsely bucketed).
+
+Overlapping same-pitch notes within a voice (a pedal note re-articulated while still sounding) can't
+share one MIDI channel — the two note-offs collide and truncate the longer note. The decoder handles
+this by splitting such a voice across LANES (separate channels, same name/program) so both survive;
+because the name is preserved, they re-read as one voice and duration round-trips exactly. This
+previously shifted the duration of a few % of notes in pad-heavy arrangements; it now round-trips
+losslessly (full corpus: 0 notes lost/invented/reshaped).
 """
 import re
 import sys
@@ -61,6 +64,27 @@ def program_for(voice):
     return DEFAULT_PROGRAM
 
 
+def _split_same_pitch_overlaps(events):
+    """Distribute one voice's events into LANES so no lane sounds the same pitch twice at once.
+
+    MIDI can't hold two same-pitch notes on one channel (their note-offs collide and truncate the
+    longer one). A voice that pedals a pitch while re-articulating it needs those overlapping copies
+    on separate channels. Greedy first-fit in onset order → minimal lanes: a voice with no same-pitch
+    overlap stays a single lane. Only same-pitch overlap forces a new lane (other pitches coexist
+    freely on one channel)."""
+    lanes = []                                   # each: {"events": [...], "end": {pitch: latest_end}}
+    for e in sorted(events, key=lambda x: (x["abs"], x["midi"])):
+        p = int(e["midi"]); start = e["abs"]; end = e["abs"] + max(e["dur"], 1e-3)
+        placed = False
+        for lane in lanes:
+            if lane["end"].get(p, -1.0) <= start + 1e-9:      # no same-pitch note still sounding
+                lane["events"].append(e); lane["end"][p] = end; placed = True
+                break
+        if not placed:
+            lanes.append({"events": [e], "end": {p: end}})
+    return [lane["events"] for lane in lanes]
+
+
 def tempo_of(path):
     first = Path(path).read_text(encoding="utf-8").splitlines()[0]
     m = re.search(r"TEMPO:\s*([\d.]+)", first)
@@ -82,14 +106,28 @@ def decode(grammar_path, out_path):
     order = [v for v in song.voices if v in by_voice] + [v for v in by_voice if v not in song.voices]
     n_notes = 0
     for voice in order:
-        inst = pretty_midi.Instrument(program=program_for(voice), name=voice)
-        for e in by_voice[voice]:
-            start = e["abs"] * spb
-            end = (e["abs"] + max(e["dur"], 1e-3)) * spb     # ensure positive length
-            inst.notes.append(pretty_midi.Note(velocity=VELOCITY, pitch=int(e["midi"]),
-                                               start=start, end=end))
-            n_notes += 1
-        pm.instruments.append(inst)
+        # Timbre: use the GM program declared in the grammar ("[prog=N]") if present, and route
+        # "[drums]" voices to the percussion channel; otherwise fall back to name-based guessing.
+        is_drum = voice in getattr(song, "drum_voices", ())
+        program = getattr(song, "voice_programs", {}).get(voice)
+        if program is None:
+            program = 0 if is_drum else program_for(voice)
+        # Split same-pitch overlaps across lanes (separate channels) so sustained pedal + re-strike
+        # both survive; every lane keeps the SAME name so it re-reads as one voice on round-trip.
+        for lane_events in _split_same_pitch_overlaps(by_voice[voice]):
+            inst = pretty_midi.Instrument(program=program, name=voice, is_drum=is_drum)
+            for e in lane_events:
+                start = e["abs"] * spb
+                end = (e["abs"] + max(e["dur"], 1e-3)) * spb     # ensure positive length
+                vel = e.get("vel") or VELOCITY                   # per-note velocity if declared
+                # clamp to the valid MIDI range — a stray out-of-range pitch/velocity (a generator can
+                # emit one) must not make the whole piece un-writable (mido rejects bytes outside 0..127)
+                pitch = min(127, max(0, int(e["midi"])))
+                vel = min(127, max(1, int(vel)))
+                inst.notes.append(pretty_midi.Note(velocity=vel, pitch=pitch,
+                                                   start=start, end=end))
+                n_notes += 1
+            pm.instruments.append(inst)
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
     pm.write(str(out_path))
     return bpm, n_notes, len(order)

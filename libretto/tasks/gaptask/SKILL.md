@@ -1,7 +1,7 @@
 # SKILL: gaptask — regenerate a held-out region (has ground truth)
 
 Hold out a real region of a real song, regenerate it BLIND, and measure how close it lands to the
-held-out truth in the 29-axis space. The only task with an objective external answer.
+held-out truth in the 39-axis space. The only task with an objective external answer.
 
 ## Criteria (verdict)
 - **Proximity** `D(gen,REAL)` + **beat%** vs chance (89–98% out-of-sample is the validated result).

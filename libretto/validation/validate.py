@@ -148,7 +148,7 @@ def summarize(rows, primary="CE", min_songs=MIN_SONGS):
 def canonical_axes():
     """The canonical axis set (axes_order from the frozen corpus distribution)."""
     import json
-    dist = json.loads((data_root() / "corpus_distribution_314.json").read_text())
+    dist = json.loads((data_root() / "corpus_distribution.json").read_text())
     return list(dist["axes_order"])
 
 
@@ -221,48 +221,69 @@ def _extremity(pct, push):
 # --------------------------------------------------------------------------- #
 def validate(songs=None, axes=None, judge=None, doses=None, grammar_dir=None,
              clip_seconds=CLIP_SECONDS, entangle_thresh=ENTANGLE_THRESH, min_songs=MIN_SONGS,
-             progress=print):
+             progress=print, render_workers=None):
     """Run the dose-response validation. Returns a :class:`ValidationResult`.
 
     songs: seed song ids (default 8 genre-spread). axes: iterable of axis names to test (default = all
     registered levers). judge: a Judge (default AudioBoxJudge). doses: list incl. 0.0 (default 4 points).
+    render_workers: parallel fluidsynth renders (default $LIBRETTO_RENDER_WORKERS or 1). Scoring uses the
+    judge's own workers ($LIBRETTO_AUDIOBOX_WORKERS).
     """
+    import os
+    from concurrent.futures import ThreadPoolExecutor
     songs = list(songs or DEFAULT_SONGS)
     doses = list(doses or DEFAULT_DOSES)
     judge = judge or AudioBoxJudge()
     levers = {a: LEVERS[a] for a in (axes or LEVERS)} if axes else dict(LEVERS)
     gdir = Path(grammar_dir or (data_root() / "grammar"))
     sf = _soundfont()
+    rw = render_workers or int(os.environ.get("LIBRETTO_RENDER_WORKERS", 1))
+    _pool = ThreadPoolExecutor(max_workers=rw) if rw > 1 else None
+    _map = (_pool.map if _pool else map)
 
     rows = []
     with tempfile.TemporaryDirectory(prefix="axisval_") as td:
         tmp = Path(td)
-        for song in songs:
-            base_text = (gdir / f"{song}.txt").read_text(encoding="utf-8")
-            base_prof = {k: v["percentile"] for k, v in profile(gdir / f"{song}.txt")[0].items()}
-            base_wav = tmp / f"{song}__base.wav"
-            _render(base_text, tmp / f"{song}__base.mid", base_wav, sf)
-            win = _peak_window_start(base_wav, clip_seconds) if clip_seconds is not None else 0.0
+        # ---- pass 1: render each song's BASE (parallel), compute its peak window ----
+        base_text = {s: (gdir / f"{s}.txt").read_text(encoding="utf-8") for s in songs}
+        base_prof = {s: {k: v["percentile"] for k, v in profile(gdir / f"{s}.txt")[0].items()} for s in songs}
+
+        def render_base(song):
+            bw = tmp / f"{song}__base.wav"
+            _render(base_text[song], tmp / f"{song}__base.mid", bw, sf)
+            win = _peak_window_start(bw, clip_seconds) if clip_seconds is not None else 0.0
             if clip_seconds is not None:
-                _trim(base_wav, clip_seconds, win)
-            for axis, lev in levers.items():
-                rows.append(dict(song=song, axis=axis, push=lev.push, dose=0.0,
-                                 target_pct=base_prof.get(axis), extremity=_extremity(base_prof.get(axis, 0), lev.push),
-                                 entangled=0, wav=str(base_wav)))
-                for dose in doses:
-                    if dose <= 0:
-                        continue
-                    text = perturb(base_text, axis, dose)
-                    wav = tmp / f"{song}__{axis}__{dose}.wav"
-                    txt = _render(text, tmp / f"{song}__{axis}__{dose}.mid", wav, sf)
-                    if clip_seconds is not None:
-                        _trim(wav, clip_seconds, win)
-                    prof = {k: v["percentile"] for k, v in profile(txt)[0].items()}
-                    ent = sum(1 for k in prof if k != axis and abs(prof[k] - base_prof.get(k, prof[k])) > entangle_thresh)
-                    rows.append(dict(song=song, axis=axis, push=lev.push, dose=dose,
-                                     target_pct=prof.get(axis), extremity=_extremity(prof.get(axis, 0), lev.push),
-                                     entangled=ent, wav=str(wav)))
-            progress(f"  rendered {song}")
+                _trim(bw, clip_seconds, win)
+            return song, str(bw), win
+        base_wav, win = {}, {}
+        for song, bw, w in _map(render_base, songs):
+            base_wav[song], win[song] = bw, w
+
+        # ---- pass 2: render every (song, axis, dose>0) perturbation (parallel) ----
+        jobs = [(s, a, lev, d) for s in songs for a, lev in levers.items() for d in doses if d > 0]
+
+        def render_pert(job):
+            song, axis, lev, dose = job
+            text = perturb(base_text[song], axis, dose)
+            wav = tmp / f"{song}__{axis}__{dose}.wav"
+            txt = _render(text, tmp / f"{song}__{axis}__{dose}.mid", wav, sf)
+            if clip_seconds is not None:
+                _trim(wav, clip_seconds, win[song])
+            prof = {k: v["percentile"] for k, v in profile(txt)[0].items()}
+            ent = sum(1 for k in prof if k != axis and abs(prof[k] - base_prof[song].get(k, prof[k])) > entangle_thresh)
+            return dict(song=song, axis=axis, push=lev.push, dose=dose,
+                        target_pct=prof.get(axis), extremity=_extremity(prof.get(axis, 0), lev.push),
+                        entangled=ent, wav=str(wav))
+        pert_rows = list(_map(render_pert, jobs))
+        # dose=0 rows reuse the base wav
+        base_rows = [dict(song=s, axis=a, push=lev.push, dose=0.0,
+                          target_pct=base_prof[s].get(a), extremity=_extremity(base_prof[s].get(a, 0), lev.push),
+                          entangled=0, wav=base_wav[s])
+                     for s in songs for a, lev in levers.items()]
+        rows = base_rows + pert_rows
+        if _pool:
+            _pool.shutdown()
+        progress(f"  rendered {len(songs)} songs x {len(levers)} axes ({rw} render workers)")
 
         uniq = sorted({r["wav"] for r in rows})
         progress(f"scoring {len(uniq)} unique clips with {type(judge).__name__} (primary={judge.primary})...")

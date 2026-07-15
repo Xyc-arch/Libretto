@@ -134,3 +134,43 @@ def test_detect_training_tags(tmp_path):
     assert any(s.startswith("tempo:") for s in tags)
     assert any(s.startswith("key:") for s in tags)
     assert any(s.startswith("syncopation:") for s in tags)
+
+
+# ── revised defaults: varied tempo/meter, mixed rhythm, full staff+ledger coverage in EVERY drill ──────────
+def test_defaults_are_comprehensive():
+    s = S.resolve_spec(dict(level="beginner", key="C major"))
+    assert s["rhythm_mix"] is True, "mixed rhythms must be required by default"
+    assert s["clef"] == "changing" and s.get("grand_staff_band"), "full-range coverage must be default"
+    assert s["tempo_range"] and s["meter"], "every drill gets a definite tempo + meter"
+
+
+def test_batch_varies_tempo_and_meter():
+    # a batch (variant 0..3) must cover multiple tempos AND multiple meters, not one fixed 4/4
+    specs = [S.resolve_spec(dict(level="beginner", key="C major", variant=v)) for v in range(4)]
+    assert len({x["tempo_bpm"] for x in specs}) >= 3, "batch should span the major speed range"
+    assert len({x["meter"] for x in specs}) >= 2, "batch should not be all 4/4"
+
+
+def test_advanced_covers_full_a1_e6_range():
+    s = S.resolve_spec(dict(level="advanced", key="D major"))
+    gb = s["grand_staff_band"]
+    # advanced must reach the full staff+3-ledger range: down toward A1(33) and up toward E6(88)
+    assert gb["cover_lo"] == 33 and gb["cover_hi"] == 88
+    assert gb["low_max"] <= 43 and gb["high_min"] >= 81
+
+
+def test_explicit_overrides_still_win():
+    s = S.resolve_spec(dict(level="intermediate", key="G major", clef="treble", meter="3/4", rhythm_mix=False))
+    assert s["meter"] == "3/4" and s["clef"] == "treble" and s["rhythm_mix"] is False
+    assert s["clef_band"]["cover_lo"] == 53 and s["clef_band"]["cover_hi"] == 88  # treble f..e'''
+
+
+def test_frequency_balance_gate():
+    from libretto.tasks.education.measure import _freq_balance
+    even = _freq_balance([33, 40, 45, 52, 57, 64, 69, 76, 81, 88] * 3, 33, 88)
+    clustered = _freq_balance([60, 61, 59, 62, 60, 61] * 5 + [33, 88], 33, 88)
+    assert even[0] > 0.9 and even[1] < 0.3          # spread evenly -> high evenness, low busiest share
+    assert clustered[0] < 0.3 and clustered[1] > 0.8  # packed in one octave -> caught
+    # advanced staff band ships a real balance requirement
+    s = S.resolve_spec(dict(level="advanced", key="C major"))
+    assert s["grand_staff_band"]["balance_min"] >= 0.6 and s["grand_staff_band"]["balance_max_octave"] <= 0.5

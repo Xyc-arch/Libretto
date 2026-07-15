@@ -1,0 +1,870 @@
+KEY: G minor | METER: 4/4 | TEMPO: 256 | GRID: 8th (adaptive) | BARS: 198
+VOICES: "Becoming" by Pantera[prog=29], Tracked by RazTor (cns@post7.tele.dk)[prog=27], Drums[drums], Visit The Midi Planet[prog=33], http://home7.inet.tele.dk/cns/midiplanet/[prog=31]
+@1 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@2>1^104 G2+D3+G3@3>1^104 G2+D3+G3@7>1^104 G2+D3+G3@8>1^104
+  Drums                                    : C2+E2@1>1^104 C2+E2@2>1^104 C2+E2@3>4^104 C2+E2@7>1^104 C2+E2@8>1^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@2>1^104 G1@3>1^104 G1@7>1^104 G1@8>1^104
+@2 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@5>1^104 G2+D3+G3@6>1^104 G2+D3+G3@7>1^104
+  Drums                                    : C2+E2@1>4^104 C2+E2@5>1^104 C2+E2@6>1^104 C2+E2@7>2^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@5>1^104 G1@6>1^104 G1@7>1^104
+@3 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@2>1^104 G2+D3+G3@3>1^104 G2+D3+G3@7>1^104 G2+D3+G3@8>1^104
+  Drums                                    : C2+E2@1>1^104 C2+E2@2>1^104 C2+E2@3>4^104 C2+E2@7>1^104 C2+E2@8>1^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@2>1^104 G1@3>1^104 G1@7>1^104 G1@8>1^104
+@4 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@5>1^104 G2+D3+G3@6>1^104
+  Drums                                    : C2+E2@1>4^104 C2+E2@5>1^104 C2+E2@6>3^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@5>1^104 G1@6>1^104
+@5 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@6 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@7 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@8 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@9 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@10 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@11 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@12 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@13 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@14 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@15 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@16 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@17 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@18 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@19 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@20 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : A2@3>2^104 A2@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>2^104 E2@6>1^104 E2+Bb2@7>2^104 E2@8>1^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@21 [D | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : D2+A2+D3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>6^104 D3@7>3^104 D3@10>6^104
+  Drums                                    : C2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : D1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@22 [Ddim | Dm7] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@4>6^104 C3@10>6^104
+  Drums                                    : E2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@23 [Abdim | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : Ab2@4>6^104 Ab2@10>6^104
+  Drums                                    : C2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@24 [Em7 | F] (grid:4)
+  "Becoming" by Pantera                    : D2+A2+D3@1>1^104 E2+B2+E3@2>1^104 F2+C3+F3@3>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : G2@2>2^104 A2@4>15^104
+  Drums                                    : E2+Bb2@1>4^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104
+  Visit The Midi Planet                    : D1@1>1^104 E1@2>1^104 F1@3>2^104
+@25 [D | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : D2+A2+D3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : C2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : D1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@26 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : E2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@27 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : C2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@28 [D | F] (grid:4)
+  "Becoming" by Pantera                    : D2+A2+D3@1>1^104 E2+B2+E3@2>1^104 F2+C3+F3@3>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : A2@3>1^104 A2@4>1^104
+  Drums                                    : E2+Bb2@1>4^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104
+  Visit The Midi Planet                    : D1@1>1^104 E1@2>1^104 F1@3>2^104
+@29 [D | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : D2+A2+D3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>6^104 D3@7>3^104 D3@10>6^104
+  Drums                                    : C2+Db3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : D1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@30 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@4>6^104 D3@10>6^104
+  Drums                                    : E2+A3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@31 [Ddim | Dm7] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@4>6^104 C3@10>6^104
+  Drums                                    : C2+Db3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@32 [D | F] (grid:4)
+  "Becoming" by Pantera                    : D2+A2+D3@1>1^104 E2+B2+E3@2>1^104 F2+C3+F3@3>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@2>2^104 D3@4>17^104
+  Drums                                    : E2+A3@1>4^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104
+  Visit The Midi Planet                    : D1@1>1^104 E1@2>1^104 F1@3>2^104
+@33 [D | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : D2+A2+D3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : C2+Db3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : D1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@34 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : E2+A3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@35 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : C2+Db3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@36 [D | F] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 E2+B2+E3@5>4^104 F2+C3+F3@9>8^104
+  Drums                                    : E2+A3@1>4^104 C2+Bb2@5>4^104 E2+Bb2@9>4^104 E2@11>2^104 E2+Bb2@13>4^104 E2@14>1^104 E2@15>1^104 E2@16>1^104
+  Visit The Midi Planet                    : D1@1>4^104 E1@5>4^104 F1@9>8^104
+@37 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@38 [D | Daug]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>2^104 D3@3>4^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@39 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@40 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>3^104 D3@4>3^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@41 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@42 [D | Daug]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>2^104 D3@3>4^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@43 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@44 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>3^104 D3@4>3^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@45 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>6^104 D3@7>6^104 D3@13>4^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@46 [D | Daug]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>8^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@47 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>6^104 D3@7>6^104 D3@13>4^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@48 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>3^104 D3@4>3^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@49 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@50 [D | Daug]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>2^104 D3@3>4^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@51 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@52 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>3^104 D3@4>3^104 D3@7>22^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@53 [A | G] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>2^104 G2+D3+G3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>2^104 G1@3>2^104
+@54 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@55 [G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : G3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@56 [A | G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : A3@1>2^104 G3@3>11^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@57 [G | E] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>1^104 G2+D3+G3@2>1^104 E2+B2+E3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>1^104 G1@2>1^104 E1@3>2^104
+@58 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@59 [E] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : E3@2>1^104 E3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@60 [E] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : E3@1>14^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@61 [A | G] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>2^104 G2+D3+G3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>2^104 G1@3>2^104
+@62 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@63 [G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : G3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@64 [A | G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : A3@1>2^104 G3@3>12^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@65 [G | E] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>1^104 G2+D3+G3@2>1^104 E2+B2+E3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>1^104 G1@2>1^104 E1@3>2^104
+@66 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@67 [C] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@68 [C] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@1>73^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@69 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@2>1^104 G2+D3+G3@3>1^104 G2+D3+G3@7>1^104 G2+D3+G3@8>1^104
+  Drums                                    : C2+E2@1>1^104 C2+E2@2>1^104 C2+E2@3>4^104 C2+E2@7>1^104 C2+E2@8>1^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@2>1^104 G1@3>1^104 G1@7>1^104 G1@8>1^104
+@70 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@5>1^104 G2+D3+G3@6>1^104
+  Drums                                    : C2+E2@1>4^104 C2+E2@5>1^104 C2+E2@6>3^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@5>1^104 G1@6>1^104
+@71 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@72 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@73 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@74 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@75 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@76 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@77 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@78 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@79 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@80 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@81 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@82 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@83 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@84 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@85 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@86 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : A2@3>2^104 A2@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>2^104 E2@6>1^104 E2+Bb2@7>2^104 E2@8>1^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@87 [D | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : D2+A2+D3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>6^104 D3@7>3^104 D3@10>6^104
+  Drums                                    : C2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : D1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@88 [Ddim | Dm7] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@4>6^104 C3@10>6^104
+  Drums                                    : E2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@89 [Abdim | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : Ab2@4>6^104 Ab2@10>6^104
+  Drums                                    : C2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@90 [Em7 | F] (grid:4)
+  "Becoming" by Pantera                    : D2+A2+D3@1>1^104 E2+B2+E3@2>1^104 F2+C3+F3@3>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : G2@2>2^104 A2@4>15^104
+  Drums                                    : E2+Bb2@1>4^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104
+  Visit The Midi Planet                    : D1@1>1^104 E1@2>1^104 F1@3>2^104
+@91 [D | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : D2+A2+D3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : C2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : D1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@92 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : E2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@93 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : C2+Bb2@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@94 [D | F] (grid:4)
+  "Becoming" by Pantera                    : D2+A2+D3@1>1^104 E2+B2+E3@2>1^104 F2+C3+F3@3>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : A2@3>1^104 A2@4>1^104
+  Drums                                    : E2+Bb2@1>4^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104
+  Visit The Midi Planet                    : D1@1>1^104 E1@2>1^104 F1@3>2^104
+@95 [D | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : D2+A2+D3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>6^104 D3@7>3^104 D3@10>6^104
+  Drums                                    : C2+Db3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : D1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@96 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@4>6^104 D3@10>6^104
+  Drums                                    : E2+A3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@97 [Ddim | Dm7] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@4>6^104 C3@10>6^104
+  Drums                                    : C2+Db3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@98 [D | F] (grid:4)
+  "Becoming" by Pantera                    : D2+A2+D3@1>1^104 E2+B2+E3@2>1^104 F2+C3+F3@3>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@2>2^104 D3@4>17^104
+  Drums                                    : E2+A3@1>4^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104
+  Visit The Midi Planet                    : D1@1>1^104 E1@2>1^104 F1@3>2^104
+@99 [D | Ddim] (grid:12t)
+  "Becoming" by Pantera                    : D2+A2+D3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : C2+Db3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : D1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@100 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : E2+A3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@101 [Ddim] (grid:12t)
+  "Becoming" by Pantera                    : Ab2+Eb3+Ab3@1>3^104 D2+A2+D3@4>6^104 Ab2+Eb3+Ab3@10>2^104 G2+D3+G3@11>2^104
+  Drums                                    : C2+Db3@1>12^104 Bb2@4>3^104 Bb2@7>3^104 Bb2@10>3^104
+  Visit The Midi Planet                    : Ab1@1>3^104 D1@4>6^104 Ab1@10>2^104 G1@11>2^104
+@102 [D | F] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 E2+B2+E3@5>4^104 F2+C3+F3@9>8^104
+  Drums                                    : E2+A3@1>4^104 C2+Bb2@5>4^104 E2+Bb2@9>4^104 E2@11>2^104 E2+Bb2@13>4^104 E2@14>1^104 E2@15>1^104 E2@16>1^104
+  Visit The Midi Planet                    : D1@1>4^104 E1@5>4^104 F1@9>8^104
+@103 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@104 [D | Daug]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>2^104 D3@3>4^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@105 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@106 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>3^104 D3@4>3^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@107 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@108 [D | Daug]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>2^104 D3@3>4^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@109 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@110 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>3^104 D3@4>3^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@111 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>6^104 D3@7>6^104 D3@13>4^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@112 [D | Daug]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>8^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@113 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>6^104 D3@7>6^104 D3@13>4^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@114 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>3^104 D3@4>3^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@115 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@116 [D | Daug]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>2^104 D3@3>4^104 D3@7>2^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@117 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>4^104 D3@5>8^104 D3@13>4^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@118 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Tracked by RazTor (cns@post7.tele.dk)    : D3@1>3^104 D3@4>3^104 D3@7>22^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@119 [A | G] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>2^104 G2+D3+G3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>2^104 G1@3>2^104
+@120 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@121 [G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : G3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@122 [A | G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : A3@1>2^104 G3@3>11^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@123 [G | E] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>1^104 G2+D3+G3@2>1^104 E2+B2+E3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>1^104 G1@2>1^104 E1@3>2^104
+@124 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@125 [E] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : E3@2>1^104 E3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@126 [E] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : E3@1>14^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@127 [A | G] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>2^104 G2+D3+G3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>2^104 G1@3>2^104
+@128 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@129 [G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : G3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@130 [A | G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : A3@1>2^104 G3@3>12^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@131 [G | E] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>1^104 G2+D3+G3@2>1^104 E2+B2+E3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>1^104 G1@2>1^104 E1@3>2^104
+@132 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@133 [C] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@134 [C] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@1>73^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@135 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@2>1^104 G2+D3+G3@3>1^104 G2+D3+G3@7>1^104 G2+D3+G3@8>1^104
+  Drums                                    : C2+E2@1>1^104 C2+E2@2>1^104 C2+E2@3>4^104 C2+E2@7>1^104 C2+E2@8>1^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@2>1^104 G1@3>1^104 G1@7>1^104 G1@8>1^104
+@136 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@5>1^104 G2+D3+G3@6>1^104
+  Drums                                    : C2+E2@1>4^104 C2+E2@5>1^104 C2+E2@6>3^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@5>1^104 G1@6>1^104
+@137 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@138 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@139 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@140 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@141 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@142 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@143 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@144 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@145 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@146 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@147 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@148 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@149 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@150 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@151 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@152 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>2^104 E2@6>1^104 E2+Bb2@7>2^104 E2@8>1^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@153 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@2>1^104 G2+D3+G3@3>1^104 G2+D3+G3@7>1^104 G2+D3+G3@8>1^104
+  Drums                                    : C2+E2@1>1^104 C2+E2@2>1^104 C2+E2@3>4^104 C2+E2@7>1^104 C2+E2@8>1^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@2>1^104 G1@3>1^104 G1@7>1^104 G1@8>1^104
+@154 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@5>1^104 G2+D3+G3@6>1^104
+  Drums                                    : C2+E2@1>4^104 C2+E2@5>1^104 C2+E2@6>3^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@5>1^104 G1@6>1^104
+@155 [A | G] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>2^104 G2+D3+G3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>2^104 G1@3>2^104
+@156 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@157 [G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : G3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@158 [A | G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : A3@1>2^104 G3@3>11^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@159 [G | E] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>1^104 G2+D3+G3@2>1^104 E2+B2+E3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>1^104 G1@2>1^104 E1@3>2^104
+@160 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@161 [E] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : E3@2>1^104 E3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@162 [E] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : E3@1>14^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@163 [A | G] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>2^104 G2+D3+G3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>2^104 G1@3>2^104
+@164 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@165 [G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : G3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@166 [A | G] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : A3@1>2^104 G3@3>12^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@167 [G | E] (grid:4)
+  "Becoming" by Pantera                    : A2+E3+A3@1>1^104 G2+D3+G3@2>1^104 E2+B2+E3@3>2^104
+  Drums                                    : C2+Db3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+  Visit The Midi Planet                    : A1@1>1^104 G1@2>1^104 E1@3>2^104
+@168 [D | C] (grid:4)
+  "Becoming" by Pantera                    : Eb2+Bb2+Eb3@1>1^104 D2+A2+D3@2>1^104 C2+G2+C3@3>10^104
+  Drums                                    : E2+F3@1>1^104 C2+F3@2>1^104 C2+Db3@3>6^104
+  Visit The Midi Planet                    : Eb1@1>1^104 D1@2>1^104 C1@3>10^104
+@169 [C] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@3>2^104
+  Drums                                    : F3@1>1^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@170 [C] (grid:4)
+  Tracked by RazTor (cns@post7.tele.dk)    : C3@1>116^104
+  Drums                                    : E2+F3@1>4^104 F3@2>1^104 F3@3>1^104 F3@4>1^104
+@171 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@2>1^104 G2+D3+G3@3>1^104 G2+D3+G3@7>1^104 G2+D3+G3@8>1^104
+  Drums                                    : C2+E2@1>1^104 C2+E2@2>1^104 C2+E2@3>4^104 C2+E2@7>1^104 C2+E2@8>1^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@2>1^104 G1@3>1^104 G1@7>1^104 G1@8>1^104
+@172 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@5>1^104 G2+D3+G3@6>1^104 G2+D3+G3@7>1^104
+  Drums                                    : C2+E2@1>4^104 C2+E2@5>1^104 C2+E2@6>1^104 C2+E2@7>2^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@5>1^104 G1@6>1^104 G1@7>1^104
+@173 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@2>1^104 G2+D3+G3@3>1^104 G2+D3+G3@7>1^104 G2+D3+G3@8>1^104
+  Drums                                    : C2+E2@1>1^104 C2+E2@2>1^104 C2+E2@3>4^104 C2+E2@7>1^104 C2+E2@8>1^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@2>1^104 G1@3>1^104 G1@7>1^104 G1@8>1^104
+@174 [G]
+  "Becoming" by Pantera                    : G2+D3+G3@1>1^104 G2+D3+G3@5>1^104 G2+D3+G3@6>1^104
+  Drums                                    : C2+E2@1>4^104 C2+E2@5>1^104 C2+E2@6>3^104
+  Visit The Midi Planet                    : G1@1>1^104 G1@5>1^104 G1@6>1^104
+@175 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@176 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@177 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@178 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@179 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@180 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@181 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@182 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@183 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@184 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@185 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@186 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@187 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Db3@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@188 [D | Eb]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@3>2^104 E2+B2+E3@7>1^104 Eb2+Bb2+Eb3@8>1^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+Bb2@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@3>2^104 E1@7>1^104 Eb1@8>1^104
+@189 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 D2+A2+D3@5>4^104 D3+A3+D4@9>4^104 D2+A2+D3@13>2^104 C2+G2+C3@15>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 E2+Bb2@9>4^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 D1@5>4^104 D2@9>4^104 D1@13>2^104 C1@15>2^104
+  http://home7.inet.tele.dk/cns/midiplanet/: D4+A4+D5@9>4^104
+@190 [D | F]
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 E2+B2+E3@3>2^104 F2+C3+F3@5>4^104
+  Drums                                    : C2+Bb2@1>2^104 C2@2>1^104 C2+Bb2@3>2^104 C2@4>1^104 E2+A3@5>4^104 Bb2@7>2^104
+  Visit The Midi Planet                    : D1@1>2^104 E1@3>2^104 F1@5>4^104
+@191 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@5>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2@3>2^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 C2+Bb2@9>4^104 C2@11>2^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@5>2^104
+@192 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@5>2^104
+  Drums                                    : E2+Bb2@1>4^104 C2@3>2^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 C2+Bb2@9>4^104 C2@11>2^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@5>2^104
+@193 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@5>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2@3>2^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 C2+Bb2@9>4^104 C2@11>2^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@5>2^104
+@194 [D | F] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>4^104 E2+B2+E3@5>4^104 F2+C3+F3@9>8^104
+  Drums                                    : E2+Bb2@1>4^104 C2@3>2^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 C2+Bb2@9>4^104 C2@11>2^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>4^104 E1@5>4^104 F1@9>8^104
+@195 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@5>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2@3>2^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 C2+Bb2@9>4^104 C2@11>2^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@5>2^104
+@196 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@5>2^104
+  Drums                                    : E2+Bb2@1>4^104 C2@3>2^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 C2+Bb2@9>4^104 C2@11>2^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@5>2^104
+@197 [D] (grid:16)
+  "Becoming" by Pantera                    : D2+A2+D3@1>2^104 D2+A2+D3@5>2^104
+  Drums                                    : C2+Bb2@1>4^104 C2@3>2^104 C2+Bb2@5>4^104 C2@6>1^104 C2@7>2^104 C2+Bb2@9>4^104 C2@11>2^104 C2+Bb2@13>4^104 C2@14>1^104 C2@15>2^104
+  Visit The Midi Planet                    : D1@1>2^104 D1@5>2^104
+@198 [D | F] (grid:4)
+  "Becoming" by Pantera                    : D2+A2+D3@1>1^104 E2+B2+E3@2>1^104 F2+C3+F3@3>1^104
+  Drums                                    : C2+E2+A3@1>1^104 C2+E2+Db3@2>1^104 C2+E2+A3@3>2^104
+  Visit The Midi Planet                    : D1@1>1^104 E1@2>1^104 F1@3>1^104

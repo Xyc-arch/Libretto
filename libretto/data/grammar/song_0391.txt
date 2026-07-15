@@ -1,0 +1,609 @@
+KEY: F minor | METER: 4/4 | TEMPO: 87 | GRID: 12t (adaptive) | BARS: 84
+VOICES: Close To You[prog=0], Close To You#2[prog=11], Close To You#3[prog=71], Close To You#4[drums], Close To You#5[prog=33], Close To You#6[prog=1], Close To You#7[prog=48], Close To You#8[prog=49], Close To You#9[prog=46], Close To You#10[prog=48], Close To You#11[prog=6], Close To You#12[prog=73], Close To You#13[prog=52], Close To You#14[prog=60], Close To You#15[prog=57], Close To You#16[prog=0], Close To You#17[prog=73]
+@1 [-]
+@2 [G | C]
+  Close To You   : D5+E5+G5@1>2^80 D5+E5+G5@4>2^104 G4@6>1^80 C5+E5+G5@7>2^80 C5+E5+G5@10>2^104 G4@12>1^80
+@3 [Em7 | C]
+  Close To You   : D5+E5+G5@1>2^80 E5+G5@3>1^80 D5+E5+G5@4>2^104 G4@6>1^80 C5+E5+G5@7>2^80 C5+E5+G5@10>2^104 G4@12>1^80
+@4 [G | C]
+  Close To You   : D5+E5+G5@1>2^104 D5+E5+G5@4>2^104 G4@6>1^80 C5+E5+G5@7>2^80 C5+E5+G5@10>2^104 G4@12>1^80
+  Close To You#2 : D5@1>2^80 D5@4>2^80 G4@6>1^80 C5@7>2^80 C5@10>2^80 G4@12>1^80
+@5 [G] (grid:4)
+  Close To You   : D5+E5+G5@1>4^80
+  Close To You#2 : D5@1>4^80
+  Close To You#3 : E3@3>1^80 G3@4>1^80
+@6 [C]
+  Close To You   : C2+D4+E4+G4@1>11^80 D4+E4+G4@4>2^104 D4+E4+G4@7>2^104 D4+E4+G4@10>2^104 C2+C4+D4+E4+G4@12>1^80
+  Close To You#3 : D4@1>2^80 D4@7>2^80 C4@9>1^80 D4@10>2^80 E4@12>1^80
+@7 [B]
+  Close To You   : B2+B3+E4+Gb4@1>6^104 B3+E4+Gb4@4>2^104 B2+B3+Eb4+Gb4@7>5^104 B3+Eb4+Gb4@10>2^104 Gb2@12>1^80
+  Close To You#3 : B3@1>3^80 B3@11>1^80 D4@12>1^80
+@8 [Bm7]
+  Close To You   : B1+A3+D4+Gb4@1>11^104 A3+D4+Gb4@4>2^104 A3+D4+Gb4@7>2^80 A3+D4+Gb4@10>2^104
+  Close To You#3 : Gb4@1>2^80 B3@9>1^80 D4@10>2^80 G4@12>3^80
+@9 [Em7]
+  Close To You   : E2+B3+D4+G4@1>11^104 B3+D4+G4@4>2^104 B3+E4+G4@7>2^80 B3+E4+G4@10>2^104 G2@12>1^80
+@10 [C]
+  Close To You   : C2+E4+G4@1>11^104 E4+G4@4>2^80 D4+E4+G4@7>2^80 D4+E4+G4@10>2^104 G2@12>1^80
+  Close To You#3 : E3@1>1^80 G3@3>2^80 D4@6>5^80
+@11 [C]
+  Close To You   : C3+C4+E4+G4@1>11^104 C4+E4+G4@4>2^104 D4+E4+G4@7>2^104 D4+E4+G4@10>2^104
+  Close To You#3 : E3@1>1^80 G3@3>1^80 E4@6>1^80 D4@7>4^80
+@12 [G | D]
+  Close To You   : G2+G3+B3+D4@1>24^80 G3+B3+D4@4>2^104 G3+A3+D4+Gb4@7>2^80 A3+D4+Gb4@10>2^104
+  Close To You#3 : E3@1>2^80 G3@3>2^80 D4@6>8^80
+@13 [D]
+  Close To You   : A3+D4+Gb4@1>8^104 D3@11>1^80 Db3@12>1^104
+  Close To You#3 : E3@7>2^80 G3@10>2^80
+  Close To You#4 : B1@11>1^32 B1@12>1^80
+  Close To You#5 : D3@11>1^80 Db3@12>1^104
+@14 [C]
+  Close To You   : C2+D4+E4+G4@1>11^80 D4+E4+G4@4>2^104 D4+E4+G4@7>2^104 D4+E4+G4@10>2^104 C2+C4+D4+E4+G4@12>1^80
+  Close To You#3 : D4@1>2^80 D4@7>2^80 C4@9>1^80 D4@10>2^80 E4@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^80 B1+Ab2@7>1^56 Ab2@10>1^80 B1@12>1^80
+  Close To You#5 : C3@1>5^104 G3@7>5^80 C3@12>1^56
+  Close To You#6 : D4+E4+G4@1>2^80 D4+E4+G4@4>2^80 D4+E4+G4@7>2^80 D4+E4+G4@10>2^80 C4+D4+E4+G4@12>1^56
+  Close To You#7 : D5@1>9^104 C5@10>3^80
+  Close To You#8 : D5@1>9^104 C5@10>3^80
+@15 [B]
+  Close To You   : B2+B3+E4+Gb4@1>6^104 B3+E4+Gb4@4>2^104 B2+B3+Eb4+Gb4@7>5^104 B3+Eb4+Gb4@10>2^104 Gb2@12>1^80
+  Close To You#3 : B3@1>3^80 B3@11>1^80 D4@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^80 B1+Ab2@7>1^56 Ab2@10>1^80 B1@12>1^80
+  Close To You#5 : B2@1>5^104 Gb3@7>6^80
+  Close To You#6 : B3+E4+Gb4@1>2^80 B3+E4+Gb4@4>2^80 B3+Eb4+Gb4@7>2^80 B3+Eb4+Gb4@10>2^80
+  Close To You#7 : B4@1>12^80
+  Close To You#8 : B4@1>11^80
+@16 [Bm7 | D]
+  Close To You   : B1+A3+D4+Gb4@1>11^104 A3+D4+Gb4@4>2^104 A3+D4+Gb4@7>2^80 A3+D4+Gb4@10>2^104
+  Close To You#3 : Gb4@1>2^80 B3@9>1^80 D4@10>2^80 G4@12>3^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^80 B1+Ab2@7>1^56 Ab2@10>1^80 B1@12>1^80
+  Close To You#5 : B2@1>6^104 Gb3@7>5^80
+  Close To You#6 : A3+D4+Gb4@1>2^80 A3+D4+Gb4@4>2^80 A3+D4+Gb4@7>2^56 A3+D4+Gb4@10>2^80
+  Close To You#7 : B4@1>6^80 Gb5@7>6^80
+  Close To You#8 : B4@1>5^104 Gb5@7>6^80
+@17 [Em7] (grid:8)
+  Close To You   : E2+B3+D4+G4@1>7^104 B3+D4+G4@3>2^104 B3+E4+G4@5>2^80 B3+E4+G4@7>2^104 G2@8>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@3>1^80 B1+Ab2@5>1^56 Ab2@7>1^80 B1@8>1^80
+  Close To You#5 : E3@1>3^104 E3@4>1^80 B2@5>2^80 E3@7>2^104
+  Close To You#6 : B3+D4+G4@1>2^80 B3+D4+G4@3>2^80 B3+E4+G4@5>2^56 B3+E4+G4@7>2^80
+  Close To You#7 : G5@1>3^80 Gb5@3>2^80 E5@5>4^80
+  Close To You#8 : G5@1>3^80 Gb5@3>2^80 E5@5>4^80
+@18 [C | G]
+  Close To You   : C2+E4+G4@1>11^104 E4+G4@4>2^80 D4+E4+G4@7>2^80 D4+E4+G4@10>2^104 G2@12>1^80
+  Close To You#3 : E3@1>1^80 G3@3>2^80 D4@6>5^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^80 B1+Ab2@7>1^56 Ab2@10>1^80 B1@12>1^80
+  Close To You#5 : C3@1>6^80 G3@7>5^80 C3@12>1^56
+  Close To You#6 : E4+G4@1>2^80 E4+G4@4>2^80 D4+E4+G4@7>2^56 D4+E4+G4@10>2^80
+  Close To You#7 : E5@1>4^104 D5@7>6^104
+  Close To You#8 : E5@1>4^104 D5@7>6^104
+@19 [C | G]
+  Close To You   : C3+C4+E4+G4@1>11^104 C4+E4+G4@4>2^104 D4+E4+G4@7>2^104 D4+E4+G4@10>2^104
+  Close To You#3 : E3@1>1^80 G3@3>1^80 E4@6>1^80 D4@7>4^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^80 B1+Ab2@7>1^56 Ab2@10>1^80 B1@12>1^80
+  Close To You#5 : C3@1>6^104 G3@7>5^104 C3@12>1^56
+  Close To You#6 : C4+E4+G4@1>2^80 C4+E4+G4@4>2^80 D4+E4+G4@7>2^80 D4+E4+G4@10>2^80
+  Close To You#7 : G5@1>6^104 D5@7>6^104
+  Close To You#8 : G5@1>6^104 D5@7>6^104
+@20 [G | D]
+  Close To You   : G2+B3+D4+G4@1>24^104 B3+D4+G4@4>3^104 A3+D4+Gb4@7>3^80 A3+D4+Gb4@10>3^104
+  Close To You#3 : E3@1>2^80 G3@3>2^80 D4@6>12^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^80 B1+Ab2@7>1^56 Ab2@10>1^80 B1@12>1^80
+  Close To You#5 : G2@1>6^80 D3@7>4^104 D3@12>1^56
+  Close To You#6 : B3+D4+G4@1>3^80 B3+D4+G4@4>3^80 A3+D4+Gb4@7>3^80 A3+D4+Gb4@10>3^80
+  Close To You#7 : D5@1>23^104
+  Close To You#8 : D5@1>23^104
+@21 [Dm | Bdim] (grid:64)
+  Close To You   : A3+D4+F4@1>14^104 A3+D4+F4@17>12^104 A3+D4+F4@33>24^104 B3+D4@39>21^104 A3+D4+F4@60>6^104
+  Close To You#4 : B1+Eb3@2>1^104 C3@17>1^80 A2@28>1^80 A2@33>1^80 A2@44>1^80 F2@49>1^104 F2@54>1^80 F2@60>1^80
+  Close To You#5 : G3@1>60^104
+  Close To You#6 : A3+D4+F4@1>14^80 A3+D4+F4@17>12^80 A3+D4+F4@33>24^80 B3+D4@38>21^80 A3+D4+F4@60>6^80
+  Close To You#9 : D3@41>1^104 F3@42>1^104 G3@44>1^104 A3@45>1^104 B3@46>1^104 D4@48>1^104 F4@49>1^104 G4@50>1^104 G3@53>1^104 A3@54>1^104 B3@56>1^104 D4@57>1^104 F4@58>1^104 G4@60>1^104 B4@61>1^104 D5@62>1^104 F5@64>1^104
+@22 [C | Am7] (grid:64)
+  Close To You   : C2+G3+C4+E4@1>125^104 A3+C4+E4@17>13^104 B3+C4+E4@33>14^80 A3+C4+E4@49>12^104
+  Close To You#3 : G3@1>10^80 G3@12>5^80 A3@17>8^104 A3@28>5^104 B3@33>9^80 B3@44>6^104 A3@49>9^80 G3@60>5^80
+  Close To You#4 : B1+F3@2>1^104 Ab2@17>1^80 Gb2@22>1^32 Gb2@28>1^56 Gb2@33>1^56 B1+Ab2@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1+Gb2@60>1^104
+  Close To You#5 : C3@1>27^104 G3@33>24^104 G2@60>5^56
+  Close To You#7 : E4@1>128^104
+  Close To You#8 : C5@1>128^104
+  Close To You#10: G3@1>15^104 A3@17>16^80 B3@33>16^80 A3@49>16^80
+  Close To You#11: G5@1>16^80 A5@17>16^80 B5@33>16^80 A5@49>16^80
+@23 [C | Em] (grid:64)
+  Close To You   : G3+C4+E4@1>14^80 A3+C4+E4@17>13^104 B3+C4+E4@33>13^80 A3+C4+E4@49>12^104
+  Close To You#3 : G3@1>9^104 G3@12>6^104 A3@17>7^104 A3@28>6^80 B3@33>9^104 B3@44>4^80 A3@54>5^104 G3@60>4^104
+  Close To You#4 : Gb2@1>1^56 B1+Ab2@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^80 Gb2@22>1^32 Gb2@28>1^56 Gb2@33>1^56 B1+Ab2@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 B1+Gb2@54>1^80 B1+Gb2@60>1^104
+  Close To You#5 : C3@1>32^104 G3@33>14^104 C3@49>14^104
+  Close To You#6 : G5@44>6^80 G6@49>11^80 G5@60>6^56
+  Close To You#10: G3@1>16^80 A3@17>16^80 B3@33>16^80 A3@49>12^80
+  Close To You#11: G5@1>16^80 A5@17>16^80 B5@33>16^80 A5@49>10^80 G5@60>5^80
+@24 [Bm7 | D] (grid:64)
+  Close To You   : B2+Gb3+A3+D4@1>98^104 Gb3+A3+D4@17>12^104 Gb3+A3+D4@33>12^104 Gb3+A3+D4@49>12^104
+  Close To You#3 : D4@1>8^104 D4@12>6^104 E4@17>9^104 E4@28>5^80 Gb4@33>8^80 Gb4@44>10^80 E4@54>5^80 D4@60>4^80
+  Close To You#4 : Gb2@1>1^56 B1+Ab2@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^80 Gb2@22>1^32 B1+Gb2@28>1^80 Gb2@33>1^56 B1+Ab2@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1+Gb2@60>1^104
+  Close To You#5 : B2@1>31^104 Gb3@33>26^104 B2@60>5^56
+  Close To You#7 : Gb4@1>96^104
+  Close To You#8 : D4@1>95^104
+  Close To You#10: A3@1>96^104
+  Close To You#11: D6@1>32^80 Gb5+D6@33>96^80
+@25 [D | E] (grid:64)
+  Close To You   : Gb3+A3+D4@1>12^80 Gb3+A3+D4@17>9^104 E3+Ab3+B3+E4@33>30^104 Ab3+B3+E4@49>13^104
+  Close To You#3 : Gb4@1>36^104 E4@49>12^104 Gb4@60>4^80
+  Close To You#4 : Gb2@1>1^56 B1+Ab2@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^80 Gb2@22>1^32 B1+Gb2@28>1^80 Gb2@33>1^56 B1+Ab2@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 B1+Gb2@54>1^56 B1+Gb2@60>1^104
+  Close To You#5 : E3@1>32^104 B2@33>16^104 E3@49>8^104 E3@60>5^56
+  Close To You#6 : D5@1>13^80 D5@17>11^56 E6@33>11^80 E6@49>11^80
+  Close To You#7 : Ab4@33>31^104
+  Close To You#8 : E4@33>32^80
+  Close To You#9 : Ab3@49>1^104 B3@50>1^104 E4@52>1^104 Ab4@53>1^104 B4@54>1^104 E5@56>1^104 Ab4@57>1^104 B4@58>1^104 E5@60>1^104 Ab5@61>1^104 B5@62>1^104 E6@64>1^104
+  Close To You#10: B3@33>33^104
+  Close To You#12: E5@1>25^80 B4@28>4^80 A4@30>4^80 B4@33>29^80
+@26 [G | C] (grid:64)
+  Close To You   : C2+G3+B3+E4@1>26^104 C2@28>30^80 G3+B3+E4@33>26^104 C2@60>27^104
+  Close To You#3 : G4@1>7^104 G4@12>5^104 G4@17>8^104 G4@28>4^104 G4@33>3^104 G4@38>4^104 G4@44>14^104 G4@60>4^104
+  Close To You#4 : Gb2@1>1^56 B1+Ab2@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^80 Gb2@22>1^32 B1+Gb2@28>1^80 Gb2@33>1^56 B1+Ab2@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1+Gb2@60>1^104
+  Close To You#5 : C3@1>26^104 G3@33>23^104 B2@60>5^56
+  Close To You#6 : G3+B3+E4@1>26^80 G3+B3+E4@33>26^80
+  Close To You#7 : G4@1>127^104
+  Close To You#8 : E4@1>126^104
+  Close To You#10: G3@1>129^104
+  Close To You#11: D5+D6@1>32^80 C5+C6@33>32^80
+  Close To You#12: D5@1>30^80 C5@33>31^80
+@27 [Em] (grid:64)
+  Close To You   : G3+B3+E4@1>25^80 C2@28>36^80 G3+B3+E4@33>13^80 G3+B3+E4@49>14^104
+  Close To You#3 : G4@1>8^104 G4@12>4^80 G4@17>8^104 G4@28>4^104 G4@33>9^104 E4@44>6^80 Gb4@49>10^104 G4@60>6^104
+  Close To You#4 : Gb2@1>1^56 B1+Ab2@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^80 Gb2@22>1^32 B1+Gb2@28>1^80 Gb2@33>1^56 B1+Ab2@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1+Gb2@60>1^104
+  Close To You#5 : C3@1>25^104 G3@33>14^104 C3@49>17^104
+  Close To You#6 : G3+B3+E4@1>25^80 G3+B3+E4@33>13^80 G3+B3+E4@49>14^80
+  Close To You#11: B4+B5@1>32^80 A4+A5@33>25^80
+  Close To You#12: B4@1>32^80 A4@33>28^104
+@28 [D] (grid:64)
+  Close To You   : D2+Gb3+A3+D4@1>25^104 A6@28>1^80 G6@29>2^80 Gb6@31>1^80 E6@32>2^80 D6@34>24^80 A5@58>2^80 G5@60>1^80 Gb5@62>1^80 E5@63>2^80
+  Close To You#3 : A4@1>22^104
+  Close To You#4 : B1+Eb3@2>1^104
+  Close To You#5 : D3@1>25^104
+  Close To You#6 : Gb3+A3+D4@1>25^80
+@29 [D | Em]
+  Close To You   : D5@1>5^56
+  Close To You#3 : E3@7>2^80 G3@10>2^80
+  Close To You#4 : C3@6>1^104 A2@8>1^80 A2@9>1^80 G2@10>1^80 B1@12>1^104
+@30 [C]
+  Close To You   : C2+D4+E4+G4@1>11^80 D4+E4+G4@4>2^104 D4+E4+G4@7>2^104 D4+E4+G4@10>2^104 C2+C4+D4+E4+G4@12>1^80
+  Close To You#3 : D4@1>2^80 D4@7>2^80 C4@9>1^80 D4@10>2^80 E4@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : C3@1>5^104 G3@7>5^80
+  Close To You#6 : D4+E4+G4@1>2^80 D4+E4+G4@4>2^80 D4+E4+G4@7>2^80 D4+E4+G4@10>2^80 C4+D4+E4+G4@12>1^56
+  Close To You#7 : D5@1>9^104 C5@10>3^80
+  Close To You#8 : D5@1>9^104 C5@10>3^80
+  Close To You#10: D4@1>9^104 C4@10>3^104
+@31 [E | B]
+  Close To You   : B2+B3+E4+Gb4@1>6^104 B3+E4+Gb4@4>2^104 B2+B3+Eb4+Gb4@7>5^104 B3+Eb4+Gb4@10>2^104 Gb2@12>1^80
+  Close To You#3 : B3@1>3^80 B3@11>1^80 D4@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : B2@1>5^104 Gb3@7>5^80
+  Close To You#6 : B3+E4+Gb4@1>2^80 B3+E4+Gb4@4>2^80 B3+Eb4+Gb4@7>2^80 B3+Eb4+Gb4@10>2^80
+  Close To You#7 : B4@1>12^80
+  Close To You#8 : B4@1>11^80
+  Close To You#10: B3@1>12^80
+  Close To You#13: A3+E4@1>2^80 A3+E4@3>2^80 B3+Eb4+Gb4@6>6^104
+@32 [Bm7]
+  Close To You   : B2+A3+D4+Gb4@1>11^104 A3+D4+Gb4@4>2^104 A3+D4+Gb4@7>2^80 A3+D4+Gb4@10>2^104
+  Close To You#3 : Gb4@1>2^80 B3@9>1^80 D4@10>2^80 G4@12>3^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : B3@3>1^104 Gb4@4>2^104 F4@6>1^104 E4@7>2^104 D4@9>4^80
+  Close To You#6 : A3+D4+Gb4@1>2^80 A3+D4+Gb4@4>2^80 A3+D4+Gb4@7>2^56 A3+D4+Gb4@10>2^80
+  Close To You#7 : B4@1>6^80 Gb5@7>6^104
+  Close To You#8 : B4@1>6^104 B4@7>6^80
+  Close To You#10: B3@1>6^104 B3@7>6^80
+  Close To You#13: B3+D4+Gb4@1>2^104 B3+D4+Gb4@3>2^80 B3+D4+Gb4@6>5^104
+@33 [Em7]
+  Close To You   : E2+B3+D4+G4@1>11^104 B3+D4+G4@4>2^104 B3+E4+G4@7>2^80 B3+E4+G4@10>2^104 G2@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^104 B1@9>1^104 Ab2@10>1^104
+  Close To You#5 : E3@1>6^104 E3@9>4^104
+  Close To You#6 : B3+D4+G4@1>2^80 B3+D4+G4@4>2^80 B3+E4+G4@7>2^56 B3+E4+G4@10>2^80
+  Close To You#7 : G5@1>3^80 Gb5@4>3^80 E5@7>17^80
+  Close To You#8 : B4@1>3^80 A4@4>3^80 G4@7>18^104
+  Close To You#10: B3@1>3^80 A3@4>3^80 G3@7>17^80
+  Close To You#13: B3+E4@1>1^80 B3+E4@3>2^80 A3@4>1^80 G3+B3+E4@6>7^80
+@34 [C]
+  Close To You   : C2+E4+G4@1>11^104 E4+G4@4>2^80 D4+E4+G4@7>2^80 D4+E4+G4@10>2^104 G2@12>1^80
+  Close To You#3 : E3@1>1^80 G3@3>2^80 D4@6>5^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : C3@1>5^104 G3@7>5^104
+  Close To You#6 : E4+G4@1>2^80 E4+G4@4>2^80 D4+E4+G4@7>2^56 D4+E4+G4@10>2^80
+@35 [C | G]
+  Close To You   : C3+C4+E4+G4@1>11^104 C4+E4+G4@4>2^104 D4+E4+G4@7>2^104 D4+E4+G4@10>2^104
+  Close To You#3 : E3@1>1^80 G3@3>1^80 E4@6>1^80 D4@7>4^80
+  Close To You#4 : B1+Ab2@1>1^80 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^80 B1@9>1^80 B1+Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : C3@1>5^80 G3@7>2^80 C4@9>1^80 E3@10>2^80
+  Close To You#6 : C4+E4+G4@1>2^80 C4+E4+G4@4>2^80 D4+E4+G4@7>2^80 D4+E4+G4@10>2^80
+  Close To You#7 : G5@1>6^80 E5@7>6^80
+  Close To You#8 : C5@1>6^80 D5@7>6^80
+  Close To You#10: C4@1>6^104 D4@7>6^80
+@36 [G7] (grid:64)
+  Close To You   : G2+G3+B3+D4@1>75^80 G3+B3+D4@17>12^104 G3+A3+D4+Gb4@33>12^80 A3+D4+Gb4@49>12^104
+  Close To You#3 : Gb4@1>8^80 D4@12>10^80 D4@28>7^80 B3@33>32^80
+  Close To You#4 : B1+Ab2@2>1^104 Ab2@17>1^104 B1@28>1^80 B1+Ab2@34>1^80 B1@44>1^80 B1+Ab2@49>1^104 B1@54>1^56 B1@60>1^80
+  Close To You#5 : G3@1>31^104 D3@33>28^104
+  Close To You#6 : G3+B3+D4@1>12^56 G3+B3+D4@17>12^80 G3+A3+D4+Gb4@33>12^80 A3+D4+Gb4@49>12^80
+  Close To You#7 : D5@1>12^80
+  Close To You#8 : B4@1>12^80
+  Close To You#9 : G3@49>1^104 B3@50>1^104 D4@52>1^104 Gb4@53>1^104 G4@54>1^104 B4@56>1^104 D5@57>1^104 Gb5@58>1^104 G5@60>1^104 B5@61>1^104 D6@62>1^104 Gb6@64>1^104
+  Close To You#10: B3@1>65^80
+@37 [D | Fm] (grid:4)
+  Close To You   : A3+D4+Gb4@1>1^104
+  Close To You#4 : B1+Ab2@1>1^104
+  Close To You#5 : G3@1>1^104
+  Close To You#6 : A3+D4+Gb4@1>1^80
+  Close To You#9 : G6@1>1^104
+  Close To You#14: F4@3>1^104 Ab4@4>1^104
+  Close To You#15: F4@3>1^104 Ab4@4>1^104
+@38 [Db]
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^104
+  Close To You#5 : Db3@1>5^104 Ab3@7>5^80 Db3@12>1^56
+  Close To You#6 : Db2+Eb4+F4+Ab4@1>11^80 Eb4+F4+Ab4@4>2^80 Eb4+F4+Ab4@7>2^80 Eb4+F4+Ab4@10>2^80 Db2+Db4+Eb4+F4+Ab4@12>1^56
+  Close To You#11: Db2+Eb4+F4+Ab4@1>11^56 Eb4+F4+Ab4@4>2^56 Eb4+F4+Ab4@7>2^56 Eb4+F4+Ab4@10>2^56 Db2+Db4+Eb4+F4+Ab4@12>1^56
+  Close To You#14: Eb5@1>2^104 Eb5@7>1^104 Db5@9>1^104 Eb5@11>1^104 F5@12>1^104
+  Close To You#15: Eb5@1>1^104 Eb5@7>1^104 Db5@9>1^104 Eb5@11>1^104 F5@12>1^104
+@39 [C]
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^104
+  Close To You#5 : C3@1>5^104 G3@7>6^80
+  Close To You#6 : C3+C4+F4+G4@1>6^80 C4+F4+G4@4>2^80 C3+C4+E4+G4@7>5^80 C4+E4+G4@10>2^80 G2@12>1^56
+  Close To You#11: C3+C4+F4+G4@1>6^56 C4+F4+G4@4>2^56 C3+C4+E4+G4@7>5^56 C4+E4+G4@10>2^56 G2@12>1^56
+  Close To You#14: C5@1>2^104 C5@9>1^104 Eb5@10>1^104 G5@12>1^104
+  Close To You#15: C5@1>2^104 C5@9>1^104 Eb5@10>1^104 G5@12>1^104
+@40 [Cm7]
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^104
+  Close To You#5 : C3@1>6^104 G3@7>5^80
+  Close To You#6 : C2+Bb3+Eb4+G4@1>11^80 Bb3+Eb4+G4@4>2^80 Bb3+Eb4+G4@7>2^56 Bb3+Eb4+G4@10>2^80
+  Close To You#11: C2+Bb3+Eb4+G4@1>11^56 Bb3+Eb4+G4@4>2^56 Bb3+Eb4+G4@7>2^56 Bb3+Eb4+G4@10>2^56
+  Close To You#14: C5@9>1^104 Eb5@10>1^104 Ab5@12>1^104
+  Close To You#15: C5@9>1^104 Eb5@10>1^104 Ab5@12>1^104
+@41 [Fm7] (grid:64)
+  Close To You#4 : B1+Ab2@2>1^104 Ab2@17>1^104 B1@28>1^80 B1+Ab2@34>1^104 B1@44>1^104 Ab2@49>1^104
+  Close To You#5 : F3@1>30^104 F3@33>15^104 F3@49>16^80
+  Close To You#6 : F2+C4+Eb4+Ab4@1>58^80 C4+Eb4+Ab4@17>12^80 C4+F4+Ab4@33>12^56 C4+F4+Ab4@49>12^80 Ab2@60>6^56
+  Close To You#7 : Eb5@64>10^104
+  Close To You#9 : F3@33>1^104 Ab3@34>1^104 C4@36>1^104 Eb4@37>1^104 F4@38>1^104 Ab4@40>1^104 C5@41>1^104 Eb5@42>1^104 C4@44>1^104 Eb4@45>1^104 F4@46>1^104 Ab4@48>1^104 C5@49>1^104 Eb5@50>1^104 C5@52>1^104 Eb5@53>1^104 F5@54>1^104 Ab5@56>1^104 C6@57>1^104 Ab5@58>1^104 C6@60>1^104 Eb6@61>1^104 F6@62>1^104 Ab6@64>1^104
+  Close To You#11: F2+C4+Eb4+Ab4@1>58^56 C4+Eb4+Ab4@17>12^56 C4+F4+Ab4@33>12^56 C4+F4+Ab4@49>12^56 Ab2@60>6^56
+@42 [Db]
+  Close To You   : Db2+F4+Ab4@1>2^104 F4+Ab4@4>2^80 Eb4+F4+Ab4@7>2^80 Eb4+F4+Ab4@10>2^104 Ab2@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^104
+  Close To You#5 : Db3@1>6^80 Ab3@7>5^80 Db3@12>1^56
+  Close To You#6 : F4+F5@1>1^104 Ab4+Ab5@3>1^104 Ab5+Eb6@6>5^104
+  Close To You#7 : Eb5@4>2^104 Db5@7>2^104 Db5@10>2^104 Ab4@12>1^104
+  Close To You#8 : F4@1>12^104 F4@4>2^104 F4@7>2^104 F4@10>1^104 F4@12>1^104
+  Close To You#10: Eb4@1>2^104 Eb4@4>2^104 Db4@7>2^104 Db4@10>2^104 Ab3@12>1^104
+  Close To You#11: F4+Ab4@1>2^56 F4+Ab4@4>2^56 F4+Ab4@7>2^56 F4+Ab4@10>2^56
+@43 [Db]
+  Close To You   : Db3+Db4+F4+Ab4@1>2^104 Db4+F4+Ab4@4>2^104 Eb4+F4+Ab4@7>2^104 Eb4+F4+Ab4@10>2^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^104
+  Close To You#5 : Db3@1>4^104 Eb3@6>1^104 F3@7>3^104 Db3@10>2^104
+  Close To You#6 : F5+Db6+Eb6@1>1^104 Ab5+Db6+Eb6@3>2^104 Ab5+Db6+F6@6>6^104 Eb6@7>5^104
+  Close To You#7 : Eb5@1>2^104 Eb5@4>2^104 Db5@7>2^104 Db5@10>2^104
+  Close To You#8 : F4@1>2^104 F4@4>2^104 F4@7>2^104 F4@10>2^104
+  Close To You#10: Eb4@1>2^104 Eb4@4>2^104 Db4@7>2^104 Db4@10>2^104
+  Close To You#11: F4+Ab4@1>2^56 F4+Ab4@4>2^56 F4+Ab4@7>2^56 F4+Ab4@10>2^56
+@44 [Ab | Eb]
+  Close To You   : Ab2+C4+Eb4+Ab4@1>12^104 C4+Eb4+Ab4@4>3^104 Bb3+Eb4+G4@7>3^80 Bb3+Eb4+G4@10>3^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^104
+  Close To You#5 : Ab3@1>6^104 Eb3@7>4^104 Eb3@12>1^56
+  Close To You#6 : F4+F5@1>1^104 Ab4+Ab5@3>1^104 G5+C6+Eb6@6>5^104
+  Close To You#7 : C5@1>16^104
+  Close To You#8 : Eb4+G4@1>17^104
+  Close To You#10: Ab3@1>17^104
+  Close To You#11: C4+Eb4+Ab4@1>3^56 C4+Eb4+Ab4@4>3^56 Bb3+Eb4+G4@7>3^56 Bb3+Eb4+G4@10>3^56
+@45 [Ab] (grid:64)
+  Close To You   : Eb4+C5@1>2^104 Ab2@2>64^104 Db4+Bb4@7>2^104 C4+Ab4@12>14^104 C4+Ab4@28>2^80 Db4+Ab4@33>2^104 C4+Ab4@39>11^104 C4+Ab4@49>3^104 Bb3+Eb4+G4@55>9^104
+  Close To You#4 : C3@1>1^56 Ab2@2>1^80 C3@6>1^32 C3@12>1^32 Ab2+A2@17>1^104 A2@22>1^56 A2@28>1^56 G2@33>1^56 Ab2@34>1^56 G2@38>1^80 G2@44>1^80 F2+Ab2@49>1^104 F2@54>1^80 F2@60>1^104
+  Close To You#5 : Ab3@1>60^104 Eb3@55>11^104
+@46 [Db | Bbm7] (grid:32)
+  Close To You   : Db2+Ab3+Db4+F4@1>62^104 Bb3+Db4+F4@9>7^104 C4+Db4+F4@17>7^80 Bb3+Db4+F4@25>6^104
+  Close To You#3 : Ab3@1>5^80 Ab3@6>3^80 Bb3@9>4^104 Bb3@14>2^104 C4@17>5^80 C4@22>3^104 Bb3@25>4^80 Ab3@30>2^80
+  Close To You#4 : B1+Ab2+F3@1>1^104 Ab2@9>1^104 Gb2@12>1^32 Gb2@14>1^56 B1+Ab2@17>1^80 Gb2@20>1^32 Gb2@22>1^56 Ab2@25>1^104 Gb2@28>1^32 Gb2@30>1^56 B1@31>1^104
+  Close To You#5 : Db3@1>14^104 Ab3@17>12^104 Ab2@31>2^56
+  Close To You#6 : Ab3+Db4+F4@1>7^80 Bb3+Db4+F4@9>7^80 C4+Db4+F4@17>7^80 Bb3+Db4+F4@25>6^80
+  Close To You#7 : F4@1>64^104
+  Close To You#8 : Db4@1>128^104
+  Close To You#10: Ab3@1>8^104 Bb3@9>8^80 C4@17>8^80 Bb3@25>8^80
+  Close To You#11: Ab5@2>7^80 Bb5@9>7^80 C6@17>7^80 Bb5@25>8^80
+@47 [Db | Bbm] (grid:64)
+  Close To You   : Ab3+Db4+F4@1>14^80 Bb3+Db4+F4@17>13^104 C4+Db4+F4@33>13^80 Bb3+Db4+F4@49>12^104
+  Close To You#3 : Ab3@1>9^104 Ab3@12>6^104 Bb3@17>7^104 Bb3@28>6^80 C4@33>9^104 C4@44>4^80 Bb3@54>5^104 Ab3@60>4^104
+  Close To You#4 : Gb2@1>1^56 B1@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^104 Gb2@22>1^32 Gb2@28>1^56 Gb2@33>1^56 B1@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1@55>1^56 B1+Gb2@60>1^104
+  Close To You#5 : Db3@1>32^104 Ab3@33>14^104 Db3@49>14^104
+  Close To You#6 : Ab3+Db4+F4@1>14^56 Bb3+Db4+F4@17>13^80 C4+Db4+F4@33>13^80 Bb3+Db4+F4@49>12^80
+  Close To You#10: Ab3@1>16^80 Bb3@17>16^80 C4@33>16^80 Bb3@49>12^80
+  Close To You#11: Ab5@1>16^80 Bb5@17>16^80 C6@34>15^80 Bb5@49>10^56 Ab5@60>4^56
+@48 [Eb] (grid:64)
+  Close To You   : C3+G3+Bb3+Eb4@1>98^104 G3+Bb3+Eb4@17>12^104 G3+Bb3+Eb4@33>12^104 G3+Bb3+Eb4@49>12^104
+  Close To You#3 : Eb4@1>8^104 Eb4@12>6^104 F4@17>9^104 F4@28>5^80 G4@33>8^80 G4@44>10^80 F4@54>5^80 Eb4@60>4^80
+  Close To You#4 : Gb2@1>1^56 B1@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^104 Gb2@22>1^32 B1+Gb2@28>1^80 Gb2@33>1^56 B1@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1+Gb2@60>1^80
+  Close To You#5 : C3@1>31^104 G3@33>26^104 C3@60>5^56
+  Close To You#6 : G3+Bb3+Eb4@1>12^80 G3+Bb3+Eb4@17>12^80 G3+Bb3+Eb4@33>12^80 G3+Bb3+Eb4@49>12^80
+  Close To You#7 : G4@1>96^104
+  Close To You#8 : Eb4@1>95^104
+  Close To You#10: Bb3@1>96^104
+  Close To You#11: Eb6@1>25^80
+@49 [Eb | F] (grid:64)
+  Close To You   : G3+Bb3+Eb4@1>12^80 G3+Bb3+Eb4@17>9^104 F3+A3+C4+F4@33>30^104 A3+C4+F4@49>13^104
+  Close To You#3 : G4@1>36^104 F4@49>12^104 G4@60>4^80
+  Close To You#4 : Gb2@1>1^56 B1@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^104 Gb2@22>1^32 B1+Gb2@28>1^80 Gb2@33>1^56 B1@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1@55>1^56 B1+Gb2@60>1^104
+  Close To You#5 : F3@1>32^104 C3@33>16^104 F3@49>8^104 F3@60>5^56
+  Close To You#6 : G3+Bb3+Eb4@1>12^80 G3+Bb3+Eb4@17>9^80 A3+C4+F4@33>12^80 A3+C4+F4@49>13^80
+  Close To You#7 : A4@33>31^104
+  Close To You#8 : F4@33>32^80
+  Close To You#10: C4@33>33^104
+  Close To You#11: Bb4+F5@1>24^80 A4+F5@33>18^80
+  Close To You#12: F5@1>25^80 C5@28>4^80 Bb4@30>4^80 C5@33>29^80
+@50 [Ab | Db7] (grid:64)
+  Close To You   : Db2+Ab3+C4+F4@1>26^104 Db2@28>30^80 Ab3+C4+F4@33>26^104 Db2@60>27^104
+  Close To You#3 : Ab4@1>7^104 Ab4@12>5^104 Ab4@17>8^104 Ab4@28>4^104 Ab4@33>3^104 Ab4@38>4^104 Ab4@44>14^104 Ab4@60>4^104
+  Close To You#4 : Gb2@1>1^56 B1@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^104 Gb2@22>1^32 B1+Gb2@28>1^80 Gb2@33>1^56 B1@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1+Gb2@60>1^80
+  Close To You#5 : Db3@1>26^104 Ab3@33>23^104 C3@60>5^56
+  Close To You#6 : Ab3+C4+F4@1>26^80 Ab3+C4+F4@33>26^80
+  Close To You#7 : Ab4@1>127^104
+  Close To You#8 : F4@1>126^104
+  Close To You#10: Ab3@1>129^104
+  Close To You#11: Eb6@2>26^80 Db6@33>22^80
+  Close To You#12: Eb5@1>30^80 Db5@33>31^80
+  Close To You#13: Eb4@1>33^104 Db4@33>10^104 Db4@44>12^104 Db4@60>6^104
+@51 [Fm7] (grid:64)
+  Close To You   : Ab3+C4+F4@1>25^80 Db2@28>36^80 Ab3+C4+F4@33>13^80 Ab3+C4+F4@49>14^104
+  Close To You#3 : Ab4@1>8^104 Ab4@12>4^80 Ab4@17>8^104 Ab4@28>4^104 Ab4@33>9^104 F4@44>6^80 G4@49>10^104 Ab4@60>6^104
+  Close To You#4 : Gb2@1>1^56 B1@2>1^104 Gb2@6>1^32 Gb2@12>1^56 Ab2@17>1^104 Gb2@22>1^32 B1+Gb2@28>1^80 Gb2@33>1^56 B1@34>1^104 Gb2@38>1^32 Gb2@44>1^56 Ab2@49>1^104 Gb2@54>1^32 B1+Bb2@60>1^80
+  Close To You#5 : Db3@1>25^104 Ab3@33>14^104 Db3@49>17^104
+  Close To You#6 : Ab3+C4+F4@1>25^80 Ab3+C4+F4@33>13^80 Ab3+C4+F4@49>14^80
+  Close To You#11: C6@1>26^80 Bb5@33>20^80
+  Close To You#12: C5@1>32^80 Bb4@33>28^104
+  Close To You#13: C4+Eb4@1>29^104 Bb3+Eb4@33>8^104 Bb3+Db4@44>5^104 Bb3+Eb4@49>6^104 Bb3+F4@60>4^104
+@52 [Eb | Ab] (grid:64)
+  Close To You   : Eb2+Eb3+Bb3+Eb4+Ab4@1>61^104
+  Close To You#3 : Bb4@1>64^104
+  Close To You#4 : C3@1>1^104 A2@12>1^104 A2@22>1^80 A2@28>1^80 G2@33>1^104 F2@44>1^104
+  Close To You#5 : Eb3@1>60^104
+  Close To You#6 : Bb3+Eb4+Ab4@1>61^80
+  Close To You#7 : Ab5@1>63^104
+  Close To You#9 : Ab3@33>1^104 Bb3@34>1^104 Eb4@36>1^104 Ab4@37>1^104 Eb4@38>1^104 Ab4@40>1^104 Bb4@41>1^104 Eb5@42>1^104 Ab4@44>1^104 Bb4@45>1^104 Eb5@46>1^104 Ab5@48>1^104 Eb5@49>1^104 Ab5@50>1^104 Bb5@52>1^104 Eb5@53>1^104 Ab5@54>1^104 Bb5@56>1^104 Eb6@57>1^104 Ab5@58>1^104 Bb5@60>1^104 Eb6@61>1^104 Ab6@62>1^104 Eb6@64>1^104
+  Close To You#10: Eb4+Bb4@1>62^104
+  Close To You#12: Eb6@1>61^80
+  Close To You#13: Eb4+Ab4@1>61^104
+  Close To You#16: A3@30>16^104 A3@49>14^104
+@53 [Eb | Fm] (grid:4)
+  Close To You   : Eb1@1>2^104
+  Close To You#3 : F3@3>1^80 Ab3@4>1^80
+  Close To You#4 : B1@1>1^104
+  Close To You#5 : Eb3@1>1^104
+  Close To You#7 : G5@1>1^104
+  Close To You#10: Eb4+Gb4+Bb4@1>1^104
+  Close To You#12: Eb6@1>1^80
+  Close To You#16: A3+B3@1>1^80
+@54 [Ab | Db]
+  Close To You   : Db2+Eb4+F4+Ab4@1>11^80 Eb4+F4+Ab4@4>2^104 Eb4+F4+Ab4@7>2^104 Eb4+F4+Ab4@10>2^104 Db2+Db4+Eb4+F4+Ab4@12>1^80
+  Close To You#3 : Eb4@1>2^80 Eb4@7>2^80 Db4@9>1^80 Eb4@10>2^80 F4@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Db3@1>5^104 Ab3@7>5^80 Db3@12>1^56
+  Close To You#6 : Eb4@1>2^80 Eb4@4>2^80 Eb4@7>2^56 Eb4@10>2^80 Db4+Eb4@12>1^56
+  Close To You#7 : Eb5@1>3^104 Db5@10>3^80
+  Close To You#8 : Eb5@1>3^104 Db5@10>3^80
+  Close To You#10: Eb4@1>9^104 Db4@10>3^104
+@55 [C]
+  Close To You   : C3+C4+F4+G4@1>6^104 C4+F4+G4@4>2^104 C3+C4+E4+G4@7>5^104 C4+E4+G4@10>2^104 G2@12>1^80
+  Close To You#3 : C4@1>3^80 C4@11>1^80 Eb4@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : C3@1>5^104 G3@7>6^80
+  Close To You#6 : C4@1>2^56 C4@4>2^80 C4@7>2^56 C4@10>2^80
+  Close To You#7 : C5@1>12^80
+  Close To You#8 : C5@1>11^80
+  Close To You#10: C4@1>12^80
+  Close To You#11: Eb5@12>1^104
+  Close To You#13: C4+F4+G4@1>2^80 C4+F4+G4@3>2^80 C4+E4+G4@6>7^80
+@56 [Cm7]
+  Close To You   : C2+Eb4+G4@1>11^104 Bb3+Eb4+G4@4>2^104 Bb3+Eb4+G4@7>2^80 Bb3+Eb4+G4@10>2^104
+  Close To You#3 : G4@1>2^80 C4@9>1^80 Eb4@10>2^80 Ab4@12>3^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : C3@1>6^104 G3@7>5^80
+  Close To You#6 : Bb3@1>2^56 Bb3@4>2^56 Bb3@7>2^56 Bb3@10>2^56
+  Close To You#7 : C5@1>6^80 G5@7>6^104
+  Close To You#8 : C5@1>6^104 C5@7>6^80
+  Close To You#10: C4@1>6^104 C4@7>6^80
+  Close To You#11: C6@1>8^104 Bb5@12>1^104
+  Close To You#13: Bb3+Eb4+G4@1>2^80 Bb3+Eb4+G4@3>2^80 Bb3+Eb4+G4@6>6^80
+@57 [Fm]
+  Close To You   : F2+C4+Eb4+Ab4@1>11^104 C4+Eb4+Ab4@4>2^104 C4+F4+Ab4@7>2^80 C4+F4+Ab4@10>2^104 Ab2@12>1^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^104 B1@9>1^104 Ab2@10>1^104
+  Close To You#5 : F3@1>4^104 F3@6>1^80 C3@7>3^80 F3@10>3^104
+  Close To You#6 : C4@1>2^56 C4@4>2^56 C4@7>2^56 C4@10>2^80
+  Close To You#7 : Ab5@1>3^80 G5@4>3^80 F5@7>17^80
+  Close To You#8 : C5@1>3^80 Bb4@4>3^80 Ab4@7>18^104
+  Close To You#10: C4@1>3^80 Bb3@4>3^80 Ab3@7>17^80
+  Close To You#11: Ab5@1>11^104
+  Close To You#13: C4+F4+Gb4+Ab4@1>1^80 Bb3+Eb4+G4@3>1^80 Ab3+C4+F4@6>5^80
+@58 [Db]
+  Close To You   : Db2+F4+Ab4@1>11^104 F4+Ab4@4>2^80 Eb4+F4+Ab4@7>2^80 Eb4+F4+Ab4@10>2^104 Ab2@12>1^80
+  Close To You#3 : F3@1>1^80 Ab3@3>2^80 Eb4@6>5^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Db3@1>6^80 Ab3@7>5^80 Db3@12>1^56
+  Close To You#6 : F4@1>2^80 F4@4>2^80 Eb4+F4@7>2^56 Eb4+F4@10>2^80
+  Close To You#11: F5@7>5^80
+@59 [Db]
+  Close To You   : Db3+Db4+F4+Ab4@1>11^104 Db4+F4+Ab4@4>2^104 Eb4+F4+Ab4@7>2^104 Eb4+F4+Ab4@10>2^104
+  Close To You#3 : F3@1>1^80 Ab3@3>1^80 F4@6>1^80 Eb4@7>4^80
+  Close To You#4 : B1+Ab2@1>1^80 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^80 B1@9>1^80 B1+Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Db3@1>6^104 Ab3@7>5^104 Db3@12>1^56
+  Close To You#6 : Db4+F4@1>2^80 Db4+F4@4>2^80 Eb4+F4@7>2^80 Eb4+F4@10>2^80
+  Close To You#7 : Ab5@1>6^80 F5@7>6^80
+  Close To You#8 : Db5@1>6^80 Eb5@7>6^80
+  Close To You#10: Db4@1>6^104 Eb4@7>6^80
+  Close To You#11: Ab5@1>4^104 F5@7>4^104
+@60 [Ab7]
+  Close To You   : Ab2+C4+Eb4+Ab4@1>12^104 C4+Eb4+Ab4@4>3^104 Bb3+Eb4+G4@7>3^80 Bb3+Eb4+G4@10>2^104 Eb4@12>1^80
+  Close To You#3 : G4@1>1^80 Eb4@3>2^80 Eb4@6>1^80 C4@7>6^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Ab2@7>1^80 B1@9>1^80 B1+Ab2@10>1^104 B1@11>1^56 B1@12>1^80
+  Close To You#5 : Ab2@1>6^80 Eb3@7>4^104 Eb3@12>1^56
+  Close To You#6 : C4+Eb4@1>3^80 C4+Eb4@4>3^80 Bb3+Eb4@7>3^80 Bb3+Eb4@10>3^80
+  Close To You#7 : Eb5@1>12^80
+  Close To You#8 : C5@1>12^80
+  Close To You#10: C4@1>12^80
+  Close To You#11: Bb5@7>2^80 G5@9>1^80 Eb5@12>5^104
+@61 [Ab] (grid:32)
+  Close To You   : Eb4+C5@1>1^104 Ab2@2>32^104 Db4+Bb4@4>1^104 C4+Ab4@7>7^104 C4+Ab4@15>1^80 Db4+Ab4@17>1^104 C4+Ab4@20>5^104 C4+Ab4@25>1^104 Bb3+Eb4+G4@28>5^104
+  Close To You#4 : B1+Eb3@1>1^104
+  Close To You#5 : Ab3@1>30^104
+@62 [Db7 | Ab]
+  Close To You   : Db2+F4+Ab4@1>11^104 F4+Ab4@4>2^80 Eb4+F4+Ab4@7>2^80 Eb4+F4+Ab4@10>2^104 Ab2@12>1^80
+  Close To You#3 : F3@1>1^80 Ab3@3>2^80 Eb4@6>5^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Db3@1>6^80 Ab3@7>5^80 Db3@12>1^56
+  Close To You#6 : F4+Ab4@1>2^80 F4+Ab4@4>2^80 Eb4+F4+Ab4@7>2^56 Eb4+F4+Ab4@10>2^80
+  Close To You#7 : Ab5@1>30^56
+  Close To You#8 : F4@1>80^80
+  Close To You#10: C4@1>30^80
+  Close To You#11: C6@7>2^104 Bb5@9>1^104 Ab5@12>5^104
+  Close To You#13: Ab5@7>2^80 G5@9>2^80 F5@12>5^80
+  Close To You#17: Ab4@1>30^104
+@63 [Db]
+  Close To You   : Db3+Db4+F4+Ab4@1>6^104 Db4+F4+Ab4@4>2^104 Db3+Eb4+F4+Ab4@7>12^104
+  Close To You#3 : F3@1>1^80 Ab3@3>1^80 F4@6>1^80 Eb4@7>10^80
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^80 B1+Eb3@7>1^104
+  Close To You#5 : Db3@1>5^104 Db3@6>1^56 Db3@7>12^104
+  Close To You#6 : Db4+F4+Ab4@1>2^80 Db4+F4+Ab4@4>2^80 Eb4+F4+Ab4@7>12^80
+@64 [Ab]
+  Close To You   : Bb4+C5+Eb5@7>2^80 Bb4+C5+Eb5@10>2^104 Eb4@12>1^56
+  Close To You#3 : F3@7>2^56 Ab3@9>2^56 Eb4@12>19^56
+@65 [Ab | Cm7]
+  Close To You   : Ab4+C5+Eb5@1>2^80 Ab4+C5+Eb5@4>2^104 Eb4@6>1^80 Bb4+C5+Eb5@7>2^80 C5+Eb5@9>1^80 Bb4+C5+Eb5@10>2^104 Eb4@12>1^80
+@66 [Ab | Eb]
+  Close To You   : Ab4+C5+Eb5@1>2^80 Ab4+C5+Eb5@4>2^104 Eb4@6>1^80 Bb4+C5+Eb5@7>2^104 Bb4+C5+Eb5@10>2^104 Eb4@12>1^80
+  Close To You#2 : Bb4@7>2^80 Bb4@10>2^80 Eb4@12>1^80
+  Close To You#4 : Bb2@3>1^80 Gb2@4>1^80 B1@6>1^80 B1@7>1^104
+  Close To You#11: Bb4+C5+Eb5@7>2^56 Bb4+C5+Eb5@10>2^80
+@67 [Ab | Eb]
+  Close To You   : Ab4+C5+Eb5@1>2^80 Ab4+C5+Eb5@4>2^104 Eb4@6>1^80 Bb4+C5+Eb5@7>12^80
+  Close To You#2 : Ab4@1>2^80 Ab4@4>2^80 Eb4@6>1^80 Bb4@7>12^80
+  Close To You#11: Ab4+C5+Eb5@1>2^56 Ab4+C5+Eb5@4>2^56 Bb4+C5+Eb5@7>12^56
+@68 [Fm]
+  Close To You   : Db3+C4+F4+Ab4@7>8^104
+  Close To You#3 : Ab4@7>9^104
+  Close To You#4 : Bb2@3>1^80 Gb2@4>1^80 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Db3@7>4^104
+  Close To You#6 : Db3+C4+F4+Ab4@7>8^80
+  Close To You#13: C4+Eb4+F4@7>8^104
+@69 [Ab7 | Db7]
+  Close To You   : Db3+C4+G4@4>5^104 Ab4@5>1^104 G4@6>1^104 Db3+F4@7>11^104 C4+F4@10>2^104
+  Close To You#3 : G4@4>1^104 Ab4@5>1^104 G4@6>1^104 F4@7>10^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Ab3@1>5^104 Db3@7>4^104 Eb3@12>1^104
+  Close To You#6 : Db3+C4+G4@4>5^80 Ab4@5>1^80 G4@6>1^80 Db3+F4@7>11^80 C4+F4@10>2^80
+  Close To You#13: Bb3+C4+Eb4@4>1^104 C4+Eb4@5>1^104 Bb3+Eb4@6>1^104 Ab3+C4+Eb4@7>11^104
+@70 [F | Eb]
+  Close To You   : C4+F4@1>3^104 C4+F4@4>2^104 Ab2+Bb3+Eb4+G4@7>2^104 G3+Bb3+Eb4@10>2^104
+  Close To You#3 : F4@6>1^104 G4@7>1^104 Eb4@9>2^104 Eb4@12>1^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : F3+Gb3@1>2^104 Db3@4>2^104 Ab3@7>5^104
+  Close To You#6 : C4+F4@1>3^80 C4+F4@4>2^104 Ab2+Bb3+Eb4+G4@7>2^80 G3+Bb3+Eb4@10>2^80
+  Close To You#13: Bb3+C4+Eb4@7>1^104 G3+Bb3@9>2^104 G3+Bb3@12>1^104
+@71 [Cm | Eb]
+  Close To You   : Ab2+Eb3+G3+C4@1>6^104 Ab2+G3+Bb3+Eb4@7>4^104 G3+Bb3+Eb4@10>3^104 Ab2@12>5^104
+  Close To You#3 : C4@1>17^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Eb3@1>4^104 G2@6>1^56 Ab2@7>2^104 Bb2@9>3^104 C3@12>3^104
+  Close To You#6 : Ab2+Eb3+G3+C4@1>6^80 Ab2+G3+Bb3+Eb4@7>4^80 G3+Bb3+Eb4@10>3^104 Ab2@12>5^80
+  Close To You#13: Eb3+G3@1>14^104
+  Close To You#17: Eb4@6>1^104 C5@7>1^104 Bb4@8>1^104 Ab4@9>3^104
+@72 [Ab | Fm]
+  Close To You   : Ab3+C4+Eb4@1>3^104 Ab3+C4+Eb4@4>2^104 Ab2@6>1^104 Db3+C4+F4+Ab4@7>8^104
+  Close To You#3 : Ab4@7>9^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Eb3@3>3^104 C3@6>1^56 Db3@7>4^104
+  Close To You#6 : Ab3+C4+Eb4@1>2^80 Ab3+C4+Eb4@4>2^104 Ab2@6>1^80 Db3+C4+F4+Ab4@7>8^80
+  Close To You#11: Ab5@5>1^104 G5@6>1^104 Ab5@7>3^104
+  Close To You#13: C4+Eb4+F4@7>8^104
+  Close To You#17: Eb4@1>1^104 Db4@2>1^104 C4@3>27^104
+@73 [Ab7 | Db7]
+  Close To You   : Db3+C4+G4@4>5^104 Ab4@5>1^104 G4@6>1^104 Db3+F4@7>11^104 C4+F4@10>2^104
+  Close To You#3 : G4@4>1^104 Ab4@5>1^104 G4@6>1^104 F4@7>10^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Ab3@1>5^104 Db3@7>4^104 Eb3@12>1^104
+  Close To You#6 : Db3+C4+G4@4>5^80 Ab4@5>1^80 G4@6>1^80 Db3+F4@7>11^80 C4+F4@10>2^80
+  Close To You#11: Bb5@4>1^104 C6@5>1^104 Bb5@6>1^104 Ab5@7>9^104
+  Close To You#13: Bb3+C4+Eb4@4>1^104 C4+Eb4@5>1^104 Bb3+Eb4@6>1^104 Ab3+C4+Eb4@7>11^104
+@74 [F | Eb]
+  Close To You   : C4+F4@1>3^104 C4+F4@4>2^104 Ab2+Bb3+Eb4+G4@7>2^104 G3+Bb3+Eb4@10>2^104
+  Close To You#3 : F4@6>1^104 G4@7>1^104 Eb4@9>2^104 Eb4@12>1^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : F3+Gb3@1>2^104 Db3@4>2^104 Ab3@7>5^104
+  Close To You#6 : C4+F4@1>3^80 C4+F4@4>2^104 Ab2+Bb3+Eb4+G4@7>2^80 G3+Bb3+Eb4@10>2^80
+  Close To You#11: Bb5@7>2^104 G5@9>2^104 Eb5@12>6^104
+  Close To You#13: Bb3+C4+Eb4@7>1^104 G3+Bb3@9>2^104 G3+Bb3@12>1^104
+@75 [Cm | Eb]
+  Close To You   : Ab2+Eb3+G3+C4@1>6^104 Ab2+G3+Bb3+Eb4@7>4^104 G3+Bb3+Eb4@10>3^104 Ab2@12>5^104
+  Close To You#3 : C4@1>17^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Eb3@1>4^104 G2@6>1^56 Ab2@7>2^104 Bb2@9>3^104 C3@12>3^104
+  Close To You#6 : Ab2+Eb3+G3+C4@1>6^80 Ab2+G3+Bb3+Eb4@7>4^80 G3+Bb3+Eb4@10>3^104 Ab2@12>5^80
+  Close To You#11: Eb5@6>1^104 Eb6@7>5^104 Db6@12>1^104
+  Close To You#13: Eb3+G3@1>14^104
+@76 [Ab | Fm] (grid:32)
+  Close To You   : Ab3+C4+Eb4@1>7^104 Ab3+C4+Eb4@9>6^104 Db3+C4+F4+Ab4@15>21^104
+  Close To You#3 : Ab4@14>23^104
+  Close To You#4 : B1+Ab2@1>1^104 F2@6>1^32 F2@7>1^32 F2@8>1^56 F2+Ab2@9>1^104 B1+Eb3@14>1^104 Ab2@25>1^104 B1@31>1^80
+  Close To You#5 : Eb3@7>8^104 Db3@15>11^104
+  Close To You#6 : Ab3+C4+Eb4@1>7^80 Ab3+C4+Eb4@9>6^104 Db3+C4+F4+Ab4@14>21^80
+  Close To You#11: C6@1>5^104 Bb5@6>3^104 Ab5@9>2^104 C6@14>23^104
+  Close To You#13: C4+Eb4+F4@14>20^104
+@77 [Ab7 | Db7]
+  Close To You   : Db3+C4+G4@4>5^104 Ab4@5>1^104 G4@6>1^104 Db3+F4@7>11^104 C4+F4@10>2^104
+  Close To You#3 : G4@4>1^104 Ab4@5>1^104 G4@6>1^104 F4@7>10^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Ab3@1>5^104 Db3@7>4^104 Eb3@12>1^104
+  Close To You#6 : Db3+G4@4>3^80 Ab4@5>1^80 G4@6>1^80 Db3+F4@7>11^80 C4+F4@10>2^80
+  Close To You#11: Bb5@4>1^104 C6@5>1^104 Bb5@6>1^104 Ab5@7>1^104 G5@10>1^104 Ab5@11>1^56 G5@12>1^80
+  Close To You#13: Bb3+C4+Eb4@4>1^104 C4+Eb4@5>1^104 Bb3+Eb4@6>1^104 Ab3+C4+Eb4@7>11^104
+@78 [F | Eb]
+  Close To You   : C4+F4@1>3^104 C4+F4@4>2^104 Ab2+Bb3+Eb4+G4@7>2^104 G3+Bb3+Eb4@10>2^104
+  Close To You#3 : F4@6>1^104 G4@7>1^104 Eb4@9>2^104 Eb4@12>1^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : F3+Gb3@1>2^104 Db3@4>2^104 Ab3@7>5^104
+  Close To You#6 : C4+F4@1>3^80 C4+F4@4>2^104 Ab2+Bb3+Eb4+G4@7>2^80 G3+Bb3+Eb4@10>2^80
+  Close To You#11: F5@1>5^104 G5@7>2^104 Eb5@9>2^80 C6@12>4^104
+  Close To You#13: Bb3+C4+Eb4@7>1^104 G3+Bb3@9>2^104 G3+Bb3@12>1^104
+@79 [Cm | Eb]
+  Close To You   : Ab2+Eb3+G3+C4@1>6^104 Ab2+G3+Bb3+Eb4@7>4^104 G3+Bb3+Eb4@10>3^104 Ab2@12>5^104
+  Close To You#3 : C4@1>17^104
+  Close To You#4 : Gb2@1>1^56 Gb2@2>1^56 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Eb3@1>4^104 G2@6>1^56 Ab2@7>2^104 Bb2@9>3^104 C3@12>3^104
+  Close To You#6 : Ab2+Eb3+G3+C4@1>6^80 Ab2+G3+Bb3+Eb4@7>3^80 G3+Bb3+Eb4@10>3^104 Ab2@12>5^80
+  Close To You#13: Eb3+G3@1>14^104
+  Close To You#17: Eb4@6>1^104 C5@7>1^104 Bb4@8>1^104 Ab4@9>3^104
+@80 [Ab | Fm] (grid:64)
+  Close To You   : Ab3+C4+Eb4@1>13^104 Ab3+C4+Eb4@17>12^104 Ab2@28>4^104 Db3+C4+F4+Ab4@33>42^104
+  Close To You#3 : Ab4@33>46^104
+  Close To You#4 : Gb2@1>1^56 B1@2>1^104 Gb2@6>1^56 Ab2@17>1^104 B1@28>1^104 B1+Ab2@34>1^104 Ab2@49>1^104 B1@60>1^80
+  Close To You#5 : Eb3@12>15^104 C3@28>5^56 Db3@33>22^104
+  Close To You#6 : Ab3+C4+Eb4@1>13^80 Ab3+C4+Eb4@17>12^104 Ab2@28>4^80 Db3+C4+F4+Ab4@33>42^80
+  Close To You#13: C4+Eb4+F4@33>41^104
+  Close To You#17: Eb4@1>6^104 Db4@6>6^104 C4@12>144^80
+@81 [Ab7 | Db7]
+  Close To You   : Db3+C4+G4@4>5^104 Ab4@5>1^104 G4@6>1^104 Db3+F4@7>11^104 C4+F4@10>2^104
+  Close To You#3 : G4@4>1^104 Ab4@5>1^104 G4@6>1^104 F4@7>10^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : Ab3@1>5^104 Db3@7>4^104 Eb3@12>1^104
+  Close To You#6 : Db3+C4+G4@4>5^80 Ab4@5>1^80 G4@6>1^80 Db3+F4@7>11^80 C4+F4@10>2^80
+  Close To You#13: Bb3+C4+Eb4@4>1^104 C4+Eb4@5>1^104 Bb3+Eb4@6>1^104 Ab3+C4+Eb4@7>11^104
+@82 [F | Eb]
+  Close To You   : C4+F4@1>3^104 C4+F4@4>2^104 Ab2+Bb3+Eb4+G4@7>2^104 G3+Bb3+Eb4@10>2^104
+  Close To You#3 : F4@6>1^104 G4@7>1^104 Eb4@9>2^104 Eb4@12>1^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104 B1+Ab2@7>1^104 Ab2@10>1^104 B1@12>1^80
+  Close To You#5 : F3+Gb3@1>2^104 Db3@4>2^104 Ab3@7>5^104
+  Close To You#6 : C4+F4@1>3^80 C4+F4@4>2^104 Ab2+Bb3+Eb4+G4@7>2^80 G3+Bb3+Eb4@10>2^80
+  Close To You#13: Bb3+C4+Eb4@7>1^104 G3+Bb3@9>2^104 G3+Bb3@12>1^104
+@83 [Cm | Eb] (grid:64)
+  Close To You   : Ab2+Eb3+G3+C4@1>31^104 Ab2+G3+Bb3+Eb4@33>22^104 G3+Bb3+Eb4@49>14^104 Ab2@60>26^104
+  Close To You#3 : C4@1>89^104
+  Close To You#4 : B1+Ab2@2>1^104 Ab2@17>1^104 B1@28>1^104 B1+Ab2@34>1^104 Ab2@49>1^104 B1@60>1^80
+  Close To You#5 : Eb3@1>21^104 G2@28>5^56 Ab2@33>9^104 Bb2@44>15^104 C3@60>15^104
+  Close To You#6 : Eb3+G3+C4@1>31^80 Ab2@2>31^80 Ab2+G3+Bb3+Eb4@33>16^80 G3+Bb3+Eb4@49>14^104 Ab2@60>26^80
+  Close To You#13: Eb3+G3@1>75^104
+@84 [Ab]
+  Close To You   : Ab3+C4+Eb4@1>3^104 Ab3+C4+Eb4@4>2^104 Ab2@6>1^104
+  Close To You#4 : B1+Ab2@1>1^104 Ab2@4>1^104 B1@6>1^104
+  Close To You#5 : Eb3@3>3^104 C3@6>1^56
+  Close To You#6 : Ab3+C4+Eb4@1>2^80 Ab3+C4+Eb4@4>2^104 Ab2@6>1^80

@@ -33,18 +33,18 @@ def f_bars(path):
 
 def test_copy_localizes_to_a_real_song(tmp_path):
     """A region that IS a real corpus song must localize copy to that song with matched notes by bar."""
-    song = GRAMMAR / "song_0001.txt"
-    det = dg.localize_copy(song, source_id="song_0001")
-    assert det and det["source"] == "song_0001"
-    assert det["overlap"] > 0.9 and det["bars"]               # self-overlap is ~total
+    song = GRAMMAR / "song_0100.txt"                          # a repetitive song: high self-reprise
+    det = dg.localize_copy(song, source_id="song_0100")
+    assert det and det["source"] == "song_0100"
+    assert det["overlap"] > 0.9 and det["bars"]               # self-reprise is ~total
     assert all("notes" in b and b["n"] >= 1 for b in det["bars"])
 
 
 def test_replication_block_opt_in(tmp_path):
-    region = GRAMMAR / "song_0001.txt"
+    region = GRAMMAR / "song_0100.txt"                        # repetitive song: high self-reprise
     ctx = GRAMMAR / "song_0002.txt"
     f = dg.diagnose(region, ctx, genre="jazz", target_bars=f_bars(region), real_path=region)
-    # with real_path the block exists; region vs itself -> full overlap -> flag fires
+    # with real_path the block exists; region vs itself -> full reprise -> flag fires
     assert f["replication"] is not None and f["replication"]["flag"] is True
     assert f["replication"]["overlap_slid"] > 0.9
 

@@ -1,1940 +1,334 @@
-KEY: G minor | METER: 4/4 | TEMPO: 200 | GRID: 12t (adaptive) | BARS: 262
-VOICES: ACCORDION, Part2, Part3, Part4, BANJO, Part6, Part7, Part8
+KEY: G major | METER: 4/4 | TEMPO: 78 | GRID: 64th (adaptive) | BARS: 88
+VOICES: A.PIANO 2[prog=1], DISTORTION[prog=30], STRINGS[prog=48], FR.HORN[prog=60], CELLO[prog=42], PIZZICATO[prog=45], CHOIR AAHS[prog=52], VOICE OOHS[prog=53], SPACEVOICE[prog=91], DRUMS[drums], STEEL GTR[prog=25]
 @1 [-]
 @2 [-]
-@3 [D] (grid:24t)
-  ACCORDION: F#4+G4@22>2 G#4+A4+F#5@23>2
-  Part3    : D3+F#3@23>2
-@4 [D]
-  ACCORDION: A4+F#5@4>1 A4+F#5@7>3 G4+E5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : D3+F#3+A3+D4+F#4+A4@1>4 A3+D4+F#4@4>2 A3+D4@6>1 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part7    : F#3+A3+D4@1>12
-@5 [Bm]
-  ACCORDION: G4+E5@1>3 F#4+D5@4>1 F#4+D5@5>7
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part7    : F#3+A3+B3+D4@12>12
-@6 [Em]
-  ACCORDION: B4+G5@1>1 B4+G5@4>1 B4+G5@7>3 A4+F#5@10>2 G4+E5@11>2
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+D4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  BANJO    : D4+G4+B4@4>1 D4+G4+B4@10>1
-  Part7    : G3+B3+E4@12>12
-@7 [A7]
-  ACCORDION: G4+E5@1>10 B4@12>1
-  Part2    : A1@1>3 G#1@7>2 G1@10>2
-  Part3    : G3+B3@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+A4@10>3 A3+C#4@12>1
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+A4@10>1
-  Part7    : E3+A3+C#4@12>12
-@8 [Gbm7 | Am]
-  ACCORDION: C5+A5@1>2 C5+A5@4>1 C5+A5@7>3 B4+G5@10>2
-  Part2    : F#1@1>3 C2@7>4
-  Part3    : A3+C#4@1>1 A3+C4+E4+A4@4>3 A3+C4@6>2 A3+C4+E4+A4@10>3 A3+C4@12>1
-  BANJO    : E4+A4+C5@4>1 E4+A4+C5@10>1
-  Part7    : C4+E4+A4@12>12
-@9 [B7]
-  ACCORDION: B4+G5@1>2 C5+A5@3>1 A4+F#5@4>1 A4+F#5@5>5 A4+F#5@12>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+C4@1>1 F#3+B3+Eb4+F#4@4>3 F#3+B3@6>2 B3+Eb4+F#4@9>1 F#3+B3+Eb4+F#4@10>3 F#3+B3@12>1
-  BANJO    : Eb4+F#4+B4@4>1 Eb4+F#4+B4@10>1
-  Part7    : B3+Eb4+F#4+A4@12>12
-@10 [Em]
-  ACCORDION: B4+G5@1>2 A4+F#5@4>3 G4+E5@7>3 F#4+D5@10>2 C#5+A5@11>2
-  Part2    : E1@1>2 F#1@4>2 G1@7>2 G#1@10>2
-  Part3    : F#3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>2
-  Part7    : B3+E4+G4@12>12
-@11 [A] (grid:4)
-  ACCORDION: C#5+A5@1>4
-  Part2    : A1@1>1 B1@2>1 C2@3>1 C#2@4>1
-  Part3    : A2+A3+C#4@1>1 B2+B3+D4@2>1 C3+C4+Eb4@3>1 C#3+C#4+E4@4>1
-  Part4    : A3@4>1
-  BANJO    : C#4+E4+A4@2>1 C#4+E4+A4@4>1
-@12 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : D4@1>2 D4@4>2 D4@7>2 D4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part7    : A3+C#4@1>1 B3+D4@3>3 C4+Eb4@6>3 C#4+E4@9>3
-@13 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>3
-  Part2    : D2@1>3 A1@7>2 D2@10>2
-  Part3    : A3+D4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : E4@1>2 D4@4>5 D4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-@14 [Gbm]
-  ACCORDION: F#4+A4+C#5@1>1 F#4+A4+C#5@4>1 F#4+A4+C#5@7>1 F#4+A4+C#5@10>1
-  Part2    : F#2@1>3 C#2@7>4
-  Part3    : A3+D4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : C#4@1>2 C#4@4>2 C#4@7>2 D4@10>1 C#4@12>1
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-@15 [Gbm]
-  ACCORDION: F#4+A4+C#5@1>1 F#4+A4+C#5@4>1 F#4+A4+C#5@7>1 F#4+A4+C#5@10>3
-  Part2    : F#1@1>3 C#2@7>4
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : C#4@1>9 C#4@10>2
-  BANJO    : F#4+A4+C#5@4>1 F#4+A4+C#5@10>1
-@16 [Am]
-  ACCORDION: E4+A4+C5@1>1 E4+A4+C5@4>1 E4+A4+C5@7>1 E4+A4+C5@10>1
-  Part2    : A1@1>3 E2@7>4
-  Part3    : A3+C#4@1>1 A3+C4+E4+A4@4>3 A3+C4@6>2 A3+C4+E4+A4@10>3 A3+C4@12>1
-  Part4    : C4@1>2 C4@4>2 C4@7>2 C4@10>2
-  BANJO    : E4+A4+C5@4>1 E4+A4+C5@10>1
-@17 [B]
-  ACCORDION: Eb4+F#4+B4@1>1 Eb4+F#4+B4@4>1 Eb4+F#4+B4@7>1 Eb4+F#4+B4@10>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+C4@1>1 F#3+B3+Eb4+F#4@4>3 F#3+B3@6>2 F#3+B3+Eb4+F#4@10>3 F#3+B3@12>1
-  Part4    : B3@1>1 B3@3>3 Eb4@9>2 F#4@12>1
-  BANJO    : Eb4+F#4+B4@4>1 Eb4+F#4+B4@10>1
-@18 [Em]
-  ACCORDION: E4+G4+B4@1>1 E4+G4+B4@4>1 E4+G4+B4@7>1 E4+G4+B4@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : F#3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>1 F#4@9>2 G4@12>1
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-@19 [Em]
-  ACCORDION: E4+G4+B4@1>1 E4+G4+B4@4>1 E4+G4+B4@7>1 E4+G4+B4@10>1
-  Part2    : E2@1>3 B1@7>2 E2@10>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 B3+E4@9>1 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>4 B3@10>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-@20 [Gm]
-  ACCORDION: D4+G4+Bb4@1>1 D4+G4+Bb4@4>1 D4+G4+Bb4@7>1 D4+G4+Bb4@10>1
-  Part2    : G1@1>3 D2@7>4
-  Part3    : G3+B3@1>1 G3+Bb3+D4+G4@4>3 G3+Bb3@6>2 G3+Bb3+D4+G4@10>3 G3+Bb3@12>1
-  Part4    : D4@1>2 D4@4>3 D4@7>2 D4@10>1 E4@12>1
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-@21 [Gm]
-  ACCORDION: D4+G4+Bb4@1>1 D4+G4+Bb4@4>1 D4+G4+Bb4@7>1 D4+G4+Bb4@10>1
-  Part2    : G1@1>3 D2@7>2 G1@10>2
-  Part3    : G3+Bb3@1>1 G3+Bb3+D4+G4@4>3 G3+Bb3@6>2 G3+Bb3+D4+G4@10>3 G3+Bb3@12>1
-  Part4    : E4@1>1 D4@3>5 E4@10>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-@22 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>3
-  Part2    : D2@1>3 C#2@7>4
-  Part3    : G3+Bb3@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 E4@10>1 Eb4@12>1
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-@23 [B]
-  ACCORDION: B4+Eb5@1>1 F#4+B4+Eb5@4>1 F#4+B4+Eb5@7>1 F#4+B4+Eb5@10>1
-  Part2    : B1@1>3 F#2@7>4
-  Part3    : A3+D4@1>1 F#3+B3+Eb4+F#4@4>3 F#3+B3@6>2 F#3+B3+Eb4+F#4@10>3 F#3+B3@12>1
-  Part4    : Eb4@1>5 F#4@10>2
-  BANJO    : Eb4+F#4+B4@4>1 Eb4+F#4+B4@10>1
-@24 [Bm7 | E7]
-  ACCORDION: B3+F#4+A4@1>1 B3+F#4+A4@4>1 B3+F#4+A4@7>1 B3+F#4+A4@10>1
-  Part2    : E2@1>3 B1@7>4
-  Part3    : F#3+B3@1>1 E3+A3+B3+D4@4>3 E3+A3@6>2 E3+A3+B3+D4@10>3 E3+A3@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>2 B3@10>1 F#4@12>1
-  BANJO    : B3+D4+A4@4>1 B3+D4+A4@10>1
-@25 [E]
-  ACCORDION: B3+E4+G#4@1>1 B3+E4+G#4@4>1 B3+E4+G#4@7>1 B3+E4+G#4@10>1
-  Part2    : E2@1>3 B1@7>4
-  Part3    : E3+A3@1>1 B3+E4+G#4+B4@4>3 B3+E4@6>2 E4+G#4@9>1 B3+E4+G#4+B4@10>3 B3+E4@12>1
-  Part4    : F#4@1>1 E4@3>7 F#4@10>2
-  BANJO    : B3+D4+G#4@4>1 B3+D4+G#4@10>1
-@26 [D | A]
-  ACCORDION: D4+E4+A4@1>1 D4+E4+A4@4>1 D4+E4+A4@7>1 D4+E4+A4@10>1
-  Part2    : A1@1>3 E1@7>4
-  Part3    : B3+E4@1>1 A3+D4+E4+A4@4>3 A3+D4@6>2 A3+D4+E4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 G4@10>1 E4@12>1
-  BANJO    : D4+E4+A4@4>1 D4+E4+A4@10>1
-@27 [A]
-  ACCORDION: C#4+E4+A4@1>1 E4+C#5@4>3 F#4+D5@7>3 G4+E5@10>3
-  Part2    : A1@1>2 A1@4>2 B1@7>2 C#2@10>2
-  Part3    : A3+D4@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+A4@10>3 A3+C#4@12>1
-  Part4    : E4@1>6 A3@10>3
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+A4@10>2
-@28 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+C#4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : D4@1>1 D4@4>1 D4@7>1 D4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : D5@1>12
-@29 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>3
-  Part2    : D2@1>3 A1@7>2 D2@10>2
-  Part3    : A3+D4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : E4@1>2 D4@4>2 D4@5>3 D4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : D5@1>3 E5@4>3 F#5@7>3 G5@10>3
-@30 [Gbm]
-  ACCORDION: F#4+A4+C#5@1>1 F#4+A4+C#5@4>1 F#4+A4+C#5@7>1 F#4+A4+C#5@10>1
-  Part2    : F#2@1>3 C#2@7>4
-  Part3    : A3+D4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : C#4@1>1 C#4@4>1 C#4@7>1 D4@10>2 C#4@11>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A5@1>12
-@31 [Gbm]
-  ACCORDION: F#4+A4+C#5@1>1 F#4+A4+C#5@4>1 F#4+A4+C#5@7>1 F#4+A4+C#5@10>3
-  Part2    : F#1@1>3 C#2@7>2 F#2@10>2
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : C#4@1>5 C#4@10>3
-  BANJO    : F#4+A4+C#5@4>1 F#4+A4+C#5@10>1
-  Part6    : F#5+A5@1>7 C#5@7>6
-  Part7    : C#5+F#5@12>3
-@32 [Am]
-  ACCORDION: E4+A4+C5@1>1 E4+A4+C5@4>1 E4+A4+C5@7>1 E4+A4+C5@10>1
-  Part2    : A2@1>3 E2@7>4
-  Part3    : A3+C#4@1>1 A3+C4+E4+A4@4>3 A3+C4@6>2 A3+C4+E4+A4@10>3 A3+C4@12>1
-  Part4    : C4@1>1 C4@4>1 C4@7>1 C4@10>2 B3@11>2
-  BANJO    : E4+A4+C5@4>1 E4+A4+C5@10>1
-  Part6    : C5@1>6 E5@7>6
-  Part7    : F#5+A5@3>3 C#5+F#5@6>3 A4+C#5@9>3 E4+C5@12>12
-@33 [B]
-  ACCORDION: Eb4+F#4+B4@1>1 Eb4+F#4+B4@4>1 Eb4+F#4+B4@7>1 Eb4+F#4+B4@10>1
-  Part2    : B1@1>3 F#1@7>2 B1@10>2
-  Part3    : A3+C4@1>1 F#3+B3+Eb4+F#4@4>3 F#3+B3@6>2 F#3+B3+Eb4+F#4@10>3 F#3+B3@12>1
-  Part4    : B3@3>2 Eb4@7>2 F#4@10>2
-  BANJO    : Eb4+F#4+B4@4>1 Eb4+F#4+B4@10>1
-  Part6    : Eb5@1>12
-  Part7    : Eb4+B4@12>12
-@34 [Em]
-  ACCORDION: E4+G4+B4@1>1 E4+G4+B4@4>1 E4+G4+B4@7>1 E4+G4+B4@10>1
-  Part2    : E2@1>3 B1@7>4
-  Part3    : F#3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>1 F#4@9>2 G4@11>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E5@1>12
-  Part7    : E4+B4@12>12
-@35 [Em]
-  ACCORDION: E4+G4+B4@1>1 E4+G4+B4@4>1 E4+G4+B4@7>1 E4+G4+B4@10>1
-  Part2    : E2@1>3 B1@7>2 E2@10>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 B3+E4@9>1 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>1 B3@10>3
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E5@1>3 F#5@4>4 G5@7>3 A5@10>3
-  Part7    : E4+B4@12>12
-@36 [Gm]
-  ACCORDION: D4+G4+Bb4@1>1 D4+G4+Bb4@4>1 D4+G4+Bb4@7>1 D4+G4+Bb4@10>1
-  Part2    : G1@1>3 D2@7>4
-  Part3    : G3+B3@1>1 G3+Bb3+D4+G4@4>3 G3+Bb3@6>2 G3+Bb3+D4+G4@10>3 G3+Bb3@12>1
-  Part4    : D4@1>1 D4@4>1 D4@7>1 D4@10>1 E4@11>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : G5@1>12
-  Part7    : G4+D5@12>12
-@37 [Gm]
-  ACCORDION: D4+G4+Bb4@1>1 D4+G4+Bb4@4>1 D4+G4+Bb4@7>1 D4+G4+Bb4@10>1
-  Part2    : G1@1>3 D2@7>2 G1@10>2
-  Part3    : G3+Bb3@1>1 G3+Bb3+D4+G4@4>3 G3+Bb3@6>2 G3+Bb3+D4+G4@10>3 G3+Bb3@12>1
-  Part4    : D4@3>2 E4@10>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : G5@1>12
-  Part7    : G4+D5@12>12
-@38 [D | Gbaug]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>3
-  Part2    : D2@1>3 Bb1@7>4
-  Part3    : G3+Bb3@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 D4+F#4+Bb4@10>3 D4@12>1
-  Part4    : F#4@1>5 F#4@7>5
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+Bb4@10>1
-  Part6    : F#5@1>12
-  Part7    : F#4+A4@12>12
-@39 [Bm7]
-  ACCORDION: B4@1>1 F#4+B4+D5@4>1 F#4+B4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : B1@1>3 A1@7>4
-  Part3    : D4@1>1 F#3+B3+D4+F#4@4>3 B3+D4@6>2 F#3+B3+D4+F#4@10>3 B3+D4@12>1
-  Part4    : F#4@1>7 F#4@10>2
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+A4@10>1
-  Part6    : F#5@1>12
-  Part7    : Bb4@6>6 F#4+B4@12>12
-@40 [E7]
-  ACCORDION: E4+A4+D5@1>1 E4+A4+D5@4>1 E4+A4+D5@7>1 E4+A4+D5@10>1
-  Part2    : G#1@1>3 G#2@7>4
-  Part3    : B3+D4@1>1 B3+D4+A4@4>3 D4@6>2 B3+D4+A4@10>3 D4@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>2 B3@10>2
-  BANJO    : B3+D4+A4@4>1 B3+D4+A4@10>1
-  Part6    : E5@1>12
-  Part7    : G#4+B4@12>12
-@41 [E]
-  ACCORDION: E4+G#4+D5@1>1 E4+G#4+D5@4>1 E4+G#4+D5@7>1 E4+G#4+D5@10>1
-  Part2    : G#1@1>3 G#2@7>4
-  Part3    : D4@1>1 B3+E4+G#4+B4@4>3 B3+E4@6>2 E4+G#4@9>1 B3+E4+G#4+B4@10>3 B3+E4@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>2 B3@10>3
-  BANJO    : B3+D4+G#4@4>1 B3+D4+G#4@10>1
-  Part6    : E5@1>12
-  Part7    : G#4@12>12
-@42 [D]
-  ACCORDION: D4+E4+A4@1>1 D4+E4+A4@4>1 D4+E4+A4@7>1 D4+E4+A4@10>1
-  Part2    : A1@1>3 A2@7>4
-  Part3    : B3+E4@1>1 A3+D4+E4+A4@4>3 A3+D4@6>2 A3+D4+E4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 G4@10>2 E4@11>2
-  BANJO    : D4+E4+A4@4>1 D4+E4+A4@10>1
-  Part6    : D5@1>12
-  Part7    : D5@6>6 E4+D5@12>12
-@43 [A | Dbm7] (grid:8)
-  ACCORDION: C#4+E4+A4@1>1 E4+C#5@3>2 F#4+D5@5>2 G4+E5@7>2
-  Part2    : A1@1>1 A1@3>2 B1@5>2 C#2@7>2
-  Part3    : A3+D4@1>1 A2+A3+C#4+E4@3>2 B2+B3+D4+F#4@5>2 C#3+C#4+E4+G4@7>2
-  Part4    : E4@1>2 A3@5>2 A3@7>2
-  BANJO    : C#4+E4+A4@3>1 C#4+E4+A4@7>1
-  Part6    : C#5@1>2 A4+C#5@3>2 B4+D5@5>2 C#5+E5@7>2
-  Part7    : C#4+C#5@8>1
-  Part8    : A1@3>1 B1@5>1 C#2@7>1
-@44 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 E4@10>1 E4@11>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : A4+C#5+E5+A5@1>12
-  Part7    : C#4+C#5@1>8 D4+F#4+A4@12>12
-  Part8    : D2@1>1 A1@7>1
-@45 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>2 D2@10>2
-  Part3    : A3+D4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : E4@1>1 D4@3>4 D4@7>2 C#4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : A4+A5@1>12
-  Part7    : D4+F#4+A4@12>12
-  Part8    : D2@1>1 A1@7>1 D2@10>1
-@46 [Bm]
-  ACCORDION: F#4+B4+D5@1>1 F#4+B4+D5@4>1 F#4+B4+D5@7>1 F#4+B4+D5@10>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  Part4    : C#4@1>2 B3@4>2 B3@7>2 C#4@10>2 D4@11>2
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part6    : B4+B5@1>12
-  Part7    : D4+F#4+B4@12>12
-  Part8    : B1@1>1 F#1@7>1
-@47 [Bm]
-  ACCORDION: F#4+B4+D5@1>1 F#4+B4+D5@4>1 F#4+B4+D5@7>1 F#4+B4+D5@10>1
-  Part2    : B1@1>3 F#1@7>2 F1@10>2
-  Part3    : B3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  Part4    : D4@1>5 B3@10>3
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part6    : D5@1>6 F#5@7>6
-  Part7    : D4+F#4+B4@12>12
-  Part8    : B1@1>1 F#1@7>1 F1@10>1
-@48 [Em]
-  ACCORDION: G4+B4+D5@1>1 G4+B4+D5@4>1 G4+B4+D5@7>1 G4+B4+D5@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+D4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>2 G4@4>2 G4@7>2 F#4@10>1 F#4@11>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E5@1>12
-  Part7    : B3+E4+G4@12>12
-  Part8    : E1@1>1 B1@7>1
-@49 [Em] (grid:8)
-  ACCORDION: G4+B4+D5@1>1 G4+B4+D5@3>1 G4+B4+D5@5>1 G4+B4+D5@7>1
-  Part2    : E1@1>2 B1@5>2 Bb1@7>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@3>2 G3+B3@4>1 G3+B3+E4+G4@7>2 G3+B3@8>1
-  Part4    : F#4@1>1 E4@2>2 E4@5>2 D4@7>2
-  BANJO    : E4+G4+B4@3>1 E4+G4+B4@7>1
-  Part6    : E5@1>8
-  Part8    : E1@1>1 B1@5>1 Bb1@7>1
-@50 [A]
-  ACCORDION: E4+A4+C#5@1>1 E4+A4+C#5@4>1 E4+A4+C#5@7>1 E4+A4+C#5@10>1
-  Part2    : A1@1>3 E2@7>4
-  Part3    : G3+B3@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+A4@10>3 A3+C#4@12>1
-  Part4    : D4@1>2 C#4@4>2 C#4@7>2 D4@10>1 E4@12>1
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+A4@10>1
-  Part6    : E5@1>12
-  Part7    : B3+E4+G4@11>12
-  Part8    : A1@1>1 E2@7>1
-@51 [A7] (grid:24t)
-  ACCORDION: E4+A4+C#5@1>2 E4+A4+C#5@7>2 E4+A4+C#5@13>2 E4+A4+C#5@19>2
-  Part2    : A1@1>6 A1@13>4 G1@19>4
-  Part3    : A3+C#4@1>2 A3+C#4+E4+A4@7>6 A3+C#4@11>4 A3+C#4+E4+G4@19>6 A3+C#4@23>2
-  Part4    : E4@1>10 A3@19>6
-  BANJO    : C#4+E4+A4@7>2 C#4+E4+G4@19>3
-  Part6    : G5@1>12 B5@13>12
-  Part7    : C#4+A4@21>2 C#4+E4+A4@22>24
-  Part8    : A1@1>2 A1@13>2 G1@19>2
-@52 [Gbm]
-  ACCORDION: A4+C#5+F#5@1>1 A4+C#5+F#5@4>1 A4+C#5+F#5@7>1 A4+C#5+F#5@10>1
-  Part2    : F#1@1>3 C#2@7>4
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : A4@1>2 A4@4>2 A4@7>2 G4@10>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A5@1>12
-  Part7    : C#4+E4+A4@11>12
-  Part8    : F#1@1>1 C#2@7>1
-@53 [Gbm]
-  ACCORDION: A4+C#5+F#5@1>1 A4+C#5+F#5@4>1 A4+C#5+F#5@7>1 A4+C#5+F#5@10>1
-  Part2    : F#1@1>3 C#2@7>2 F#1@10>2
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : G4@1>2 F#4@4>2 F#4@7>2 E4@10>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A5@1>12
-  Part7    : C#4+F#4+A4@11>12
-  Part8    : F#1@1>1 C#2@7>1 F#1@10>1
-@54 [Ebdim] (grid:8)
-  ACCORDION: F#4+B4+E5@1>1 F#4+B4+E5@3>1 F#4+B4+E5@5>1 F#4+B4+E5@7>1
-  Part2    : B1@1>2 F#1@5>2
-  Part3    : A3+C#4@1>1 B3+Eb4+F#4+A4@3>2 B3+Eb4@4>1 B3+Eb4+F#4+A4@7>2 B3+Eb4@8>1
-  Part4    : E4@1>2 Eb4@3>2 Eb4@5>1 E4@6>2 F#4@8>1
-  BANJO    : Eb4+F#4+A4@3>1 Eb4+F#4+A4@7>1
-  Part6    : A5@1>8
-  Part8    : B1@1>1 F#1@5>1
-@55 [B7]
-  ACCORDION: F#4+B4+Eb5@1>1 F#4+B4+Eb5@4>1 F#4+B4+Eb5@7>1 F#4+B4+Eb5@10>1
-  Part2    : B1@1>3 F#1@7>2 B1@10>2
-  Part3    : B3+Eb4@1>1 B3+Eb4+F#4+A4@4>3 B3+Eb4@6>2 B3+Eb4+F#4+A4@10>3 B3+Eb4@12>1
-  Part4    : F#4@1>2 G4@7>2 F#4@10>3
-  BANJO    : Eb4+F#4+A4@4>1 Eb4+F#4+A4@10>1
-  Part6    : G5@1>6 F#5@7>6
-  Part7    : C#4+F#4+A4@11>12
-  Part8    : B1@1>1 F#1@7>1 B1@10>1
-@56 [Em]
-  ACCORDION: G4+B4+E5@1>1 G4+B4+E5@4>1 G4+B4+E5@7>1 G4+B4+E5@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+Eb4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : B3@1>5 G4@7>6
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : B4@1>6 G5@6>7
-  Part7    : B3+Eb4+A4@11>12
-  Part8    : E1@1>1 B1@7>1
-@57 [Em]
-  ACCORDION: G4+B4+E5@1>1 G4+B4+E5@4>1 G4+B4+E5@7>1 G4+B4+E5@10>1
-  Part2    : E1@1>3 B1@7>2 E1@10>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>5 E4@7>2 B3@10>3
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : G5@1>5 E5@7>4 B4@10>2 A4@12>1
-  Part7    : B3+Eb4+A4@11>11
-  Part8    : E1@1>1 B1@7>1 E1@10>1
-@58 [A | Dbdim] (grid:24t)
-  ACCORDION: A4+C#5+E5@1>2 A4+C#5+E5@7>2 A4+C#5+E5@13>2 A4+C#5+E5@19>2
-  Part2    : A1@1>6 A2@13>8
-  Part3    : G3+B3@1>2 A3+C#4+E4+A4@7>6 A3+C#4@11>4 A3+C#4+E4+A4@19>6 A3+C#4@23>2
-  Part4    : A3@1>10 G4@13>12
-  BANJO    : C#4+E4+A4@7>2 C#4+E4+A4@19>2
-  Part6    : A4@1>10 G5@13>12
-  Part7    : E4+G4+B4@21>2 E4+G4+B4@22>24
-  Part8    : A1@1>2 A2@13>2
-@59 [A7 | Em7] (grid:24t)
-  ACCORDION: A4+C#5+E5@1>2 E4+C#5@7>6 F#4+D5@13>6 G4+E5@19>6
-  Part2    : A1@1>3 A1@7>4 B1@13>4 C#2@19>4
-  Part3    : A3+C#4@1>2 A2+B3+G4@7>4 B2+A3+F#4@13>4 C#3+G3+E4@19>4
-  Part4    : G4@1>3 A3@19>4
-  BANJO    : C#4+E4+A4@7>2 C#4+E4+A4@19>2
-  Part6    : A4@4>3 C#4+G4+B4@7>6 C#5@10>3 D4+F#4+D5@13>6 E5@15>3 E4+F#5@17>3 F#4+G5@21>3 G4@23>2
-  Part7    : E4+G4+B4@22>21
-  Part8    : A1@1>2 A1@7>2 B1@13>2 C#2@19>2
-@60 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 E4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : G4+A4+A5@1>12
-  Part7    : C#4+E4+A4@11>12
-  Part8    : D2@1>1 A1@7>1
-@61 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>2 D2@10>2
-  Part3    : A3+D4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : E4@1>2 D4@4>2 D4@5>3 C#4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : A4+A5@1>12
-  Part7    : C#4+E4+A4@11>2
-  Part8    : D2@1>1 A1@7>1 D2@10>1
-@62 [Bm] (grid:24t)
-  ACCORDION: F#4+B4+D5@1>2 F#4+B4+D5@7>2 F#4+B4+D5@13>2 F#4+B4+D5@19>2
-  Part2    : B1@1>6 F#1@13>8
-  Part3    : A3+D4@1>2 B3+D4+F#4+B4@7>6 B3+D4@11>4 B3+D4+F#4+B4@19>6 B3+D4@23>2
-  Part4    : C#4@1>4 B3@7>4 B3@13>4 C#4@19>3 D4@22>3
-  BANJO    : D4+F#4+B4@7>2 D4+F#4+B4@19>2
-  Part6    : B4+B5@1>24
-  Part7    : E4+G4@3>6 D4+F#4@10>6 C#4+E4@15>6 D4+F#4+A4@22>24
-  Part8    : B1@1>2 F#1@13>2
-@63 [Bm]
-  ACCORDION: F#4+B4+D5@1>1 F#4+B4+D5@4>1 F#4+B4+D5@7>1 F#4+B4+D5@10>1
-  Part2    : B1@1>3 F#1@7>2 F1@10>2
-  Part3    : B3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  Part4    : D4@1>5 B3@10>3
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part6    : D4+D5@1>7 F#4+F#5@7>6
-  Part7    : D4+F#4+A4@11>12
-  Part8    : B1@1>1 F#1@7>1 F1@10>1
-@64 [Em]
-  ACCORDION: G4+B4+D5@1>1 G4+B4+D5@4>1 G4+B4+D5@7>1 G4+B4+D5@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+D4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>2 G4@4>2 G4@7>2 F#4@10>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E4+E5@1>12 B5@4>9
-  Part7    : D4+F#4+B4@11>12
-  Part8    : E1@1>1 B1@7>1
-@65 [Em7]
-  ACCORDION: G4+B4+D5@1>1 G4+B4+D5@4>1 G4+B4+D5@7>1 G4+B4+D5@10>1
-  Part2    : E1@1>3 B1@7>2 Bb1@10>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@5>3 D4@10>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E4+B5@1>12
-  Part7    : D4+F#4+B4@11>12
-  Part8    : E1@1>1 B1@7>1 Bb1@10>1
-@66 [A]
-  ACCORDION: E4+A4+C#5@1>1 E4+A4+C#5@4>1 E4+A4+C#5@7>1 E4+A4+C#5@10>1
-  Part2    : A1@1>3 E2@7>4
-  Part3    : G3+B3@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+A4@10>3 A3+C#4@12>1
-  Part4    : D4@1>2 C#4@4>2 C#4@7>2 D4@10>1 E4@12>1
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+A4@10>1
-  Part6    : C#4+C#5@1>12
-  Part7    : E4+F#4+G4+B4@11>24
-  Part8    : A1@1>1 E2@7>1
-@67 [A7 | Em]
-  ACCORDION: E4+A4+C#5@1>1 E4+A4+C#5@4>1 E4+A4+C#5@7>1 E4+A4+C#5@10>1
-  Part2    : A1@1>3 A1@7>2 G1@10>2
-  Part3    : A3+C#4@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+G4@10>3 A3+C#4@12>1
-  Part4    : E4@1>5 A3@10>3
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+G4@10>2
-  Part6    : G4+G5@1>6 B4+B5@7>6
-  Part8    : A1@1>1 A1@7>1 G1@10>1
-@68 [Gbm]
-  ACCORDION: A4+C#5+F#5@1>1 A4+C#5+F#5@4>1 A4+C#5+F#5@7>1 A4+C#5+F#5@10>1
-  Part2    : F#1@1>3 C#2@7>4
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : A4@1>2 A4@4>2 A4@7>2 G4@10>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A4+A5@1>12
-  Part7    : E4+G4@11>36
-  Part8    : F#1@1>1 C#2@7>1
-@69 [Gbm]
-  ACCORDION: A4+C#5+F#5@1>1 A4+C#5+F#5@4>1 A4+C#5+F#5@7>1 A4+C#5+F#5@10>1
-  Part2    : F#1@1>3 C#2@7>2 F#1@10>2
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : G4@1>2 F#4@4>2 F#4@7>2 E4@10>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A4+A5@1>12
-  Part7    : A4+C#5@11>1
-  Part8    : F#1@1>1 C#2@7>1 F#1@10>1
-@70 [Ebdim]
-  ACCORDION: F#4+B4+E5@1>1 F#4+B4+E5@4>1 F#4+B4+E5@7>1 F#4+B4+E5@10>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+C#4@1>1 B3+Eb4+F#4+A4@4>3 B3+Eb4@6>2 B3+Eb4+F#4+A4@10>3 B3+Eb4@12>1
-  Part4    : E4@1>2 Eb4@4>2 Eb4@7>2 E4@10>2 F#4@11>2
-  BANJO    : Eb4+F#4+A4@4>1 Eb4+F#4+A4@10>1
-  Part6    : A4+A5@1>12
-  Part8    : B1@1>1 F#1@7>1
-@71 [Gaug | B7]
-  ACCORDION: F#4+B4+Eb5@1>1 F#4+B4+Eb5@4>1 F#4+B4+Eb5@7>1 F#4+B4+Eb5@10>1
-  Part2    : B1@1>3 F#1@7>2 B1@10>2
-  Part3    : B3+Eb4@1>1 B3+Eb4+F#4+A4@4>3 B3+Eb4@6>2 B3+Eb4+F#4+A4@10>3 B3+Eb4@12>1
-  Part4    : F#4@1>3 G4@7>2 F#4@10>3
-  BANJO    : Eb4+F#4+A4@4>1 Eb4+F#4+A4@10>1
-  Part6    : G4+G5@1>7 F#4+F#5@7>6
-  Part7    : A4+C#5@11>12
-  Part8    : B1@1>1 F#1@7>1 B1@10>1
-@72 [Em]
-  ACCORDION: G4+B4+E5@1>1 G4+B4+E5@4>1 G4+B4+E5@7>1 G4+B4+E5@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+Eb4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : B3@1>5 G4@7>6
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : B3+B4@1>6 G4+G5@6>7
-  Part7    : A4+C#5@11>12
-  Part8    : E1@1>1 B1@7>1
-@73 [Dbdim | A] (grid:24t)
-  ACCORDION: A4+C#5+E5@1>2 A4+C#5+E5@7>2 A4+C#5+E5@13>2 A4+C#5+E5@19>2 F#4+G4@22>2 G#4+A4+F#5@23>2
-  Part2    : A1@1>6 E1@13>4 A1@19>4
-  Part3    : G3+B3@1>2 A3+C#4+E4+A4@7>6 A3+C#4@11>4 A3+C#4+E4+A4@19>6 A3+C#4@23>2
-  Part4    : G4@1>10 E4@13>4 C#4@19>6
-  BANJO    : C#4+E4+A4@7>2 C#4+E4+A4@19>2
-  Part6    : G4+G5@1>10 E4+E5@13>6 C#4+C#5@19>4
-  Part7    : F#4+A4+C#5@22>24
-  Part8    : A1@1>2 E1@13>2 A1@19>2
-@74 [D]
-  ACCORDION: A4+F#5@4>1 A4+F#5@7>3 G4+E5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+C#4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : D4@1>5
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : D4+D5@1>12
-  Part7    : F#4+A4+C#5@11>12
-  Part8    : D2@1>1
-@75 [Bm]
-  ACCORDION: G4+E5@1>3 F#4+D5@4>1 F#4+D5@5>7 A4+E5+F#5@12>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part6    : D4+D5@1>12
-  Part7    : F#4+A4+Eb5@11>12
-@76 [Em]
-  ACCORDION: B4+G5@1>3 A4+F#5@4>3 G4+E5@7>3 F#4+D5@10>2 E4+C#5@11>2
-  Part2    : E1@1>2 F#1@4>2 G1@7>2 G#1@10>2
-  Part3    : B3+D4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part7    : F#4+A4+Eb5@11>12
-@77 [A7] (grid:24t)
-  ACCORDION: E4+C#5@1>22
-  Part2    : A1@1>4 B1@7>4 C2@13>4 C#2@19>4
-  Part3    : A2+A3+C#4@1>4 B2+B3+D4@7>4 C3+C4+Eb4@13>4 C#3+C#4+E4@19>4
-  Part4    : A3@19>6
-  BANJO    : C#4+E4+A4@7>2 C#4+E4+A4@19>2
-  Part7    : E4+G4+B4@21>2 E4+G4+B4@22>24
-@78 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : D4@1>2 D4@4>2 D4@7>2 D4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : D5@1>12
-  Part7    : E4+A4+C#5@11>12
-@79 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>3
-  Part2    : D2@1>3 A1@7>2 D2@10>2
-  Part3    : A3+D4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : E4@1>2 D4@4>5 D4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : D5@1>3 E5@4>3 F#5@7>3 G5@10>3
-  Part7    : F#3+A3+D4@11>12
-@80 [Gbm]
-  ACCORDION: F#4+A4+C#5@1>1 F#4+A4+C#5@4>1 F#4+A4+C#5@7>1 F#4+A4+C#5@10>1
-  Part2    : F#2@1>3 C#2@7>4
-  Part3    : A3+D4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : C#4@1>2 C#4@4>2 C#4@7>2 D4@10>1 C#4@12>1
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A5@1>12
-@81 [Gbm]
-  ACCORDION: F#4+A4+C#5@1>1 F#4+A4+C#5@4>1 F#4+A4+C#5@7>1 F#4+A4+C#5@10>3
-  Part2    : F#1@1>3 C#2@7>4
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : C#4@1>9 C#4@10>2
-  BANJO    : F#4+A4+C#5@4>1 F#4+A4+C#5@10>1
-  Part6    : F#5+A5@1>7 C#5@7>6
-  Part7    : F#3+A3+B3+D4@11>12
-@82 [Am]
-  ACCORDION: E4+A4+C5@1>1 E4+A4+C5@4>1 E4+A4+C5@7>1 E4+A4+C5@10>1
-  Part2    : A1@1>3 E2@7>4
-  Part3    : A3+C#4@1>1 A3+C4+E4+A4@4>3 A3+C4@6>2 A3+C4+E4+A4@10>3 A3+C4@12>1
-  Part4    : C4@1>2 C4@4>2 C4@7>2 C4@10>2
-  BANJO    : E4+A4+C5@4>1 E4+A4+C5@10>1
-  Part6    : C5@1>6 E5@7>6
-  Part7    : G3+B3+E4@11>12
-@83 [B]
-  ACCORDION: Eb4+F#4+B4@1>1 Eb4+F#4+B4@4>1 Eb4+F#4+B4@7>1 Eb4+F#4+B4@10>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+C4@1>1 F#3+B3+Eb4+F#4@4>3 F#3+B3@6>2 F#3+B3+Eb4+F#4@10>3 F#3+B3@12>1
-  Part4    : B3@1>1 B3@3>3 Eb4@9>2 F#4@12>1
-  BANJO    : Eb4+F#4+B4@4>1 Eb4+F#4+B4@10>1
-  Part6    : Eb5@1>12
-  Part7    : A4+C#5@11>3
-@84 [Em]
-  ACCORDION: E4+G4+B4@1>1 E4+G4+B4@4>1 E4+G4+B4@7>1 E4+G4+B4@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : F#3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>1 F#4@9>2 G4@12>1
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E5@1>12
-  Part7    : B4+D5@2>3 C5+Eb5@5>3 C#5+E5@8>3 F#3+A3+D4@11>12
-@85 [Em]
-  ACCORDION: E4+G4+B4@1>1 E4+G4+B4@4>1 E4+G4+B4@7>1 E4+G4+B4@10>1
-  Part2    : E1@1>3 B1@7>2 E2@10>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 B3+E4@9>1 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>4 B3@10>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E5@1>3 D5@4>4 C#5@7>3 B4@10>3
-  Part7    : F#3+A3+D4@11>12
-@86 [Gm]
-  ACCORDION: D4+G4+Bb4@1>1 D4+G4+Bb4@4>1 D4+G4+Bb4@7>1 D4+G4+Bb4@10>1
-  Part2    : G1@1>3 D2@7>4
-  Part3    : G3+B3@1>1 G3+Bb3+D4+G4@4>3 G3+Bb3@6>2 G3+Bb3+D4+G4@10>3 G3+Bb3@12>1
-  Part4    : D4@1>2 D4@4>3 D4@7>2 D4@10>1 E4@12>1
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : Bb4@1>12
-  Part7    : F#3+A3+C#4+D4@11>12
-@87 [Gm]
-  ACCORDION: D4+G4+Bb4@1>1 D4+G4+Bb4@4>1 D4+G4+Bb4@7>1 D4+G4+Bb4@10>1
-  Part2    : G1@1>3 D2@7>2 G1@10>2
-  Part3    : G3+Bb3@1>1 G3+Bb3+D4+G4@4>3 G3+Bb3@6>2 G3+Bb3+D4+G4@10>3 G3+Bb3@12>1
-  Part4    : E4@1>1 D4@3>5 E4@10>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : Bb4@1>6 D5@7>6
-  Part7    : F#3+A3+C#4@11>12
-@88 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>3
-  Part2    : D2@1>3 C#2@7>4
-  Part3    : G3+Bb3@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 E4@10>1 Eb4@12>1
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : A4@1>12
-  Part7    : A3+C4+E4@11>12
-@89 [B]
-  ACCORDION: B4+Eb5@1>1 F#4+B4+Eb5@4>1 F#4+B4+Eb5@7>1 F#4+B4+Eb5@10>1
-  Part2    : B1@1>3 F#2@7>4
-  Part3    : A3+D4@1>1 F#3+B3+Eb4+F#4@4>3 F#3+B3@6>2 F#3+B3+Eb4+F#4@10>3 F#3+B3@12>1
-  Part4    : Eb4@1>5 F#4@10>2
-  BANJO    : Eb4+F#4+B4@4>1 Eb4+F#4+B4@10>1
-  Part6    : A4@1>3 Eb5@4>3 E5@7>3 F#5@10>3
-  Part7    : F#3+B3+Eb4@10>1
-@90 [D | Bm7]
-  ACCORDION: B3+F#4+A4@1>1 B3+F#4+A4@4>1 B3+F#4+A4@7>1 B3+F#4+A4@10>1
-  Part2    : E2@1>3 B1@7>4
-  Part3    : F#3+B3@1>1 E3+A3+B3+D4@4>3 E3+A3@6>2 E3+A3+B3+D4@10>3 E3+A3@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>2 B3@10>1 F#4@12>1
-  BANJO    : B3+D4+A4@4>1 B3+D4+A4@10>1
-  Part6    : D5@1>12
-  Part7    : F#3+B3+Eb4@10>12
-@91 [E7]
-  ACCORDION: B3+E4+G#4@1>1 B3+E4+G#4@4>1 B3+E4+G#4@7>1 B3+E4+G#4@10>1
-  Part2    : E2@1>3 B1@7>4
-  Part3    : E3+A3@1>1 B3+E4+G#4+B4@4>3 B3+E4@6>2 E4+G#4@9>1 B3+E4+G#4+B4@10>3 B3+E4@12>1
-  Part4    : F#4@1>1 E4@3>7 F#4@10>2
-  BANJO    : B3+D4+G#4@4>1 B3+D4+G#4@10>1
-  Part6    : D5@1>12
-  Part7    : G3+B3+E4@10>12
-@92 [D]
-  ACCORDION: D4+E4+A4@1>1 D4+E4+A4@4>1 D4+E4+A4@7>1 D4+E4+A4@10>1
-  Part2    : A1@1>3 E1@7>4
-  Part3    : B3+E4@1>1 A3+D4+E4+A4@4>3 A3+D4@6>2 A3+D4+E4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 G4@10>1 E4@12>1
-  BANJO    : D4+E4+A4@4>1 D4+E4+A4@10>1
-  Part6    : D5@1>12
-  Part7    : G3+B3+E4@10>12
-@93 [A7]
-  ACCORDION: C#4+E4+A4@1>1 E4+C#5@4>3 F#4+D5@7>3 G4+E5@10>3
-  Part2    : A1@1>2 A1@4>2 B1@7>2 C#2@10>2
-  Part3    : A3+D4@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+A4@10>3 A3+C#4@12>1
-  Part4    : E4@1>6 A3@10>3
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+A4@10>2
-  Part6    : C#5@1>12
-  Part7    : G3+Bb3+D4@10>12
-@94 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+C#4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : D4@1>1 D4@4>1 D4@7>1 D4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : D5@1>12
-@95 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>3
-  Part2    : D2@1>3 A1@7>2 D2@10>2
-  Part3    : A3+D4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : E4@1>2 D4@4>2 D4@5>3 D4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : D5@1>3 E5@4>3 D5+F#5@7>6 G5@10>3
-  Part7    : G3+Bb3+D4@10>12
-@96 [Gbm]
-  ACCORDION: F#4+A4+C#5@1>1 F#4+A4+C#5@4>1 F#4+A4+C#5@7>1 F#4+A4+C#5@10>1
-  Part2    : F#2@1>3 C#2@7>4
-  Part3    : A3+D4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : C#4@1>1 C#4@4>1 C#4@7>1 D4@10>2 C#4@11>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : C#5+A5@1>12
-  Part7    : F#3+A3+D4@10>12
-@97 [Gbm]
-  ACCORDION: F#4+A4+C#5@1>1 F#4+A4+C#5@4>1 F#4+A4+C#5@7>1 F#4+A4+C#5@10>3
-  Part2    : F#1@1>3 C#2@7>2 F#2@10>2
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : C#4@1>5 C#4@10>3
-  BANJO    : F#4+A4+C#5@4>1 F#4+A4+C#5@10>1
-  Part6    : C#5+F#5+A5@1>7 C#5@7>6
-  Part7    : F#3+B3+Eb4@10>12
-@98 [Am]
-  ACCORDION: E4+A4+C5@1>1 E4+A4+C5@4>1 E4+A4+C5@7>1 E4+A4+C5@10>1
-  Part2    : A2@1>3 E2@7>4
-  Part3    : A3+C#4@1>1 A3+C4+E4+A4@4>3 A3+C4@6>2 A3+C4+E4+A4@10>3 A3+C4@12>1
-  Part4    : C4@1>1 C4@4>1 C4@7>1 C4@10>2 B3@11>2
-  BANJO    : E4+A4+C5@4>1 E4+A4+C5@10>1
-  Part6    : C5@1>12 E5@7>6
-  Part7    : B3+D4+A4@10>12
-@99 [B]
-  ACCORDION: Eb4+F#4+B4@1>1 Eb4+F#4+B4@4>1 Eb4+F#4+B4@7>1 Eb4+F#4+B4@10>1
-  Part2    : B1@1>3 F#2@7>2 B1@10>2
-  Part3    : A3+C4@1>1 F#3+B3+Eb4+F#4@4>3 F#3+B3@6>2 F#3+B3+Eb4+F#4@10>3 F#3+B3@12>1
-  Part4    : B3@3>2 Eb4@7>2 F#4@10>2
-  BANJO    : Eb4+F#4+B4@4>1 Eb4+F#4+B4@10>1
-  Part6    : B4+Eb5@1>12
-  Part7    : B3+D4+G#4@10>12
-@100 [Em]
-  ACCORDION: E4+G4+B4@1>1 E4+G4+B4@4>1 E4+G4+B4@7>1 E4+G4+B4@10>1
-  Part2    : E2@1>3 B1@7>4
-  Part3    : F#3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>1 F#4@9>2 G4@11>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : G4+E5@1>12
-  Part7    : A3+D4+G4@10>12
-@101 [Em] (grid:16)
-  ACCORDION: E4+G4+B4@1>1 E4+G4+B4@5>1 E4+G4+B4@9>1 E4+G4+B4@13>1
-  Part2    : E2@1>3 E2@5>3 B1@9>3 E2@13>3
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@5>4 G3+B3@8>2 B3+E4@12>1 G3+B3+E4+G4@13>4 G3+B3@16>1
-  Part4    : G4@1>1 B3@13>4
-  BANJO    : E4+G4+B4@5>1 E4+G4+B4@13>1
-  Part6    : G4+E5@1>4 A4+F#5@4>5 B4@8>8 G5@9>4 A5@13>4 D5@16>1
-  Part7    : A3+C#4+G4@13>16
-@102 [Gm]
-  ACCORDION: D4+G4+Bb4@1>1 D4+G4+Bb4@4>1 D4+G4+Bb4@7>1 D4+G4+Bb4@10>1
-  Part2    : G1@1>3 D2@7>4
-  Part3    : G3+B3@1>1 G3+Bb3+D4+G4@4>3 G3+Bb3@6>2 G3+Bb3+D4+G4@10>3 G3+Bb3@12>1
-  Part4    : D4@1>1 D4@4>1 D4@7>1 D4@10>1 E4@11>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : D5+G5@1>12
-  Part7    : A3+C#4+D4+F#4@10>12
-@103 [Gm]
-  ACCORDION: D4+G4+Bb4@1>1 D4+G4+Bb4@4>1 D4+G4+Bb4@7>1 D4+G4+Bb4@10>1
-  Part2    : G1@1>3 D2@7>2 G1@10>2
-  Part3    : G3+Bb3@1>1 G3+Bb3+D4+G4@4>3 G3+Bb3@6>2 G3+Bb3+D4+G4@10>3 G3+Bb3@12>1
-  Part4    : D4@3>2 E4@10>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : D5+G5@1>12
-  Part7    : D4+F#4@10>12
-@104 [D | Gbaug]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>3
-  Part2    : D2@1>3 Bb1@7>4
-  Part3    : G3+Bb3@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 D4+F#4+Bb4@10>3 D4@12>1
-  Part4    : F#4@1>5 F#4@7>5
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+Bb4@10>1
-  Part6    : D5+F#5@1>12
-  Part7    : C#4+D4+F#4@10>12
-@105 [Bm | D]
-  ACCORDION: B4@1>1 F#4+B4+D5@4>1 F#4+B4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : B1@1>3 A1@7>4
-  Part3    : D4@1>1 F#3+B3+D4+F#4@4>3 B3+D4@6>2 F#3+B3+D4+F#4@10>3 B3+D4@12>1
-  Part4    : F#4@1>7 F#4@10>2
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+A4@10>1
-  Part6    : D5+F#5@1>12
-  Part7    : C#4+F#4@10>2
-@106 [D | E]
-  ACCORDION: E4+A4+D5@1>1 E4+A4+D5@4>1 E4+A4+D5@7>1 E4+A4+D5@10>1
-  Part2    : G#1@1>3 G#2@7>4
-  Part3    : B3+D4@1>1 B3+D4+A4@4>3 D4@6>2 B3+D4+A4@10>3 D4@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@7>2 B3@10>2
-  BANJO    : B3+D4+A4@4>1 B3+D4+A4@10>1
-  Part6    : G#4+E5@1>12
-  Part7    : F#5+A5@1>3 C#5+F#5@4>3 A4+C#5@7>2 E4+A4+C5@10>12
-@107 [E] (grid:16)
-  ACCORDION: E4+G#4+D5@1>1 E4+G#4+D5@5>1 E4+G#4+D5@9>1 E4+G#4+D5@13>1
-  Part2    : G#1@1>4 G#2@9>5
-  Part3    : D4@1>1 B3+E4+G#4+B4@5>4 B3+E4@8>2 E4+G#4@12>1 B3+E4+G#4+B4@13>4 B3+E4@16>1
-  Part4    : F#4@1>3 E4@5>3 E4@9>3 B3@13>4
-  BANJO    : B3+D4+G#4@5>1 B3+D4+G#4@13>1
-  Part6    : G#4+E5@1>16 A4@16>1
-  Part7    : Eb4+F#4+B4@12>1 Eb4+F#4+B4@13>16
-@108 [D]
-  ACCORDION: D4+E4+A4@1>1 D4+E4+A4@4>1 D4+E4+A4@7>1 D4+E4+A4@10>1
-  Part2    : A1@1>3 A1@7>4
-  Part3    : B3+E4@1>1 A3+D4+E4+A4@4>3 A3+D4@6>2 A3+D4+E4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 G4@10>2 E4@11>2
-  BANJO    : D4+E4+A4@4>1 D4+E4+A4@10>1
-  Part6    : A4+D5@1>12
-  Part7    : E4+G4+B4@10>23
-@109 [A | Dbm7] (grid:4)
-  ACCORDION: C#4+E4+A4@1>1 E4+C#5@2>1 F#4+D5@3>1 G4+E5@4>1
-  Part2    : A1@1>1 A1@2>1 B1@3>1 C#2@4>1
-  Part3    : A3+D4@1>1 A2+A3+C#4+E4@2>1 B2+B3+D4+F#4@3>1 C#3+C#4+E4+G4@4>1
-  Part4    : E4@1>1 A3@3>1 A3@4>1
-  BANJO    : C#4+E4+A4@2>1 C#4+E4+A4@4>1
-  Part6    : A4+C#5@1>1 A4+C#5@2>1 B4+D5@3>1 C#5+E5@4>1
-  Part8    : A1@2>1 B1@3>1 C#2@4>1
-@110 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 E4@10>1 E4@11>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : A4+C#5+E5+A5@1>12
-  Part7    : E4+G4@9>12
-  Part8    : D2@1>1 A1@7>1
-@111 [D] (grid:24t)
-  ACCORDION: F#4+A4+D5@1>2 F#4+A4+D5@7>2 F#4+A4+D5@13>2 F#4+A4+D5@19>2
-  Part2    : D2@1>6 A1@13>4 D2@19>4
-  Part3    : A3+D4@1>2 A3+D4+F#4+A4@7>6 A3+D4@11>4 A3+D4+F#4+A4@19>6 A3+D4@23>2
-  Part4    : E4@1>2 D4@4>8 D4@13>4 C#4@19>4
-  BANJO    : D4+F#4+A4@7>2 D4+F#4+A4@19>2
-  Part6    : A4+A5@1>24
-  Part7    : Bb4@16>2 D4+G4+Bb4@17>24
-  Part8    : D2@1>2 A1@13>2 D2@19>2
-@112 [Bm]
-  ACCORDION: F#4+B4+D5@1>1 F#4+B4+D5@4>1 F#4+B4+D5@7>1 F#4+B4+D5@10>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  Part4    : C#4@1>2 B3@4>2 B3@7>2 C#4@10>2 D4@11>2
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part6    : B4+B5@1>12
-  Part7    : D4+G4+Bb4@9>12
-  Part8    : B1@1>1 F#1@7>1
-@113 [Bm]
-  ACCORDION: F#4+B4+D5@1>1 F#4+B4+D5@4>1 F#4+B4+D5@7>1 F#4+B4+D5@10>1
-  Part2    : B1@1>3 F#1@7>2 F1@10>2
-  Part3    : B3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  Part4    : D4@1>5 B3@10>3
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part6    : D5@1>6 F#5@7>6
-  Part7    : D4+F#4+G4+A4@9>23
-  Part8    : B1@1>1 F#1@7>1 F1@10>1
-@114 [Em]
-  ACCORDION: G4+B4+D5@1>1 G4+B4+D5@4>1 G4+B4+D5@7>1 G4+B4+D5@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+D4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>2 G4@4>2 G4@7>2 F#4@10>1 F#4@11>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E5@1>12
-  Part7    : Bb4@3>6
-  Part8    : E1@1>1 B1@7>1
-@115 [Em] (grid:8)
-  ACCORDION: G4+B4+D5@1>1 G4+B4+D5@3>1 G4+B4+D5@5>1 G4+B4+D5@7>1
-  Part2    : E1@1>2 B1@5>2 Bb1@7>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@3>2 G3+B3@4>1 G3+B3+E4+G4@7>2 G3+B3@8>1
-  Part4    : F#4@1>1 E4@2>2 E4@5>2 D4@7>2
-  BANJO    : E4+G4+B4@3>1 E4+G4+B4@7>1
-  Part6    : E5@1>8
-  Part7    : F#4+B4@6>8
-  Part8    : E1@1>1 B1@5>1 Bb1@7>1
-@116 [A7] (grid:24t)
-  ACCORDION: E4+A4+C#5@1>2 E4+A4+C#5@7>2 E4+A4+C#5@13>2 E4+A4+C#5@19>2
-  Part2    : A1@1>6 E2@13>8
-  Part3    : G3+B3@1>2 A3+C#4+E4+A4@7>6 A3+C#4@11>4 A3+C#4+E4+A4@19>6 A3+C#4@23>2
-  Part4    : D4@1>4 C#4@7>4 C#4@13>4 D4@19>2 E4@23>2
-  BANJO    : C#4+E4+A4@7>2 C#4+E4+A4@19>2
-  Part6    : E5@1>24
-  Part7    : E4+G#4@14>2 B3+E4+G#4@16>24
-  Part8    : A1@1>2 E2@13>2
-@117 [A7]
-  ACCORDION: E4+A4+C#5@1>1 E4+A4+C#5@4>1 E4+A4+C#5@7>1 E4+A4+C#5@10>1
-  Part2    : A1@1>3 A1@7>2 G1@10>2
-  Part3    : A3+C#4@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+G4@10>3 A3+C#4@12>1
-  Part4    : E4@1>5 A3@10>3
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+G4@10>2
-  Part6    : G5@1>6 B5@7>6
-  Part7    : B3+E4+G#4@8>12
-  Part8    : A1@1>1 A1@7>1 G1@10>1
-@118 [Gbm | A]
-  ACCORDION: A4+C#5+F#5@1>1 A4+C#5+F#5@4>1 A4+C#5+F#5@7>1 A4+C#5+F#5@10>1
-  Part2    : F#1@1>3 C#2@7>4
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : A4@1>2 A4@4>2 A4@7>2 G4@10>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A5@1>12
-  Part7    : D4+E4+A4@8>24
-  Part8    : F#1@1>1 C#2@7>1
-@119 [Gbm]
-  ACCORDION: A4+C#5+F#5@1>1 A4+C#5+F#5@4>1 A4+C#5+F#5@7>1 A4+C#5+F#5@10>1
-  Part2    : F#1@1>3 C#2@7>2 F#1@10>2
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : G4@1>2 F#4@4>2 F#4@7>2 E4@10>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A5@1>12
-  Part8    : F#1@1>1 C#2@7>1 F#1@10>1
-@120 [Ebdim | Ebm7] (grid:8)
-  ACCORDION: F#4+B4+E5@1>1 F#4+B4+E5@3>1 F#4+B4+E5@5>1 F#4+B4+E5@7>1
-  Part2    : B1@1>2 F#1@5>2
-  Part3    : A3+C#4@1>1 B3+Eb4+F#4+A4@3>2 B3+Eb4@4>1 B3+Eb4+F#4+A4@7>2 B3+Eb4@8>1
-  Part4    : E4@1>2 Eb4@3>2 Eb4@5>1 E4@6>2 F#4@8>1
-  BANJO    : Eb4+F#4+A4@3>1 Eb4+F#4+A4@7>1
-  Part6    : A5@1>8
-  Part7    : C#4+A4@6>8
-  Part8    : B1@1>1 F#1@5>1
-@121 [B7]
-  ACCORDION: F#4+B4+Eb5@1>1 F#4+B4+Eb5@4>1 F#4+B4+Eb5@7>1 F#4+B4+Eb5@10>1
-  Part2    : B1@1>3 F#1@7>2 B1@10>2
-  Part3    : B3+Eb4@1>1 B3+Eb4+F#4+A4@4>3 B3+Eb4@6>2 B3+Eb4+F#4+A4@10>3 B3+Eb4@12>1
-  Part4    : F#4@1>2 G4@7>2 F#4@10>3
-  BANJO    : Eb4+F#4+A4@4>1 Eb4+F#4+A4@10>1
-  Part6    : G5@1>6 F#5@7>6
-  Part7    : D4+F#4+A4@8>12
-  Part8    : B1@1>1 F#1@7>1 B1@10>1
-@122 [Em | G]
-  ACCORDION: G4+B4+E5@1>1 G4+B4+E5@4>1 G4+B4+E5@7>1 G4+B4+E5@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+Eb4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : B3@1>5 G4@7>6
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : B4@1>6 G5@6>7
-  Part7    : D4+F#4@8>12
-  Part8    : E1@1>1 B1@7>1
-@123 [Em]
-  ACCORDION: G4+B4+E5@1>1 G4+B4+E5@4>1 G4+B4+E5@7>1 G4+B4+E5@10>1
-  Part2    : E1@1>3 B1@7>2 E1@10>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>5 E4@7>2 B3@10>3
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : G5@1>5 E5@7>4 B4@10>2 A4@12>1
-  Part7    : D4+F#4+B4@8>12
-  Part8    : E1@1>1 B1@7>1 E1@10>1
-@124 [A | Gbm7]
-  ACCORDION: A4+C#5+E5@1>1 A4+C#5+E5@4>1 A4+C#5+E5@7>1 A4+C#5+E5@10>1
-  Part2    : A1@1>3 A2@7>4
-  Part3    : G3+B3@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+A4@10>3 A3+C#4@12>1
-  Part4    : A3@1>5 G4@7>6
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+A4@10>1
-  Part6    : A4@1>5 G5@7>6
-  Part7    : D4+F#4+B4@8>12
-  Part8    : A1@1>1 A2@7>1
-@125 [A7 | Em7] (grid:24t)
-  ACCORDION: A4+C#5+E5@1>2 E4+C#5@7>6 F#4+D5@13>6 G4+E5@19>6
-  Part2    : A1@1>3 A1@7>4 B1@13>4 C#2@19>4
-  Part3    : A3+C#4@1>2 A2+B3+G4@7>4 B2+A3+F#4@13>4 C#3+G3+E4@19>4
-  Part4    : G4@1>3 A3@19>4
-  BANJO    : C#4+E4+A4@7>2 C#4+E4+A4@19>2
-  Part6    : A4@4>3 C#4+G4+B4@7>6 C#5@10>3 D4+F#4+D5@13>6 E5@15>3 E4+F#5@17>3 F#4+G5@21>3 G4@23>2
-  Part7    : B3+E4+G4@16>24
-  Part8    : A1@1>2 A1@7>2 B1@13>2 C#2@19>2
-@126 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : F#4@1>2 F#4@4>2 F#4@7>2 E4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : G4+A4+A5@1>12
-  Part8    : D2@1>1 A1@7>1
-@127 [D]
-  ACCORDION: F#4+A4+D5@1>1 F#4+A4+D5@4>1 F#4+A4+D5@7>1 F#4+A4+D5@10>1
-  Part2    : D2@1>3 A1@7>2 D2@10>2
-  Part3    : A3+D4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : E4@1>2 D4@4>2 D4@5>3 C#4@10>2
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : A4+A5@1>12
-  Part7    : B3+E4+G4@8>12
-  Part8    : D2@1>1 A1@7>1 D2@10>1
-@128 [Bm] (grid:16)
-  ACCORDION: F#4+B4+D5@1>1 F#4+B4+D5@5>1 F#4+B4+D5@9>1 F#4+B4+D5@13>1
-  Part2    : B1@1>4 F#1@9>5
-  Part3    : A3+D4@1>1 B3+D4+F#4+B4@5>4 B3+D4@8>3 B3+D4+F#4+B4@13>4 B3+D4@16>1
-  Part4    : C#4@1>3 B3@5>3 B3@9>3 C#4@13>2 D4@15>2
-  BANJO    : D4+F#4+B4@5>1 D4+F#4+B4@13>1
-  Part6    : B4+B5@1>16
-  Part7    : C#4+A4@9>1 C#4+E4+A4@10>16
-  Part8    : B1@1>1 F#1@9>1
-@129 [Bm]
-  ACCORDION: F#4+B4+D5@1>1 F#4+B4+D5@4>1 F#4+B4+D5@7>1 F#4+B4+D5@10>1
-  Part2    : B1@1>3 F#1@7>2 F1@10>2
-  Part3    : B3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  Part4    : D4@1>5 B3@10>3
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part6    : D4+D5@1>7 F#4+F#5@7>6
-  Part7    : C#4+E4+A4@7>12
-  Part8    : B1@1>1 F#1@7>1 F1@10>1
-@130 [Em]
-  ACCORDION: G4+B4+D5@1>1 G4+B4+D5@4>1 G4+B4+D5@7>1 G4+B4+D5@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+D4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : G4@1>2 G4@4>2 G4@7>2 F#4@10>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E4+B5@1>12
-  Part7    : C#4+F#4+A4@7>12
-  Part8    : E1@1>1 B1@7>1
-@131 [Em]
-  ACCORDION: G4+B4+D5@1>1 G4+B4+D5@4>1 G4+B4+D5@7>1 G4+B4+D5@10>1
-  Part2    : E1@1>3 B1@7>2 Bb1@10>2
-  Part3    : G3+B3@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : F#4@1>2 E4@4>2 E4@5>3 D4@10>2
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : E4+B5@1>12
-  Part8    : E1@1>1 B1@7>1 Bb1@10>1
-@132 [A]
-  ACCORDION: E4+A4+C#5@1>1 E4+A4+C#5@4>1 E4+A4+C#5@7>1 E4+A4+C#5@10>1
-  Part2    : A1@1>3 E2@7>4
-  Part3    : G3+B3@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+A4@10>3 A3+C#4@12>1
-  Part4    : D4@1>2 C#4@4>2 C#4@7>2 D4@10>1 E4@12>1
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+A4@10>1
-  Part6    : C#4+C#5@1>12
-  Part7    : C#4+F#4+A4@7>12
-  Part8    : A1@1>1 E2@7>1
-@133 [A7 | Baug]
-  ACCORDION: E4+A4+C#5@1>1 E4+A4+C#5@4>1 E4+A4+C#5@7>1 E4+A4+C#5@10>1
-  Part2    : A1@1>3 A1@7>2 G1@10>2
-  Part3    : A3+C#4@1>1 A3+C#4+E4+A4@4>3 A3+C#4@6>2 A3+C#4+E4+G4@10>3 A3+C#4@12>1
-  Part4    : E4@1>5 A3@10>3
-  BANJO    : C#4+E4+A4@4>1 C#4+E4+G4@10>2
-  Part6    : G4+G5@1>6 B4+B5@7>6
-  Part7    : B3+Eb4+A4@7>12
-  Part8    : A1@1>1 A1@7>1 G1@10>1
-@134 [Gbm]
-  ACCORDION: A4+C#5+F#5@1>1 A4+C#5+F#5@4>1 A4+C#5+F#5@7>1 A4+C#5+F#5@10>1
-  Part2    : F#1@1>3 C#2@7>4
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@4>3 A3+C#4@6>2 A3+C#4+F#4+A4@10>3 A3+C#4@12>1
-  Part4    : A4@1>2 A4@4>2 A4@7>2 G4@10>2
-  BANJO    : C#4+F#4+A4@4>1 C#4+F#4+A4@10>1
-  Part6    : A4+A5@1>12
-  Part7    : B3+Eb4+A4@7>11
-  Part8    : F#1@1>1 C#2@7>1
-@135 [Gbm7] (grid:16)
-  ACCORDION: A4+C#5+F#5@1>1 A4+C#5+F#5@5>1 A4+C#5+F#5@9>1 A4+C#5+F#5@13>1
-  Part2    : F#1@1>4 C#2@9>3 F#1@13>3
-  Part3    : A3+C#4@1>1 A3+C#4+F#4+A4@5>4 A3+C#4@8>3 A3+C#4+F#4+A4@13>4 A3+C#4@16>1
-  Part4    : G4@1>3 F#4@5>3 F#4@9>3 E4@13>3
-  BANJO    : C#4+F#4+A4@5>1 C#4+F#4+A4@13>1
-  Part6    : A4+A5@1>16
-  Part7    : E4+G4+B4@9>1 E4+G4+B4@10>16
-  Part8    : F#1@1>1 C#2@9>1 F#1@13>1
-@136 [Ebdim]
-  ACCORDION: F#4+B4+E5@1>1 F#4+B4+E5@4>1 F#4+B4+E5@7>1 F#4+B4+E5@10>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+C#4@1>1 B3+Eb4+F#4+A4@4>3 B3+Eb4@6>2 B3+Eb4+F#4+A4@10>3 B3+Eb4@12>1
-  Part4    : E4@1>2 Eb4@4>2 Eb4@7>2 E4@10>2 F#4@11>2
-  BANJO    : Eb4+F#4+A4@4>1 Eb4+F#4+A4@10>1
-  Part6    : A4+A5@1>12
-  Part7    : E4+G4+B4@7>10
-  Part8    : B1@1>1 F#1@7>1
-@137 [Gaug | Ebm7]
-  ACCORDION: F#4+B4+Eb5@1>1 F#4+B4+Eb5@4>1 F#4+B4+Eb5@7>1 F#4+B4+Eb5@10>1
-  Part2    : B1@1>3 F#1@7>2 B1@10>2
-  Part3    : B3+Eb4@1>1 B3+Eb4+F#4+A4@4>3 B3+Eb4@6>2 B3+Eb4+F#4+A4@10>3 B3+Eb4@12>1
-  Part4    : F#4@1>3 G4@7>2 F#4@10>3
-  BANJO    : Eb4+F#4+A4@4>1 Eb4+F#4+A4@10>1
-  Part6    : G4+G5@1>7 F#4+F#5@7>6
-  Part7    : C#4+E4+A4@7>12
-  Part8    : B1@1>1 F#1@7>1 B1@10>1
-@138 [Em]
-  ACCORDION: G4+B4+E5@1>1 G4+B4+E5@4>1 G4+B4+E5@7>1 G4+B4+E5@10>1
-  Part2    : E1@1>3 B1@7>4
-  Part3    : B3+Eb4@1>1 G3+B3+E4+G4@4>3 G3+B3@6>2 G3+B3+E4+G4@10>3 G3+B3@12>1
-  Part4    : B3@1>5 G4@7>6
-  BANJO    : E4+G4+B4@4>1 E4+G4+B4@10>1
-  Part6    : B3+B4@1>6 G4+G5@6>7
-  Part7    : C#4+E4+A4@7>2 E4+G4@10>3
-  Part8    : E1@1>1 B1@7>1
-@139 [Dbdim | A] (grid:24t)
-  ACCORDION: A4+C#5+E5@1>2 A4+C#5+E5@7>2 A4+C#5+E5@13>2 A4+C#5+E5@19>2 F#4+G4@22>2 G#4+A4+F#5@23>2
-  Part2    : A1@1>6 E1@13>4 A1@19>4
-  Part3    : G3+B3@1>2 A3+C#4+E4+A4@7>6 A3+C#4@11>4 A3+C#4+E4+A4@19>6 A3+C#4@23>2
-  Part4    : G4@1>10 E4@13>4 C#4@19>6
-  BANJO    : C#4+E4+A4@7>2 C#4+E4+A4@19>2
-  Part6    : G4+G5@1>10 E4+E5@13>6 C#4+C#5@19>4
-  Part7    : D4+F#4@2>6 C#4+E4@6>6 D4+F#4+A4@14>24
-  Part8    : A1@1>2 E1@13>2 A1@19>2
-@140 [D]
-  ACCORDION: A4+F#5@4>1 A4+F#5@7>3 G4+E5@10>1
-  Part2    : D2@1>3 A1@7>4
-  Part3    : A3+C#4@1>1 A3+D4+F#4+A4@4>3 A3+D4@6>2 A3+D4+F#4+A4@10>3 A3+D4@12>1
-  Part4    : D4@1>5
-  BANJO    : D4+F#4+A4@4>1 D4+F#4+A4@10>1
-  Part6    : D4+D5@1>12
-  Part7    : D4+F#4+A4@7>12
-  Part8    : D2@1>1
-@141 [Bm]
-  ACCORDION: G4+E5@1>3 F#4+D5@4>1 F#4+D5@5>7 Bb4+F5@12>1
-  Part2    : B1@1>3 F#1@7>4
-  Part3    : A3+D4@1>1 B3+D4+F#4+B4@4>3 B3+D4@6>2 B3+D4+F#4+B4@10>3 B3+D4@12>1
-  BANJO    : D4+F#4+B4@4>1 D4+F#4+B4@10>1
-  Part6    : D4+D5@1>12
-  Part7    : D4+F#4+B4@7>12
-@142 [Fm]
-  ACCORDION: Bb4+G5@1>1 Bb4+G5@4>1 Bb4+G5@7>3 C5+G#5@10>2 G#4+F5@11>2
-  Part2    : F1@1>3 C2@7>4
-  Part3    : B3+D4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part7    : D4+F#4+B4@7>12
-@143 [Bb7 | Bdim7] (grid:4)
-  ACCORDION: G#4+F5@1>4
-  Part2    : Bb1@1>1 Bb1@2>1 C2@3>1 D2@4>1
-  Part3    : Bb2+Bb3+D4@1>1 C3+C4+Eb4@2>1 C#3+C#4+E4@3>1 D3+D4+F4@4>1
-  Part4    : Bb3@4>1
-  BANJO    : D4+F4+Bb4@2>1 D4+F4+Bb4@4>1
-  Part7    : E4+F#4+G4+B4@3>8
-@144 [Eb]
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@4>1 G4+Bb4+Eb5@7>1 G4+Bb4+Eb5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : Eb4@1>2 Eb4@4>2 Eb4@7>2 Eb4@10>2
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : Eb5@1>12
-@145 [Eb]
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@4>1 G4+Bb4+Eb5@7>1 G4+Bb4+Eb5@10>3
-  Part2    : Eb2@1>3 Bb1@7>2 Eb2@10>2
-  Part3    : Bb3+Eb4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : F4@1>2 Eb4@4>5 Eb4@10>2
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : Eb5@1>3 F5@4>3 G5@7>3 G#5@10>3
-  Part7    : E4+G4@7>36
-@146 [Gm]
-  ACCORDION: G4+Bb4+D5@1>1 G4+Bb4+D5@4>1 G4+Bb4+D5@7>1 G4+Bb4+D5@10>1
-  Part2    : G2@1>3 D2@7>4
-  Part3    : Bb3+Eb4@1>1 Bb3+D4+G4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+G4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : D4@1>2 D4@4>2 D4@7>2 Eb4@10>1 D4@12>1
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : Bb5@1>12
-  Part7    : A4+C#5@7>1
-@147 [Gm]
-  ACCORDION: G4+Bb4+D5@1>1 G4+Bb4+D5@4>1 G4+Bb4+D5@7>1 G4+Bb4+D5@10>3
-  Part2    : G2@1>3 D2@7>4
-  Part3    : Bb3+D4@1>1 Bb3+D4+G4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+G4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : D4@1>9 D4@10>2
-  BANJO    : G4+Bb4+D5@4>1 G4+Bb4+D5@10>1
-  Part6    : G5+Bb5@1>7 Bb4+D5@6>6
-@148 [Gm7 | Bbm]
-  ACCORDION: F4+Bb4+C#5@1>1 F4+Bb4+C#5@4>1 F4+Bb4+C#5@7>1 F4+Bb4+C#5@10>1
-  Part2    : Bb1@1>3 F2@7>4
-  Part3    : Bb3+D4@1>1 Bb3+C#4+F4+Bb4@4>3 Bb3+C#4@6>2 Bb3+C#4+F4+Bb4@10>3 Bb3+C#4@12>1
-  Part4    : C#4@1>2 C#4@4>2 C#4@7>2 C#4@10>2
-  BANJO    : G4+Bb4+C#5@4>1 G4+Bb4+C#5@10>1
-  Part6    : G4+C#5@1>7 Bb4+F5@7>6
-  Part7    : A4+C#5@7>12
-@149 [C7]
-  ACCORDION: E4+G4+C5@1>1 E4+G4+C5@4>1 E4+G4+C5@7>1 E4+G4+C5@10>1
-  Part2    : C2@1>3 G2@7>4
-  Part3    : Bb3+C#4@1>1 G3+C4+E4+G4@4>3 G3+C4@6>2 G3+C4+E4+G4@10>3 G3+C4@12>1
-  Part4    : C4@1>1 C4@3>3 E4@9>2 G4@12>1
-  BANJO    : E4+G4+C5@4>1 E4+G4+C5@10>1
-  Part6    : G4+E5@1>12 Bb4@7>6 G#4@12>1
-  Part7    : A4+C#5@7>12
-@150 [Fm]
-  ACCORDION: F4+G#4+C5@1>1 F4+G#4+C5@4>1 F4+G#4+C5@7>1 F4+G#4+C5@10>1
-  Part2    : F2@1>3 C2@7>4
-  Part3    : G3+C4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : G4@1>2 F4@4>2 F4@7>1 G4@9>2 G#4@12>1
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : G#4+F5@1>12
-  Part7    : F#4+A4+C#5@7>12
-@151 [Fm]
-  ACCORDION: F4+G#4+C5@1>1 F4+G#4+C5@4>1 F4+G#4+C5@7>1 F4+G#4+C5@10>1
-  Part2    : F2@1>3 C2@7>2 F2@10>2
-  Part3    : G#3+C4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 C4+F4@9>1 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : G#4@1>4 C4@10>2
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : F5@1>3 G#4+Eb5@4>3 G4+D5@7>3 F4+C5@10>3
-  Part7    : F#4+A4+C#5@7>12
-@152 [Abm7]
-  ACCORDION: Eb4+G#4+B4@1>1 Eb4+G#4+B4@4>1 Eb4+G#4+B4@7>1 Eb4+G#4+B4@10>1
-  Part2    : G#1@1>3 Eb2@7>4
-  Part3    : G#3+C4@1>1 G#3+B3+Eb4+G#4@4>3 G#3+B3@6>2 G#3+B3+Eb4+G#4@10>3 G#3+B3@12>1
-  Part4    : Eb4@1>2 Eb4@4>3 Eb4@7>2 Eb4@10>1 F4@12>1
-  BANJO    : Eb4+G#4+B4@4>1 Eb4+G#4+B4@10>1
-  Part6    : Eb4+B4@1>12
-  Part7    : F#4+A4+Eb5@7>12
-@153 [Abm]
-  ACCORDION: Eb4+G#4+B4@1>1 Eb4+G#4+B4@4>1 Eb4+G#4+B4@7>1 Eb4+G#4+B4@10>1
-  Part2    : G#2@1>3 Eb2@7>2 G#2@10>2
-  Part3    : G#3+B3@1>1 G#3+B3+Eb4+G#4@4>3 G#3+B3@6>2 G#3+B3+Eb4+G#4@10>3 G#3+B3@12>1
-  Part4    : F4@1>1 Eb4@3>5 F4@10>2
-  BANJO    : Eb4+G#4+B4@4>1 Eb4+G#4+B4@10>1
-  Part6    : Eb4+B4@1>12 Eb5@7>6
-  Part7    : F#4+A4+Eb5@7>12
-@154 [Eb] (grid:16)
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@5>1 G4+Bb4+Eb5@9>1 G4+Bb4+Eb5@13>4
-  Part2    : Eb2@1>4 D2@9>5
-  Part3    : G#3+B3@1>1 Bb3+Eb4+G4+Bb4@5>4 Bb3+Eb4@8>3 Bb3+Eb4+G4+Bb4@13>4 Bb3+Eb4@16>1
-  Part4    : G4@1>3 G4@5>3 G4@9>3 F4@13>1 E4@16>1
-  BANJO    : Eb4+G4+Bb4@5>1 Eb4+G4+Bb4@13>1
-  Part6    : Eb4+G4+Bb4@1>16
-  Part7    : E4+G4+B4@9>1 E4+G4+B4@10>16
-@155 [C]
-  ACCORDION: C5+E5@1>1 G4+C5+E5@4>1 G4+C5+E5@7>1 G4+C5+E5@10>1
-  Part2    : C2@1>3 G2@7>4
-  Part3    : Bb3+Eb4@1>1 G3+C4+E4+G4@4>3 G3+C4@6>2 G3+C4+E4+G4@10>3 G3+C4@12>1
-  Part4    : E4@1>5 G4@10>2
-  BANJO    : E4+G4+C5@4>1 E4+G4+C5@10>1
-  Part6    : E4+Bb4@1>12 E5@4>3 F5@7>3 G5@10>3
-  Part7    : E4+A4+C#5@7>12
-@156 [Eb | Ebm]
-  ACCORDION: C4+G4+Bb4@1>1 C4+G4+Bb4@4>1 C4+G4+Bb4@7>1 C4+G4+Bb4@10>1
-  Part2    : F2@1>3 C2@7>4
-  Part3    : G3+C4@1>1 F3+Bb3+C4+Eb4@4>3 F3+Bb3@6>2 F3+Bb3+C4+Eb4@10>3 F3+Bb3@12>1
-  Part4    : G4@1>2 F4@4>2 F4@7>2 C4@10>1 G4@12>1
-  BANJO    : C4+Eb4+Bb4@4>1 C4+Eb4+Bb4@10>1
-  Part6    : Bb4+Eb5@1>12 A4@12>1
-  Part7    : F#3+A3+D4@7>12
-@157 [F7]
-  ACCORDION: C4+F4+A4@1>1 C4+F4+A4@4>1 C4+F4+A4@7>1 C4+F4+A4@10>1
-  Part2    : F2@1>3 C2@7>4
-  Part3    : F3+Bb3@1>1 C4+F4+A4+C5@4>3 C4+F4@6>2 F4+A4@9>1 C4+F4+A4+C5@10>3 C4+F4@12>1
-  Part4    : G4@1>1 F4@3>7 G4@10>2
-  BANJO    : C4+Eb4+A4@4>1 C4+Eb4+A4@10>1
-  Part6    : A4+Eb5@1>12
-@158 [Eb | Ebm]
-  ACCORDION: Eb4+F4+Bb4@1>1 Eb4+F4+Bb4@4>1 Eb4+F4+Bb4@7>1 Eb4+F4+Bb4@10>1
-  Part2    : Bb1@1>3 F2@7>4
-  Part3    : C4+F4@1>1 Bb3+Eb4+F4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+F4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : G4@1>2 G4@4>2 G4@7>2 G#4@10>1 F4@12>1
-  BANJO    : Eb4+F4+Bb4@4>1 Eb4+F4+Bb4@10>1
-  Part6    : G#4+Eb5@1>12
-  Part7    : F#3+A3+B3+D4@7>12
-@159 [Bb7]
-  ACCORDION: D4+F4+Bb4@1>1 F4+D5@4>3 G4+Eb5@7>3 G#4+F5@10>3
-  Part2    : Bb1@1>2 Bb1@4>2 C2@7>2 D2@10>2
-  Part3    : Bb3+Eb4@1>1 Bb3+D4+F4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+F4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : F4@1>6 Bb3@10>3
-  BANJO    : D4+F4+Bb4@4>1 D4+F4+Bb4@10>2
-  Part6    : G#4+D5@1>12 G4@7>3 F4@10>3
-  Part7    : G#3+C4+F4@7>12
-@160 [Eb]
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@4>1 G4+Bb4+Eb5@7>1 G4+Bb4+Eb5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+D4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : Eb4@1>1 Eb4@4>1 Eb4@7>1 Eb4@10>2
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : G4+Eb5@1>12
-  Part7    : Bb4+D5@7>3 C5+Eb5@10>3
-@161 [Eb]
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@4>1 G4+Bb4+Eb5@7>1 G4+Bb4+Eb5@10>3
-  Part2    : Eb2@1>3 Bb1@7>2 Eb2@10>2
-  Part3    : Bb3+Eb4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : F4@1>2 Eb4@4>2 Eb4@5>3 Eb4@10>2
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : G4+Eb5@1>3 Bb4+F5@4>3 Eb5+G5@7>6 G#5@10>3
-  Part7    : C#5+E5@1>3 D5+F5@4>3 G3+Bb3+Eb4@7>12
-@162 [Gm]
-  ACCORDION: G4+Bb4+D5@1>1 G4+Bb4+D5@4>1 G4+Bb4+D5@7>1 G4+Bb4+D5@10>1
-  Part2    : G2@1>3 D2@7>4
-  Part3    : Bb3+Eb4@1>1 Bb3+D4+G4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+G4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : D4@1>1 D4@4>1 D4@7>1 Eb4@10>2 D4@11>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : D5+Bb5@1>12
-  Part7    : G3+Bb3+Eb4@7>12
-@163 [Gm]
-  ACCORDION: G4+Bb4+D5@1>1 G4+Bb4+D5@4>1 G4+Bb4+D5@7>1 G4+Bb4+D5@10>3
-  Part2    : G1@1>3 D2@7>2 G1@10>2
-  Part3    : Bb3+D4@1>1 Bb3+D4+G4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+G4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : D4@1>5 D4@10>3
-  BANJO    : G4+Bb4+D5@4>1 G4+Bb4+D5@10>1
-  Part6    : D5+G5+Bb5@1>7 D5@7>6
-  Part7    : G3+Bb3+D4+Eb4@7>12
-@164 [Bbm]
-  ACCORDION: F4+Bb4+C#5@1>1 F4+Bb4+C#5@4>1 F4+Bb4+C#5@7>1 F4+Bb4+C#5@10>1
-  Part2    : Bb1@1>3 F2@7>4
-  Part3    : Bb3+D4@1>1 Bb3+C#4+F4+Bb4@4>3 Bb3+C#4@6>2 Bb3+C#4+F4+Bb4@10>3 Bb3+C#4@12>1
-  Part4    : C#4@1>1 C#4@4>1 C#4@7>1 C#4@10>2 C4@11>2
-  BANJO    : F4+Bb4+C#5@4>1 F4+Bb4+C#5@10>1
-  Part6    : C#5@1>12 F5@7>6
-  Part7    : G3+Bb3+D4@7>12
-@165 [C]
-  ACCORDION: E4+G4+C5@1>1 E4+G4+C5@4>1 E4+G4+C5@7>1 E4+G4+C5@10>1
-  Part2    : C2@1>3 G2@7>2 C2@10>2
-  Part3    : Bb3+C#4@1>1 G3+C4+E4+G4@4>3 G3+C4@6>2 G3+C4+E4+G4@10>3 G3+C4@12>1
-  Part4    : C4@3>2 E4@7>2 G4@10>2
-  BANJO    : E4+G4+C5@4>1 E4+G4+C5@10>1
-  Part6    : C5+E5@1>12
-  Part7    : Bb3+C#4+F4@7>12
-@166 [Fm]
-  ACCORDION: F4+G#4+C5@1>1 F4+G#4+C5@4>1 F4+G#4+C5@7>1 F4+G#4+C5@10>1
-  Part2    : F2@1>3 C2@7>4
-  Part3    : G3+C4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : G4@1>2 F4@4>2 F4@7>1 G4@9>2 G#4@11>2
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : G#4+F5@1>12
-  Part7    : G3+C4+E4@6>1
-@167 [Fm] (grid:16)
-  ACCORDION: F4+G#4+C5@1>1 F4+G#4+C5@5>1 F4+G#4+C5@9>1 F4+G#4+C5@13>1
-  Part2    : F2@1>4 C2@9>3 F2@13>3
-  Part3    : G#3+C4@1>1 G#3+C4+F4+G#4@5>4 G#3+C4@8>2 C4+F4@12>1 G#3+C4+F4+G#4@13>4 G#3+C4@16>1
-  Part4    : G#4@1>1 C4@13>4
-  BANJO    : F4+G#4+C5@5>1 F4+G#4+C5@13>1
-  Part6    : G#4+F5@1>4 Bb4+G5@4>5 C5@8>8 G#5@9>4 Bb5@13>4 Eb5@16>1
-  Part7    : G3+C4+E4@8>16
-@168 [Abm]
-  ACCORDION: Eb4+G#4+B4@1>1 Eb4+G#4+B4@4>1 Eb4+G#4+B4@7>1 Eb4+G#4+B4@10>1
-  Part2    : G#1@1>3 Eb2@7>4
-  Part3    : G#3+C4@1>1 G#3+B3+Eb4+G#4@4>3 G#3+B3@6>2 G#3+B3+Eb4+G#4@10>3 G#3+B3@12>1
-  Part4    : Eb4@1>1 Eb4@4>1 Eb4@7>1 Eb4@10>1 F4@11>2
-  BANJO    : Eb4+G#4+B4@4>1 Eb4+G#4+B4@10>1
-  Part6    : Eb5+G#5@1>12
-  Part7    : G#3+C4+F4@6>12
-@169 [Abm]
-  ACCORDION: Eb4+G#4+B4@1>1 Eb4+G#4+B4@4>1 Eb4+G#4+B4@7>1 Eb4+G#4+B4@10>1
-  Part2    : G#1@1>3 Eb2@7>2 G#1@10>2
-  Part3    : G#3+B3@1>1 G#3+B3+Eb4+G#4@4>3 G#3+B3@6>2 G#3+B3+Eb4+G#4@10>3 G#3+B3@12>1
-  Part4    : Eb4@3>2 F4@10>2
-  BANJO    : Eb4+G#4+B4@4>1 Eb4+G#4+B4@10>1
-  Part6    : Eb5+G#5@1>12
-  Part7    : G#3+C4+F4@6>12
-@170 [Eb | Ebaug]
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@4>1 G4+Bb4+Eb5@7>1 G4+Bb4+Eb5@10>3
-  Part2    : Eb2@1>3 B1@7>4
-  Part3    : G#3+B3@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Eb4+G4+B4@10>3 Eb4@12>1
-  Part4    : G4@1>5 G4@7>5
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+B4@10>1
-  Part6    : Eb5+G5@1>12
-  Part7    : G#3+B3+Eb4@6>12
-@171 [Cm | Eb]
-  ACCORDION: C5@1>1 G4+C5+Eb5@4>1 G4+C5+Eb5@7>1 G4+Bb4+Eb5@10>1
-  Part2    : C2@1>3 Bb1@7>4
-  Part3    : Eb4@1>1 G3+C4+Eb4+G4@4>3 C4+Eb4@6>2 G3+C4+Eb4+G4@10>3
-  Part4    : G4@1>7 G4@10>2
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+Bb4@10>1
-  Part6    : Eb5+G5@1>12
-@172 [F7]
-  ACCORDION: Bb4+Eb5+F5@1>12
-  Part2    : A1@1>11
-  Part3    : C3+F3+A3+C4+Eb4@1>9
-  Part4    : G4@1>2 F4@4>2 F4@7>2 C4@10>2
-  Part6    : A4+F5@1>12
-  Part7    : G#3+B3+Eb4@6>12
-@173 [F7] (grid:16)
-  ACCORDION: A4+Eb5+F5@1>16
-  Part2    : A1@1>15
-  Part3    : C3+F3+A3+C4@1>14 Eb4@2>13
-  Part4    : G4@1>3 F4@5>3 F4@9>3 C4@13>4
-  Part6    : A4+F5@1>16 Bb4@16>1
-  Part7    : G3+Bb3+Eb4@8>16
-@174 [Eb] (grid:16)
-  ACCORDION: F4+Bb4+Eb5@1>16
-  Part2    : Bb1@1>7 Bb1@9>7
-  Part3    : Eb3+F3+Bb3+Eb4@1>7 Eb3+F3+Bb3@9>7 Eb4@10>7
-  Part4    : G4@1>3 G4@5>3 G4@9>3 G#4@13>2 F4@15>2
-  Part6    : Bb4+Eb5@1>16
-  Part7    : G3+C4+E4@8>16
-@175 [Bb | Ab7] (grid:4)
-  ACCORDION: F4+Bb4+D5@1>1 F4+D5@2>1 G4+Eb5@3>1 G#4+F5@4>1
-  Part2    : Bb1@1>1 Bb1@2>1 C2@3>1 D2@4>1
-  Part3    : D3+F3+Bb3+D4@1>1 Bb2+Bb3+D4+F4@2>1 C3+C4+Eb4+G4@3>1 D3+D4+F4+G#4@4>1
-  Part4    : F4@1>1 Bb3@3>1 Bb3@4>1
-  BANJO    : D4+F4+Bb4@2>1 D4+F4+Bb4@4>1
-  Part6    : Bb4+D5@1>1 Bb4+D5@2>1 C5+Eb5@3>1 D5+F5@4>1
-  Part7    : C4+Eb4+Bb4@3>4
-  Part8    : Bb1@2>1 C2@3>1 D2@4>1
-@176 [Eb]
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@4>1 G4+Bb4+Eb5@7>1 G4+Bb4+Eb5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : G4@1>2 G4@4>2 G4@7>2 F4@10>1 F4@11>2
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : Bb4+D5+F5+Bb5@1>12
-  Part7    : C4+Eb4+A4@6>12
-  Part8    : Eb2@1>1 Bb1@7>1
-@177 [Eb]
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@4>1 G4+Bb4+Eb5@7>1 G4+Bb4+Eb5@10>1
-  Part2    : Eb2@1>3 Bb1@7>2 Eb2@10>2
-  Part3    : Bb3+Eb4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : F4@1>1 Eb4@3>4 Eb4@7>2 D4@10>2
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : Bb4+Bb5@1>12
-  Part7    : Bb3+Eb4+G#4@6>12
-  Part8    : Eb2@1>1 Bb1@7>1 Eb2@10>1
-@178 [Cm]
-  ACCORDION: G4+C5+Eb5@1>1 G4+C5+Eb5@4>1 G4+C5+Eb5@7>1 G4+C5+Eb5@10>1
-  Part2    : C2@1>3 G1@7>4
-  Part3    : Bb3+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : D4@1>2 C4@4>2 C4@7>2 D4@10>2 Eb4@11>2
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : C5+C6@1>12
-  Part7    : Bb3+D4+G#4@6>12
-  Part8    : C2@1>1 G1@7>1
-@179 [Cm]
-  ACCORDION: G4+C5+Eb5@1>1 G4+C5+Eb5@4>1 G4+C5+Eb5@7>1 G4+C5+Eb5@10>1
-  Part2    : C2@1>3 G1@7>2 F#1@10>2
-  Part3    : C4+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : Eb4@1>5 C4@10>3
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : Eb5@1>6 G5@7>6
-  Part7    : Bb3+D4+Eb4+G4@6>12
-  Part8    : C2@1>1 G1@7>1 F#1@10>1
-@180 [Fm7]
-  ACCORDION: G#4+C5+Eb5@1>1 G#4+C5+Eb5@4>1 G#4+C5+Eb5@7>1 G#4+C5+Eb5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+Eb4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : G#4@1>2 G#4@4>2 G#4@7>2 G4@10>1 G4@11>2
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : F5@1>12
-  Part7    : Eb4+G4@6>12
-  Part8    : F1@1>1 C2@7>1
-@181 [Fm]
-  ACCORDION: G#4+C5+Eb5@1>1 G#4+C5+Eb5@4>1 G#4+C5+Eb5@7>1 G#4+C5+Eb5@10>1
-  Part2    : F1@1>3 C2@7>2 B1@10>2
-  Part3    : G#3+C4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : G4@1>1 F4@3>4 F4@7>2 Eb4@10>2
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : F5@1>12
-  Part7    : D4+Eb4+G4@6>12
-  Part8    : F1@1>1 C2@7>1 B1@10>1
-@182 [Bb]
-  ACCORDION: F4+Bb4+D5@1>1 F4+Bb4+D5@4>1 F4+Bb4+D5@7>1 F4+Bb4+D5@10>1
-  Part2    : Bb1@1>3 F2@7>4
-  Part3    : G#3+C4@1>1 Bb3+D4+F4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+F4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : Eb4@1>2 D4@4>2 D4@7>2 Eb4@10>1 F4@12>1
-  BANJO    : D4+F4+Bb4@4>1 D4+F4+Bb4@10>1
-  Part6    : F5@1>12
-  Part7    : D4+G4@6>2 G5+Bb5@9>3 D5+G5@12>3
-  Part8    : Bb1@1>1 F2@7>1
-@183 [Bb]
-  ACCORDION: F4+Bb4+D5@1>1 F4+Bb4+D5@4>1 F4+Bb4+D5@7>1 F4+Bb4+D5@10>1
-  Part2    : Bb1@1>3 Bb1@7>2 G#1@10>2
-  Part3    : Bb3+D4@1>1 Bb3+D4+F4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+F4+G#4@10>3 Bb3+D4@12>1
-  Part4    : F4@1>5 Bb3@10>3
-  BANJO    : D4+F4+Bb4@4>1 D4+F4+G#4@10>2
-  Part6    : G#5@1>6 C6@7>6
-  Part7    : Bb4+D5@3>2 F4+Bb4+C#5@6>12
-  Part8    : Bb1@1>1 Bb1@7>1 G#1@10>1
-@184 [Gm]
-  ACCORDION: Bb4+D5+G5@1>1 Bb4+D5+G5@4>1 Bb4+D5+G5@7>1 Bb4+D5+G5@10>1
-  Part2    : G1@1>3 D2@7>4
-  Part3    : Bb3+D4@1>1 Bb3+D4+G4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+G4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : Bb4@1>2 Bb4@4>2 Bb4@7>2 G#4@10>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : Bb5@1>12
-  Part7    : E4+G4+C5@5>1 E4+G4+C5@6>12
-  Part8    : G1@1>1 D2@7>1
-@185 [Gm7]
-  ACCORDION: Bb4+D5+G5@1>1 Bb4+D5+G5@4>1 Bb4+D5+G5@7>1 Bb4+D5+G5@10>1
-  Part2    : G1@1>3 D2@7>2 G1@10>2
-  Part3    : Bb3+D4@1>1 Bb3+D4+G4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+G4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : G#4@1>2 G4@4>2 G4@7>2 F4@10>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : Bb5@1>12
-  Part7    : F4+G#4+C5@6>23
-  Part8    : G1@1>1 D2@7>1 G1@10>1
-@186 [Edim] (grid:8)
-  ACCORDION: G4+C5+F5@1>1 G4+C5+F5@3>1 G4+C5+F5@5>1 G4+C5+F5@7>1
-  Part2    : C2@1>2 G1@5>2
-  Part3    : Bb3+D4@1>1 C4+E4+G4+Bb4@3>2 C4+E4@4>1 C4+E4+G4+Bb4@7>2 C4+E4@8>1
-  Part4    : F4@1>2 E4@3>2 E4@5>1 F4@6>2 G4@8>1
-  BANJO    : E4+G4+Bb4@3>1 E4+G4+Bb4@7>1
-  Part6    : Bb5@1>8
-  Part8    : C2@1>1 G1@5>1
-@187 [Caug | C]
-  ACCORDION: G4+C5+E5@1>1 G4+C5+E5@4>1 G4+C5+E5@7>1 G4+C5+E5@10>1
-  Part2    : C2@1>3 G1@7>2 C2@10>2
-  Part3    : C4+E4@1>1 C4+E4+G4+Bb4@4>3 C4+E4@6>2 C4+E4+G4+Bb4@10>3 C4+E4@12>1
-  Part4    : G4@1>2 G#4@7>2 G4@10>3
-  BANJO    : E4+G4+Bb4@4>1 E4+G4+Bb4@10>1
-  Part6    : G#5@1>6 G5@7>6
-  Part7    : F4+G#4@5>12
-  Part8    : C2@1>1 G1@7>1 C2@10>1
-@188 [Fm | Ab]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+E4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : C4@1>5 G#4@7>6
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : C5@1>6 G#5@6>7
-  Part7    : B4@4>1 Eb4+G#4+B4@5>12
-  Part8    : F1@1>1 C2@7>1
-@189 [Fm]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>2 F1@10>2
-  Part3    : G#3+C4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : G#4@1>5 F4@7>2 C4@10>3
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : G#5@1>5 F5@7>4 C5@10>2 Bb4@12>1
-  Part7    : Eb4+G#4+B4@5>12
-  Part8    : F1@1>1 C2@7>1 F1@10>1
-@190 [Bb | Gm7]
-  ACCORDION: Bb4+D5+F5@1>1 Bb4+D5+F5@4>1 Bb4+D5+F5@7>1 Bb4+D5+F5@10>1
-  Part2    : Bb1@1>3 Bb2@7>4
-  Part3    : G#3+C4@1>1 Bb3+D4+F4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+F4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : Bb3@1>5 G#4@7>6
-  BANJO    : D4+F4+Bb4@4>1 D4+F4+Bb4@10>1
-  Part6    : Bb4@1>5 G#5@7>6
-  Part7    : Eb4+G4+G#4+Bb4@5>23 B4@11>6
-  Part8    : Bb1@1>1 Bb2@7>1
-@191 [Bb7 | Eb7] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>2 F4+D5@7>6 G4+Eb5@13>6 G#4+F5@19>6
-  Part2    : Bb1@1>3 Bb1@7>4 C2@13>4 D2@19>4
-  Part3    : Bb3+D4@1>2 Bb2+C4+G#4@7>4 C3+Bb3+G4@13>4 D3+G#3+F4@19>4
-  Part4    : G#4@1>3 Bb3@19>4
-  BANJO    : D4+F4+Bb4@7>2 D4+F4+Bb4@19>2
-  Part6    : Bb4@4>3 D4+G#4+C5@7>6 D5@10>3 Eb4+G4+Eb5@13>6 F5@15>3 F4+G5@17>3 G4+G#5@21>3 G#4@23>2
-  Part8    : Bb1@1>2 Bb1@7>2 C2@13>2 D2@19>2
-@192 [Eb]
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@4>1 G4+Bb4+Eb5@7>1 G4+Bb4+Eb5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : G4@1>2 G4@4>2 G4@7>2 F4@10>2
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : G#4+Bb4+Bb5@1>12
-  Part7    : G4+C5@4>12
-  Part8    : Eb2@1>1 Bb1@7>1
-@193 [Eb] (grid:16)
-  ACCORDION: G4+Bb4+Eb5@1>1 G4+Bb4+Eb5@5>1 G4+Bb4+Eb5@9>1 G4+Bb4+Eb5@13>1
-  Part2    : Eb2@1>4 Bb1@9>3 Eb2@13>3
-  Part3    : Bb3+Eb4@1>1 Bb3+Eb4+G4+Bb4@5>4 Bb3+Eb4@8>3 Bb3+Eb4+G4+Bb4@13>4 Bb3+Eb4@16>1
-  Part4    : F4@1>3 Eb4@5>2 Eb4@7>4 D4@13>3
-  BANJO    : Eb4+G4+Bb4@5>1 Eb4+G4+Bb4@13>1
-  Part6    : Bb4+Bb5@1>16
-  Part7    : F4+A4@4>1 C4+F4+A4@5>16
-  Part8    : Eb2@1>1 Bb1@9>1 Eb2@13>1
-@194 [Cm]
-  ACCORDION: G4+C5+Eb5@1>1 G4+C5+Eb5@4>1 G4+C5+Eb5@7>1 G4+C5+Eb5@10>1
-  Part2    : C2@1>3 G1@7>4
-  Part3    : Bb3+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : D4@1>2 C4@4>2 C4@7>2 D4@10>2 Eb4@11>2
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : C5+C6@1>12
-  Part7    : C4+F4+A4@4>12
-  Part8    : C2@1>1 G1@7>1
-@195 [Cm]
-  ACCORDION: G4+C5+Eb5@1>1 G4+C5+Eb5@4>1 G4+C5+Eb5@7>1 G4+C5+Eb5@10>1
-  Part2    : C2@1>3 G1@7>2 F#1@10>2
-  Part3    : C4+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : Eb4@1>5 C4@10>3
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : Eb4+Eb5@1>7 G4+G5@7>6
-  Part7    : Eb4+F4+Bb4@4>24
-  Part8    : C2@1>1 G1@7>1 F#1@10>1
-@196 [Fm]
-  ACCORDION: G#4+C5+Eb5@1>1 G#4+C5+Eb5@4>1 G#4+C5+Eb5@7>1 G#4+C5+Eb5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+Eb4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : G#4@1>2 G#4@4>2 G#4@7>2 G4@10>2
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : F4+C6@1>12
-  Part8    : F1@1>1 C2@7>1
-@197 [Fm]
-  ACCORDION: G#4+C5+Eb5@1>1 G#4+C5+Eb5@4>1 G#4+C5+Eb5@7>1 G#4+C5+Eb5@10>1
-  Part2    : F1@1>3 C2@7>2 B1@10>2
-  Part3    : G#3+C4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : G4@1>2 F4@4>2 F4@5>3 Eb4@10>2
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : F4+C6@1>12
-  Part7    : D4+Bb4@4>12
-  Part8    : F1@1>1 C2@7>1 B1@10>1
-@198 [Bb]
-  ACCORDION: F4+Bb4+D5@1>1 F4+Bb4+D5@4>1 F4+Bb4+D5@7>1 F4+Bb4+D5@10>1
-  Part2    : Bb1@1>3 F2@7>4
-  Part3    : G#3+C4@1>1 Bb3+D4+F4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+F4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : Eb4@1>2 D4@4>2 D4@7>2 Eb4@10>1 F4@12>1
-  BANJO    : D4+F4+Bb4@4>1 D4+F4+Bb4@10>1
-  Part6    : D4+D5@1>12
-  Part7    : Eb4+G4+Bb4@4>12
-  Part8    : Bb1@1>1 F2@7>1
-@199 [Bb7 | Ab7]
-  ACCORDION: F4+Bb4+D5@1>1 F4+Bb4+D5@4>1 F4+Bb4+D5@7>1 F4+Bb4+D5@10>1
-  Part2    : Bb1@1>3 Bb1@7>2 G#1@10>2
-  Part3    : Bb3+D4@1>1 Bb3+D4+F4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+F4+G#4@10>3 Bb3+D4@12>1
-  Part4    : F4@1>5 Bb3@10>3
-  BANJO    : D4+F4+Bb4@4>1 D4+F4+G#4@10>2
-  Part6    : G#4+G#5@1>6 C5+C6@7>6
-  Part7    : Eb4+G4@4>12
-  Part8    : Bb1@1>1 Bb1@7>1 G#1@10>1
-@200 [Gm]
-  ACCORDION: Bb4+D5+G5@1>1 Bb4+D5+G5@4>1 Bb4+D5+G5@7>1 Bb4+D5+G5@10>1
-  Part2    : G1@1>3 D2@7>4
-  Part3    : Bb3+D4@1>1 Bb3+D4+G4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+G4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : Bb4@1>2 Bb4@4>2 Bb4@7>2 G#4@10>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : Bb4+Bb5@1>12
-  Part7    : Eb4+G4+C5@4>12
-  Part8    : G1@1>1 D2@7>1
-@201 [Gm]
-  ACCORDION: Bb4+D5+G5@1>1 Bb4+D5+G5@4>1 Bb4+D5+G5@7>1 Bb4+D5+G5@10>1
-  Part2    : G1@1>3 D2@7>2 G1@10>2
-  Part3    : Bb3+D4@1>1 Bb3+D4+G4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+G4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : G#4@1>2 G4@4>2 G4@7>2 F4@10>2
-  BANJO    : D4+G4+Bb4@4>1 D4+G4+Bb4@10>1
-  Part6    : Bb4+Bb5@1>12
-  Part7    : Eb4+G4+C5@4>12
-  Part8    : G1@1>1 D2@7>1 G1@10>1
-@202 [Edim]
-  ACCORDION: G4+C5+F5@1>1 G4+C5+F5@4>1 G4+C5+F5@7>1 G4+C5+F5@10>1
-  Part2    : C2@1>3 G1@7>4
-  Part3    : Bb3+D4@1>1 C4+E4+G4+Bb4@4>3 C4+E4@6>2 C4+E4+G4+Bb4@10>3 C4+E4@12>1
-  Part4    : F4@1>2 E4@4>2 E4@7>2 F4@10>2 G4@11>2
-  BANJO    : E4+G4+Bb4@4>1 E4+G4+Bb4@10>1
-  Part6    : Bb4+Bb5@1>12
-  Part7    : C4+F4+G#4@4>12
-  Part8    : C2@1>1 G1@7>1
-@203 [Abaug | C]
-  ACCORDION: G4+C5+E5@1>1 G4+C5+E5@4>1 G4+C5+E5@7>1 G4+C5+E5@10>1
-  Part2    : C2@1>3 G1@7>2 C2@10>2
-  Part3    : C4+E4@1>1 C4+E4+G4+Bb4@4>3 C4+E4@6>2 C4+E4+G4+Bb4@10>3 C4+E4@12>1
-  Part4    : G4@1>3 G#4@7>2 G4@10>3
-  BANJO    : E4+G4+Bb4@4>1 E4+G4+Bb4@10>1
-  Part6    : G#4+G#5@1>7 G4+G5@7>6
-  Part8    : C2@1>1 G1@7>1 C2@10>1
-@204 [Fm]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+E4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : C4@1>5 G#4@7>6
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : C4+C5@1>6 G#4+G#5@6>7
-  Part7    : C4+F4+G#4@4>12
-  Part8    : F1@1>1 C2@7>1
-@205 [Ddim | Bb] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>2 Bb4+D5+F5@7>2 Bb4+D5+F5@13>2 Bb4+D5+F5@19>2 G4+G#4@22>2 A4+Bb4+G5@23>2
-  Part2    : Bb1@1>6 F1@13>4 Bb1@19>4
-  Part3    : G#3+C4@1>2 Bb3+D4+F4+Bb4@7>6 Bb3+D4@11>4 Bb3+D4+F4+Bb4@19>6 Bb3+D4@23>2
-  Part4    : G#4@1>10 F4@13>4 D4@19>6
-  BANJO    : D4+F4+Bb4@7>2 D4+F4+Bb4@19>2
-  Part6    : G#4+G#5@1>10 D4+D5@13>12
-  Part7    : D4+Bb4@5>2 D4+F4+Bb4@6>24
-  Part8    : Bb1@1>2 F1@13>2 Bb1@19>2
-@206 [Eb]
-  ACCORDION: Bb4+G5@4>1 Bb4+G5@7>3 G#4+F5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+D4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : Eb4@1>5
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : D4+Eb4+D5+Eb5@1>12
-  Part7    : D4+F4+Bb4@4>12
-  Part8    : Eb2@1>1 Bb1@7>1
-@207 [Cm7]
-  ACCORDION: G#4+F5@1>3 G4+Eb5@4>1 G4+Eb5@5>7
-  Part2    : C2@1>3 G1@7>2 F#1@10>2
-  Part3    : Bb3+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : G#4@7>2 G4@10>3
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : Eb4+Eb5@1>12
-  Part7    : D4+G4+Bb4@4>12
-  Part8    : C2@1>1 G1@7>1 F#1@10>1
-@208 [Fm]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+Eb4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : C4@1>5 G#4@7>6
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : C4+C5@1>6 G#4+G#5@6>7
-  Part8    : F1@1>1 C2@7>1
-@209 [Ddim | Bb] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>2 Bb4+D5+F5@7>2 Bb4+D5+F5@13>2 Bb4+D5+F5@19>2 G4+G#4@22>2 A4+Bb4+G5@23>2
-  Part2    : Bb1@1>6 F1@13>4 Bb1@19>4
-  Part3    : G#3+C4@1>2 Bb3+D4+F4+Bb4@7>6 Bb3+D4@11>4 Bb3+D4+F4+Bb4@19>6 Bb3+D4@23>2
-  Part4    : G#4@1>10 F4@13>4 D4@19>6
-  BANJO    : D4+F4+Bb4@7>2 D4+F4+Bb4@19>2
-  Part6    : G#4+G#5@1>10 D4+D5@13>12
-  Part7    : D4+G4+Bb4@6>24
-  Part8    : Bb1@1>2 F1@13>2 Bb1@19>2
-@210 [Eb]
-  ACCORDION: Bb4+G5@4>1 Bb4+G5@7>3 G#4+F5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+D4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : Eb4@1>5
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : D4+Eb4+D5+Eb5@1>12
-  Part7    : C4+E4+Bb4@4>12
-  Part8    : Eb2@1>1 Bb1@7>1
-@211 [Cm]
-  ACCORDION: G#4+F5@1>3 G4+Eb5@4>1 G4+Eb5@5>7
-  Part2    : C2@1>3 G1@7>2 F#1@10>2
-  Part3    : Bb3+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : G#4@7>2 G4@10>3
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : Eb4+Eb5@1>12
-  Part7    : C4+E4+Bb4@4>11
-  Part8    : C2@1>1 G1@7>1 F#1@10>1
-@212 [Fm]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+Eb4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : C4@1>5 G#4@7>6
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : C4+C5@1>6 G#4+G#5@6>7
-  Part7    : F4+G#4+C5@3>1 F4+G#4+C5@4>12
-  Part8    : F1@1>1 C2@7>1
-@213 [Dm7 | Bb7] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>2 Bb4+D5+F5@7>2 Bb4+D5+F5@13>2 Bb4+D5+F5@19>2 G4+G#4@22>2 A4+Bb4+G5@23>2
-  Part2    : Bb1@1>6 F1@13>4 Bb1@19>4
-  Part3    : G#3+C4@1>2 Bb3+D4+F4+Bb4@7>6 Bb3+D4@11>4 Bb3+D4+F4+Bb4@19>6 Bb3+D4@23>2
-  Part4    : G#4@1>10 F4@13>4 D4@19>6
-  BANJO    : D4+F4+Bb4@7>2 D4+F4+Bb4@19>2
-  Part6    : G#4+G#5@1>10 D4+D5@13>12
-  Part7    : F4+G#4+C5@6>21
-  Part8    : Bb1@1>2 F1@13>2 Bb1@19>2
-@214 [Eb]
-  ACCORDION: Bb4+G5@4>1 Bb4+G5@7>3 G#4+F5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+D4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : Eb4@1>5
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : D4+Eb4+D5+Eb5@1>12
-  Part7    : D4+F4+Bb4@4>12
-  Part8    : Eb2@1>1 Bb1@7>1
-@215 [Cm]
-  ACCORDION: G#4+F5@1>3 G4+Eb5@4>1 G4+Eb5@5>7
-  Part2    : C2@1>3 G1@7>2 F#1@10>2
-  Part3    : Bb3+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : G#4@7>2 G4@10>3
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : Eb4+Eb5@1>12
-  Part7    : D4+F4+Bb4@4>2 F4+G#4@6>3 Eb4+G4@10>3 D4+F4@12>3
-  Part8    : C2@1>1 G1@7>1 F#1@10>1
-@216 [Fm7 | Ab]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+Eb4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : C4@1>5 G#4@7>6
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : C4+C5@1>6 G#4+G#5@6>7
-  Part7    : Eb4+G4+Bb4@4>12
-  Part8    : F1@1>1 C2@7>1
-@217 [Ddim | Bb] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>2 Bb4+D5+F5@7>2 Bb4+D5+F5@13>2 Bb4+D5+F5@19>2 G4+G#4@22>2 A4+Bb4+G5@23>2
-  Part2    : Bb1@1>6 F1@13>4 Bb1@19>4
-  Part3    : G#3+C4@1>2 Bb3+D4+F4+Bb4@7>6 Bb3+D4@11>4 Bb3+D4+F4+Bb4@19>6 Bb3+D4@23>2
-  Part4    : G#4@1>10 F4@13>4 D4@19>6
-  BANJO    : D4+F4+Bb4@7>2 D4+F4+Bb4@19>2
-  Part6    : G#4+G#5@1>10 D4+D5@13>12
-  Part7    : Eb4+G4+Bb4@6>24
-  Part8    : Bb1@1>2 F1@13>2 Bb1@19>2
-@218 [Eb]
-  ACCORDION: Bb4+G5@4>1 Bb4+G5@7>3 G#4+F5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+D4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : Eb4@1>5
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : D4+Eb4+D5+Eb5@1>12
-  Part7    : Eb4+G4+C5@4>12
-  Part8    : Eb2@1>1 Bb1@7>1
-@219 [Cm]
-  ACCORDION: G#4+F5@1>3 G4+Eb5@4>1 G4+Eb5@5>7
-  Part2    : C2@1>3 G1@7>2 F#1@10>2
-  Part3    : Bb3+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : G#4@7>2 G4@10>3
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : Eb4+Eb5@1>12
-  Part7    : Eb4+G4+C5@4>12
-  Part8    : C2@1>1 G1@7>1 F#1@10>1
-@220 [Fm]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+Eb4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : C4@1>5 G#4@7>6
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : C4+C5@1>6 G#4+G#5@6>7
-  Part7    : F4+G4+G#4+C5@4>24
-  Part8    : F1@1>1 C2@7>1
-@221 [Ddim | Bb]
-  ACCORDION: Bb4+D5+F5@1>1 Bb4+D5+F5@4>1 Bb4+D5+F5@7>1 Bb4+D5+F5@10>1 G4+G#4@11>1 A4+Bb4+G5@12>1
-  Part2    : Bb1@1>3 F1@7>2 Bb1@10>2
-  Part3    : G#3+C4@1>1 Bb3+D4+F4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+F4+Bb4@10>3 Bb3+D4@12>1
-  Part4    : G#4@1>5 F4@7>2 D4@10>3
-  BANJO    : D4+F4+Bb4@4>1 D4+F4+Bb4@10>1
-  Part6    : G#4+G#5@1>5 D4+D5@7>6
-  Part8    : Bb1@1>1 F1@7>1 Bb1@10>1
-@222 [Eb]
-  ACCORDION: Bb4+G5@4>1 Bb4+G5@7>3 G#4+F5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+D4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : Eb4@1>5
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : D4+Eb4+D5+Eb5@1>12
-  Part7    : F4+G#4@4>36
-  Part8    : Eb2@1>1 Bb1@7>1
-@223 [Cm]
-  ACCORDION: G#4+F5@1>3 G4+Eb5@4>1 G4+Eb5@5>7
-  Part2    : C2@1>3 G1@7>2 F#1@10>2
-  Part3    : Bb3+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  Part4    : G#4@7>2 G4@10>3
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : Eb4+Eb5@1>12
-  Part7    : Bb4+D5@3>1
-  Part8    : C2@1>1 G1@7>1 F#1@10>1
-@224 [Fm]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+Eb4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  Part4    : C4@1>5 G#4@7>6
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : C4+C5@1>6 G#4+G#5@6>7
-  Part8    : F1@1>1 C2@7>1
-@225 [Ddim | Bb] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>2 Bb4+D5+F5@7>2 Bb4+D5+F5@13>2 Bb4+D5+F5@19>2 G4+G#4@22>2 A4+Bb4+G5@23>2
-  Part2    : Bb1@1>6 F1@13>4 Bb1@19>4
-  Part3    : G#3+C4@1>2 Bb3+D4+F4+Bb4@7>6 Bb3+D4@11>4 Bb3+D4+F4+Bb4@19>6 Bb3+D4@23>2
-  Part4    : G#4@1>10 F4@13>4 D4@19>6
-  BANJO    : D4+F4+Bb4@7>2 D4+F4+Bb4@19>2
-  Part6    : G#4+G#5@1>10 D4+D5@13>12
-  Part7    : Bb4+D5@6>24
-  Part8    : Bb1@1>2 F1@13>2 Bb1@19>2
-@226 [Eb]
-  ACCORDION: Bb4+G5@4>1 Bb4+G5@7>3 G#4+F5@10>1
-  Part2    : Eb2@1>3 Bb1@7>4
-  Part3    : Bb3+D4@1>1 Bb3+Eb4+G4+Bb4@4>3 Bb3+Eb4@6>2 Bb3+Eb4+G4+Bb4@10>3 Bb3+Eb4@12>1
-  Part4    : Eb4@1>5
-  BANJO    : Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@10>1
-  Part6    : D4+Eb4+D5+Eb5@1>12
-  Part7    : Bb4+D5@4>12
-  Part8    : Eb2@1>1 Bb1@7>1
-@227 [Cm7]
-  ACCORDION: G#4+F5@1>3 G4+Eb5@4>1 G4+Eb5@5>7
-  Part2    : C2@1>3 G1@7>2 F#1@10>2
-  Part3    : Bb3+Eb4@1>1 C4+Eb4+G4+C5@4>3 C4+Eb4@6>2 C4+Eb4+G4+C5@10>3 C4+Eb4@12>1
-  BANJO    : Eb4+G4+C5@4>1 Eb4+G4+C5@10>1
-  Part6    : Eb4+Eb5@1>12
-  Part7    : G4+Bb4+D5@4>12
-  Part8    : C2@1>1 G1@7>1 F#1@10>1
-@228 [Fm]
-  ACCORDION: G#4+C5+F5@1>1 G#4+C5+F5@4>1 G#4+C5+F5@7>1 G#4+C5+F5@10>1
-  Part2    : F1@1>3 C2@7>4
-  Part3    : C4+Eb4@1>1 G#3+C4+F4+G#4@4>3 G#3+C4@6>2 G#3+C4+F4+G#4@10>3 G#3+C4@12>1
-  BANJO    : F4+G#4+C5@4>1 F4+G#4+C5@10>1
-  Part6    : C4+C5@1>6 G#4+G#5@6>7
-  Part7    : G4+Bb4+D5@4>12
-  Part8    : F1@1>1 C2@7>1
-@229 [Bb7]
-  ACCORDION: Bb4+D5+F5@1>1 Bb4+D5+F5@4>1 Bb4+D5+F5@7>1 Bb4+D5+F5@10>3
-  Part2    : Bb1@1>3 F1@7>2 Bb1@10>2
-  Part3    : G#3+C4@1>1 Bb3+D4+F4+Bb4@4>3 Bb3+D4@6>2 Bb3+D4+F4+Bb4@10>3 Bb3+D4@12>1
-  BANJO    : D4+F4+Bb4@4>1 D4+F4+Bb4@10>1
-  Part6    : G#4+G#5@1>5 D4+D5@7>6
-  Part7    : G4+Bb4+E5@4>12
-  Part8    : Bb1@1>1 F1@7>1 Bb1@10>1
-@230 [Bb] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>24
-  Part3    : Bb3+D4+Bb4@1>24
-  Part6    : D4+D5@1>2
-  Part7    : G4+Bb4+E5@6>24
-@231 [Bb] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>24
-  Part3    : Bb3+D4+Bb4@1>24
-  Part7    : F4+G#4+C5@5>2 F4+G#4+C5@6>24
-@232 [Bb] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>24
-  Part3    : Bb3+D4+Bb4@1>24
-  Part7    : F4+Bb4+D5@6>24
-@233 [Bb] (grid:24t)
-  ACCORDION: Bb4+D5+F5@1>24
-  Part3    : Bb3+D4+Bb4@1>24
-  Part7    : Eb4+G4+Bb4@6>24
-@234 [Bb] (grid:4)
-  ACCORDION: Bb4+D5+F5@1>4
-  Part3    : Bb3+D4+Bb4@1>4
-@235 [Bb] (grid:6t)
-  ACCORDION: Bb4+D5+F5@1>6
-  Part3    : Bb3+D4+Bb4@1>6
-  Part7    : Eb4+G4+Bb4+C5@2>6
-@236 [Bb] (grid:6t)
-  ACCORDION: Bb4+D5+F5@1>6
-  Part3    : Bb3+D4+Bb4@1>6
-  Part7    : F4+G#4+C5@2>6
-@237 [Bb] (grid:6t)
-  ACCORDION: Bb4+D5+F5@1>6
-  Part3    : Bb3+D4+Bb4@1>6
-  Part7    : F4+G#4+D5@2>6
-@238 [Bb] (grid:6t)
-  ACCORDION: Bb4+D5+F5@1>6
-  Part3    : Bb3+D4+Bb4@1>6
-  Part7    : Eb4+G4+Bb4@2>6
-@239 [Bb] (grid:4)
-  ACCORDION: Bb4+D5+F5@1>4
-  Part3    : Bb3+D4+Bb4@1>4
-@240 [Bb]
-  ACCORDION: Bb4+D5+F5@1>12
-  Part3    : Bb3+D4+Bb4@1>12
-  Part7    : Eb4+G4+Bb4+C5@2>12
-@241 [Bb]
-  ACCORDION: Bb4+D5+F5@1>12
-  Part3    : Bb3+D4+Bb4@1>12
-  Part7    : F4+G#4+C5@2>12
-@242 [Bb]
-  ACCORDION: Bb4+D5+F5@1>12
-  Part3    : Bb3+D4+Bb4@1>12
-  Part7    : F4+G#4+D5@2>12
-@243 [Bb]
-  ACCORDION: Bb4+D5+F5@1>12
-  Part3    : Bb3+D4+Bb4@1>12
-  Part7    : Eb4+G4+Bb4@2>12
-@244 [Bb] (grid:4)
-  ACCORDION: Bb4+D5+F5@1>1
-  Part3    : Bb3+D4+Bb4@1>2
-@245 [Cm] (grid:4)
-  Part7    : Eb4+G4+Bb4+C5@1>4
-@246 [Fm] (grid:4)
-  Part7    : F4+G#4+C5@1>4
-@247 [Ddim] (grid:4)
-  Part7    : F4+G#4+D5@1>4
-@248 [Eb] (grid:4)
-  Part7    : Eb4+G4+Bb4@1>4
-@249 [Eb] (grid:24t)
-  Part7    : Eb4+G4+Bb4+C5@24>24
-@250 [Fm] (grid:24t)
-  Part7    : F4+G#4+C5@24>24
-@251 [Ddim] (grid:24t)
-  Part7    : F4+G#4+D5@24>24
-@252 [Eb] (grid:24t)
-  Part7    : Eb4+G4+Bb4@24>24
-@253 [-]
-@254 [Cm7]
-  Part7    : Eb4+G4+Bb4+C5@12>12
-@255 [Fm]
-  Part7    : F4+G#4+C5@12>12
-@256 [Ddim]
-  Part7    : F4+G#4+D5@12>12
-@257 [Eb]
-  Part7    : Eb4+G4+Bb4@12>12
-@258 [-]
-@259 [Cm] (grid:6t)
-  Part7    : Eb4+G4+Bb4+C5@6>6
-@260 [Fm] (grid:6t)
-  Part7    : F4+G#4+C5@6>6
-@261 [Ddim] (grid:6t)
-  Part7    : F4+G#4+D5@6>6
-@262 [-]
+@3 [-]
+@4 [D] (grid:4)
+  SPACEVOICE: D4+F#4+G4+A4+B4@1>20^56
+@5 [Baug]
+  VOICE OOHS: B3+B4@33>96^104 A4@37>3^80 G4@40>4^80 A4@44>4^80 B4@48>3^80 G3@49>80^32 A4@52>4^80 G4@56>5^80 A4@60>4^80
+@6 [Em7 | Bm]
+  VOICE OOHS: E3+B4@1>60^80 A4@4>4^80 G4@8>4^80 A4@12>5^80 D3+B4@17>48^80
+@7 [G | C]
+  CHOIR AAHS: B3+D4+G4@1>147^56 C4@32>28^80 E4@33>32^80
+  VOICE OOHS: B3+D4+G4@1>147^56 C4@32>28^80 E4@33>32^80
+@8 [C#m | C#dim]
+  DISTORTION: G4@43>182^80
+  CHOIR AAHS: D4+B4@1>82^80 E4+C#5@33>50^80
+  VOICE OOHS: D4+B4@1>82^80 E4+C#5@33>50^80
+@9 [G] (grid:16)
+  A.PIANO 2 : G2+D4+A4@9>7^104 B4@10>6^80 D3+G4@11>4^104 G3+D4@13>6^80 D3+G4@15>4^80
+@10 [G | C] (grid:16)
+  A.PIANO 2 : G2+B4@1>4^80 D3+D4@3>4^80 G4@4>1^80 G3+A4@5>6^80 G2+D4+F#4+A4@6>3^104 D3@7>2^56 G2+C4+E4+G4@9>9^80 C3@11>4^56 G3@13>4^80 G2@15>7^80
+@11 [C | G] (grid:16)
+  A.PIANO 2 : C3+C4@1>8^104 E4@2>1^80 G3+G4@3>6^80 G3+D4@5>6^80 C4@6>3^80 G2@7>1^56 G2+B3+D4@9>4^80 D4@10>4^80 D3+G4@11>4^104 G3+B3@13>4^80 G2+D4@15>4^56
+@12 [G | Em] (grid:16)
+  A.PIANO 2 : D3+G4@1>4^80 B3@2>4^104 G3+D4@3>6^80 G2+G4@4>1^80 G2+B4@5>2^104 C3+B3@6>3^80 G3+A4@7>2^104 B4@8>1^104 E2+C4+B4@9>7^104 E4@11>6^56 G4@13>4^80 C4@15>2^80
+@13 [D | G]
+  A.PIANO 2 : D2+D4+F#4+A4@1>33^80 D3+D4@9>24^56 F#4@17>15^56 D3+A4@25>8^80 G2+D4+G4+B4@33>32^80 D4@41>9^56 G4@49>4^80 B4@57>1^56
+  DISTORTION: G3@9>7^80 G3@17>7^80 A3@25>4^80 B3@29>11^80 B3@41>4^80 B3@47>6^80 B3@56>5^80 B3@62>12^80
+@14 [C | G]
+  A.PIANO 2 : C3+C4+E4+G4+B4@1>31^80 C4@17>8^80 B4@24>3^80 G2+D4+G4+B4@33>48^80 D3@41>35^80 G3@49>15^80 A3@57>10^56
+  DISTORTION: A3@10>5^56 A3@16>8^80 G3@24>6^80 B3@31>36^56
+@15 [G7 | Em]
+  A.PIANO 2 : B3@1>32^56 G3+D4@9>6^56 G2+G3+D4+G4+B4@17>11^104 F#2+F#3+F#4+A4@25>8^104 E2+E3+B3+E4+G4@33>31^80 B3+G4@49>6^56 E4@57>2^56 D3@64>32^80
+  DISTORTION: B3@9>6^80 E4@16>8^80 F#4@24>7^80 G4@33>12^80 G4@46>6^80 G4@54>4^80 G4@60>5^80
+@16 [Bm | C]
+  A.PIANO 2 : B3+D4+G4@1>17^80 B3@9>15^80 D4@16>15^80 G4@25>7^80 C3+C4+E4@33>29^80 G3@48>29^80 C4@56>25^56
+  DISTORTION: F#4@1>6^80 F#4@9>4^80 F#4@15>26^80 E4@41>45^56
+@17 [C | Am]
+  A.PIANO 2 : C3+G4@1>29^80 G3@17>3^56 A2+A3+C4+E4@33>32^80 A3@41>14^80 C4@49>8^80 E4@56>2^80 E3+B3+E4+G4@64>18^80
+  DISTORTION: C4@33>6^80 C4@42>3^80 C4@46>7^80 D4@54>6^80 B3@61>22^80
+@18 [E | Am]
+  A.PIANO 2 : B3@8>4^32 B3@9>3^56 B3@15>6^32 E4@17>5^80 E3@25>8^80 A2+A3+C4+E4@33>32^80 A3@40>15^80 C4@49>7^80 E4@57>2^80
+  DISTORTION: B3@21>3^80 A3@25>5^80 B3@29>4^80 C4@33>6^80 C4@41>3^80 C4@46>5^80 D4@52>7^80 B3@60>12^80
+@19 [Em | G]
+  A.PIANO 2 : E3+B3+E4+G4@1>19^80 B3@9>14^80 E4@17>12^80 E3+B3+G4@25>9^80 D2+B3+D4+G4@33>57^80 D3+B3@40>26^80 D4@48>15^80 G3@49>10^80 D4@56>7^56 G4@57>8^80 A3+D4+F#4@64>16^80
+  DISTORTION: B3@9>4^80 A3@15>7^80 G3@22>8^80 B3@33>66^80
+@20 [D | G]
+  A.PIANO 2 : A3@1>4^56 D3+A3@8>26^80 A3+D4@16>8^80 F#4@24>2^104 D4@25>24^80 D2@29>2^104 D2+E4@32>63^104 G3+C4@33>7^104 D3+G3@40>22^80 G3+A3+C4@48>18^80 G3+C4+D4+E4@56>40^104 D3+G3@64>13^80
+@21 [C | G]
+  A.PIANO 2 : A3+C4@8>24^80 G3+G4@16>16^104 D3@17>14^80 G3@23>9^56 G2+D4+G4+B4@33>32^80 D4@41>9^56 G4@49>4^80 B4@57>1^56
+  DISTORTION: G3@9>8^104 G3@17>8^104 A3@25>8^80 B3@33>7^80 B3@42>4^80 B3@46>10^80 B3@57>4^80 B3@64>8^80
+@22 [C | G]
+  A.PIANO 2 : C3+C4+E4+G4+B4@1>31^80 C4@17>8^80 B4@24>3^80 G2+D4+G4+B4@33>48^80 D3@41>35^80 G3@49>15^80 A3@57>10^56
+  DISTORTION: A3@9>5^80 A3@14>10^80 G3@24>7^80 B3@32>35^80
+@23 [G7 | Em]
+  A.PIANO 2 : B3@1>32^56 G3+D4@9>6^56 G2+G3+D4+G4+B4@17>11^104 F#2+F#3+F#4+A4@25>8^104 E2+E3+B3+E4+G4@33>31^80 B3+G4@49>6^56 E4@57>2^56 D3@64>32^80
+  DISTORTION: D4@9>7^80 E4@17>8^80 F#4@24>8^80 G4@31>12^80 G4@44>5^80 G4@51>5^80 G4@58>6^80 F#4@63>7^80
+@24 [G7 | C]
+  A.PIANO 2 : B3+D4+G4@1>17^80 B3@9>15^80 D4@16>15^80 G4@25>7^80 C3+C4+E4@33>29^80 G3@48>29^80 C4@56>26^56
+  DISTORTION: F#4@7>5^56 F#4@14>7^80 G4@21>8^80 E4@29>36^80
+@25 [Em | Am]
+  A.PIANO 2 : C3+G4@1>29^80 G3@17>3^56 A2+A3+C4+E4@33>32^80 A3@41>14^80 C4@49>8^80 E4@56>2^80 E3+B3+E4+G4@64>18^80
+  DISTORTION: A3@25>4^80 B3@29>4^80 C4@33>6^80 C4@41>4^80 C4@46>7^80 D4@54>6^80 B3@61>21^80
+@26 [E | Am]
+  A.PIANO 2 : B3@8>4^32 B3@9>3^56 B3@15>6^32 E4@17>5^80 B4@24>10^80 E3@25>8^80 A2+A3+C4+E4+A4@33>32^80 A3@40>15^80 C4@49>7^80 E4@57>2^80
+  DISTORTION: A3@24>4^80 B3@28>5^80 C4@32>6^80 C4@40>4^104 C4@45>6^80 D4@52>7^80 B3@59>11^80
+@27 [Em | G]
+  A.PIANO 2 : E3+B3+E4+G4@1>19^80 B3@9>14^80 E4@17>12^80 E3+B3+G4+B4@25>27^80 D2+B3+D4+G4@33>57^80 D3+B3@40>26^80 D4@48>15^80 G3@49>10^80 D4@56>7^56 G4@57>8^80 A3+D4+F#4@64>16^80
+  DISTORTION: B3@8>7^80 A3@16>7^80 G3@24>5^104 B3@32>79^80
+@28 [D | G]
+  A.PIANO 2 : A3@1>4^56 D3+A3@8>26^80 A3+D4@16>8^80 F#4@24>2^104 D4@25>24^80 D2@29>2^104 D2@32>63^104 E4+G4+C5@33>22^80 D3@40>22^80 A3@48>18^80 D4@56>39^80 E4+G4+C5@61>2^80 D3+E4+G4+C5@64>13^80
+@29 [D | G]
+  A.PIANO 2 : A3@8>11^80 E4+G4+C5@16>2^80 D3@17>14^80 G2+D4+G4+B4@33>29^104 D3@41>20^80 D4+G4+B4@49>2^80 G3@50>16^80 C3@64>32^80
+  DISTORTION: G4@33>4^80 G4@38>4^80 G4@45>10^80 G4@57>4^80 F#4@61>8^80
+@30 [C | Em]
+  A.PIANO 2 : C4+E4+G4@1>6^80 G3@9>24^80 C4+E4+G4@17>5^80 E2@32>31^80 E4+G4+B4@33>7^80 E3@40>25^56 B3+E4+G4+B4@49>17^80
+  DISTORTION: G4@5>14^80 E4@25>5^80 F#4@28>6^80 G4@33>6^80 G4@41>4^80 G4@46>10^80 F#4@56>4^80 F#4@61>27^104
+@31 [D | G]
+  A.PIANO 2 : D3+D4+F#4+A4@1>30^80 F#3@9>22^56 A3+D4+F#4+A4@17>14^80 G2@33>29^104 B3+D4+G4@34>6^80 D3@41>20^80 G3+B3+D4+G4@50>16^80 C3@64>32^80
+  DISTORTION: G4@33>10^80 G4@46>3^80 G4@51>6^80 G4@59>4^80 F#4@63>6^80
+@32 [C | Em]
+  A.PIANO 2 : C4+E4+G4@1>6^80 G3@9>24^80 C4+E4+G4@17>2^80 E2@32>31^80 E4+G4+B4@33>5^80 E3@40>25^56 E4+G4+B4@48>3^80 B3@49>17^80 D4+F#4+A4@64>4^80
+  DISTORTION: G4@5>15^80 E4@25>4^80 F#4@28>5^56 G4@33>6^80 G4@41>3^80 G4@45>7^80 A4@53>7^80 F#4@57>4^80 E4@61>5^80
+@33 [D | G]
+  A.PIANO 2 : D3@1>30^80 F#3@9>22^56 A3+D4+F#4+A4@17>14^80 C2+C3@25>8^80 B2+B3+D4+G4@33>31^104 B3+D4+G4@49>11^80 B3@56>3^56
+  DISTORTION: D4@1>18^80 E4@25>4^80 F#4@29>4^80 G4@33>6^104 G4@41>3^80 G4@45>10^80 G4@57>4^80 F#4@61>6^80
+@34 [C | G]
+  A.PIANO 2 : C3+C4+E4+G4@1>32^104 C4+E4+G4@17>8^104 B3+D4+G4@32>9^80 D3@33>31^104 D4+G4@49>5^80 B3@50>4^80 B3@62>27^80 C#4+E4@64>26^80
+  DISTORTION: G4@4>14^80 E4@24>4^80 F#4@28>4^80 G4@33>5^80 G4@40>3^80 G4@45>7^80 F#4@53>5^80 A4@57>8^80
+@35 [Gdim | G]
+  A.PIANO 2 : C#3+G4@1>26^104 D2+D3@32>62^104 B3+D4+G4@33>26^80 C4@64>31^56
+  DISTORTION: G4@1>28^80 E4@33>5^80 D4@38>5^80 D4@45>12^80 B3@57>8^80
+@36 [Em | G]
+  A.PIANO 2 : E4@1>30^80 G4@2>29^56 G2+D4+A4@33>29^104 B4@37>24^80 D3+G4@41>14^104 G3+D4@49>25^80 D3+G4@57>17^80
+  DISTORTION: A3@1>8^56 G3@9>14^80 A3@25>3^80 A3@29>3^56 G3@34>71^80
+  STRINGS   : G2@35>188^56
+@37 [G | C] (grid:16)
+  A.PIANO 2 : G2+B4@1>4^80 D3+D4@3>4^80 G4@4>1^80 G3+A4@5>6^80 G2+D4+F#4+A4@6>3^104 D3@7>2^56 G2+C4+E4+G4@9>9^80 C3@11>4^56 G3@13>4^80 G2@15>7^80
+@38 [C | G] (grid:16)
+  A.PIANO 2 : C3+C4@1>8^104 E4@2>1^80 G3+G4@3>6^80 G3+D4@5>6^80 C4@6>3^80 G2@7>1^56 G2+B3+D4@9>4^80 D4@10>4^80 D3+G4@11>4^104 G3+B3@13>4^80 G2+D4@15>4^56
+  STRINGS   : G3@9>15^56
+@39 [G | Em]
+  A.PIANO 2 : D3+G4@1>18^80 B3@5>15^104 G3+D4@9>23^80 G2+G4@13>3^80 G2+B4@17>8^104 C3+B3@21>13^80 G3+A4@25>8^104 B4@29>4^104 E2+C4+B4@33>30^104 E4@41>25^56 G4@49>17^80 C4@57>7^80
+  STRINGS   : E2+E3+G5@33>48^56 D3@63>33^56
+@40 [D | G]
+  A.PIANO 2 : D2+D4+F#4+A4@1>33^80 D3+D4@9>24^56 F#4@17>15^56 D3+A4@25>8^80 G2+D4+G4+B4@33>32^80 D4@41>9^56 G4@49>4^80 B4@57>1^56
+  DISTORTION: G3@9>6^80 G3@18>7^80 A3@26>4^80 B3@30>8^80 B3@40>6^80 B3@48>6^80 B3@56>3^80 B3@60>11^80
+  STRINGS   : D2@1>32^56 D5@17>16^56 B2+B3+G4@33>63^56
+@41 [C | G]
+  A.PIANO 2 : C3+C4+E4+G4+B4@1>31^80 C4@17>8^80 B4@24>3^80 G2+D4+G4+B4@33>48^80 D3@41>35^80 G3@49>15^80 A3@57>10^56
+  DISTORTION: A3@8>6^80 A3@16>8^80 G3@24>5^80 B3@29>30^80
+  STRINGS   : C3+C4@1>32^56 D3+D4@32>66^56
+@42 [G7 | Em]
+  A.PIANO 2 : B3@1>32^56 G3+D4@9>6^56 G2+G3+D4+G4+B4@17>11^104 F#2+F#3+F#4+A4@25>8^104 E2+E3+B3+E4+G4@33>31^80 B3+G4@49>6^56 E4@57>2^56 D3@64>32^80
+  DISTORTION: E4@25>4^80 F#4@29>4^80 G4@34>8^80 G4@43>7^80 G4@53>4^80 G4@58>3^80 G4@63>5^80
+  STRINGS   : E3+E4+G4+B4@33>64^56 D3+D4@64>33^56
+@43 [G | C]
+  A.PIANO 2 : B3+D4+G4@1>17^80 B3@9>15^80 D4@16>15^80 G4@25>7^80 C3+C4+E4@33>29^80 G3@48>29^80 C4@56>26^56
+  DISTORTION: F#4@5>5^80 G4@12>6^80 A4@19>5^80 G4@25>5^80 E4@31>50^80
+  STRINGS   : D4@1>1^32 C3+C4+D4+E4+G4@32>63^56 C4@64>25^56
+@44 [Em | Am]
+  A.PIANO 2 : C3+G4@1>29^80 G3@17>3^56 A2+A3+C4+E4@33>32^80 A3@41>14^80 C4@49>8^80 E4@56>2^80 E3+B3+E4+G4@64>18^80
+  DISTORTION: B3@25>8^80 C4@33>6^80 C4@41>3^80 C4@46>9^80 C4@56>5^80 B3@61>10^56
+  STRINGS   : B2+B3@24>8^56 A2+A3+C4+E4+A5@33>128^56 E3+G3@63>32^56 B3+G5@64>33^56
+@45 [Em | Am]
+  A.PIANO 2 : B3@8>4^32 B3@9>3^56 B3@15>6^32 E4@17>5^80 E3@25>8^80 A2+A3+C4+E4@33>32^80 A3@40>15^80 C4@49>7^80 E4@57>2^80
+  DISTORTION: G3@7>14^80 B3@29>2^80 C4@32>8^80 B3@40>4^80 C4@45>8^80 D4@54>7^80 B3@61>10^80
+  STRINGS   : A2+A3+C4+A5@32>33^56 E3+G3+B3@63>32^56 G5@64>30^56
+@46 [Em | G]
+  A.PIANO 2 : E3+B3+E4+G4@1>19^80 B3@9>14^80 E4@17>12^80 E3+B3+G4@25>9^80 D2+B3+D4+G4@33>57^80 D3+B3@40>26^80 D4@48>15^80 G3@49>10^80 D4@56>7^56 G4@57>8^80 A3+D4+F#4@64>16^80
+  DISTORTION: A3@8>5^80 A3@15>7^80 G3@22>8^104 A3@32>74^80
+  STRINGS   : D3+B3+D4+G4+G5@32>127^56 D5@33>64^56 A3+D4+F#4+F#5@63>33^56
+@47 [D | C]
+  A.PIANO 2 : A3@1>4^56 D3+A3@8>26^80 A3+D4@16>8^80 F#4@24>2^104 D4@25>24^80 D2@29>2^104 D2+E4@32>63^104 G3+C4@33>7^104 D3+G3@40>22^80 G3+A3+C4@48>18^80 G3+C4+D4+E4@56>17^104 D3@64>13^80
+  STRINGS   : D2+G3+C4+E4+C5+E5@31>64^56 A3+D4+F#4+F#5@64>32^80
+  FR.HORN   : G4@33>23^80 A4@56>4^80 B4@60>3^80 A4@64>32^80
+@48 [D | G]
+  A.PIANO 2 : D4+F#4@1>12^80 A3@8>11^80 D3+D4+F#4@17>12^80 G2+D4+G4+B4@33>32^80 D4@41>9^56 G4@49>4^80 B4@57>1^56
+  DISTORTION: G3@17>12^80 A3@29>4^80 B3@33>13^80 B3@47>6^80 B3@55>4^80 B3@60>4^80
+  STRINGS   : D5@1>31^56 G2+D4+G4+B4@33>33^56 C3@64>32^56
+@49 [C7 | G]
+  A.PIANO 2 : C3+C4+E4+G4+B4@1>31^80 C4@17>8^80 B4@24>3^80 G2+D4+G4+B4@33>48^80 D3@41>35^80 G3@49>15^80 A3@57>10^56
+  DISTORTION: B3@2>7^80 A3@9>4^80 A3@15>6^80 G3@22>8^80 G3@33>4^80 A3@37>4^80 B3@41>34^80
+  STRINGS   : C4+F#4+A4@1>30^56 E4+G4@17>18^80 G2@32>58^32 B3+D4+G4@33>64^56
+  CELLO     : B2@54>3^80 D3@57>3^80 G3@61>3^80
+@50 [Bm | Em]
+  A.PIANO 2 : B3@1>32^56 G3+D4@9>6^56 G2+G3+D4+G4+B4@17>11^104 F#2+F#3+F#4+A4@25>8^104 E2+E3+B3+E4+G4@33>31^80 B3+G4@49>6^56 E4@57>2^56 D3@64>32^80
+  DISTORTION: E4@25>4^80 F#4@29>5^104 G4@34>8^80 G4@43>7^80 G4@53>3^80 G4@58>3^104 G4@63>22^80
+  STRINGS   : F#2@25>9^56 E2+B3+E4+G4@33>62^56 D4@64>32^56
+  CELLO     : B3@1>16^80 G3@16>9^80 F#3@25>8^56 E3@33>32^56 D3@64>32^56
+@51 [G | Am7]
+  A.PIANO 2 : B3+D4+G4@1>17^80 B3@9>15^80 D4@16>15^80 G4@25>7^80 C3+C4+E4@33>29^80 G3@48>29^80 C4@56>26^56
+  DISTORTION: F#4@22>4^80 G4@27>5^80 E4@33>47^80
+  STRINGS   : D2@1>32^56 C4+E4@31>64^56 C2+E5+A5@32>65^56 G5@63>34^32
+  CELLO     : C3@32>59^56
+@52 [C | Am]
+  A.PIANO 2 : C3+G4@1>29^80 G3@17>3^56 A2+A3+C4+E4@33>32^80 A3@41>14^80 C4@49>8^80 E4@56>2^80 E3+B3+E4+G4@64>18^80
+  DISTORTION: C4@33>6^80 C4@41>3^80 C4@45>8^80 D4@54>8^80 B3@64>8^80
+@53 [Em | Am]
+  A.PIANO 2 : B3@8>4^32 B3@9>3^56 B3@15>6^32 E4@17>5^80 B4@24>10^80 E3@25>8^80 A2+A3+C4+E4+A4@33>32^80 A3@40>15^80 C4@49>7^80 E4@57>2^80
+  DISTORTION: A3@7>5^56 G3@11>17^80 C4@32>6^80 C4@39>4^80 C4@44>7^80 D4@52>11^80 B3@63>8^80
+  STRINGS   : G3@8>2^104 B3@16>2^104 E4@24>2^80
+  PIZZICATO : E3+G3@9>2^80 G3+B3@16>2^80 B3+E4@24>2^80
+@54 [Em | G]
+  A.PIANO 2 : E3+B3+E4+G4@1>19^80 B3@9>14^80 E4@17>12^80 E3+B3+G4+B4@25>27^80 D2+B3+D4+G4@33>57^80 D3+B3@40>26^80 D4@48>15^80 G3@49>10^80 D4@56>7^56 G4@57>8^80 A3+D4+F#4@64>16^80
+  DISTORTION: A3@8>4^80 A3@13>11^80 G3@24>7^80 A3@33>63^80
+  STRINGS   : G3@9>2^104 B3@17>2^104 E4@25>2^80 D2+D3@33>3^80
+  CELLO     : D3@33>127^56
+  PIZZICATO : E3+G3@9>2^80 G3+B3@17>2^80 B3@24>2^80 E4@25>2^80 D3@33>5^80
+@55 [D | G]
+  A.PIANO 2 : A3@1>4^56 D3+A3@8>26^80 A3+D4@16>8^80 F#4@24>2^104 D4@25>24^80 D2@29>2^104 D2@32>63^104 E4+G4+C5@33>22^80 D3@40>22^80 A3@48>18^80 D4@56>39^80 E4+G4+C5@61>2^80 D3+E4+G4+C5@64>13^80
+  STRINGS   : D3@16>77^56 D2+G4@31>62^56 E4@32>65^56
+  PIZZICATO : F#3@8>2^80 D3@9>2^80 D3+F#3@12>2^80 F#3+D4@16>2^80 D3+F#3@25>2^80 D3@64>2^56
+@56 [G]
+  A.PIANO 2 : A3@8>11^80 E4+G4+C5@16>2^80 D3@17>14^80 G2+D4+G4+B4@33>29^104 D3@41>20^80 D4+G4+B4@49>2^104 G3@50>16^80 C3@64>32^80
+  DISTORTION: E4@17>4^80 G4@21>12^80 G4@33>6^80 G4@41>3^80 G4@46>10^104 G4@57>4^80 F#4@62>9^104
+  STRINGS   : G2+B3+D4+G4+D5+G5@33>95^56 E5@63>65^56 C4+E4@64>34^56
+  CELLO     : B3@33>32^56 C4@64>33^80
+  PIZZICATO : D3@16>2^56
+@57 [C | Em]
+  A.PIANO 2 : C4+E4+G4@1>6^104 G3@9>24^80 C4+E4+G4@17>5^80 E2@32>31^80 E4+G4+B4@33>7^104 E3@40>25^56 B3+E4+G4+B4@49>17^80
+  DISTORTION: G4@7>12^80 E4@25>5^104 F#4@29>5^80 G4@34>6^80 G4@41>3^80 G4@46>11^80 F#4@56>4^80 F#4@61>19^80
+  STRINGS   : C3@1>32^56 E3+G4@32>33^56 E4+B4@33>31^56 D4+F#4+A4@63>34^56 D3+D5+F#5@64>66^80
+  CELLO     : E4@32>32^80 D4@64>26^56
+@58 [D | G]
+  A.PIANO 2 : D3+D4+F#4+A4@1>30^80 F#3@9>22^56 A3+D4+F#4+A4@17>14^104 G2@33>29^104 B3+D4+G4@34>6^104 D3@41>20^80 G3+B3+D4+G4@50>16^104 C3@64>32^80
+  DISTORTION: E4@25>4^104 F#4@29>4^80 G4@34>10^80 G4@46>2^80 G4@50>6^80 G4@58>3^80 F#4@62>8^80
+  STRINGS   : G5@32>94^56 B2+B3@33>32^56 D4+G4@34>92^56 C4+E4@63>35^56 C3@64>33^56
+  CELLO     : C4@25>9^80 B3@33>33^80
+@59 [C | Em]
+  A.PIANO 2 : C4+E4+G4@1>6^80 G3@9>24^80 C4+E4+G4@17>2^80 E2@32>31^80 E4+G4+B4@33>5^104 E3@40>25^56 E4+G4+B4@48>3^80 B3@49>17^80 D4+F#4+A4@64>4^104
+  DISTORTION: G4@6>13^80 E4+G4@25>4^104 F#4+A4@29>5^80 G4@33>7^80 B4@34>7^80 G4+B4@41>4^80 B4@45>8^80 G4@46>10^80 A4+C5@57>4^80 F#4+A4@61>25^104
+  STRINGS   : E5@1>63^56 E3@32>31^56 E4+B4@33>30^56 D3+D4+F#4+A4@62>34^56 D5+F#5@63>66^56
+  CELLO     : C4@1>32^56 E3@32>32^80 D4@63>34^56
+@60 [D | G]
+  A.PIANO 2 : D3@1>30^80 F#3@9>22^56 A3+D4+F#4+A4@17>14^80 C2+C3@25>8^80 B2+B3+D4+G4@33>31^104 B3+D4+G4@49>11^104 B3@56>3^56
+  DISTORTION: G4@33>6^104 G4@41>3^80 G4@46>9^80 G4@56>4^80 F#4@61>9^104
+  STRINGS   : C3@25>9^80 B3+D4+G5@32>34^56 B2+G4@33>91^56 C4+E4+C5+E5@64>32^56
+  FR.HORN   : D5@17>2^80 D5@21>4^80 E5@25>2^104 F#5@28>2^80 G5@32>193^32
+  CELLO     : B3@33>32^80 C4@64>33^80
+  CHOIR AAHS: B3+D4@33>32^80 E4@64>32^80
+  VOICE OOHS: B3+D4@33>32^104 E4@64>32^80
+@61 [C | G]
+  A.PIANO 2 : C3+C4+E4+G4@1>32^104 C4+E4+G4@17>8^104 B3+D4+G4@32>9^104 D3@33>31^104 D4+G4@49>5^104 B3@50>4^80 B3@62>27^56 C#4+E4@64>26^56
+  DISTORTION: G4@7>11^80 E4@24>4^104 F#4@28>4^80 G4@33>6^80 G4@41>2^104 G4@45>11^104 F#4@57>4^80 G4@62>33^80
+  STRINGS   : C3@1>32^56 D4+B4+G5@31>66^56 D3+D5@32>32^56 C#3@64>29^56
+  CELLO     : D4@32>34^80
+  CHOIR AAHS: C4@1>32^80 D4+G4@32>38^80
+  VOICE OOHS: C4@1>32^80 D4+G4@32>38^104
+@62 [C#m7 | G]
+  A.PIANO 2 : C#3+G4@1>26^80 D2+D3@32>62^104 B3+D4+G4@33>26^80 C4@64>31^80
+  DISTORTION: G5@33>4^104 G5@38>5^104 G5@47>11^104 B4@59>7^80
+  STRINGS   : C#4+C#5@1>32^56 B3+E4+G4@2>29^32 D3@33>64^32
+  CELLO     : C#4@1>33^32
+  CHOIR AAHS: B4@1>28^80 C#4@2>27^56
+  VOICE OOHS: B4@1>28^80 C#4@2>27^80
+@63 [Em | G]
+  A.PIANO 2 : E4@1>30^104 G4@2>29^56 G2+D4+A4@33>29^104 B4@37>24^80 D3+G4@41>14^104 G3+D4@49>25^80 D3+G4@57>17^80
+  DISTORTION: A4@3>7^80 G4@10>8^80 B4@23>3^80 A4@26>4^80 G4@30>68^56
+  FR.HORN   : D6@1>32^32
+@64 [G | C] (grid:16)
+  A.PIANO 2 : G2+B4@1>4^80 D3+D4@3>4^80 G4@4>1^80 G3+A4@5>6^80 G2+D4+F#4+A4@6>3^104 D3@7>2^56 G2+C4+E4+G4@9>9^80 C3@11>4^56 G3@13>4^80 G2@15>7^80
+  STEEL GTR : B4@5>1^104 C5@7>1^104 D5@8>1^104 G4@10>10^104
+@65 [C | G] (grid:16)
+  A.PIANO 2 : C3+C4@1>8^104 E4@2>1^80 G3+G4@3>6^80 G3+D4@5>6^80 C4@6>3^80 G2@7>1^56 G2+B3+D4@9>4^80 D4@10>4^80 D3+G4@11>4^104 G3+B3@13>4^80 G2+D4@15>4^56
+  STEEL GTR : E4@5>1^104 F#4@7>1^104 G4@8>1^104 D4@9>10^104
+@66 [G | C7]
+  A.PIANO 2 : D3+G4@1>18^80 B3@5>15^104 G3+D4@9>23^80 G2+G4@13>3^80 G2+B4@17>8^104 C3+B3@21>13^80 G3+A4@25>8^104 B4@29>4^104 E2+C4+B4@33>30^104 E4@41>25^56 G4@49>17^80 C4@57>7^80
+  STEEL GTR : D4+E4@18>2^104 D4@21>4^104 C4@25>3^104 B3@28>4^80 C4@33>15^104 G3@49>4^104 B3@53>2^104 D4@57>3^80 G4@61>4^104
+@67 [D | G]
+  A.PIANO 2 : D2+D4+F#4+A4@1>33^80 D3+D4@9>24^56 F#4@17>15^56 D3+A4@25>8^80 G2+D4+G4+B4@33>32^80 D4@41>9^56 G4@49>4^80 B4@57>1^56
+  STRINGS   : G2+D4+G4+B4@33>120^56 E4@64>32^56
+  STEEL GTR : D4@1>3^80 G4@5>3^80 B4@9>4^104 G4@13>4^104 D5@18>8^104 C5@26>7^104 B4@34>6^104 A4@41>3^104 A4@46>11^104 G4@57>4^104 G4@63>5^104
+@68 [C | G]
+  A.PIANO 2 : C3+C4+E4+G4+B4@1>31^80 C4@17>8^80 B4@24>3^80 G2+D4+G4+B4@33>48^80 D3@41>35^80 G3@49>15^80 A3@57>10^56
+  STRINGS   : C3@1>32^56 D4@31>64^56 G2@33>64^56
+  STEEL GTR : F#4@8>5^104 E4@15>7^104 E4@25>2^104 F#4@28>2^104 E4@30>2^80 D4@33>27^104
+@69 [G7 | Em]
+  A.PIANO 2 : B3@1>32^56 G3+D4@9>6^56 G2+G3+D4+G4+B4@17>11^104 F#2+F#3+F#4+A4@25>8^104 E2+E3+B3+E4+G4@33>31^80 B3+G4@49>6^56 E4@57>2^56 D3@64>32^80
+  STRINGS   : F#4+A4@24>10^56 B4@32>64^32 E3+E4+G4@33>126^56 G#4@45>1^32
+  STEEL GTR : G3@5>3^104 B3@9>5^104 D4@12>5^56 B4@17>8^104 A4@26>8^104 G4@34>15^104 B3@49>5^104 E4@53>5^80 G4@57>9^104
+@70 [Bm | C]
+  A.PIANO 2 : B3+D4+G4@1>17^80 B3@9>15^80 D4@16>15^80 G4@25>7^80 C3+C4+E4@33>29^80 G3@48>29^80 C4@56>26^56
+  STRINGS   : D3+D4@1>33^80 C4+E4@31>60^56 C3@32>94^56
+  STEEL GTR : F#4@2>15^104 B3@16>5^104 D4@21>5^104 F#4@25>8^104 E4@33>23^104
+@71 [C7 | Am]
+  A.PIANO 2 : C3+G4@1>29^80 G3@17>3^56 A2+A3+C4+E4@33>32^80 A3@41>14^80 C4@49>8^80 E4@56>2^80 E3+B3+E4+G4@64>18^80
+  STRINGS   : C4+E4+A4@32>59^56 A5+C6@33>31^56 B2+G4+B4@62>34^56 B5@63>33^56 G5@64>32^32
+  STEEL GTR : E5@17>3^104 D5@20>3^104 C5@24>4^104 B4@28>4^104 A4@33>13^104 B4@49>3^104 A4@52>3^104 G4@56>4^104 F#4@60>3^104
+@72 [Am]
+  A.PIANO 2 : B3@8>4^32 B3@9>3^56 B3@15>6^32 E4@17>5^80 E3@25>8^80 A2+A3+C4+E4@33>32^80 A3@40>15^80 C4@49>7^80 E4@57>2^80
+  STRINGS   : C4@29>30^32 A2+E4+A4@31>66^56 E5+A5@32>63^56 B3+G4@63>65^80 E3+G5@64>64^56
+  STEEL GTR : E4@1>12^104 A5@22>13^104 G5@38>4^104 F#5@43>4^104 E5@49>2^104 F#5@52>2^104 G5@56>3^104 E5@60>3^104
+@73 [Em | G]
+  A.PIANO 2 : E3+B3+E4+G4@1>19^80 B3@9>14^80 E4@17>12^80 E3+B3+G4@25>9^80 D2+B3+D4+G4@33>57^80 D3+B3@40>26^80 D4@48>15^80 G3@49>10^80 D4@56>7^56 G4@57>8^80 A3+D4+F#4@64>16^80
+  STRINGS   : D3+D4@32>128^56 D5@33>61^56 F#4+F#5@63>33^56 A3+D4@64>26^56
+  STEEL GTR : E5@1>13^80 B4@25>7^104 B4@33>11^104 A4@45>2^104 A4@49>14^104
+@74 [D | C]
+  A.PIANO 2 : A3@1>4^56 D3+A3@8>26^80 A3+D4@16>8^80 F#4@24>2^104 D4@25>24^80 D2@29>2^104 D2+E4@32>63^104 G3+C4@33>7^104 D3+G3@40>22^80 G3+A3+C4@48>18^80 G3+C4+D4+E4@56>40^104 D3+G3@64>13^80
+  DISTORTION: B5@32>40^80
+  STRINGS   : G3+C4+E4+C5+E5@31>64^80 D2@32>64^56
+  STEEL GTR : F#5@1>4^104 D5@5>2^104 A4@8>4^104 F#4@12>3^104 E5@17>3^104 D5@20>3^104 A4@24>2^104 F#4+A4@28>3^104 G5@33>3^104 E5@37>2^104 C5@41>2^104 G4@44>3^104 E5@49>2^104 C5@52>3^104 G4@56>3^104 C5@60>2^104 G4@64>3^80
+@75 [C | G]
+  A.PIANO 2 : A3+C4@8>24^80 G3+G4@16>16^104 D3@17>14^80 G3@23>9^56 G2+D4+G4+B4@33>29^104 D3@41>20^80 D4+G4+B4@49>2^104 G3@50>16^80 C3@64>32^80
+  DISTORTION: B5@9>4^80 A5@13>7^104 G5@21>3^80 E5@24>5^80 D5@28>5^80 G5@33>4^80 G5@39>4^104 G5@46>9^104 G5@57>4^104 F#5@61>8^104
+  STRINGS   : C3@21>4^104 B2@25>4^104 A2@29>4^80 G2+B3+D4+G4+D5+G5@33>95^56 E5@63>65^56 C4+E4@64>34^56
+  CELLO     : B3@33>32^56 C4@64>33^80
+  STEEL GTR : C5@4>2^104 E4@8>3^104 G4@12>3^104 C5@16>2^80 G4@20>3^56 C4@25>3^104 G4@29>3^104
+@76 [C | Em]
+  A.PIANO 2 : C4+E4+G4@1>6^104 G3@9>24^80 C4+E4+G4@17>5^80 E2@32>31^80 E4+G4+B4@33>7^104 E3@40>25^56 B3+E4+G4+B4@49>17^80
+  DISTORTION: G5@6>11^80 E5@25>4^104 F#5@29>4^80 G5@33>6^80 G5@41>3^104 G5@46>11^80 F#5@57>4^80 F#5@62>25^80
+  STRINGS   : C3@1>32^56 E3+G4@32>33^56 E4+B4@33>31^56 D4+F#4+A4@63>34^56 D3+D5+F#5@64>66^80
+  CELLO     : E4@32>32^80 D4@64>26^56
+@77 [D | G]
+  A.PIANO 2 : D3+D4+F#4+A4@1>30^80 F#3@9>22^56 A3+D4+F#4+A4@17>14^104 G2@33>29^104 B3+D4+G4@34>6^104 D3@41>20^80 G3+B3+D4+G4@50>16^104 C3@64>32^80
+  DISTORTION: E5@25>3^80 F#5@29>4^80 G5@34>8^80 G5@43>3^80 G5@47>9^80 G5@58>4^104 F#5@62>6^104
+  STRINGS   : G5@32>94^56 B2+B3@33>32^56 D4+G4@34>92^56 C4+E4@63>35^56 C3@64>33^56
+  FR.HORN   : B4@9>2^80 C5@12>3^80 D5@17>3^80 D5@20>3^80 E5@24>3^80 F#5@29>3^80 G5@33>53^80
+  CELLO     : C4@25>9^80 B3@33>33^80
+@78 [C | Em]
+  A.PIANO 2 : C4+E4+G4@1>6^80 G3@9>24^80 C4+E4+G4@17>2^80 E2@32>31^80 E4+G4+B4@33>5^104 E3@40>25^56 E4+G4+B4@48>3^80 B3@49>17^80 D4+F#4+A4@64>4^104
+  DISTORTION: G5@6>13^80 G5@25>3^80 A5@29>4^80 B5@33>6^104 B5@42>3^80 B5@46>9^80 C6@55>5^80 A5@60>31^104
+  STRINGS   : E5@1>63^56 E3@32>31^56 E4+B4@33>30^56 D3+D4+F#4+A4@62>34^56 D5+F#5@63>66^56
+  FR.HORN   : G5@25>3^80 A5@28>4^56 B5@33>23^80 C6@56>8^80 A5@64>30^80
+  CELLO     : C4@1>32^56 E3@32>32^80 D4@63>34^56
+@79 [D7 | G]
+  A.PIANO 2 : D3@1>30^80 F#3@9>22^56 A3+D4+F#4+A4@17>14^80 C2+C3@25>8^80 B2+B3+D4+G4@33>31^104 B3+D4+G4@49>11^104 B3@56>3^56
+  DISTORTION: G5@33>7^104 G5@42>2^104 G5@47>8^104 G5@57>4^80 F#5@61>12^80
+  STRINGS   : C3@25>9^80 B3+D4+G5@32>34^56 B2+G4@33>91^56 C4+E4+C5+E5@64>32^56
+  FR.HORN   : B5@33>22^80 B5@57>3^80 A5@61>4^80
+  CELLO     : B3@33>32^80 C4@64>33^80
+  CHOIR AAHS: B3+D4@33>32^80 E4@64>32^80
+  VOICE OOHS: B3+D4@33>32^104 E4@64>32^80
+@80 [C | G]
+  A.PIANO 2 : C3+C4+E4+G4@1>32^104 C4+E4+G4@17>8^104 B3+D4+G4@32>9^104 D3@33>31^104 D4+G4@49>5^104 B3@50>4^80 B3@62>51^56 C#4+E4@64>49^56
+  DISTORTION: G5@10>9^104 E5@25>3^80 F#5@29>4^104 G5@34>6^104 G5@41>3^80 G5@46>11^80 F#5@57>7^80 B5@63>60^104
+  STRINGS   : C3@1>32^80 D4+B4+G5@31>82^80 D3+D5@32>32^80 C#3@64>49^80
+  FR.HORN   : G5@1>15^80 C6@17>15^80 B5@32>14^80
+  CELLO     : D4@32>34^80
+  CHOIR AAHS: C4@1>32^80 D4+G4@32>38^80
+  VOICE OOHS: C4@1>32^80 D4+G4@32>38^104
+@81 [Em]
+  A.PIANO 2 : C#3+G4@1>48^80
+  STRINGS   : B3+C#4+C#5+B5@1>60^80 E4+G4@2>47^80
+  FR.HORN   : G4@33>5^104 A4@42>5^104 B4@50>6^104 E5@58>6^104
+  CELLO     : C#4@1>48^32
+  CHOIR AAHS: B4@1>48^80 C#4@2>47^56
+  VOICE OOHS: B4@1>48^80 C#4@2>47^80
+  DRUMS     : D3@1>1^104 D3@3>2^104 D3@5>1^104 D3@8>3^56 D3@11>3^80 D3@15>2^80 D3@17>1^80 D3@19>2^80 D3@21>1^80 D3@22>1^56 D3@24>1^80 D3@26>1^80 D3@28>1^80 D3@30>1^80 D3@32>1^80 D3@33>1^80 D3@35>1^80 D3@37>1^80 D3@39>1^80 D3@41>2^80 D3@43>2^80 D3@45>2^80 D3@46>2^80 D3@49>1^80 D3@50>1^80 D3@52>2^80
+@82 [G]
+  A.PIANO 2 : G2+D4+G4+B4@1>61^104 D2@64>64^104
+  DISTORTION: B5@1>3^104 B5@6>6^104 C6@14>11^104 B5@26>10^104 A5@36>12^104 G5@48>66^104
+  STRINGS   : G2+G3+D4+G4+B4+D5@1>62^80
+  FR.HORN   : B4@1>61^104
+  CHOIR AAHS: B3+D4+G4@1>62^80
+  VOICE OOHS: G3+B3+D4@1>63^80
+@83 [Cm] (grid:8)
+  A.PIANO 2 : C4+G4+C5@1>64^104 D#4@2>1^104 D4@3>1^80 C4@4>1^80 G3@5>2^80 D#3@6>1^80 D3@7>1^80 C3@8>1^80
+  DISTORTION: A4@8>1^56
+  STRINGS   : G5@1>8^80
+@84 [D# | Adim]
+  A.PIANO 2 : A#2+G4+A#4@1>16^80 D#3+D#4@9>12^56 G4+A#4@17>15^80 D#3+D#4@25>8^80 G4+A4@32>14^80 D#4@40>9^56 D#3@41>7^56 G4+A4@48>15^80 D#3+D#4@57>7^80 G4+A#4@64>13^80
+  DISTORTION: G4@1>2^80
+  STEEL GTR : A#4@2>23^104 A4@29>2^104 A#4@31>2^104 A4@33>21^104 G4@56>3^104 A4@61>4^80
+@85 [D# | D#dim]
+  A.PIANO 2 : D#3+D#4@9>11^56 G4+A#4@17>15^80 D#4@24>8^80 D#3@25>6^56 G4+A4@32>12^80 D#4@40>9^56 D#3@41>6^80 G4@48>9^80 A4@49>9^80 D#3+D#4@57>8^80
+  STEEL GTR : G4@1>24^104 F4@29>2^104 G4@32>2^80 F4@33>16^104 D#4@49>16^80
+@86 [G]
+  A.PIANO 2 : G2+D4+G4@1>192^80 A3@2>4^104 B3@6>186^80 G3@10>182^80
+  STRINGS   : G2@1>176^56
+  STEEL GTR : D4@2>127^80
+@87 [-]
+@88 [-]

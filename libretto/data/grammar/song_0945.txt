@@ -1,0 +1,1059 @@
+KEY: G major | METER: 1/4 | TEMPO: 112 | GRID: 8th (adaptive) | BARS: 259
+VOICES: Adlib Violin[prog=52], Adlib Piano[prog=3], Adlib Piano#2[prog=3], Adlib Marimba[prog=104], Adlib Rhythm[drums]
+@1 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : B2+G#3@1>2^56
+@2 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>16^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Marimba: D5@1>2^56 D5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@3 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@4 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@5 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Marimba: D5@2>1^56 D5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@6 [G] (grid:16)
+  Adlib Piano  : G4+C5+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>8^56
+  Adlib Marimba: D5@1>2^56 D5@3>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@7 [D] (grid:16)
+  Adlib Piano  : D5@1>1^56 D5@2>1^56 D5@3>6^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56 D5@4>5^56
+  Adlib Rhythm : D3+G#3@1>2^56 D3+G#3@3>2^56
+@8 [G] (grid:4)
+  Adlib Piano#2: G2@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@9 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Marimba: D5@2>1^56 D5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@10 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Marimba: D5@1>2^56 D5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@11 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@12 [G]
+  Adlib Piano  : G4+C5+D5@1>4^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@13 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Marimba: D5@2>1^56 D5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@14 [G] (grid:16)
+  Adlib Piano  : B4+B5@1>8^56 B5@3>2^56
+  Adlib Piano#2: G2+D3@1>8^56
+  Adlib Marimba: B5@1>2^56 B5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@15 [A | G]
+  Adlib Piano  : A5@1>1^56 G5@2>1^56
+  Adlib Marimba: A5@1>1^56 G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@16 [D] (grid:4)
+  Adlib Piano  : C5+F#5+D6@1>2^56
+  Adlib Piano#2: D2+D3@1>2^56
+  Adlib Marimba: D6@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@17 [C | B]
+  Adlib Piano  : C6@1>1^56 B5@2>1^56
+  Adlib Marimba: C6@1>1^56 B5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@18 [G7] (grid:16)
+  Adlib Piano  : B4+G5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2+F#3@1>8^56
+  Adlib Marimba: G5@1>2^56 D5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@19 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@20 [C]
+  Adlib Piano  : C5@1>1^56 C5@2>2^56
+  Adlib Piano#2: G2+G3@1>4^56
+  Adlib Marimba: C5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@21 [B | G] (grid:12t)
+  Adlib Piano  : B4@2>1^56 G5@3>1^56
+  Adlib Marimba: B4@2>1^56 G5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@22 [G7] (grid:16)
+  Adlib Piano  : B4+G5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2+F#3@1>8^56
+  Adlib Marimba: G5@1>2^56 D5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@23 [D | C]
+  Adlib Piano  : D5@1>1^56 C5@2>1^56
+  Adlib Marimba: D5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@24 [C] (grid:4)
+  Adlib Piano  : G4+C5@1>3^56
+  Adlib Piano#2: G2+E3@1>3^56
+  Adlib Marimba: G4+C5@1>4^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@25 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@26 [-] (grid:16)
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@27 [C] (grid:6t)
+  Adlib Piano  : G4+C5@1>6^56
+  Adlib Piano#2: G2+E3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@28 [C] (grid:4)
+  Adlib Piano#2: G2+E3@1>3^56
+  Adlib Marimba: C5@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@29 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@30 [-] (grid:16)
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@31 [G] (grid:12t)
+  Adlib Piano  : B4@2>1^56 B4@3>1^56
+  Adlib Piano#2: G2+D3@1>3^56
+  Adlib Marimba: B4@2>1^56 B4@3>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@3>1^56
+@32 [C]
+  Adlib Piano  : G4+C5@1>4^56 C5@2>1^56
+  Adlib Piano#2: G2+E3@1>4^56
+  Adlib Marimba: C5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@33 [C | D]
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Marimba: C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@34 [G] (grid:16)
+  Adlib Piano  : G4+B4@1>4^56 B4@3>10^56
+  Adlib Piano#2: G2+D3@1>12^56
+  Adlib Marimba: B4@1>2^56 B4@3>10^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@35 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@36 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>3^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@37 [G] (grid:6t)
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Marimba: B4@1>1^56 B4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@38 [C] (grid:16)
+  Adlib Piano  : G4+C5@1>8^56 C5@3>2^56
+  Adlib Piano#2: G2+E3@1>8^56
+  Adlib Marimba: C5@1>2^56 C5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@39 [C | D]
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Marimba: C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@40 [G]
+  Adlib Piano  : G4+B4@1>2^56 B4@2>5^56
+  Adlib Piano#2: G2+D3@1>6^56
+  Adlib Marimba: B4@1>1^56 B4@2>5^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@41 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@42 [G] (grid:16)
+  Adlib Piano  : G4@1>2^56 G4@3>6^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@43 [G] (grid:6t)
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Marimba: B4@1>1^56 B4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@44 [C]
+  Adlib Piano  : G4+C5@1>4^56 C5@2>1^56
+  Adlib Piano#2: G2+E3@1>4^56
+  Adlib Marimba: C5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@45 [C | D]
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Marimba: C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@46 [G] (grid:16)
+  Adlib Piano  : G4+B4@1>4^56 B4@3>10^56
+  Adlib Piano#2: G2+D3@1>12^56
+  Adlib Marimba: B4@1>2^56 B4@3>10^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@47 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@48 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>3^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@49 [G] (grid:6t)
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Marimba: B4@1>1^56 B4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@50 [C] (grid:16)
+  Adlib Piano  : G4+C5@1>8^56 C5@3>2^56
+  Adlib Piano#2: G2+E3@1>8^56
+  Adlib Marimba: C5@1>2^56 C5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@51 [C | D]
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Marimba: C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@52 [D7]
+  Adlib Piano  : C5+D5@1>2^56 D5@2>1^56
+  Adlib Piano#2: A2+F#3@1>2^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@53 [G | Am] (grid:12t)
+  Adlib Piano  : G5@2>1^56 A5@3>1^56
+  Adlib Piano#2: D3+C4@1>3^56
+  Adlib Marimba: G5@2>1^56 A5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@54 [G] (grid:16)
+  Adlib Piano  : D5+B5@1>16^56 D6@3>4^56
+  Adlib Piano#2: G2+B2@1>16^56
+  Adlib Marimba: B5@1>2^56 D6@3>4^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@55 [B] (grid:6t)
+  Adlib Piano  : B5@2>2^56
+  Adlib Marimba: B5@2>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@56 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@57 [A | G]
+  Adlib Piano  : A5@1>1^56 G5@2>1^56
+  Adlib Marimba: A5@1>1^56 G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@58 [C] (grid:16)
+  Adlib Piano  : C5@1>16^56
+  Adlib Piano#2: G2+E3+A3@1>8^56
+  Adlib Marimba: C5@1>4^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@59 [D] (grid:6t)
+  Adlib Piano  : D5@1>3^56
+  Adlib Marimba: D5@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@60 [A7] (grid:4)
+  Adlib Piano#2: G2+E3+A3@1>2^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@61 [B] (grid:4)
+  Adlib Piano  : B5@1>1^56
+  Adlib Marimba: B5@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@62 [F#m] (grid:16)
+  Adlib Piano  : B4+A5@1>8^56
+  Adlib Piano#2: G2+F#3@1>4^56
+  Adlib Marimba: A5@1>6^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@63 [F# | G] (grid:6t)
+  Adlib Piano  : G5@2>1^56
+  Adlib Piano#2: G2+F#3@1>1^56
+  Adlib Marimba: G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@64 [C | G]
+  Adlib Piano  : C5+G5@1>4^56 D5@2>1^56
+  Adlib Piano#2: G2+G3@1>4^56
+  Adlib Marimba: G5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@65 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@66 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Marimba: D5@1>28^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@67 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@68 [C]
+  Adlib Piano  : G4+C5+D5@1>4^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@69 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@70 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@71 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@72 [C]
+  Adlib Piano  : G4+C5+D5@1>2^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@73 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : B2+G#3@1>2^56
+@74 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>16^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Marimba: D5@1>2^56 D5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@75 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@76 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@77 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Marimba: D5@2>1^56 D5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@78 [G] (grid:16)
+  Adlib Piano  : G4+C5+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>8^56
+  Adlib Marimba: D5@1>2^56 D5@3>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@79 [D] (grid:16)
+  Adlib Piano  : D5@1>1^56 D5@2>1^56 D5@3>6^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56 D5@4>5^56
+  Adlib Rhythm : D3+G#3@1>2^56 D3+G#3@3>2^56
+@80 [G] (grid:4)
+  Adlib Piano#2: G2@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@81 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Marimba: D5@2>1^56 D5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@82 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Marimba: D5@1>2^56 D5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@83 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@84 [G]
+  Adlib Piano  : G4+C5+D5@1>4^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@85 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Marimba: D5@2>1^56 D5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@86 [G] (grid:16)
+  Adlib Piano  : B4+B5@1>8^56 B5@3>2^56
+  Adlib Piano#2: G2+D3@1>8^56
+  Adlib Marimba: B5@1>2^56 B5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@87 [A | G]
+  Adlib Piano  : A5@1>1^56 G5@2>1^56
+  Adlib Marimba: A5@1>1^56 G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@88 [D] (grid:4)
+  Adlib Piano  : C5+F#5+D6@1>2^56
+  Adlib Piano#2: D2+D3@1>2^56
+  Adlib Marimba: D6@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@89 [C | B]
+  Adlib Piano  : C6@1>1^56 B5@2>1^56
+  Adlib Marimba: C6@1>1^56 B5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@90 [G7] (grid:16)
+  Adlib Piano  : B4+G5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2+F#3@1>8^56
+  Adlib Marimba: G5@1>2^56 D5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@91 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@92 [C]
+  Adlib Piano  : C5@1>1^56 C5@2>2^56
+  Adlib Piano#2: G2+G3@1>4^56
+  Adlib Marimba: C5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@93 [B | G] (grid:12t)
+  Adlib Piano  : B4@2>1^56 G5@3>1^56
+  Adlib Marimba: B4@2>1^56 G5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@94 [G7] (grid:16)
+  Adlib Piano  : B4+G5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2+F#3@1>8^56
+  Adlib Marimba: G5@1>2^56 D5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@95 [D | C]
+  Adlib Piano  : D5@1>1^56 C5@2>1^56
+  Adlib Marimba: D5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@96 [C] (grid:4)
+  Adlib Piano  : G4+C5@1>3^56
+  Adlib Piano#2: G2+E3@1>3^56
+  Adlib Marimba: G4+C5@1>4^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@97 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@98 [-] (grid:16)
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@99 [C] (grid:6t)
+  Adlib Piano  : G4+C5@1>6^56
+  Adlib Piano#2: G2+E3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@100 [C] (grid:4)
+  Adlib Piano#2: G2+E3@1>3^56
+  Adlib Marimba: C5@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@101 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@102 [-] (grid:16)
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@103 [G] (grid:12t)
+  Adlib Piano  : B4@2>1^56 B4@3>1^56
+  Adlib Piano#2: G2+D3@1>3^56
+  Adlib Marimba: B4@2>1^56 B4@3>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@3>1^56
+@104 [C]
+  Adlib Piano  : G4+C5@1>4^56 C5@2>1^56
+  Adlib Piano#2: G2+E3@1>4^56
+  Adlib Marimba: C5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@105 [C | D]
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Marimba: C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@106 [G] (grid:16)
+  Adlib Piano  : G4+B4@1>4^56 B4@3>10^56
+  Adlib Piano#2: G2+D3@1>12^56
+  Adlib Marimba: B4@1>2^56 B4@3>10^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@107 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@108 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>3^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@109 [G] (grid:6t)
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Marimba: B4@1>1^56 B4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@110 [C] (grid:16)
+  Adlib Piano  : G4+C5@1>8^56 C5@3>2^56
+  Adlib Piano#2: G2+E3@1>8^56
+  Adlib Marimba: C5@1>2^56 C5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@111 [C | D]
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Marimba: C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@112 [G]
+  Adlib Piano  : G4+B4@1>2^56 B4@2>5^56
+  Adlib Piano#2: G2+D3@1>6^56
+  Adlib Marimba: B4@1>1^56 B4@2>5^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@113 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@114 [G] (grid:16)
+  Adlib Piano  : G4@1>2^56 G4@3>6^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@115 [G] (grid:6t)
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Marimba: B4@1>1^56 B4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@116 [C]
+  Adlib Piano  : G4+C5@1>4^56 C5@2>1^56
+  Adlib Piano#2: G2+E3@1>4^56
+  Adlib Marimba: C5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@117 [C | D]
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Marimba: C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@118 [G] (grid:16)
+  Adlib Piano  : G4+B4@1>4^56 B4@3>10^56
+  Adlib Piano#2: G2+D3@1>12^56
+  Adlib Marimba: B4@1>2^56 B4@3>10^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@119 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@120 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>3^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@121 [G] (grid:6t)
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Marimba: B4@1>1^56 B4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@122 [C] (grid:16)
+  Adlib Piano  : G4+C5@1>8^56 C5@3>2^56
+  Adlib Piano#2: G2+E3@1>8^56
+  Adlib Marimba: C5@1>2^56 C5@3>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@123 [C | D]
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Marimba: C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@124 [D7]
+  Adlib Piano  : C5+D5@1>2^56 D5@2>1^56
+  Adlib Piano#2: A2+F#3@1>2^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@125 [G | Am] (grid:12t)
+  Adlib Piano  : G5@2>1^56 A5@3>1^56
+  Adlib Piano#2: D3+C4@1>3^56
+  Adlib Marimba: G5@2>1^56 A5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@126 [G] (grid:16)
+  Adlib Piano  : D5+B5@1>16^56 D6@3>4^56
+  Adlib Piano#2: G2+B2@1>16^56
+  Adlib Marimba: B5@1>2^56 D6@3>4^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@127 [B] (grid:6t)
+  Adlib Piano  : B5@2>2^56
+  Adlib Marimba: B5@2>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@128 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@129 [A | G]
+  Adlib Piano  : A5@1>1^56 G5@2>1^56
+  Adlib Marimba: A5@1>1^56 G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@130 [C] (grid:16)
+  Adlib Piano  : C5@1>16^56
+  Adlib Piano#2: G2+E3+A3@1>8^56
+  Adlib Marimba: C5@1>4^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@131 [D] (grid:6t)
+  Adlib Piano  : D5@1>3^56
+  Adlib Marimba: D5@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@132 [A7] (grid:4)
+  Adlib Piano#2: G2+E3+A3@1>2^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@133 [B] (grid:4)
+  Adlib Piano  : B5@1>1^56
+  Adlib Marimba: B5@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@134 [F#m] (grid:16)
+  Adlib Piano  : B4+A5@1>8^56
+  Adlib Piano#2: G2+F#3@1>4^56
+  Adlib Marimba: A5@1>6^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@135 [F# | G] (grid:6t)
+  Adlib Piano  : G5@2>1^56
+  Adlib Piano#2: G2+F#3@1>1^56
+  Adlib Marimba: G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@136 [C | G]
+  Adlib Piano  : C5+G5@1>4^56 D5@2>1^56
+  Adlib Piano#2: G2+G3@1>4^56
+  Adlib Marimba: G5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@137 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Marimba: D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@138 [G7] (grid:16)
+  Adlib Violin : D5@1>16^104
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Marimba: D5@1>28^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@139 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@140 [C]
+  Adlib Piano  : G4+C5+D5@1>4^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@141 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@142 [G7] (grid:16)
+  Adlib Violin : D5@1>12^104
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@143 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@144 [C]
+  Adlib Piano  : G4+C5+D5@1>2^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@145 [D]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : B2+G#3@1>2^56
+@146 [G7] (grid:16)
+  Adlib Violin : D5@1>2^104 D5@3>2^104
+  Adlib Piano  : F#4+B4+D5@1>16^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@147 [D]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@148 [D]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@149 [G] (grid:12t)
+  Adlib Violin : D5@2>1^104 D5@3>1^104
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@150 [G] (grid:16)
+  Adlib Violin : D5@1>2^104 D5@3>1^104
+  Adlib Piano  : G4+C5+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@151 [D] (grid:16)
+  Adlib Violin : D5@1>1^104 D5@2>1^104 D5@4>5^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56 D5@3>6^56
+  Adlib Rhythm : D3+G#3@1>2^56 D3+G#3@3>2^56
+@152 [G] (grid:4)
+  Adlib Piano#2: G2@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@153 [G] (grid:12t)
+  Adlib Violin : D5@2>1^104 D5@3>1^104
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@154 [G7] (grid:16)
+  Adlib Violin : D5@1>2^104 D5@3>2^104
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@155 [D]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@156 [G]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : G4+C5+D5@1>4^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@157 [G] (grid:12t)
+  Adlib Violin : D5@2>1^104 D5@3>1^104
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@158 [G] (grid:16)
+  Adlib Violin : B5@1>2^104 B5@3>2^104
+  Adlib Piano  : B4+B5@1>8^56 B5@3>2^56
+  Adlib Piano#2: G2+D3@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@159 [A | G]
+  Adlib Violin : A5@1>1^104 G5@2>1^104
+  Adlib Piano  : A5@1>1^56 G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@160 [D] (grid:4)
+  Adlib Violin : D6@1>1^104
+  Adlib Piano  : C5+F#5+D6@1>2^56
+  Adlib Piano#2: D2+D3@1>2^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@161 [C | B]
+  Adlib Violin : C6@1>1^104 B5@2>1^104
+  Adlib Piano  : C6@1>1^56 B5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@162 [G7] (grid:16)
+  Adlib Violin : G5@1>2^104 D5@3>2^104
+  Adlib Piano  : B4+G5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2+F#3@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@163 [D]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@164 [C]
+  Adlib Violin : C5@1>1^104 C5@2>1^104
+  Adlib Piano  : C5@1>1^56 C5@2>2^56
+  Adlib Piano#2: G2+G3@1>4^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@165 [B | G] (grid:12t)
+  Adlib Violin : B4@2>1^104 G5@3>1^104
+  Adlib Piano  : B4@2>1^56 G5@3>1^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@166 [G7] (grid:16)
+  Adlib Violin : G5@1>2^104 D5@3>2^104
+  Adlib Piano  : B4+G5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2+F#3@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@167 [D | C]
+  Adlib Violin : D5@1>1^104 C5@2>1^104
+  Adlib Piano  : D5@1>1^56 C5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@168 [C] (grid:4)
+  Adlib Violin : G4+C5@1>4^104
+  Adlib Piano  : G4+C5@1>3^56
+  Adlib Piano#2: G2+E3@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@169 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@170 [-] (grid:16)
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@171 [C] (grid:6t)
+  Adlib Piano  : G4+C5@1>6^56
+  Adlib Piano#2: G2+E3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@172 [C] (grid:4)
+  Adlib Violin : C5@1>3^104
+  Adlib Piano#2: G2+E3@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@173 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@174 [-] (grid:16)
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@175 [G] (grid:12t)
+  Adlib Violin : B4@2>1^104 B4@3>1^104
+  Adlib Piano  : B4@2>1^56 B4@3>1^56
+  Adlib Piano#2: G2+D3@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@3>1^56
+@176 [C]
+  Adlib Violin : C5@1>1^104 C5@2>1^104
+  Adlib Piano  : G4+C5@1>4^56 C5@2>1^56
+  Adlib Piano#2: G2+E3@1>4^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@177 [C | D]
+  Adlib Violin : C5@1>1^104 D5@2>1^104
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@178 [G] (grid:16)
+  Adlib Violin : B4@1>2^104 B4@3>10^104
+  Adlib Piano  : G4+B4@1>4^56 B4@3>10^56
+  Adlib Piano#2: G2+D3@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@179 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@180 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>3^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@181 [G] (grid:6t)
+  Adlib Violin : B4@1>1^104 B4@2>1^104
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@182 [C] (grid:16)
+  Adlib Violin : C5@1>2^104 C5@3>2^104
+  Adlib Piano  : G4+C5@1>8^56 C5@3>2^56
+  Adlib Piano#2: G2+E3@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@183 [C | D]
+  Adlib Violin : C5@1>1^104 D5@2>1^104
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@184 [G]
+  Adlib Violin : B4@1>1^104 B4@2>5^104
+  Adlib Piano  : G4+B4@1>2^56 B4@2>5^56
+  Adlib Piano#2: G2+D3@1>6^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@185 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@186 [G] (grid:16)
+  Adlib Piano  : G4@1>2^56 G4@3>6^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@187 [G] (grid:6t)
+  Adlib Violin : B4@1>1^104 B4@2>1^104
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@188 [C]
+  Adlib Violin : C5@1>1^104 C5@2>1^104
+  Adlib Piano  : G4+C5@1>4^56 C5@2>1^56
+  Adlib Piano#2: G2+E3@1>4^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@189 [C | D]
+  Adlib Violin : C5@1>1^104 D5@2>1^104
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@190 [G] (grid:16)
+  Adlib Violin : B4@1>2^104 B4@3>10^104
+  Adlib Piano  : G4+B4@1>4^56 B4@3>10^56
+  Adlib Piano#2: G2+D3@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@191 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@192 [G]
+  Adlib Piano  : G4@1>1^56 G4@2>3^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@193 [G] (grid:6t)
+  Adlib Violin : B4@1>1^104 B4@2>1^104
+  Adlib Piano  : B4@1>1^56 B4@2>1^56
+  Adlib Piano#2: G2+D3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@194 [C] (grid:16)
+  Adlib Violin : C5@1>2^104 C5@3>2^104
+  Adlib Piano  : G4+C5@1>8^56 C5@3>2^56
+  Adlib Piano#2: G2+E3@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@195 [C | D]
+  Adlib Violin : C5@1>1^104 D5@2>1^104
+  Adlib Piano  : C5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@196 [D7]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : C5+D5@1>2^56 D5@2>1^56
+  Adlib Piano#2: A2+F#3@1>2^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@197 [G | Am] (grid:12t)
+  Adlib Violin : G5@2>1^104 A5@3>1^104
+  Adlib Piano  : G5@2>1^56 A5@3>1^56
+  Adlib Piano#2: D3+C4@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@198 [G] (grid:16)
+  Adlib Violin : B5@1>2^104 D6@3>4^104
+  Adlib Piano  : D5+B5@1>16^56 D6@3>4^56
+  Adlib Piano#2: G2+B2@1>16^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@199 [B] (grid:6t)
+  Adlib Violin : B5@2>2^104
+  Adlib Piano  : B5@2>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@200 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@201 [A | G]
+  Adlib Violin : A5@1>1^104 G5@2>1^104
+  Adlib Piano  : A5@1>1^56 G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@202 [C] (grid:16)
+  Adlib Violin : C5@1>4^104
+  Adlib Piano  : C5@1>16^56
+  Adlib Piano#2: G2+E3+A3@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@203 [D] (grid:6t)
+  Adlib Violin : D5@1>3^104
+  Adlib Piano  : D5@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@204 [A7] (grid:4)
+  Adlib Piano#2: G2+E3+A3@1>2^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@205 [B] (grid:4)
+  Adlib Violin : B5@1>1^104
+  Adlib Piano  : B5@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@206 [F#m] (grid:16)
+  Adlib Violin : A5@1>6^104
+  Adlib Piano  : B4+A5@1>8^56
+  Adlib Piano#2: G2+F#3@1>4^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@207 [F# | G] (grid:6t)
+  Adlib Violin : G5@2>1^104
+  Adlib Piano  : G5@2>1^56
+  Adlib Piano#2: G2+F#3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@208 [C | G]
+  Adlib Violin : G5@1>1^104 D5@2>1^104
+  Adlib Piano  : C5+G5@1>4^56 D5@2>1^56
+  Adlib Piano#2: G2+G3@1>4^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@209 [D]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@210 [G7] (grid:16)
+  Adlib Violin : D5@1>28^104
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@211 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@212 [C]
+  Adlib Piano  : G4+C5+D5@1>4^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@213 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@214 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@215 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@216 [C]
+  Adlib Piano  : G4+C5+D5@1>2^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@217 [G | Am] (grid:12t)
+  Adlib Violin : G5@2>1^104 A5@3>1^104
+  Adlib Piano  : G5@2>1^56 A5@3>1^56
+  Adlib Piano#2: D3+C4@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@218 [G] (grid:16)
+  Adlib Violin : B5@1>2^104 D6@3>4^104
+  Adlib Piano  : D5+B5@1>16^56 D6@3>4^56
+  Adlib Piano#2: G2+B2@1>16^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@219 [B] (grid:6t)
+  Adlib Violin : B5@2>2^104
+  Adlib Piano  : B5@2>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@220 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@221 [A | G]
+  Adlib Violin : A5@1>1^104 G5@2>1^104
+  Adlib Piano  : A5@1>1^56 G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@222 [C] (grid:16)
+  Adlib Violin : C5@1>4^104
+  Adlib Piano  : C5@1>16^56
+  Adlib Piano#2: G2+E3+A3@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@223 [D] (grid:6t)
+  Adlib Violin : D5@1>3^104
+  Adlib Piano  : D5@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@224 [A7] (grid:4)
+  Adlib Piano#2: G2+E3+A3@1>2^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@225 [B] (grid:4)
+  Adlib Violin : B5@1>1^104
+  Adlib Piano  : B5@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@226 [F#m] (grid:16)
+  Adlib Violin : A5@1>6^104
+  Adlib Piano  : B4+A5@1>8^56
+  Adlib Piano#2: G2+F#3@1>4^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@227 [F# | G] (grid:6t)
+  Adlib Violin : G5@2>1^104
+  Adlib Piano  : G5@2>1^56
+  Adlib Piano#2: G2+F#3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@228 [C | G]
+  Adlib Violin : G5@1>1^104 D5@2>1^104
+  Adlib Piano  : C5+G5@1>4^56 D5@2>1^56
+  Adlib Piano#2: G2+G3@1>4^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@229 [D]
+  Adlib Violin : D5@1>1^104 D5@2>1^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@230 [G7] (grid:16)
+  Adlib Violin : D5@1>28^104
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@231 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@232 [C]
+  Adlib Piano  : G4+C5+D5@1>4^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@233 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@234 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@235 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@236 [C]
+  Adlib Piano  : G4+C5+D5@1>2^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@237 [G | Am] (grid:12t)
+  Adlib Violin : G4@2>1^104 A4@3>1^104
+  Adlib Piano  : G5@2>1^56 A5@3>1^56
+  Adlib Piano#2: D3+C4@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@238 [G] (grid:16)
+  Adlib Violin : B3@1>2^104 D4@3>4^104
+  Adlib Piano  : D5+B5@1>16^56 D6@3>4^56
+  Adlib Piano#2: G2+B2@1>16^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@239 [B] (grid:6t)
+  Adlib Violin : B3@2>2^104
+  Adlib Piano  : B5@2>2^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@240 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@241 [A | G]
+  Adlib Violin : A3@1>1^104 G3@2>1^104
+  Adlib Piano  : A5@1>1^56 G5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@242 [C] (grid:16)
+  Adlib Violin : C4@1>4^104
+  Adlib Piano  : C5@1>16^56
+  Adlib Piano#2: G2+E3+A3@1>8^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@243 [D] (grid:6t)
+  Adlib Violin : D4@1>3^104
+  Adlib Piano  : D5@1>3^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@244 [A7] (grid:4)
+  Adlib Piano#2: G2+E3+A3@1>2^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@245 [B] (grid:4)
+  Adlib Violin : B4@1>1^104
+  Adlib Piano  : B5@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56
+@246 [F#m] (grid:16)
+  Adlib Violin : A4@1>6^104
+  Adlib Piano  : B4+A5@1>8^56
+  Adlib Piano#2: G2+F#3@1>4^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@247 [F# | G] (grid:6t)
+  Adlib Violin : G4@2>1^104
+  Adlib Piano  : G5@2>1^56
+  Adlib Piano#2: G2+F#3@1>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@248 [C | G]
+  Adlib Violin : G4@1>1^104 D4@2>1^104
+  Adlib Piano  : C5+G5@1>4^56 D5@2>1^56
+  Adlib Piano#2: G2+G3@1>4^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@249 [D]
+  Adlib Violin : D4@1>1^104 D4@2>1^104
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@250 [G7] (grid:16)
+  Adlib Violin : D4@1>40^104
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>12^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@251 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@252 [C]
+  Adlib Piano  : G4+C5+D5@1>4^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@253 [G] (grid:12t)
+  Adlib Piano  : D5@2>1^56 D5@3>1^56
+  Adlib Piano#2: G2@1>3^56
+  Adlib Rhythm : D3+G#3@1>3^56
+@254 [G7] (grid:16)
+  Adlib Piano  : F#4+B4+D5@1>8^56 D5@3>2^56
+  Adlib Piano#2: G2@1>24^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56 D3+G#3@3>1^56 D3+G#3@4>1^56
+@255 [D]
+  Adlib Piano  : D5@1>1^56 D5@2>1^56
+  Adlib Rhythm : D3+G#3@1>1^56 D3+G#3@2>1^56
+@256 [C]
+  Adlib Piano  : G4+C5+D5@1>8^56 D5@2>7^56
+  Adlib Rhythm : D3+G#3@1>2^56
+@257 [-] (grid:4)
+  Adlib Rhythm : D3+G#3@1>1^56
+@258 [-]
+@259 [-]

@@ -1,507 +1,672 @@
-KEY: D major | METER: 4/4 | TEMPO: 89 | GRID: 8th (adaptive) | BARS: 76
-VOICES: Electric Piano, Bass, Part3, Part4, Strings, Violin 1, Violin 2, Guitar
+KEY: Ab major | METER: 4/4 | TEMPO: 130 | GRID: 16th (adaptive) | BARS: 128
+VOICES: THE BAD TOUCH Eiffel65's Remix[prog=81], By the Bloodhound Gang feat Eiffel65[prog=70], --------------------------------------------------->>>[prog=63], Sequenced June 2000 by[prog=39], Arne Mulder[prog=61], <<<---------------------------------------------------[prog=81], Copyright by:[prog=2], Arne Mulder 2000[prog=50], ---------------------------------------------------->>>[prog=125], Don't Sell or Modify this file without[drums], permission of the Sequencer.[prog=2], -------------------------------------------------->>>[prog=127], STAY C O O L[prog=95], don't close the fridge[prog=81], <<<---------------------------------------------------#2[prog=48]
 @1 [-]
-@2 [A] (grid:24t)
-  Part3         : A2@22>2 B2@23>2
-  Guitar        : A2@22>2 B2@23>2
-@3 [D]
-  Part3         : D3@1>8 A3@2>7 D4@3>1 D4+F#4@4>5
-  Guitar        : D3@1>8 A3@2>7 D4@3>1 D4+F#4@4>5
-@4 [A | Bm] (grid:24t)
-  Part3         : A2+E3+A3+C#4@1>6 B2+F#3+B3+D4@10>12 B3+D4@16>6 B3@19>2 A2@22>2 B2@23>2
-  Guitar        : A2+E3+A3+C#4@1>6 B2+F#3+B3+D4@10>12 B3+D4@16>6 B3@19>2 A2@22>2 B2@23>2
-@5 [D]
-  Part3         : D3@1>8 A3@2>6 D4@3>1 D4+F#4@4>4 D4@6>3 A3@8>1
-  Guitar        : D3@1>8 A3@2>6 D4@3>1 D4+F#4@4>4 D4@6>3 A3@8>1
-@6 [A | Bm] (grid:24t)
-  Electric Piano: A3@22>2 B3@23>2
-  Bass          : A1@22>2 B1@23>2
-  Part3         : A2+E3+A3+C#4@1>6 B2+F#3+B3+D4@10>12 B3+D4@16>6 B3@19>2 A2@22>2 B2@23>2
-  Guitar        : A2+E3+A3+C#4@1>6 B2+F#3+B3+D4@10>12 B3+D4@16>6 B3@19>2 A2@22>2 B2@23>2
-@7 [D]
-  Electric Piano: D4+A4+D5+F#5@1>7
-  Bass          : D2@1>8
-  Part3         : D3@1>8 A3@2>6 D4@3>1 D4+F#4@4>4 D4@6>3 A3@8>1
-  Guitar        : D3@1>8 A3@2>6 D4@3>1 D4+F#4@4>4 D4@6>3 A3@8>1
-@8 [A | Bm] (grid:24t)
-  Electric Piano: A3+E4+A4+C#5@1>6 B3+F#4+B4+D5@10>9 A3@22>2 B3@23>2
-  Bass          : A1@1>9 B1@10>10 A1@22>2 B1@23>2
-  Part3         : A2+E3+A3+C#4@1>6 B2+F#3+B3+D4@10>12 B3+D4@16>6 B3@19>2 A2+B2@22>2
-  Guitar        : A2+E3+A3+C#4@1>6 B2+F#3+B3+D4@10>12 B3+D4@16>6 B3@19>2 A2+B2@22>2
-@9 [D]
-  Electric Piano: D4+A4+D5+F#5@1>6
-  Bass          : D2@1>8
-  Part3         : D3@1>7 A3@2>5 D4@3>3 F#4@4>4 D4@6>2 A3@7>1 A2@8>1
-  Guitar        : D3@1>7 A3@2>5 D4@3>3 F#4@4>4 D4@6>2 A3@7>1 A2@8>1
-@10 [A | Bm]
-  Electric Piano: A3+E4+A4+C#5@1>2 B3+F#4+A4+D5@4>4
-  Bass          : A1@1>3 B1@4>5
-  Part3         : A2+E3+A3+C#4@1>2 A2@3>1 B2+F#3+B3@4>4 D4@6>3 B3@7>2 B2@8>1
-  Guitar        : A2+E3+A3+C#4@1>2 A2@3>1 B2+F#3+B3@4>4 D4@6>3 B3@7>2 B2@8>1
-@11 [D]
-  Electric Piano: D4+A4+F#5@1>8 A4@4>5
-  Bass          : D2@1>2 D2@4>1 D2@5>3 A1@8>1
-  Part3         : D3@1>8 D4@3>2 A3@5>2 D4+F#4@6>3 A3@7>1 A3@8>1
-  Part4         : A4@3>2 A4@5>4
-  Guitar        : D3@1>8 D4@3>2 A3@5>2 D4+F#4@6>3 A3@7>1 A3@8>1
-@12 [D]
-  Electric Piano: D4+A4+F#5@1>4 A4+C#5@7>1 E4@8>1
-  Bass          : D2@1>2 D2@4>1 D2@5>2 C#2@7>2
-  Part3         : D3+A3+D4+F#4@1>7 A3@2>1 D4@3>3 A3@4>3 F#4@5>2 D4@6>1 C#4@7>2 F#3@8>1
-  Part4         : A4@1>1 B4@2>1 F#4@4>2 E4@5>1 D4@6>3
-  Guitar        : D3+A3+D4+F#4@1>7 A3@2>1 D4@3>3 A3@4>3 F#4@5>2 D4@6>1 C#4@7>2 F#3@8>1
-@13 [Bm]
-  Electric Piano: B3+F#4+D5@1>8
-  Bass          : B1@1>2 B1@4>1 B1@5>3 F#1@8>1
-  Part3         : F#3+B3@1>2 F#3@2>4 B3@3>4 D4@4>3 F#3@6>2 C#4@7>2 F#3@8>1
-  Part4         : B3@2>1 D4@3>1 B3@4>1 D4@5>1 F#4@6>2
-  Guitar        : F#3+B3@1>2 F#3@2>4 B3@3>4 D4@4>3 F#3@6>2 C#4@7>2 F#3@8>1
-@14 [Bm]
-  Electric Piano: B3+F#4+D5@8>7
-  Bass          : B1@1>2 B1@4>1 B1@5>2 A1@7>2
-  Part3         : F#3+D4@1>4 F#3@3>3 B3@4>4 D4@5>2 F#3@6>3 C#4@7>2 B3@8>1
-  Part4         : F#4@1>1 F#4@2>1 E4@4>2 D4@6>2
-  Guitar        : F#3+D4@1>4 F#3@3>3 B3@4>4 D4@5>2 F#3@6>3 C#4@7>2 B3@8>1
-@15 [G]
-  Electric Piano: C#5@6>2 G3+D4+B4@8>6
-  Bass          : G1@1>2 G1@4>1 G1@5>2 G1@8>1
-  Part3         : B3@1>3 D3@2>4 G3@3>3 B3@4>3 D3@6>2 B3@7>2 D3@8>1
-  Part4         : G3@3>2 B3@5>1 D4@6>2
-  Guitar        : B3@1>3 D3@2>4 G3@3>3 B3@4>3 D3@6>2 B3@7>2 D3@8>1
-@16 [A] (grid:24t)
-  Electric Piano: A3+E4+C#5@22>9
-  Bass          : A1@1>8 A1@10>3 B1@13>6 C#2@19>6
-  Part3         : D3+C#4@1>4 E3@4>10 A3@7>9 D4@13>6 E4@19>3 D3@23>2
-  Part4         : A3@1>3 C#4@4>6 E4@10>8 F#4@19>3 F#4@22>3
-  Guitar        : D3+C#4@1>4 E3@4>10 A3@7>9 D4@13>6 E4@19>3 D3@23>2
-@17 [D]
-  Electric Piano: B3+G4+D5@4>2 C#4+A4+E5@6>2 D4+A4+F#5@8>8
-  Bass          : D2@1>2 D2@4>1 D2@5>4
-  Part3         : D3+A3+D4@1>7 A3@3>3 F#4@4>4 A3@6>2 D4@7>2
-  Part4         : F#4@1>2
-  Guitar        : D3+A3+D4@1>7 A3@3>3 F#4@4>4 A3@6>2 D4@7>2
-@18 [G | A]
-  Electric Piano: D5@5>2 D4+B4+D5+G5@8>1
-  Bass          : D2@1>1 D2@2>2 A1@4>1 A1@5>3 D2@8>1
-  Part3         : D3+G3+D4+G4@1>2 G3+D4+G4@2>1 E3+A3+C#4+E4@4>2 A3+C#4+E4@5>4 E3@6>3 A2+A3@7>2 E4@8>1
-  Guitar        : D3+G3+D4+G4@1>2 G3+D4+G4@2>1 E3+A3+C#4+E4@4>2 A3+C#4+E4@5>4 E3@6>3 A2+A3@7>2 E4@8>1
-@19 [D]
-  Electric Piano: D4+B4+D5+G5@1>1 A3+A4+C#5+E5@3>1 A3+A4+C#5+E5@4>2 A4+D5+F#5@7>1 D4+A4+D5+F#5@8>8
-  Bass          : D2@1>2 D2@4>1 D2@5>2 D2@8>1
-  Part3         : A2+E4+F#4@1>4 A3@2>2 D4@3>4 A3@4>2 F#4@5>4 A3@6>2 D4@7>2 A3@8>1
-  Part4         : F#4@2>1 A4@3>1 F#4@4>1 A4@5>1 F#4@6>1 A4@7>1 F#4@8>1
-  Violin 1      : D4@1>8
-  Guitar        : A2+E4+F#4@1>4 A3@2>2 D4@3>4 A3@4>2 F#4@5>4 A3@6>2 D4@7>2 A3@8>1
-@20 [A | Bm]
-  Electric Piano: A3+E4+A4+C#5@8>2
-  Bass          : A1@1>2 B1@4>3 A1@7>1 F#1@8>1
-  Part3         : E3+A3+C#4@1>2 B2+F#3+B3+D4@4>5 F#3@6>2 B3@7>1 F#3@8>1
-  Part4         : A4@1>1 A4@2>1 B4@3>1 F#4@4>2 E4@5>1 D4@6>2
-  Violin 1      : C#4@1>3 B3@4>5
-  Guitar        : E3+A3+C#4@1>2 B2+F#3+B3+D4@4>5 F#3@6>2 B3@7>1 F#3@8>1
-@21 [G | F#m]
-  Electric Piano: B3+D4+F#4+B4@3>5 F#4@7>1 E3+B3+D4+G4@8>4
-  Bass          : E1@1>2 E1@4>1 F#1@5>2 F#1@8>1
-  Part3         : B3@1>2 G3@2>2 B3@3>2 G3@4>1 F#3+A3+C#4@5>4 C#4@7>2 A3@8>1
-  Part4         : B3@2>1 D4@3>1 E4@4>1 F#4@5>1 F#4@6>1 E4@8>1
-  Violin 1      : D4@1>4 E4@5>4
-  Violin 2      : B3@1>4 C#4@5>4
-  Guitar        : B3@1>2 G3@2>2 B3@3>2 G3@4>1 F#3+A3+C#4@5>4 C#4@7>2 A3@8>1
-@22 [D | A]
-  Electric Piano: F#3+E4+A4+C#5@4>4 B3+F#4+A4+D5@8>6
-  Bass          : B1@1>2 B1@4>1 B1@5>2 A1@7>2
-  Part3         : F#3+A3+D4@1>4 D4@3>4 A3@4>2 A3@6>1 E3+A3+C#4@7>2
-  Part4         : F#4@1>2 F#4@3>2 E4@5>1 D4@6>1 A3@8>1
-  Violin 1      : F#4@1>6 E4@7>2
-  Violin 2      : D4@1>6 C#4@7>2
-  Guitar        : F#3+A3+D4@1>4 D4@3>4 A3@4>2 A3@6>1 E3+A3+C#4@7>2
-@23 [G]
-  Electric Piano: A3+E4+A4+C#5@6>2 G3+D4+G4+B4@8>8
-  Bass          : G1@1>2 G1@4>1 G1@5>2 G1@8>1
-  Part3         : D3+G3@1>8 D4@2>3 G3@3>3 G4@4>4 D4@5>2 G3@6>2 D4@7>2 G3@8>1
-  Part4         : G3@1>2 B3@3>1 B3@4>1 D4@5>2 B3@7>1 A3@8>1
-  Violin 1      : D4@1>8
-  Violin 2      : B3@1>8
-  Guitar        : D3+G3@1>8 D4@2>3 G3@3>3 G4@4>4 D4@5>2 G3@6>2 D4@7>2 G3@8>1
-@24 [A] (grid:16)
-  Electric Piano: A4+D5@5>9 B4@6>8 G4@7>7 A3+E4+A4+C#5@15>6
-  Bass          : A1@1>5 A1@7>2 B1@9>4 C#2@13>4
-  Part3         : E3+A3+C#4@1>7 C#4@5>3 A3@7>1 D3+A3+D4@9>4 E3+A3+C#4@13>4
-  Part4         : A3@1>3 C#4@5>1 E4@6>3 E4@9>4 F#4@13>2 F#4@15>2
-  Violin 1      : C#4@1>8 D4@9>4 E4@13>4
-  Violin 2      : A3@1>8 B3@9>4 A3@13>3
-  Guitar        : E3+A3+C#4@1>7 C#4@5>3 A3@7>1 D3+A3+D4@9>4 E3+A3+C#4@13>4
-@25 [D] (grid:16)
-  Electric Piano: B3+D4+A4@7>3 C#4+E4+A4@11>3 D4+F#4+A4+D5@15>14
-  Bass          : D2@1>5 D2@7>1 D2@9>7
-  Part3         : F#3@1>8 A3@3>4 D4@5>11 A3@7>4 A3@11>3
-  Part4         : F#4@1>1 E4@2>1 D4@3>11
-  Violin 1      : F#4@1>15
-  Violin 2      : A3@1>13
-  Guitar        : F#3@1>8 A3@3>4 D4@5>11 A3@7>4 A3@11>3
-@26 [G | D]
-  Electric Piano: D5@3>4 A4@5>2 D4+B4+D5+G5@8>1
-  Bass          : D2@1>1 D2@2>1 D2@4>1 D2@5>2 A1@7>2
-  Part3         : G3+D4+G4@1>2 D4+G4@2>1 D3+A3+D4+F#4@4>2 A3@5>2 E3+A3+C#4@7>2
-  Part4         : E4@7>1 D4@8>1
-  Violin 1      : F#4@5>2 E4@7>2
-  Violin 2      : D4@5>2 C#4@7>2
-  Guitar        : G3+D4+G4@1>2 D4+G4@2>1 D3+A3+D4+F#4@4>2 A3@5>2 E3+A3+C#4@7>2
-@27 [G]
-  Electric Piano: D4+B4+D5+G5@1>1 D4+A4+D5+F#5@3>1 D4+A4+D5+F#5@4>1 A3+E4+A4+C#5@6>2 G3+B3+D4@8>5
-  Bass          : G1@1>2 G1@4>1 D2@5>2 E2@7>1 D2@8>1
-  Part3         : D3+G3+D4@1>5 D4@2>3 D3@4>3 D4@5>3 G3@6>3
-  Part4         : G4@2>1 G4@3>1 G4@4>3 D4@8>1
-  Strings       : G3+B3@2>1 G3+B3@3>1 G3+B3@4>4 D3+B3@8>1
-  Violin 1      : D4@1>8
-  Violin 2      : B3@1>8
-  Guitar        : D3+G3+D4@1>5 D4@2>3 D3@4>3 D4@5>3 G3@6>3
-@28 [G]
-  Electric Piano: G3@5>3 D4@6>1 B3@7>1 G3+C4@8>4
-  Bass          : G1@1>2 G1@4>1 D2@5>2 E2@7>1 D2@8>1
-  Part3         : D3+G3@1>2 G3@2>3 D3@3>3 D4@4>4 G3@5>4 D3@6>3 G4@7>2 D4@8>1
-  Part4         : G4@1>2 G4@3>1 G4@4>2 D5@7>1 C#5@8>1
-  Strings       : G3+C4@1>2 G3+B3@3>1 G3+B3@4>2
-  Guitar        : D3+G3@1>2 G3@2>3 D3@3>3 D4@4>4 G3@5>4 D3@6>3 G4@7>2 D4@8>1
-@29 [A | G]
-  Electric Piano: B3@3>1 G3@4>2 A3+C#4+E4+A4@8>4
-  Bass          : A1@1>2 A1@4>1 B1@5>2 C#2@7>2
-  Part3         : E3+A3+C#4@1>4 C#4@3>2 A3@4>1 D3+G3+D4@5>2 E3+A3+C#4@7>2
-  Part4         : C#5@1>2 B4@3>1 A4@4>1 B4@5>2 A4@7>1 A4@8>1
-  Guitar        : E3+A3+C#4@1>4 C#4@3>2 A3@4>1 D3+G3+D4@5>2 E3+A3+C#4@7>2
-@30 [D]
-  Electric Piano: B3+D4+A4@4>2 C#4+E4+A4@6>1 D4+F#4+A4@8>7
-  Bass          : D2@1>3 D2@4>2 D2@6>1 B1@7>1 A1@8>1
-  Part3         : F#3+D4@1>3 D4@3>3 A3@4>3 F#4@5>4 D4@6>2 A3@7>2 D4@8>1
-  Part4         : F#4@1>2 D4@4>2 D4@8>1
-  Guitar        : F#3+D4@1>3 D4@3>3 A3@4>3 F#4@5>4 D4@6>2 A3@7>2 D4@8>1
-@31 [G]
-  Electric Piano: D5@3>1 A4@4>1 D5@5>1 A4@6>2 G3+D4+B4@8>7
-  Bass          : G1@1>2 G1@4>1 D2@5>2 E2@7>1 D2@8>1
-  Part3         : G3@1>4 D4@3>6 B3@4>2 G3@5>2 B3@6>1 B3@8>1
-  Part4         : G4@1>1 G4@2>1 G4@4>1 G4@5>2 D4@8>1
-  Strings       : B3@1>1 B3@2>2 G3+B3@4>1 G3+B3@5>2 D3+B3@8>1
-  Guitar        : G3@1>4 D4@3>6 B3@4>2 G3@5>2 B3@6>1 B3@8>1
-@32 [G]
-  Electric Piano: D4@3>4 G3+D4+B4@8>5
-  Bass          : G1@1>2 G1@4>1 G1@5>2 F#1@7>2
-  Part3         : G3+B3@1>2 B3@2>3 G3@3>3 D4@4>2 B3@5>1 G3@6>1 F#3@7>2 A3@8>1
-  Part4         : G4@1>1 G4@2>1 G4@3>1 G4@4>3
-  Strings       : G3+C4@1>1 G3+B3@2>1 G3+B3@3>1 G3+B3@4>3
-  Guitar        : G3+B3@1>2 B3@2>3 G3@3>3 D4@4>2 B3@5>1 G3@6>1 F#3@7>2 A3@8>1
-@33 [E]
-  Electric Piano: F#3+D4+A4@6>2 E3+G#3+D4+G#4@8>3
-  Bass          : E1@1>2 E1@4>1 F#1@5>2 G#1@7>2
-  Part3         : E2+E3+G#3@1>4 B3@3>2 G#3@4>1 F#2+A3@5>2 E3@6>1 G#2+E3+B3@7>2
-  Part4         : E4@1>2 E4@3>2 B4@5>1 B4@6>1 A4@8>1
-  Guitar        : E2+E3+G#3@1>4 B3@3>2 G#3@4>1 F#2+A3@5>2 E3@6>1 G#2+E3+B3@7>2
-@34 [F#m7 | D]
-  Electric Piano: F#3+E4+A4@4>2 G#3+E4+B4@6>2 A3+E4+A4+C#5@8>4
-  Bass          : A1@1>4 E2@5>2 F#2@7>2
-  Part3         : A2+A3+C#4@1>4 A3@3>2 E3+G3+D4@5>2 F#3+A3+D4@7>2
-  Part4         : A4@1>1 F#5@2>2 E5@4>2 D5@6>2
-  Violin 1      : G4@5>2 A4@7>2
-  Violin 2      : D4@5>2 D4@7>2
-  Guitar        : A2+A3+C#4@1>4 A3@3>2 E3+G3+D4@5>2 F#3+A3+D4@7>2
-@35 [G | A]
-  Electric Piano: A4@2>2 D4+E4+G4@4>2 D4+F#4+A4@6>2 G3+D4+B4@8>4
-  Bass          : G2@1>2 G2@4>1 A2@5>2 A1@8>1
-  Part3         : G3+B3+D4@1>4 G4@2>2 D4@3>1 B3@4>1 E3+A3@5>4 C#4@6>3 A3@7>2
-  Part4         : D5@1>1 D5@2>1 C#5@4>1 C#5@5>2 B4@7>1 A4@8>1
-  Violin 1      : B4@1>4 A4@5>4
-  Violin 2      : D4@1>4 C#4@5>4
-  Guitar        : G3+B3+D4@1>4 G4@2>2 D4@3>1 B3@4>1 E3+A3@5>4 C#4@6>3 A3@7>2
-@36 [D7]
-  Electric Piano: A3+E4+C#5@4>2 D4+F#4+A4+D5@8>8
-  Bass          : D2@1>2 D2@4>1 D2@5>2 C#2@7>2
-  Part3         : A3@1>2 D4@3>2 A3@4>2 D4@5>2 A3@6>2 C#4@7>2 A3@8>1
-  Part4         : A4@1>1 A4@2>1 F#4@3>1 F#4@4>2 E4@5>1 D4@6>2
-  Violin 1      : F#4@1>4 G4@5>2 A4@7>2
-  Violin 2      : A3@1>4 B3@5>2 C#4@7>2
-  Guitar        : A3@1>2 D4@3>2 A3@4>2 D4@5>2 A3@6>2 C#4@7>2 A3@8>1
-@37 [Bm | F#m7]
-  Electric Piano: D5@5>1 E5@6>1 D5@7>1 B3+F#4+B4+D5@8>8
-  Bass          : B1@1>2 B1@4>1 B1@5>3 F#1@8>1
-  Part3         : F#3+B3+D4@1>2 D4@2>3 B3@3>3 F#3@4>3 C#4@5>4 A3@6>2
-  Part4         : B3@2>1 D4@3>1 E4@4>1 F#4@5>1 E4@6>1 F#4@7>1 E4@8>1
-  Violin 1      : F#4@1>4 E4@5>4
-  Violin 2      : D4@1>4 C#4@5>4
-  Guitar        : F#3+B3+D4@1>2 D4@2>3 B3@3>3 F#3@4>3 C#4@5>4 A3@6>2
-@38 [Bm | A]
-  Electric Piano: B4+D5@3>2 C#5@4>2 A4@6>2 B3+F#4+B4@8>8
-  Bass          : B1@1>2 B1@4>1 B1@5>2 A1@7>2
-  Part3         : F#3@1>2 B3@2>1 F#3@3>2 D4@4>1 F#3+B3+D4@5>2 E3+A3+C#4@7>2
-  Part4         : F#4@1>1 E4@2>1 F#4@3>1 E4@4>2 D4@6>1 A3@8>1
-  Violin 1      : D4@1>4 D4@5>2 C#4@7>2
-  Violin 2      : B3@1>4 B3@5>2 A3@7>2
-  Guitar        : F#3@1>2 B3@2>1 F#3@3>2 D4@4>1 F#3+B3+D4@5>2 E3+A3+C#4@7>2
-@39 [G]
-  Electric Piano: D4@4>1 F#4@5>1 E4@6>2 G3+B3+D4@8>7
-  Bass          : G1@1>2 G1@4>1 D2@5>2 G1@7>1 G#1@8>1
-  Part3         : G3@1>4 D4@3>4 B3@4>2 G3@5>4 G4@6>2 D4@7>1 B3@8>1
-  Part4         : G3@1>2 B3@3>1 D4@4>1 D4@5>2 B3@7>1 A3@8>1
-  Violin 1      : G4@1>4 B4@5>4
-  Violin 2      : B3@1>4 D4@5>4
-  Guitar        : G3@1>4 D4@3>4 B3@4>2 G3@5>4 G4@6>2 D4@7>1 B3@8>1
-@40 [A | D] (grid:16)
-  Electric Piano: B3+D4@5>8 B4@13>1 A3+E4+C#5@15>6
-  Bass          : A1@1>5 A1@7>2 B1@9>4 C#2@13>4
-  Part3         : E3+A3+C#4@1>7 C#4@5>3 A3@7>1 D3+D4@9>4 E3+A3+C#4@13>2
-  Part4         : A3@1>1 C#4@5>1 E4@6>2 E4@9>4 F#4@13>2 F#4@15>2
-  Violin 1      : A4@1>8 A4@9>4 A4@13>4
-  Violin 2      : C#4@1>8 D4@9>4 E4@13>4
-  Guitar        : E3+A3+C#4@1>7 C#4@5>3 A3@7>1 D3+D4@9>4 E3+A3+C#4@13>2
-@41 [D] (grid:16)
-  Electric Piano: B3+G4+D5@7>4 C#4+A4+E5@11>3 D4+A4+D5+F#5@15>11
-  Bass          : D2@1>5 D2@7>1 D2@9>7
-  Part3         : A3@1>2 A3@3>8 D4@5>2 E4@7>1 F#4@8>5 D4@9>4 A3@11>5 D4@13>3
-  Part4         : F#4@1>1 E4@2>1 D4@3>5
-  Violin 1      : A4@1>16
-  Violin 2      : F#4@1>15
-  Guitar        : A3@1>2 A3@3>8 D4@5>2 E4@7>1 F#4@8>5 D4@9>4 A3@11>5 D4@13>3
-@42 [C#dim | A] (grid:24t)
-  Electric Piano: D5@13>3 A4@16>4 D4@19>2 D4+B4+D5+G5@22>2
-  Bass          : D2@1>3 D2@4>2 A1@10>2 A1@13>8 A1@22>2 B1@23>2
-  Part3         : G3+D4+G4@1>6 D4+G4@4>2 A3+C#4+E4@10>3 A3+C#4+E4@13>6 A2@22>2 B2@23>2
-  Violin 1      : A4@10>2 A4@13>12
-  Violin 2      : E4@10>3 E4@13>12
-  Guitar        : G3+D4+G4@1>6 D4+G4@4>2 A3+C#4+E4@10>3 A3+C#4+E4@13>6 A2@22>2 B2@23>2
-@43 [D] (grid:16)
-  Electric Piano: D4+B4+D5+G5@1>1 A3+A4+C#5+E5@5>1 A3+A4+C#5+E5@7>4 A3@13>1 B3@14>1 D4+F#4+A4@15>15
-  Bass          : D2@1>5 D2@7>1 D2@9>8
-  Part3         : D3@1>12 A3@3>8 D4@5>2 D4+F#4@7>9 D4@11>6 D3+A3@13>4 A3@15>1
-  Part4         : D5@5>2 D5@7>2 D5@9>2 D5@11>2 D5@13>2 D5@15>2
-  Strings       : D4+F#4+A4@5>2 D4+F#4+A4@7>2 D4+F#4+A4@9>2 D4+F#4+A4@11>2 D4+F#4+A4@13>2 D4+F#4+A4@15>2
-  Guitar        : D3@1>12 A3@3>8 D4@5>2 D4+F#4@7>9 D4@11>6 D3+A3@13>4 A3@15>1
-@44 [A | Bm] (grid:24t)
-  Electric Piano: C#4+E4+A4@22>6
-  Bass          : A1@1>9 B1@10>9 A1@22>2 B1@23>2
-  Part3         : E3+A3+C#4@1>6 B2+F#3+B3+D4@10>10 B2@16>4 A2@22>2 B2@23>2
-  Part4         : C#5@1>3 C#5@4>3 C#5@7>3 B4@10>6 F#4@19>3 E4@22>2 D4@23>2
-  Strings       : C#4+E4+A4@1>3 C#4+E4+A4@4>3 C#4+E4+A4@7>3 B3+D4+F#4@10>12
-  Guitar        : E3+A3+C#4@1>6 B2+F#3+B3+D4@10>10 B2@16>4 A2@22>2 B2@23>2
-@45 [D] (grid:16)
-  Electric Piano: D4+F#4+B4@5>7 A3@13>1 B3@14>1 D4+F#4+A4@15>15
-  Bass          : D2@1>5 D2@7>1 D2@9>8
-  Part3         : D3@1>14 A3@3>10 D4@5>6 F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-  Part4         : D4@1>2 D5@5>10
-  Strings       : D4+F#4+A4@5>12
-  Guitar        : D3@1>14 A3@3>10 D4@5>6 F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-@46 [A | Bm]
-  Electric Piano: C#4+E4+A4@8>2
-  Bass          : A1@1>3 B1@4>5
-  Part3         : E3+A3+C#4@1>2 B2+F#3+B3+D4@4>4 D4@6>2 B3@7>1 A2+B2@8>1
-  Part4         : C#5@1>3 B4@4>4
-  Strings       : C#4+E4+A4@1>3 B3+D4+F#4@4>4
-  Guitar        : E3+A3+C#4@1>2 B2+F#3+B3+D4@4>4 D4@6>2 B3@7>1 A2+B2@8>1
-@47 [D] (grid:16)
-  Electric Piano: D4+F#4+B4@5>7 A3@13>1 B3@14>1 D4+F#4+A4@15>15
-  Bass          : D2@1>5 D2@7>10
-  Part3         : D3@1>14 A3@3>9 D4@5>5 F#4@7>9 D4@11>6 A3@13>3 D3@15>2
-  Part4         : D5@5>2 D5@7>2 D5@9>2 D5@11>2 D5@13>2 D5@15>2
-  Strings       : D4+F#4+A4@5>2 D4+F#4+A4@7>2 D4+F#4+A4@9>2 D4+F#4+A4@11>2 D4+F#4+A4@13>2 D4+F#4+A4@15>2
-  Guitar        : D3@1>14 A3@3>9 D4@5>5 F#4@7>9 D4@11>6 A3@13>3 D3@15>2
-@48 [A | Bm] (grid:16)
-  Electric Piano: C#4+E4+A4@15>4
-  Bass          : A1@1>6 B1@7>6 A1@13>2 F#1@15>2
-  Part3         : E3+A3+C#4@1>5 C#4@3>2 A3@5>1 B2+F#3+B3@7>6 D4@11>5 A2@13>4
-  Part4         : C#5@1>2 C#5@3>2 C#5@5>2 B4@7>3 F#4@11>2 E4@13>1 D4@14>2
-  Strings       : C#4+E4+A4@1>2 C#4+E4+A4@3>2 C#4+E4+A4@5>2 B3+D4+F#4@7>6
-  Guitar        : E3+A3+C#4@1>5 C#4@3>2 A3@5>1 B2+F#3+B3@7>6 D4@11>5 A2@13>4
-@49 [E7]
-  Electric Piano: D4+F#4+B4@3>4 A3@6>2 E3+G#3+D4+G#4@8>4
-  Bass          : E1@1>2 E1@4>1 F#1@5>2 G#1@7>2
-  Part3         : E3@1>3 G#3@2>2 B3@3>2 G#3@4>1 F#2+E3+A3@5>2 G#2+E3+B3@7>2
-  Part4         : E4@1>2 E4@3>2 B4@5>1 B4@6>2 A4@8>1
-  Guitar        : E3@1>3 G#3@2>2 B3@3>2 G#3@4>1 F#2+E3+A3@5>2 G#2+E3+B3@7>2
-@50 [A | D]
-  Electric Piano: F#3+E4+A4@4>2 G#3+E4+B4@6>2 A3+E4+C#5@8>4
-  Bass          : A1@1>4 E2@5>2 F#2@7>2
-  Part3         : A2+E3+A3+C#4@1>4 A3@3>2 C#4@4>1 E3+G3+D4@5>1 F#3+A3+D4@7>2
-  Part4         : A4@1>1 F#5@2>2 E5@4>2 D5@6>2
-  Violin 1      : G4@5>2 A4@7>2
-  Violin 2      : E4@5>2 F#4@7>2
-  Guitar        : A2+E3+A3+C#4@1>4 A3@3>2 C#4@4>1 E3+G3+D4@5>1 F#3+A3+D4@7>2
-@51 [G | A] (grid:16)
-  Electric Piano: D4+E4+G4@7>3 D4+F#4+A4@11>3 G3+D4+B4@15>7
-  Bass          : G2@1>4 G2@7>1 A2@9>6 A1@15>2
-  Part3         : D3+G3+D4@1>7 G4@3>5 D4@5>3 G3@7>1 C#4@8>2 E3+A3@9>8 C#4@11>6 A3@13>4
-  Part4         : D5@1>2 D5@3>3 C#5@7>2 C#5@9>4 B4@13>2 A4@15>2
-  Strings       : D4+G4+B4@1>2 D4+G4+B4@3>4 C#4+E4+A4@7>2 C#4+E4+A4@9>4 B3+E4+A4@13>2 A3+D4+F#4@15>2
-  Violin 1      : B4@1>8 A4@9>8
-  Violin 2      : G4@1>8 E4@9>8
-  Guitar        : D3+G3+D4@1>7 G4@3>5 D4@5>3 G3@7>1 C#4@8>2 E3+A3@9>8 C#4@11>6 A3@13>4
-@52 [D]
-  Electric Piano: A3+E4+C#5@4>2 D4+F#4+A4+D5@8>8
-  Bass          : D2@1>2 D2@4>1 D2@5>4
-  Part3         : A3@2>2 D4@3>5 A3@4>2 F#4@5>2 A3@6>3 E4@7>2 D4@8>1
-  Part4         : A4@1>1 A4@2>1 F#4@3>1 F#4@4>2 E4@5>1 D4@6>2
-  Strings       : A3+D4+F#4@1>1 A3+D4+F#4@2>1 F#3+A3+D4@3>1 F#3+A3+D4@4>3 E3@5>1 D3@6>2
-  Violin 1      : F#4@1>4 D5@5>4
-  Violin 2      : D4@1>4 F#4@5>4
-  Guitar        : A3@2>2 D4@3>5 A3@4>2 F#4@5>2 A3@6>3 E4@7>2 D4@8>1
-@53 [Bm]
-  Electric Piano: A4@5>1 D5@6>1 A4@7>1 B3+F#4+B4+D5@8>8
-  Bass          : B1@1>2 B1@4>1 B1@5>3 F#1@8>1
-  Part3         : F#3+B3+D4@1>5 D4@4>5 B3@5>2 F#3@6>2 B3@7>1 F#3@8>1
-  Part4         : B3@2>1 D4@3>1 E4@4>1 F#4@5>1 E4@6>1 F#4@7>1 F#4@8>1
-  Violin 1      : B4@1>6 A4@7>2
-  Violin 2      : F#4@1>6 E4@7>2
-  Guitar        : F#3+B3+D4@1>5 D4@4>5 B3@5>2 F#3@6>2 B3@7>1 F#3@8>1
-@54 [Bm7]
-  Electric Piano: B4+D5@3>5 D5@7>1 B3+F#4+B4@8>8
-  Bass          : B1@1>2 B1@4>1 B1@5>2 A1@7>2
-  Part3         : F#3+B3@1>3 D4@2>6 B3@3>2 F#3@4>2 B3@5>2 F#3@6>2 A3@7>1 E3@8>1
-  Part4         : F#4@1>1 E4@2>1 F#4@3>1 E4@4>2 D4@6>2 A3@8>1
-  Violin 1      : F#4@1>6 A4@7>2
-  Violin 2      : D4@1>6 E4@7>2
-  Guitar        : F#3+B3@1>3 D4@2>6 B3@3>2 F#3@4>2 B3@5>2 F#3@6>2 A3@7>1 E3@8>1
-@55 [G]
-  Electric Piano: A4@6>2 B3+D4+G4@8>8
-  Bass          : G1@1>2 G1@4>1 G1@5>2 G1@8>1
-  Part3         : D3+G3@1>3 D4@2>3 G3@3>3 D3@4>3 D4@5>4 G3@6>2 D3@7>2 G3@8>1
-  Part4         : G3@1>2 B3@3>1 D4@4>1 D4@5>2 B3@7>1 A3@8>1
-  Violin 1      : B4@1>4 G4@5>4
-  Violin 2      : D4@1>4 B3@5>4
-  Guitar        : D3+G3@1>3 D4@2>3 G3@3>3 D3@4>3 D4@5>4 G3@6>2 D3@7>2 G3@8>1
-@56 [A] (grid:16)
-  Electric Piano: B4@9>2 G4@11>2 D4@13>2 A3+E4+C#5@15>6
-  Bass          : A1@1>5 A1@7>2 B1@9>4 C#2@13>4
-  Part3         : E3+A3@1>6 C#4@3>4 A3@5>2 D3+A3+D4@8>3 E3+A3+C#4+E4@13>3
-  Part4         : A3@1>2 C#4@5>1 E4@6>3 E4@9>3 F#4@13>2 F#4@15>2
-  Violin 1      : A4@1>8 A4@9>3 A4@13>3
-  Violin 2      : C#4@1>8 D4@9>4 E4@13>4
-  Guitar        : E3+A3@1>6 C#4@3>4 A3@5>2 D3+A3+D4@8>3 E3+A3+C#4+E4@13>3
-@57 [D] (grid:16)
-  Electric Piano: B3+A4+D5@7>3 C#4+A4+E5@11>3 D4+A4+D5+F#5@15>11
-  Bass          : D2@1>5 D2@7>1 D2@9>4 A2@13>2 A1@15>2
-  Part3         : D3@1>14 A3@3>12 D4@5>8 F#4@7>2 E4@9>6 D4@13>2
-  Part4         : F#4@1>1 E4@2>1 D4@3>8
-  Violin 1      : A4@1>7 A4@9>4 F#4@13>4
-  Violin 2      : F#4@1>8 E4@9>4 D4@13>2
-  Guitar        : D3@1>14 A3@3>12 D4@5>8 F#4@7>2 E4@9>6 D4@13>2
-@58 [G | A] (grid:24t)
-  Electric Piano: D5@13>3 A4@16>4 D4@19>2 D4+B4+D5+G5@22>2
-  Bass          : D2@1>3 D2@4>2 A1@10>2 A1@13>8 A1@22>2 B1@23>2
-  Part3         : D3+G3+D4+G4@1>6 G4@4>3 E3+A3+C#4+E4@10>10 A3+C#4@13>6 A2@22>2 B2@23>2
-  Violin 1      : B4@1>2 B4@4>4 A4@10>3 A4@13>10
-  Violin 2      : D4@1>3 G4@4>4 E4@10>3 E4@13>10
-  Guitar        : D3+G3+D4+G4@1>6 G4@4>3 E3+A3+C#4+E4@10>10 A3+C#4@13>6 A2@22>2 B2@23>2
-@59 [D] (grid:16)
-  Electric Piano: D4+B4+D5+G5@1>1 A3+A4+C#5+E5@5>1 A3+A4+C#5+E5@7>4 A3@13>1 B3@14>1 D4+F#4+A4@15>15
-  Bass          : D2@1>5 D2@7>1 D2@9>8
-  Part3         : D3@1>14 A3@5>8 D4+F#4@7>9 D4@11>5 A3@13>3 D3@15>2
-  Part4         : D5@5>2 D5@7>2 D5@9>2 D5@11>2 D5@13>2 D5@15>2
-  Strings       : D4+F#4+A4@5>2 D4+F#4+A4@7>2 D4+F#4+A4@9>2 D4+F#4+A4@11>2 D4+F#4+A4@13>2 D4+F#4+A4@15>2
-  Guitar        : D3@1>14 A3@5>8 D4+F#4@7>9 D4@11>5 A3@13>3 D3@15>2
-@60 [A | Bm]
-  Electric Piano: C#4+E4+A4@8>2
-  Bass          : A1@1>3 B1@4>4 A1@8>1
-  Part3         : A2+E3+A3+C#4@1>3 C#4@2>1 B2+F#3+B3+D4@4>4 D4@6>2 B3@7>1 A2@8>1
-  Part4         : C#5@1>1 C#5@2>1 C#5@3>1 B4@4>2 F#4@7>1 E4@8>1
-  Strings       : C#4+E4+A4@1>1 C#4+E4+A4@2>1 C#4+E4+A4@3>1 B3+D4+F#4@4>4
-  Guitar        : A2+E3+A3+C#4@1>3 C#4@2>1 B2+F#3+B3+D4@4>4 D4@6>2 B3@7>1 A2@8>1
-@61 [D] (grid:16)
-  Electric Piano: D4+F#4+B4@5>7 A3@13>1 B3@14>1 D4+F#4+A4@15>15
-  Bass          : B1+D2@1>5 D2@7>1 D2@9>8
-  Part3         : D3@1>14 A3@3>10 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-  Part4         : D4@1>2 D5@5>10
-  Strings       : D4+F#4+A4@5>12
-  Guitar        : D3@1>14 A3@3>10 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-@62 [A | Bm]
-  Electric Piano: C#4+E4+A4@8>2
-  Bass          : A1@1>3 B1@4>3 A1@8>1
-  Part3         : A2+E3+A3+C#4@1>3 C#4@2>2 B2+F#3+B3+D4@4>3 D4@6>3 B2@7>1 A2+B2@8>1
-  Part4         : C#5@1>3 B4@4>4
-  Strings       : C#4+E4+A4@1>3 B3+D4+F#4@4>4
-  Guitar        : A2+E3+A3+C#4@1>3 C#4@2>2 B2+F#3+B3+D4@4>3 D4@6>3 B2@7>1 A2+B2@8>1
-@63 [D] (grid:16)
-  Electric Piano: D4+F#4+B4@5>7 F#4@13>1 E4@14>1 D4+F#4+A4@15>15
-  Bass          : B1+D2@1>5 D2@7>1 D2@9>8
-  Part3         : D3@1>14 A3@3>9 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-  Part4         : D5@5>2 D5@7>2 D5@9>2 D5@11>2 D5@13>2 D5@15>2
-  Strings       : D4+F#4+A4@5>2 D4+F#4+A4@7>2 D4+F#4+A4@9>2 D4+F#4+A4@11>2 D4+F#4+A4@13>2 D4+F#4+A4@15>2
-  Guitar        : D3@1>14 A3@3>9 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-@64 [A | Bm]
-  Electric Piano: C#4+E4+A4@8>2
-  Bass          : A1@1>3 B1@4>4 A1@8>1
-  Part3         : E3+A3@1>2 C#4@2>1 A2+A3@3>1 B2+F#3+B3@4>4 D4@6>1 F#3@7>1 A2+B2@8>1
-  Part4         : C#5@1>1 C#5@2>1 C#5@3>1 B4@4>2 F#4@7>1 E4@8>1
-  Strings       : C#4+E4+A4@1>1 C#4+E4+A4@2>1 C#4+E4+A4@3>1 B3+D4+F#4@4>4
-  Guitar        : E3+A3@1>2 C#4@2>1 A2+A3@3>1 B2+F#3+B3@4>4 D4@6>1 F#3@7>1 A2+B2@8>1
-@65 [D] (grid:16)
-  Electric Piano: D4+F#4+B4@5>9 F#4@13>1 E4@14>1 D4+F#4+A4@15>15
-  Bass          : B1+D2@1>5 D2@7>1 D2@9>8
-  Part3         : D3@1>14 A3@3>10 D4@5>2 D4+F#4@7>9 D4@11>6 A3@13>2 D3@15>2
-  Part4         : D4@1>2 D5@5>10
-  Strings       : D4+F#4+A4@5>12
-  Guitar        : D3@1>14 A3@3>10 D4@5>2 D4+F#4@7>9 D4@11>6 A3@13>2 D3@15>2
-@66 [A | Bm]
-  Electric Piano: C#4+E4+A4@8>2
-  Bass          : A1@1>3 B1@4>2 A1@6>1 B1@7>1 C#2@8>1
-  Part3         : E3@1>2 C#4@2>1 A3@3>1 B2+F#3+B3@4>4 D4@5>3 B3@6>1 F#3@7>1 A2+B2@8>1
-  Part4         : C#5@1>3 B4@4>2 F#4@7>1 A4@8>1
-  Strings       : C#4+E4+A4@1>3 B3+D4+F#4@4>4
-  Guitar        : E3@1>2 C#4@2>1 A3@3>1 B2+F#3+B3@4>4 D4@5>3 B3@6>1 F#3@7>1 A2+B2@8>1
-@67 [D] (grid:16)
-  Electric Piano: D4+F#4+B4@5>7 A3@13>1 B3@14>1 D4+F#4+A4@15>15
-  Bass          : D2@1>6 D3@7>10 D2@9>8
-  Part3         : D3@1>14 A3@3>4 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-  Part4         : F#4@1>4
-  Strings       : D4+F#4+A4@5>2 D4+F#4+A4@7>2 D4+F#4+A4@9>2 D4+F#4+A4@11>2 D4+F#4+A4@13>2 D4+F#4+A4@15>2
-  Guitar        : D3@1>14 A3@3>4 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-@68 [A | Bm]
-  Electric Piano: C#4+E4+A4@8>2
-  Bass          : A1@1>3 B1@4>1 B2@5>1 A2@6>1 F#2@7>1 E2@8>1
-  Part3         : E3@1>2 C#4@2>2 A3@3>1 B2+F#3+B3@4>4 D4@6>3 B3@7>1 A2+B2@8>1
-  Part4         : F#4@5>1 A4@6>1 F#4@7>1 E4@8>1
-  Strings       : C#4+E4+A4@1>1 C#4+E4+A4@2>1 C#4+E4+A4@3>1 B3+D4+F#4@4>4
-  Guitar        : E3@1>2 C#4@2>2 A3@3>1 B2+F#3+B3@4>4 D4@6>3 B3@7>1 A2+B2@8>1
-@69 [D]
-  Electric Piano: D4+F#4+B4@3>3 Bb3+B3@4>1 A3@5>1 F#3@6>1 E3@7>1 D3+D4+F#4+A4@8>8
-  Bass          : D2@1>2 D3@4>1 D2@5>4
-  Part3         : D3@1>7 A3@2>5 D4@3>1 D4+F#4@4>4 D4@6>2 A3@7>1 D3@8>1
-  Part4         : E4+F#4@1>1 D4@2>6
-  Strings       : D4+F#4+A4@3>6
-  Guitar        : D3@1>7 A3@2>5 D4@3>1 D4+F#4@4>4 D4@6>2 A3@7>1 D3@8>1
-@70 [A | Bm] (grid:16)
-  Electric Piano: C#4+E4+A4@15>4
-  Bass          : A1@1>6 B1@7>3 E2@11>1 F#2@12>1 A2@13>2 F#2@15>2
-  Part3         : E3+A3@1>4 A2+C#4@3>3 A3@5>1 B2+F#3+B3+D4@7>6 D4@9>5 B3@11>2 B2@13>1 A2+B2@15>1
-  Part4         : F#4@9>4 A4@13>2 F#4@15>2
-  Strings       : C#4+E4+A4@1>6 B3+D4+F#4@7>9
-  Guitar        : E3+A3@1>4 A2+C#4@3>3 A3@5>1 B2+F#3+B3+D4@7>6 D4@9>5 B3@11>2 B2@13>1 A2+B2@15>1
-@71 [D] (grid:16)
-  Electric Piano: D4+F#4+B4@5>7 F#4@13>1 E4@14>1 D4+F#4+A4@15>15
-  Bass          : D2@1>5 D2@7>10
-  Part3         : D3@1>14 A3@3>9 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-  Part4         : F#4@1>8
-  Strings       : D4+F#4+A4@5>2 D4+F#4+A4@7>2 D4+F#4+A4@9>2 D4+F#4+A4@11>2 D4+F#4+A4@13>2 D4+F#4+A4@15>2
-  Guitar        : D3@1>14 A3@3>9 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3@15>2
-@72 [A | Bm] (grid:16)
-  Electric Piano: C#4+E4+A4@15>4
-  Bass          : A1@1>6 B1@7>6 A1@15>1 B1@16>1
-  Part3         : E3+A3@1>4 A2+C#4@2>2 E3+A3@5>1 B2+F#3+B3@7>8 D4@11>6 B3@13>2 A2@15>1 B2@16>1
-  Part4         : F#4@9>2 B4@11>2 F#4@13>2 E4@15>2
-  Strings       : C#4+E4+A4@1>2 C#4+E4+A4@3>2 C#4+E4+A4@5>2 B3+D4+F#4@7>8
-  Guitar        : E3+A3@1>4 A2+C#4@2>2 E3+A3@5>1 B2+F#3+B3@7>8 D4@11>6 B3@13>2 A2@15>1 B2@16>1
-@73 [D] (grid:16)
-  Electric Piano: D4+F#4+B4@5>7 F#4@13>1 E4@14>1 D4+F#4+A4@15>15
-  Bass          : D2@1>5 D3@7>9 D2@9>8
-  Part3         : D3@1>14 A3@3>10 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3+A3@15>1
-  Part4         : D4@1>11
-  Strings       : D4+F#4+A4@5>12
-  Guitar        : D3@1>14 A3@3>10 D4@5>2 D4+F#4@7>9 D4@11>5 A3@13>2 D3+A3@15>1
-@74 [A | Bm]
-  Electric Piano: C#4+E4+A4@8>2
-  Bass          : A1@1>3 B1@4>5
-  Part3         : E3+A3@1>2 C#4@2>1 A3@3>1 B2+F#3+B3+D4@4>5
-  Strings       : C#4+E4+A4@1>3 B3+D4+F#4@4>5
-  Guitar        : E3+A3@1>2 C#4@2>1 A3@3>1 B2+F#3+B3+D4@4>5
-@75 [Bm] (grid:12t)
-  Electric Piano: D4+F#4+B4@4>8 D4+F#4+B4@11>8
-  Bass          : B1@1>8
-  Part3         : B2+F#3+B3+D4@1>4
-  Strings       : B3+D4+F#4@1>8
-  Guitar        : B2+F#3+B3+D4@1>4
-@76 [-]
+@2 [C] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : C3@1>1^104 C3@2>1^104 C3@3>1^104 C3@5>1^104 C3@6>1^104 C3@7>1^104 D3@8>1^104
+  Sequenced June 2000 by                                  : C2@2>1^104 C2@4>1^104 C2@6>1^104 C2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+@3 [Cm] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Sequenced June 2000 by                                  : C2@2>1^104 C2@4>1^104 C2@6>1^104 C2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+@4 [C] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : D3@1>1^104 D3@2>1^104 D3@3>1^104 D3@4>1^104 D3@5>1^104 D3@6>1^104 D3@7>1^104 D3@8>1^104
+  Sequenced June 2000 by                                  : C2@2>1^104 C2@4>1^104 C2@6>1^104 C2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+@5 [Cm] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104
+  Sequenced June 2000 by                                  : C2@2>1^104 C2@4>1^104 C2@6>1^104 C2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+@6 [C] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : C3@1>1^104 C3@2>1^104 C3@3>1^104 C3@5>1^104 C3@6>1^104 C3@7>1^104 D3@8>1^104
+  Sequenced June 2000 by                                  : C2@2>1^104 C2@4>1^104 C2@6>1^104 C2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+@7 [Cm] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 Eb3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Sequenced June 2000 by                                  : C2@2>1^104 C2@4>1^104 C2@6>1^104 C2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+@8 [C] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : D3@1>1^104 D3@2>1^104 D3@3>1^104 D3@4>1^104 D3@5>1^104 D3@6>1^104 D3@7>1^104 D3@8>1^104
+  Sequenced June 2000 by                                  : C2@2>1^104 C2@4>1^104 C2@6>1^104 C2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+@9 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder                                             : Eb4+Eb5@1>16^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 C2@5>1^104 C2@9>1^104 D2@10>1^104 D2@11>1^104 D2@12>1^104 C2+D2@13>1^104 D2@14>1^104 D2@15>1^104 D2@16>1^104
+@10 [C]
+  By the Bloodhound Gang feat Eiffel65                    : C3@1>1^104 C3@3>1^104 C3@5>2^104 C3@9>1^104 C3@11>1^104 C3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3@1>1^104 Eb3@2>1^104 Bb2+Gb3@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2+Gb3@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2+Gb3@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2+Gb3@15>1^104 Ab2@16>1^104
+@11 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2+Gb3@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2+Gb3@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2+Gb3@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2+Gb3@15>1^104 Ab2@16>1^104
+@12 [C]
+  By the Bloodhound Gang feat Eiffel65                    : D3@1>1^104 D3@3>1^104 D3@5>1^104 D3@7>1^104 D3@9>1^104 D3@11>1^104 D3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2+Gb3@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2+Gb3@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2+Gb3@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2+Gb3@15>1^104 Ab2@16>1^104
+@13 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2+Gb3@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2+Gb3@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2+Gb3@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2+Gb3@15>1^104 Ab2@16>1^104
+@14 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : C3@1>1^104 C3@3>1^104 C3@5>2^104 C3@9>1^104 C3@11>1^104 C3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  <<<---------------------------------------------------  : Eb4@1>1^104 Eb4@3>1^104 Eb4@5>2^104 Eb4@9>1^104 Eb4@11>1^104 F4@13>1^104 G4@15>1^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2+Gb3@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2+Gb3@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2+Gb3@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2+Gb3@15>1^104 Ab2@16>1^104
+@15 [Cm | Adim]
+  By the Bloodhound Gang feat Eiffel65                    : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@9>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  <<<---------------------------------------------------  : G4@1>1^104 G4@3>1^104 G4@5>1^104 G4@7>1^104 G4@9>1^104 G4@13>1^104 G4@15>1^104
+  ---------------------------------------------------->>> : A3@9>64^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2+Gb3@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2+Gb3@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2+Gb3@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2+Gb3@15>1^104 Ab2@16>1^104
+@16 [Bb | F] (grid:64)
+  By the Bloodhound Gang feat Eiffel65                    : D3@1>4^104 D3@9>4^104 D3@17>4^104 D3@25>4^104 D3@33>4^104 D3@41>4^104 D3@49>4^104 D3@57>4^104
+  Sequenced June 2000 by                                  : C2@9>8^104 C2@25>8^104 C2@41>8^104 C2@57>8^104
+  <<<---------------------------------------------------  : Bb4@1>4^104 Bb4@9>4^104 Bb4@17>4^104 Bb4@25>4^104 F4@33>4^104 F4@41>4^104 F4@49>4^104 F4@57>4^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>2^104 Gb3@9>2^104 Bb2@10>2^104 Ab2@14>2^104 C2+Eb2+Gb2@17>2^104 Gb3@25>2^104 Bb2@26>2^104 Ab2@30>2^104 C2+Gb2@33>2^104 Gb3@41>2^104 Bb2@42>2^104 Ab2@46>2^104 C2+Eb2+Gb2@49>2^104 Gb3@57>2^104 Bb2@58>2^104 Ab2@62>2^104
+@17 [Cm | Ab] (grid:64)
+  By the Bloodhound Gang feat Eiffel65                    : Eb3@1>4^104 Eb3@9>4^104 Eb3@17>4^104 Eb3@25>4^104 Eb3@33>8^104
+  Sequenced June 2000 by                                  : C2@9>8^104 C2@25>8^104 C2@41>8^104 C2@57>8^104
+  <<<---------------------------------------------------  : C5@1>4^104 C5@9>4^104 C5@17>4^104 C5@25>4^104 Ab4@33>4^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>2^104 Gb3@9>2^104 Bb2@10>2^104 Ab2@14>2^104 C2+Eb2+Gb2@17>2^104 Gb3@25>2^104 Bb2@26>2^104 Ab2@30>2^104 C2+D2+Gb2@33>2^104 D2@35>2^104 D2@37>2^104 D2@39>2^104 D2+Gb3@41>2^104 Bb2@42>2^104 D2@45>2^104 Ab2@46>2^104 C2+D2+Eb2+Gb2@49>2^104 Eb2+Gb3@57>2^104 Bb2@58>2^104 Ab2@62>2^104
+@18 [Cm | C] (grid:8)
+  --------------------------------------------------->>>  : C3@1>1^104 C3@2>1^104 C3@3>1^104 C3@5>1^104 C3@6>1^104 C3@7>1^104 D3@8>1^104
+  Copyright by:                                           : Eb4@3>1^104 G4@4>1^104 G4@6>1^104 G4@8>1^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>8^104 C3@5>4^104
+  Don't Sell or Modify this file without                  : Db2+Db3@1>1^104 Eb1@2>1^104 Eb2@3>1^104 Db2@4>1^104 Db2@5>1^104 Eb1@6>1^104 Eb2@7>1^104 Db2@8>1^104
+  permission of the Sequencer.                            : Ab4@5>2^104 Ab4@7>1^104
+  -------------------------------------------------->>>   : C-1+C0+C1+C2+C3@1>16^104
+@19 [Eb] (grid:8)
+  --------------------------------------------------->>>  : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 F3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Copyright by:                                           : Eb4@3>1^104 G4@4>1^104 G4@6>1^104 G4@8>1^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>8^104
+  Don't Sell or Modify this file without                  : Db2@1>1^104 Eb1@2>1^104 Eb2@3>1^104 Db2@4>1^104 Db2@5>1^104 Eb1@6>1^104 Eb2@7>1^104 Db2@8>1^104
+  permission of the Sequencer.                            : Eb4@1>1^104 Bb3@2>1^104 Ab4@5>2^104 Ab4@7>1^104
+@20 [Bb] (grid:8)
+  --------------------------------------------------->>>  : D3@1>1^104 D3@2>1^104 D3@3>1^104 D3@4>1^104 D3@5>1^104 D3@6>1^104 D3@7>1^104 D3@8>1^104
+  Copyright by:                                           : Eb4@3>1^104 G4@4>1^104 G4@6>1^104 G4@8>1^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>8^104
+  Don't Sell or Modify this file without                  : Db2@1>1^104 Eb1@2>1^104 Eb2@3>1^104 Db2@4>1^104 Db2@5>1^104 Eb1@6>1^104 Eb2@7>1^104 Db2@8>1^104
+  permission of the Sequencer.                            : Bb4@1>1^104 Bb3@2>1^104 Ab4@5>2^104 Ab4@7>1^104
+@21 [Ab | Ddim]
+  --------------------------------------------------->>>  : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 C3@9>1^104
+  Copyright by:                                           : Eb4@5>1^104 Eb4@11>2^104 F4@13>1^104 Eb4@14>1^104 F4@15>2^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>16^104 D3@9>8^104
+  Don't Sell or Modify this file without                  : Db2@1>1^104 Eb1@3>1^104 Eb2@5>1^104 Db2@7>1^104 Db2@9>1^104 Eb1@11>1^104 Eb2@13>1^104 Db2@15>1^104
+  permission of the Sequencer.                            : Eb4@1>6^104 Eb4@7>6^104 F4@15>2^104
+@22 [Cm | C] (grid:8)
+  --------------------------------------------------->>>  : C3@1>1^104 C3@2>1^104 C3@3>1^104 C3@5>1^104 C3@6>1^104 C3@7>1^104 D3@8>1^104
+  Copyright by:                                           : Eb4@3>1^104 G4@4>1^104 G4@6>1^104 G4@8>1^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>8^104 C3@5>4^104
+  Don't Sell or Modify this file without                  : Db2@1>1^104 Eb1@2>1^104 Eb2@3>1^104 Db2@4>1^104 Db2@5>1^104 Eb1@6>1^104 Eb2@7>1^104 Db2@8>1^104
+  permission of the Sequencer.                            : G4@1>1^104 C4@2>1^104 Ab4@5>2^104 Ab4@7>1^104
+@23 [Eb] (grid:8)
+  --------------------------------------------------->>>  : Eb3@1>1^104 Eb3@2>1^104 Eb3@3>1^104 F3@4>1^104 Eb3@5>1^104 Eb3@7>1^104 Eb3@8>1^104
+  Copyright by:                                           : Eb4@3>1^104 G4@4>1^104 G4@6>1^104 G4@8>1^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>8^104
+  Don't Sell or Modify this file without                  : Db2@1>1^104 Eb1@2>1^104 Eb2@3>1^104 Db2@4>1^104 Db2@5>1^104 Eb1@6>1^104 Eb2@7>1^104 Db2@8>1^104
+  permission of the Sequencer.                            : Eb4@1>1^104 Bb3@2>1^104 Ab4@5>2^104 Ab4@7>1^104
+@24 [Bb] (grid:8)
+  --------------------------------------------------->>>  : D3@1>1^104 D3@2>1^104 D3@3>1^104 D3@4>1^104 D3@5>1^104 D3@6>1^104 D3@7>1^104 D3@8>1^104
+  Copyright by:                                           : Eb4@3>1^104 G4@4>1^104 G4@6>1^104 G4@8>1^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>8^104
+  Don't Sell or Modify this file without                  : Db2@1>1^104 Eb1@2>1^104 Eb2@3>1^104 Db2@4>1^104 Db2@5>1^104 Eb1@6>1^104 Eb2@7>1^104 Db2@8>1^104
+  permission of the Sequencer.                            : Bb4@1>1^104 Bb3@2>1^104 Ab4@5>2^104 Ab4@7>1^104
+@25 [Ab | Ddim]
+  --------------------------------------------------->>>  : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 Eb3@7>1^104 C3@9>1^104
+  Copyright by:                                           : Eb4@5>1^104 Eb4@11>2^104 F4@13>1^104 Eb4@14>1^104 F4@15>2^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>16^104 D3@9>8^104
+  Don't Sell or Modify this file without                  : Db2@1>1^104 Eb1@3>1^104 Eb2@5>1^104 Db2@7>1^104 Db2@9>1^104 Eb1@11>1^104 Eb2@13>1^104 Db2@15>1^104
+  permission of the Sequencer.                            : Eb4@1>6^104 Eb4@7>6^104 F4@15>2^104
+@26 [Cm | C]
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Copyright by:                                           : Eb4@5>2^104 G4@7>1^104 G4@11>2^104 G4@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3@1>1^104 Eb3@2>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  permission of the Sequencer.                            : G4@1>2^104 C4@3>2^104 Ab4@8>3^104 Ab4@13>2^104
+  STAY C O O L                                            : C3@1>16^104
+@27 [Eb]
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Copyright by:                                           : Eb4@5>2^104 G4@7>1^104 G4@11>2^104 G4@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  permission of the Sequencer.                            : Eb4@1>2^104 Bb3@3>2^104 Ab4@8>3^104 Ab4@13>2^104
+  STAY C O O L                                            : Eb3@1>16^104
+@28 [Eb | Gm]
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Copyright by:                                           : Eb4@5>2^104 G4@7>1^104 G4@11>2^104 G4@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  permission of the Sequencer.                            : Bb4@1>2^104 Bb3@3>2^104 Ab4@8>3^104 Ab4@13>2^104
+  STAY C O O L                                            : Bb2@1>16^104
+@29 [Ab]
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Copyright by:                                           : Eb4@5>1^104 Eb4@11>2^104 F4@13>1^104 Eb4@14>1^104 F4@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  permission of the Sequencer.                            : Eb4@1>6^104 Eb4@7>6^104 F4@15>2^104
+  STAY C O O L                                            : Ab2@1>16^104
+@30 [Cm | C]
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Copyright by:                                           : Eb4@5>2^104 G4@7>1^104 G4@11>2^104 G4@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  permission of the Sequencer.                            : G4@1>2^104 C4@3>2^104 Ab4@8>3^104 Ab4@13>2^104
+  STAY C O O L                                            : C3+C4@1>16^104
+@31 [Eb]
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Copyright by:                                           : Eb4@5>2^104 G4@7>1^104 G4@11>2^104 G4@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  permission of the Sequencer.                            : Eb4@1>2^104 Bb3@3>2^104 Ab4@8>3^104 Ab4@13>2^104
+  STAY C O O L                                            : Eb3+Eb4@1>16^104
+@32 [Eb | Gm]
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Copyright by:                                           : Eb4@5>2^104 G4@7>1^104 G4@11>2^104 G4@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  permission of the Sequencer.                            : Bb4@1>2^104 Bb3@3>2^104 Ab4@8>3^104 Ab4@13>2^104
+  STAY C O O L                                            : Bb2+Bb3@1>16^104
+@33 [Ab]
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Copyright by:                                           : Eb4@5>1^104 Eb4@11>2^104 F4@13>1^104 Eb4@14>1^104 F4@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  permission of the Sequencer.                            : Eb4@1>6^104 Eb4@7>6^104 F4@15>2^104
+  STAY C O O L                                            : Ab2+Ab3@1>16^104
+@34 [Cm | C]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3+Bb5@1>1^104 Eb3+Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  don't close the fridge                                  : G4@1>2^104 C4@3>2^104
+@35 [Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  don't close the fridge                                  : Eb4@1>2^104 Bb3@3>2^104
+@36 [Bb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  don't close the fridge                                  : Bb4@1>2^104 Bb3@3>2^104
+@37 [Ab | Ddim]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 Ab3@7>2^104 Eb4@11>2^104 F4@13>1^104 Eb4@14>1^104 F4@15>2^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>16^104 D3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  don't close the fridge                                  : Eb4@1>6^104 Eb4@7>6^104 F4@15>2^104
+@38 [Cm | C]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  don't close the fridge                                  : G4@1>2^104 C4@3>2^104
+@39 [Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  don't close the fridge                                  : Eb4@1>2^104 Bb3@3>2^104
+@40 [Bb] (grid:64)
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@17>8^104 G4@25>4^104 Ab4@29>12^104 G4@41>8^104 Ab4@49>8^104 G4@57>8^104
+  Sequenced June 2000 by                                  : Bb1@9>8^104 Bb1@25>8^104 Bb1@41>8^104 Bb1@57>8^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>64^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>2^104 Bb5@5>2^104 Bb5@9>2^104 Bb2@10>2^104 Bb5@13>2^104 Ab2@14>2^104 C2+Eb2+Gb2+Bb5@17>2^104 Bb5@21>2^104 Bb5@25>2^104 Bb2@26>2^104 Bb5@29>2^104 Ab2@30>2^104 C2+Gb2+Bb5@33>2^104 Bb5@37>2^104 Bb5@41>2^104 Bb2@42>2^104 Bb5@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2+Bb5@49>2^104 Bb5@53>2^104 Bb5@57>2^104 Bb2@58>2^104 Bb5@61>2^104 Ab2@62>2^104
+  don't close the fridge                                  : Bb4@1>8^104 Bb3@9>8^104
+@41 [Ab | Ddim] (grid:64)
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@17>8^104 Ab3@25>8^104 Eb4@41>8^104 F4@49>4^104 Eb4@53>4^104 F4@57>8^104
+  Sequenced June 2000 by                                  : Ab1@9>8^104 Ab1@25>8^104 Ab1@41>8^104 Ab1@57>8^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>64^104 D3@33>32^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>2^104 Bb5@5>2^104 Bb5@9>2^104 Bb2@10>2^104 Bb5@13>2^104 Ab2@14>2^104 C2+Eb2+Gb2+Bb5@17>2^104 Bb5@21>2^104 Bb5@25>2^104 Bb2@26>2^104 Bb5@29>2^104 Ab2@30>2^104 C2+Gb2+Bb5@33>2^104 Bb5@37>2^104 Bb5@41>2^104 Bb2@42>2^104 Bb5@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2+Bb5@49>2^104 Bb5@53>2^104 Bb5@57>2^104 Bb2@58>2^104 Bb5@61>2^104 Ab2@62>2^104
+  don't close the fridge                                  : Eb4@1>24^104 Eb4@25>24^104 F4@57>8^104
+@42 [C]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@5>1^104 Bb1@7>1^104 C2@9>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3@1>1^104 Eb3@2>1^104 Ab2@3>1^104 C2+Eb2@5>1^104 Ab2@7>1^104 C2@9>1^104 Ab2@11>1^104 C2+Eb2@13>1^104 Ab2@15>1^104
+@43 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 C2@4>1^104 C2@5>1^104 C2@7>1^104 C2@9>1^104 C2@11>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@3>1^104 C2+Eb2@5>1^104 Ab2@7>1^104 C2@9>1^104 Ab2@11>1^104 C2+Eb2@13>1^104 Ab2@15>1^104
+@44 [Bb] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : Bb1@1>1^104 Bb1@3>1^104 A1@4>1^104 Bb1@5>1^104 Bb1@7>1^104 Bb1@8>1^104
+  Sequenced June 2000 by                                  : Bb1@2>1^104 Bb1@4>1^104 Bb1@6>1^104 Bb1@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@2>1^104 C2+Eb2@3>1^104 Ab2@4>1^104 C2@5>1^104 Ab2@6>1^104 C2+Eb2@7>1^104 Ab2@8>1^104
+@45 [Ab]
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 Ab1@3>1^104 Ab1@4>1^104 Ab1@5>1^104 Ab1@7>1^104 Ab1@9>1^104 Ab1@11>1^104 Ab1@13>1^104 Ab1@15>1^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@3>1^104 C2+Eb2@5>1^104 Ab2@7>1^104 C2@9>1^104 Ab2@11>1^104 C2+Eb2@13>1^104 Ab2@15>1^104
+@46 [C] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 Bb1@4>1^104 C2@5>1^104 C2@7>1^104 C2@8>1^104
+  Sequenced June 2000 by                                  : C2@2>1^104 C2@4>1^104 C2@6>1^104 C2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@2>1^104 C2+Eb2@3>1^104 Ab2@4>1^104 C2@5>1^104 Ab2@6>1^104 C2+Eb2@7>1^104 Ab2@8>1^104
+@47 [Cm] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 C2@7>1^104 C2@8>1^104
+  Sequenced June 2000 by                                  : Eb2@2>1^104 Eb2@4>1^104 Eb2@6>1^104 Eb2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@2>1^104 C2+Eb2@3>1^104 Ab2@4>1^104 C2@5>1^104 Ab2@6>1^104 C2+Eb2@7>1^104 Ab2@8>1^104
+@48 [Bb]
+  By the Bloodhound Gang feat Eiffel65                    : Bb1@1>1^104 Bb1@3>1^104 Bb1@5>1^104 Bb1@7>1^104 Bb1@9>1^104 Bb1@11>1^104 Bb1@13>1^104 Bb1@14>1^104 Bb1@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@3>1^104 C2+Eb2@5>1^104 Ab2@7>1^104 C2@9>1^104 Ab2@11>1^104 C2+Eb2@13>1^104 Ab2@15>1^104
+@49 [Ab] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 Ab1@2>1^104 Ab1@3>1^104 Ab1@4>1^104 Ab1@5>1^104 Ab1@7>1^104 Ab1@8>1^104
+  Sequenced June 2000 by                                  : Ab1@2>1^104 Ab1@4>1^104 Ab1@6>1^104 Ab1@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@2>1^104 C2+Eb2@3>1^104 Ab2@4>1^104 C2@5>1^104 Ab2@6>1^104 C2+Eb2@7>1^104 Ab2@8>1^104
+@50 [Caug | C]
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 C2@5>1^104 Bb1@7>1^104 C2@9>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : C3@1>16^104
+@51 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 C2@4>1^104 C2@5>1^104 C2@7>1^104 C2@9>1^104 C2@11>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Eb3@1>16^104
+@52 [Bb]
+  By the Bloodhound Gang feat Eiffel65                    : Bb1@1>1^104 Bb1@3>1^104 Bb1@5>1^104 A1@7>1^104 Bb1@9>1^104 Bb1@11>1^104 Bb1@13>1^104 Bb1@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Bb2@1>16^104
+@53 [Ab]
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 Ab1@3>1^104 Ab1@4>1^104 Ab1@5>1^104 Ab1@7>1^104 Ab1@9>1^104 Ab1@11>1^104 Ab1@13>1^104 Ab1@15>1^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Ab2@1>16^104
+@54 [C]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@5>1^104 Bb1@7>1^104 C2@9>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : C3+C4@1>16^104
+@55 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Eb3+Eb4@1>16^104
+@56 [Bb]
+  By the Bloodhound Gang feat Eiffel65                    : Bb1@1>1^104 Bb1@3>1^104 Bb1@5>1^104 Bb1@7>1^104 Bb1@9>1^104 Bb1@11>1^104 Bb1@13>1^104 Bb1@14>1^104 Bb1@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Bb2+Bb3+F4@1>16^104
+@57 [Ab]
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 Ab1@3>1^104 Ab1@5>1^104 Ab1@7>1^104 Ab1@9>1^104 Ab1@11>1^104 Ab1@13>1^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Arne Mulder                                             : Eb4+Eb5@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Ab2+Ab3@1>16^104
+@58 [C]
+  --------------------------------------------------->>>  : C3@1>1^104 C3@3>1^104 C3@5>1^104 C3@9>1^104 C3@11>1^104 C3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3@1>1^104 Eb3@2>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : C3@1>16^104
+@59 [Eb]
+  --------------------------------------------------->>>  : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 F3@7>1^104 Eb3@9>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Eb3@1>16^104
+@60 [Bb]
+  --------------------------------------------------->>>  : D3@1>1^104 D3@3>1^104 D3@5>1^104 D3@7>1^104 D3@9>1^104 D3@11>1^104 D3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Bb2@1>16^104
+@61 [Ab | Abdim] (grid:32)
+  --------------------------------------------------->>>  : Eb3@1>2^104 Eb3@5>2^104 Eb3@9>2^104 Eb3@13>2^104 C3@17>2^104
+  Sequenced June 2000 by                                  : Ab1@5>4^104 Ab1@13>4^104 Ab1@21>4^104 Ab1@29>4^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>32^104 D3@17>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@5>1^104 Ab2@7>1^104 C2+Eb2+Gb2@9>1^104 Bb2@13>1^104 Ab2@15>1^104 C2+D2+Gb2@17>1^104 D2@18>1^104 D2@19>1^104 D2@20>1^104 D2+Bb2@21>1^104 D2+Ab2@23>1^104 C2+Eb2+Gb2@25>1^104 Eb2+Bb2@29>1^104 Ab2@31>1^104
+  STAY C O O L                                            : Ab2@1>32^104
+@62 [C]
+  --------------------------------------------------->>>  : C3@1>1^104 C3@3>1^104 C3@5>1^104 C3@9>1^104 C3@11>1^104 C3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : C3+C4@1>16^104
+@63 [Eb]
+  --------------------------------------------------->>>  : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 F3@7>1^104 Eb3@9>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Eb3+Eb4@1>16^104
+@64 [Bb]
+  --------------------------------------------------->>>  : D3@1>1^104 D3@3>1^104 D3@5>1^104 D3@7>1^104 D3@9>1^104 D3@11>1^104 D3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Bb2+Bb3@1>16^104
+@65 [Ab | Abdim] (grid:64)
+  --------------------------------------------------->>>  : Eb3@1>4^104 Eb3@9>4^104 Eb3@17>4^104 Eb3@25>4^104 C3@33>4^104
+  Sequenced June 2000 by                                  : Ab1@9>8^104 Ab1@25>8^104 Ab1@41>8^104 Ab1@57>8^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>64^104 D3@33>32^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>2^104 Bb2@10>2^104 Ab2@14>2^104 C2+Eb2+Gb2@17>2^104 Bb2@26>2^104 Ab2@30>2^104 C2+D2+Gb2@33>2^104 D2@35>2^104 D2@37>2^104 D2@39>2^104 D2@41>2^104 Bb2@42>2^104 D2@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2@49>2^104 Eb2@57>2^104 Bb2@58>2^104 Ab2@62>2^104
+  STAY C O O L                                            : Ab2+Ab3@1>64^104
+@66 [Cm | C]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3+Bb5@1>1^104 Eb3+Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : C3@1>16^104
+  don't close the fridge                                  : G4@1>2^104 C4@3>2^104
+@67 [Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Eb3@1>16^104
+  don't close the fridge                                  : Eb4@1>2^104 Bb3@3>2^104
+@68 [Bb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Bb2@1>16^104
+  don't close the fridge                                  : Bb4@1>2^104 Bb3@3>2^104
+@69 [Ab | Ddim]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 Ab3@7>2^104 Eb4@11>2^104 F4@13>1^104 Eb4@14>1^104 F4@15>2^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>16^104 D3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Ab2@1>16^104
+  don't close the fridge                                  : Eb4@1>6^104 Eb4@7>6^104 F4@15>2^104
+@70 [Cm | C]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : C3+C4@1>16^104
+  don't close the fridge                                  : G4@1>2^104 C4@3>2^104
+@71 [Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Eb3+Eb4@1>16^104
+  don't close the fridge                                  : Eb4@1>2^104 Bb3@3>2^104
+@72 [Bb] (grid:64)
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@17>8^104 G4@25>4^104 Ab4@29>12^104 G4@41>8^104 Ab4@49>8^104 G4@57>8^104
+  Sequenced June 2000 by                                  : Bb1@9>8^104 Bb1@25>8^104 Bb1@41>8^104 Bb1@57>8^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>64^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>2^104 Bb5@5>2^104 Bb5@9>2^104 Bb2@10>2^104 Bb5@13>2^104 Ab2@14>2^104 C2+Eb2+Gb2+Bb5@17>2^104 Bb5@21>2^104 Bb5@25>2^104 Bb2@26>2^104 Bb5@29>2^104 Ab2@30>2^104 C2+Gb2+Bb5@33>2^104 Bb5@37>2^104 Bb5@41>2^104 Bb2@42>2^104 Bb5@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2+Bb5@49>2^104 Bb5@53>2^104 Bb5@57>2^104 Bb2@58>2^104 Bb5@61>2^104 Ab2@62>2^104
+  STAY C O O L                                            : Bb2+Bb3@1>64^104
+  don't close the fridge                                  : Bb4@1>8^104 Bb3@9>8^104
+@73 [Ab | Ddim] (grid:64)
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@17>8^104 Ab3@25>8^104 Eb4@41>8^104 F4@49>4^104 Eb4@53>4^104 F4@57>8^104
+  Sequenced June 2000 by                                  : Ab1@9>8^104 Ab1@25>8^104 Ab1@41>8^104 Ab1@57>8^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>64^104 D3@33>32^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>2^104 Bb5@5>2^104 Bb5@9>2^104 Bb2@10>2^104 Bb5@13>2^104 Ab2@14>2^104 C2+Eb2+Gb2+Bb5@17>2^104 Bb5@21>2^104 Bb5@25>2^104 Bb2@26>2^104 Bb5@29>2^104 Ab2@30>2^104 C2+Gb2+Bb5@33>2^104 Bb5@37>2^104 Bb5@41>2^104 Bb2@42>2^104 Bb5@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2+Bb5@49>2^104 Bb5@53>2^104 Bb5@57>2^104 Bb2@58>2^104 Bb5@61>2^104 Ab2@62>2^104
+  STAY C O O L                                            : Ab2+Ab3@1>64^104
+  don't close the fridge                                  : Eb4@1>24^104 Eb4@25>24^104 F4@57>8^104
+@74 [C]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>3^104 C2@5>1^104 Bb1@7>1^104 C2@9>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3@1>1^104 Eb3@2>1^104 Ab2@3>1^104 C2+Eb2@5>1^104 Ab2@7>1^104 C2@9>1^104 Ab2@11>1^104 C2+Eb2@13>1^104 Ab2@15>1^104
+@75 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 C2@4>1^104 C2@5>1^104 C2@7>1^104 C2@9>1^104 C2@11>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@3>1^104 C2+Eb2@5>1^104 Ab2@7>1^104 C2@9>1^104 Ab2@11>1^104 C2+Eb2@13>1^104 Ab2@15>1^104
+@76 [Bb] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : Bb1@1>1^104 Bb1@3>1^104 A1@4>1^104 Bb1@5>1^104 Bb1@7>1^104 Bb1@8>1^104
+  Sequenced June 2000 by                                  : Bb1@2>1^104 Bb1@4>1^104 Bb1@6>1^104 Bb1@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@2>1^104 C2+Eb2@3>1^104 Ab2@4>1^104 C2@5>1^104 Ab2@6>1^104 C2+Eb2@7>1^104 Ab2@8>1^104
+@77 [Ab]
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 Ab1@3>1^104 Ab1@4>1^104 Ab1@5>1^104 Ab1@7>1^104 Ab1@9>1^104 Ab1@11>1^104 Ab1@13>1^104 Ab1@15>1^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@3>1^104 C2+Eb2@5>1^104 Ab2@7>1^104 C2@9>1^104 Ab2@11>1^104 C2+Eb2@13>1^104 Ab2@15>1^104
+@78 [C]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@6>1^104 C2@7>1^104 C2@8>1^104 C2@9>1^104 C2@11>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@3>1^104 C2+Eb2@5>1^104 Ab2@7>1^104 C2@9>1^104 Ab2@11>1^104 C2+Eb2@13>1^104 Ab2@15>1^104
+@79 [Cm] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 C2@7>1^104 C2@8>1^104
+  Sequenced June 2000 by                                  : Eb2@2>1^104 Eb2@4>1^104 Eb2@6>1^104 Eb2@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@2>1^104 C2+Eb2@3>1^104 Ab2@4>1^104 C2@5>1^104 Ab2@6>1^104 C2+Eb2@7>1^104 Ab2@8>1^104
+@80 [Bb] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : Bb1@1>1^104 Bb1@2>1^104 Bb1@3>1^104 Bb1@4>1^104 Bb1@5>1^104 Bb1@6>1^104 Bb1@7>1^104 Bb1@8>1^104
+  Sequenced June 2000 by                                  : Bb1@2>1^104 Bb1@4>1^104 Bb1@6>1^104 Bb1@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@2>1^104 C2+Eb2@3>1^104 Ab2@4>1^104 C2@5>1^104 Ab2@6>1^104 C2+Eb2@7>1^104 Ab2@8>1^104
+@81 [Ab] (grid:8)
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 Ab1@2>1^104 Ab1@3>1^104 Ab1@4>1^104 Ab1@5>1^104 Ab1@7>1^104 Ab1@8>1^104
+  Sequenced June 2000 by                                  : Ab1@2>1^104 Ab1@4>1^104 Ab1@6>1^104 Ab1@8>1^104
+  Don't Sell or Modify this file without                  : C2@1>1^104 Ab2@2>1^104 C2+Eb2@3>1^104 Ab2@4>1^104 C2@5>1^104 Ab2@6>1^104 C2+Eb2@7>1^104 Ab2@8>1^104
+@82 [C]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@5>1^104 Bb1@7>1^104 C2@9>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : C3@1>16^104
+@83 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 C2@4>1^104 C2@5>1^104 C2@7>1^104 C2@9>1^104 C2@11>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Eb3@1>16^104
+@84 [Bb]
+  By the Bloodhound Gang feat Eiffel65                    : Bb1@1>1^104 Bb1@3>1^104 Bb1@5>1^104 A1@7>1^104 Bb1@9>1^104 Bb1@11>1^104 Bb1@13>1^104 Bb1@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Bb2@1>16^104
+@85 [Ab]
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 Ab1@3>1^104 Ab1@4>1^104 Ab1@5>1^104 Ab1@7>1^104 Ab1@9>1^104 Ab1@11>1^104 Ab1@13>1^104 Ab1@15>1^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Ab2@1>16^104
+@86 [C]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 C2@5>1^104 Bb1@7>1^104 C2@9>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : C3+C4@1>16^104
+@87 [Cm]
+  By the Bloodhound Gang feat Eiffel65                    : C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104 C2@13>1^104 C2@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Eb3+Eb4@1>16^104
+@88 [Bb]
+  By the Bloodhound Gang feat Eiffel65                    : Bb1@1>1^104 Bb1@3>1^104 Bb1@5>1^104 Bb1@7>1^104 Bb1@9>1^104 Bb1@11>1^104 Bb1@13>1^104 Bb1@14>1^104 Bb1@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Bb2+Bb3@1>16^104
+@89 [Ab]
+  By the Bloodhound Gang feat Eiffel65                    : Ab1@1>1^104 Ab1@3>1^104 Ab1@5>1^104 Ab1@7>1^104 Ab1@9>2^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Arne Mulder                                             : Eb4+Eb5@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Ab2+Ab3@1>16^104
+@90 [C]
+  --------------------------------------------------->>>  : C3@1>1^104 C3@3>1^104 C3@5>1^104 C3@9>1^104 C3@11>1^104 C3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3@1>1^104 Eb3@2>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : C3@1>16^104
+@91 [Eb]
+  --------------------------------------------------->>>  : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 F3@7>1^104 Eb3@9>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Eb3@1>16^104
+@92 [Bb]
+  --------------------------------------------------->>>  : D3@1>1^104 D3@3>1^104 D3@5>1^104 D3@7>1^104 D3@9>1^104 D3@11>1^104 D3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Bb2@1>16^104
+@93 [Ab | Abdim] (grid:32)
+  --------------------------------------------------->>>  : Eb3@1>2^104 Eb3@5>2^104 Eb3@9>2^104 Eb3@13>2^104 C3@17>2^104
+  Sequenced June 2000 by                                  : Ab1@5>4^104 Ab1@13>4^104 Ab1@21>4^104 Ab1@29>4^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>32^104 D3@17>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@5>1^104 Ab2@7>1^104 C2+Eb2+Gb2@9>1^104 Bb2@13>1^104 Ab2@15>1^104 C2+D2+Gb2@17>1^104 D2@18>1^104 D2@19>1^104 D2@20>1^104 D2+Bb2@21>1^104 D2+Ab2@23>1^104 C2+Eb2+Gb2@25>1^104 Eb2+Bb2@29>1^104 Ab2@31>1^104
+  STAY C O O L                                            : Ab2@1>32^104
+@94 [C]
+  --------------------------------------------------->>>  : C3@1>1^104 C3@3>1^104 C3@5>1^104 C3@9>1^104 C3@11>1^104 C3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : C3+C4@1>16^104
+@95 [Eb]
+  --------------------------------------------------->>>  : Eb3@1>1^104 Eb3@3>1^104 Eb3@5>1^104 F3@7>1^104 Eb3@9>1^104 Eb3@13>1^104 Eb3@15>1^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Eb3+Eb4@1>16^104
+@96 [Bb]
+  --------------------------------------------------->>>  : D3@1>1^104 D3@3>1^104 D3@5>1^104 D3@7>1^104 D3@9>1^104 D3@11>1^104 D3@13>1^104 D3@15>1^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>1^104 Bb2@3>1^104 Ab2@4>1^104 C2+Eb2+Gb2@5>1^104 Bb2@7>1^104 Ab2@8>1^104 C2+Gb2@9>1^104 Bb2@11>1^104 Ab2@12>1^104 C2+Eb2+Gb2@13>1^104 Bb2@15>1^104 Ab2@16>1^104
+  STAY C O O L                                            : Bb2+Bb3@1>16^104
+@97 [Ab] (grid:64)
+  --------------------------------------------------->>>  : Eb3@1>4^104 Eb3@9>4^104 Eb3@17>4^104 Eb3@25>4^104 C3@33>4^104
+  Sequenced June 2000 by                                  : Ab1@9>8^104 Ab1@25>8^104 Ab1@41>8^104 Ab1@57>8^104
+  Arne Mulder                                             : Eb4+Eb5@2>64^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>64^104 D3@33>32^104
+  Don't Sell or Modify this file without                  : C2+Gb2@1>2^104 Bb2@10>2^104 Ab2@14>2^104 C2+Eb2+Gb2@17>2^104 Bb2@26>2^104 Ab2@30>2^104 C2+D2+Gb2@33>2^104 D2@35>2^104 D2@37>2^104 D2@39>2^104 D2@41>2^104 Bb2@42>2^104 D2@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2@49>2^104 Eb2@57>2^104 Bb2@58>2^104 Ab2@62>2^104
+  STAY C O O L                                            : Ab2+Ab3@1>64^104
+@98 [Cm | C]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3+Bb5@1>1^104 Eb3+Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : C3@1>16^104
+  don't close the fridge                                  : G4@1>2^104 C4@3>2^104
+@99 [Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Eb3@1>16^104
+  don't close the fridge                                  : Eb4@1>2^104 Bb3@3>2^104
+@100 [Bb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Bb2@1>16^104
+  don't close the fridge                                  : Bb4@1>2^104 Bb3@3>2^104
+@101 [Ab | Ddim]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 Ab3@7>2^104 Eb4@11>2^104 F4@13>1^104 Eb4@14>1^104 F4@15>2^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>16^104 D3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Ab2@1>16^104
+  don't close the fridge                                  : Eb4@1>6^104 Eb4@7>6^104 F4@15>2^104
+@102 [Cm | C]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : C3+C4@1>16^104
+  don't close the fridge                                  : G4@1>2^104 C4@3>2^104
+@103 [Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Eb3+Eb4@1>16^104
+  don't close the fridge                                  : Eb4@1>2^104 Bb3@3>2^104
+@104 [Bb] (grid:64)
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@17>8^104 G4@25>4^104 Ab4@29>12^104 G4@41>8^104 Ab4@49>8^104 G4@57>8^104
+  Sequenced June 2000 by                                  : Bb1@9>8^104 Bb1@25>8^104 Bb1@41>8^104 Bb1@57>8^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>64^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>2^104 Bb5@5>2^104 Bb5@9>2^104 Bb2@10>2^104 Bb5@13>2^104 Ab2@14>2^104 C2+Eb2+Gb2+Bb5@17>2^104 Bb5@21>2^104 Bb5@25>2^104 Bb2@26>2^104 Bb5@29>2^104 Ab2@30>2^104 C2+Gb2+Bb5@33>2^104 Bb5@37>2^104 Bb5@41>2^104 Bb2@42>2^104 Bb5@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2+Bb5@49>2^104 Bb5@53>2^104 Bb5@57>2^104 Bb2@58>2^104 Bb5@61>2^104 Ab2@62>2^104
+  STAY C O O L                                            : Bb2+Bb3@1>64^104
+  don't close the fridge                                  : Bb4@1>8^104 Bb3@9>8^104
+@105 [Ab | Ddim] (grid:64)
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@17>8^104 Ab3@25>8^104 Eb4@41>8^104 F4@49>4^104 Eb4@53>4^104 F4@57>8^104
+  Sequenced June 2000 by                                  : Ab1@9>8^104 Ab1@25>8^104 Ab1@41>8^104 Ab1@57>8^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>64^104 D3@33>32^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>2^104 Bb5@5>2^104 Bb5@9>2^104 Bb2@10>2^104 Bb5@13>2^104 Ab2@14>2^104 C2+Eb2+Gb2+Bb5@17>2^104 Bb5@21>2^104 Bb5@25>2^104 Bb2@26>2^104 Bb5@29>2^104 Ab2@30>2^104 C2+Gb2+Bb5@33>2^104 Bb5@37>2^104 Bb5@41>2^104 Bb2@42>2^104 Bb5@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2+Bb5@49>2^104 Bb5@53>2^104 Bb5@57>2^104 Bb2@58>2^104 Bb5@61>2^104 Ab2@62>2^104
+  STAY C O O L                                            : Ab2+Ab3@1>64^104
+  don't close the fridge                                  : Eb4@1>24^104 Eb4@25>24^104 F4@57>8^104
+@106 [Cm | C]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Db3+Bb5@1>1^104 Eb3+Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : C3@1>16^104
+  don't close the fridge                                  : G4@1>2^104 C4@3>2^104
+  <<<---------------------------------------------------#2: G4+Eb5@1>8^104 C4+Bb4@9>8^104
+@107 [Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Eb3@1>16^104
+  don't close the fridge                                  : Eb4@1>2^104 Bb3@3>2^104
+  <<<---------------------------------------------------#2: Bb4+G5@1>8^104 Bb4+F5@9>8^104 Eb5@13>4^104
+@108 [Bb | Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Bb1@3>2^104 Bb1@7>2^104 Bb1@11>2^104 Bb1@15>2^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Bb2@1>16^104
+  don't close the fridge                                  : Bb4@1>2^104 Bb3@3>2^104
+  <<<---------------------------------------------------#2: Eb4+D5@1>8^104 Bb3+Eb5@9>8^104
+@109 [Ab]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 Ab3@7>2^104 Eb4@11>2^104 F4@13>1^104 Eb4@14>1^104 F4@15>2^104
+  Sequenced June 2000 by                                  : Ab1@3>2^104 Ab1@7>2^104 Ab1@11>2^104 Ab1@15>2^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>16^104 D3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Ab2@1>16^104
+  don't close the fridge                                  : Eb4@1>6^104 Eb4@7>6^104 F4@15>2^104
+  <<<---------------------------------------------------#2: Eb4+G4+C5@1>16^104 G5@9>4^104 F5@13>4^104
+@110 [Cm | C]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : C2@3>2^104 C2@7>2^104 C2@11>2^104 C2@15>2^104
+  Arne Mulder 2000                                        : C2+C3+C4@1>16^104 C3@9>8^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : C3+C4@1>16^104
+  don't close the fridge                                  : G4@1>2^104 C4@3>2^104
+  <<<---------------------------------------------------#2: G4+Eb5@1>8^104 C4+Bb4@9>8^104
+@111 [Eb]
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@5>2^104 G4@7>1^104 Ab4@8>3^104 G4@11>2^104 Ab4@13>2^104 G4@15>2^104
+  Sequenced June 2000 by                                  : Eb2@3>2^104 Eb2@7>2^104 Eb2@11>2^104 Eb2@15>2^104
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>16^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>1^104 Bb5@2>1^104 Bb2+Bb5@3>1^104 Ab2+Bb5@4>1^104 C2+Eb2+Gb2+Bb5@5>1^104 Bb5@6>1^104 Bb2+Bb5@7>1^104 Ab2+Bb5@8>1^104 C2+Gb2+Bb5@9>1^104 Bb5@10>1^104 Bb2+Bb5@11>1^104 Ab2+Bb5@12>1^104 C2+Eb2+Gb2+Bb5@13>1^104 Bb5@14>1^104 Bb2+Bb5@15>1^104 Ab2+Bb5@16>1^104
+  STAY C O O L                                            : Eb3+Eb4@1>16^104
+  don't close the fridge                                  : Eb4@1>2^104 Bb3@3>2^104
+  <<<---------------------------------------------------#2: Bb4+G5@1>8^104 Bb4+F5@9>8^104 Eb5@13>4^104
+@112 [Bb | Eb] (grid:64)
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@17>8^104 G4@25>4^104 Ab4@29>12^104 G4@41>8^104 Ab4@49>8^104 G4@57>8^104
+  Sequenced June 2000 by                                  : Bb1@9>8^104 Bb1@25>8^104 Bb1@41>8^104 Bb1@57>8^104
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>64^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>2^104 Bb5@5>2^104 Bb5@9>2^104 Bb2@10>2^104 Bb5@13>2^104 Ab2@14>2^104 C2+Eb2+Gb2+Bb5@17>2^104 Bb5@21>2^104 Bb5@25>2^104 Bb2@26>2^104 Bb5@29>2^104 Ab2@30>2^104 C2+Gb2+Bb5@33>2^104 Bb5@37>2^104 Bb5@41>2^104 Bb2@42>2^104 Bb5@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2+Bb5@49>2^104 Bb5@53>2^104 Bb5@57>2^104 Bb2@58>2^104 Bb5@61>2^104 Ab2@62>2^104
+  STAY C O O L                                            : Bb2+Bb3@1>64^104
+  don't close the fridge                                  : Bb4@1>8^104 Bb3@9>8^104
+  <<<---------------------------------------------------#2: Eb4+D5@1>32^104 Bb3+Eb5@33>32^104
+@113 [Ab] (grid:64)
+  THE BAD TOUCH Eiffel65's Remix                          : Eb4@17>8^104 Ab3@25>8^104 Eb4@41>8^104 F4@49>4^104 Eb4@53>4^104 F4@57>8^104
+  Sequenced June 2000 by                                  : Ab1@9>8^104 Ab1@25>8^104 Ab1@41>8^104 Ab1@57>8^104
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>64^104 D3@33>32^104
+  ---------------------------------------------------->>> : A3@1>256^104
+  Don't Sell or Modify this file without                  : C2+Gb2+Bb5@1>2^104 Bb5@5>2^104 Bb5@9>2^104 Bb2@10>2^104 Bb5@13>2^104 Ab2@14>2^104 C2+Eb2+Gb2+Bb5@17>2^104 Bb5@21>2^104 Bb5@25>2^104 Bb2@26>2^104 Bb5@29>2^104 Ab2@30>2^104 C2+Gb2+Bb5@33>2^104 Bb5@37>2^104 Bb5@41>2^104 Bb2@42>2^104 Bb5@45>2^104 Ab2@46>2^104 C2+Eb2+Gb2+Bb5@49>2^104 Bb5@53>2^104 Bb5@57>2^104 Bb2@58>2^104 Bb5@61>2^104 Ab2@62>2^104
+  STAY C O O L                                            : Ab2+Ab3@1>64^104
+  don't close the fridge                                  : Eb4@1>24^104 Eb4@25>24^104 F4@57>8^104
+  <<<---------------------------------------------------#2: Eb4+G4+C5@1>64^104 G5@33>16^104 F5@49>16^104
+@114 [Cm | C] (grid:4)
+  Arne Mulder 2000                                        : C2+C3+C4@1>4^104 C3@3>2^104
+  <<<---------------------------------------------------#2: G4+Eb5@1>2^104 C4+Bb4@3>2^104
+@115 [Eb] (grid:4)
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>4^104
+  <<<---------------------------------------------------#2: Bb4+G5@1>2^104 Bb4+F5@3>2^104 Eb5@4>1^104
+@116 [Bb] (grid:4)
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>4^104
+  <<<---------------------------------------------------#2: Eb4+D5@1>2^104 Bb3+Eb5@3>2^104
+@117 [Ab7] (grid:4)
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>4^104 D3@3>2^104
+  <<<---------------------------------------------------#2: Eb4+G4+C5@1>4^104 G5@3>1^104 F5@4>1^104
+@118 [Cm | C] (grid:4)
+  Arne Mulder 2000                                        : C2+C3+C4@1>4^104 C3@3>2^104
+  <<<---------------------------------------------------#2: G4+Eb5@1>2^104 C4+Bb4@3>2^104
+@119 [Eb] (grid:4)
+  Arne Mulder 2000                                        : Eb2+Eb3+Eb4@1>4^104
+  <<<---------------------------------------------------#2: Bb4+G5@1>2^104 Bb4+F5@3>2^104 Eb5@4>1^104
+@120 [Bb] (grid:4)
+  Arne Mulder 2000                                        : Bb1+Bb2+F3+Bb3@1>4^104
+  <<<---------------------------------------------------#2: Eb4+D5@1>2^104 Bb3+Eb5@3>2^104
+@121 [Ab7] (grid:4)
+  Arne Mulder 2000                                        : Ab1+Ab2+Eb3+Ab3@1>4^104 D3@3>2^104
+  <<<---------------------------------------------------#2: Eb4+G4+C5@1>4^104 G5@3>1^104 F5@4>1^104
+@122 [C] (grid:4)
+  Arne Mulder 2000                                        : C1+C2+C3@1>16^104
+  STAY C O O L                                            : C4@1>16^104
+@123 [-]
+@124 [-]
+@125 [-]
+@126 [C] (grid:4)
+  -------------------------------------------------->>>   : C-1+C0+C1+C2@1>12^104
+@127 [-]
+@128 [-]

@@ -1,0 +1,689 @@
+KEY: C major | METER: 4/4 | TEMPO: 134 | GRID: 64th (adaptive) | BARS: 119
+VOICES: Acoustic Grand Piano[prog=0], Electric Guitar (jazz)[prog=26], String Ensemble 1[prog=48], Vibraphone[prog=11], String Ensemble 1#2[prog=48], Pizzicato Strings[prog=45], Pizzicato Strings#2[prog=45], Music Box[prog=10], Choir Aahs[prog=52], Drums[drums]
+@1 [-]
+@2 [-]
+@3 [C]
+  Electric Guitar (jazz): C2@1>63^104
+  String Ensemble 1     : G3+C4+E4@1>121^80 B3+D4@64>63^80
+  Vibraphone            : C5+G5@9>2^80 D5+G5@17>2^80 E5+G5@25>2^80 D5+G5@33>3^80 C5+G5@49>3^104
+  Pizzicato Strings     : C5@1>4^104 D5@25>4^104 E5@49>5^104
+  Drums                 : C#3@1>52^80 F#2@49>7^56
+@4 [G | C]
+  Electric Guitar (jazz): G1@1>61^104
+  String Ensemble 1     : C4@64>64^80
+  Vibraphone            : D5@9>2^104 G4@25>2^104 C5@41>2^104 D5@49>2^80 G5@57>2^80
+  Pizzicato Strings     : D5@1>4^104 B4@25>4^104 G4@49>5^104
+  Drums                 : F#2@49>4^56
+@5 [C]
+  Electric Guitar (jazz): C2@1>61^104
+  String Ensemble 1     : G3+E4@1>121^80
+  Vibraphone            : C5+G5@9>3^80 D5+G5@17>3^80 E5+G5@25>2^80 D5+G5@33>3^104 C5+G5@57>2^80
+  Pizzicato Strings     : C5@1>4^104 D5@25>3^104 E5@49>4^104
+  Drums                 : F#2@49>5^56
+@6 [G]
+  Electric Guitar (jazz): G1@1>62^104
+  String Ensemble 1     : B3+D4@1>62^80 C4+E4@64>64^80
+  Vibraphone            : G4@9>2^104 B4+D5@25>1^80 G4@41>2^104 C5+E5@57>2^104
+  Pizzicato Strings     : D5@1>4^104
+  Drums                 : F#2@49>7^56
+@7 [C]
+  Electric Guitar (jazz): C2@1>59^104
+  String Ensemble 1     : G3@1>58^80
+  Vibraphone            : C5+G5@9>2^104 D5+G5@17>2^80 E5+G5@25>2^80 D5+G5@33>2^80 C5+G5@49>2^104
+  Pizzicato Strings     : C5@1>5^104 D5@25>4^104 E5@49>4^104
+  Drums                 : F#2@49>6^56
+@8 [F | G]
+  Electric Guitar (jazz): F2@1>32^104 G2@33>31^104
+  String Ensemble 1     : A3+C4+F4@2>29^80 B3+D4@33>31^80 G4@34>26^80
+  Vibraphone            : D5+G5@1>2^80 G4@25>2^80 C5@41>3^80 C5@57>2^80
+  Pizzicato Strings     : D5@1>4^104 C5@25>3^104 B4@49>4^104
+  Drums                 : F#2@49>6^56
+@9 [C] (grid:8)
+  Electric Guitar (jazz): C2@1>12^104
+  String Ensemble 1     : G3+C4+E4@1>59^80
+  Vibraphone            : C5+G5@2>1^80 D5+G5@3>1^80 E5+G5@4>1^80 D5+G5@5>1^104 C5+E5@8>1^104
+  Pizzicato Strings     : C5@1>1^104
+  Drums                 : F#2@7>1^56
+@10 [G | C]
+  String Ensemble 1     : C4+E4@64>62^80
+  Vibraphone            : G4@9>2^104 B4+D5@25>2^80 G4@41>2^104 C5+E5@57>2^104
+@11 [C] (grid:12t)
+  Acoustic Grand Piano  : E4@7>3^104 F4@10>2^104 E4@12>3^104
+  Electric Guitar (jazz): C2@1>12^104
+  String Ensemble 1     : G3@1>122^80
+  Music Box             : C5@1>1^80 D5@5>1^80 E5@10>1^80
+  Drums                 : C#3@1>1^80 F#2@4>1^56
+@12 [G]
+  Acoustic Grand Piano  : D4@10>34^104
+  Electric Guitar (jazz): G1@1>57^104
+  String Ensemble 1     : B3+D4@1>12^80 E4@64>61^80
+  Music Box             : D5@1>4^80 B4@25>5^80 G4@49>5^80
+  Drums                 : F#2@17>5^56
+@13 [C] (grid:8)
+  Acoustic Grand Piano  : E4@5>2^104 F4@7>1^104 E4@8>2^104
+  Electric Guitar (jazz): C2@1>8^104
+  String Ensemble 1     : G3+C4@1>122^80
+  Music Box             : C5@1>1^80 D5@4>1^80 E5@7>1^80
+  Drums                 : F#2@3>1^56
+@14 [G] (grid:8)
+  Acoustic Grand Piano  : D4@2>1^104 D4@4>3^104 C4@7>1^104 C4@8>4^104
+  Electric Guitar (jazz): G1@1>7^104
+  String Ensemble 1     : B3+D4@1>8^80
+  Music Box             : D5@1>1^80
+  Drums                 : F#2@3>1^56
+@15 [C] (grid:8)
+  Acoustic Grand Piano  : E4@5>2^104 F4@7>1^104 E4@8>2^104
+  Electric Guitar (jazz): C2@1>7^104
+  String Ensemble 1     : G3+C4+E4@1>15^80
+  Music Box             : G5@1>1^80 E5@4>1^80 G5@7>1^80
+  Drums                 : F#2@3>1^56
+@16 [G] (grid:12t)
+  Acoustic Grand Piano  : D4@2>8^104
+  Electric Guitar (jazz): G1@1>11^104
+  String Ensemble 1     : B3+D4@1>12^80
+  Music Box             : F5@1>1^80 D5@5>1^80 B4@10>1^80
+  Drums                 : F#2@4>1^56
+@17 [C]
+  Acoustic Grand Piano  : E4@33>16^104 F4@49>8^104 E4@58>16^104
+  Electric Guitar (jazz): C2@1>63^104
+  String Ensemble 1     : C4+E4@1>60^80 G3@2>57^80
+  Music Box             : G5@1>6^80 E5@25>4^80 G5@49>5^80
+  Drums                 : F#2@17>5^56
+@18 [G]
+  Acoustic Grand Piano  : D4@10>22^104 D4@34>17^104 G4@51>5^104 G4@59>35^104
+  Electric Guitar (jazz): G1@1>59^104
+  String Ensemble 1     : G3+B3+D4@1>120^80 C4+E4@63>98^80
+  Music Box             : F5@1>4^80
+  Drums                 : F#2@17>5^56
+@19 [C | Am] (grid:16)
+  Acoustic Grand Piano  : E4@9>4^104 F4@13>2^104 E4@15>4^104
+  Electric Guitar (jazz): C2@1>15^104
+  String Ensemble 1     : A3@16>7^80
+  Music Box             : C5@1>1^80 D5@7>1^80 E5@13>1^80
+  Drums                 : F#2@5>1^56
+@20 [Dm7 | G]
+  Acoustic Grand Piano  : D4@10>16^104 C4@26>18^104 B3@43>22^104
+  Electric Guitar (jazz): F2@1>32^104 G2@33>33^104
+  String Ensemble 1     : F3@1>7^80 G3+B3+D4@33>76^80
+  Music Box             : D5@1>4^80 C5@25>3^80 B4@49>3^80
+  Drums                 : F#2@17>6^56
+@21 [C] (grid:4)
+  Acoustic Grand Piano  : C4@1>49^104
+  Electric Guitar (jazz): C2@1>5^104
+  String Ensemble 1     : C4+E4@1>46^80
+  Music Box             : C5@1>1^80
+  Drums                 : F#2@2>1^56
+@22 [C] (grid:4)
+  Drums                 : D#3@1>4^80
+@23 [C]
+  Acoustic Grand Piano  : E4@32>17^104 F4@48>10^104 E4@57>17^104
+  Electric Guitar (jazz): C2@1>61^104
+  String Ensemble 1     : G3+C4+E4@1>8^80
+  Vibraphone            : E5+G5@17>4^80 D5+G5@25>4^80 C5+G5@41>4^80
+  Music Box             : C5@1>4^80 D5@25>3^80 E5@49>4^80
+  Drums                 : C2+C#3@1>35^80 C2@9>48^80 F#2+E4@17>4^104 E4@25>2^104 D2@41>1^80 C2@57>4^80 C2@61>4^80
+@24 [G]
+  Acoustic Grand Piano  : D4@10>52^104
+  Electric Guitar (jazz): G1@1>60^104
+  String Ensemble 1     : B3+D4@1>60^80
+  Vibraphone            : D5+G5@9>3^80 G4@41>4^80 D5@49>4^80 G5@57>2^80
+  Music Box             : D5@1>3^80 B4@25>3^80 G4@49>4^80
+  Drums                 : C2@1>1^80 C2@9>1^80 F#2@17>5^56 E4@25>2^104 D2@41>1^80 D2@49>1^80
+@25 [C]
+  Acoustic Grand Piano  : E4@34>16^104 F4@49>10^104 E4@58>16^104
+  Electric Guitar (jazz): C2@1>63^104
+  String Ensemble 1     : G3+C4+E4@1>122^80
+  Vibraphone            : E5+G5@9>4^80 D5+G5@17>4^80 C5+G5@25>3^80 C5+G5@57>4^80
+  Music Box             : C5@1>4^80 D5@25>3^80 E5@49>4^80
+  Drums                 : C2@1>1^80 C2@9>1^80 F#2+E4@17>5^80 E4@25>2^80 D2@33>1^80 C2@57>8^80
+@26 [G]
+  Acoustic Grand Piano  : D4@10>13^104 D4@25>17^104 C4@43>11^104 C4@59>36^104
+  Electric Guitar (jazz): G1@1>56^104
+  String Ensemble 1     : D4@1>61^80 B3@2>62^80
+  Vibraphone            : D5+G5@1>4^80 G4@41>3^104 D5@49>5^80 G5@57>4^80
+  Music Box             : D5@1>3^80
+  Drums                 : C2@1>8^80 C2@9>1^80 F#2@17>5^56 C2@25>1^80 E4@33>2^104 E4@41>2^80 E4@49>2^80 D2@57>104^80
+@27 [C]
+  Acoustic Grand Piano  : E4@33>18^104 F4@50>10^104 E4@59>16^104
+  Electric Guitar (jazz): C2@1>64^104
+  String Ensemble 1     : G3+C4+E4@1>61^80 G3+D4@64>60^80
+  Vibraphone            : C5+G5@25>6^80 D5+G5@33>4^80 E5+G5@41>4^80
+  Music Box             : G5@1>6^80 E5@25>4^80 G5@49>6^80
+  Drums                 : C2@1>1^80 C2+F#2@17>8^80 C2@25>32^80 E4@33>3^104 C2@57>1^80
+@28 [G] (grid:8)
+  Acoustic Grand Piano  : D4@2>6^104
+  Electric Guitar (jazz): G1@1>23^104
+  String Ensemble 1     : B3@1>7^80
+  Vibraphone            : G4@2>1^80 G4@6>1^104 D5@7>1^80 G5@8>1^80
+  Music Box             : F5@1>1^80 D5@4>1^80 B4@7>1^80
+  Drums                 : C2@1>1^80 C2@2>2^80 F#2@3>1^56 C2@4>1^80 D2@5>1^80
+@29 [C]
+  Acoustic Grand Piano  : E4@33>16^104 F4@49>8^104 E4@57>16^104
+  Electric Guitar (jazz): C2@1>62^104
+  String Ensemble 1     : G3+C4+E4@1>8^80
+  Vibraphone            : E5+G5@9>4^80 D5+G5@17>5^80 C5+G5@25>4^80 D5+G5@41>4^80 E5+G5@49>4^80
+  Music Box             : G5@1>4^80 E5@25>2^80 G5@49>4^80
+  Drums                 : C2@1>1^80 C2@9>56^80 F#2+E4@17>5^80 E4@25>2^80 D2@33>1^80 D2@57>1^80
+@30 [G]
+  Acoustic Grand Piano  : D4@10>12^104 D4@25>15^104 C4@41>31^104 G4@57>34^104
+  Electric Guitar (jazz): G1@1>55^104
+  String Ensemble 1     : G3+B3+D4@1>57^80 C4+E4@64>96^80
+  Vibraphone            : D5+G5@9>4^80 G4@41>7^80 D5@49>6^80 G5@57>4^80
+  Music Box             : F5@1>3^80
+  Drums                 : C2@1>1^80 C2@9>40^80 F#2+E4@17>6^80 D2@25>1^80 C2@49>1^80 C2@57>8^80
+@31 [C]
+  Acoustic Grand Piano  : E4@33>16^104 F4@49>8^104 E4@58>16^104
+  Electric Guitar (jazz): C2@1>64^104
+  String Ensemble 1     : G3@1>58^80
+  Vibraphone            : C5+G5@17>4^80 D5+G5@25>4^80 C5+G5@41>4^80
+  Music Box             : C5@1>5^80 D5@25>3^80 E5@49>3^80
+  Drums                 : C2@1>1^80 C2@9>1^80 F#2+E4@17>5^80 C2@25>40^80 D2@33>1^80
+@32 [Dm7 | G]
+  Acoustic Grand Piano  : D4@11>16^104 C4@27>16^104 B3@42>25^104
+  Electric Guitar (jazz): F2@1>33^104 G2@33>30^104
+  String Ensemble 1     : F3+A3@1>28^80 G3+D4@32>98^80 B3@33>30^80 C4+E4@63>58^80
+  Vibraphone            : D5+G5@9>3^80 C5+F5@25>4^80 D5@41>4^80 C5@49>4^80
+  Music Box             : D5@1>2^80 C5@25>3^80 B4@49>3^80
+  Drums                 : C2@1>1^80 C2@9>40^80 F#2+E4@17>5^80 D2@25>8^80 D2@33>1^80 C2@49>1^80 C2@57>1^80
+@33 [C]
+  Acoustic Grand Piano  : C4@2>46^104
+  Electric Guitar (jazz): C2@1>148^104
+  Vibraphone            : E5+G5@25>4^80 D5+G5@33>4^104 C5+G5@57>3^104
+  Music Box             : C5@1>3^80
+  Drums                 : E4@1>2^104 C2+F#2@17>8^80 C2@25>8^80 C2@33>1^80
+@34 [G | C]
+  Acoustic Grand Piano  : G3@17>17^104 C4@33>17^104 D4@48>9^104 E4@57>77^104
+  Electric Guitar (jazz): G1@9>7^104 A1@17>8^104 G1@25>4^104 G1@41>7^104 A1@49>8^104 G1@57>6^104
+  String Ensemble 1     : G3+C4+E4@64>253^80
+  Vibraphone            : G4@9>4^104 B4+D5@25>3^104 G4@41>2^104 C5+E5@57>2^104
+  Drums                 : C2@57>1^80 C2@61>1^80
+@35 [C | Am7]
+  Electric Guitar (jazz): C2@1>20^104 C2@25>6^104 G1@41>6^104 A1@49>15^104
+  Pizzicato Strings#2   : E5@1>6^80 C5@9>4^80 G4@17>4^80 E5@25>3^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>3^80
+  Drums                 : C2+F#2+C#3@1>37^80 C2@9>1^80 C2+F#2@17>40^80 E4@25>2^80 D2+F#2+F#3@33>64^104 F#2@49>6^56 C2@57>1^80
+@36 [C | Am7]
+  Acoustic Grand Piano  : E4@16>8^104 D4@25>16^104 E4@40>16^104 A3@57>75^104
+  Electric Guitar (jazz): C2@1>20^104 C2@25>6^104 G1@41>10^104 A1@49>9^104 C2@57>8^104
+  String Ensemble 1     : A3@63>125^80 F3@64>123^80
+  Pizzicato Strings#2   : E5@1>2^80 C5@9>2^80 G4@17>3^80 E5@25>2^80 C5@33>2^80 G4@41>3^80 E5@49>3^80 C5@57>2^80
+  Drums                 : C2+F#2@1>5^80 C2@9>1^80 F#2+E4@17>6^56 E4@25>2^80 D2+F#2@33>4^80 C2+F#2@49>6^80 C2@57>8^80
+@37 [F | G] (grid:8)
+  Electric Guitar (jazz): F1@1>2^104 F1@4>1^104 D1@7>2^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Drums                 : C2+F#2@1>1^80 C2@2>1^80 C2+F#2@3>4^80 E4@4>1^80 D2+F#2+F#3@5>5^80 C2+F#2@7>1^80 C2@8>2^80
+@38 [F | C] (grid:8)
+  Acoustic Grand Piano  : A3@4>1^104 C4@5>2^104 D4@7>2^104
+  Electric Guitar (jazz): F1@1>2^104 F1@4>1^104 F1@7>1^104 G1@8>1^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Drums                 : F#2@1>1^56 C2@2>5^80 F#2+E4@3>1^80 E4@4>1^80 D2+F#2@5>1^80 C2+F#2@7>1^80 C2@8>1^80
+@39 [C]
+  Acoustic Grand Piano  : D4+F4@1>2^104 E4@16>16^104 D4@32>16^104 C4@48>8^104 C4@64>44^104
+  Electric Guitar (jazz): C2@1>20^104 C2@25>6^104 G1@41>8^104 A1@49>9^104
+  String Ensemble 1     : G3+C4+E4@1>250^80
+  Pizzicato Strings#2   : E5@1>2^80 C5@9>3^80 G4@17>3^80 E5@25>4^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>3^80
+  Drums                 : C2+F#2@1>5^80 C2@9>40^80 F#2+E4@17>6^80 E4@25>2^80 D2+F#2+F#3@33>64^104 C2+F#2@49>5^80 C2@57>16^80
+@40 [C] (grid:8)
+  Acoustic Grand Piano  : D4@7>1^104 D4@8>8^104
+  Electric Guitar (jazz): C2@1>2^104 C2@4>1^104 G1@6>1^104 A1@7>1^104 C2@8>1^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Drums                 : F#2@1>1^56 C2@2>7^80 F#2+E4@3>1^80 E4@4>1^80 D2+F#2@5>1^80 F#2@7>1^56 D2@8>1^80
+@41 [G | Am7]
+  Electric Guitar (jazz): G1@1>24^104 G2@25>4^104 G1@41>9^104 A1@49>16^104
+  String Ensemble 1     : D4@1>15^80 B3@63>61^80
+  Pizzicato Strings#2   : D5@1>2^80 C5@9>3^80 G4@17>3^80 D5@25>2^80 C5@33>2^80 G4@41>3^80 D5@49>2^80 C5@57>2^80
+  Drums                 : C2+F#2@1>8^80 C2@9>48^80 F#2+E4@17>6^80 E4@25>3^104 D2+F#2+F#3@33>56^80 F#2@49>6^56 C2@57>8^80
+@42 [G | Em]
+  Acoustic Grand Piano  : G4@17>6^104 G4@25>14^104 F4@41>11^104 E4@58>73^104
+  Electric Guitar (jazz): G1@1>24^104 G2@25>3^104 G1@49>9^104 A1@57>8^104
+  Pizzicato Strings#2   : D5@1>3^80 B4@9>3^80 G4@17>4^80 D5@25>3^80 B4@33>4^80 G4@41>4^80 D5@49>3^80 B4@57>3^80
+  Drums                 : C2+F#2@1>8^80 C2@9>40^80 F#2+E4@17>5^80 D2@25>1^80 F#2@33>5^56 D2@41>56^80 C2+F#2@49>8^80 C2@57>1^80
+@43 [C | Am7]
+  Electric Guitar (jazz): C2@1>17^104 C2@25>5^104 G1@41>9^104 A1@49>15^104
+  String Ensemble 1     : G3+C4+E4@1>126^80
+  Pizzicato Strings#2   : E5@1>2^80 C5@9>4^80 G4@17>3^80 E5@25>3^80 C5@33>3^80 G4@41>3^80 E5@49>2^80 C5@57>3^80
+  Drums                 : C2+F#2+C#3@1>51^80 C2@9>8^80 C2+F#2@17>5^80 E4@25>2^80 D2+F#2+F#3@33>64^104 C2+F#2@49>8^80 C2@57>16^80
+@44 [C | Am7]
+  Acoustic Grand Piano  : E4@16>7^104 D4@25>15^104 E4@40>15^104 A3@56>58^104
+  Electric Guitar (jazz): C2@1>18^104 C2@25>5^104 G1@41>10^104 A1@49>8^104 C2@57>9^104
+  String Ensemble 1     : F4@63>124^80 A3+C4@64>123^80
+  Pizzicato Strings#2   : E5@1>2^80 C5@9>3^80 G4@17>3^80 E5@25>3^80 C5@33>3^80 G4@41>3^80 E5@49>2^80 C5@57>2^80
+  Drums                 : F#2@1>4^32 C2@9>40^80 F#2+E4@17>5^80 E4@25>2^80 D2+F#2@33>12^80 D2@45>52^80 C2+F#2@49>8^80 C2@57>1^80
+@45 [F]
+  Electric Guitar (jazz): A1@1>25^104 C2@25>5^104 G1@49>9^104 A1@57>8^104
+  Pizzicato Strings#2   : F5@1>3^80 C5@9>4^80 A4@17>3^80 F5@25>3^80 C5@33>2^80 A4@41>4^80 F5@49>3^80 C5@57>3^80
+  Drums                 : F#2+E4@1>4^104 E4@9>2^104 F#2+E4@17>5^104 E4@25>3^80 D2+F#2+F#3@33>64^104 F#2@49>6^80 C2@57>1^80
+@46 [F | Dm]
+  Acoustic Grand Piano  : A3@16>10^104 C4@24>14^104 D4@41>23^104 F4@64>14^104
+  Electric Guitar (jazz): F1@1>19^104 F1@25>6^104 G1@49>9^104 A1@57>8^104
+  Pizzicato Strings#2   : F5@1>4^80 C5@9>3^80 A4@17>3^80 F5@25>2^80 C5@33>3^80 A4@41>4^80 F5@49>3^80 C5@57>3^80
+  Drums                 : F#2@1>4^56 E4@9>2^80 F#2+E4@17>5^80 E4@25>3^104 D2+F#2@33>56^80 C2+F#2@49>8^80 C2@57>1^80
+@47 [C]
+  Acoustic Grand Piano  : E4@15>11^104 D4@25>17^104 C4@41>25^104
+  Electric Guitar (jazz): C2@1>18^104 C2@25>4^104 G1@41>10^104 A1@49>8^104 C2@57>8^104
+  String Ensemble 1     : G3+C4+E4@1>122^80 D4@63>63^80 B3@64>63^80
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>3^80 G4@17>3^80 E5@25>4^80 C5@33>3^80 G4@41>4^80 E5@49>3^80 C5@57>3^80
+  Drums                 : C2+F#2@1>8^80 C2@9>8^80 C2+F#2@17>5^80 D2@25>1^80 F#2+F#3@33>51^80 C2@41>1^80 F#2@49>4^56 E4@57>3^80
+@48 [G7]
+  Acoustic Grand Piano  : F4@1>16^104 E4@16>10^104 D4@26>22^104 C4@48>5^104 C4@57>58^104
+  Electric Guitar (jazz): G1@1>25^104 G2@25>4^104 G1@41>9^104 A1@49>14^104
+  Pizzicato Strings#2   : D5@1>3^80 B4@9>3^80 G4@17>3^80 D5@25>3^80 B4@33>3^80 G4@41>4^80 D5@49>3^80 B4@57>2^80
+  Drums                 : C2+F#2@1>8^80 C2@9>8^80 C2+F#2@17>4^80 E4@25>1^80 F#2+E4@33>4^104 F#2@49>5^80
+@49 [C | Am7]
+  Electric Guitar (jazz): C2@1>18^104 C2@25>4^104 G1@41>9^104 A1@49>16^104
+  String Ensemble 1     : G3+C4+E4@1>81^80
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>4^80 G4@17>3^80 E5@25>3^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>2^80
+  Drums                 : C2+F#2@1>4^80 C2@9>8^80 C2+F#2@17>4^80 E4@25>2^80 F#2+F#3+E4@33>31^104 F#2@49>4^56 C2@57>40^80
+@50 [C] (grid:8)
+  Electric Guitar (jazz): C2@1>2^104 C2@4>1^104 G1@6>1^104 A1@7>1^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Drums                 : D2+F#2+D#3@1>76^80 C2@5>2^80 C2@7>65^80
+@51 [C]
+  Electric Guitar (jazz): C2@1>54^104
+  String Ensemble 1     : G3+C4+E4@1>250^80
+  String Ensemble 1#2   : C3@17>3^104 C3@41>3^104
+  Pizzicato Strings     : C5@1>4^104 D5@25>3^104 E5@49>4^104
+  Drums                 : F#2+C#3@1>21^80 F#2@17>6^56 F#2@33>5^56 F#2@49>6^80
+@52 [G] (grid:12t)
+  Electric Guitar (jazz): G1@1>10^104
+  String Ensemble 1     : B3+D4@1>12^80
+  String Ensemble 1#2   : G2@4>1^80 G2@9>1^104 G2@11>1^80
+  Pizzicato Strings     : D5@1>1^104 B4@5>1^104 G4@10>1^104
+  Drums                 : F#2@1>1^32 F#2@4>1^56 F#2@7>1^56 F#2@10>1^56
+@53 [C] (grid:12t)
+  Electric Guitar (jazz): C2@1>48^104
+  String Ensemble 1     : C4+E4@1>12^80
+  String Ensemble 1#2   : C3@4>1^80 C3@9>1^80
+  Pizzicato Strings     : C5@1>1^104 D5@5>1^104 E5@10>1^104
+  Drums                 : F#2@1>1^56 F#2@4>1^56 F#2@7>1^56 F#2@10>1^56
+@54 [G] (grid:12t)
+  Electric Guitar (jazz): G1@1>11^104
+  String Ensemble 1     : B3+D4@1>11^80
+  String Ensemble 1#2   : G2@4>1^80 G2@9>1^104 G2@11>1^80
+  Pizzicato Strings     : D5@1>1^104
+  Drums                 : F#2@1>1^56 F#2@4>1^56 F#2@7>1^56 F#2@10>1^56
+@55 [C] (grid:12t)
+  Electric Guitar (jazz): C2@1>24^104
+  String Ensemble 1     : G3+C4+E4@1>18^80
+  String Ensemble 1#2   : C3@4>1^80 C3@9>1^80 C3@11>1^80
+  Pizzicato Strings     : C5@1>1^104 D5@5>1^104 E5@10>1^104
+  Drums                 : F#2@1>1^32 F#2@4>1^56 F#2@7>1^32 F#2@10>1^56
+@56 [Dm7 | G]
+  Electric Guitar (jazz): F2@1>32^104 G2@33>33^104
+  String Ensemble 1     : F3@1>26^80 A3@2>26^80 D4@32>32^80 G3+B3@33>92^80 C4+E4@64>61^80
+  String Ensemble 1#2   : F3@17>3^80 G2@41>3^80 G2@57>3^80
+  Pizzicato Strings     : D5@1>4^104 C5@25>3^104 B4@49>4^104
+  Drums                 : F#2@1>5^32 F#2@17>4^56 F#2@33>4^32 F#2@49>5^56
+@57 [C] (grid:12t)
+  Electric Guitar (jazz): C2@1>10^104
+  String Ensemble 1#2   : C3@4>1^104 C3@9>1^104 C3@11>1^104
+  Pizzicato Strings     : C5@1>1^104
+  Drums                 : F#2@1>1^32 F#2@4>1^80 F#2@7>1^32 F#2@10>1^56
+@58 [G | Baug] (grid:24t)
+  Electric Guitar (jazz): G1@1>12^104 B1@13>12^104
+  String Ensemble 1#2   : G2@1>2^104
+  Drums                 : F#2@1>2^32 D#3@13>13^80 C2@22>1^80 C2@23>2^80
+@59 [C]
+  Acoustic Grand Piano  : E4@33>16^104 F4@49>10^104 E4@58>15^104
+  Electric Guitar (jazz): C2@1>21^104 C2@25>4^104
+  String Ensemble 1     : G3+C4+E4@2>249^80
+  Pizzicato Strings     : C5@1>4^104 D5@25>3^104 E5@49>3^104
+  Music Box             : C5@1>4^80 D5@25>2^80 E5@49>4^80
+  Drums                 : C2+F#2+C#3@1>30^80 C2@9>1^80 F#2+E4+D#5@17>5^104 E4@25>2^80 D2+F#2+F#3@33>33^104 D#5@41>2^104 F#2@49>6^56 C2@57>1^80
+@60 [G]
+  Acoustic Grand Piano  : D4@9>46^104
+  Electric Guitar (jazz): G1@1>32^104 B1@33>33^104
+  String Ensemble 1     : B3+D4@1>66^80
+  Pizzicato Strings     : D5@1>3^104 B4@25>3^104 G4@49>4^104
+  Music Box             : D5@1>4^80 B4@25>4^80 G4@49>4^80
+  Drums                 : C2+F#2@1>4^80 C2@9>1^80 F#2+D#5@17>4^104 C2@25>40^80 D2+F#2@33>4^80 D#5@41>2^104 F#2@49>5^56 D2@57>1^80
+@61 [C | Eaug]
+  Acoustic Grand Piano  : E4@33>16^104 F4@48>10^104 E4@57>16^104
+  Electric Guitar (jazz): C2@1>21^104 C2@25>4^104 C2@57>7^104
+  String Ensemble 1     : C4@1>61^80 E4@2>59^80
+  Pizzicato Strings     : C5@1>3^104 D5@25>2^104 E5@49>2^104
+  Music Box             : C5@1>4^80 D5@25>2^80 E5@49>4^80
+  Drums                 : C2+F#2@1>5^80 C2@9>1^80 F#2+E4+D#5@17>5^104 E4@25>2^80 C#2+D2+F#2+F#3@33>42^104 D#5@41>2^104 C2+F#2@49>5^80 C2@57>72^80
+@62 [G] (grid:8)
+  Acoustic Grand Piano  : D4@2>1^104 D4@4>2^104 C4@6>1^104 C4@8>4^104
+  Electric Guitar (jazz): G1@1>4^104 B1@5>4^104
+  String Ensemble 1     : B3+D4@1>60^80
+  Pizzicato Strings     : D5@1>1^104
+  Music Box             : D5@1>1^80
+  Drums                 : F#2@1>1^56 E4@2>1^104 F#2+D#5@3>1^104 E4@4>1^80 D2+F#2@5>1^80 D#5@6>1^104 F#2@7>1^56 D2@8>1^80
+@63 [C | Em]
+  Acoustic Grand Piano  : E4@33>17^104 F4@49>7^104 E4@57>16^104
+  Electric Guitar (jazz): C2@1>20^104 C2@25>3^104
+  String Ensemble 1     : G3+C4+E4@1>15^80
+  Pizzicato Strings     : G5@1>4^104 E5@25>3^104 G5@49>4^104
+  Music Box             : G5@1>4^80 E5@25>3^80 G5@49>4^80
+  Drums                 : C2+F#2@1>4^80 C2@9>1^80 F#2+E4+D#5@17>4^104 E4@25>3^104 D2+F#2+F#3@33>41^80 D#5@41>2^80 F#2@49>5^56 D2@57>1^80
+@64 [G]
+  Acoustic Grand Piano  : D4@9>42^104
+  Electric Guitar (jazz): G1@1>32^104 B1@33>32^104
+  String Ensemble 1     : B3+D4@1>60^80 E4@64>60^80
+  Pizzicato Strings     : F5@1>4^104 D5@25>4^104 B4@49>4^104
+  Music Box             : F5@1>4^80 D5@25>4^80 B4@49>4^80
+  Drums                 : C2+F#2@1>4^80 C2@9>1^80 C2+F#2+D#5@17>40^104 E4@25>2^104 F#2@33>4^56 D2+D#5@41>2^104 F#2@49>4^80 C2@57>1^80 C2@61>1^80
+@65 [C | Em]
+  Acoustic Grand Piano  : E4@17>24^104 F4@41>15^104 E4@57>15^104
+  Electric Guitar (jazz): C2@1>22^104 C2@25>3^104
+  String Ensemble 1     : G3+C4@1>121^80
+  Pizzicato Strings     : G5@1>4^104 E5@25>4^104 G5@49>4^104
+  Music Box             : G5@1>4^80 E5@25>3^80 G5@49>4^80
+  Drums                 : C2+F#2@1>4^80 E4@9>2^80 F#2+E4+D#5@17>4^104 D2@25>32^80 F#2+F#3@33>30^80 D#5@41>2^104 F#2@49>4^56 D2@57>40^80
+@66 [G]
+  Acoustic Grand Piano  : D4@9>17^104 E4@24>16^104 G4@41>12^104 G4@58>34^104
+  Electric Guitar (jazz): G1@1>32^104 B1@33>33^104
+  String Ensemble 1     : B3+D4@1>58^80
+  Pizzicato Strings     : F5@1>4^104
+  Music Box             : F5@1>3^80
+  Drums                 : C2+F#2@1>3^80 C2+F#2+D#5@17>32^104 E4@25>2^104 D2+F#2@33>4^80 D#5@41>3^104 C2+F#2@49>8^80 C2@57>8^80
+@67 [C | Em]
+  Acoustic Grand Piano  : E4@33>16^104 F4@49>7^104 E4@57>16^104
+  Electric Guitar (jazz): C2@1>20^104 C2@25>6^104 E1@49>16^104
+  String Ensemble 1     : G3+C4+E4@1>94^80
+  Vibraphone            : G4@9>4^80 C5@17>3^80 G4@41>3^80
+  Pizzicato Strings     : C5@1>4^104 D5@25>3^104 E5@49>3^104
+  Music Box             : C5@1>4^80 D5@25>4^80 E5@49>4^80
+  Drums                 : C2+F#2@1>4^80 C2@9>1^80 F#2+E4+D#5@17>4^104 E4@25>2^80 D2+F#2+F#3@33>36^80 D#5@41>2^80 F#2@49>4^56 D2@57>56^80
+@68 [Dm7 | G]
+  Acoustic Grand Piano  : D4@10>10^104 C4@25>10^104 B3@41>12^104
+  Electric Guitar (jazz): F1@1>31^104 G1@33>33^104
+  String Ensemble 1     : F3+A3@1>24^80 D4@31>32^80 G3+B3@32>102^80 C4+E4@64>71^80
+  Vibraphone            : A4@9>4^80 C5@17>4^80 G4@41>4^80 D5@49>3^80
+  Pizzicato Strings     : D5@1>3^104 C5@25>2^104 B4@49>2^104
+  Music Box             : D5@1>3^80 C5@25>3^80 B4@49>3^80
+  Drums                 : C2+F#2@1>4^80 C2@9>1^80 F#2+D#5@17>4^80 C2@25>1^80 F#2+E4@33>4^104 E4+D#5@41>3^80 D2+F#2@49>56^80
+@69 [C]
+  Acoustic Grand Piano  : C4@1>60^104
+  Electric Guitar (jazz): C2@1>21^104 C2@25>4^104
+  Vibraphone            : E5+G5@25>3^80 D5+G5@33>4^80 C5+E5@57>3^80
+  Pizzicato Strings     : C5@1>3^104
+  Music Box             : C5@1>4^80
+  Drums                 : C2+F#2@1>3^80 C2+F#2+D#5@17>8^80 C2@25>1^80 F#2+F#3+E4@33>6^104 D2@41>120^80 F#2@49>3^56
+@70 [G | C] (grid:16)
+  Acoustic Grand Piano  : G3@5>4^104 C4@9>4^104 D4@13>2^104 E4@15>20^104
+  Electric Guitar (jazz): G1@3>2^104 A1@5>2^104 G1@7>2^104 G1@11>2^104 A1@13>2^104 G1@15>2^104
+  Vibraphone            : G4@3>1^80 B4+D5@7>1^80 G4@11>1^80 C5+E5@15>1^80
+  Drums                 : C2+F#2+D#3@1>1^80 C2@12>1^80 E4@13>1^104 E4@15>1^80
+@71 [C]
+  Electric Guitar (jazz): C2@1>18^104 C2@25>4^104 G1@41>6^104 A1@49>9^104
+  String Ensemble 1     : G3+C4+E4@1>252^80
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>4^80 G4@17>3^80 E5@25>4^80 C5@33>4^80 G4@41>4^80 E5@49>3^80 C5@57>3^80
+  Drums                 : C2+F#2+C#3@1>37^80 C2+F#2@17>5^80 C2@25>1^80 D2+F#3@33>29^80 C2+F#2@49>4^80 C2@57>72^80
+@72 [C | Am7]
+  Acoustic Grand Piano  : E4@17>16^104 D4@33>10^104 E4@42>16^104 A3@58>105^104
+  Electric Guitar (jazz): C2@1>20^104 C2@25>5^104 G1@41>10^104 A1@49>16^104
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>3^80 G4@17>4^80 E5@25>4^80 C5@33>3^80 G4@41>4^80 E5@49>4^80 C5@57>3^80
+  Drums                 : E4@1>2^80 E4@9>2^80 F#2@17>6^56 E4@25>3^80 D2@33>1^80 F#2@49>6^56 D2@57>40^80
+@73 [F | C]
+  Electric Guitar (jazz): F1@1>18^104 F1@25>4^104 G1@49>8^104 C2@57>8^104
+  String Ensemble 1     : F3+A3@1>125^80
+  Pizzicato Strings#2   : E5@1>4^80 C5@9>4^80 G4@17>3^80 E5@25>4^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>3^80
+  Drums                 : C2@1>8^80 C2@9>56^80 F#2+E4@17>6^80 E4@25>2^80 D2+F#3@33>33^80 F#2@49>5^56
+@74 [F | C]
+  Acoustic Grand Piano  : C4@34>16^104 D4@50>16^104
+  Electric Guitar (jazz): F1@1>18^104 F1@25>5^104 D1@41>9^104 F1@49>8^104 G1@57>8^104
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>4^80 G4@17>3^80 E5@25>4^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>3^80
+  Drums                 : C2@1>8^80 C2@9>56^80 F#2+E4@17>4^80 E4@25>3^80 D2@33>1^80 F#2@49>5^56 D2@57>1^80
+@75 [C]
+  Acoustic Grand Piano  : F4@1>11^104 D4@3>1^104 E4@10>16^104 D4@26>22^104 C4@49>6^104 C4@57>56^104
+  Electric Guitar (jazz): C2@1>21^104 C2@25>5^104 G1@41>7^104 A1@49>15^104
+  String Ensemble 1     : G3+C4+E4@1>124^80
+  Vibraphone            : G4+D5@57>2^104
+  Pizzicato Strings#2   : E5@1>4^80 C5@9>3^80 G4@17>3^80 E5@25>3^80 C5@33>3^80 G4@41>4^80 E5@49>4^80 C5@57>2^80
+  Drums                 : C2@1>12^80 C2@13>4^80 C2+F#2@17>4^80 C2@25>40^80 F#3+E4@33>36^104 F#2@49>5^56 D2@57>1^80
+@76 [C]
+  Acoustic Grand Piano  : D4@48>12^104 D4@64>73^104
+  Electric Guitar (jazz): C2@1>20^104 C2@25>6^104 G1@41>8^104 A1@49>8^104 C2@57>9^104
+  String Ensemble 1     : G3+C4+D4@64>127^80
+  Vibraphone            : G5+D6@41>3^80
+  Pizzicato Strings#2   : E5@1>4^80 C5@9>4^80 G4@17>3^80 E5@25>4^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>2^80
+  Drums                 : C2@1>8^80 C2@9>56^80 F#2+E4@17>5^104 E4@25>2^104 D2@33>1^80 F#2@49>5^56 D2@57>1^80
+@77 [G]
+  Electric Guitar (jazz): G1@1>25^104 G2@25>4^104 G1@49>9^104 A1@57>9^104
+  String Ensemble 1     : B3@61>66^80
+  Pizzicato Strings#2   : D5@1>3^80 C5@9>3^80 G4@17>3^80 D5@25>3^80 C5@33>3^80 G4@41>2^80 D5@49>2^80 C5@57>2^80
+  Drums                 : C2@1>8^80 C2@9>56^80 F#2+E4@17>5^104 E4@25>3^80 D2+F#3@33>26^80 F#2@49>5^56 D2@57>1^80
+@78 [G | Dm]
+  Acoustic Grand Piano  : G4@17>7^104 G4@26>14^104 F4@42>23^104
+  Electric Guitar (jazz): G1@1>19^104 G1@25>6^104 G1@41>10^104 A1@49>8^104 D2@57>6^104
+  String Ensemble 1     : E4@64>128^80
+  Pizzicato Strings#2   : D5@1>2^80 B4@9>3^80 G4@17>3^80 D5@25>3^80 B4@33>3^80 G4@41>3^80 D5@49>3^80 B4@57>2^80
+  Drums                 : C2@1>8^80 C2@9>56^80 F#2+E4@17>5^80 E4@25>2^80 D2@33>1^80 F#2@49>6^56 D2@57>1^80
+@79 [C]
+  Acoustic Grand Piano  : E4@1>67^104
+  Electric Guitar (jazz): C2@1>23^104 C2@25>4^104 G1@49>8^104 A1@57>8^104
+  String Ensemble 1     : G3+C4@1>123^80
+  Pizzicato Strings#2   : E5@1>4^80 C5@9>2^80 G4@17>3^80 E5@25>3^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>3^80
+  Drums                 : C2+D#3@1>46^80 C2@9>8^80 C2+F#2@17>4^80 C2@25>1^80 F#3@33>37^80 F#2@49>5^56 D2@57>1^80
+@80 [C | Am7] (grid:32)
+  Acoustic Grand Piano  : E4@9>4^104 D4@13>8^104 E4@21>8^104 A3@29>35^104
+  Electric Guitar (jazz): C2@1>10^104 C2@13>3^104 G1@21>5^104 A1@25>4^104 D2@29>4^104
+  String Ensemble 1     : A3+C4@32>62^80
+  Pizzicato Strings#2   : E5@1>2^80 C5@5>2^80 G4@9>2^80 E5@13>2^80 C5@17>1^80 G4@21>2^80 E5@25>2^80 C5@29>2^80
+  Drums                 : C2@1>4^80 C2@5>16^80 F#2@9>3^56 D2@13>1^80 C2@21>1^80 F#2+E4@25>3^80 C2@29>1^80
+@81 [F]
+  Electric Guitar (jazz): A1@1>20^104 A1@25>6^104 A1@49>8^104 C2@57>8^104
+  String Ensemble 1     : F4@1>63^80
+  Pizzicato Strings#2   : F5@1>3^80 C5@9>4^80 A4@17>3^80 F5@25>3^80 C5@33>4^80 A4@41>4^80 F5@49>4^80 C5@57>3^80
+  Drums                 : C2@1>16^80 C2+F#2@17>4^80 C2@25>1^80 D2+F#3@33>24^80 C2+F#2@49>4^80 D2@57>1^80
+@82 [F] (grid:8)
+  Acoustic Grand Piano  : A3@4>1^104 C4@5>2^104 D4@7>2^104
+  Electric Guitar (jazz): F1@1>2^104 F1@4>1^104 G1@7>1^104 A1@8>1^104
+  Pizzicato Strings#2   : F5@1>1^80 C5@2>1^80 A4@3>1^80 F5@4>1^80 C5@5>1^80 A4@6>1^80 F5@7>1^80 C5@8>1^80
+  Drums                 : E4@1>1^104 E4@2>1^80 C2+F#2@3>6^80 D2@5>1^80 F#2@7>1^56 D2@8>1^80
+@83 [C]
+  Acoustic Grand Piano  : F4@1>16^104 E4@16>11^104 D4@25>16^104 C4@41>24^104
+  Electric Guitar (jazz): C2@1>20^104 C2@25>5^104 G1@41>8^104 A1@49>7^104 C2@57>9^104
+  String Ensemble 1     : G3+C4+E4@2>122^80
+  Vibraphone            : G5+D6@41>2^80
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>3^80 G4@17>4^80 E5@25>3^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>3^80
+  Choir Aahs            : C4+E4+G4@1>64^80
+  Drums                 : C2@1>1^80 C2@9>56^80 F#2+E4@17>5^80 E4@25>2^80 D2+F#3@33>24^80 F#2@49>5^56 D2@57>1^80
+@84 [G]
+  Acoustic Grand Piano  : F4@1>13^104 E4@15>10^104 D4@24>24^104 C4@48>5^104 C4@57>66^104
+  Electric Guitar (jazz): G1@1>26^104 G2@25>4^104 G1@49>9^104 A1@57>8^104
+  String Ensemble 1     : B3+D4@1>64^80
+  Pizzicato Strings#2   : D5@1>2^80 B4@9>3^80 G4@17>3^80 D5@25>3^80 B4@33>3^80 G4@41>4^80 D5@49>3^80 B4@57>2^80
+  Choir Aahs            : B3+D4@1>64^80
+  Drums                 : C2@1>1^80 F#2+E4@17>4^104 E4@25>3^104 D2@33>24^80 F#2@49>4^56 D2@57>1^80
+@85 [C]
+  Electric Guitar (jazz): C2@1>21^104 C2@25>4^104 G1@41>8^104 A1@49>6^104
+  String Ensemble 1     : G3+C4+E4@2>88^80
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>4^80 G4@17>4^80 E5@25>3^80 C5@33>2^80 G4@41>3^80 E5@49>3^80 C5@57>3^80
+  Choir Aahs            : C4@1>90^56 E4@2>90^56
+  Drums                 : C2@1>1^80 C2@9>64^80 F#2+E4@17>5^80 E4@25>2^80 D2+F#3@33>30^80 F#2@49>5^56 D2@57>1^80
+@86 [C] (grid:8)
+  Acoustic Grand Piano  : G4@3>1^104 G4@4>2^104 F4@6>2^104 E4@8>7^104
+  Electric Guitar (jazz): G1@2>1^104 A1@3>1^104 G1@4>1^104 G1@6>1^104 A1@7>1^104 G1@8>1^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Drums                 : D#3@1>1^80 C2@2>2^80 F#2@3>1^56 C2@4>5^80 E4@5>1^104 E4@6>1^104 D2+F#2@7>1^80 D2@8>5^80
+@87 [C] (grid:8)
+  Electric Guitar (jazz): C2@1>2^104 C2@4>1^104 G1@6>1^104 A1@7>2^104
+  String Ensemble 1     : G3+C4+E4@1>31^80
+  Choir Aahs            : G4@1>17^80
+  Drums                 : C2+C#3@1>8^80 C2@2>1^80 F#2+E4@3>1^104 E4@4>1^80 D2+F#3@5>4^80 F#2@7>1^56 D2@8>1^80
+@88 [C]
+  Acoustic Grand Piano  : E4@17>9^104 D4@26>23^104 E4@48>16^104
+  Electric Guitar (jazz): C2@1>19^104 C2@25>5^104 G1@41>10^104 A1@49>8^104 C2@57>9^104
+  String Ensemble 1     : A3@64>124^80
+  Drums                 : C2@9>1^80 F#2@17>5^56 E4@25>2^104 D2@33>24^80 F#2@49>5^56 D2@57>40^80
+@89 [Aaug | D] (grid:24t)
+  Acoustic Grand Piano  : A3@1>53^104
+  Electric Guitar (jazz): F1@1>8^104 F1@10>2^104 D1@19>4^104
+  String Ensemble 1     : F3@1>122^80
+  Choir Aahs            : A4@3>47^56
+  Drums                 : C2@1>1^80 C2@4>1^80 F#2+E4@7>2^80 E4@10>1^80 D2+F#3@13>24^80 C2+F#2@19>1^80 C2@22>1^80
+@90 [F | C]
+  Acoustic Grand Piano  : G4@57>8^104
+  Electric Guitar (jazz): F1@1>19^104 G1@25>6^104 A1@41>6^104 G1@57>8^104
+  Drums                 : E4@1>2^80 E4@9>3^80 F#2+E4@17>6^80 E4@25>3^80 D2@33>1^80 F#2@49>4^80 D2@57>40^80
+@91 [C | G]
+  Acoustic Grand Piano  : A4@1>8^104 G4@10>8^104 G4@25>16^104 F4@41>6^104
+  Electric Guitar (jazz): C2@1>20^104 C2@25>6^104 G1@41>8^104 A1@49>14^104
+  String Ensemble 1     : G3+C4+E4@1>251^80
+  Vibraphone            : G5+D6@57>3^80
+  Choir Aahs            : G4@1>256^80
+  Drums                 : C2@1>8^80 C2@9>1^80 F#2+E4@17>5^104 E4@25>3^80 D2+F#3@33>74^80 F#2@49>5^56 D2@57>40^80
+@92 [C] (grid:8)
+  Acoustic Grand Piano  : F4@1>9^104 E4@2>3^104 D4@5>1^104 C4@7>1^104
+  Electric Guitar (jazz): C2@1>2^104 C2@4>1^104 G1@6>1^104 A1@7>1^104 C2@8>1^104
+  Drums                 : C2@2>1^80 F#2+E4@3>1^80 E4@4>1^80 D2@5>1^80 F#2@7>1^56 D2@8>1^80
+@93 [G | Bm] (grid:8)
+  Acoustic Grand Piano  : D4@1>9^104
+  Electric Guitar (jazz): G1@1>2^104 G1@4>1^104 D1@7>1^104 E1@8>1^104
+  String Ensemble 1     : D4@1>16^80
+  Drums                 : C2@1>1^80 F#2+E4@3>1^80 E4@4>1^80 D2+F#3@5>11^80 F#2@7>1^56 C2@8>3^80
+@94 [G | C]
+  Acoustic Grand Piano  : G4@17>5^104 G4@26>12^104 F4@41>11^104 G4@42>3^104 E4@57>46^104
+  Electric Guitar (jazz): G1@1>21^104 F1@25>5^104 E1@41>6^104 D1@57>8^104
+  String Ensemble 1     : B3@1>8^80
+  Choir Aahs            : C5@64>322^56
+  Drums                 : E4@1>2^104 E4@9>3^80 C2+F#2@17>24^80 D2@25>32^80 C2@41>24^80 F#2+E4@49>5^80 D2@57>40^80
+@95 [C | Am7]
+  Electric Guitar (jazz): C2@1>21^104 C2@25>6^104 G1@41>9^104 A1@49>16^104
+  String Ensemble 1     : G3+C4+E4@1>126^80
+  Pizzicato Strings#2   : E5@1>4^80 C5@9>3^80 G4@17>4^80 E5@25>3^80 C5@33>4^80 G4@41>4^80 E5@49>3^80 C5@57>2^80
+  Drums                 : C2+D#3@1>62^80 C2@9>1^80 C2+F#2@17>48^80 E4@25>3^80 D2+F#3@33>61^80 F#2@49>5^56 D2@57>1^80
+@96 [Am | C] (grid:8)
+  Acoustic Grand Piano  : A4@3>1^104 A4@4>1^104 G4@6>3^104
+  Electric Guitar (jazz): C2@1>3^104 C2@4>1^104 G1@6>1^104 A1@7>1^104 C2@8>1^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Drums                 : C2@1>1^80 C2@2>1^80 F#2+E4@3>1^80 E4@4>1^104 D2@5>1^80 F#2@7>1^56 D2@8>5^80
+@97 [F] (grid:8)
+  Acoustic Grand Piano  : C4@1>9^104
+  Electric Guitar (jazz): A1@1>5^104 G1@6>1^104 F1@8>3^104
+  String Ensemble 1     : A3+C4+F4@1>15^80
+  Pizzicato Strings#2   : F5@1>1^80 C5@2>1^80 A4@3>1^80 F5@4>1^80 C5@5>1^80 A4@6>1^80 F5@7>1^80 C5@8>1^80
+  Drums                 : C2@1>1^80 C2@2>7^80 F#2+E4@3>1^80 E4@4>1^104 D2+F#3@5>11^80 F#2@7>1^56 D2@8>1^80
+@98 [F | Am7] (grid:8)
+  Acoustic Grand Piano  : F4@3>1^104 F4@4>1^104 E4@6>3^104
+  Electric Guitar (jazz): F1@4>1^104 G1@6>1^104 A1@8>1^104
+  Pizzicato Strings#2   : F5@1>1^80 C5@2>1^80 A4@3>1^80 F5@4>1^80 C5@5>1^80 A4@6>1^80 F5@7>1^80 C5@8>1^80
+  Drums                 : C2@1>1^80 C2@2>3^80 F#2@3>1^56 E4@4>1^104 C2@5>1^80 F#2@7>1^56 D2@8>1^80
+@99 [C] (grid:32)
+  Acoustic Grand Piano  : C4@1>29^104
+  Electric Guitar (jazz): C2@1>10^104 C2@13>2^104 G1@21>5^104 A1@25>4^104 C2@29>4^104
+  String Ensemble 1     : G3+C4+E4@1>110^80 D4@32>32^80
+  Vibraphone            : G5+D6@21>1^104
+  Pizzicato Strings#2   : E5@1>2^80 C5@5>2^80 G4@9>3^80 E5@13>2^80 C5@17>2^80 G4@21>2^80 E5@25>2^80 C5@29>2^80
+  Drums                 : C2@1>1^80 C2@5>28^80 F#2+E4@9>3^80 E4@13>2^80 D2+F#3@17>25^80 F#2@25>3^80 D2@29>1^80
+@100 [G] (grid:8)
+  Acoustic Grand Piano  : D4@3>1^104 D4@4>3^104 C4@7>1^104 C4@8>9^104
+  Electric Guitar (jazz): G1@1>2^104 G1@4>1^104 G1@6>1^104 A1@7>1^104 G1@8>1^104
+  String Ensemble 1     : B3@1>32^80
+  Pizzicato Strings#2   : D5@1>1^80 B4@2>1^80 G4@3>1^80 D5@4>1^80 B4@5>1^80 G4@6>1^80 D5@7>1^80 B4@8>1^80
+  Choir Aahs            : G4@1>8^56
+  Drums                 : C2@1>1^80 C2@2>8^80 F#2+E4@3>1^80 E4@4>1^80 D2@5>1^80 F#2@7>1^80 D2@8>1^80
+@101 [C]
+  Electric Guitar (jazz): C2@1>20^104 C2@25>5^104 G1@41>8^104 A1@49>8^104 C2@57>5^104
+  String Ensemble 1     : C4+E4@1>12^80
+  Pizzicato Strings#2   : E5@1>4^80 C5@9>3^80 G4@17>3^80 E5@25>3^80 C5@33>3^80 G4@41>3^80 E5@49>3^80 C5@57>3^80
+  Choir Aahs            : C4+E4@1>128^56
+  Drums                 : C2@9>40^80 F#2+E4@17>4^80 E4@25>4^80 D2+F#3@33>62^80 C2+F#2@49>48^80 E4@57>2^80
+@102 [C]
+  Electric Guitar (jazz): G1@9>7^104 A1@17>8^104 G1@25>6^104 G1@41>9^104 A1@49>8^104 G1@57>8^104
+  String Ensemble 1     : E4@64>252^80
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>3^80 G4@17>3^80 E5@25>3^80 C5@33>3^80 G4@41>4^80 E5@49>3^80 C5@57>4^80
+  Drums                 : D#3@1>5^80 E4@9>2^104 F#2@17>6^56 E4@25>2^80 C2@33>1^80 E4@41>3^80 D2+F#2@49>48^80
+@103 [C | G]
+  Electric Guitar (jazz): C2@1>20^104 C2@25>5^104 G1@41>8^104 A1@49>15^104
+  String Ensemble 1     : G3+C4@1>252^80
+  Pizzicato Strings     : E5@1>4^104 C5@25>4^104 G4@49>4^104
+  Choir Aahs            : G4@1>129^80
+  Drums                 : C2+C#3@1>38^80 C2@9>48^80 F#2+E4@17>4^80 E4@25>3^80 D2+F#3@33>86^80 F#2@49>4^56 C2@57>64^80
+@104 [C | G]
+  Electric Guitar (jazz): C2@1>20^104 C2@25>4^104 G1@49>7^104 A1@57>8^104
+  Pizzicato Strings     : E5@1>4^104 C5@25>4^104 G4@49>4^104
+  Drums                 : E4@9>2^104 F#2+E4@17>4^80 E4@25>2^80 D2@33>1^80 F#2@49>5^56 C2@57>8^80
+@105 [F | Dm]
+  Electric Guitar (jazz): F1@1>20^104 F1@25>4^104 D1@41>6^104 D1@57>6^104
+  String Ensemble 1     : F3+A3@1>123^80
+  Pizzicato Strings     : F5@1>4^104 C5@25>3^104 A4@49>4^104
+  Choir Aahs            : A4@2>128^56
+  Drums                 : C2@1>56^80 E4@9>3^80 F#2+E4@17>5^80 E4@25>2^80 D2+F#3@33>44^80 F#2@49>5^56 C2@57>1^80
+@106 [F]
+  Electric Guitar (jazz): F1@1>24^104 G1@25>6^104 A1@41>6^104 G1@57>8^104
+  Pizzicato Strings     : C5@1>6^104 A4@25>5^104 F4@49>5^104
+  Drums                 : C2@9>48^80 F#2+E4@17>4^80 E4@25>3^80 D2@33>1^80 F#2@49>6^56 C2@57>1^80 C2@61>60^80
+@107 [C | G]
+  Electric Guitar (jazz): C2@1>21^104 C2@25>6^104 G1@49>7^104 A1@57>8^104
+  String Ensemble 1     : G3+C4+E4@1>250^80
+  Vibraphone            : G5+D6@41>3^80
+  Pizzicato Strings     : E5@1>5^80 C5@25>4^104 G4@49>4^104
+  Choir Aahs            : G4@1>298^80
+  Drums                 : E4@1>2^80 E4@9>3^80 F#2+E4@17>6^80 D2@25>1^80 F#3@33>56^80 D2@41>1^80 F#2@49>6^80 C2@57>1^80
+@108 [C]
+  Electric Guitar (jazz): C2@1>21^104 C2@25>6^104 G1@41>8^104 A1@49>7^104 C2@57>8^104
+  String Ensemble 1     : D4@63>124^80
+  Pizzicato Strings     : E5@1>4^104 C5@25>2^104 G4@49>4^104
+  Drums                 : E4@1>2^104 F#2+E4@17>6^80 D2@25>1^80 C2@41>1^80 C2@45>60^80 F#2+E4@49>5^80 E4@57>2^80
+@109 [G] (grid:8)
+  Electric Guitar (jazz): G1@1>3^104 D2@4>1^104 D1@7>1^104 E1@8>1^104
+  Pizzicato Strings     : D5@1>1^104 C5@4>1^104 G4@7>1^104
+  Drums                 : D2@1>3^80 F#2@3>1^56 D2@4>1^80 F#3@5>4^80 C2@6>4^80 F#2+E4@7>1^104
+@110 [Em7 | C]
+  Electric Guitar (jazz): G1@1>6^104 F1@9>6^104 E1@25>6^104 F1@41>6^104 G1@57>8^104
+  String Ensemble 1     : B3@1>8^80
+  Pizzicato Strings     : D5@1>3^104 B4@25>3^104 G4@49>4^104
+  Drums                 : C2@9>1^80 C2+F#2@17>5^80 E4@25>2^80 E4@33>3^104 C2@41>1^80 C2+F#2+E4@49>32^80 E4@57>3^80
+@111 [C | Am7]
+  Electric Guitar (jazz): C2@1>21^104 C2@25>5^104 G1@41>7^104 A1@49>16^104
+  String Ensemble 1     : G3+C4+E4@1>127^80
+  Pizzicato Strings     : E5@1>4^104 C5@25>2^104 G4@49>4^104
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>2^80 G4@17>4^80 E5@25>3^80 C5@33>3^80 G4@41>4^80 E5@49>4^80 C5@57>2^80
+  Choir Aahs            : C5@41>282^56
+  Drums                 : D#3+E4@1>77^80 C2+F#2@17>4^80 E4@25>3^80 D2+F#3@33>43^80 F#2@49>4^56 D2@57>48^80
+@112 [C] (grid:8)
+  Electric Guitar (jazz): C2@1>3^104 C2@4>1^104 G1@6>1^104 A1@7>1^104 D2@8>1^104
+  Pizzicato Strings     : E5@1>1^104 C5@4>1^104 G4@7>1^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Drums                 : C2@1>7^80 F#2@3>1^56 E4@4>1^104 D2@6>1^80 F#2@7>1^56 C2@8>1^80
+@113 [F] (grid:16)
+  Electric Guitar (jazz): A1@1>5^104 G1@11>1^104 F1@15>6^104
+  String Ensemble 1     : A3+C4+F4@1>30^80
+  Pizzicato Strings     : F5@1>1^104 C5@7>1^104 A4@13>1^104
+  Pizzicato Strings#2   : F5@1>1^80 C5@3>1^80 A4@5>1^80 F5@7>1^80 C5@9>1^80 A4@11>1^80 F5@13>1^80 C5@15>1^80
+  Drums                 : E4@1>1^80 C2@3>10^80 F#2@5>2^56 D2@8>1^80 D2+F#3@9>14^104 C2+F#2@13>1^80 E4@15>1^80
+@114 [F7]
+  Electric Guitar (jazz): F1@25>4^104 E1@41>6^104 F1@49>8^104 G1@57>8^104
+  Pizzicato Strings     : F5@1>4^104 C5@25>4^104 A4@49>4^104
+  Pizzicato Strings#2   : F5@1>4^80 C5@9>4^80 A4@17>4^80 F5@25>4^80 C5@33>3^80 A4@41>4^80 F5@49>3^80 C5@57>3^80
+  Drums                 : E4@1>2^104 E4@9>3^104 F#2@17>6^56 D2@25>1^80 C2@41>1^80 F#2+E4@49>4^104 E4@57>2^80 C2@61>4^80
+@115 [C] (grid:8)
+  Electric Guitar (jazz): C2@1>2^104 C2@4>1^104 G1@6>1^104 A1@7>1^104 C2@8>1^104
+  String Ensemble 1     : G3+C4+E4@1>121^80
+  Vibraphone            : G5+D6@6>1^104
+  Pizzicato Strings     : E5@1>1^104 C5@4>1^104 G4@7>1^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Drums                 : C2@1>1^80 C2@2>6^80 F#2+E4@3>1^104 E4@4>1^104 D2+F#3@5>7^80 F#2@7>1^56 C2@8>3^80
+@116 [G] (grid:8)
+  Electric Guitar (jazz): G1@1>2^104 G1@4>1^104 G1@7>1^104 A1@8>1^104
+  String Ensemble 1     : B3+D4@1>8^80
+  Pizzicato Strings     : D5@1>1^104 B4@4>1^104 G4@7>1^104
+  Pizzicato Strings#2   : D5@1>1^80 B4@2>1^80 G4@3>1^80 D5@4>1^80 B4@5>1^80 G4@6>1^80 D5@7>1^80 B4@8>1^80
+  Choir Aahs            : G4@1>8^80
+  Drums                 : E4@1>1^104 C2+F#2@3>3^80 D2@4>9^80 C2@6>1^80 F#2+E4@7>1^80 C2@8>1^80
+@117 [C] (grid:8)
+  Electric Guitar (jazz): C2@1>2^104 C2@4>1^104 G1@6>1^104 A1@7>2^104
+  String Ensemble 1     : G3+C4+E4@1>23^80
+  Vibraphone            : E5+G5@3>1^104 D5+G5@5>1^80 C5+E5@8>1^80
+  Pizzicato Strings     : E5@1>1^104 C5@4>1^104 G4@7>1^104
+  Pizzicato Strings#2   : E5@1>1^80 C5@2>1^80 G4@3>1^80 E5@4>1^80 C5@5>1^80 G4@6>1^80 E5@7>1^80 C5@8>1^80
+  Choir Aahs            : C4+E4@1>20^56
+  Drums                 : C2@1>1^80 C2@2>1^80 C2+F#2@3>1^80 C2@4>3^80 D2+F#3@5>3^80 C2+F#2@7>1^80 C2@8>2^80
+@118 [C | G]
+  Electric Guitar (jazz): C2@1>7^104 G1@41>9^104 A1@49>9^104 G1@57>10^104
+  String Ensemble 1     : D4@26>38^80 E4@64>55^80
+  Vibraphone            : G4@9>3^80 C5+D5@25>2^80 G4@41>2^80 C5+E5@57>2^80
+  Pizzicato Strings     : E5@1>4^104 C5@25>4^104 G4@49>4^104
+  Pizzicato Strings#2   : E5@1>3^80 C5@9>3^80 G4@17>4^80 E5@25>4^80 C5@33>4^80 G4@41>3^80 D5@49>3^80 C5@57>3^80
+  Choir Aahs            : D4@32>34^56
+  Drums                 : D#3+E4@1>4^80 C2@9>8^80 C2+F#2@17>8^80 C2@25>24^80 D2@33>32^80 C2+F#2+F#3@49>4^80 E4@57>2^104
+@119 [Eaug | C]
+  Electric Guitar (jazz): C2@1>47^104
+  Pizzicato Strings     : E5@1>4^104
+  Pizzicato Strings#2   : E5@1>4^80
+  Choir Aahs            : E4@1>28^56
+  Drums                 : D2+C#3@1>52^80

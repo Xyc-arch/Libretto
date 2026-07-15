@@ -25,11 +25,11 @@ import os
 
 import numpy as np
 
-from . import metric_discovery as md
+from . import axes_v3 as md                     # v3: 33 discovered axes (md.metrics_for)
 from .understanding_probe import Song
 
 SCRIPT = Path(os.environ.get("LIBRETTO_DATA") or (Path(__file__).resolve().parent.parent / "data"))
-CANON = json.loads((SCRIPT / "corpus_distribution_314.json").read_text())
+CANON = json.loads((SCRIPT / "corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]
 COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 GC = CANON["genre_conditioned"]

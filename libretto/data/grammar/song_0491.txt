@@ -1,0 +1,1540 @@
+KEY: G minor | METER: 4/4 | TEMPO: 305 | GRID: 4th (adaptive) | BARS: 345
+VOICES: Voice[prog=84], stuff[drums], stuff#2[prog=121], loads more stuff[prog=27], and a bit more[prog=84], some here too[prog=35], and here[prog=57], Acoustic Grand Piano[prog=0], Distortion Guitar[prog=30], Electric Guitar (jazz)[prog=26], Electric Guitar (clean)[prog=27], Distortion Guitar#2[prog=30], Electric Guitar (clean)#2[prog=27], Lead 2 (sawtooth)[prog=81], Lead 2 (sawtooth)#2[prog=81]
+@1 [-]
+@2 [-]
+@3 [-]
+@4 [-]
+@5 [-]
+@6 [-]
+@7 [-]
+@8 [Gb]
+  Voice                    : G3@3>1^104 Gb3@4>1^104
+@9 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+@10 [G]
+  Voice                    : G3@4>1^104
+@11 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+@12 [F7 | Gb]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+@13 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+@14 [G]
+  Voice                    : G3@4>1^104
+@15 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+@16 [F7 | Gb]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+@17 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : B1+Ab2@1>1^104 A3@3>1^80 B1+A3@4>1^104
+@18 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : B1+A3@1>1^104 A3@2>1^80 A3@4>1^80
+@19 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : B1+Ab2@1>1^104 A3@3>1^80 B1+A3@4>1^104
+@20 [F7 | Gb]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : B1+A3@1>1^104 A3@2>1^80 A3@4>1^80
+@21 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : B1+Ab2@1>1^104 A3@3>1^80 B1+A3@4>1^104
+@22 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : B1+A3@1>1^104 A3@2>1^80 A3@4>1^80
+@23 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : B1+Ab2@1>1^104 A3@3>1^80 B1+A3@4>1^104
+@24 [F7 | Gb] (grid:16)
+  Voice                    : F3@1>4^104 E3@5>2^104 G3@9>4^104 Gb3@13>4^104
+  stuff                    : B1+A3@1>4^104 A3@5>4^80 D2@9>1^104 D2@10>1^104 D2@11>1^104 D2@12>1^104 D2+A3@13>4^104 D2@14>1^104 D2@15>1^104 D2@16>1^104
+@25 [Gm]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>2^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@26 [Bb | Gm]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@27 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@28 [Bb | Bbaug]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@29 [Gm]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@30 [Bb | Gm]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@31 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@32 [Bb | Bbaug]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@33 [Gm]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@34 [Bb | Gm]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@35 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@36 [Bb | Bbaug]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@37 [Gm]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@38 [Bb | Gm]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@39 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@40 [Bb]
+  Voice                    : F3@1>1^104 E3@2>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@41 [Gm]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>2^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@42 [Bb | Gm]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@43 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@44 [Bb | Bbaug]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@45 [Gm]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@46 [Bb | Gm]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@47 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@48 [Bb | Bbaug]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@49 [Gm]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@50 [Bb | Gm]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@51 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@52 [Bb | Bbaug]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+@53 [Gb | Gm]
+  Voice                    : Gb3@1>2^104 G3@3>1^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+  loads more stuff         : Gb2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@54 [Gb | Gm]
+  Voice                    : Gb3@1>2^104 G3@3>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+  loads more stuff         : Gb2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@55 [Gb | Gm]
+  Voice                    : Gb3@1>2^104 G3@3>1^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  stuff#2                  : Bb3@1>1^104 Bb3@2>1^104 Bb3@3>1^104 Bb3@4>1^104
+  loads more stuff         : Gb2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@56 [Gb | Gm] (grid:16)
+  Voice                    : Gb3@1>8^104 G3@9>4^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>4^104 Eb2+A3@5>4^104 Bb2@10>7^104 Eb1+B1+C2+Eb2+A3@13>4^104
+  stuff#2                  : Bb3@1>4^104 Bb3@5>4^104 Bb3@9>4^104 Bb3@13>4^104
+  loads more stuff         : Gb2@1>4^104 G2@5>4^104 G2@9>4^104 G2@13>4^104
+  and a bit more           : Bb4@9>1^104 A4@10>1^104 Ab4@11>1^104 G4@12>1^104
+@57 [Gm] (grid:12t)
+  stuff                    : B1+C2+Db3+Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 B1+C2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@58 [Gm] (grid:12t)
+  stuff                    : B1+C2+Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 B1+C2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@59 [Gm] (grid:12t)
+  stuff                    : B1+C2+Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 B1+C2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@60 [Gm] (grid:12t)
+  stuff                    : B1+C2+Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 B1+C2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@61 [Gm] (grid:12t)
+  stuff                    : B1+C2+Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 B1+C2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@62 [Gm] (grid:12t)
+  stuff                    : B1+C2+Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 B1+C2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@63 [Gm] (grid:12t)
+  stuff                    : B1+C2+Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 B1+C2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@64 [Gm] (grid:12t)
+  stuff                    : B1+C2+Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 B1+C2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@65 [Gm] (grid:8)
+  stuff                    : B1+C2+D2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+  Distortion Guitar        : G2@1>2^104 G2@3>2^104 G2@5>2^104 G2@7>2^104
+@66 [Gm] (grid:8)
+  stuff                    : B1+C2+D2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+  Distortion Guitar        : G2@1>2^104 G2@3>2^104 G2@5>2^104 G2@7>2^104
+@67 [Gm] (grid:8)
+  stuff                    : B1+C2+D2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+  Distortion Guitar        : G2@1>2^104 G2@3>2^104 G2@5>2^104 G2@7>2^104
+@68 [Gm] (grid:8)
+  stuff                    : B1+C2+D2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+  Distortion Guitar        : G2@1>2^104 G2@3>2^104 G2@5>2^104 G2@7>2^104
+@69 [Gm] (grid:12t)
+  stuff                    : B1+C2+D2+Gb3@1>3^104 B1+C2+D2+Gb3@4>3^104 B1+C2+D2+Gb3@7>3^104 B1+C2+D2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+  Distortion Guitar        : G2@1>2^104 G2@4>2^104 G2@7>2^104 G2@10>2^104
+@70 [Gm] (grid:12t)
+  stuff                    : B1+C2+D2+Gb3@1>3^104 B1+C2+D2+Gb3@4>3^104 B1+C2+D2+Gb3@7>3^104 B1+C2+D2+Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+  Distortion Guitar        : G2@1>2^104 G2@4>2^104 G2@7>2^104 G2@10>2^104
+@71 [Gm] (grid:8)
+  stuff                    : B1+C2+D2+E2+C3+Gb3@1>2^104 E2+C3@2>1^104 B1+C2+D2+E2+C3+Gb3@3>2^104 E2+C3@4>1^104 B1+C2+D2+E2+B2+Gb3@5>2^104 E2+B2@6>1^104 B1+C2+D2+E2+B2+Gb3@7>2^104 E2+B2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+  Distortion Guitar        : G2@1>2^104 G2@3>2^104 A2@5>2^104 A2@7>2^104
+@72 [Gm] (grid:8)
+  Voice                    : G3@5>2^104 Gb3@7>2^104
+  stuff                    : B1+C2+D2+E2+A2+Gb3@1>2^104 E2+A2@2>1^104 B1+C2+D2+E2+A2+Gb3@3>2^104 E2+A2@4>1^104 B1+C2+D2+E2+G2+Gb3@5>2^104 E2+G2@6>1^104 B1+C2+D2+E2+G2+Gb3@7>2^104 E2+G2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+  Distortion Guitar        : G2@1>2^104 G2@3>2^104 A2@5>2^104 A2@7>2^104
+@73 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@74 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@75 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@76 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@77 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@78 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@79 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@80 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@81 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@82 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@83 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@84 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@85 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@86 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@87 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@88 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@89 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@90 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@91 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@92 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@93 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@94 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@95 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@96 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@97 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@98 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@99 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@100 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@101 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@102 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@103 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@104 [F7 | C] (grid:16)
+  Voice                    : F3@1>4^104 E3@5>2^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>4^104 Eb2+A3@5>4^104 Eb1+B1+C2+Eb2+A3@13>4^104
+  and a bit more           : Bb4@9>1^104 A4@10>1^104 Ab4@11>1^104 G4@12>1^104
+  some here too            : C2+C3@1>4^104 C2+C3@5>4^104 C2+C3@9>4^104 C2+C3@13>4^104
+@105 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@106 [G]
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@107 [Gm]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2+D3@1>1^104 G2@2>1^80 G2+Eb3@3>1^104 G2+D3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@108 [Cm | C] (grid:12t)
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  loads more stuff         : G2@1>3^80 G2+Eb3@4>3^104 G2+D3@7>3^104 G2+Ab2@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@109 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@110 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@111 [Gm]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2+D3@1>1^104 G2@2>1^80 G2+Eb3@3>1^104 G2+D3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@112 [Cm | C]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^80 G2+Eb3@2>1^104 G2+D3@3>1^104 G2+Ab2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@113 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@114 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@115 [Gm]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2+D3@1>1^104 G2@2>1^80 G2+Eb3@3>1^104 G2+D3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@116 [Cm | C] (grid:12t)
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  loads more stuff         : G2@1>3^80 G2+Eb3@4>3^104 G2+D3@7>3^104 G2+Ab2@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@117 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@118 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@119 [Gm]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2+D3@1>1^104 G2@2>1^80 G2+Eb3@3>1^104 G2+D3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@120 [Cm | C]
+  Voice                    : G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^80 G2+Eb3@2>1^104 G2+D3@3>1^104 G2+Ab2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@121 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@122 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@123 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@124 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@125 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@126 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@127 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@128 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@129 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@130 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@131 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@132 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@133 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@134 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@135 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@136 [F7 | C] (grid:16)
+  Voice                    : F3@1>4^104 E3@5>2^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>4^104 Eb2+A3@5>4^104 Eb1+B1+C2+Eb2+A3@13>4^104
+  and a bit more           : Bb4@9>1^104 A4@10>1^104 Ab4@11>1^104 G4@12>1^104
+  some here too            : C2+C3@1>4^104 C2+C3@5>4^104 C2+C3@9>4^104 C2+C3@13>4^104
+@137 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@138 [G]
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@139 [G | A]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@140 [G | A] (grid:12t)
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  Distortion Guitar        : G2@1>2^104 G2@4>2^104 A2@7>2^104 A2@10>2^104
+@141 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@142 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@143 [G | A]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@144 [G | A]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@145 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@146 [G]
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@147 [G | A]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@148 [G | A] (grid:12t)
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  Distortion Guitar        : G2@1>2^104 G2@4>2^104 A2@7>2^104 A2@10>2^104
+@149 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@150 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@151 [G | A] (grid:8)
+  stuff                    : C3@5>1^104 C3@6>1^104 C3@7>1^104 C3@8>1^104
+  Distortion Guitar        : G2@1>2^104 G2@3>2^104 A2@5>2^104 A2@7>2^104
+@152 [G | A] (grid:16)
+  stuff                    : B2@1>2^104 B2@3>2^104 B2@5>2^104 B2@7>2^104 A2@9>2^104 A2@11>2^104 A2@13>2^104 A2@15>2^104
+  and a bit more           : Bb4@9>1^104 A4@10>1^104 Ab4@11>1^104 G4@12>1^104
+  Distortion Guitar        : G2@1>3^104 G2@5>3^104 A2@9>3^104 A2@13>3^104
+@153 [G]
+  stuff                    : B1+C2+Ab2@1>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@154 [G]
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@155 [Em | A]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : E1+E2@1>1^104 E1+E2@2>1^104 E1+E2@3>1^104 E1+E2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@156 [Em | A] (grid:12t)
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : E1+E2@1>3^104 E1+E2@4>3^104 E1+E2@7>3^104 E1+E2@10>3^104
+  Distortion Guitar        : G2@1>2^104 G2@4>2^104 A2@7>2^104 A2@10>2^104
+@157 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@158 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@159 [Em | A]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : E1+E2@1>1^104 E1+E2@2>1^104 E1+E2@3>1^104 E1+E2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@160 [Em | A]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : E1+E2@1>1^104 E1+E2@2>1^104 E1+E2@3>1^104 E1+E2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@161 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@162 [G]
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@163 [Em | A]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : E1+E2@1>1^104 E1+E2@2>1^104 E1+E2@3>1^104 E1+E2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@164 [Em | A] (grid:12t)
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : E1+E2@1>3^104 E1+E2@4>3^104 E1+E2@7>3^104 E1+E2@10>3^104
+  Distortion Guitar        : G2@1>2^104 G2@4>2^104 A2@7>2^104 A2@10>2^104
+@165 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@166 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+@167 [Em | A]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : E1+E2@1>1^104 E1+E2@2>1^104 E1+E2@3>1^104 E1+E2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@168 [Em | A]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : E1+E2@1>1^104 E1+E2@2>1^104 E1+E2@3>1^104 E1+E2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+@169 [Gb]
+  loads more stuff         : Gb2@1>2^104 G2@3>1^104 Gb2@4>2^104
+@170 [G | Gb]
+  loads more stuff         : G2@2>1^104 Gb2@3>1^104 G2@4>1^104
+@171 [Gb] (grid:8)
+  stuff                    : C3@5>1^104 C3@6>1^104 C3@7>1^104 C3@8>1^104
+  loads more stuff         : Gb2@1>4^104 G2@5>2^104 Gb2@7>4^104
+@172 [G | Gb] (grid:8)
+  Voice                    : G3@5>2^104 Gb3@7>2^104
+  stuff                    : B2@1>1^104 B2@2>1^104 B2@3>1^104 B2@4>1^104 A2@5>1^104 A2@6>1^104 A2@7>1^104 A2@8>1^104
+  loads more stuff         : G2@3>2^104 Gb2@5>2^104 G2@7>2^104
+@173 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@174 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@175 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@176 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@177 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@178 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@179 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@180 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@181 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@182 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@183 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@184 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>3^104 Eb2+A3@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2+A3@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@185 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@186 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@187 [Bbaug]
+  Voice                    : Gb3@1>1^104 Gb3@2>1^104 Gb3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@188 [F] (grid:16)
+  Voice                    : F3@1>4^104 F3@5>4^104 F3@9>4^104 F3@13>4^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>4^104 Eb2+A3@5>4^104 Eb1+B1+C2+Eb2+A3@13>4^104
+  and a bit more           : Bb4@9>1^104 A4@10>1^104 Ab4@11>1^104 G4@12>1^104
+  some here too            : C2+C3@1>4^104 C2+C3@5>4^104 C2+C3@9>4^104 C2+C3@13>4^104
+@189 [G]
+  stuff                    : B1+C2+Ab2@1>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@190 [G]
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@191 [Gm]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@192 [C]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Bb2@3>2^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@193 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@194 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@195 [Gm]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@196 [C]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@197 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3+A3@3>1^104 Eb1+B1+C2+Eb2+Db3+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@198 [G]
+  stuff                    : Eb1+B1+C2+Eb2+Db3+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@199 [Gm]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@200 [C]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Bb2@3>2^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@201 [G]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@202 [G]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@203 [Gm]
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@204 [C]
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Distortion Guitar        : G2@1>1^104 G2@2>1^104 A2@3>1^104 A2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@205 [G | C]
+  stuff                    : Gb3@1>1^104 Gb3@2>1^104
+  loads more stuff         : G2@3>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104
+  Distortion Guitar#2      : C4+D4@4>1^104
+@206 [G | C]
+  stuff                    : Gb3@1>1^104 Gb3@2>1^104
+  loads more stuff         : G2@3>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104
+  Distortion Guitar#2      : C4+D4@4>1^104
+@207 [G]
+  stuff                    : Gb3@1>1^104 Gb3@2>1^104 Gb3@3>1^104 Gb3@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@208 [G] (grid:16)
+  stuff                    : Gb3@1>2^104 Gb3@5>2^104 D3@9>1^104 D3@10>1^104 D3@11>1^104 D3@12>1^104 D3@13>1^104 D3@14>1^104 D3@15>1^104 D3@16>1^104
+  some here too            : G1+G2@1>4^104 G1+G2@5>4^104
+@209 [G | C]
+  stuff                    : Gb3@1>1^104 Gb3@2>1^104
+  loads more stuff         : G2@3>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104
+  Distortion Guitar#2      : C4+D4@4>1^104
+@210 [G | C]
+  stuff                    : Gb3@1>1^104 Gb3@2>1^104
+  loads more stuff         : G2@3>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104
+  Distortion Guitar#2      : C4+D4@4>1^104
+@211 [G | Eb] (grid:16)
+  stuff                    : Gb3@1>2^104 D3@5>1^104 D3@6>1^104 D3@7>1^104 D3@8>1^104 Gb3@13>2^104
+  loads more stuff         : G2@5>4^104 Eb2@13>4^104
+@212 [Dm]
+  stuff                    : Gb3@2>1^104 Gb3@3>1^104
+  loads more stuff         : D2@3>1^104 F2@4>1^104
+@213 [G | C]
+  stuff                    : A4@1>1^104 A4@2>1^104
+  loads more stuff         : G2@3>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104
+  Distortion Guitar#2      : C4+D4@4>1^104
+@214 [G | C]
+  stuff                    : A4@1>1^104 A4@2>1^104
+  loads more stuff         : G2@3>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104
+  Distortion Guitar#2      : C4+D4@4>1^104
+@215 [G] (grid:8)
+  stuff                    : E2+Ab2@1>1^104 E2+Ab2@3>1^104 E2+Ab2@4>1^104 E2+Ab2@5>1^104 E2+Ab2@7>1^104 E2+Ab2@8>1^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+@216 [G] (grid:16)
+  stuff                    : E2+Ab2@1>2^104 E2+Ab2@5>2^104 E2+Ab2@7>2^104 D3@9>1^104 D3@10>1^104 D3@11>1^104 D3@12>1^104 D3@13>1^104 D3@14>1^104 D3@15>1^104 D3@16>1^104
+  some here too            : G1+G2@1>4^104 G1+G2@5>4^104
+@217 [G | C]
+  stuff                    : Ab2+Gb3@1>1^104 Ab2+Gb3@2>1^104
+  loads more stuff         : G2@3>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104
+  Distortion Guitar#2      : C4+D4@4>1^104
+@218 [G | C]
+  stuff                    : Ab2+Gb3@1>1^104 Ab2+Gb3@2>1^104
+  loads more stuff         : G2@3>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104
+  Distortion Guitar#2      : C4+D4@4>1^104
+@219 [G] (grid:8)
+  stuff                    : Ab2+Gb3@1>1^104 Ab2+Gb3@3>1^104 Ab2+C3+Gb3@5>1^104 C3@6>1^104 Ab2+C3+Gb3@7>1^104 C3@8>1^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  Distortion Guitar        : G2@1>2^104 G2@3>2^104 A2@5>2^104 A2@7>2^104
+@220 [G | A] (grid:16)
+  stuff                    : Ab2+B2+Gb3@1>2^104 B2@3>2^104 Ab2+B2+Gb3@5>2^104 B2@7>2^104 Ab2+A2+Gb3@9>2^104 A2@11>2^104 Ab2+A2+Gb3@13>2^104 A2@15>2^104
+  and a bit more           : Bb4@9>1^104 A4@10>1^104 Ab4@11>1^104 G4@12>1^104
+  some here too            : G1+G2@1>4^104 G1+G2@5>4^104
+  Distortion Guitar        : G2@1>3^104 G2@5>3^104 A2@9>3^104 A2@13>3^104
+@221 [-]
+  stuff                    : B1+C2+Db3@1>1^104 D2+Db3+Bb5@3>1^104 B1+C2+Db3+Bb5@4>1^104
+@222 [-]
+  stuff                    : Db3+Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@223 [-]
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@224 [-]
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@225 [-]
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@226 [-]
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@227 [-]
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@228 [-]
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@229 [-]
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@230 [-]
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@231 [-]
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@232 [-]
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@233 [-]
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@234 [-]
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@235 [-]
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@236 [Gb]
+  Voice                    : G3@3>1^104 Gb3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@237 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@238 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@239 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@240 [F7 | Gb]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@241 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@242 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@243 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@244 [F7 | Gb]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@245 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@246 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@247 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@248 [F7 | Gb]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@249 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@250 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@251 [Gb]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : B1+C2@1>1^104 D2+Bb5@3>1^104 B1+C2+Bb5@4>1^104
+@252 [F7 | Gb]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Bb5@1>1^104 B1+C2+Bb5@2>1^104 D2+Bb5@3>1^104 B1+C2+Ab2@4>1^104
+@253 [Gm] (grid:12t)
+  Voice                    : Gb3@1>6^104 G3@7>3^104
+  stuff                    : Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@254 [Gm] (grid:12t)
+  Voice                    : Gb3@1>6^104 G3@7>3^104
+  stuff                    : Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@255 [Gm] (grid:12t)
+  Voice                    : Gb3@1>6^104 G3@7>3^104
+  stuff                    : Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@256 [Gm] (grid:12t)
+  Voice                    : Gb3@1>6^104 G3@7>3^104
+  stuff                    : Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@257 [Gm] (grid:12t)
+  Voice                    : Gb3@1>6^104 G3@7>3^104
+  stuff                    : Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@258 [Gm] (grid:12t)
+  Voice                    : Gb3@1>6^104 G3@7>3^104
+  stuff                    : Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@259 [Gm] (grid:12t)
+  Voice                    : Gb3@1>6^104 G3@7>3^104
+  stuff                    : Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@260 [Gm] (grid:12t)
+  Voice                    : Gb3@1>6^104 G3@7>3^104
+  stuff                    : Gb3@1>3^104 Gb3@4>3^104 Gb3@7>3^104 Gb3@10>3^104
+  stuff#2                  : Bb3@1>3^104 Bb3@4>3^104 Bb3@7>3^104 Bb3@10>3^104
+  some here too            : G1+G2@1>3^104 G1+G2@4>3^104 G1+G2@7>3^104 G1+G2@10>3^104
+  and here                 : G4@7>2^104
+  Acoustic Grand Piano     : D4@1>2^104 D4@10>2^104 D4@11>2^104
+@261 [Gm] (grid:8)
+  Voice                    : G3@1>2^104 G3@3>2^104 G3@5>2^104 G3@7>2^104
+  stuff                    : B1+C2+D2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+@262 [Gm] (grid:8)
+  Voice                    : G3@1>2^104 G3@3>2^104 G3@5>2^104 G3@7>2^104
+  stuff                    : B1+C2+D2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+@263 [Gm] (grid:8)
+  Voice                    : G3@1>2^104 G3@3>2^104 G3@5>2^104 G3@7>2^104
+  stuff                    : B1+C2+D2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+@264 [Gm] (grid:8)
+  Voice                    : G3@1>2^104 G3@3>2^104 G3@5>2^104 G3@7>2^104
+  stuff                    : B1+C2+D2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+@265 [Gm] (grid:8)
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104 Gb3@5>2^104 Gb3@7>2^104
+  stuff                    : B1+C2+D2+Bb2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Bb2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+@266 [Gm] (grid:8)
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104 Gb3@5>2^104 Gb3@7>2^104
+  stuff                    : B1+C2+D2+Bb2+Gb3@1>2^104 D2+Gb3@3>2^104 D2@4>1^104 D2+Bb2+Gb3@5>2^104 B1+C2+D2+Gb3@7>2^104 D2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+@267 [Gm7] (grid:8)
+  Voice                    : F3@1>2^104 F3@3>2^104 F3@5>2^104 F3@7>2^104
+  stuff                    : B1+C2+D2+Bb2+Gb3@1>2^104 D2+Bb2+Gb3@3>2^104 D2@4>1^104 D2+Bb2+C3+Gb3@5>2^104 C3@6>1^104 B1+C2+D2+Bb2+C3+Gb3@7>2^104 D2+C3@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+@268 [Gm7] (grid:8)
+  Voice                    : F3@1>2^104 F3@3>2^104 G3@5>2^104 Gb3@7>2^104
+  stuff                    : B1+C2+D2+Bb2+B2+Gb3@1>2^104 B2@2>1^104 D2+Bb2+B2+Gb3@3>2^104 D2+B2@4>1^104 D2+A2+Bb2+Gb3@5>2^104 A2@6>1^104 B1+C2+D2+G2+A2+Bb2+Gb3@7>2^104 D2+A2@8>1^104
+  stuff#2                  : Bb3@1>2^104 Bb3@3>2^104 Bb3@5>2^104 Bb3@7>2^104
+  some here too            : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  and here                 : G4@5>1^104
+  Acoustic Grand Piano     : D4@1>1^104 D4@7>1^104 D4@8>1^104
+@269 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+A3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@270 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@271 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@272 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@273 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3@3>1^104 Eb1+B1+C2+Eb2+Db3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@274 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@275 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@276 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Bb2@3>2^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@277 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+A3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@278 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@279 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@280 [F | C] (grid:32)
+  Voice                    : F3@1>6^104 F3@9>6^104 F3@17>6^104 F3@25>6^104
+  stuff                    : Eb1+B1+C2+Eb2@1>8^104 Eb2@9>8^104 Eb1+B1+C2+Eb2@25>8^104
+  some here too            : C2+C3@1>8^104 C2+C3@9>8^104 C2+C3@17>8^104 C2+C3@25>8^104
+  Electric Guitar (jazz)   : D4@1>8^104 C4@9>8^104 D4@17>8^104 G4@25>8^104
+  Electric Guitar (clean)  : D4@1>8^104 C4@9>8^104 D4@17>8^104 G4@25>8^104
+  Electric Guitar (clean)#2: G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104 G2@5>1^104 G2@6>1^104 G2@7>1^104 G2@8>1^104 G2@9>1^104 G2@10>1^104 G2@11>1^104 G2@12>1^104 G2@13>1^104 G2@14>1^104 G2@15>1^104 G2@16>1^104 G2@17>1^104 G2@18>1^104 G2@19>1^104 G2@20>1^104 G2@21>1^104 G2@22>1^104 G2@23>1^104 G2@24>1^104 G2@25>1^104 G2@26>1^104 G2@27>1^104 G2@28>1^104 G2@29>1^104 G2@30>1^104 G2@31>1^104 G2@32>1^104
+@281 [G] (grid:32)
+  Voice                    : G3@1>2^104 F3@17>2^104
+  Electric Guitar (clean)#2: G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104 G2@5>1^104 G2@6>1^104 G2@7>1^104 G2@8>1^104 G2@9>1^104 G2@10>1^104 G2@11>1^104 G2@12>1^104 G2@13>1^104 G2@14>1^104 G2@15>1^104 G2@16>1^104 G2@17>1^104 G2@18>1^104 G2@19>1^104 G2@20>1^104 G2@21>1^104 G2@22>1^104 G2@23>1^104 G2@24>1^104 G2@25>1^104 G2@26>1^104 G2@27>1^104 G2@28>1^104 G2@29>1^104 G2@30>1^104 G2@31>1^104 G2@32>1^104
+@282 [G] (grid:32)
+  Voice                    : G3@1>2^104 G3@17>2^104
+  Electric Guitar (clean)#2: G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104 G2@5>1^104 G2@6>1^104 G2@7>1^104 G2@8>1^104 G2@9>1^104 G2@10>1^104 G2@11>1^104 G2@12>1^104 G2@13>1^104 G2@14>1^104 G2@15>1^104 G2@16>1^104 G2@17>1^104 G2@18>1^104 G2@19>1^104 G2@20>1^104 G2@21>1^104 G2@22>1^104 G2@23>1^104 G2@24>1^104 G2@25>1^104 G2@26>1^104 G2@27>1^104 G2@28>1^104 G2@29>1^104 G2@30>1^104 G2@31>1^104 G2@32>1^104
+@283 [Bb] (grid:32)
+  Voice                    : F3@1>2^104 F3@17>2^104
+  Electric Guitar (clean)#2: Bb2@1>1^104 Bb2@2>1^104 Bb2@3>1^104 Bb2@4>1^104 Bb2@5>1^104 Bb2@6>1^104 Bb2@7>1^104 Bb2@8>1^104 Bb2@9>1^104 Bb2@10>1^104 Bb2@11>1^104 Bb2@12>1^104 Bb2@13>1^104 Bb2@14>1^104 Bb2@15>1^104 Bb2@16>1^104 Bb2@17>1^104 Bb2@18>1^104 Bb2@19>1^104 Bb2@20>1^104 Bb2@21>1^104 Bb2@22>1^104 Bb2@23>1^104 Bb2@24>1^104 Bb2@25>1^104 Bb2@26>1^104 Bb2@27>1^104 Bb2@28>1^104 Bb2@29>1^104 Bb2@30>1^104 Bb2@31>1^104 Bb2@32>1^104
+@284 [F] (grid:32)
+  Voice                    : F3@1>6^104 F3@9>4^104
+  stuff                    : Ab2+B2@1>4^104 B2@5>4^104 Ab2+B2@9>4^104 B2@13>4^104 Ab2+A2+G3@17>4^104 A2+G3@21>4^104 Ab2+A2+G3@25>4^104 A2+G3@29>4^104
+  Electric Guitar (clean)#2: F2@1>1^104 F2@2>1^104 F2@3>1^104 F2@4>1^104 F2@5>1^104 F2@6>1^104 F2@7>1^104 F2@8>1^104 F2@9>1^104 F2@10>1^104 F2@11>1^104 F2@12>1^104 F2@13>1^104 F2@14>1^104 F2@15>1^104 F2@16>1^104 F2@17>1^104 F2@18>1^104 F2@19>1^104 F2@20>1^104 F2@21>1^104 F2@22>1^104 F2@23>1^104 F2@24>1^104 F2@25>1^104 F2@26>1^104 F2@27>1^104 F2@28>1^104 F2@29>1^104 F2@30>1^104 F2@31>1^104 F2@32>1^104
+@285 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+A3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@286 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@287 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@288 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@289 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@290 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@291 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@292 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2@1>3^104 Eb2@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@293 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@294 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@295 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@296 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2@1>3^104 Eb2@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@297 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@298 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@299 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@300 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2@1>3^104 Eb2@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@301 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+A3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@302 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@303 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@304 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+@305 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@306 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@307 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@308 [F7 | C] (grid:12t)
+  Voice                    : F3@1>3^104 E3@4>2^104 G3@7>3^104 Gb3@10>3^104
+  stuff                    : Eb1+B1+C2+Eb2@1>3^104 Eb2@4>3^104 Bb2@8>5^104 Eb1+B1+C2+Eb2@10>3^104
+  some here too            : C2+C3@1>3^104 C2+C3@4>3^104 C2+C3@7>3^104 C2+C3@10>3^104
+@309 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@310 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+@311 [Bbaug]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^80
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+@312 [F | Am7] (grid:32)
+  Voice                    : F3@1>15^80 E3@16>4^80
+  stuff                    : Eb1+B1+C2+Eb2@1>10^104 Eb1@11>8^104
+  Lead 2 (sawtooth)        : C1@1>1^56 Db1@2>1^56 D1@3>1^80 Eb1@4>1^80 E1@5>1^80 F1@6>1^104 Gb1@7>1^104 G1@8>1^104 Ab1@9>1^104 A1@10>1^104 Bb1@11>1^104 B1@12>1^104 C2@13>1^104 Db2@14>1^104 D2@15>1^104 E2@16>1^104 F2@17>1^104 Gb2@18>1^104 G2@19>1^104 A2@20>1^104 Bb2@21>1^104 B2@22>1^104 C3@23>1^104 D3@24>1^104 Eb3@25>1^104 E3@26>1^104 F3@27>1^104 G3@28>1^104 Ab3@29>1^104 A3@31>2^104
+  Lead 2 (sawtooth)#2      : C1@1>1^56 Db1@2>1^56 D1@3>1^80 Eb1@4>1^80 E1@5>1^80 F1@6>1^104 Gb1@7>1^104 G1@8>1^104 Ab1@9>1^104 A1@10>1^104 Bb1@11>1^104 B1@12>1^104 C2@13>1^104 Db2@14>1^104 D2@15>1^104 E2@16>1^104 F2@17>1^104 Gb2@18>1^104 G2@19>1^104 A2@20>1^104 Bb2@21>1^104 B2@22>1^104 C3@23>1^104 D3@24>1^104 Eb3@25>1^104 E3@26>1^104 F3@27>1^104 G3@28>1^104 Ab3@29>1^104 A3@31>2^104
+@313 [C7 | Caug]
+  Voice                    : G3@4>1^104
+  Lead 2 (sawtooth)        : Bb3+B3@1>3^104 C4@2>2^104 Ab-1@4>1^104
+  Lead 2 (sawtooth)#2      : Bb3+B3@1>3^104 C4@2>2^104 Ab-1@4>1^104
+@314 [G]
+  Voice                    : Gb3+G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+A3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@315 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@316 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@317 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@318 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3@3>1^104 Eb1+B1+C2+Eb2+Db3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@319 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@320 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@321 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Bb2@3>2^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@322 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+A3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@323 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@324 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@325 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@326 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^104 Db3@2>1^104 Eb2+Db3@3>1^104 Eb1+B1+C2+Eb2+Db3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@327 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+Db3@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@328 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@329 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Bb2@3>2^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@330 [G]
+  Voice                    : G3@1>2^104 G3@3>3^104
+  stuff                    : Eb1+B1+C2+Ab2+C3+A3@1>1^104 Eb2+A3@3>1^104 Eb1+B1+C2+Eb2+A3@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@331 [G]
+  Voice                    : G3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^104 Eb2+A3@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  loads more stuff         : G2@1>1^104 G2@2>1^104 G2@3>1^104 G2@4>1^104
+  some here too            : G1+G2@1>1^104 G1+G2@2>1^104 G1+G2@3>1^104 G1+G2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@332 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^104 Gb3@3>2^104
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^104 Eb2@3>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : Bb1+Bb2@1>1^104 Bb1+Bb2@2>1^104 Bb1+Bb2@3>1^104 Bb1+Bb2@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 G4@3>2^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 G4@3>2^104
+@333 [F7 | C]
+  Voice                    : F3@1>1^104 E3@2>1^104 G3@3>1^104 Gb3@4>1^104
+  stuff                    : Eb1+B1+C2+Eb2@1>1^104 Eb2@2>1^104 Eb1+B1+C2+Eb2@4>1^104
+  some here too            : C2+C3@1>1^104 C2+C3@2>1^104 C2+C3@3>1^104 C2+C3@4>1^104
+  Electric Guitar (jazz)   : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+  Electric Guitar (clean)  : D4@1>1^104 C4@2>1^104 D4@3>1^104 G4@4>1^104
+@334 [G]
+  Voice                    : G3@1>2^80 G3@3>3^80
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^80 Db3@2>1^80 Eb2+Db3@3>1^80 Eb1+B1+C2+Eb2+Db3@4>1^80
+  loads more stuff         : G2@1>1^80 G2@2>1^80 G2@3>1^80 G2@4>1^80
+  some here too            : G1+G2@1>1^80 G1+G2@2>1^80 G1+G2@3>1^80 G1+G2@4>1^80
+  Electric Guitar (jazz)   : D4@1>1^80 C4@2>1^80 G4@3>2^80
+  Electric Guitar (clean)  : D4@1>1^80 C4@2>1^80 G4@3>2^80
+@335 [G]
+  Voice                    : G3@4>1^80
+  stuff                    : Eb1+B1+C2+Eb2+Db3@1>1^80 Eb2@2>1^80 Eb1+B1+C2+Eb2@4>1^80
+  loads more stuff         : G2@1>1^80 G2@2>1^80 G2@3>1^80 G2@4>1^80
+  some here too            : G1+G2@1>1^80 G1+G2@2>1^80 G1+G2@3>1^80 G1+G2@4>1^80
+  Electric Guitar (jazz)   : D4@1>1^80 C4@2>1^80 D4@3>1^80 G4@4>1^80
+  Electric Guitar (clean)  : D4@1>1^80 C4@2>1^80 D4@3>1^80 G4@4>1^80
+@336 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^80 Gb3@3>2^80
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^80 Eb2@3>1^80 Eb1+B1+C2+Eb2@4>1^80
+  some here too            : Bb1+Bb2@1>1^80 Bb1+Bb2@2>1^80 Bb1+Bb2@3>1^80 Bb1+Bb2@4>1^80
+  Electric Guitar (jazz)   : D4@1>1^80 C4@2>1^80 G4@3>2^80
+  Electric Guitar (clean)  : D4@1>1^80 C4@2>1^80 G4@3>2^80
+@337 [F7 | C]
+  Voice                    : F3@1>1^56 E3@2>1^56 G3@3>1^56 Gb3@4>1^56
+  stuff                    : Eb1+B1+C2+Eb2@1>1^56 Eb2@2>1^56 Bb2@3>2^56 Eb1+B1+C2+Eb2@4>1^56
+  some here too            : C2+C3@1>1^56 C2+C3@2>1^56 C2+C3@3>1^56 C2+C3@4>1^56
+  Electric Guitar (jazz)   : D4@1>1^56 C4@2>1^56 D4@3>1^56 G4@4>1^56
+  Electric Guitar (clean)  : D4@1>1^56 C4@2>1^56 D4@3>1^56 G4@4>1^56
+@338 [G]
+  Voice                    : G3@1>2^56 G3@3>3^56
+  stuff                    : Eb1+B1+C2+Ab2+C3+A3@1>1^56 Eb2+A3@3>1^56 Eb1+B1+C2+Eb2+A3@4>1^56
+  loads more stuff         : G2@1>1^56 G2@2>1^56 G2@3>1^56 G2@4>1^56
+  some here too            : G1+G2@1>1^56 G1+G2@2>1^56 G1+G2@3>1^56 G1+G2@4>1^56
+  Electric Guitar (jazz)   : D4@1>1^56 C4@2>1^56 G4@3>2^56
+  Electric Guitar (clean)  : D4@1>1^56 C4@2>1^56 G4@3>2^56
+@339 [G]
+  Voice                    : G3@4>1^56
+  stuff                    : Eb1+B1+C2+Eb2+A3@1>1^56 Eb2+A3@2>1^56 Eb1+B1+C2+Eb2@4>1^56
+  loads more stuff         : G2@1>1^56 G2@2>1^56 G2@3>1^56 G2@4>1^56
+  some here too            : G1+G2@1>1^56 G1+G2@2>1^56 G1+G2@3>1^56 G1+G2@4>1^56
+  Electric Guitar (jazz)   : D4@1>1^56 C4@2>1^56 D4@3>1^56 G4@4>1^56
+  Electric Guitar (clean)  : D4@1>1^56 C4@2>1^56 D4@3>1^56 G4@4>1^56
+@340 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^32 Gb3@3>2^32
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^32 Eb2@3>1^32 Eb1+B1+C2+Eb2@4>1^32
+  some here too            : Bb1+Bb2@1>1^32 Bb1+Bb2@2>1^32 Bb1+Bb2@3>1^32 Bb1+Bb2@4>1^32
+  Electric Guitar (jazz)   : D4@1>1^32 C4@2>1^32 G4@3>2^32
+  Electric Guitar (clean)  : D4@1>1^32 C4@2>1^32 G4@3>2^32
+@341 [F7 | C]
+  Voice                    : F3@1>1^32 E3@2>1^32 G3@3>1^32 Gb3@4>1^32
+  stuff                    : Eb1+B1+C2+Eb2@1>1^32 Eb2@2>1^32 Eb1+B1+C2+Eb2@4>1^32
+  some here too            : C2+C3@1>1^32 C2+C3@2>1^32 C2+C3@3>1^32 C2+C3@4>1^32
+  Electric Guitar (jazz)   : D4@1>1^32 C4@2>1^32 D4@3>1^32 G4@4>1^32
+  Electric Guitar (clean)  : D4@1>1^32 C4@2>1^32 D4@3>1^32 G4@4>1^32
+@342 [G]
+  Voice                    : G3@1>2^32 G3@3>3^32
+  stuff                    : Eb1+B1+C2+Ab2+C3+Db3@1>1^32 Db3@2>1^32 Eb2+Db3@3>1^32 Eb1+B1+C2+Eb2+Db3@4>1^32
+  loads more stuff         : G2@1>1^32 G2@2>1^32 G2@3>1^32 G2@4>1^32
+  some here too            : G1+G2@1>1^32 G1+G2@2>1^32 G1+G2@3>1^32 G1+G2@4>1^32
+  Electric Guitar (jazz)   : D4@1>1^32 C4@2>1^32 G4@3>2^32
+  Electric Guitar (clean)  : D4@1>1^32 C4@2>1^32 G4@3>2^32
+@343 [G]
+  Voice                    : G3@4>1^32
+  stuff                    : Eb1+B1+C2+Eb2+Db3@1>1^32 Eb2@2>1^32 Eb1+B1+C2+Eb2@4>1^32
+  loads more stuff         : G2@1>1^32 G2@2>1^32 G2@3>1^32 G2@4>1^32
+  some here too            : G1+G2@1>1^32 G1+G2@2>1^32 G1+G2@3>1^32 G1+G2@4>1^32
+  Electric Guitar (jazz)   : D4@1>1^32 C4@2>1^32 D4@3>1^32 G4@4>1^32
+  Electric Guitar (clean)  : D4@1>1^32 C4@2>1^32 D4@3>1^32 G4@4>1^32
+@344 [Bbaug | Gm]
+  Voice                    : Gb3@1>2^32 Gb3@3>2^32
+  stuff                    : Eb1+B1+C2+Ab2+C3@1>1^32 Eb2@3>1^32 Eb1+B1+C2+Eb2@4>1^32
+  some here too            : Bb1+Bb2@1>1^32 Bb1+Bb2@2>1^32 Bb1+Bb2@3>1^32 Bb1+Bb2@4>1^32
+  Electric Guitar (jazz)   : D4@1>1^32 C4@2>1^32 G4@3>2^32
+  Electric Guitar (clean)  : D4@1>1^32 C4@2>1^32 G4@3>2^32
+@345 [F7 | C]
+  Voice                    : F3@1>1^32 E3@2>1^32 G3@3>1^32 Gb3@4>1^32
+  stuff                    : Eb1+B1+C2+Eb2@1>1^32 Eb2@2>1^32 Bb2@3>2^32 Eb1+B1+C2+Eb2@4>1^32
+  some here too            : C2+C3@1>1^32 C2+C3@2>1^32 C2+C3@3>1^32 C2+C3@4>1^32
+  Electric Guitar (jazz)   : D4@1>1^32 C4@2>1^32 D4@3>1^32 G4@4>1^32
+  Electric Guitar (clean)  : D4@1>1^32 C4@2>1^32 D4@3>1^32 G4@4>1^32

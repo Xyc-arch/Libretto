@@ -1,0 +1,515 @@
+KEY: C# minor | METER: 4/4 | TEMPO: 180 | GRID: 16th (adaptive) | BARS: 134
+VOICES: TabIt MIDI - Track 1[prog=27], TabIt MIDI - Track 2[prog=33], TabIt MIDI - Track 3[prog=27], TabIt MIDI - Track 4[prog=30]
+@1 [E] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 B3@3>1^104 E4@4>2^104 B3@6>1^104 E3@7>2^104
+@2 [E] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 B3@3>1^104 E4@4>2^104 B3@6>1^104 E3@7>2^104
+@3 [G#] (grid:8)
+  TabIt MIDI - Track 1: G#2@1>2^104 D#3@3>1^104 D#4@4>2^104 C4@6>1^104 G#3@7>2^104
+@4 [G# | C#] (grid:12t)
+  TabIt MIDI - Track 1: G#3@1>3^104 G#2@4>2^104 D#4@5>4^104 C#3@10>3^104
+  TabIt MIDI - Track 2: C#2@10>2^104
+@5 [C# | C#m] (grid:8)
+  TabIt MIDI - Track 1: C#3@1>2^104 G#3@3>1^104 C#4@4>2^104 B3@6>1^104 G#3@7>1^104 E4@8>3^104
+  TabIt MIDI - Track 2: C#2@1>14^104
+@6 [G# | E] (grid:4)
+  TabIt MIDI - Track 1: G#3@2>1^104 B3@3>1^104 E3@4>1^104
+  TabIt MIDI - Track 2: E2@4>1^104
+@7 [D#m | B] (grid:8)
+  TabIt MIDI - Track 1: D#3@1>3^104 F#4@4>2^104 D#4@6>1^104 B3@7>2^104
+  TabIt MIDI - Track 2: D#2@1>8^104
+@8 [E]
+  TabIt MIDI - Track 1: B2@1>20^104
+  TabIt MIDI - Track 2: B1@1>7^104 E1@8>1^104 B1@9>3^104 C#2@12>1^104 E2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>2^80
+@9 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 B1@9>3^104 C#2@12>1^104 E2@13>2^104
+  TabIt MIDI - Track 4: E4@1>2^80 E4@5>2^80 E4@9>2^80 D#4@13>2^80 F#4@15>4^80
+@10 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 E2@8>1^104 B2@9>4^104 B2@13>4^104
+  TabIt MIDI - Track 4: E4@3>2^80 E4@12>1^80 E4@13>2^80
+@11 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@1>2^80 D#4@5>2^80 D#4@9>2^80 C#4@13>2^80 E4@15>4^80
+@12 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@3>2^80 C#4@12>1^80 C#4@13>2^80
+@13 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>2^104 G#1@16>1^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 G#3@9>4^80 G#3@13>4^80
+@14 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>4^104 C2@13>4^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 G#3@9>4^80 C#4@13>3^80
+@15 [B]
+  TabIt MIDI - Track 1: D#4+F#4+B4@5>1^104 D#4+F#4+B4@13>1^104
+  TabIt MIDI - Track 2: B1@1>4^104 B1@5>4^104 B1@9>3^104 B1@12>4^104 B1@16>4^104
+  TabIt MIDI - Track 4: B3@12>1^80 B3@13>4^80
+@16 [G#m7 | B]
+  TabIt MIDI - Track 1: D#4+F#4+B4@5>1^104 D#4+F#4+B4@13>1^104
+  TabIt MIDI - Track 2: B1@4>4^104 E1@8>1^104 B1@9>3^104 C#2@12>1^104 E2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: B3@1>4^80 B3@5>2^80 G#4@7>4^80 F#4@11>6^80
+@17 [E7]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 B1@9>3^104 C#2@12>1^104 E2@13>2^104
+  TabIt MIDI - Track 4: E4@1>2^80 E4@5>2^80 E4@9>2^80 D#4@13>4^80
+@18 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 E2@8>1^104 B2@9>4^104 B2@13>4^104
+  TabIt MIDI - Track 4: F#4@1>2^80 E4@3>2^80 E4@12>1^80 E4@13>2^80
+@19 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@1>2^80 D#4@5>2^80 D#4@9>2^80 C#4@13>2^80 E4@15>4^80
+@20 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@3>9^80 C#4@12>1^80 C#4@13>2^80
+@21 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>2^104 G#1@16>1^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 C#4@9>4^80 C#4@13>4^80
+@22 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>4^104 C2@13>4^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 C#4@9>4^80 E4@13>4^80
+@23 [E] (grid:12t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@4>1^104 D#4+F#4+B4@10>1^104
+  TabIt MIDI - Track 2: B1@1>3^104 B1@4>3^104 B1@7>2^104 B1@9>3^104 B1@12>3^104
+  TabIt MIDI - Track 4: E4@1>6^80 E4@7>5^80 E4@12>1^80
+@24 [B | E] (grid:12t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@4>1^104 D#4+F#4+B4@10>1^104 A4@11>4^104
+  TabIt MIDI - Track 2: B1@3>3^104 B1@6>3^104 B1@9>2^104 B1@11>2^104
+  TabIt MIDI - Track 4: G#4@1>3^80 F#4@4>3^80 E4@7>3^80 F#4@10>2^80 E4@11>3^80
+@25 [A | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: A1@1>4^104 E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>4^80
+@26 [B]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: D#4@1>4^80 C#4@5>4^80 B3@9>4^80 C#4@13>2^80 B3@15>6^80
+@27 [E | D#m] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 G#4@3>1^104 D#3@5>2^104 F#4@7>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 D#2@5>4^104
+@28 [C#m] (grid:8)
+  TabIt MIDI - Track 1: C#3@1>3^104 C#4+E4+G#4@4>4^104 A4@8>3^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@3>3^104 G#1@6>2^104 A1@8>3^104
+  TabIt MIDI - Track 4: G#3@1>1^80 B3@2>2^80 C#4@4>4^80 C#4@8>3^80
+@29 [E | C#m7]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: B3@5>7^80 E4@12>1^80 E4@13>4^80
+@30 [B]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: D#4@1>4^80 C#4@5>4^80 B3@9>4^80 C#4@13>2^80 B3@15>10^80
+@31 [E | D#m] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 G#4@3>1^104 D#3@5>2^104 F#4@7>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 D#2@5>4^104
+  TabIt MIDI - Track 4: G#4@5>2^80 F#4@7>2^80
+@32 [C#m] (grid:6t)
+  TabIt MIDI - Track 1: C#3@1>2^104 C#4+E4+G#4@3>3^104 A4@6>2^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@3>2^104 G#1@5>2^104 A1@6>2^104
+  TabIt MIDI - Track 4: E4@1>3^80 F#4@4>2^80 E4@6>5^80
+@33 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: G#4@12>1^80 G#4@13>4^80
+@34 [B | D#m]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: F#4@1>4^80 E4@5>7^80 F#4@12>1^80 F#4@13>4^80
+@35 [E | D#m]
+  TabIt MIDI - Track 1: E3@1>4^104 G#4@5>2^104 D#3@9>4^104 F#4@13>2^104
+  TabIt MIDI - Track 2: E2@1>6^104 E2@7>2^104 D#2@9>8^104
+  TabIt MIDI - Track 4: F#4@1>6^80 G#4@7>1^80 F#4@8>1^80 E4@9>4^80 F#4@13>2^80 E4@15>4^80
+@36 [C#m] (grid:12t)
+  TabIt MIDI - Track 1: C#3@1>4^104 C#4+E4+G#4@5>6^104 A4@11>4^104
+  TabIt MIDI - Track 2: C#2@1>3^104 G#1@4>4^104 G#1@9>3^104 A1@11>4^104
+  TabIt MIDI - Track 4: F#4@3>8^80 E4@10>2^80 F#4@11>2^80
+@37 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@1>11^80 G#4@12>1^80 G#4@13>4^80
+@38 [B | D#m]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>12^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: F#4@1>4^80 E4@5>2^80 E4@7>4^80 D#4@11>6^80
+@39 [E7]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 B1@9>3^104 C#2@12>1^104 E2@13>2^104
+  TabIt MIDI - Track 4: E4@1>2^80 E4@5>2^80 E4@7>4^80 D#4@11>4^80 F#4@15>2^80
+@40 [E | G#m]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 E2@8>1^104 B2@9>4^104 B2@13>4^104
+  TabIt MIDI - Track 4: E4@7>2^80 D#4@9>4^80 E4@13>2^80
+@41 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@1>4^80 D#4@5>2^80 D#4@7>4^80 C#4@11>4^80 E4@15>8^80
+@42 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@7>10^80
+@43 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>2^104 G#1@16>1^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 C#4@9>4^80 C#4@13>4^80
+@44 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>4^104 C2@13>4^104
+  TabIt MIDI - Track 4: E4@1>8^80 E4@9>4^80 E4@13>4^80
+@45 [B] (grid:12t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@4>1^104 D#4+F#4+B4@10>1^104
+  TabIt MIDI - Track 2: B1@1>3^104 B1@4>3^104 B1@7>2^104 B1@9>3^104 B1@12>3^104
+  TabIt MIDI - Track 4: E4@1>3^80 D#4+F#4@4>2^80
+@46 [B]
+  TabIt MIDI - Track 1: D#4+F#4+B4@5>1^104 D#4+F#4+B4@13>1^104
+  TabIt MIDI - Track 2: B1@4>4^104 E1@8>1^104 B1@9>3^104 C#2@12>1^104 E2@13>3^104 F#2@16>1^104
+@47 [E7]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 B1@9>3^104 C#2@12>1^104 E2@13>2^104
+  TabIt MIDI - Track 4: E4@1>2^80 E4@5>2^80 E4@9>2^80 D#4@13>4^80
+@48 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 E2@8>1^104 B2@9>4^104 B2@13>4^104
+  TabIt MIDI - Track 4: F#4@1>2^80 E4@3>2^80 E4@12>1^80 E4@13>2^80
+@49 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@1>2^80 D#4@5>2^80 D#4@9>2^80 C#4@13>2^80 E4@15>4^80
+@50 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@3>9^80 C#4@12>1^80 C#4@13>2^80
+@51 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>2^104 G#1@16>1^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 C#4@9>4^80 C#4@13>4^80
+@52 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>4^104 C2@13>4^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 C#4@9>4^80 E4@13>4^80
+@53 [E] (grid:12t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@4>1^104 D#4+F#4+B4@10>1^104
+  TabIt MIDI - Track 2: B1@1>3^104 B1@4>3^104 B1@7>2^104 B1@9>3^104 B1@12>3^104
+  TabIt MIDI - Track 4: E4@1>6^80 E4@7>5^80 E4@12>1^80
+@54 [B | E] (grid:12t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@4>1^104 D#4+F#4+B4@10>1^104 A4@11>4^104
+  TabIt MIDI - Track 2: B1@3>3^104 B1@6>3^104 B1@9>2^104 B1@11>2^104
+  TabIt MIDI - Track 4: G#4@1>3^80 F#4@4>3^80 E4@7>3^80 F#4@10>2^80 E4@11>10^80
+@55 [A | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: A1@1>4^104 E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>4^80
+@56 [B]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: D#4@1>4^80 C#4@5>4^80 B3@9>4^80 C#4@13>2^80 B3@15>7^80
+@57 [E | D#m] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 G#4@3>1^104 D#3@5>2^104 F#4@7>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 D#2@5>4^104
+@58 [C#m] (grid:8)
+  TabIt MIDI - Track 1: C#3@1>3^104 C#4+E4+G#4@4>4^104 A4@8>3^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@3>3^104 G#1@6>2^104 A1@8>3^104
+  TabIt MIDI - Track 4: G#3@1>1^80 B3@2>2^80 C#4@4>4^80
+@59 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>4^80
+@60 [B]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: D#4@1>4^80 C#4@5>4^80 B3@9>4^80 C#4@13>2^80 B3@15>10^80
+@61 [E | D#m] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 G#4@3>1^104 D#3@5>2^104 F#4@7>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 D#2@5>4^104
+  TabIt MIDI - Track 4: G#4@5>2^80 F#4@7>2^80
+@62 [C#m] (grid:6t)
+  TabIt MIDI - Track 1: C#3@1>2^104 C#4+E4+G#4@3>3^104 A4@6>2^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@3>2^104 G#1@5>2^104 A1@6>2^104
+  TabIt MIDI - Track 4: E4@1>3^80 F#4@4>2^80 E4@6>5^80
+@63 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: G#4@12>1^80 G#4@13>4^80
+@64 [B | D#m]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: F#4@1>4^80 E4@5>7^80 F#4@12>1^80 F#4@13>4^80
+@65 [E | D#m]
+  TabIt MIDI - Track 1: E3@1>4^104 G#4@5>2^104 D#3@9>4^104 F#4@13>2^104
+  TabIt MIDI - Track 2: E2@1>6^104 E2@7>2^104 D#2@9>8^104
+  TabIt MIDI - Track 4: F#4@1>6^80 G#4@7>1^80 F#4@8>1^80 E4@9>4^80 F#4@13>2^80 E4@15>4^80
+@66 [C#m] (grid:12t)
+  TabIt MIDI - Track 1: C#3@1>4^104 C#4+E4+G#4@5>6^104 A4@11>4^104
+  TabIt MIDI - Track 2: C#2@1>3^104 G#1@4>4^104 G#1@9>3^104 A1@11>4^104
+  TabIt MIDI - Track 4: F#4@3>8^80 E4@10>2^80 F#4@11>2^80
+@67 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@1>11^80 G#4@12>1^80 G#4@13>4^80
+@68 [B | D#m]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>12^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: F#4@1>4^80 E4@5>2^80 E4@7>4^80 D#4@11>5^80
+@69 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 B1@9>3^104 C#2@12>1^104 E2@13>2^104
+  TabIt MIDI - Track 3: E3@1>7^104 F#3@8>1^104 G#3@9>3^104 B3@12>1^104 C#4@13>3^104 E4@16>1^104
+@70 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 E2@8>1^104 B2@9>4^104 B2@13>4^104
+  TabIt MIDI - Track 3: G#4@5>4^104 F#4@9>4^104 E4@13>4^104
+@71 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 3: D#4@1>8^104 D#4@9>3^104 C#4@12>4^104 E4@16>1^104
+@72 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 3: D#4@1>16^104
+@73 [C#m7]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>2^104 G#1@16>1^104
+  TabIt MIDI - Track 3: C#4@1>4^104 C#4@5>2^104 B3@7>1^104 G#3@8>1^104 B3@9>3^104 G#3@12>1^104 F#3@13>3^104 G#3@16>4^104
+@74 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>4^104 C2@13>4^104
+  TabIt MIDI - Track 3: G#3@4>1^104 F#3@5>1^104 G#3@6>1^104 F#3@7>2^104 E3@9>3^104 D#3@12>1^104 C#3@13>3^104 D#3@16>1^104
+@75 [E]
+  TabIt MIDI - Track 1: D#4+F#4+B4@5>1^104 D#4+F#4+B4@13>1^104
+  TabIt MIDI - Track 2: B1@1>4^104 B1@5>4^104 B1@9>3^104 B1@12>4^104 B1@16>4^104
+  TabIt MIDI - Track 3: E3@1>3^104 F#3@4>1^104 G#3@5>3^104 F#3@8>1^104 E3@9>4^104 C#3@13>3^104 B2@16>16^104
+@76 [B | E]
+  TabIt MIDI - Track 1: D#4+F#4+B4@5>1^104 D#4+F#4+B4@13>1^104
+  TabIt MIDI - Track 2: B1@4>4^104 E1@8>1^104 B1@9>3^104 C#2@12>1^104 E2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 3: G#4@16>1^104
+@77 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 B1@9>3^104 C#2@12>1^104 E2@13>2^104
+  TabIt MIDI - Track 3: G#4@1>4^104 F#4@5>4^104 E4@9>3^104 E4@12>1^104 C#4@13>3^104 E4@16>4^104
+@78 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 E2@8>1^104 B2@9>4^104 B2@13>4^104
+  TabIt MIDI - Track 3: E4@4>1^104 F#4@5>3^104 F#4@8>1^104 G#4@9>3^104 G#4@12>1^104 F#4@13>4^104
+@79 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 3: G#3@1>4^104 C4@5>4^104 G#3@9>4^104 C4@13>20^104
+@80 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+@81 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>2^104 G#1@16>1^104
+  TabIt MIDI - Track 3: G#4@1>8^104 C#5@9>3^104 F#4@12>2^104 E4@14>3^104
+@82 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>4^104 C2@13>4^104
+  TabIt MIDI - Track 3: G#4@1>8^104 C#5@9>3^104 F#4@12>2^104 E4@14>3^104
+@83 [B] (grid:12t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@4>1^104 D#4+F#4+B4@10>1^104
+  TabIt MIDI - Track 2: B1@1>3^104 B1@4>3^104 B1@7>2^104 B1@9>3^104 B1@12>3^104
+  TabIt MIDI - Track 3: G#4@1>3^104 F#4@4>8^104 B4@12>4^104
+@84 [B | G#m7] (grid:24t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@7>2^104 D#4+F#4+B4@19>2^104 A4@22>9^104
+  TabIt MIDI - Track 2: B1@5>6^104 B1@11>6^104 B1@17>4^104 B1@22>3^104
+  TabIt MIDI - Track 3: B4@7>3^104 C#5@10>6^104 B4@16>3^104 G#4@19>3^104
+@85 [A | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: A1@1>4^104 E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>4^80
+@86 [B]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: D#4@1>4^80 C#4@5>4^80 B3@9>4^80 C#4@13>2^80 B3@15>8^80
+@87 [E | D#m] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 G#4@3>1^104 D#3@5>2^104 F#4@7>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 D#2@5>4^104
+@88 [C#m] (grid:8)
+  TabIt MIDI - Track 1: C#3@1>3^104 C#4+E4+G#4@4>4^104 A4@8>3^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@3>3^104 G#1@6>2^104 A1@8>3^104
+  TabIt MIDI - Track 4: G#3@1>1^80 B3@2>2^80 C#4@4>4^80
+@89 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>4^80
+@90 [B]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: D#4@1>4^80 C#4@5>4^80 B3@9>4^80 C#4@13>2^80 B3@15>10^80
+@91 [E | D#m] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 G#4@3>1^104 D#3@5>2^104 F#4@7>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 D#2@5>4^104
+  TabIt MIDI - Track 4: G#4@5>2^80 F#4@7>2^80
+@92 [C#m] (grid:6t)
+  TabIt MIDI - Track 1: C#3@1>2^104 C#4+E4+G#4@3>3^104 A4@6>2^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@3>2^104 G#1@5>2^104 A1@6>1^104
+  TabIt MIDI - Track 4: E4@1>3^80 F#4@4>2^80 E4@6>2^80
+@93 [A | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: A1@1>4^104 E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: G#4@12>1^80 G#4@13>4^80
+@94 [B | D#m]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: F#4@1>4^80 E4@5>7^80 F#4@12>1^80 F#4@13>4^80
+@95 [E | D#m]
+  TabIt MIDI - Track 1: E3@1>4^104 G#4@5>2^104 D#3@9>4^104 F#4@13>2^104
+  TabIt MIDI - Track 2: E2@1>6^104 E2@7>2^104 D#2@9>8^104
+  TabIt MIDI - Track 4: F#4@1>6^80 G#4@7>1^80 F#4@8>1^80 E4@9>4^80 F#4@13>2^80 E4@15>4^80
+@96 [C#m] (grid:12t)
+  TabIt MIDI - Track 1: C#3@1>4^104 C#4+E4+G#4@5>6^104 A4@11>4^104
+  TabIt MIDI - Track 2: C#2@1>3^104 G#1@4>4^104 G#1@9>3^104 A1@11>4^104
+  TabIt MIDI - Track 4: F#4@3>8^80 E4@10>2^80 F#4@11>2^80
+@97 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@1>11^80 G#4@12>1^80 G#4@13>4^80
+@98 [B | D#m]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>12^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: F#4@1>4^80 E4@5>2^80 E4@7>4^80 D#4@11>6^80
+@99 [E7]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 B1@9>3^104 C#2@12>1^104 E2@13>2^104
+  TabIt MIDI - Track 4: E4@1>2^80 E4@5>2^80 E4@7>4^80 D#4@11>4^80 F#4@15>2^80
+@100 [E | G#m]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 E2@8>1^104 B2@9>4^104 B2@13>4^104
+  TabIt MIDI - Track 4: E4@7>2^80 D#4@9>4^80 E4@13>2^80
+@101 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@1>4^80 D#4@5>2^80 D#4@7>4^80 C#4@11>4^80 E4@15>8^80
+@102 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@7>10^80
+@103 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>2^104 G#1@16>1^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 C#4@9>4^80 C#4@13>4^80
+@104 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>4^104 C2@13>4^104
+  TabIt MIDI - Track 4: E4@1>8^80 E4@9>4^80 E4@13>4^80
+@105 [B] (grid:12t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@4>1^104 D#4+F#4+B4@10>1^104
+  TabIt MIDI - Track 2: B1@1>3^104 B1@4>3^104 B1@7>2^104 B1@9>3^104 B1@12>3^104
+  TabIt MIDI - Track 4: E4@1>3^80 D#4+F#4@4>2^80
+@106 [B | E]
+  TabIt MIDI - Track 1: D#4+F#4+B4@5>1^104 D#4+F#4+B4@13>1^104
+  TabIt MIDI - Track 2: B1@4>4^104 E1@8>1^104 B1@9>3^104 C#2@12>1^104 E2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>2^80
+@107 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 B1@9>3^104 C#2@12>1^104 E2@13>2^104
+  TabIt MIDI - Track 4: E4@1>2^80 E4@5>2^80 E4@9>2^80 D#4@13>2^80 F#4@15>4^80
+@108 [E]
+  TabIt MIDI - Track 1: B3+E4+G#4@5>1^104 B3+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 E2@8>1^104 B2@9>4^104 B2@13>4^104
+  TabIt MIDI - Track 4: E4@3>2^80 E4@12>1^80 E4@13>2^80
+@109 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@1>2^80 D#4@5>2^80 D#4@9>2^80 C#4@13>2^80 E4@15>4^80
+@110 [G#]
+  TabIt MIDI - Track 1: C4+D#4+G#4@5>1^104 C4+D#4+G#4@13>1^104
+  TabIt MIDI - Track 2: G#2@1>3^104 G#2@4>1^104 D#2@9>3^104 F2@12>1^104 G#2@13>2^104
+  TabIt MIDI - Track 4: D#4@3>2^80 C#4@12>1^80 C#4@13>2^80
+@111 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>2^104 G#1@16>1^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 G#3@9>4^80 G#3@13>4^80
+@112 [C#m]
+  TabIt MIDI - Track 1: C#4+E4+G#4@5>1^104 C#4+E4+G#4@13>1^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@8>1^104 C#2@9>4^104 C2@13>4^104
+  TabIt MIDI - Track 4: C#4@1>4^80 C#4@5>4^80 G#3@9>4^80 C#4@13>3^80
+@113 [B]
+  TabIt MIDI - Track 1: D#4+F#4+B4@5>1^104 D#4+F#4+B4@13>1^104
+  TabIt MIDI - Track 2: B1@1>4^104 B1@5>4^104 B1@9>3^104 B1@12>4^104 B1@16>4^104
+  TabIt MIDI - Track 4: B3@12>1^80 B3@13>4^80
+@114 [G#m7 | B] (grid:24t)
+  TabIt MIDI - Track 1: D#4+F#4+B4@7>2^104 D#4+F#4+B4@19>2^104 A4@22>9^104
+  TabIt MIDI - Track 2: B1@5>6^104 B1@11>6^104 B1@17>4^104 B1@22>3^104
+  TabIt MIDI - Track 4: B3@1>6^80 B3@7>3^80 G#4@10>6^80 F#4@16>14^80
+@115 [A | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: A1@1>4^104 E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>4^80
+@116 [B]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: D#4@1>4^80 C#4@5>4^80 B3@9>4^80 C#4@13>2^80 B3@15>8^80
+@117 [E | D#m] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 G#4@3>1^104 D#3@5>2^104 F#4@7>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 D#2@5>4^104
+@118 [C#m] (grid:8)
+  TabIt MIDI - Track 1: C#3@1>3^104 C#4+E4+G#4@4>4^104 A4@8>3^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@3>3^104 G#1@6>2^104 A1@8>3^104
+  TabIt MIDI - Track 4: G#3@1>1^80 B3@2>2^80 C#4@4>4^80
+@119 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@12>1^80 E4@13>4^80
+@120 [B]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: D#4@1>4^80 C#4@5>4^80 B3@9>4^80 C#4@13>2^80 B3@15>10^80
+@121 [E | D#m] (grid:8)
+  TabIt MIDI - Track 1: E3@1>2^104 G#4@3>1^104 D#3@5>2^104 F#4@7>1^104
+  TabIt MIDI - Track 2: E2@1>3^104 E2@4>1^104 D#2@5>4^104
+  TabIt MIDI - Track 4: G#4@5>2^80 F#4@7>2^80
+@122 [C#m] (grid:6t)
+  TabIt MIDI - Track 1: C#3@1>2^104 C#4+E4+G#4@3>3^104 A4@6>2^104
+  TabIt MIDI - Track 2: C#2@1>2^104 G#1@3>2^104 G#1@5>2^104 A1@6>2^104
+  TabIt MIDI - Track 4: E4@1>3^80 F#4@4>2^80 E4@6>5^80
+@123 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: G#4@13>4^80
+@124 [E | D#m]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>4^104 D#4@13>4^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: E4@1>11^80 F#4@12>1^80 F#4@13>4^80
+@125 [E | D#m]
+  TabIt MIDI - Track 1: E3@1>4^104 G#4@5>2^104 D#3@9>4^104 F#4@13>2^104
+  TabIt MIDI - Track 2: E2@1>6^104 E2@7>2^104 D#2@9>8^104
+  TabIt MIDI - Track 4: F#4@1>6^80 G#4@7>1^80 F#4@8>1^80 E4@9>4^80 F#4@13>2^80 E4@15>4^80
+@126 [C#m] (grid:12t)
+  TabIt MIDI - Track 1: C#3@1>4^104 C#4+E4+G#4@5>6^104 A4@11>4^104
+  TabIt MIDI - Track 2: C#2@1>3^104 G#1@4>4^104 G#1@9>3^104 A1@11>4^104
+  TabIt MIDI - Track 4: F#4@3>8^80 E4@10>2^80 F#4@11>2^80
+@127 [E | C#m]
+  TabIt MIDI - Track 1: E4@5>4^104 C#4@9>6^104 B4@15>6^104
+  TabIt MIDI - Track 2: E2@5>3^104 E2@8>1^104 E2@9>3^104 E2@12>1^104 E2@13>3^104 E2@16>1^104
+  TabIt MIDI - Track 4: E4@1>11^80 G#4@12>1^80 G#4@13>4^80
+@128 [B | D#m]
+  TabIt MIDI - Track 1: F#4@5>4^104 D#4@9>8^104
+  TabIt MIDI - Track 2: B1@1>4^104 F#2@5>3^104 F#2@8>1^104 F#2@9>3^104 F#2@12>1^104 F#2@13>3^104 F#2@16>1^104
+  TabIt MIDI - Track 4: F#4@1>4^80 E4@5>2^80 E4@7>4^80 D#4@11>6^80
+@129 [E | D#m] (grid:4)
+  TabIt MIDI - Track 1: E3+B3+E4+G#4@1>2^104 D#3+A#3+D#4+F#4@3>2^104
+  TabIt MIDI - Track 2: E2@1>2^104 D#2@3>2^104
+  TabIt MIDI - Track 4: E4@1>21^80
+@130 [C#m | B] (grid:4)
+  TabIt MIDI - Track 1: C#3+G#3+C#4+E4@1>2^104 B2+F#3+B3+D#4@3>2^104
+  TabIt MIDI - Track 2: C#2@1>2^104 B1@3>2^104
+@131 [A | B] (grid:4)
+  TabIt MIDI - Track 1: A2+E3+A3+C#4@1>2^104 B2+F#3+B3+D#4@3>2^104
+  TabIt MIDI - Track 2: A1@1>2^104 B1@3>2^104
+@132 [E] (grid:4)
+  TabIt MIDI - Track 1: E2+B2+E3+G#3+D4+E4@1>8^104
+  TabIt MIDI - Track 2: E1+E2@1>8^104
+@133 [E] (grid:12t)
+  TabIt MIDI - Track 1: E2+B2+E3@12>3^104
+  TabIt MIDI - Track 2: E1@12>3^104
+@134 [-]

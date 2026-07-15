@@ -3,7 +3,7 @@
 Every symbol here is pure-Python and frozen against the packaged data version. No LLM.
 """
 from .understanding_probe import Song
-from .metric_discovery import metrics_for
+from .axes_v3 import metrics_for                # v3: 33 discovered axes (was metric_discovery's 28)
 from .within_song_variation import wsv
 from .copy_risk import copy_risk, piece_notes, slide_overlap
 from .grammar_to_midi import decode as decode_to_midi

@@ -14,8 +14,12 @@ exact real component of B, middle = a gradual thematic crossfade.
 1. **setup** — `morph_setup.py`: pick song pair, extract first-8-sounding-bar components, build per-axis
    rampable A->B targets and the transition brief.
 2. **generate** — feed `prompts/morph.md` + context to a `Generator`. Save the transition grammar.
-3. **measure** — `morph_measure.py` (rampable trajectory) + `morph_component_measure.py`
-   (START/END/GRADUAL/CROSSFADE, copy via `core.copy_risk` slide). Writes verdict JSON.
+3. **measure** — `morph_metric.py` (CURRENT, 39-axis, pkg-native): two lenses — **GRADUALITY** (monotonic +
+   evenly-stepped + anchored axis trajectory) and **GENRE SHIFT** (a genre classifier sees P(source) fall /
+   P(target) rise across segments, with a crossover) — combined into `morph_score`. Run:
+   `python -m libretto.tasks.morph.morph_metric <morph.txt> <A_sid> <B_sid> [S]`. See
+   `paper_data/EXP_RESULTS_morph_metric.md`. (Legacy `morph_measure.py` is 28-axis / substrate-drifted.)
+   Also `morph_component_measure.py` (START/END/GRADUAL/CROSSFADE, copy via `core.copy_risk` slide).
 4. **render** — `core.decode_to_midi`: songA / gen_only / gen_with_real_neighbors / songB stems.
 
 ## Reproducibility

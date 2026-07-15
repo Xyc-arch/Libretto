@@ -1,1061 +1,1031 @@
-KEY: Bb major | METER: 3/4 | TEMPO: 200 | GRID: 12t (adaptive) | BARS: 139
-VOICES: Acoustic Bass, Piano, Piano#2, Acoustic Guitar, Electric Guitar, Electric Guitar#2, Part7, Voice, Part9
+KEY: C major | METER: 4/4 | TEMPO: 146 | GRID: 8th (adaptive) | BARS: 132
+VOICES: PRG.CHANGE[prog=1], PRG.CHANGE#2[prog=6], PRG.CHANGE#3[prog=1], PRG.CHANGE#4[prog=62], PRG.CHANGE#5[prog=63], PRG.CHANGE#6[prog=90], PRG.CHANGE#7[prog=61], PRG.CHANGE#8[prog=48], PRG.CHANGE#9[prog=54], PRG.CHANGE#10[prog=12], PRG.CHANGE#11[prog=63], PRG.CHANGE#12[prog=29], PRG.CHANGE#13[prog=30], PRG.CHANGE#14[prog=81], PRG.CHANGE#15[prog=33], DRUMS[drums], DRUMS#2[prog=16], PRG.CHANGE#16[prog=48], PRG.CHANGE#17[prog=81]
 @1 [-]
 @2 [-]
-@3 [-]
-@4 [Bb]
-  Acoustic Bass    : Bb1@1>9
-  Piano            : Bb1@1>9
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3+Bb3+D4@9>1
-  Part7            : D4+D5@1>9
-@5 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>3
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3+Bb3+D4@9>1
-  Part7            : D4+D5@1>3 Eb4+Eb5@4>3 F4+F5@7>3
-@6 [Eb]
-  Acoustic Bass    : Eb2@1>7 Bb1@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@1>9
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Part7            : Bb3+Bb4@1>9
-@7 [Eb]
-  Acoustic Bass    : Eb2@1>3 D2@4>3 C2@7>3
-  Piano            : Eb2@1>3 D2@4>3 C2@7>3
-  Piano#2          : G3+Bb3+Eb4@1>9 D4@4>3 C4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>2 G3+Bb3+Eb4@6>1 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Electric Guitar  : A4+F5@1>2 A4+F5@3>1 G4+Eb5@4>1 Eb4+Bb4@7>3
-  Part7            : G4+G5@1>3 F4+F5@4>3 Eb4+Eb5@7>3
-@8 [Bb]
-  Acoustic Bass    : Bb1@1>9
-  Piano            : Bb1@1>9
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3@9>1
-  Electric Guitar  : D4+Bb4@1>9
-  Part7            : D4+D5@1>9
-@9 [Bb] (grid:4)
-  Acoustic Bass    : Bb1@1>1 C2@2>1 D2@3>1
-  Piano            : Bb1@1>2 D2@3>1
-  Piano#2          : F3+Bb3+D4@1>1 F3+Bb3+D4@2>2 Bb3@3>1
-  Acoustic Guitar  : F3+Bb3+D4@1>1 F3+Bb3+D4@2>1 F3+Bb3+D4@3>1
-  Electric Guitar  : F4@1>1 Eb4@2>1 D4@3>1
-  Part7            : F4+F5@1>1 Eb4+Eb5@2>1 D4+D5@3>1
-@10 [F]
-  Acoustic Bass    : F2@1>7 F2@9>1
-  Piano            : F2@1>9
-  Piano#2          : F3+A3+C4@1>9
-  Acoustic Guitar  : F3+A3+C4@1>3 F3+A3+C4@4>3 F3+A3+C4@7>3 F3@9>1
-  Electric Guitar  : C4@1>9
-  Electric Guitar#2: A4+C5+F5@7>1
-  Part7            : C4+C5@1>9
-@11 [Eb]
-  Acoustic Bass    : Eb2@1>7 G1@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : Eb3+G3+Bb3@1>9
-  Acoustic Guitar  : Eb3+G3+Bb3@1>3 Eb3+G3+Bb3@4>3 Eb3@6>1 Eb3+G3+Bb3@7>3
-  Electric Guitar  : Bb3@1>6
-  Electric Guitar#2: G4+Bb4+Eb5@7>1
-  Part7            : Bb3+Bb4@1>9
-  Part9            : D4@7>2 F4@9>1
-@12 [Bb] (grid:8)
-  Acoustic Bass    : Bb1@1>5
-  Piano            : Bb1@1>6
-  Piano#2          : F3+Bb3+D4@1>6
-  Acoustic Guitar  : F3+Bb3+D4@1>2 F3+Bb3+D4@3>3 Bb3+D4@5>1 F3@6>1
-  Part7            : Bb3+Bb4@1>5
-  Part9            : F4@1>4 D4@5>1 Bb3@6>1
-@13 [Bb] (grid:24t)
-  Acoustic Bass    : Bb1@1>6 C2@7>6 D2@13>6
-  Piano            : Bb1@1>6 C2@7>6 D2@13>6
-  Piano#2          : F3+Bb3+D4@1>18
-  Acoustic Guitar  : F3+Bb3+D4@1>10 Bb3+D4@7>4 F3@11>2 F3+Bb3+D4@13>4 F3@17>2
-  Part9            : Bb3@1>12 C4@13>3 D4@16>3
-@14 [Eb]
-  Acoustic Bass    : Eb2@1>9
-  Piano            : Eb2@1>8
-  Piano#2          : Eb3+G3+Bb3@1>8
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3@9>1
-  Part9            : C4@1>3 Bb3@4>6
-@15 [Eb7]
-  Acoustic Bass    : Eb2@1>3 D2@4>1 C2@7>1
-  Piano            : Eb2@1>3 D2@4>3 C2@7>2
-  Piano#2          : Bb3+Eb4+G4@1>3 Bb3+D4+F4@4>1 Bb3+Eb4@7>2
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>2 G3@6>1 G3+Bb3+Eb4@7>2 G3@9>1
-  Part9            : D4@7>2 F4@9>1
-@16 [Bb]
-  Acoustic Bass    : Bb1@1>9
-  Piano            : Bb1@1>9
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3@9>1
-  Part9            : F4@1>3 D4@4>5 Bb3@9>1
-@17 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>2 F3@6>1 F3+Bb3+D4@7>2 F3@9>1
-  Part9            : Bb3@1>3 C4@4>4 D4@8>2
-@18 [Eb]
-  Acoustic Bass    : Eb2@1>9
-  Piano            : Eb2@1>8
-  Piano#2          : G3+Bb3+Eb4@1>8
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3@9>1
-  Part9            : G3@1>9
-@19 [Eb | Cm7]
-  Acoustic Bass    : Eb2@1>3 D2@4>1 C2@7>1
-  Piano            : Eb2@1>3 D2@4>2 C2@7>2
-  Piano#2          : Bb3+Eb4+G4@1>3 Bb3+F4@4>2 C4+Eb4@7>2
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>2 G3@6>3 Bb3+Eb4@7>2 G3@9>1
-  Part9            : D4@7>2 F4@9>1
-@20 [Bb]
-  Acoustic Bass    : Bb1@1>8 Bb1@9>1
-  Piano            : Bb1@1>9
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>5 Bb3+D4@7>2 F3@9>1
-  Electric Guitar#2: F4+Bb4+D5@7>1
-  Part7            : F4+Bb4@1>9
-  Part9            : F4@1>3 Bb3@4>4 Bb3@8>1 Bb3@9>1
-@21 [D7]
-  Acoustic Bass    : D2@1>7 D2@9>1
-  Piano            : D2@1>9
-  Piano#2          : F#3+A3+C4+D4@1>9
-  Acoustic Guitar  : F#3+A3+D4@1>3 F#3+A3+D4@4>3 F#3+A3+D4@7>2 F#3@9>1
-  Electric Guitar#2: F#4+A4+D5@7>1
-  Part7            : F#4+C5@1>9
-  Part9            : F#4@1>2 C4@3>2 Bb3@5>1 Bb3@6>2 Bb3@8>2
-@22 [Gm]
-  Acoustic Bass    : G2@1>8 D2@9>1
-  Piano            : G2@1>8 D2@9>1
-  Piano#2          : G3+Bb3+D4@1>9
-  Acoustic Guitar  : G3+Bb3+D4@1>3 G3+Bb3+D4@4>3 G3+Bb3+D4@7>2 G3@9>1
-  Electric Guitar#2: G4+Bb4+D5@7>1
-  Part7            : G4+D5@1>9
-  Part9            : C4@1>1 D4@2>1 C4@3>1 Bb3@4>5 Bb3@9>1
-@23 [Gm]
-  Acoustic Bass    : G2@1>2 D2@3>1 G2@4>1 D2@7>1
-  Piano            : G2@1>9
-  Piano#2          : G3+Bb3+D4@1>3 G3+Bb3+D4@4>3 G3+Bb3+D4@7>3
-  Acoustic Guitar  : G3+Bb3+D4@1>3 G3+Bb3+D4@4>2 G3@6>3 Bb3+D4@7>3 G3@9>1
-  Electric Guitar#2: G4+Bb4+D5@7>1
-  Part7            : G4+D5@1>9
-  Voice            : F3+D4@1>3 G3+Eb4@4>3 Bb3+F4@7>3
-  Part9            : Bb3@1>3 C4@4>3 D4@7>3
-@24 [F]
-  Acoustic Bass    : F2@1>7 F2@9>1
-  Piano            : F2@1>8 F2@9>1
-  Piano#2          : F3+A3+C4@1>6 F3+A3+C4@7>3
-  Acoustic Guitar  : F3+A3+C4@1>2 F3@3>3 A3+C4@4>2 F3@6>3 A3+C4@7>2 F3@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : F4+C5@1>9
-  Voice            : A3+F4@1>9
-  Part9            : C4@1>7 D4@8>1 C4@9>1
-@25 [F7]
-  Acoustic Bass    : Eb2@1>7 Eb2@9>1
-  Piano            : Eb2@1>6 Eb2@9>1
-  Piano#2          : Eb3+A3+C4@1>4 Eb3+A3+C4@7>3
-  Acoustic Guitar  : F3+A3+C4@1>2 F3@3>3 A3+C4@4>2 F3@6>3 A3+C4@7>2 F3@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : F4+C5@1>9
-  Voice            : A3+F4@1>9
-  Part9            : D4@1>1 F4@2>8
-@26 [Bb]
-  Acoustic Bass    : D2@1>7 D2@9>1
-  Piano            : D2@1>7 D2@9>1
-  Piano#2          : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>3
-  Acoustic Guitar  : F3+Bb3+D4@1>2 F3@3>3 Bb3+D4@4>2 F3@6>3 Bb3+D4@7>2 F3@9>1
-  Electric Guitar#2: F4+Bb4+D5@7>1
-  Part7            : F4+D5@1>9
-  Voice            : Bb3+F4@1>9
-  Part9            : F4@6>1 F4@7>2 F4@9>1
-@27 [F]
-  Acoustic Bass    : C2@1>6 C2@9>1
-  Piano            : C2@1>9
-  Piano#2          : F3+A3+C4@1>3 F3+A3+C4@4>3 F3+A3+C4@7>3
-  Acoustic Guitar  : F3+A3+C4@1>2 F3@3>3 A3+C4@4>2 F3@6>3 A3+C4@7>2 F3@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : F4+C5@1>9
-  Voice            : A3+F4@1>9
-  Part9            : G4@1>3 F4@4>3 G4@7>2 F4@9>1
-@28 [Bb]
-  Acoustic Bass    : Bb1@1>8
-  Piano            : Bb1@1>8
-  Piano#2          : F3+Bb3+D4@1>8
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3+Bb3+D4@9>1
-  Part7            : F4+Bb4+D5@1>9
-  Part9            : F4@1>3 Bb3@4>2
-@29 [Bb] (grid:4)
-  Acoustic Bass    : Bb1@1>1 C2@2>1 D2@3>1
-  Piano            : Bb1@1>1 C2@2>1 D2@3>1
-  Piano#2          : F3+Bb3+D4@1>3
-  Acoustic Guitar  : F3+Bb3+D4@1>1 F3+Bb3+D4@2>1 F3+Bb3+D4@3>1
-  Electric Guitar#2: D4+F4+Bb4@1>1
-  Voice            : Bb3+F4@1>1 C4+F4@2>1 D4+F4@3>1
-  Part9            : D4@1>1 D4@2>1 C4@3>1
-@30 [Eb]
-  Acoustic Bass    : Eb2@1>8 Bb1@9>1
-  Piano            : Eb2@1>8
-  Piano#2          : G3+Bb3+Eb4@1>8
-  Acoustic Guitar  : F3+G3+Bb3+D4+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Part7            : F4+Bb4+D5@1>9
-  Voice            : C4+F4@1>1 Bb3+Eb4@2>1 Bb3+Eb4@3>6
-  Part9            : C4@1>1 Bb3@2>1 Bb3@3>5 Bb3@8>1 Bb3@9>1
-@31 [Eb] (grid:16)
-  Acoustic Bass    : Eb2@1>4 D2@5>1 C2@9>1
-  Piano            : Eb2@1>4 D2@5>1 C2@9>2
-  Piano#2          : Bb3+Eb4+G4@1>4 Bb3+F4@5>1 Bb3+Eb4@9>2
-  Acoustic Guitar  : G3+Bb3+Eb4@1>4 G3+Bb3+Eb4@5>4 G3+Bb3+Eb4@9>3 G3+Bb3+Eb4@12>1
-  Electric Guitar#2: G4+Bb4+Eb5@1>1
-  Part7            : G4+Bb4+Eb5@1>12
-  Part9            : G4@1>1 F4@2>1 F4@4>7 C4@11>2
-@32 [Bb]
-  Acoustic Bass    : Bb1@1>8
-  Piano            : Bb1@1>8
-  Piano#2          : F3+Bb3+D4@1>8
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3+Bb3@9>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Part9            : D4@1>1 C4@2>1 Bb3@3>7
-@33 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3+Bb3+D4@9>1
-  Electric Guitar#2: F4+Bb4+D5@1>1
-  Part7            : F4+Bb4+D5@1>9
-  Voice            : Bb3+F4@1>3 C4+F4@4>3 D4+F4@7>3
-  Part9            : D4@1>3 D4@4>4 D4@9>2
-@34 [Eb]
-  Acoustic Bass    : Eb2@1>8 Bb1@9>1
-  Piano            : Eb2@1>8
-  Piano#2          : Eb3+G3+Bb3@1>8
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Part7            : F4+Bb4+D5@1>9
-  Voice            : C4+F4@1>1 Bb3+Eb4@2>1 Bb3+Eb4@3>6
-  Part9            : C4@1>1 Bb3@2>1 Bb3@3>5 Bb3@8>1 Bb3@9>1
-@35 [Eb]
-  Acoustic Bass    : Eb2@1>5 G1@6>1 Bb1@7>3
-  Piano            : Eb2@1>9
-  Piano#2          : Bb3+Eb4+G4@1>6 F4@4>3 Bb3+F4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3@9>1
-  Electric Guitar  : Eb4+C5@1>2 Eb4+C5@3>1 D4+Bb4@4>1 Eb4+G4@7>3
-  Electric Guitar#2: G4+Bb4+Eb5@1>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Part9            : G4@1>2 F4@3>2 F4@4>3 G4@7>2 F4@9>1
-@36 [Cm] (grid:6t)
-  Acoustic Bass    : C2@1>4
-  Piano            : C2@1>4
-  Piano#2          : G3+C4+Eb4@1>4
-  Acoustic Guitar  : G3+C4+Eb4@1>2 G3+C4+Eb4@3>2 G3+C4+Eb4@4>1
-  Electric Guitar  : C4+Eb4@1>3
-  Part7            : G4+Bb4+Eb5@1>4
-  Voice            : C4+G4@1>4
-  Part9            : D4@1>4 Eb4@4>1
-@37 [Cm]
-  Acoustic Bass    : C2@1>6 C2@7>3
-  Piano            : C2@1>6 C2@7>3
-  Piano#2          : G3+C4+Eb4@1>9
-  Acoustic Guitar  : G3+C4+Eb4@1>3 G3+C4+Eb4@4>3 G3+C4+Eb4@7>2 G3+C4+Eb4@9>1
-  Electric Guitar#2: G4+C5+Eb5@1>1
-  Part7            : G4+C5+Eb5@1>9
-  Voice            : C4+G4@1>9
-  Part9            : C4+D4@1>9
-@38 [Eb]
-  Acoustic Bass    : Eb2@1>8 Bb1@9>1
-  Piano            : Eb2@1>8
-  Piano#2          : G3+Bb3+Eb4@1>8 G3@9>1
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>2 G3+Bb3+Eb4@6>1 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Part7            : G4+C5+Eb5@1>9
-  Voice            : Bb3+G4@1>9
-  Part9            : Bb3@7>1 Bb3@8>2
-@39 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb1@7>3
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Electric Guitar#2: G4+Bb4+Eb5@1>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Voice            : C4+G4@9>1
-  Part9            : G4@1>2 F4@3>1 F4@4>2 D4@9>1
-@40 [F7]
-  Acoustic Bass    : F2@1>7 F2@9>1
-  Piano            : F2@1>6 F2@7>2
-  Piano#2          : Bb3+C4+Eb4+G4@1>3 A3+C4+Eb4+F4@4>5 A3@9>1
-  Acoustic Guitar  : Bb3+C4+F4@1>3 A3+C4+F4@4>3 A3+C4+F4@7>2 A3+C4+F4@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Voice            : D4+Bb4@1>2 C4+A4@3>1 C4+A4@4>4 C4+G4@9>1
-  Part9            : G4@1>2 F4@3>1 F4@4>3 D4@9>1
-@41 [F]
-  Acoustic Bass    : F2@1>4 F2@7>1 G2@8>1 C2@9>1
-  Piano            : F2@1>6 F2@7>2
-  Piano#2          : Bb3+C4+Eb4+G4@1>3 A3+C4+Eb4+F4@4>4
-  Acoustic Guitar  : Bb3+C4+F4@1>3 A3+C4+F4@4>3 A3+C4+F4@7>2 A3+C4+F4@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : F4+C5@1>9
-  Voice            : D4+Bb4@1>2 C4+A4@3>1 C4+A4@4>4 C4+A4@9>1
-  Part9            : G4@1>2 F4@3>1 F4@4>3 D4@9>1
-@42 [Bb | F] (grid:6t)
-  Acoustic Bass    : F2@1>4
-  Piano            : F2@1>3
-  Piano#2          : Bb3+C4+Eb4+G4@1>3 Bb3+C4+Eb4+G4@4>2
-  Acoustic Guitar  : Bb3+C4+F4@1>2 Bb3+C4+F4@3>2 Bb3+C4+F4@4>1
-  Electric Guitar#2: F4+A4+C5@4>1
-  Part7            : F4+C5@1>4
-  Voice            : Bb3+Bb4@1>4 C4+C5@4>1
-  Part9            : G4@1>4 A4@4>1
-@43 [F]
-  Acoustic Bass    : F2@1>6 Bb1@7>3
-  Piano            : F2@1>6 F2@7>3
-  Piano#2          : A3+C4+Eb4+F4@1>6 A3+C4+Eb4+F4@7>3
-  Acoustic Guitar  : A3+Bb3+C4+F4@1>3 A3+C4+F4@4>2 A3+C4+F4@6>1 A3+C4+F4@7>2 A3+C4+F4@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : F4+C5@1>9
-  Voice            : A3+Bb3+A4+Bb4@1>9
-  Part9            : F4+G4@1>8 D4@9>1
-@44 [Eb]
-  Acoustic Bass    : Eb2@1>8 A1@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : Bb3+Eb4+G4@1>9
-  Acoustic Guitar  : Bb3+Eb4+G4@1>3 Bb3+Eb4+G4@4>2 Bb3@6>3 Eb4+G4@7>2 Bb3@9>1
-  Part7            : F4+A4+C5@1>9
-  Voice            : Eb4+Bb4@1>1 Eb4+Bb4@2>5 Eb4+Bb4@7>2 Eb4+Bb4@9>1
-  Part9            : G4@1>2 G4@3>4 G4@7>2 F4@9>1
-@45 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>2 Bb1@9>1
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : Bb3+D4+F4@1>9
-  Acoustic Guitar  : Bb3+D4+F4@1>3 Bb3+D4+F4@4>2 Bb3@6>3 D4+F4@7>2 Bb3@9>1
-  Part7            : Bb4+Eb5+G5@1>9
-  Voice            : D4+G4@1>2 D4+F4@3>7
-  Part9            : F4@1>1 D4@2>1 C4@3>1 Bb3@4>5 Bb3@9>1
-@46 [Eb]
-  Acoustic Bass    : Eb2@1>8 A1@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : Bb3+Eb4+G4@1>9
-  Acoustic Guitar  : Bb3+Eb4+G4@1>3 Bb3+Eb4+G4@4>2 Bb3@6>3 Eb4+G4@7>2 Bb3@9>1
-  Part7            : Bb4+D5@1>3 C5+Eb5@4>3 D5+F5@7>3
-  Voice            : Eb4+C5@1>3 Eb4+Bb4@4>4 Eb4+Bb4@9>1
-  Part9            : G4@1>3 F4@4>4 F4@9>1
-@47 [Bb]
-  Acoustic Bass    : Bb1@1>4 C2@4>3 D2@7>2 Bb1@9>1
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : Bb3+D4+F4@1>9
-  Acoustic Guitar  : Bb3+D4+F4@1>3 Bb3+D4+F4@4>2 Bb3@6>3 D4+F4@7>2 Bb3@9>1
-  Part7            : Bb4+Eb5+G5@1>9
-  Voice            : D4+F4@1>3
-  Part9            : D4@1>1 C4@2>1 Bb3@3>1 Bb3@9>1
-@48 [Eb7 | Dm7]
-  Acoustic Bass    : Eb2@1>2
-  Piano            : Eb2@1>1
-  Piano#2          : G3+Bb3+Eb4@1>1
-  Acoustic Guitar  : Bb3+Eb4+G4@1>1
-  Part7            : Bb4+D5@1>3 C5+Eb5@4>3 D5+F5@7>3
-  Part9            : G4@1>1 Bb4@2>1 G4@7>2 F4@9>1
-@49 [F]
-  Acoustic Bass    : F2@1>9
-  Piano#2          : A3+C4+F4@1>9
-  Part7            : G4+Bb4+Eb5@1>2
-  Part9            : F4@1>1 D4@2>1 D4@7>1 C4@8>1 Bb3@9>1
-@50 [Bb]
-  Acoustic Bass    : Bb1@1>9
-  Piano            : Bb1@1>9
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : Bb3+D4+F4@1>3 Bb3+D4+F4@4>2 Bb3+D4+F4@6>1 Bb3+D4+F4@7>2 Bb3+D4+F4@9>1
-  Part9            : Bb3@1>9
-@51 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>3
-  Acoustic Guitar  : Bb3+D4+F4@1>1 Bb3+D4+F4@2>1 Bb3+D4+F4@3>1 Bb3+D4+F4@4>1 Bb3+D4+F4@5>1 Bb3+D4+F4@6>1 Bb3+D4+F4@7>1 Bb3+D4+F4@8>1 Bb3+D4+F4@9>1
-  Part7            : D4@1>9
-@52 [Eb]
-  Acoustic Bass    : Eb2@1>7 Bb1@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@1>9
-  Acoustic Guitar  : Bb3+Eb4+G4@1>3 Bb3+Eb4+G4@4>3 Bb3+Eb4+G4@7>2 Bb3+Eb4+G4@9>1
-  Part7            : D4@1>3 Eb4@4>3 F4@7>3
-@53 [Eb7] (grid:8)
-  Acoustic Bass    : Eb2@1>2 D2@3>2 C2@5>2
-  Piano            : Eb2@1>2 D2@3>2 C2@5>2
-  Piano#2          : G3+Bb3+Eb4@1>6 D4@3>2 C4@5>2
-  Acoustic Guitar  : Bb3+Eb4+G4@1>2 Bb3+Eb4+G4@3>2 Bb3+Eb4+G4@5>1 Bb3+Eb4+G4@6>1
-  Electric Guitar  : A4+F5@1>1 A4+F5@2>1 G4+Eb5@3>1 Eb4+Bb4@5>2
-  Part7            : Bb3@1>6
-@54 [Bb]
-  Acoustic Bass    : Bb1@1>9
-  Piano            : Bb1@1>9
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : Bb3+D4+F4@1>3 Bb3+D4+F4@4>3 Bb3+D4+F4@7>2 Bb3+D4+F4@9>1
-  Electric Guitar  : D4+Bb4@1>9
-  Part7            : G4@1>3 F4@4>3 Eb4@7>3
-@55 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>1 D2@7>1
-  Piano            : Bb1@1>6 D2@7>3
-  Piano#2          : F3+Bb3+D4@1>3 F3+Bb3+D4@4>6 Bb3@7>3
-  Acoustic Guitar  : Bb3+D4+F4@1>3 Bb3+D4+F4@4>3 Bb3+D4+F4@7>2 Bb3+D4+F4@9>1
-  Electric Guitar  : F4@1>3 Eb4@4>3 D4@7>3
-  Part7            : D4@1>9
-@56 [F]
-  Acoustic Bass    : F2@1>9
-  Piano            : F2@1>9
-  Piano#2          : F3+A3+C4@1>9
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>3 A3+C4+F4@7>2 A3+C4+F4@9>1
-  Electric Guitar  : C4@1>9
-  Electric Guitar#2: A4+C5+F5@7>1
-  Part7            : F4@1>3 Eb4@4>3 D4@7>3
-@57 [Eb] (grid:6t)
-  Acoustic Bass    : Eb2@1>4
-  Piano            : Eb2@1>4
-  Piano#2          : Eb3+G3+Bb3@1>4
-  Acoustic Guitar  : G3+Bb3+Eb4@1>2 G3+Bb3+Eb4@3>2 G3+Bb3+Eb4@4>1
-  Electric Guitar  : Bb3@1>3
-  Electric Guitar#2: G4+Bb4+Eb5@4>1
-  Part7            : C4@1>4
-  Part9            : D4@4>1
-@58 [Bb] (grid:8)
-  Acoustic Bass    : G1+Bb1@1>5
-  Piano            : Bb1@1>6
-  Piano#2          : F3+Bb3+D4@1>6
-  Acoustic Guitar  : F3+G3+Bb3+D4+Eb4+F4@1>6
-  Part7            : Bb3@1>6
-  Part9            : F4@1>4 D4@5>1 Bb3@6>1
-@59 [Bb] (grid:8)
-  Acoustic Bass    : Bb1@1>2 C2@3>2 D2@5>2
-  Piano            : Bb1@1>2 C2@3>2 D2@5>2
-  Piano#2          : F3+Bb3+D4@1>6
-  Acoustic Guitar  : F3+Bb3+D4+F4@1>4
-  Part7            : Bb3+Bb4@1>5
-  Part9            : Bb3@1>4 C4@5>1 D4@6>1
-@60 [Eb] (grid:6t)
-  Acoustic Bass    : Eb2@1>4
-  Piano            : Eb2@1>4
-  Piano#2          : Eb3+G3+Bb3@1>4
-  Acoustic Guitar  : G3+Bb3+Eb4+G4@1>4
-  Part9            : C4@1>1 Bb3@2>3
-@61 [Eb | Gm7]
-  Acoustic Bass    : Eb2@1>3 D2@4>1 C2@7>1
-  Piano            : Eb2@1>3 D2@4>3 C2@7>2
-  Piano#2          : Bb3+Eb4+G4@1>3 Bb3+D4+F4@4>1 Bb3+Eb4@7>2
-  Acoustic Guitar  : G3+Bb3+Eb4+G4@1>6 F3+Bb3+D4@9>1
-  Part9            : D4@7>2 F4@9>1
-@62 [Bb] (grid:6t)
-  Acoustic Bass    : Bb1@1>4
-  Piano            : Bb1@1>4
-  Piano#2          : F3+Bb3+D4@1>4
-  Acoustic Guitar  : F3+Bb3+D4+F4@1>4
-  Part9            : F4@1>3 D4@3>2
-@63 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : F3+Bb3+D4+F4@1>6 G3+Bb3+Eb4@9>1
-  Part9            : Bb3@1>5 C4@6>2 D4@8>2
-@64 [Eb] (grid:16)
-  Acoustic Bass    : Eb2@1>9 Bb1@12>1
-  Piano            : Eb2@1>10
-  Piano#2          : G3+Bb3+Eb4@1>10
-  Acoustic Guitar  : G3+Bb3+Eb4@1>12 G4@2>11
-  Part9            : G3@1>12
-@65 [Eb | Cm]
-  Acoustic Bass    : Eb2@1>3 D2@4>1 C2@7>1
-  Piano            : Eb2@1>3 D2@4>2 C2@7>2
-  Piano#2          : Bb3+Eb4+G4@1>3 Bb3+F4@4>2 C4+Eb4@7>2
-  Acoustic Guitar  : G3+Bb3+Eb4+G4@1>4
-  Part9            : G4@7>2 F4@9>1
-@66 [Bb] (grid:24t)
-  Acoustic Bass    : Bb1@1>16 Bb1@17>2
-  Piano            : Bb1@1>18
-  Piano#2          : F3+Bb3+D4@1>18
-  Acoustic Guitar  : Bb3+D4+F4@1>12 Bb3+D4+F4@13>4 Bb3@17>2
-  Electric Guitar#2: F4+Bb4+D5@13>2
-  Voice            : Bb3+D4+F4@1>18
-  Part9            : F4@1>12 Bb3@13>3 Bb3@16>3
-@67 [D7] (grid:6t)
-  Acoustic Bass    : D2@1>4
-  Piano            : D2@1>4
-  Piano#2          : F#3+A3+C4+D4@1>4
-  Acoustic Guitar  : C4+D4+F#4@1>3 D4+F#4@4>2
-  Electric Guitar#2: F#4+A4+D5@4>1
-  Part7            : F4+Bb4@1>4
-  Voice            : A3+D4+F#4@1>4
-  Part9            : C4@1>1 C4@2>2
-@68 [Gm]
-  Acoustic Bass    : D2+G2@1>8 D2@9>1
-  Piano            : G2@1>8 D2@9>1
-  Piano#2          : G3+Bb3+D4@1>9
-  Acoustic Guitar  : Bb3+C4+D4+G4@1>8 Bb3@9>1
-  Electric Guitar#2: G4+Bb4+D5@7>1
-  Part7            : F#4+C5@1>9
-  Voice            : Bb3+D4+G4@1>9
-  Part9            : Bb3+C4@1>1 D4@2>1 C4@3>1 Bb3@4>5 Bb3@9>1
-@69 [Gm]
-  Acoustic Bass    : G2@1>2 D2@3>1 G2@4>1 D2@7>1 D2@9>1
-  Piano            : G2@1>9
-  Piano#2          : G3+Bb3+D4@1>3 G3+Bb3+D4@4>3 G3+Bb3+D4@7>3
-  Acoustic Guitar  : Bb3+D4+G4@1>8 Bb3@9>1
-  Electric Guitar#2: G4+Bb4+D5@7>1
-  Part7            : G4+D5@1>9
-  Voice            : F3+D4@1>3 G3+Eb4@4>3 Bb3+F4@7>3
-  Part9            : Bb3@1>3 C4@4>3 D4@7>3
-@70 [F] (grid:6t)
-  Acoustic Bass    : F2@1>4
-  Piano            : F2@1>4
-  Piano#2          : F3+A3+C4@1>3 F3+A3+C4@4>2
-  Acoustic Guitar  : A3+C4+F4@1>2 A3+C4+F4@3>2 A3+C4+F4@4>1
-  Electric Guitar#2: F4+A4+C5@4>1
-  Part7            : G4+D5@1>4
-  Voice            : A3+F4@1>4
-  Part9            : C4@1>4
-@71 [Adim]
-  Acoustic Bass    : Eb2+F2@1>7 Eb2@9>1
-  Piano            : Eb2+F2@1>6 Eb2@9>1
-  Piano#2          : Eb3+A3+C4@1>4 Eb3+A3+C4@7>3
-  Acoustic Guitar  : A3+C4+Eb4@1>5 C4+Eb4@4>2 A3@6>3 C4+Eb4@7>2 A3@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : F4+C5@1>9
-@72 [Bb]
-  Acoustic Bass    : D2@1>7 D2@9>1
-  Piano            : D2@1>7 D2@9>1
-  Piano#2          : F3+Bb3+D4@1>6 F3+Bb3+D4@7>3
-  Acoustic Guitar  : Bb3+D4@1>3 F3+Bb3+D4@4>2 F3@6>1 Bb3+D4@7>2 F3@9>1
-  Electric Guitar#2: F4+Bb4+D5@7>1
-  Part7            : F4+C5@1>9
-  Part9            : F4@6>1 F4@7>2 F4@9>1
-@73 [F]
-  Acoustic Bass    : C2@1>6 C2@9>1
-  Piano            : C2@1>9
-  Piano#2          : F3+A3+C4@1>6 F3+A3+C4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>1 A3+C4+F4@2>1 A3+C4+F4@3>1 A3+C4+F4@4>1 A3+C4+F4@5>1 A3+C4+F4@6>1 A3+C4+F4@7>1 A3+C4+F4@8>1 A3+C4+F4@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : F4+D5@1>9
-  Part9            : G4@1>2 F4@3>3 G4@7>2 F4@9>1
-@74 [Bb]
-  Acoustic Bass    : Bb1@1>8
-  Piano            : Bb1@1>8
-  Piano#2          : F3+Bb3+D4@1>8
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3+Bb3+D4@9>1
-  Part7            : F4+C5@1>9
-  Part9            : F4@1>3 Bb3@4>2
-@75 [Bb] (grid:4)
-  Acoustic Bass    : Bb1@1>1 C2@2>1 D2@3>1
-  Piano            : Bb1@1>1 C2@2>1 D2@3>1
-  Piano#2          : F3+Bb3+D4@1>3
-  Acoustic Guitar  : F3+Bb3+D4@1>1 F3+Bb3+D4@2>1 F3+Bb3+D4@3>1
-  Electric Guitar#2: F4+Bb4+D5@1>1
-  Part7            : F4+Bb4+D5@1>3
-  Voice            : Bb3+F4@1>1 C4+F4@2>1 D4+F4@3>1
-  Part9            : D4@1>1 D4@2>1 C4@3>1
-@76 [Eb]
-  Acoustic Bass    : Eb2@1>8 Bb1@9>1
-  Piano            : Eb2@1>8
-  Piano#2          : G3+Bb3+Eb4@1>8
-  Acoustic Guitar  : F3+G3+Bb3+D4+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Voice            : C4+F4@1>1 Bb3+Eb4@2>1 Bb3+Eb4@3>6
-  Part9            : C4@1>1 Bb3@2>1 Bb3@3>5 Bb3@8>1 Bb3@9>1
-@77 [Eb7 | Bb] (grid:16)
-  Acoustic Bass    : Eb2@1>4 D2@5>4 C2@9>4
-  Piano            : Eb2@1>4 D2@5>1 C2@9>2
-  Piano#2          : Bb3+Eb4+G4@1>4 Bb3+F4@5>1 Bb3+Eb4@9>2
-  Acoustic Guitar  : G3+Bb3+Eb4@1>4 G3+Bb3+Eb4@5>4 G3+Bb3+Eb4@9>3 G3+Bb3+Eb4@12>1
-  Electric Guitar#2: F4+Bb4+D5@1>1
-  Part7            : F4+Bb4+D5@1>12
-  Part9            : G4@1>1 F4@2>1 F4@4>7 C4@11>2
-@78 [Bb]
-  Acoustic Bass    : Bb1@1>8
-  Piano            : Bb1@1>8
-  Piano#2          : F3+Bb3+D4@1>8
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3+Bb3@9>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Part9            : D4@1>1 C4@2>1 Bb3@3>7
-@79 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : F3+Bb3+D4@1>9
-  Acoustic Guitar  : F3+Bb3+D4@1>3 F3+Bb3+D4@4>3 F3+Bb3+D4@7>2 F3+Bb3+D4@9>1
-  Electric Guitar#2: G4+Bb4+Eb5@1>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Voice            : Bb3+F4@1>3 C4+F4@4>3 D4+F4@7>3
-  Part9            : D4@1>3 D4@4>4 D4@9>2
-@80 [Eb]
-  Acoustic Bass    : Eb2@1>8 Bb1@9>1
-  Piano            : Eb2@1>8
-  Piano#2          : Eb3+G3+Bb3@1>8
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Part7            : F4+Bb4+D5@1>9
-  Voice            : C4+F4@1>1 Bb3+Eb4@2>1 Bb3+Eb4@3>6
-  Part9            : C4@1>1 Bb3@2>1 Bb3@3>5 Bb3@8>1 Bb3@9>1
-@81 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb1@7>3
-  Piano            : Eb2@1>9
-  Piano#2          : Bb3+Eb4+G4@1>6 F4@4>3 Bb3+F4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3@9>1
-  Electric Guitar  : Eb4+C5@1>2 Eb4+C5@3>1 D4+Bb4@4>1 Eb4+G4@7>3
-  Electric Guitar#2: G4+Bb4+Eb5@1>1
-  Part7            : F4+Bb4+D5@1>9
-  Part9            : G4@1>2 F4@3>2 F4@4>3 G4@7>2 F4@9>1
-@82 [Cm] (grid:6t)
-  Acoustic Bass    : C2@1>4
-  Piano            : C2@1>4
-  Piano#2          : G3+C4+Eb4@1>4
-  Acoustic Guitar  : G3+C4+Eb4@1>2 G3+C4+Eb4@3>2 G3+C4+Eb4@4>1
-  Electric Guitar  : C4+Eb4@1>3
-  Part7            : G4+Bb4+Eb5@1>4
-  Voice            : C4+G4@1>4
-  Part9            : D4@1>3
-@83 [Cm]
-  Acoustic Bass    : C2@1>6 C2@9>1
-  Piano            : C2@1>6 C2@7>3
-  Piano#2          : G3+C4+Eb4@1>9
-  Acoustic Guitar  : G3+C4+Eb4@1>3 G3+C4+Eb4@4>3 G3+C4+Eb4@7>2 G3+C4+Eb4@9>1
-  Electric Guitar#2: G4+C5+Eb5@1>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Voice            : C4+G4@1>9
-@84 [Eb]
-  Acoustic Bass    : Eb2@1>8 Bb1@9>1
-  Piano            : Eb2@1>8
-  Piano#2          : G3+Bb3+Eb4@1>8 G3@9>1
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>2 G3+Bb3+Eb4@6>1 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Part7            : G4+C5+Eb5@1>9
-  Voice            : Bb3+G4@1>9
-  Part9            : Bb3@7>1 Bb3@8>2
-@85 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb1@7>3
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>2 G3+Bb3+Eb4@9>1
-  Electric Guitar#2: G4+Bb4+Eb5@1>1
-  Part7            : G4+C5+Eb5@1>9
-  Voice            : C4+G4@9>1
-  Part9            : G4@1>2 F4@3>1 F4@4>2 D4@9>1
-@86 [F7]
-  Acoustic Bass    : F2@1>7 F2@9>1
-  Piano            : F2@1>6 F2@7>2
-  Piano#2          : Bb3+C4+Eb4+G4@1>3 A3+C4+Eb4+F4@4>5 A3@9>1
-  Acoustic Guitar  : Bb3+C4+F4@1>3 A3+C4+F4@4>3 A3+C4+F4@7>2 A3+C4+F4@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Voice            : D4+Bb4@1>2 C4+A4@3>1 C4+A4@4>4 C4+G4@9>1
-  Part9            : G4@1>2 F4@3>1 F4@4>3 D4@9>1
-@87 [F7]
-  Acoustic Bass    : F2@1>4 F2@7>1 G2@8>1 C2@9>1
-  Piano            : F2@1>6 F2@7>2
-  Piano#2          : Bb3+C4+Eb4+G4@1>3 A3+C4+Eb4+F4@4>4
-  Acoustic Guitar  : Bb3+C4+F4@1>3 A3+C4+F4@4>3 A3+C4+F4@7>2 A3+C4+F4@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : G4+Bb4+Eb5@1>9
-  Voice            : D4+Bb4@1>2 C4+A4@3>1 C4+A4@4>4 C4+A4@9>1
-  Part9            : G4@1>2 F4@3>1 F4@4>3 D4@9>1
-@88 [Bb | F] (grid:6t)
-  Acoustic Bass    : F2@1>4
-  Piano            : F2@1>3
-  Piano#2          : Bb3+C4+Eb4+G4@1>3 Bb3+C4+Eb4+G4@4>2
-  Acoustic Guitar  : Bb3+C4+F4@1>2 Bb3+C4+F4@3>2 Bb3+C4+F4@4>1
-  Electric Guitar#2: F4+A4+C5@4>1
-  Part7            : F4+C5@1>4
-  Voice            : Bb3+Bb4@1>4 C4+C5@4>1
-  Part9            : G4@1>4 A4@4>1
-@89 [F]
-  Acoustic Bass    : F2@1>6 Bb1@7>3
-  Piano            : F2@1>6 F2@7>3
-  Piano#2          : A3+C4+Eb4+F4@1>6 A3+C4+Eb4+F4@7>3
-  Acoustic Guitar  : A3+Bb3+C4+F4@1>3 A3+C4+F4@4>2 A3+C4+F4@6>1 A3+C4+F4@7>2 A3+C4+F4@9>1
-  Electric Guitar#2: F4+A4+C5@7>1
-  Part7            : F4+C5@1>9
-  Voice            : A3+Bb3+A4+Bb4@1>9
-  Part9            : F4+G4@1>8 D4@9>1
-@90 [Eb]
-  Acoustic Bass    : Eb2@1>8 A1@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : Bb3+Eb4+G4@1>9
-  Acoustic Guitar  : Bb3+Eb4+G4@1>3 Bb3+Eb4+G4@4>2 Bb3@6>3 Eb4+G4@7>2 Bb3@9>1
-  Part7            : F4+C5@1>9
-  Voice            : Eb4+Bb4@1>1 Eb4+Bb4@2>5 Eb4+Bb4@7>2 Eb4+Bb4@9>1
-  Part9            : G4@1>2 G4@3>4 G4@7>2 F4@9>1
-@91 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>2 Bb1@9>1
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : Bb3+D4+F4@1>9
-  Acoustic Guitar  : Bb3+D4+F4@1>3 Bb3+D4+F4@4>2 Bb3@6>3 D4+F4@7>2 Bb3@9>1
-  Part7            : F4+A4+C5@1>9
-  Voice            : D4+G4@1>2 D4+F4@3>7
-  Part9            : F4@1>1 D4@2>1 C4@3>1 Bb3@4>5 Bb3@9>1
-@92 [Eb]
-  Acoustic Bass    : Eb2@1>8 A1@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : Bb3+Eb4+G4@1>9
-  Acoustic Guitar  : Bb3+Eb4+G4@1>3 Bb3+Eb4+G4@4>2 Bb3@6>3 Eb4+G4@7>2 Bb3@9>1
-  Part7            : Bb4+Eb5+G5@1>9
-  Voice            : Eb4+C5@1>3 Eb4+Bb4@4>4 Eb4+Bb4@9>1
-  Part9            : G4@1>3 F4@4>4 F4@9>1
-@93 [Bb]
-  Acoustic Bass    : Bb1@1>4 C2@4>3 D2@7>2 Bb1@9>1
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : Bb3+D4+F4@1>9
-  Acoustic Guitar  : Bb3+D4+F4@1>3 Bb3+D4+F4@4>2 Bb3@6>3 D4+F4@7>2 Bb3@9>1
-  Part7            : Bb4+D5@1>3 C5+Eb5@4>3 D5+F5@7>3
-  Voice            : D4+F4@1>3
-  Part9            : D4@1>1 C4@2>1 Bb3@3>1 Bb3@9>1
-@94 [Eb] (grid:16)
-  Acoustic Bass    : Eb2@1>2
-  Piano            : Eb2@1>1
-  Piano#2          : G3+Bb3+Eb4@1>1
-  Acoustic Guitar  : Bb3+Eb4+G4@1>1
-  Part7            : Bb4+Eb5+G5@1>12
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@9>3 A4@11>1
-  Part9            : G4@1>1 Bb4@2>1 G4@9>3 F4@12>1
-@95 [F] (grid:16)
-  Acoustic Bass    : F2@1>12
-  Piano#2          : A3+C4+F4@1>12
-  Part7            : Bb4+D5@1>4 C5+Eb5@5>4 D5+F5@9>4
-  Voice            : A4@1>1 F4@2>1 F4@9>2 Eb4@11>1
-  Part9            : F4@1>1 D4@2>1 D4@9>1 C4@10>1 Bb3@12>1
-@96 [Gm]
-  Acoustic Bass    : G2@1>5 D2@6>1 G2@7>2 D2@9>1
-  Piano            : G2@1>4 G2@6>2 G2@9>1
-  Piano#2          : Bb3+D4+G4@1>3 Bb3+D4+G4@4>3 Bb3+D4+G4@7>3
-  Acoustic Guitar  : G3+Bb3+D4@1>3 G3+Bb3+D4@4>3 G3+Bb3+D4@7>3
-  Part7            : G4+Bb4+Eb5@1>2
-  Voice            : Eb4@1>9
-  Part9            : C4@1>9
-@97 [Gm | Bb]
-  Acoustic Bass    : G2@1>3 D2@4>3 F2@7>3
-  Piano            : G2@1>6 F2@7>3
-  Piano#2          : Bb3+D4+G4@1>3 Bb3+D4+G4@4>3 Bb3+D4+F4@7>3
-  Acoustic Guitar  : G3+Bb3+D4@1>2 G3@3>1 G3+Bb3+D4@4>3 G3+Bb3+D4@7>2 G3@9>1
-  Voice            : Eb4@1>2 F4@2>1 Eb4@3>1 D4@4>3
-  Part9            : C4@1>1 D4@2>1 C4@3>1 Bb3@4>6
-@98 [Eb]
-  Acoustic Bass    : Eb2@1>9
-  Piano            : Eb2@1>6 Eb2@7>3
-  Piano#2          : G3+Bb3+Eb4@1>6 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : Bb3+Eb4+G4@1>3 Bb3+Eb4+G4@4>2 Bb3@6>1 Bb3+Eb4+G4@7>3
-  Part7            : G4+Bb4+D5@1>9
-  Voice            : Bb4@1>2 Eb5@3>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
+@3 [Am]
+  PRG.CHANGE   : C5@1>1^104 B4@3>1^104 A4@5>1^104 B4@7>1^104
+  PRG.CHANGE#2 : A5@2>1^104 A5@4>1^104 A5@6>1^104 A5@8>1^104
+  PRG.CHANGE#4 : A2+A3+C4+E4@1>64^104
+  PRG.CHANGE#12: A4@1>12^104
+@4 [Am | Baug] (grid:64)
+  PRG.CHANGE   : C5@1>7^104 D5@17>7^104 C5@33>7^104 B4@49>7^104
+  PRG.CHANGE#2 : A5@9>7^104 A5@25>7^104 A5@41>7^104 G5@57>7^104
+  PRG.CHANGE#12: A4@33>7^104 B4@41>15^104 C5@57>7^104
+  DRUMS        : A#2@1>1^80 A#2@5>1^80 A#2@9>1^80 A#2@13>1^80 A#2@17>1^104 A#2@29>1^32
+@5 [G | Baug]
+  PRG.CHANGE   : D5@1>1^104 C5@3>1^104 B4@5>1^104 C5@7>1^104
+  PRG.CHANGE#2 : G5@2>1^104 G5@4>1^104 G5@6>1^104 G5@8>1^104
+  PRG.CHANGE#12: B4@1>2^104 C5@3>1^104 B4@4>3^104 A4@7>2^104
+@6 [G] (grid:64)
+  PRG.CHANGE   : D5@1>7^104 C5@17>7^104 B4@33>7^104 C5@49>7^104
+  PRG.CHANGE#2 : G5@9>7^104 G5@25>7^104 G5@41>7^104 D6@57>7^104
+  PRG.CHANGE#12: B4@1>7^104 G4@9>55^104
+  DRUMS        : A#2@1>1^80 A#2@5>1^80 A#2@9>1^80 A#2@13>1^80 A#2@17>1^104 A#2@29>1^32
+@7 [Dm]
+  PRG.CHANGE   : D5@1>1^104 E5@3>1^104 D5@5>1^104 E5@7>1^104
+  PRG.CHANGE#2 : D6@2>1^104 D6@4>1^104 D6@6>1^104 D6@8>1^104
+  PRG.CHANGE#12: F5@1>2^104 G5@3>1^104 F5@4>3^104 E5@7>2^104
+@8 [Dm] (grid:64)
+  PRG.CHANGE   : F5@1>7^104 G5@17>7^104 F5@33>7^104 E5@49>7^104
+  PRG.CHANGE#2 : D6@9>7^104 D6@25>7^104 D6@41>7^104 F6@57>7^104
+  PRG.CHANGE#12: D5@1>63^104
+  DRUMS        : A#2@1>1^80 A#2@5>1^80 A#2@9>1^80 A#2@13>1^80 A#2@17>1^104 A#2@29>1^32
+@9 [F]
+  PRG.CHANGE   : A5@1>1^104 G5@3>1^104 F5@5>1^104 G5@7>1^104
+  PRG.CHANGE#2 : F6@2>1^104 F6@4>1^104 F6@6>1^104 F6@8>1^104
+  PRG.CHANGE#12: F5@1>2^104 G5@3>1^104 F5@4>3^104 E5@7>2^104
+@10 [F] (grid:64)
+  PRG.CHANGE   : A5@1>7^104 G5@17>7^104 F5@33>7^104 A5@49>7^104
+  PRG.CHANGE#2 : F6@9>7^104 F6@25>7^104 F6@41>7^104 F6@57>7^104
+  PRG.CHANGE#12: C5@1>63^104
+  PRG.CHANGE#15: C3@1>63^104
+  DRUMS        : A#2@1>1^80 A#2@5>1^80 A#2@9>1^80 A#2@13>1^80 A#2@17>1^104 A#2@29>1^32 A2@33>1^56 A2@37>1^56 A2@41>1^56 A2@45>1^56 A2@49>1^80
+@11 [Am]
+  PRG.CHANGE   : C5@1>1^104 B4@3>1^104 A4@5>1^104 B4@7>1^104
+  PRG.CHANGE#2 : A5@2>1^104 A5@4>1^104 A5@6>1^104 A5@8>1^104
+  PRG.CHANGE#8 : C4+E4+A4@1>16^104
+  PRG.CHANGE#12: A5@1>12^104
+  PRG.CHANGE#15: A1@1>16^104
+  DRUMS        : C2+C#3@1>1^104
+  PRG.CHANGE#16: A5@1>12^104
+@12 [Am | Baug] (grid:16)
+  PRG.CHANGE   : C5@1>2^104 D5@5>2^104 C5@9>2^104 B4@13>2^104
+  PRG.CHANGE#2 : A5@3>2^104 A5@7>2^104 A5@11>2^104 G5@15>2^104
+  PRG.CHANGE#12: B5@9>6^104 C6@15>2^104
+  DRUMS        : C3@1>1^80 C3@2>1^56 C3@3>1^80 C3@4>1^56 C3@5>1^80 C3@6>1^56 C3@7>1^80 C3@8>1^56 A2@9>1^56 A2@10>1^56 A2@11>1^56 A2@12>1^56 F2@13>1^80
+  PRG.CHANGE#16: A5@9>2^104 B5@11>4^104 C6@15>2^104
+@13 [G]
+  PRG.CHANGE   : D5@1>1^104 C5@3>1^104 B4@5>1^104 C5@7>1^104
+  PRG.CHANGE#2 : G5@2>1^104 G5@4>1^104 G5@6>1^104 G5@8>1^104
+  PRG.CHANGE#8 : B3+D4+G4@1>16^104
+  PRG.CHANGE#12: B5@1>2^104 C6@3>1^104 B5@4>3^104 A5@7>2^104
+  PRG.CHANGE#15: B1@1>16^104
+  DRUMS        : C2+C#3@1>1^104
+  PRG.CHANGE#16: B5@1>2^104 C6@3>1^104 B5@4>3^104 A5@7>2^104
+@14 [G] (grid:16)
+  PRG.CHANGE   : D5@1>2^104 C5@5>2^104 B4@9>2^104 C5@13>2^104
+  PRG.CHANGE#2 : G5@3>2^104 G5@7>2^104 G5@11>2^104 D6@15>2^104
+  PRG.CHANGE#12: A5@1>4^104 G5@5>12^104
+  DRUMS        : C3@1>1^80 C3@2>1^56 C3@3>1^56 C3@5>1^80 A2@7>1^56 F2@11>1^56 F2@13>1^80
+  PRG.CHANGE#16: A5@1>1^104 B5@2>1^104 A5@4>1^104 G5@5>12^104
+@15 [Dm]
+  PRG.CHANGE   : F5@1>1^104 E5@3>1^104 D5@5>1^104 E5@7>1^104
+  PRG.CHANGE#2 : D6@2>1^104 D6@4>1^104 D6@6>1^104 D6@8>1^104
+  PRG.CHANGE#8 : D4+F4+A4@1>16^104
+  PRG.CHANGE#12: F6@1>2^104 G6@3>1^104 F6@4>3^104 E6@7>2^104
+  PRG.CHANGE#15: D2@1>16^104
+  DRUMS        : C2+C#3@1>1^104
+  PRG.CHANGE#16: F6@1>2^104 G6@3>1^104 F6@4>3^104 E6@7>2^104
+@16 [Dm]
+  PRG.CHANGE   : F5@1>1^104 G5@3>1^104 F5@5>1^104 E5@7>1^104
+  PRG.CHANGE#2 : D6@2>1^104 D6@4>1^104 D6@6>1^104 F6@8>1^104
+  PRG.CHANGE#12: D6@1>8^104
+  DRUMS        : F2@7>1^80 F2@8>1^56
+  PRG.CHANGE#16: D6@1>8^104
+@17 [F]
+  PRG.CHANGE   : A5@1>1^104 G5@3>1^104 F5@5>1^104 G5@7>1^104
+  PRG.CHANGE#2 : F6@2>1^104 F6@4>1^104 F6@6>1^104 F6@8>1^104
+  PRG.CHANGE#8 : C4+F4+A4@1>16^104
+  PRG.CHANGE#12: F6@1>2^104 G6@3>1^104 F6@4>3^104 F6@7>2^104
+  PRG.CHANGE#15: F2@1>8^104
+  DRUMS        : C2+C#3@1>1^104 D2+F2@3>1^56 D2+F2@4>1^56 D2+F2@5>1^56 D2+F2@6>1^80 D2+F2@7>1^80 D2+F2@8>1^80
+  PRG.CHANGE#16: F6@1>2^104 G6@3>1^104 F6@4>3^104 E6@7>2^104
+@18 [F] (grid:16)
+  PRG.CHANGE   : A5@1>2^104
+  PRG.CHANGE#12: C6@1>16^104
+  PRG.CHANGE#15: F2@1>2^104 F2@3>2^104 F2@5>2^104 F2@7>2^104 F2@9>2^104 F2@11>2^104 F2@13>2^104 F2@15>2^104
+  DRUMS        : D2+F2@1>1^80 D2+F2@3>1^104 D2+F2@5>1^104 D2@7>1^80 D2@8>1^80 D2@9>1^104 D2@10>1^80 D2@11>1^80 D2@12>1^80 C3@13>1^104 D2@14>1^80 D2@15>1^80 D2@16>1^80
+  PRG.CHANGE#16: C6@1>16^104
+@19 [C]
+  PRG.CHANGE   : G3+C4+E4@3>2^104 G3+C4+D4@5>2^104 G3+C4@7>2^104
+  PRG.CHANGE#3 : C2+C3@1>2^104 C2+C3@3>2^104 C2+C3@5>2^104 C2+C3@7>2^104
+  PRG.CHANGE#9 : G3+C4+E4@1>16^104
+  PRG.CHANGE#13: C3+G3+C4+E4@7>2^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@20 [C]
+  PRG.CHANGE   : G3+B3@1>2^104 G3+C4@3>1^104 G3+C4+D4@4>1^104 G3+C4@6>3^104
+  PRG.CHANGE#3 : C2+C3@1>2^104 C2+C3@3>2^104 C2+C3@5>2^104 C2+C3@7>2^104
+  PRG.CHANGE#13: C3+G3+C4+E4@7>2^104
+  PRG.CHANGE#14: B4@1>2^104 C5@3>1^104 D5@4>2^104 C5@6>3^104
+  PRG.CHANGE#15: C2@1>1^104 C2@3>1^104 C2@5>2^104 B1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@21 [Am]
+  PRG.CHANGE   : C4+E4+A4@3>2^104 C4+E4+A4@5>2^104 C4+E4+A4@7>2^104
+  PRG.CHANGE#3 : A1+A2@1>2^104 A1+A2@3>2^104 A1+A2@5>2^104 A1+A2@7>2^104
+  PRG.CHANGE#9 : A3+C4+E4@1>16^104
+  PRG.CHANGE#13: A2+E3+A3+C4@7>2^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: A1@1>1^104 A1@3>1^104 A1@5>1^104 A1@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@22 [Am]
+  PRG.CHANGE   : C4+E4+A4@4>1^104 C4+E4+A4@6>3^104
+  PRG.CHANGE#3 : A1+A2@1>2^104 A1+A2@3>2^104 A1+A2@5>2^104 A1+A2@7>2^104
+  PRG.CHANGE#13: A2+E3+A3+C4@7>2^104
+  PRG.CHANGE#14: B4@1>2^104 C5@3>1^104 D5@4>2^104 E5@6>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@3>1^104 A1@5>2^104 A1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@23 [Dm]
+  PRG.CHANGE   : F3+A3+D4@3>2^104 F3+A3+D4@5>2^104 F3+A3+D4@7>2^104
+  PRG.CHANGE#3 : D2+D3@1>2^104 D2+D3@3>2^104 D2+D3@5>2^104 D2+D3@7>2^104
+  PRG.CHANGE#9 : F3+A3+D4@1>16^104
+  PRG.CHANGE#13: D3+A3+D4+F4@7>2^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: D2@1>1^104 D2@3>1^104 D2@5>1^104 D2@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@24 [Bm7 | Dm]
+  PRG.CHANGE   : F3+B3@1>2^104 F3+A3+C4@3>1^104 F3+A3+D4@4>3^104
+  PRG.CHANGE#3 : D2+D3@1>2^104 D2+D3@3>2^104 D2+D3@5>2^104 D2+D3@7>2^104
+  PRG.CHANGE#13: D3+A3+D4+F4@7>2^104
+  PRG.CHANGE#14: B4@1>2^104 C5@3>1^104 D5@4>2^104 C5@6>3^104
+  PRG.CHANGE#15: D2@1>1^104 D2@3>1^104 D2@5>1^104 D2@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@25 [G]
+  PRG.CHANGE   : G3+D4+G4@4>5^104
+  PRG.CHANGE#3 : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  PRG.CHANGE#9 : G3+D4+G4@1>8^104
+  PRG.CHANGE#12: G2@1>3^104 G2@4>1^104 G2@5>2^104 F#2@7>1^104 G2@8>1^104
+  PRG.CHANGE#14: E5@1>3^104 D5@4>3^104
+  PRG.CHANGE#15: G1@1>1^104 G1@3>1^104 G1@5>1^104 F#1@7>1^104 G1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@26 [Ddim7]
+  PRG.CHANGE   : F3+B3+F4@4>3^104 F3+B3+D4@7>2^104
+  PRG.CHANGE#3 : G#1+G#2@1>2^104 G#1+G#2@3>2^104 G#1+G#2@5>2^104 G#1+G#2@7>2^104
+  PRG.CHANGE#9 : G#3+D4+G#4@1>8^104
+  PRG.CHANGE#12: G#2@1>3^104 G#2@4>3^104
+  PRG.CHANGE#14: F5@1>3^104 E5@4>3^104
+  PRG.CHANGE#15: G#1@1>1^104 G#1@3>1^104 G#1@5>1^104 G#1@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+F2@7>1^104 D2+F2@8>1^80
+@27 [C]
+  PRG.CHANGE   : G3+C4+E4@3>2^104 G3+C4+D4@5>2^104 G3+C4@7>2^104
+  PRG.CHANGE#3 : C2+C3@1>2^104 C2+C3@3>2^104 C2+C3@5>2^104 C2+C3@7>2^104
+  PRG.CHANGE#9 : G3+C4+E4@1>16^104
+  PRG.CHANGE#13: C3+G3+C4+E4@7>2^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@28 [C]
+  PRG.CHANGE   : G3+B3@1>2^104 G3+C4@3>1^104 G3+C4+D4@4>1^104 G3+C4@6>3^104
+  PRG.CHANGE#3 : C2+C3@1>2^104 C2+C3@3>2^104 C2+C3@5>2^104 C2+C3@7>2^104
+  PRG.CHANGE#13: C3+G3+C4+E4@7>2^104
+  PRG.CHANGE#14: B4@1>2^104 C5@3>1^104 D5@4>2^104 C5@6>3^104
+  PRG.CHANGE#15: C2@1>1^104 C2@3>1^104 C2@5>2^104 B1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@29 [Am]
+  PRG.CHANGE   : C4+E4+A4@3>2^104 C4+E4+A4@5>2^104 C4+E4+A4@7>2^104
+  PRG.CHANGE#3 : A1+A2@1>2^104 A1+A2@3>2^104 A1+A2@5>2^104 A1+A2@7>2^104
+  PRG.CHANGE#9 : A3+C4+E4@1>16^104
+  PRG.CHANGE#13: A2+E3+A3+C4@7>2^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: A1@1>1^104 A1@3>1^104 A1@5>1^104 A1@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@30 [Am]
+  PRG.CHANGE   : C4+E4+A4@4>1^104 C4+E4+A4@6>3^104
+  PRG.CHANGE#3 : A1+A2@1>2^104 A1+A2@3>2^104 A1+A2@5>2^104 A1+A2@7>2^104
+  PRG.CHANGE#13: A2+E3+A3+C4@7>2^104
+  PRG.CHANGE#14: B4@1>2^104 C5@3>1^104 D5@4>2^104 E5@6>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@3>1^104 A1@5>2^104 A1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@31 [Dm]
+  PRG.CHANGE   : F3+A3+D4@3>2^104 F3+A3+D4@5>2^104 F3+A3+D4@7>2^104
+  PRG.CHANGE#3 : D2+D3@1>2^104 D2+D3@3>2^104 D2+D3@5>2^104 D2+D3@7>2^104
+  PRG.CHANGE#9 : F3+A3+D4@1>16^104
+  PRG.CHANGE#13: D3+A3+D4+F4@7>2^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: D2@1>1^104 D2@3>1^104 D2@5>1^104 D2@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@32 [Bm7 | Dm]
+  PRG.CHANGE   : F3+B3@1>2^104 F3+A3+C4@3>1^104 F3+A3+D4@4>3^104
+  PRG.CHANGE#3 : D2+D3@1>2^104 D2+D3@3>2^104 D2+D3@5>2^104 D2+D3@7>2^104
+  PRG.CHANGE#13: D3+A3+D4+F4@7>2^104
+  PRG.CHANGE#14: B4@1>2^104 C5@3>1^104 D5@4>2^104 C5@6>3^104
+  PRG.CHANGE#15: D2@1>1^104 D2@3>1^104 D2@5>1^104 D2@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@33 [G]
+  PRG.CHANGE   : G3+D4+G4@4>5^104
+  PRG.CHANGE#3 : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  PRG.CHANGE#9 : G3+D4+G4@1>8^104
+  PRG.CHANGE#12: G2@1>3^104 G2@4>1^104 G2@5>2^104 F#2@7>1^104 G2@8>1^104
+  PRG.CHANGE#14: E5@1>3^104 D5@4>3^104
+  PRG.CHANGE#15: G1@1>1^104 G1@3>1^104 G1@5>1^104 F#1@7>1^104 G1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+@34 [Ddim | G#dim] (grid:16)
+  PRG.CHANGE   : B3+D4+F4+G#4@7>6^104 B3+D4+F4+G#4@13>4^104
+  PRG.CHANGE#3 : G#1+G#2@1>4^104 G#1+G#2@5>4^104 G#1+G#2@9>4^104 G#1+G#2@13>4^104
+  PRG.CHANGE#9 : G#3+D4+G#4@1>16^104
+  PRG.CHANGE#12: G#2@1>12^104
+  PRG.CHANGE#14: F5@1>6^104 E5@7>6^104 D5@13>4^104
+  PRG.CHANGE#15: G#1@1>2^104 G#1@5>2^104 G#1@9>2^104 G#1@13>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+C#3@5>1^104 C2+D2@9>1^104 D2@10>1^56 D2@11>1^80 D2@12>1^56 C2+D2@13>1^104 D2@14>1^56 D2@15>1^80 D2@16>1^56
+@35 [Am]
+  PRG.CHANGE#5 : A2@1>8^104
+  PRG.CHANGE#8 : C4+E4+G4@1>16^104
+  PRG.CHANGE#10: A5@1>16^104
+  PRG.CHANGE#12: A4@1>8^104
+  PRG.CHANGE#14: E5@1>16^104
+  PRG.CHANGE#15: A1@1>2^104 A1@3>2^104 A1@5>2^104 A1@7>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: A5@1>8^104
+@36 [A | Am]
+  PRG.CHANGE#5 : A2@1>3^104 B2@4>3^104 C3@7>2^104
+  PRG.CHANGE#12: A4@1>4^104 A4@5>4^104
+  PRG.CHANGE#15: A1@1>3^104 B1@4>3^104 C2@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: A5@1>4^104 A5@5>4^104
+@37 [G]
+  PRG.CHANGE#5 : B2@1>8^104
+  PRG.CHANGE#8 : G3+B3+D4@1>16^104
+  PRG.CHANGE#10: A5@1>8^104
+  PRG.CHANGE#12: A4@1>6^104 B4@7>2^104
+  PRG.CHANGE#14: D5@1>10^104
+  PRG.CHANGE#15: B1@1>2^104 B1@3>2^104 B1@5>2^104 B1@7>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: A5@1>6^104 B5@7>1^104 A5@8>1^104
+@38 [G]
+  PRG.CHANGE#5 : B2@1>3^104 C3@4>3^104 D3@7>2^104
+  PRG.CHANGE#10: G5@1>8^104
+  PRG.CHANGE#12: G4@1>8^104
+  PRG.CHANGE#15: B1@1>3^104 C2@4>3^104 D2@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+F2@7>1^104 D2+F2@8>1^80
+  PRG.CHANGE#16: G5@1>8^104
+@39 [Dm]
+  PRG.CHANGE#5 : D3@1>6^104 E3@7>2^104
+  PRG.CHANGE#8 : F3+A3+D4@1>16^104
+  PRG.CHANGE#10: F5@1>6^104 E5@7>2^104
+  PRG.CHANGE#12: F4@1>6^104 E4@7>2^104
+  PRG.CHANGE#14: D5@1>14^104
+  PRG.CHANGE#15: D2@1>2^104 D2@3>2^104 D2@5>2^104 E2@7>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: F5@1>6^104 E5@7>2^104
+@40 [Dm | Am]
+  PRG.CHANGE#5 : F3@1>4^104 A3@5>4^104
+  PRG.CHANGE#10: D5@1>4^104 C5@5>4^104
+  PRG.CHANGE#12: D4@1>4^104 C4@5>4^104
+  PRG.CHANGE#15: F2@1>4^104 A2@5>4^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: D5@1>4^104 C5@5>4^104
+@41 [G]
+  PRG.CHANGE#5 : G2@1>1^104 G3@2>1^104 G2@3>1^104 G2@4>1^104 G2@5>1^104 G3@6>1^104 G2@7>1^104 G2@8>1^104
+  PRG.CHANGE#8 : G3+B3+D4@1>16^104
+  PRG.CHANGE#10: B4@1>16^104
+  PRG.CHANGE#12: G4@1>16^104
+  PRG.CHANGE#14: G5@1>16^104
+  PRG.CHANGE#15: G1@1>1^104 G2@2>1^104 G1@3>1^104 G1@4>1^104 G1@5>1^104 G2@6>1^104 G1@7>1^104 G1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 D2+C#3@6>1^104 C2+D2@7>1^104 D2@8>1^80
+  PRG.CHANGE#16: G5@1>16^104
+@42 [G]
+  PRG.CHANGE#5 : G3@1>1^104 G2@2>1^104 G2@3>1^104 G3@4>1^104 G2@5>1^104 G2@6>1^104 G2@7>1^104 G2@8>1^104
+  PRG.CHANGE#15: G2@1>1^104 G1@2>1^104 G1@3>1^104 G2@4>1^104 G1@5>1^104 G1@6>1^104 G1@7>1^104 G1@8>1^104
+  DRUMS        : C2+D2+C#3@1>1^104 D2@2>1^80 C2+D2@3>1^104 D2+C#3@4>1^104 C2+D2+F2@5>1^104 D2+F2@6>1^80 C2+D2+F2@7>1^104 D2+F2@8>1^104
+@43 [C | G7]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: F5@8>2^104
+  PRG.CHANGE#15: E2@1>2^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@44 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: F5@2>1^104 F5@3>1^104 F5@4>1^104 E5@5>2^104 C5@7>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@45 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: A4@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@46 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: C5@2>1^104 C5@3>1^104 C5@4>1^104 E5@5>2^104 C5@7>4^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@47 [C | G7]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: D5@7>1^104 F5@8>1^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@48 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: F5@2>1^104 F5@3>1^104 F5@4>1^104 G5@5>2^104 C5@7>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@49 [Dm | Em]
+  PRG.CHANGE   : F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#11: F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#12: D4@1>1^104 F4@2>1^104 A4@3>1^104 G4@4>2^104 E4@6>1^104 C4@7>1^104 A3@8>2^104
+  PRG.CHANGE#14: D5@2>1^104 C5@3>1^104 C5@4>3^104
+  PRG.CHANGE#15: D2@1>1^104 D2@2>1^104 D2@3>1^104 E2@4>2^104 D2@6>1^104 E2@7>1^104 F2@8>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@50 [F | G]
+  PRG.CHANGE   : B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: C4@2>1^104 F4@3>1^104 C4@4>3^104 D4@7>1^104
+  PRG.CHANGE#14: A4@1>1^104 C5@2>1^104 C5@3>1^104 A4@4>1^104 C5@5>2^104 D5@7>2^104
+  PRG.CHANGE#15: E2@2>1^104 F2@3>1^104 A2@4>1^104 G2@5>2^104 G1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+C#3@7>1^104
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: B3+D4+G4@7>2^104
+@51 [A#] (grid:4)
+  PRG.CHANGE   : A#3+C4+F4@1>8^104
+  PRG.CHANGE#11: A#3+C4+F4@1>8^104
+  PRG.CHANGE#14: C5@1>8^104
+  PRG.CHANGE#15: A#1@1>8^104
+  DRUMS        : C2+C#3@1>1^104
+  PRG.CHANGE#17: A#3+C4+F4@1>8^104
+@52 [F]
+  PRG.CHANGE#6 : G3+C4+E4@1>1^104 F3+C4+D4@2>1^104 F3+C4+D4@4>5^104
+@53 [C]
+  PRG.CHANGE   : G3+C4+E4@3>2^104 G3+C4+D4@5>2^104 G3+C4@7>2^104
+  PRG.CHANGE#3 : C2+C3@1>2^104 C2+C3@3>2^104 C2+C3@5>2^104 C2+C3@7>2^104
+  PRG.CHANGE#9 : G3+C4+E4@1>16^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: C5@1>4^80 G5@5>4^80
+@54 [C] (grid:16)
+  PRG.CHANGE   : G3+B3@1>4^104 G3+C4@5>2^104 G3+C4+D4@7>2^104 G3+C4@11>6^104
+  PRG.CHANGE#3 : C2+C3@1>4^104 C2+C3@5>4^104 C2+C3@9>4^104 C2+C3@13>4^104
+  PRG.CHANGE#13: G3+C4+E4@1>1^104 G3+C4+E4@3>1^104 G3+C4+E4@4>1^104 G3+C4+E4@5>1^104 G3+C4+E4@7>1^104 G3+C4+E4@8>1^104 G3+C4+E4@9>1^104 G3+C4+E4@11>1^104 G3+C4+E4@12>1^104 C3+G3+C4+E4@13>4^104
+  PRG.CHANGE#14: B4@1>4^104 C5@5>2^104 D5@7>4^104 C5@11>6^104
+  PRG.CHANGE#15: C2@1>2^104 C2@5>2^104 C2@9>4^104 B1@13>4^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 F#2@11>1^56 C2+D2+F#2@13>1^104 F#2@15>1^56
+  PRG.CHANGE#16: C6@1>8^80 G5@9>8^80
+@55 [Am]
+  PRG.CHANGE   : C4+E4+A4@3>2^104 C4+E4+A4@5>2^104 C4+E4+A4@7>2^104
+  PRG.CHANGE#3 : A1+A2@1>2^104 A1+A2@3>2^104 A1+A2@5>2^104 A1+A2@7>2^104
+  PRG.CHANGE#9 : A3+C4+E4@1>16^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: A1@1>1^104 A1@3>1^104 A1@5>1^104 A1@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: A4@1>4^80 E5@5>4^80
+@56 [Am] (grid:16)
+  PRG.CHANGE   : C4+E4+A4@7>2^104 C4+E4+A4@11>6^104
+  PRG.CHANGE#3 : A1+A2@1>4^104 A1+A2@5>4^104 A1+A2@9>4^104 A1+A2@13>4^104
+  PRG.CHANGE#13: E3+A3+C4@1>1^104 E3+A3+C4@3>1^104 E3+A3+C4@4>1^104 E3+A3+C4@5>1^104 E3+A3+C4@7>1^104 E3+A3+C4@8>1^104 E3+A3+C4@9>1^104 E3+A3+C4@11>1^104 E3+A3+C4@12>1^104 A2+E3+A3+C4@13>4^104
+  PRG.CHANGE#14: B4@1>4^104 C5@5>2^104 D5@7>4^104 E5@11>6^104
+  PRG.CHANGE#15: A1@1>2^104 A1@5>2^104 A1@9>4^104 A1@13>4^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 F#2@11>1^56 C2+D2+F#2@13>1^104 F#2@15>1^56
+  PRG.CHANGE#16: A5@1>8^80 E5@9>8^80
+@57 [Dm]
+  PRG.CHANGE   : F3+A3+D4@3>2^104 F3+A3+D4@5>2^104 F3+A3+D4@7>2^104
+  PRG.CHANGE#3 : D2+D3@1>2^104 D2+D3@3>2^104 D2+D3@5>2^104 D2+D3@7>2^104
+  PRG.CHANGE#9 : F3+A3+D4@1>16^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: D2@1>1^104 D2@3>1^104 D2@5>1^104 D2@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: D5@1>4^80 A5@5>4^80
+@58 [Bm7 | Dm] (grid:16)
+  PRG.CHANGE   : F3+B3@1>4^104 F3+A3+C4@5>2^104 F3+A3+D4@7>6^104
+  PRG.CHANGE#3 : D2+D3@1>4^104 D2+D3@5>4^104 D2+D3@9>4^104 D2+D3@13>4^104
+  PRG.CHANGE#13: A3+D4+F4@1>1^104 A3+D4+F4@3>1^104 A3+D4+F4@4>1^104 A3+D4+F4@5>1^104 A3+D4+F4@7>1^104 A3+D4+F4@8>1^104 A3+D4+F4@9>1^104 A3+D4+F4@11>1^104 A3+D4+F4@12>1^104 D3+A3+D4+F4@13>4^104
+  PRG.CHANGE#14: B4@1>4^104 C5@5>2^104 D5@7>4^104 C5@11>6^104
+  PRG.CHANGE#15: D2@1>2^104 D2@5>2^104 D2@9>2^104 D2@13>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 F#2@11>1^56 C2+D2+F#2@13>1^104 F#2@15>1^56
+  PRG.CHANGE#16: D6@1>8^80 A5@9>8^80
+@59 [G]
+  PRG.CHANGE   : G3+D4+G4@4>5^104
+  PRG.CHANGE#3 : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  PRG.CHANGE#9 : G3+D4+G4@1>8^104
+  PRG.CHANGE#12: G2@1>3^104 G2@4>1^104 G2@5>2^104 F#2@7>1^104 G2@8>1^104
+  PRG.CHANGE#14: E5@1>3^104 D5@4>3^104
+  PRG.CHANGE#15: G1@1>1^104 G1@3>1^104 G1@5>1^104 F#1@7>1^104 G1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: G5@1>8^80
+@60 [Ddim]
+  PRG.CHANGE   : F3+B3+F4@4>3^104 F3+B3+D4@7>2^104
+  PRG.CHANGE#3 : G#1+G#2@1>2^104 G#1+G#2@3>2^104 G#1+G#2@5>2^104 G#1+G#2@7>2^104
+  PRG.CHANGE#9 : G#3+D4+G#4@1>8^104
+  PRG.CHANGE#12: G#2@1>3^104 G#2@4>3^104
+  PRG.CHANGE#14: F5@1>3^104 E5@4>3^104
+  PRG.CHANGE#15: G#1@1>1^104 G#1@3>1^104 G#1@5>1^104 G#1@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+F2@7>1^104 D2+F2@8>1^80
+  PRG.CHANGE#16: F5@1>3^80 E5@4>3^80 D5@7>2^80
+@61 [C]
+  PRG.CHANGE   : G3+C4+E4@3>2^104 G3+C4+D4@5>2^104 G3+C4@7>2^104
+  PRG.CHANGE#3 : C2+C3@1>2^104 C2+C3@3>2^104 C2+C3@5>2^104 C2+C3@7>2^104
+  PRG.CHANGE#9 : G3+C4+E4@1>16^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@3>1^104 C2@5>1^104 C2@7>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: C5@1>4^80 G5@5>4^80
+@62 [C] (grid:16)
+  PRG.CHANGE   : G3+B3@1>4^104 G3+C4@5>2^104 G3+C4+D4@7>2^104 G3+C4@11>6^104
+  PRG.CHANGE#3 : C2+C3@1>4^104 C2+C3@5>4^104 C2+C3@9>4^104 C2+C3@13>4^104
+  PRG.CHANGE#13: G3+C4+E4@1>1^104 G3+C4+E4@3>1^104 G3+C4+E4@4>1^104 G3+C4+E4@5>1^104 G3+C4+E4@7>1^104 G3+C4+E4@8>1^104 G3+C4+E4@9>1^104 G3+C4+E4@11>1^104 G3+C4+E4@12>1^104 C3+G3+C4+E4@13>4^104
+  PRG.CHANGE#14: B4@1>4^104 C5@5>2^104 D5@7>4^104 C5@11>6^104
+  PRG.CHANGE#15: C2@1>2^104 C2@5>2^104 C2@9>4^104 B1@13>4^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 F#2@11>1^56 C2+D2+F#2@13>1^104 F#2@15>1^56
+  PRG.CHANGE#16: C6@1>8^80 G5@9>8^80
+@63 [Am]
+  PRG.CHANGE   : C4+E4+A4@3>2^104 C4+E4+A4@5>2^104 C4+E4+A4@7>2^104
+  PRG.CHANGE#3 : A1+A2@1>2^104 A1+A2@3>2^104 A1+A2@5>2^104 A1+A2@7>2^104
+  PRG.CHANGE#9 : A3+C4+E4@1>16^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: A1@1>1^104 A1@3>1^104 A1@5>1^104 A1@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: A4@1>4^80 E5@5>4^80
+@64 [Am] (grid:16)
+  PRG.CHANGE   : C4+E4+A4@7>2^104 C4+E4+A4@11>6^104
+  PRG.CHANGE#3 : A1+A2@1>4^104 A1+A2@5>4^104 A1+A2@9>4^104 A1+A2@13>4^104
+  PRG.CHANGE#13: E3+A3+C4@1>1^104 E3+A3+C4@3>1^104 E3+A3+C4@4>1^104 E3+A3+C4@5>1^104 E3+A3+C4@7>1^104 E3+A3+C4@8>1^104 E3+A3+C4@9>1^104 E3+A3+C4@11>1^104 E3+A3+C4@12>1^104 A2+E3+A3+C4@13>4^104
+  PRG.CHANGE#14: B4@1>4^104 C5@5>2^104 D5@7>4^104 E5@11>6^104
+  PRG.CHANGE#15: A1@1>2^104 A1@5>2^104 A1@9>4^104 A1@13>4^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 F#2@11>1^56 C2+D2+F#2@13>1^104 F#2@15>1^56
+  PRG.CHANGE#16: A5@1>8^80 E5@9>8^80
+@65 [Dm]
+  PRG.CHANGE   : F3+A3+D4@3>2^104 F3+A3+D4@5>2^104 F3+A3+D4@7>2^104
+  PRG.CHANGE#3 : D2+D3@1>2^104 D2+D3@3>2^104 D2+D3@5>2^104 D2+D3@7>2^104
+  PRG.CHANGE#9 : F3+A3+D4@1>16^104
+  PRG.CHANGE#14: E5@3>2^104 D5@5>2^104 C5@7>2^104
+  PRG.CHANGE#15: D2@1>1^104 D2@3>1^104 D2@5>1^104 D2@7>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: D5@1>4^80 A5@5>4^80
+@66 [Bm7 | Dm] (grid:16)
+  PRG.CHANGE   : F3+B3@1>4^104 F3+A3+C4@5>2^104 F3+A3+D4@7>6^104
+  PRG.CHANGE#3 : D2+D3@1>4^104 D2+D3@5>4^104 D2+D3@9>4^104 D2+D3@13>4^104
+  PRG.CHANGE#13: A3+D4+F4@1>1^104 A3+D4+F4@3>1^104 A3+D4+F4@4>1^104 A3+D4+F4@5>1^104 A3+D4+F4@7>1^104 A3+D4+F4@8>1^104 A3+D4+F4@9>1^104 A3+D4+F4@11>1^104 A3+D4+F4@12>1^104 D3+A3+D4+F4@13>4^104
+  PRG.CHANGE#14: B4@1>4^104 C5@5>2^104 D5@7>4^104 C5@11>6^104
+  PRG.CHANGE#15: D2@1>2^104 D2@5>2^104 D2@9>2^104 D2@13>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 F#2@11>1^56 C2+D2+F#2@13>1^104 F#2@15>1^56
+  PRG.CHANGE#16: D6@1>8^80 E6@9>4^80 F6@13>4^80
+@67 [G]
+  PRG.CHANGE   : G3+D4+G4@4>5^104
+  PRG.CHANGE#3 : G1+G2@1>2^104 G1+G2@3>2^104 G1+G2@5>2^104 G1+G2@7>2^104
+  PRG.CHANGE#9 : G3+D4+G4@1>8^104
+  PRG.CHANGE#12: G2@1>3^104 G2@4>1^104 G2@5>2^104 F#2@7>1^104 G2@8>1^104
+  PRG.CHANGE#14: E5@1>3^104 D5@4>3^104 G4@7>2^104
+  PRG.CHANGE#15: G1@1>1^104 G1@3>1^104 G1@5>1^104 F#1@7>1^104 G1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: E6@1>3^80 D6@4>5^80
+@68 [Ddim | G#dim] (grid:16)
+  PRG.CHANGE   : B3+D4+F4+G#4@7>6^104 B3+D4+F4+G#4@13>4^104
+  PRG.CHANGE#3 : G#1+G#2@1>4^104 G#1+G#2@5>4^104 G#1+G#2@9>4^104 G#1+G#2@13>4^104
+  PRG.CHANGE#9 : G#3+D4+G#4@1>16^104
+  PRG.CHANGE#12: G#2@1>12^104
+  PRG.CHANGE#14: F5@1>6^104 E5@7>6^104 D5@13>4^104
+  PRG.CHANGE#15: G#1@1>2^104 G#1@5>2^104 G#1@9>2^104 G#1@13>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+C#3@5>1^104 C2+D2@9>1^104 D2@10>1^56 D2@11>1^80 D2@12>1^56 C2+D2@13>1^104 D2@14>1^56 D2@15>1^80 D2@16>1^56
+  PRG.CHANGE#16: F5@1>6^80 G#5@7>6^80 B5@13>4^80
+@69 [Am]
+  PRG.CHANGE#5 : A2@1>8^104
+  PRG.CHANGE#8 : C4+E4+G4@1>16^104
+  PRG.CHANGE#10: A5@1>16^104
+  PRG.CHANGE#12: A4@1>8^104
+  PRG.CHANGE#14: E5@1>16^104
+  PRG.CHANGE#15: A1@1>2^104 A1@3>2^104 A1@5>2^104 A1@7>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: A4+E5+A5+C6@1>16^104
+@70 [A | Am]
+  PRG.CHANGE#5 : A2@1>3^104 B2@4>3^104 C3@7>2^104
+  PRG.CHANGE#12: A4@1>4^104 A4@5>4^104
+  PRG.CHANGE#15: A1@1>3^104 B1@4>3^104 C2@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: A4@1>4^104
+@71 [G]
+  PRG.CHANGE#5 : B2@1>8^104
+  PRG.CHANGE#8 : G3+B3+D4@1>16^104
+  PRG.CHANGE#10: A5@1>8^104
+  PRG.CHANGE#12: A4@1>6^104 B4@7>2^104
+  PRG.CHANGE#14: D5@1>10^104
+  PRG.CHANGE#15: B1@1>2^104 B1@3>2^104 B1@5>2^104 B1@7>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: A5@1>6^104 B5@7>1^104 A5@8>1^104
+@72 [G]
+  PRG.CHANGE#5 : B2@1>3^104 C3@4>3^104 D3@7>2^104
+  PRG.CHANGE#10: G5@1>8^104
+  PRG.CHANGE#12: G4@1>8^104
+  PRG.CHANGE#15: B1@1>3^104 C2@4>3^104 D2@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+F2@7>1^104 D2+F2@8>1^80
+  PRG.CHANGE#16: G5@1>8^104
+@73 [Dm]
+  PRG.CHANGE#5 : D3@1>6^104 E3@7>2^104
+  PRG.CHANGE#8 : F3+A3+D4@1>16^104
+  PRG.CHANGE#10: F5@1>6^104 E5@7>2^104
+  PRG.CHANGE#12: F4@1>6^104 E4@7>2^104
+  PRG.CHANGE#14: D5@1>14^104
+  PRG.CHANGE#15: D2@1>2^104 D2@3>2^104 D2@5>2^104 E2@7>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: F5@1>6^104 E5@7>2^104
+@74 [Dm | Am]
+  PRG.CHANGE#5 : F3@1>4^104 A3@5>4^104
+  PRG.CHANGE#10: D5@1>4^104 C5@5>4^104
+  PRG.CHANGE#12: D4@1>4^104 C4@5>4^104
+  PRG.CHANGE#15: F2@1>4^104 A2@5>4^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  PRG.CHANGE#16: D5@1>4^104 C5@5>4^104
+@75 [G]
+  PRG.CHANGE#5 : G2@1>1^104 G3@2>1^104 G2@3>1^104 G2@4>1^104 G2@5>1^104 G3@6>1^104 G2@7>1^104 G2@8>1^104
+  PRG.CHANGE#8 : G3+B3+D4@1>16^104
+  PRG.CHANGE#10: B4@1>16^104
+  PRG.CHANGE#12: G4@1>16^104
+  PRG.CHANGE#14: G5@1>16^104
+  PRG.CHANGE#15: G1@1>1^104 G2@2>1^104 G1@3>1^104 G1@4>1^104 G1@5>1^104 G2@6>1^104 G1@7>1^104 G1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 D2+C#3@6>1^104 C2+D2@7>1^104 D2@8>1^80
+  PRG.CHANGE#16: G5@1>16^104
+@76 [G]
+  PRG.CHANGE#5 : G3@1>1^104 G2@2>1^104 G2@3>1^104 G3@4>1^104 G2@5>1^104 G2@6>1^104 G2@7>1^104 G2@8>1^104
+  PRG.CHANGE#15: G2@1>1^104 G1@2>1^104 G1@3>1^104 G2@4>1^104 G1@5>1^104 G1@6>1^104 G1@7>1^104 G1@8>1^104
+  DRUMS        : C2+D2+C#3@1>1^104 D2@2>1^80 C2+D2@3>1^104 D2+C#3@4>1^104 C2+D2+F2@5>1^104 D2+F2@6>1^80 C2+D2+F2@7>1^104 D2+F2@8>1^104
+@77 [C | G7]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: F5@8>2^104
+  PRG.CHANGE#15: E2@1>2^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@78 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: F5@2>1^104 F5@3>1^104 F5@4>1^104 E5@5>2^104 C5@7>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@79 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: A4@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@80 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: C5@2>1^104 C5@3>1^104 C5@4>1^104 E5@5>2^104 C5@7>4^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@81 [C | G7]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: D5@7>1^104 F5@8>1^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@82 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: F5@2>1^104 F5@3>1^104 F5@4>1^104 G5@5>2^104 C5@7>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@83 [Dm | Em]
+  PRG.CHANGE   : F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#11: F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#12: D4@1>1^104 F4@2>1^104 A4@3>1^104 G4@4>2^104 E4@6>1^104 C4@7>1^104 A3@8>2^104
+  PRG.CHANGE#14: D5@2>1^104 C5@3>1^104 C5@4>3^104
+  PRG.CHANGE#15: D2@1>1^104 D2@2>1^104 D2@3>1^104 E2@4>2^104 D2@6>1^104 E2@7>1^104 F2@8>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@84 [F | G]
+  PRG.CHANGE   : B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: C4@2>1^104 F4@3>1^104 C4@4>3^104 D4@7>1^104
+  PRG.CHANGE#14: A4@1>1^104 C5@2>1^104 C5@3>1^104 A4@4>1^104 C5@5>2^104 D5@7>2^104
+  PRG.CHANGE#15: E2@2>1^104 F2@3>1^104 A2@4>1^104 G2@5>2^104 G1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+C#3@7>1^104
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@85 [C | G7]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: C5@1>6^104 F5@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@86 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: F5@2>1^104 F5@3>1^104 F5@4>1^104 E5@5>2^104 C5@7>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@87 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: A4@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@88 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: C5@2>1^104 C5@3>1^104 C5@4>1^104 E5@5>2^104 C5@7>4^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@89 [C | G7]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: D5@7>1^104 F5@8>1^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@90 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: F5@2>1^104 F5@3>1^104 F5@4>1^104 G5@5>2^104 C5@7>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@91 [Dm | Em]
+  PRG.CHANGE   : F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#11: F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#12: D4@1>1^104 F4@2>1^104 A4@3>1^104 G4@4>2^104 E4@6>1^104 C4@7>1^104 A3@8>2^104
+  PRG.CHANGE#14: D5@2>1^104 C5@3>1^104 C5@4>3^104
+  PRG.CHANGE#15: D2@1>1^104 D2@2>1^104 D2@3>1^104 E2@4>2^104 D2@6>1^104 E2@7>1^104 F2@8>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@92 [F | G]
+  PRG.CHANGE   : B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#11: B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: C4@2>1^104 F4@3>1^104 C4@4>1^104 D4@5>2^104 D4@7>2^104
+  PRG.CHANGE#14: A4@1>1^104 C5@2>1^104 C5@3>1^104 A4@4>1^104 C5@5>2^104 D5@7>2^104
+  PRG.CHANGE#15: E2@2>1^104 F2@3>1^104 A2@4>1^104 G2@5>2^104 G1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+C#3@7>1^104
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@93 [Am]
+  PRG.CHANGE   : C5@1>1^104 B4@3>1^104 A4@5>1^104 B4@7>1^104
+  PRG.CHANGE#2 : A5@2>1^104 A5@4>1^104 A5@6>1^104 A5@8>1^104
+  PRG.CHANGE#8 : C4+E4+A4@1>16^104
+  PRG.CHANGE#12: A5@1>12^104
+  PRG.CHANGE#14: C5@1>16^104
+  PRG.CHANGE#15: A1@1>16^104
+  DRUMS        : C2+C#3@1>1^104
+  PRG.CHANGE#16: A5@1>12^104
+@94 [Am] (grid:16)
+  PRG.CHANGE   : C5@1>2^104 D5@5>2^104 C5@9>2^104 B4@13>2^104
+  PRG.CHANGE#2 : A5@3>2^104 A5@7>2^104 A5@11>2^104 G5@15>2^104
+  PRG.CHANGE#12: A5@9>2^104 B5@12>2^104 C6@14>2^104
+  DRUMS        : C3@1>1^80 C3@2>1^56 C3@3>1^80 C3@4>1^56 C3@5>1^80 C3@6>1^56 C3@7>1^80 C3@8>1^56 A2@9>1^56 A2@10>1^56 A2@11>1^56 A2@12>1^56 F2@13>1^80 F2@14>1^56 F2@15>1^56 F2@16>1^56
+  PRG.CHANGE#16: A5@9>2^104 B5@12>2^104 C6@14>2^104
+@95 [G]
+  PRG.CHANGE   : D5@1>1^104 C5@3>1^104 B4@5>1^104 C5@7>1^104
+  PRG.CHANGE#2 : G5@2>1^104 G5@4>1^104 G5@6>1^104 G5@8>1^104
+  PRG.CHANGE#8 : B3+D4+G4@1>16^104
+  PRG.CHANGE#12: B5@1>2^104 C6@3>1^104 B5@4>3^104 A5@7>2^104
+  PRG.CHANGE#15: B1@1>16^104
+  DRUMS        : C2+C#3@1>1^104
+  PRG.CHANGE#16: B5@1>2^104 C6@3>1^104 B5@4>3^104 A5@7>2^104
+@96 [G] (grid:64)
+  PRG.CHANGE   : D5@1>7^104 C5@17>7^104 B4@33>7^104 C5@49>7^104
+  PRG.CHANGE#2 : G5@9>7^104 G5@25>7^104 G5@41>7^104 D6@57>7^104
+  PRG.CHANGE#12: A5@1>8^104 G5@9>55^104
+  DRUMS        : C3@1>1^56 C3@2>1^80 C3@9>1^80 C3@25>1^80 A2@33>1^56 F2@41>1^80 F2@49>1^56
+  PRG.CHANGE#16: A5@1>8^104 G5@9>55^104
+@97 [Dm]
+  PRG.CHANGE   : F5@1>1^104 E5@3>1^104 D5@5>1^104 E5@7>1^104
+  PRG.CHANGE#2 : D6@2>1^104 D6@4>1^104 D6@6>1^104 D6@8>1^104
+  PRG.CHANGE#8 : D4+F4+A4@1>16^104
+  PRG.CHANGE#12: F6@1>2^104 G6@3>1^104 F6@4>3^104 E6@7>2^104
+  PRG.CHANGE#15: D2@1>16^104
+  DRUMS        : C2+C#3@1>1^104
+  PRG.CHANGE#16: F6@1>2^104 G6@3>1^104 F6@4>3^104 E6@7>2^104
+@98 [Dm]
+  PRG.CHANGE   : F5@1>1^104 G5@3>1^104 F5@5>1^104 E5@7>1^104
+  PRG.CHANGE#2 : D6@2>1^104 D6@4>1^104 D6@6>1^104 F6@8>1^104
+  PRG.CHANGE#12: D6@1>8^104
+  PRG.CHANGE#16: D6@1>8^104
 @99 [F]
-  Acoustic Bass    : F2@1>6 C2@7>1 F2@8>1 C2@9>1
-  Piano            : F2@1>6 F2@7>3
-  Piano#2          : A3+C4+F4@1>6 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>4 C4+F4@7>3
-  Electric Guitar#2: A4+C5+F5@7>1
-  Part7            : G4+Bb4+D5@1>6 C5@7>3
-  Voice            : A4@1>1 F4@2>2
-  Part9            : F4@1>1 D4@2>1
-@100 [Eb]
-  Acoustic Bass    : Eb2@1>8 Bb1@9>1
-  Piano            : Eb2@1>6 Eb2@7>3
-  Piano#2          : G3+Bb3+Eb4@1>6 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : Bb3+Eb4+G4@1>3 Bb3+Eb4+G4@4>3 Bb3@6>1 Bb3+Eb4+G4@7>3
-  Part7            : G4+Bb4+Eb5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@7>2 F4@9>1
-@101 [F]
-  Acoustic Bass    : F2@1>6 C2@7>1 F2@8>1 C2@9>1
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@1>3 A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>3 A3@6>4 C4+F4@7>3
-  Electric Guitar#2: A4+C5+F5@7>1
-  Part7            : A4+C5+F5@1>9
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>1 D4@2>1
-@102 [Eb]
-  Acoustic Bass    : Eb2@1>1
-  Piano            : Eb2@1>1
-  Piano#2          : G3+Bb3+Eb4@1>1
-  Acoustic Guitar  : Bb3+Eb4+G4@1>1
-  Part7            : Bb4+Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@7>2 F4@9>1
-@103 [F]
-  Acoustic Bass    : F2@1>1
-  Piano            : F2@1>1
-  Piano#2          : A3+C4+F4@1>1
-  Acoustic Guitar  : A3+C4+F4@1>1
-  Part7            : A4+C5+F5@1>9
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>1 D4@2>1 D4@7>1 C4@8>1 Bb3@9>1
-@104 [Bb]
-  Acoustic Bass    : Bb1@1>3 Bb1@4>3 Bb1@7>2 Bb1@9>1
-  Piano            : Bb1@1>8
-  Acoustic Guitar  : F3+Bb3@1>1 F3+Bb3@2>1 F3+Bb3@3>1 F3+Bb3@4>1 F3+Bb3@5>1 F3+Bb3@6>1 F3+Bb3@7>1 F3+Bb3@8>1 F3+Bb3@9>1
-  Part7            : G4+Bb4+Eb5@1>1
-  Part9            : C4@1>9
-@105 [Bb]
-  Acoustic Bass    : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 Bb1@8>1 Bb1@9>1
-  Piano            : Bb1+Bb2@1>3 C2@4>3 D2@7>3
-  Piano#2          : Bb3+D4@1>3 C4+Eb4@4>3 D4+F4@7>3
-  Acoustic Guitar  : Bb3+D4@2>2 C4+Eb4@4>1 C4+Eb4@5>1 C4+Eb4@6>1 D4+F4@7>1 D4+F4@8>1 D4+F4@9>1
-  Part9            : C4@1>1 D4@2>1 C4@3>1 Bb3@4>6
-@106 [Eb]
-  Acoustic Bass    : Eb2@1>3 Bb2@4>3 G2@7>3
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Bb2+Bb3@1>9
-  Voice            : Bb4@1>2 Eb5@3>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@107 [F]
-  Acoustic Bass    : F2@1>3 C3@4>3 F2@7>3
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>3 A3@6>1 A3+C4+F4@7>2 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : Bb3+D4@1>3 C4+Eb4@4>3 D4+F4@7>3
-  Voice            : A4@1>1 F4@2>2
-  Part9            : F4@1>1 D4@2>1
-@108 [Eb]
-  Acoustic Bass    : Eb2@1>3 Bb2@4>3 G2@7>3
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Bb4+Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@109 [F]
-  Acoustic Bass    : F2@1>3 C3@4>3 A2@7>1
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>3 C4+F4@7>3 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>3
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>1 D4@2>1
-@110 [Eb]
-  Acoustic Bass    : Eb2@1>3 Bb2@4>3 G2@7>3
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@7>2 F4@9>1
-@111 [F]
-  Acoustic Bass    : F2@1>3 C3@4>3 F2@7>3
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>3 C4+F4@7>3 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>3
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>2 D4@3>4 D4@7>1 C4@8>1 Bb3@9>1
-@112 [Eb]
-  Acoustic Bass    : Bb1@1>2 Bb1@4>3 Bb1@7>3
-  Piano            : Bb1@1>1 Bb1@2>2 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 Bb1@8>1 Bb1@9>1
-  Acoustic Guitar  : F3+Bb3@1>1 F3+Bb3@2>1 F3+Bb3@3>1 F3+Bb3@4>1 F3+Bb3@5>1 F3+Bb3@6>1 F3+Bb3@7>1 F3+Bb3@8>1 F3+Bb3@9>1
-  Part7            : Eb5+G5@1>9
-  Part9            : C4@1>9
-@113 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : Bb3+D4@1>3 C4+Eb4@4>3 Bb3+D4+F4@7>3
-  Acoustic Guitar  : Bb3+D4@1>1 Bb3+D4@2>1 Bb3+D4@3>1 C4+Eb4@4>1 C4+Eb4@5>1 C4+Eb4@6>1 D4+F4@7>1 D4+F4@8>1 D4+F4@9>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>1
-  Part9            : C4@1>1 D4@2>1 C4@3>1 Bb3@4>4
-@114 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb2@7>1 G2@8>1 Eb2@9>1
-  Piano            : Eb2@1>7 Eb2@9>1
-  Piano#2          : G3+Bb3+Eb4+G4@1>6 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Bb2+Bb3@1>9
-  Voice            : Bb4@1>2 Eb5@3>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@115 [F]
-  Acoustic Bass    : F2@1>6 C3@7>1 A2@8>1 F2@9>1
-  Piano            : F2@1>4 F2@6>4
-  Piano#2          : A3@3>4 C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>3 A3@6>1 A3+C4+F4@7>2 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : Bb3+D4@1>3 C4+Eb4@4>3 D4+F4@7>3
-  Voice            : A4@1>1 F4@2>2
-  Part9            : F4@1>1 D4@2>1
-@116 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb2@7>1 G2@8>1 Eb2@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Bb4+Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@117 [F]
-  Acoustic Bass    : F2@1>6 C3@7>1 A2@8>1 F2@9>1
-  Piano            : F2@1>4 F2@6>3 F2@9>1
-  Piano#2          : A3@3>3 C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>3 C4+F4@7>3 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>3
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>1 D4@2>1
-@118 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb2@7>1 G2@8>1 Eb2@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@119 [F]
-  Acoustic Bass    : F2@1>6 C3@7>1 A2@8>1 F2@9>1
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>3 C4+F4@7>3 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>3
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>1 D4@2>1 D4@8>1 C4@9>1
-@120 [Eb]
-  Acoustic Bass    : Bb1@1>6 Bb1@7>3
-  Piano            : Bb1@1>6 Bb1@7>1 Bb1@8>1 Bb1@9>1
-  Acoustic Guitar  : F3+Bb3@1>1 F3+Bb3@2>1 F3+Bb3@3>1 F3+Bb3@4>1 F3+Bb3@5>1 F3+Bb3@6>1 F3+Bb3@7>1 F3+Bb3@8>1 F3+Bb3@9>1
-  Part7            : Eb5+G5@1>9
-  Part9            : C4@1>7 D4@8>1 C4@9>1
-@121 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>3 C2@4>3 D2@7>3
-  Piano#2          : Bb3+D4@1>3 C4+Eb4@4>3 D4+F4@7>3
-  Acoustic Guitar  : Bb3+D4@1>1 Bb3+D4@2>1 Bb3+D4@3>1 C4+Eb4@4>1 C4+Eb4@5>1 C4+Eb4@6>1 D4+F4@7>1 D4+F4@8>1 D4+F4@9>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>1
-  Part9            : Bb3@1>6 Bb4@7>3
-@122 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb2@7>1 G2@8>1 Eb2@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Bb2+Bb3@1>9
-  Voice            : Bb4@1>2 Eb5@3>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@123 [F]
-  Acoustic Bass    : F2@1>6 C3@7>1 A2@8>1 F2@9>1
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>3 A3@6>1 A3+C4+F4@7>2 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : Bb3+D4@1>3 C4+Eb4@4>3 D4+F4@7>3
-  Voice            : A4@1>1 F4@2>2
-  Part9            : F4@1>1 D4@2>1
-@124 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb2@7>1 G2@8>1 Eb2@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Bb4+Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@125 [F]
-  Acoustic Bass    : F2@1>6 C3@7>1 A2@8>1 F2@9>1
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>3 C4+F4@7>3 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>3
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>1 D4@2>1
-@126 [Eb]
-  Acoustic Bass    : Eb2@1>6 Bb2@7>1 G2@8>1 Eb2@9>1
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@7>2 F4@9>1
-@127 [F]
-  Acoustic Bass    : F2@1>6 C3@7>1 A2@8>1 F2@9>1
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>3 C4+F4@7>3 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>3
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>2 D4@3>4 D4@7>1 C4@8>1 Bb3@9>1
-@128 [Eb]
-  Acoustic Bass    : Bb1@1>6 Bb1@7>3
-  Piano            : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@6>1 Bb1@7>1 Bb1@8>1 Bb1@9>1
-  Acoustic Guitar  : F3+Bb3@1>1 F3+Bb3@2>1 F3+Bb3@3>1 F3+Bb3@4>1 F3+Bb3@5>1 F3+Bb3@6>1 F3+Bb3@7>1 F3+Bb3@8>1 F3+Bb3@9>1
-  Part7            : Eb5+G5@1>9
-  Part9            : C4@1>9
-@129 [Bb]
-  Acoustic Bass    : Bb1@1>3 C2@4>3 D2@7>3
-  Piano            : Bb1@1>1 Bb1@2>1 Bb1@3>1 C2@4>3 D2@7>3
-  Piano#2          : Bb3+D4@1>3 C4+Eb4@4>3 Bb3+D4+F4@7>3
-  Acoustic Guitar  : Bb3+D4@1>1 Bb3+D4@2>1 Bb3+D4@3>1 C4+Eb4@4>1 C4+Eb4@5>1 C4+Eb4@6>1 D4+F4@7>1 D4+F4@8>1 D4+F4@9>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>1
-  Part9            : C4@1>1 D4@2>1 C4@3>1 Bb3@4>4
-@130 [Eb]
-  Acoustic Bass    : Eb2@1>9
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3+Bb3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Bb2+Bb3@1>9
-  Voice            : Bb4@1>2 Eb5@3>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@131 [F]
-  Acoustic Bass    : F2@1>6 C2@7>1 F2@8>1 C2@9>1
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>3 A3@6>1 A3+C4+F4@7>2 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : Bb3+D4@1>3 C4+Eb4@4>3 D4+F4@7>3
-  Voice            : A4@1>1 F4@2>2
-  Part9            : F4@1>1 D4@2>1
-@132 [Eb]
-  Acoustic Bass    : Eb2@1>9
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Bb4+Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@8>1 F4@9>1
-@133 [F]
-  Acoustic Bass    : F2@1>6 C2@7>1 F2@8>1 C2@9>1
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>3 C4+F4@7>3 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>3
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>1 D4@2>1
-@134 [Eb]
-  Acoustic Bass    : Eb2@1>6 Eb2@7>3
-  Piano            : Eb2@1>9
-  Piano#2          : G3+Bb3+Eb4@4>3 G3+Bb3+Eb4@7>3
-  Acoustic Guitar  : G3+Bb3+Eb4@1>3 G3+Bb3+Eb4@4>3 G3@6>1 G3+Bb3+Eb4@7>3 G3@9>1
-  Electric Guitar#2: Eb4+G4+Bb4@4>1 Eb4+G4+Bb4@7>1
-  Part7            : Eb5+G5@1>9
-  Voice            : Bb4@1>1 Eb5@2>1 Bb4@7>2 A4@9>1
-  Part9            : G4@1>1 Bb4@2>1 G4@7>2 F4@9>1
-@135 [F]
-  Acoustic Bass    : F2@1>6 F2@7>3
-  Piano            : F2@1>9
-  Piano#2          : A3+C4+F4@4>3 A3+C4+F4@7>3
-  Acoustic Guitar  : A3+C4+F4@1>3 A3+C4+F4@4>2 A3@6>3 C4+F4@7>3 A3@9>1
-  Electric Guitar#2: F4+A4+C5@4>1 F4+A4+C5@7>1
-  Part7            : F5+A5@1>3 G5+Bb5@4>3 A5+C6@7>3
-  Voice            : A4@1>1 F4@2>1
-  Part9            : F4@1>2 D4@3>4 D4@7>1 C4@8>1 Bb3@9>1
-@136 [Bb] (grid:4)
-  Acoustic Bass    : Bb1@1>3
-  Piano            : Bb1+Bb2@1>3
-  Piano#2          : F3+D4+Bb4@1>3
-  Acoustic Guitar  : F3+Bb3+D4@1>3
-  Part7            : Eb5+G5@1>3
-  Part9            : Bb3@1>3
-@137 [Bb] (grid:4)
-  Acoustic Bass    : Bb1@1>1
-  Piano            : Bb1+Bb2@1>3
-  Piano#2          : F3+D4+Bb4@1>3
-  Acoustic Guitar  : F3+Bb3+D4@1>3
-  Part7            : F5+A5@1>1 G5+Bb5@2>1 A5+C6@3>1
-  Part9            : Bb3@1>1
-@138 [Bb] (grid:4)
-  Part7            : Bb2+Bb3+F5+Bb5@1>3
-@139 [Bb] (grid:4)
-  Part7            : Bb2+Bb3+F5+Bb5@1>3
+  PRG.CHANGE   : A5@1>1^104 G5@3>1^104 F5@5>1^104 G5@7>1^104
+  PRG.CHANGE#2 : F6@2>1^104 F6@4>1^104 F6@6>1^104 F6@8>1^104
+  PRG.CHANGE#8 : C4+F4+A4@1>16^104
+  PRG.CHANGE#12: F6@1>2^104 G6@3>1^104 F6@4>3^104 F6@7>2^104
+  PRG.CHANGE#15: F2@1>16^104
+  DRUMS        : D2@1>1^104 C2@3>1^104 D2@5>1^104 D2@7>1^104 D2@8>1^80
+  PRG.CHANGE#16: F6@1>2^104 G6@3>1^104 F6@4>3^104 E6@7>2^104
+@100 [Am | C] (grid:16)
+  PRG.CHANGE   : A5@1>2^104
+  PRG.CHANGE#12: C6@1>16^104
+  DRUMS        : D2@3>1^80 D2@5>1^104 D2@7>1^80 D2@8>1^80 D2@9>1^104 D2@10>1^80 D2@11>1^80 D2@12>1^80 D2@13>1^104 D2@14>1^80 D2@15>1^80 D2@16>1^80
+  PRG.CHANGE#16: C6@1>16^104
+@101 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: F5@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@102 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : C5@3>2^104 B4@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: F5@2>1^104 F5@3>1^104 G5@4>1^104 E5@5>2^104 C5@7>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@103 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: A4@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@104 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : C5@3>2^104 B4@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: C5@2>1^104 C5@3>1^104 C5@4>1^104 E5@5>2^104 C5@7>4^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@105 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: F5@8>1^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@106 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : C5@3>2^104 B4@5>1^104 C5@6>1^104 D5@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: F5@2>1^104 F5@3>1^104 F5@4>1^104 G5@5>2^104 C5@7>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@107 [Dm | C7]
+  PRG.CHANGE   : F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#7 : A4@1>1^104 C5@2>1^104 F5@3>1^104 E5@4>2^104 C5@6>1^104 G4@7>1^104 F4@8>2^104
+  PRG.CHANGE#11: F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#12: D4@1>1^104 F4@2>1^104 A4@3>1^104 G4@4>2^104 E4@6>1^104 C4@7>1^104 A3@8>2^104
+  PRG.CHANGE#14: D5@2>1^104 C5@3>1^104 C5@4>3^104 G4@8>1^104
+  PRG.CHANGE#15: D2@1>1^104 D2@2>1^104 D2@3>1^104 E2@4>2^104 D2@6>1^104 E2@7>1^104 F2@8>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@108 [F | G]
+  PRG.CHANGE   : B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : A4@2>1^104 C5@3>1^104 A4@4>1^104 C5@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: C4@2>1^104 F4@3>1^104 C4@4>3^104 D4@7>1^104
+  PRG.CHANGE#14: A4@1>1^104 C5@2>1^104 C5@3>1^104 A4@4>1^104 C5@5>2^104 D5@7>2^104
+  PRG.CHANGE#15: E2@2>1^104 F2@3>1^104 A2@4>1^104 G2@5>2^104 G1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+C#3@7>1^104
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@109 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: C5@1>12^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@110 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : C5@3>2^104 B4@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: G5@7>2^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@111 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: G5@1>12^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@112 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : C5@3>2^104 B4@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: G5@7>2^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@113 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: G5@1>11^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@114 [F | G] (grid:16)
+  PRG.CHANGE   : A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#7 : C5@5>4^104 B4@9>2^104 C5@11>2^104 D5@13>4^104
+  PRG.CHANGE#11: A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#12: F3+A3+C4@3>2^104 F3+A3+C4@5>4^104 G3+C4+E4@9>4^104 G3+C4+E4@13>4^104
+  PRG.CHANGE#14: F5@7>4^104 E5@11>2^104 D5@13>4^104
+  PRG.CHANGE#15: A1@1>2^104 A1@3>2^104 A1@5>2^104 C2@7>2^104 B1@9>2^104 B1@11>2^104 B1@13>2^104 B1@15>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+C#3@5>1^104 C2+D2@9>1^104 D2@10>1^80 D2@11>1^80 D2@12>1^80 C2+D2@13>1^104 D2@15>1^80 D2@16>1^80
+  DRUMS#2      : D2+F#3@5>1^104 D#2@11>1^104 D2+D#2+F#3@13>1^104 D#2@15>1^104
+@115 [Dm7 | C7]
+  PRG.CHANGE   : F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#7 : A4@1>1^104 C5@2>1^104 F5@3>1^104 E5@4>2^104 C5@6>1^104 G4@7>1^104 F4@8>2^104
+  PRG.CHANGE#11: F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#12: D4@1>1^104 F4@2>1^104 A4@3>1^104 G4@4>2^104 E4@6>1^104 C4@7>1^104 A3@8>2^104
+  PRG.CHANGE#14: C5@1>8^104
+  PRG.CHANGE#15: D2@1>1^104 D2@2>1^104 D2@3>1^104 E2@4>2^104 D2@6>1^104 E2@7>1^104 F2@8>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+A#2@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@116 [F | G]
+  PRG.CHANGE   : B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : A4@2>1^104 C5@3>1^104 A4@4>1^104 C5@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: C4@2>1^104 F4@3>1^104 C4@4>3^104 D4@7>1^104
+  PRG.CHANGE#14: D5+F5@7>2^104
+  PRG.CHANGE#15: E2@2>1^104 F2@3>1^104 A2@4>1^104 G2@5>2^104 G1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+C#3@7>1^104
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@117 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: E5+G5@1>22^104 D5@7>1^104 C5@8>4^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@118 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : C5@3>2^104 B4@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: B4@4>2^104 A4@6>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@119 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: G4@1>6^104 F5@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@120 [F | G] (grid:16)
+  PRG.CHANGE   : A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#7 : C5@5>4^104 B4@9>4^104 D5@13>4^104
+  PRG.CHANGE#11: A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#12: F3+A3+C4@3>2^104 F3+A3+C4@5>4^104 G3+C4+E4@9>4^104 G3+C4+E4@13>4^104
+  PRG.CHANGE#14: F5@3>2^104 F5@5>2^104 F5@7>2^104 G5@9>4^104 G5@13>32^104
+  PRG.CHANGE#15: A1@1>2^104 A1@3>2^104 A1@5>2^104 C2@7>2^104 B1@9>2^104 B1@11>2^104 B1@13>2^104 B1@15>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 D2@11>1^80 D2@12>1^80 C2+D2@13>1^104 D2@15>1^80
+  DRUMS#2      : D2+F#3@5>1^104 D#2@11>1^104 D2+D#2+F#3@13>1^104 D#2@15>1^104
+@121 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@122 [F | G] (grid:16)
+  PRG.CHANGE   : A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#7 : C5@5>4^104 B4@9>2^104 C5@11>2^104 D5@13>4^104
+  PRG.CHANGE#11: A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#12: F3+A3+C4@3>2^104 F3+A3+C4@5>4^104 G3+C4+E4@9>4^104 G3+C4+E4@13>4^104
+  PRG.CHANGE#15: A1@1>2^104 A1@3>2^104 A1@5>2^104 C2@7>2^104 B1@9>2^104 B1@11>2^104 B1@13>2^104 B1@15>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 D2@11>1^80 D2@12>1^80 C2+D2@13>1^104 D2@15>1^80 D2@16>1^80
+  DRUMS#2      : D2+F#3@5>1^104 D#2@11>1^104 D2+D#2+F#3@13>1^104 D#2@15>1^104
+@123 [Dm | Em]
+  PRG.CHANGE   : F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#7 : A4@1>1^104 C5@2>1^104 F5@3>1^104 E5@4>2^104 C5@6>1^104 G4@7>1^104 F4@8>2^104
+  PRG.CHANGE#11: F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#12: D4@1>1^104 F4@2>1^104 A4@3>1^104 G4@4>2^104 E4@6>1^104 C4@7>1^104 A3@8>2^104
+  PRG.CHANGE#15: D2@1>1^104 D2@2>1^104 D2@3>1^104 E2@4>2^104 D2@6>1^104 E2@7>1^104 F2@8>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@124 [F | G]
+  PRG.CHANGE   : B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : A4@2>1^104 C5@3>1^104 A4@4>1^104 C5@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: C4@2>1^104 F4@3>1^104 C4@4>3^104 D4@7>1^104
+  PRG.CHANGE#14: D5@7>2^104
+  PRG.CHANGE#15: E2@2>1^104 F2@3>1^104 A2@4>1^104 G2@5>2^104 G1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+C#3@7>1^104
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@125 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: E5+G5@1>22^104 D5@7>1^104 C5@8>4^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@126 [F | G]
+  PRG.CHANGE   : A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : C5@3>2^104 B4@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: A3+C4+F4@2>1^104 A3+C4+F4@3>1^104 A3+C4+F4@4>1^104 B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: F3+A3+C4@2>1^104 F3+A3+C4@3>2^104 G3+C4+E4@5>2^104 G3+C4+E4@7>2^104
+  PRG.CHANGE#14: B4@4>2^104 A4@6>3^104
+  PRG.CHANGE#15: A1@1>1^104 A1@2>1^104 A1@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 B1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 A#2@6>1^80 C2+D2+F#2@7>1^104 A#2@8>1^80
+  DRUMS#2      : D2+F#3@3>1^104 D#2@6>1^104 D2+D#2+F#3@7>1^104 D#2@8>1^104
+@127 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#14: G4@1>6^104 F5@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@128 [F | G] (grid:16)
+  PRG.CHANGE   : A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#7 : C5@5>4^104 B4@9>4^104 D5@13>4^104
+  PRG.CHANGE#11: A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#12: F3+A3+C4@3>2^104 F3+A3+C4@5>4^104 G3+C4+E4@9>4^104 G3+C4+E4@13>4^104
+  PRG.CHANGE#14: F5@3>2^104 F5@5>2^104 F5@7>2^104 G5@9>4^104 G5@13>32^104
+  PRG.CHANGE#15: A1@1>2^104 A1@3>2^104 A1@5>2^104 C2@7>2^104 B1@9>2^104 B1@11>2^104 B1@13>2^104 B1@15>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 D2@11>1^80 D2@12>1^80 C2+D2@13>1^104 D2@15>1^80
+  DRUMS#2      : D2+F#3@5>1^104 D#2@11>1^104 D2+D#2+F#3@13>1^104 D#2@15>1^104
+@129 [C | G]
+  PRG.CHANGE   : C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#7 : C5@3>2^104 G5@5>2^104 A5@7>1^104 G5@8>3^104
+  PRG.CHANGE#11: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104 A3+C4+F4@8>2^104
+  PRG.CHANGE#12: G3+C4+E4@1>1^104 G3+C4+E4@2>1^104 G3+C4+E4@3>2^104 G3+B3+D4@5>2^104 F3+A3+C4@7>1^104 F3+A3+C4@8>2^104
+  PRG.CHANGE#15: C2@1>1^104 C2@2>1^104 C2@3>1^104 C2@4>1^104 B1@5>1^104 B1@6>1^104 B1@7>1^104 A1@8>1^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+C#3@3>1^104 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+  PRG.CHANGE#17: C4+E4+G4@3>2^104 B3+D4+G4@5>2^104
+@130 [F | G] (grid:16)
+  PRG.CHANGE   : A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#7 : C5@5>4^104 B4@9>2^104 C5@11>2^104 D5@13>4^104
+  PRG.CHANGE#11: A3+C4+F4@3>2^104 A3+C4+F4@5>2^104 A3+C4+F4@7>2^104 B3+D4+G4@9>4^104 B3+D4+G4@13>4^104
+  PRG.CHANGE#12: F3+A3+C4@3>2^104 F3+A3+C4@5>4^104 G3+C4+E4@9>4^104 G3+C4+E4@13>4^104
+  PRG.CHANGE#15: A1@1>2^104 A1@3>2^104 A1@5>2^104 C2@7>2^104 B1@9>2^104 B1@11>2^104 B1@13>2^104 B1@15>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@3>1^56 C2+D2+F#2@5>1^104 F#2@7>1^56 C2+F#2@9>1^104 D2@11>1^80 D2@12>1^80 C2+D2@13>1^104 D2@15>1^80 D2@16>1^80
+  DRUMS#2      : D2+F#3@5>1^104 D#2@11>1^104 D2+D#2+F#3@13>1^104 D#2@15>1^104
+@131 [Dm | Em]
+  PRG.CHANGE   : F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#7 : A4@1>1^104 C5@2>1^104 F5@3>1^104 E5@4>2^104 C5@6>1^104 G4@7>1^104 F4@8>2^104
+  PRG.CHANGE#11: F3+A3+D4@1>3^104 G3+B3+E4@4>4^104 A3+C4+F4@8>5^104
+  PRG.CHANGE#12: D4@1>1^104 F4@2>1^104 A4@3>1^104 G4@4>2^104 E4@6>1^104 C4@7>1^104 A3@8>2^104
+  PRG.CHANGE#15: D2@1>1^104 D2@2>1^104 D2@3>1^104 E2@4>2^104 D2@6>1^104 E2@7>1^104 F2@8>2^104
+  DRUMS        : C2+C#3@1>1^104 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+F#2@5>1^104 F#2@6>1^56 C2+D2+F#2@7>1^104 F#2@8>1^56
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104
+@132 [F | G]
+  PRG.CHANGE   : B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#7 : A4@2>1^104 C5@3>1^104 A4@4>1^104 C5@5>2^104 D5@7>2^104
+  PRG.CHANGE#11: B3+D4+G4@5>2^104 B3+D4+G4@7>2^104
+  PRG.CHANGE#12: C4@2>1^104 F4@3>1^104 C4@4>3^104 D4@7>1^104
+  PRG.CHANGE#15: E2@2>1^104 F2@3>1^104 A2@4>1^104 G2@5>2^104 G1@7>2^104
+  DRUMS        : C2+F#2@1>1^104 F#2@2>1^56 C2+D2+F#2@3>1^104 F#2@4>1^56 C2+C#3@5>1^104 C2+D2+C#3@7>1^104
+  DRUMS#2      : D2+F#3@3>1^104 D2+F#3@7>1^104

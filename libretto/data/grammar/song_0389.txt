@@ -1,0 +1,702 @@
+KEY: F minor | METER: 4/4 | TEMPO: 165 | GRID: 64th (adaptive) | BARS: 81
+VOICES: Bright Acoustic Piano[prog=1], Electric Bass (pick)[prog=34], String Ensemble 2[prog=49], Electric Guitar (jazz)[prog=26], Electric Guitar (muted)[prog=28], Alto Sax[prog=65], Tenor Sax[prog=66], Brass Section[prog=61], Trumpet[prog=56], Drums[drums], Trombone[prog=57]
+@1 [-]
+@2 [-]
+@3 [C] (grid:8)
+  Bright Acoustic Piano  : C3+C4@1>1^104 G2+G3@4>1^104 C3+C4@5>1^104 C3+C4@6>1^104 G2+G3@7>1^104
+  Electric Bass (pick)   : C2@1>1^104 G1@4>1^104 C2@5>1^104 C2@6>1^80 G1@7>1^104
+  Electric Guitar (muted): C3@1>1^104 G2@4>1^104 C3@5>1^104 C3@6>1^80 G2@7>1^104
+  Brass Section          : C4+C5@1>1^104 G3+G4@4>1^104 C4+C5@5>1^104 C4+C5@6>1^104 G3+G4@7>1^104
+  Trumpet                : C4@1>1^104 G3@4>1^104 C4@5>1^104 C4@6>1^104 G3@7>1^104
+  Drums                  : B1+E2+Db3@1>1^104 B1+E2@4>1^104 B1+E2@5>1^104 B1+E2@6>1^104 B1+E2@7>1^104
+  Trombone               : C4@1>1^104 G3@4>1^104 C4@5>1^104 C4@6>1^104 G3@7>1^104
+@4 [C]
+  Bright Acoustic Piano  : C3+C4@1>6^104 G2+G3@25>6^104 C3+C4@33>4^104 C3+C4@41>5^104 G2+G3@49>6^104
+  Electric Bass (pick)   : C2@1>8^104 G1@25>8^104 C2@33>6^104 C2@41>6^80 G1@49>7^104
+  Electric Guitar (muted): C3@1>10^104 G2@25>6^104 C3@33>4^104 C3@41>5^104 G2@49>6^104
+  Brass Section          : C4+C5@1>8^104 G3+G4@25>6^104 C4+C5@33>5^104 C4+C5@41>6^104 G3+G4@49>6^104
+  Trumpet                : C4@1>6^104 G3@25>4^104 C4@33>4^104 C4@41>7^104 G3@49>5^104
+  Drums                  : B1+E2+G3@1>1^104 B1+E2@25>1^104 B1+E2@33>1^104 B1+E2@41>1^104 B1+E2@49>1^104
+  Trombone               : C4@1>7^104 G3@25>6^104 C4@33>5^104 C4@41>7^104 G3@49>5^104
+@5 [C] (grid:8)
+  Bright Acoustic Piano  : C3+C4@1>1^104 G2+G3@4>1^104 C3+C4@5>1^104 C3+C4@6>1^80 G2+G3@7>1^104
+  Electric Bass (pick)   : C2@1>1^104 G1@4>1^104 C2@5>1^104 C2@6>1^80 G1@7>1^104
+  Electric Guitar (muted): C3@1>1^104 G2@4>1^104 C3@5>1^104 C3@6>1^104 G2@7>1^104
+  Brass Section          : C4+C5@1>1^104 G3+G4@4>1^104 C4+C5@5>1^104 C4+C5@6>1^104 G3+G4@7>1^104
+  Trumpet                : C4@1>1^104 G3@4>1^104 C4@5>1^104 C4@6>1^80 G3@7>1^104
+  Drums                  : B1+E2+A3@1>1^104 B1+E2@4>1^104 B1+E2@5>1^104 B1+E2@6>1^104 B1+E2@7>1^104
+  Trombone               : C4@1>1^104 G3@4>1^104 C4@5>1^104 C4@6>1^104 G3@7>1^80
+@6 [C] (grid:8)
+  Bright Acoustic Piano  : C3+C4@1>1^104 C4+G4@6>1^104 C4+G4@7>1^80 C4+G4@8>1^104
+  Electric Bass (pick)   : C2@1>1^104 C2@6>1^104 C2@7>1^80 C2@8>1^80
+  Electric Guitar (muted): C3@1>1^104 C3@6>1^104 C3@7>1^104 C3@8>1^104
+  Brass Section          : C4+C5@1>1^104 C4+C5@6>1^104 C4+C5@7>1^104 C4+C5@8>1^104
+  Trumpet                : C5@1>1^104 C5@6>1^104 C5@7>1^104 C5@8>1^104
+  Drums                  : B1+E2+E3@1>1^104 B1+E2@6>1^104 B1+E2@7>1^104 B1+E2@8>1^104
+  Trombone               : C4@1>1^104 C5@6>1^104 C5@7>1^104 C5@8>1^104
+@7 [C]
+  Bright Acoustic Piano  : C4+G4@1>5^104
+  Electric Bass (pick)   : C2@1>8^104
+  String Ensemble 2      : Bb3+Db4+F4@63>62^104
+  Electric Guitar (jazz) : C4@9>4^104 C4@17>4^80 C4@25>4^104 C4@33>3^80 C4@41>2^80 C4@49>4^80 G3@57>4^104
+  Electric Guitar (muted): C3@1>5^104
+  Brass Section          : C4+C5@1>6^104
+  Trumpet                : C5@1>10^104
+  Drums                  : B1+E2+Bb2@1>1^104 A2@49>1^56 A2@57>1^80
+  Trombone               : C5@1>5^104
+@8 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>5^80 Bb3+Db4+F4@25>6^104 Bb3+Db4+F4@49>11^80
+  Electric Bass (pick)   : Bb1@1>14^104 Db2@17>15^104 F2@33>13^104 Db2@49>12^104
+  String Ensemble 2      : E4@61>64^104 C4@62>61^104 G4@63>64^104
+  Electric Guitar (jazz) : Bb3@1>21^104 Bb3@25>19^104
+  Electric Guitar (muted): Bb2@1>4^104 Bb2@9>2^80 Bb2@17>4^104 Bb2@25>5^104 Bb2@33>2^104 Bb2@41>4^104 Bb2@49>3^104 Bb2@57>3^104
+  Drums                  : B1+Db3+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@9 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^104 C4+E4+G4@49>12^80
+  Electric Bass (pick)   : C2@1>15^104 E2@17>15^104 G2@33>15^104 E2@49>11^104
+  String Ensemble 2      : Db4+F4@64>63^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>3^80 C4@25>3^80 C4@33>3^104 C4@41>3^80 C4@49>4^104 G3@57>3^104
+  Electric Guitar (muted): C3@1>4^104 C3@9>4^104 C3@25>4^104 C3@33>3^104 C3@41>4^104 C3@49>3^104 C3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@10 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^80 Bb3+Db4+F4@25>4^80 Bb3+Db4+F4@49>12^80
+  Electric Bass (pick)   : Bb1@1>13^104 Db2@17>16^104 F2@33>14^104 Db2@49>11^104
+  String Ensemble 2      : Bb3@1>60^104
+  Electric Guitar (jazz) : Bb3@1>19^104 Bb3@25>21^104
+  Electric Guitar (muted): Bb2@1>4^104 Bb2@9>3^104 Bb2@25>4^104 Bb2@41>4^104 Bb2@49>3^104 Bb2@57>2^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@11 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^80 C4+E4+G4@25>4^80 C4+E4+G4@49>10^104
+  Electric Bass (pick)   : C2@1>15^104 E2@17>15^104 G2@33>15^104 E2@49>10^104
+  String Ensemble 2      : C4+E4+G4@1>183^104 F4@62>65^104 Ab4@63>62^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>3^80 C4@25>3^104 C4@33>6^104 Db4@41>8^104 C4@49>5^104 Bb3@57>5^104
+  Electric Guitar (muted): C3@1>3^104 C3@9>4^104 C3@17>2^80 C3@25>4^104 C3@41>4^104 C3@49>3^80 C3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@12 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^104 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>11^104
+  Electric Bass (pick)   : F1@1>14^104 Ab1@17>16^104 C2@33>13^104 Ab1@49>14^104
+  String Ensemble 2      : E4@63>55^104 G4@64>59^104
+  Electric Guitar (jazz) : C4@1>13^104 Bb3@17>6^104 Ab3@25>24^104
+  Electric Guitar (muted): F3@1>3^80 F3@9>4^104 F3@25>4^104 F3@41>4^104 F3@49>2^56 F3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@13 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>5^104 C4+E4+G4@25>4^104 C4+E4+G4@49>9^104
+  Electric Bass (pick)   : C2@1>13^104 E2@17>15^104 G2@33>15^104 E2@49>11^104
+  String Ensemble 2      : Ab3+C4@63>12^104 F4@64>11^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>4^104 C4@25>4^104 C4@33>7^104 Db4@41>8^104 C4@49>5^104 Bb3@57>5^104
+  Electric Guitar (muted): C3@1>4^104 C3@9>4^104 C3@25>4^104 C3@33>2^56 C3@41>3^104 C3@49>3^104 C3@57>3^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@14 [Fm7] (grid:16)
+  Bright Acoustic Piano  : F2+F4@1>1^104
+  Electric Bass (pick)   : F1@1>2^104
+  Electric Guitar (jazz) : C4@1>3^104 Bb3@5>1^104 Ab3@7>4^104
+  Electric Guitar (muted): F3@1>1^104
+  Brass Section          : F3+F4@3>3^104 Ab3+Ab4@5>1^104 Bb3+Bb4@7>1^104 B3+B4@9>2^104 Bb3+Bb4@10>2^104 Ab3+Ab4@11>2^104 F3+F4@13>1^104 Eb3+Eb4@15>1^104
+  Trumpet                : F4@3>1^104 Ab4@5>1^104 Bb4@7>1^104 B4@9>2^104 Bb4@11>1^80 F4@13>1^104 Eb4@15>1^104
+  Drums                  : B1@1>1^104 E2@3>1^104 E2@5>1^104 E2@7>1^104 E2@9>1^104 E2@10>1^80 E2@11>1^104 E2@13>1^104 E2@15>1^104
+  Trombone               : F4@3>1^104 Ab4@5>1^104 Bb4@7>1^104 B4@9>2^104 Bb4@11>2^80 Ab4@13>1^104 F4@15>1^104
+@15 [F | C]
+  String Ensemble 2      : Bb3+Db4+F4@63>61^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>2^104 C4@25>3^104 C4@33>3^104 C4@41>3^80 C4@49>4^80 G3@57>4^104
+  Brass Section          : F3+F4@1>8^104
+  Trumpet                : F4@1>10^104
+  Drums                  : B1+E2+Bb2@1>1^104 A2@41>1^80 G2@49>1^104
+  Trombone               : F4@1>10^104
+@16 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>5^104 Bb3+Db4+F4@25>5^104 Bb3+Db4+F4@49>11^104
+  Electric Bass (pick)   : Bb1@1>14^104 Db2@17>16^104 F2@33>14^104 Db2@49>13^104
+  String Ensemble 2      : C4@61>59^104 E4+G4@62>62^104
+  Electric Guitar (jazz) : Bb3@1>20^104 Bb3@25>10^104
+  Electric Guitar (muted): Bb2@1>2^104 Bb2@9>5^104 Bb3@17>5^104 Bb2@25>3^104 Bb2@33>3^104 Bb2@41>4^104 Bb3@49>4^104 Bb2@57>3^104
+  Alto Sax               : F3@9>4^104 F3@25>8^104 E3@33>8^104 F3@41>7^80 E3@49>6^104 F3@57>5^104
+  Tenor Sax              : Ab3@9>4^104 Ab3@25>8^104 G3@33>7^80 Ab3@41>8^80 G3@49>6^80 Ab3@57>4^80
+  Drums                  : B1+Db3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@17 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>3^80 C4+E4+G4@49>7^104
+  Electric Bass (pick)   : C2@1>15^104 E2@17>16^104 G2@33>15^104 E2@49>14^104
+  String Ensemble 2      : Db4@62>62^104 Bb3+F4@63>63^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>3^104 C4@25>3^80 C4@33>3^104 C4@41>3^104 C4@49>4^104 G3@57>4^104
+  Electric Guitar (muted): C3@1>4^104 C3@9>4^104 C4@17>3^104 C4@25>4^56 C3@33>2^80 C3@41>4^104 C4@49>6^104 C3@57>2^80
+  Alto Sax               : G3@9>5^104 G3@25>8^80 Gb3@33>7^104 G3@41>8^104 Gb3@49>6^104 G3@57>5^104
+  Tenor Sax              : Bb3@9>4^104 Bb3@25>8^104 A3@33>7^80 Bb3@41>7^104 A3@49>6^104 Bb3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@18 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^104 Bb3+Db4+F4@25>4^80 Bb3+Db4+F4@49>9^104
+  Electric Bass (pick)   : Bb1@1>15^104 Db2@17>15^104 F2@33>14^104 Db2@49>13^104
+  String Ensemble 2      : C4@64>186^104
+  Electric Guitar (jazz) : Bb3@1>19^104 Bb3@25>19^104
+  Electric Guitar (muted): Bb2@1>4^104 Bb2@9>5^104 Bb3@17>3^104 Bb3@25>4^104 Bb2@33>2^104 Bb2@41>4^104 Bb3@49>4^104 Bb2@57>3^104
+  Alto Sax               : F3@9>4^104 F3@25>8^104 E3@33>7^104 F3@41>7^104 E3@49>6^104 F3@57>5^104
+  Tenor Sax              : Ab3@9>4^104 Ab3@25>8^104 G3@33>6^80 Ab3@41>8^80 G3@49>5^104 Ab3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@19 [C7]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>7^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>14^104 G2@33>16^104 E2@49>14^104
+  String Ensemble 2      : E4+G4@1>60^104 F4+Ab4@63>61^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>3^104 C4@25>3^104 C4@33>6^104 Db4@41>8^104 C4@49>6^104 Bb3@57>6^104
+  Electric Guitar (muted): C3@1>4^104 C3@9>5^104 C4@17>3^104 C4@25>5^80 C3@33>3^104 C3@41>4^104 C4@49>5^104 C3@57>4^104
+  Alto Sax               : G3@9>4^104 G3@25>8^104 Gb3@33>7^104 G3@41>6^104 Gb3@49>6^104 G3@57>5^104
+  Tenor Sax              : Bb3@9>4^104 Bb3@25>8^104 A3@33>7^104 Bb3@41>7^104 A3@49>4^80 Bb3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@20 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^104 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>11^104
+  Electric Bass (pick)   : F1@1>14^104 Ab1@17>14^104 C2@33>15^104 Ab1@49>13^104
+  String Ensemble 2      : E4@61>62^104 G4@62>61^104
+  Electric Guitar (jazz) : C4@1>12^104 Bb3@17>7^104 Ab3@25>23^104
+  Electric Guitar (muted): F3@1>3^104 F3@9>4^104 F3@25>6^104 F3@41>5^104 F3@57>4^104
+  Alto Sax               : Ab3@9>4^104 Ab3@25>8^104 G3@33>6^80 Ab3@41>7^104 G3@49>7^104 Ab3@57>5^104
+  Tenor Sax              : C4@9>4^104 C4@25>8^104 Bb3@33>6^104 C4@41>6^104 Bb3@49>5^104 C4@57>5^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@21 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>5^80 C4+E4+G4@49>10^80
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>14^104 E2@49>13^104
+  String Ensemble 2      : C4+F4@62>11^104
+  Electric Guitar (jazz) : C4@9>4^104 C4@17>3^104 C4@25>3^104 C4@33>6^104 Db4@41>7^104 C4@49>5^80 Bb3@57>4^104
+  Electric Guitar (muted): C3@1>3^104 C3@9>4^104 C4@17>3^104 C4@25>5^104 C3@33>3^104 C4@41>4^104 C3@49>3^104 C3@57>4^104
+  Alto Sax               : G3@9>4^104 G3@25>8^104 Gb3@33>6^104 G3@41>7^104 Gb3@49>6^104 G3@57>6^104
+  Tenor Sax              : Bb3@9>4^104 Bb3@25>8^104 A3@33>6^80 Bb3@41>8^104 A3@49>6^104 Bb3@57>6^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+E2+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@22 [Fm7]
+  Bright Acoustic Piano  : F2@1>5^104
+  Electric Bass (pick)   : F1@1>12^104
+  Electric Guitar (jazz) : C4@1>14^104 Bb3@17>7^80 Ab3@25>21^104
+  Electric Guitar (muted): F3@1>6^104
+  Alto Sax               : F3@1>6^104
+  Tenor Sax              : Ab3@1>5^104
+  Brass Section          : F3+F4@9>11^104 Ab3+Ab4@17>5^104 Bb3+Bb4@25>5^104 B3+B4@33>6^104 Bb3+Bb4@37>6^104 Ab3+Ab4@41>6^104 F3+F4@49>6^104 Eb3+Eb4@57>4^104
+  Trumpet                : F4@9>3^104 Ab4@17>4^104 Bb4@25>4^104 B4@33>7^104 Bb4@41>5^80 F4@49>6^104 Eb4@57>6^104
+  Drums                  : B1@1>1^104 E2@9>1^104 E2@17>1^104 E2@25>1^104 E2@33>1^104 E2@37>1^80 E2@41>1^104 E2@49>1^104 E2@57>1^104
+  Trombone               : F4@9>6^104 Ab4@17>5^104 Bb4@25>4^104 Bb4@32>2^80 B4@33>5^104 Ab4@41>6^104 F4@49>6^104 Eb4@57>4^104
+@23 [Fm | Eb]
+  Electric Guitar (jazz) : F3@9>7^104 G3@17>6^80 Ab3@25>7^104 Bb3@33>8^104 Ab3@41>6^80 G3@49>6^104 Eb3@57>6^104
+  Brass Section          : F3+F4@1>8^104
+  Trumpet                : F4@1>12^104
+  Drums                  : B1+E2+Bb2+G3@1>1^104
+  Trombone               : F4@1>12^104
+@24 [F7 | Eb7] (grid:8)
+  Bright Acoustic Piano  : F2@3>1^80 Eb2@4>1^104 Db2@6>1^104 Eb2@7>1^104
+  Electric Bass (pick)   : F2@3>1^104 Eb2@4>1^104 Db2@6>1^104 Eb2@7>1^104
+  Electric Guitar (jazz) : F3@1>2^104 F3@3>1^80
+  Brass Section          : F3+F4@3>1^104 Eb3+Eb4@4>1^104 Db3+Db4@6>1^104 Eb3+Eb4@7>1^104
+  Trumpet                : F5@3>1^104 Eb5@4>1^104 Db5@6>1^104 Eb5@7>1^104
+  Drums                  : F2+A2+C3@1>1^80 E2@3>1^104 E2@4>1^104 E2@6>1^104 E2@7>1^104
+  Trombone               : F5@3>1^104 Eb5@4>1^80 Db5@6>1^104 Eb5@7>1^104
+@25 [Fm | Eb] (grid:8)
+  Bright Acoustic Piano  : F2@1>1^104
+  Electric Bass (pick)   : F2@1>1^104
+  Electric Guitar (jazz) : F3@2>1^104 G3@3>1^104 Ab3@4>1^104 Bb3@5>1^104 Ab3@6>1^80 G3@7>1^104 Eb3@8>1^104
+  Brass Section          : F3+F4@1>1^104
+  Trumpet                : F5@1>2^104
+  Drums                  : B1+E2+Bb2@1>1^104
+  Trombone               : F5@1>1^104
+@26 [Fm7 | Eb7] (grid:8)
+  Bright Acoustic Piano  : F2@3>1^104 Eb2@4>1^104 Db2@6>1^104 Eb2@7>1^104
+  Electric Bass (pick)   : F2@3>1^104 Eb2@4>1^104 Db2@6>1^104 Eb2@7>1^104
+  Electric Guitar (jazz) : F3@1>2^104
+  Alto Sax               : Ab3@3>1^104 G3@4>1^80 F3@6>1^104 G3@7>1^80
+  Tenor Sax              : C4@3>1^104 Bb3@4>1^104 Ab3@6>1^104 Bb3@7>1^104
+  Brass Section          : F3+F4@3>1^104 Eb3+Eb4@4>1^104 Db3+Db4@6>1^104 Eb3+Eb4@7>1^104
+  Trumpet                : F5@3>1^104 Eb5@4>1^104 Db5@6>1^104 Eb5@7>1^104
+  Drums                  : F2+A2+C3@1>1^80 E2@3>1^104 E2@4>1^104 E2@6>1^104 E2@7>1^104
+  Trombone               : F4@3>1^104 Eb4@4>1^104 Db4@6>1^104 Eb4@7>1^104
+@27 [Fm]
+  Bright Acoustic Piano  : F2@1>8^104
+  Electric Bass (pick)   : F2@1>11^104
+  String Ensemble 2      : Ab4@63>126^104 F4@64>125^104
+  Electric Guitar (jazz) : F3@9>6^104 G3@17>7^104 Ab3@25>7^104 Bb3@33>8^80 Ab3@41>6^104 G3@49>6^80 Ab3@57>5^80
+  Alto Sax               : Ab3@1>8^104
+  Tenor Sax              : C4@1>8^104
+  Brass Section          : F3+F4@1>8^104
+  Trumpet                : F5@1>11^104
+  Drums                  : B1+E2+Bb2@1>1^104 G2@41>1^80 F2@49>1^56 F2@57>1^80
+  Trombone               : F4@1>10^104
+@28 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>3^104 C4+F4+Ab4@25>4^104 C4+F4+Ab4@49>14^104
+  Electric Bass (pick)   : F1@1>12^104 F1@17>12^104 F1@33>11^104 F1@49>13^104
+  Electric Guitar (jazz) : C4@1>59^104
+  Electric Guitar (muted): F3@1>3^104 F3@9>4^104 F3@25>5^104 F3@41>5^104 F3@57>5^104
+  Brass Section          : F3@1>64^104
+  Trumpet                : F4@1>125^104
+  Drums                  : B1+Db3+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@29 [Bbm]
+  Bright Acoustic Piano  : Ab3+Db4+F4@17>4^80 Ab3+Db4+F4@25>5^104 Ab3+Db4+F4@49>9^104
+  Electric Bass (pick)   : Bb1@1>14^104 Bb1@17>12^104 Bb1@33>12^104 Bb1@49>9^104
+  String Ensemble 2      : Bb4@61>62^104 G4@62>58^104
+  Electric Guitar (jazz) : Db4@1>58^104
+  Electric Guitar (muted): Bb2@1>3^104 Bb2@9>4^104 Bb2@25>4^104 Bb2@41>4^104 Bb2@57>4^104
+  Brass Section          : Bb3@1>57^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@30 [Eb]
+  Bright Acoustic Piano  : Bb3+Eb4+G4@17>4^104 Bb3+Eb4+G4@25>5^80 Bb3+Eb4+G4@49>10^104
+  Electric Bass (pick)   : Eb2@1>12^104 Eb2@17>4^104 Eb2@25>11^104 Eb2@41>4^104 Eb2@49>10^104
+  String Ensemble 2      : Eb4+Ab4@62>10^104
+  Electric Guitar (jazz) : Eb4@1>7^104 Eb4@17>5^104 Eb4@25>8^104 Db4@41>6^104 Bb3@49>6^104
+  Electric Guitar (muted): Eb3@1>3^104 Eb3@17>4^104 Eb3@25>5^104 Eb3@41>3^104 Eb3@49>5^104
+  Brass Section          : Eb4+Eb5@1>7^104 Eb4+Eb5@17>6^104 Eb4+Eb5@25>10^104 Db4+Db5@41>6^104 Bb3+Bb4@49>8^104
+  Trumpet                : G4@1>5^80 G4@17>5^104 G4@25>5^80 G4@41>3^104 G4@49>6^80
+  Drums                  : E2+Ab2@1>1^104 E2+Ab2@17>1^104 E2+Ab2@25>1^104 E2+Ab2@41>1^104 E2+Ab2@49>1^104
+  Trombone               : Eb5@1>5^104 Eb5@17>6^104 Eb5@25>6^80 Eb5@41>4^104 Eb5@49>6^80
+@31 [Ab | C]
+  Bright Acoustic Piano  : Ab3+C4+Eb4@1>6^104
+  Electric Bass (pick)   : Ab1@1>9^104
+  String Ensemble 2      : Bb3+Db4+F4@63>61^104
+  Electric Guitar (jazz) : Ab3@1>4^104 C4@9>4^104 C4@17>4^104 C4@25>4^104 C4@33>3^104 C4@41>3^80 C4@49>4^104 G3@57>4^104
+  Electric Guitar (muted): Ab2@1>8^104
+  Brass Section          : Ab3+Ab4@1>9^104
+  Trumpet                : Ab4@1>10^104
+  Drums                  : B1+E2+Bb2+G3@1>1^104
+  Trombone               : Ab4@1>11^104
+@32 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>5^80 Bb3+Db4+F4@25>6^104 Bb3+Db4+F4@49>11^104
+  Electric Bass (pick)   : Bb1@1>15^104 Db2@17>16^104 F2@33>16^104 Db2@49>12^104
+  String Ensemble 2      : C4@61>58^104 G4@62>63^104 E4@63>61^104
+  Electric Guitar (jazz) : Bb3@1>21^104 Bb3@25>15^104
+  Electric Guitar (muted): Bb2@1>3^104 Bb2@9>4^104 Bb3@17>3^104 Bb3@25>4^104 Bb2@33>2^80 Bb2@41>4^104 Bb3@49>4^104 Bb2@57>4^104
+  Alto Sax               : F3@9>4^80 F3@25>8^104 E3@33>6^104 F3@41>6^104 E3@49>6^104 F3@57>4^104
+  Tenor Sax              : Ab3@9>4^80 Ab3@25>8^104 G3@33>8^104 Ab3@41>8^104 G3@49>6^104 Ab3@57>4^104
+  Drums                  : B1+E3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@33 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>10^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>15^104 E2@49>12^104
+  String Ensemble 2      : Bb3+F4@62>63^104 Db4@63>61^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>3^80 C4@25>4^104 C4@33>3^104 C4@41>3^104 C4@49>4^80 G3@57>4^104
+  Electric Guitar (muted): C3@1>4^104 C3@9>4^104 C4@17>3^104 C4@25>4^104 C3@41>4^104 C4@49>5^104 C3@57>4^104
+  Alto Sax               : G3@9>4^104 G3@25>8^104 Gb3@33>6^104 G3@41>8^104 Gb3@49>6^104 G3@57>5^104
+  Tenor Sax              : Bb3@9>4^104 Bb3@25>8^104 A3@33>6^104 Bb3@41>7^104 A3@49>6^104 Bb3@57>4^80
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@34 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^104 Bb3+Db4+F4@25>4^80 Bb3+Db4+F4@49>10^104
+  Electric Bass (pick)   : Bb1@1>15^104 Db2@17>15^104 F2@33>15^104 Db2@49>14^104
+  String Ensemble 2      : C4@63>188^104 E4+G4@64>59^104
+  Electric Guitar (jazz) : Bb3@1>20^104 Bb3@25>25^104
+  Electric Guitar (muted): Bb2@1>4^104 Bb2@9>4^104 Bb3@17>3^104 Bb3@25>4^104 Bb2@33>2^80 Bb2@41>4^104 Bb3@49>4^104 Bb2@57>4^104
+  Alto Sax               : F3@9>4^104 F3@25>8^104 E3@33>8^104 F3@41>7^104 E3@49>6^104 F3@57>4^104
+  Tenor Sax              : Ab3@9>4^104 Ab3@25>8^104 G3@33>8^104 Ab3@41>7^104 G3@49>6^104 Ab3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@35 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^104 C4+E4+G4@49>11^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>15^104 E2@49>13^104
+  String Ensemble 2      : F4@61>64^104 Ab4@63>62^104
+  Electric Guitar (jazz) : C4@9>4^104 C4@17>3^104 C4@25>2^80 C4@33>6^104 Db4@41>7^104 C4@49>6^104 Bb3@57>5^104
+  Electric Guitar (muted): C3@1>4^104 C3@9>4^104 C4@17>3^104 C4@25>5^104 C3@41>4^104 C4@49>5^104 C3@57>4^104
+  Alto Sax               : G3@9>4^104 G3@25>8^104 Gb3@33>8^104 G3@41>7^104 Gb3@49>6^104 G3@57>5^104
+  Tenor Sax              : Bb3@9>4^104 Bb3@25>8^104 A3@33>6^80 Bb3@41>8^104 A3@49>7^104 Bb3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@36 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^104 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>9^104
+  Electric Bass (pick)   : F1@1>14^104 Ab1@17>15^104 C2@33>14^104 Ab1@49>14^104
+  String Ensemble 2      : E4+G4@63>63^104
+  Electric Guitar (jazz) : C4@1>15^104 Bb3@17>7^104 Ab3@25>27^104
+  Electric Guitar (muted): F3@1>3^104 F3@9>4^104 F3@25>5^104 F3@41>4^104 F3@57>4^104
+  Alto Sax               : Ab3@9>4^104 Ab3@25>8^104 G3@33>6^104 Ab3@41>7^104 G3@49>5^104 Ab3@57>6^104
+  Tenor Sax              : C4@9>4^104 C4@25>8^104 Bb3@33>7^104 C4@41>7^104 Bb3@49>5^104 C4@57>5^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@37 [C7]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>5^80 C4+E4+G4@49>9^104
+  Electric Bass (pick)   : C2@1>15^104 E2@17>16^104 G2@33>15^104 E2@49>13^104
+  String Ensemble 2      : C4@63>13^104 F4@64>13^104
+  Electric Guitar (jazz) : C4@9>4^104 C4@17>3^80 C4@25>3^104 C4@33>6^104 Db4@41>8^104 C4@49>6^104 Bb3@57>5^104
+  Alto Sax               : G3@9>4^104 G3@25>8^104 Gb3@33>7^104 G3@41>6^104 Gb3@49>6^104 G3@57>6^104
+  Tenor Sax              : Bb3@9>5^104 Bb3@25>8^104 A3@33>7^104 Bb3@41>8^80 A3@49>6^104 Bb3@57>6^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@38 [Fm7] (grid:16)
+  Bright Acoustic Piano  : C4+F4+Ab4@1>2^104
+  Electric Bass (pick)   : F1@1>3^104
+  Electric Guitar (jazz) : C4@1>4^104 Bb3@5>2^104 Ab3@7>4^104
+  Alto Sax               : F3@1>2^104
+  Tenor Sax              : Ab3@1>1^104
+  Brass Section          : F3+F4@3>2^104 Ab3+Ab4@5>1^104 Bb3+Bb4@7>1^104 B3+B4@9>2^104 Bb3+Bb4@10>1^80 Ab3+Ab4@11>2^104 F3+F4@13>1^104 Eb3+Eb4@15>1^104
+  Trumpet                : F4@3>1^104 Ab4@5>1^104 Bb4@7>1^104 B4@9>2^104 Bb4@11>1^80 Ab4@13>1^104 F4@15>1^104
+  Drums                  : B1@1>1^104 E2@3>1^104 E2@5>1^104 E2@7>1^104 E2@9>1^104 E2@10>1^80 E2@11>1^104 E2@13>1^104 E2@15>1^104
+  Trombone               : F4@3>2^104 Ab4@5>2^104 Bb4@7>1^104 B4@9>2^104 Ab4@11>2^80 F4@13>1^104 Eb4@15>1^104
+@39 [F | Faug]
+  Electric Bass (pick)   : F1@17>3^56 F1@25>4^80 F1@33>4^80 F1@41>4^104 F1@49>3^80 F1@57>5^80
+  String Ensemble 2      : Db4@63>56^104 F4@64>60^104
+  Alto Sax               : F3@9>2^32 F3@17>3^80 F3@25>3^104 F3@33>3^104 F3@41>5^104 G3@49>7^104 F3@57>3^104
+  Tenor Sax              : F3@9>3^80 F3@17>3^80 F3@25>4^104 F3@33>3^104 F3@41>5^104 G3@49>8^104 F3@57>4^104
+  Brass Section          : F3+F4@1>7^104 F3+F4@9>3^80 F3+F4@17>3^80 F3+F4@25>3^104 F3+F4@33>3^104 F3+F4@41>4^104 G3+G4@49>11^104 F3+F4@57>4^104
+  Trumpet                : F4@1>12^104 F4@17>3^80 F4@25>3^80 F4@33>3^104 F4@41>4^104 G4@49>7^104 F4@57>4^104
+  Drums                  : B1+E2+Bb2@1>1^104 A2@25>1^32 A2@33>1^56 A2@41>1^80 G2@49>1^104 G2@57>1^80
+  Trombone               : F4@1>10^104 F4@17>2^56 F4@25>3^80 F4@33>3^80 F4@41>5^80 G4@49>7^104 F4@57>4^80
+@40 [Bbm | Gm7]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>5^80 Bb3+Db4+F4@25>5^80 Bb3+Db4+F4@49>10^104
+  Electric Bass (pick)   : Bb1@1>13^104 Db2@17>15^104 F2@33>15^104 Db2@49>13^104
+  String Ensemble 2      : C4@60>32^104 E4@61>64^104
+  Alto Sax               : Db4@1>7^104 Db4@9>6^104 C4@17>5^104 Bb3@33>5^104 Ab3@49>5^104 G3@57>8^104
+  Tenor Sax              : Db4@1>6^104 Db4@9>6^80 C4@17>6^104 Bb3@33>6^104 Ab3@49>8^104 G3@57>12^104
+  Brass Section          : Db4+Db5@1>12^104 Db5@9>7^104 C4+C5@17>6^104 Bb3+Bb4@33>7^104 Ab3+Ab4@49>6^104 G3+G4@57>14^104
+  Trumpet                : Db5@1>6^104 Db5@9>7^104 C5@17>5^104 Bb4@33>5^104 Ab4@49>4^104 G4@57>11^104
+  Drums                  : B1+Db3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : Db5@1>7^104 Db5@9>6^104 C5@17>6^104 Bb4@33>5^104 Ab4@49>6^104 G4@57>8^104
+@41 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>11^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>15^104 E2@49>15^104
+  String Ensemble 2      : G4@31>30^104 Db4+F4@64>60^104
+  Alto Sax               : G3@9>6^104 F3@17>6^104 E3@33>6^104 C3@49>4^104
+  Tenor Sax              : G3@9>6^104 F3@17>6^104 E3@33>8^104 C3@49>6^104
+  Brass Section          : G3+G4@9>5^104 F3+F4@17>7^104 E3+E4@33>7^104 C3+C4@49>6^104
+  Trumpet                : G4@9>4^104 F4@17>6^104 E4@33>10^104 F4@43>5^104 C4@49>5^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : G4@9>5^104 F4@17>6^104 E4@33>15^104 C4@48>4^104
+@42 [Bbm | Gm7]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^104 Bb3+Db4+F4@25>4^80 Bb3+Db4+F4@49>11^104
+  Electric Bass (pick)   : Bb1@1>14^104 Db2@17>16^104 F2@33>16^104 Db2@49>11^104
+  String Ensemble 2      : C4+E4@62>63^104
+  Alto Sax               : Db4@1>6^104 Db4@9>6^80 C4@17>6^104 Bb3@33>4^104 Ab3@49>7^104 G3@57>11^104
+  Tenor Sax              : Db4@1>6^104 Db4@9>7^80 C4@17>6^104 Bb3@33>5^104 Ab3@49>8^104 G3@57>13^104
+  Brass Section          : Db4+Db5@1>14^104 Db5@9>6^104 C4+C5@17>6^104 Bb3+Bb4@33>7^104 Ab3+Ab4@49>7^104 G3+G4@57>12^104
+  Trumpet                : Db5@1>6^104 Db5@9>6^104 C5@17>6^104 Bb4@33>5^104 Ab4@49>7^104 G4@57>10^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : Db5@1>6^104 Db5@9>7^104 C5@17>6^104 Bb4@33>5^104 Ab4@49>5^104 G4@57>12^104
+@43 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>9^104
+  Electric Bass (pick)   : C2@1>15^104 E2@17>16^104 G2@33>13^104 E2@49>13^104
+  String Ensemble 2      : G4@32>31^104 F4+Ab4@63>62^104
+  Alto Sax               : G3@9>5^104 F3@17>7^104 E3@33>6^104 C3@49>4^104
+  Tenor Sax              : G3@9>6^104 F3@17>6^104 E3@33>6^104 C3@49>4^104
+  Brass Section          : G3+G4@9>6^104 F3+F4@17>7^104 E3+E4@33>7^104 C3+C4@49>8^104
+  Trumpet                : G4@9>4^104 F4@17>7^104 E4@33>8^104 F4@41>5^104 E4@44>5^104 C4@48>6^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : G4@9>4^104 F4@17>6^104 E4@33>16^104 C4@49>5^104
+@44 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^104 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>12^104
+  Electric Bass (pick)   : F1@1>14^104 Ab1@17>15^104 C2@33>14^104 Ab1@49>13^104
+  String Ensemble 2      : E4+G4@62>63^104
+  Alto Sax               : F3@1>5^104 F3@9>6^104 E3@17>6^104 F3@33>6^104 G3@49>4^104 Ab3@57>14^104
+  Tenor Sax              : F3@1>6^104 F3@9>7^104 E3@17>6^104 F3@33>6^104 G3@49>4^104 Ab3@57>14^104
+  Brass Section          : F3+F4@1>14^104 F4@9>7^80 E3+E4@17>7^104 F3+F4@33>6^104 G3+G4@49>12^104 Ab3+Ab4@57>24^104
+  Trumpet                : F4@1>7^104 F4@9>7^104 E4@17>7^104 F4@33>6^104 G4@49>4^104 Ab4@57>12^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : F4@1>16^104 E4@17>6^104 F4@33>5^104 G4@49>4^104 Ab4@57>14^104
+@45 [C | Caug]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^80 C4+E4+G4@25>4^80 C4+E4+G4@49>9^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>15^104 E2@49>15^104
+  String Ensemble 2      : F4+Ab4@62>66^104
+  Alto Sax               : Ab3@9>6^104 G3@17>6^104 Ab3@33>6^104 Bb3@49>6^80 C4@57>12^104
+  Tenor Sax              : Ab3@9>6^104 G3@17>6^104 Ab3@33>5^104 Bb3@49>4^80 C4@57>13^104
+  Brass Section          : Ab4@9>8^104 G3+G4@17>6^104 Ab3+Ab4@33>6^104 Bb3+Bb4@49>10^104 C4+C5@57>11^104
+  Trumpet                : Ab4@9>7^104 G4@17>6^104 Ab4@33>6^104 Bb4@49>4^104 C5@57>14^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : Ab4@9>6^104 G4@17>6^104 Ab4@33>5^104 Bb4@49>4^104 C5@57>13^104
+@46 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^104 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>12^80
+  Electric Bass (pick)   : F1@1>15^104 Ab1@17>16^104 C2@33>14^104 Ab1@49>12^104
+  Alto Sax               : C4@9>5^104 B3@17>6^104 C4@33>6^104 Db4@49>7^104 C4@57>7^104
+  Tenor Sax              : C4@9>8^104 B3@17>5^104 C4@33>5^104 Db4@49>8^104 C4@57>9^104
+  Brass Section          : C4+C5@9>6^104 B3+B4@17>6^104 C4+C5@33>6^104 Db4+Db5@49>9^104 C4+C5@57>10^104
+  Trumpet                : C5@9>8^104 B4@17>6^104 C5@33>7^104 Db5@49>8^104 C5@57>9^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : C5@9>8^104 B4@17>6^104 C5@33>7^104 Db5@49>8^104 C5@57>7^104
+@47 [Fm | Edim]
+  Bright Acoustic Piano  : C4+F4+Ab4@1>8^104
+  Electric Bass (pick)   : F1@1>10^104
+  String Ensemble 2      : Bb3+Db4@63>62^104
+  Alto Sax               : C4@9>4^104 Ab4@17>7^104 G4@33>6^104 Ab4@49>6^104
+  Tenor Sax              : C4@9>2^80 Ab4@17>7^104 G4@33>7^104 Ab4@49>6^104
+  Brass Section          : C4+C5@9>5^104 F4+F5@17>6^104 E4+E5@33>7^104 F4+F5@49>6^104
+  Trumpet                : C5@9>4^104 F5@17>7^104 E5@33>6^104 F5@49>7^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+B2+Gb3@9>1^80 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+A2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+G2+Gb3@41>1^104 Eb2+E2+Gb2+G2+Gb3@49>1^104 E2+Gb2+G2+Gb3@57>1^104
+  Trombone               : C5@9>3^104 F5@17>6^104 E5@33>6^104 F5@49>6^104
+@48 [Bbm7]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^80 Bb3+Db4+F4@25>5^80 Bb3+Db4+F4@49>11^104
+  Electric Bass (pick)   : Bb1@1>15^104 Db2@17>15^104 F2@33>16^104 Db2@49>14^104
+  String Ensemble 2      : F4@30>31^104 C4+E4@62>60^104
+  Alto Sax               : Bb3@1>3^104 Db4@9>4^104 C4@17>7^80 Bb3@33>6^104 Ab3@49>7^104 G3@57>11^104
+  Tenor Sax              : Db4@1>6^104 Db4@9>8^104 C4@17>6^104 Bb3@33>6^104 Ab3@49>8^104 G3@57>14^104
+  Brass Section          : Db4+Db5@1>14^104 Db5@9>7^104 C4+C5@17>6^104 Bb3+Bb4@33>7^104 Ab3+Ab4@49>8^104 G3+G4@57>12^104
+  Trumpet                : Db5@1>6^104 Db5@9>7^104 C5@17>6^104 Bb4@33>6^104 Ab4@49>6^104 G4@57>8^104
+  Drums                  : B1+Db3+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : Db5@1>4^104 Db5@9>7^104 C5@17>6^104 Bb4@33>6^104 Ab4@49>6^104 G4@57>7^104
+@49 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>10^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>14^104 E2@49>14^104
+  String Ensemble 2      : Bb3+Db4@61>64^104
+  Alto Sax               : G3@9>7^104 F3@17>7^104 E3@33>5^104 C3@49>5^104
+  Tenor Sax              : G3@9>7^104 F3@17>6^104 E3@33>5^104 C3@49>5^104
+  Brass Section          : G3+G4@9>6^104 F3+F4@17>6^104 E3+E4@33>6^104 C3+C4@49>6^104
+  Trumpet                : G4@9>5^104 F4@17>6^104 E4@33>16^104 C4@48>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : G4@9>4^104 F4@17>6^104 E4@33>10^104 F4@44>5^80 C4@49>5^104
+@50 [Bbm7]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^80 Bb3+Db4+F4@25>5^80 Bb3+Db4+F4@49>10^104
+  Electric Bass (pick)   : Bb1@1>16^104 Db2@17>14^104 F2@33>16^104 Db2@49>14^104
+  String Ensemble 2      : F4@31>30^104 C4@62>29^104 E4@63>65^104
+  Alto Sax               : Db4@1>15^104 C4@17>6^104 Bb3@33>6^104 Ab3@49>8^104 G3@57>13^104
+  Tenor Sax              : Db4@1>6^104 Db4@9>7^80 C4@17>6^104 Bb3@33>6^104 Ab3@49>7^104 G3@57>15^104
+  Brass Section          : Db4+Db5@1>13^104 Db5@9>6^104 C4+C5@17>7^104 Bb3+Bb4@33>7^104 Ab3+Ab4@49>7^104 G3+G4@57>12^104
+  Trumpet                : Db5@1>6^104 Db5@9>7^104 C5@17>6^104 Bb4@33>6^104 Ab4@49>6^104 G4@57>10^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : Db5@1>6^104 Db5@9>8^80 C5@17>6^104 Bb4@33>6^104 Ab4@49>6^104 G4@57>14^104
+@51 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>9^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>13^104 E2@49>12^104
+  String Ensemble 2      : G4@30>34^104 Ab4@64>60^104
+  Alto Sax               : G3@9>7^104 F3@17>7^104 E3@33>5^104 C3@49>4^104
+  Tenor Sax              : G3@9>7^80 F3@17>6^104 E3@33>5^104 C3@49>5^104
+  Brass Section          : G3+G4@9>6^80 F3+F4@17>6^104 E3+E4@33>6^104 C3+C4@49>8^104
+  Trumpet                : G4@9>4^104 F4@17>7^104 E4@33>8^104 F4@41>5^80 E4@43>5^80 C4@48>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : G4@9>5^104 F4@17>6^104 E4@33>7^104 F4@41>5^104 E4@43>5^80 C4@48>5^104
+@52 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^104 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>11^104
+  Electric Bass (pick)   : F1@1>16^104 Ab1@17>16^104 C2@33>15^104 Ab1@49>16^104
+  String Ensemble 2      : F4@1>62^104 E4+G4@63>61^104
+  Alto Sax               : F3@1>6^104 F3@9>8^104 E3@17>6^104 F3@33>6^104 G3@49>6^104 Ab3@57>13^104
+  Tenor Sax              : F3@1>6^104 F3@9>9^80 E3@17>7^104 F3@33>5^104 G3@49>6^104 Ab3@57>12^104
+  Brass Section          : F3+F4@1>14^104 F4@9>8^104 E3+E4@17>7^104 F3+F4@33>6^104 G3+G4@49>7^104 Ab3+Ab4@57>22^104
+  Trumpet                : F4@1>6^104 F4@9>7^104 E4@17>8^104 F4@33>6^104 G4@49>4^104 Ab4@57>12^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : F4@1>7^104 F4@9>7^80 E4@17>7^104 F4@33>6^104 G4@49>5^104 Ab4@57>12^104
+@53 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>8^80
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>14^104 E2@49>14^104
+  String Ensemble 2      : C4+F4@62>11^104
+  Electric Guitar (muted): C3@1>3^104 C3@9>4^104 C4@17>3^104 C4@25>5^104 C3@41>4^80 C4@49>4^104 C3@57>4^80
+  Alto Sax               : Ab3@9>6^80 G3@17>7^104 F3@33>6^104 E3@49>8^104
+  Tenor Sax              : Ab3@9>6^104 G3@17>7^104 F3@33>8^104 E3@49>8^104
+  Brass Section          : Ab4@9>5^104 G3+G4@17>7^104 F3+F4@33>7^104 E3+E4@49>8^104
+  Trumpet                : Ab4@9>6^104 G4@17>6^104 F4@33>6^104 E4@49>6^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+  Trombone               : Ab4@9>5^104 G4@17>6^80 F4@33>16^104 E4@49>5^104
+@54 [Fm7] (grid:32)
+  Bright Acoustic Piano  : C4+F4+Ab4@1>3^104
+  Electric Bass (pick)   : F1@1>6^104
+  Electric Guitar (muted): F3@1>3^104
+  Brass Section          : F3+F4@5>5^104 Ab3+Ab4@9>2^104 Bb3+Bb4@13>2^104 B3+B4@17>4^104 Bb3+Bb4@19>3^80 Ab3+Ab4@21>3^104 F3+F4@25>3^104 Eb3+Eb4@29>2^104
+  Trumpet                : F4@5>3^104 Ab4@9>2^104 Bb4@13>2^104 B4@17>4^104 Bb4@20>2^80 Ab4@21>2^56 F4@25>2^104 Eb4@29>2^104
+  Drums                  : B1@1>1^104 E2@5>1^104 E2@9>1^104 E2@13>1^104 E2@17>1^104 E2@19>1^80 E2@21>1^104 E2@25>1^104 E2@29>1^104
+  Trombone               : F4@5>4^104 Ab4@9>3^104 Bb4@13>2^104 B4@17>3^104 Ab4@21>4^104 F4@25>2^104 Eb4@29>2^104
+@55 [Fm | Eb] (grid:8)
+  Electric Guitar (jazz) : F3@2>1^104 G3@3>1^104 Ab3@4>1^104 Bb3@5>1^104 Ab3@6>1^104 G3@7>1^104 Eb3@8>1^104
+  Brass Section          : F3+F4@1>1^104
+  Trumpet                : F4@1>1^104
+  Drums                  : B1+E2+Bb2@1>1^104
+  Trombone               : F4@1>1^104
+@56 [F7 | Eb7]
+  Bright Acoustic Piano  : F2@17>7^104 Eb2@25>8^104 Db2@41>6^104 Eb2@49>12^104
+  Electric Bass (pick)   : F2@17>8^104 Eb2@25>9^104 Db2@41>7^104 Eb2@49>10^104
+  Electric Guitar (jazz) : F3@1>14^104
+  Brass Section          : F3+F4@17>12^104 Eb3+Eb4@25>7^104 Db3+Db4@41>8^104 Eb3+Eb4@49>8^104
+  Trumpet                : F5@17>8^104 Eb5@25>5^104 Db5@41>5^104 Eb5@49>6^80
+  Drums                  : F2+Ab2+A2+C3@1>1^80 E2@17>1^104 E2@25>1^104 E2@41>1^104 E2@49>1^104
+  Trombone               : F4@17>10^104 Eb4@25>5^104 Db4@41>5^104 Eb4@49>6^104
+@57 [Fm | Eb] (grid:8)
+  Bright Acoustic Piano  : F2@1>1^104
+  Electric Bass (pick)   : F2@1>1^104
+  Electric Guitar (jazz) : F3@2>1^104 G3@3>1^104 Ab3@4>1^104 Bb3@5>1^104 Ab3@6>1^80 G3@7>1^104 Eb3@8>1^80
+  Brass Section          : F3+F4@1>1^104
+  Trumpet                : F5@1>2^104
+  Drums                  : B1+E2+Bb2@1>1^104
+  Trombone               : F4@1>1^104
+@58 [Fm7 | Eb7]
+  Bright Acoustic Piano  : F2@17>7^104 Eb2@25>6^104 Db2@41>6^104 Eb2@49>14^104
+  Electric Bass (pick)   : F2@17>8^104 Eb2@25>9^104 Db2@41>7^104 Eb2@49>10^104
+  Electric Guitar (jazz) : F3@1>15^104
+  Alto Sax               : Ab3@17>10^104 G3@25>8^104 F3@41>5^104 G3@49>9^104
+  Tenor Sax              : C4@17>8^104 Bb3@25>6^104 Ab3@41>6^104 Bb3@49>6^104
+  Brass Section          : F3+F4@17>12^104 Eb3+Eb4@25>7^104 Db3+Db4@41>7^104 Eb3+Eb4@49>9^104
+  Trumpet                : F5@17>8^104 Eb5@25>5^80 Db5@41>5^104 Eb5@49>6^80
+  Drums                  : F2+Ab2+A2+C3@1>1^80 E2@17>1^104 E2@25>1^104 E2@41>1^104 E2@49>1^104
+  Trombone               : F4@17>11^104 Eb4@25>6^104 Db4@41>5^104 Eb4@49>6^104
+@59 [Fm]
+  Bright Acoustic Piano  : F2@1>8^104
+  Electric Bass (pick)   : F2@1>10^104
+  String Ensemble 2      : Ab4@63>126^104 F4@64>125^104
+  Electric Guitar (jazz) : F3@9>6^104 G3@17>6^104 Ab3@25>7^80 Bb3@33>8^80 Ab3@41>8^104 G3@49>6^104 Ab3@57>5^104
+  Alto Sax               : Ab3@1>12^104
+  Tenor Sax              : C4@1>10^104
+  Brass Section          : F3+F4@1>10^104
+  Trumpet                : F5@1>13^104
+  Drums                  : B1+E2+Bb2@1>1^104
+  Trombone               : F4@1>12^104
+@60 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^104 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>14^80
+  Electric Bass (pick)   : F1@1>13^104 F1@17>4^80 F1@25>18^104 F1@49>13^104
+  Electric Guitar (jazz) : C4@1>61^104
+  Electric Guitar (muted): F3@1>3^104 F3@9>4^104 F3@25>4^104 F3@41>4^104 F3@57>4^104
+  Brass Section          : F3@1>61^104
+  Trumpet                : F4@1>122^80
+  Drums                  : B1+Gb2+Gb3+G3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@61 [Bbm]
+  Bright Acoustic Piano  : Db4+F4+Ab4@17>4^104 Db4+F4+Ab4@25>4^80 Db4+F4+Ab4@49>10^104
+  Electric Bass (pick)   : Bb1@1>12^104 Bb1@17>5^104 Bb1@25>19^104 Bb1@49>10^104
+  String Ensemble 2      : G4+Bb4@61>63^104
+  Electric Guitar (jazz) : Db4@1>56^104
+  Electric Guitar (muted): Bb2@1>3^104 Bb2@9>4^104 Bb2@25>4^104 Bb2@41>6^104 Bb2@57>4^104
+  Brass Section          : Bb3@1>56^104
+  Drums                  : B1+Gb2+E3+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@62 [Eb]
+  Bright Acoustic Piano  : Bb3+Eb4+G4@17>4^80 Bb3+Eb4+G4@25>4^104 Bb3+Eb4+G4@49>8^104
+  Electric Bass (pick)   : Eb2@1>9^104 Eb2@17>6^104 Eb2@25>8^104 Eb2@41>5^104 Eb2@49>8^104
+  String Ensemble 2      : Eb4+Ab4@61>12^104
+  Electric Guitar (jazz) : Eb4@1>6^104 Eb4@17>4^104 Eb4@25>6^104 Db4@41>5^104 Bb3@49>6^104
+  Electric Guitar (muted): Eb3@1>6^104 Eb3@17>4^104 Eb3@25>5^104 Eb3@41>3^104 Eb3@49>6^104
+  Brass Section          : Eb4+Eb5@1>7^104 Eb4+Eb5@17>7^104 Eb4+Eb5@25>10^104 Db4+Db5@41>8^104 Bb3+Db4+Bb4@49>8^104
+  Trumpet                : G4@1>4^104 G4@17>6^104 G4@25>6^104 G4@41>4^80 G4@49>7^80
+  Drums                  : E2+Ab2+A3@1>1^104 E2+Ab2@17>1^104 E2+Ab2@25>1^104 E2+Ab2@41>1^104 E2+Ab2@49>1^104
+  Trombone               : Eb5@1>4^104 Eb5@17>5^104 Eb5@25>5^80 Eb5@41>3^104 Eb5@49>4^80
+@63 [Ab | C]
+  Bright Acoustic Piano  : Ab3+C4+Eb4@1>6^104
+  Electric Bass (pick)   : Ab1@1>10^104
+  String Ensemble 2      : Bb3+Db4+F4@63>61^104
+  Electric Guitar (jazz) : Ab3@1>3^104 C4@9>4^104 C4@17>3^104 C4@25>4^80 C4@33>4^104 C4@41>3^104 C4@49>3^104 G3@57>4^104
+  Electric Guitar (muted): Ab2@1>8^104
+  Brass Section          : Ab3+Ab4@1>9^104
+  Trumpet                : Ab4@1>11^104
+  Drums                  : B1+E2+Bb2@1>1^104 A2@41>1^56 A2@49>1^80 G2@57>1^80
+  Trombone               : Ab4@1>10^104
+@64 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>5^80 Bb3+Db4+F4@25>5^104 Bb3+Db4+F4@49>14^80
+  Electric Bass (pick)   : Bb1@1>16^104 Db2@17>16^104 F2@33>15^104 Db2@49>13^104
+  String Ensemble 2      : C4@61>56^104 E4+G4@62>61^104
+  Electric Guitar (jazz) : Bb3@1>19^104 Bb3@25>15^104
+  Electric Guitar (muted): Bb2@1>3^104 Bb2@9>4^104 Bb3@17>3^104 Bb3@25>4^104 Bb2@33>2^56 Bb2@41>4^104 Bb3@49>4^104 Bb2@57>4^104
+  Alto Sax               : F3@9>4^104 F3@25>8^104 E3@33>8^104 F3@41>6^104 E3@49>6^104 F3@57>4^104
+  Tenor Sax              : Ab3@9>4^104 Ab3@25>8^104 G3@33>8^104 Ab3@41>8^104 G3@49>7^104 Ab3@57>5^104
+  Brass Section          : Bb2@1>63^104
+  Drums                  : B1+Db3+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@65 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>13^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>16^104 G2@33>14^104 E2@49>12^104
+  String Ensemble 2      : F4@60>63^104 Bb3+Db4@61>62^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>3^80 C4@25>3^104 C4@33>3^104 C4@41>2^80 C4@49>3^80 G3@57>4^104
+  Electric Guitar (muted): C3@1>3^104 C3@9>4^80 C4@17>3^104 C4@25>5^104 C3@33>2^56 C3@41>4^104 C4@49>5^104 C3@57>4^80
+  Alto Sax               : G3@9>4^104 G3@25>8^104 Gb3@33>6^104 G3@41>7^104 Gb3@49>6^104 G3@57>5^104
+  Tenor Sax              : Bb3@9>4^104 Bb3@25>8^104 A3@33>6^104 Bb3@41>7^104 A3@49>6^104 Bb3@57>4^104
+  Brass Section          : C3@1>63^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+F3+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@66 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^80 Bb3+Db4+F4@25>4^80 Bb3+Db4+F4@49>12^104
+  Electric Bass (pick)   : Bb1@1>14^104 Db2@17>14^104 F2@33>16^104 Db2@49>13^104
+  String Ensemble 2      : C4@63>118^104 E4+G4@64>61^104
+  Electric Guitar (jazz) : Bb3@1>19^104 Bb3@25>21^104
+  Electric Guitar (muted): Bb2@1>4^104 Bb2@9>4^104 Bb3@17>3^104 Bb3@25>4^104 Bb2@33>3^80 Bb2@41>4^104 Bb3@49>4^104 Bb2@57>4^104
+  Alto Sax               : F3@9>4^104 F3@25>8^104 E3@33>7^104 F3@41>7^80 E3@49>5^104 F3@57>5^104
+  Tenor Sax              : Ab3@9>3^104 Ab3@25>8^104 G3@33>8^104 Ab3@41>7^104 G3@49>7^104 Ab3@57>4^104
+  Brass Section          : Bb2@1>62^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@67 [C]
+  Bright Acoustic Piano  : C4+E4+G4@17>4^104 C4+E4+G4@25>4^80 C4+E4+G4@49>8^104
+  Electric Bass (pick)   : C2@1>14^104 E2@17>15^104 G2@33>14^104 E2@49>12^104
+  String Ensemble 2      : F4+Ab4@63>117^104
+  Electric Guitar (jazz) : C4@9>4^104 C4@17>3^80 C4@25>3^80 C4@33>5^104 Db4@41>7^104 C4@49>6^104 Bb3@57>5^104
+  Electric Guitar (muted): C3@1>4^104 C3@9>4^104 C4@17>3^104 C4@25>5^104 C3@33>2^56 C3@41>4^104 C4@49>4^104 C3@57>4^80
+  Alto Sax               : G3@9>4^104 G3@25>8^104 Gb3@33>6^104 G3@41>7^104 Gb3@49>6^104 G3@57>5^104
+  Tenor Sax              : Bb3@9>4^104 Bb3@25>8^104 A3@33>8^104 Bb3@41>6^104 A3@49>5^80 Bb3@57>4^104
+  Brass Section          : C3@1>62^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+F3+Gb3@17>1^104 B1+Eb2+Gb2+F3+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@68 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^80 C4+F4+Ab4@25>7^80 C4+F4+Ab4@49>5^104
+  Electric Bass (pick)   : F1@1>15^104 Ab1@17>15^104 C2@33>13^104 Ab1@49>13^104
+  String Ensemble 2      : C5@62>52^104
+  Electric Guitar (jazz) : C4@1>14^104 Bb3@17>8^80 Ab3@25>27^104
+  Electric Guitar (muted): F3@1>2^104 F3@9>4^104 F3@25>5^104 F3@41>5^104 F3@57>3^104
+  Alto Sax               : Ab3@9>4^104 Ab3@25>7^104 G3@33>5^104 Ab3@41>6^104 G3@49>5^104 Ab3@57>4^104
+  Tenor Sax              : C4@9>4^104 C4@25>8^104 Bb3@33>7^104 C4@41>6^104 Bb3@49>5^80 C4@57>4^104
+  Brass Section          : F3@1>128^104
+  Drums                  : B1+Gb3+A3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@69 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^80 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>12^104
+  Electric Bass (pick)   : F1@1>14^104 Ab1@17>14^104 C2@33>13^104 Ab1@49>12^104
+  String Ensemble 2      : Bb3+Db4+F4@63>121^104
+  Electric Guitar (jazz) : C4@9>4^104 C4@17>4^104 C4@25>4^104 C4@33>4^80 C4@41>4^80 C4@49>4^80 C4@57>3^104
+  Electric Guitar (muted): F3@1>3^104 F3@9>4^104 F3@25>4^104 F3@41>3^104 F3@49>4^104 F3@57>4^104
+  Alto Sax               : Ab3@9>4^104 Ab3@25>7^104 G3@33>6^80 Ab3@41>6^104 G3@49>6^104 Ab3@57>4^104
+  Tenor Sax              : C4@9>4^104 C4@25>8^104 Bb3@33>7^104 C4@41>6^104 Bb3@49>6^80 C4@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+A2+Gb3@9>1^56 Eb2+E2+Gb2+A2+Gb3@17>1^104 B1+Eb2+Gb2+G2+Gb3@25>1^104 Gb2+G2+Gb3@33>1^80 B1+Gb2+G2+Gb3@41>1^104 Eb2+E2+F2+Gb2+Gb3@49>1^104 E2+F2+Gb2+Gb3@57>1^56
+@70 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>3^104 Bb3+Db4+F4@25>4^80 Bb3+Db4+F4@49>4^104
+  Electric Bass (pick)   : Bb1@1>14^104 Db2@17>14^104 F2@33>15^104 Db2@49>14^104
+  Electric Guitar (jazz) : C4@1>20^104 Bb3@25>30^104
+  Electric Guitar (muted): Bb2@1>2^104 Bb2@9>4^104 Bb3@17>3^80 Bb3@25>4^104 Bb2@41>4^104 Bb3@49>5^104 Bb2@57>3^104
+  Alto Sax               : F3@9>4^104 F3@25>8^104 E3@33>5^104 F3@41>6^104 E3@49>5^104 F3@57>4^104
+  Tenor Sax              : Ab3@9>4^104 Ab3@25>8^104 G3@33>6^104 Ab3@41>7^104 G3@49>6^80 Ab3@57>4^104
+  Brass Section          : Bb2@1>126^104
+  Drums                  : B1+Db3+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@71 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^104 Bb3+Db4+F4@25>5^80 Bb3+Db4+F4@49>9^104
+  Electric Bass (pick)   : Bb1@1>14^104 Db2@17>14^104 F2@33>16^104 Db2@49>12^104
+  String Ensemble 2      : C4+F4+Ab4@63>242^104
+  Electric Guitar (jazz) : Bb3@9>3^104 Bb3@17>3^104 Bb3@25>3^104 Bb3@33>4^104 Db4@41>5^104 C4@49>6^104 Bb3@57>4^104
+  Electric Guitar (muted): Bb2@1>4^104 Bb2@9>5^104 Bb3@17>3^104 Bb3@25>4^104 Bb2@33>2^80 Bb2@41>4^104 Bb3@49>4^104 Bb2@57>4^104
+  Alto Sax               : F3@9>4^104 F3@25>8^104 E3@33>6^104 F3@41>6^104 E3@49>6^80 F3@57>4^104
+  Tenor Sax              : Ab3@9>4^104 Ab3@25>8^104 G3@33>7^104 Ab3@41>8^104 G3@49>7^104 Ab3@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+F3+Gb3@17>1^104 B1+Eb2+Gb2+F3+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@72 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^80 C4+F4+Ab4@25>4^80 C4+F4+Ab4@49>7^104
+  Electric Bass (pick)   : F1@1>14^104 Ab1@17>16^104 C2@33>16^104 Ab1@49>16^104
+  Electric Guitar (jazz) : C4@1>42^104
+  Electric Guitar (muted): F3@1>4^104 F3@9>5^104 F3@25>4^104 F3@41>5^104 F3@57>3^104
+  Alto Sax               : Ab3@9>3^104 Ab3@25>7^104 G3@33>5^104 Ab3@41>6^104 G3@49>4^104 Ab3@57>4^104
+  Tenor Sax              : C4@9>4^104 C4@25>8^104 Bb3@33>7^104 C4@41>7^104 Bb3@49>6^104 C4@57>4^104
+  Brass Section          : F3@1>126^104
+  Drums                  : B1+Gb2+Gb3+G3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@73 [Fm]
+  Bright Acoustic Piano  : C4+F4+Ab4@17>4^80 C4+F4+Ab4@25>4^104 C4+F4+Ab4@49>13^104
+  Electric Bass (pick)   : F1@1>14^80 Ab1@17>15^104 C2@33>14^104 Ab1@49>11^104
+  String Ensemble 2      : Bb3@60>117^104 Db4@61>116^104
+  Electric Guitar (jazz) : C4@9>3^104 C4@17>3^104 C4@25>3^104 C4@33>4^104 C4@41>4^104 C4@49>4^104 C4@57>3^80
+  Electric Guitar (muted): F3@1>3^104 F3@9>5^104 F3@25>4^104 F3@41>5^104 F3@57>4^104
+  Alto Sax               : Ab3@9>4^104 Ab3@25>7^104 G3@33>4^80 Ab3@41>6^104 G3@49>5^104 Ab3@57>4^104
+  Tenor Sax              : C4@9>4^104 C4@25>8^104 Bb3@33>7^104 C4@41>7^104 Bb3@49>6^104 C4@57>4^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+A2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+A2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+G2+Gb3@41>1^104 Eb2+E2+Gb2+G2+Gb3@49>1^104 E2+Gb2+G2+Gb3@57>1^80
+@74 [Bbm]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^80 Bb3+Db4+F4@25>4^80 Bb3+Db4+F4@49>5^80
+  Electric Bass (pick)   : Bb1@1>14^104 Db2@17>14^104 F2@33>16^104 Db2@49>14^104
+  Electric Guitar (jazz) : C4@1>19^104 Bb3@25>41^104
+  Electric Guitar (muted): Bb2@1>4^104 Bb2@9>5^104 Bb3@17>3^104 Bb3@25>4^104 Bb2@41>4^104 Bb3@49>4^104 Bb2@57>3^104
+  Alto Sax               : F3@9>4^104 F3@25>7^104 E3@33>6^104 F3@41>6^104 E3@49>4^104 F3@57>5^104
+  Tenor Sax              : Ab3@9>4^104 Ab3@25>8^104 G3@33>8^104 Ab3@41>8^104 G3@49>6^104 Ab3@57>5^104
+  Brass Section          : Bb2@1>116^104
+  Drums                  : B1+Db3+Gb3@1>1^104 Gb2+Gb3@9>1^56 Eb2+E2+Gb2+Gb3@17>1^104 B1+Eb2+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Eb2+E2+Gb2+Gb3@49>1^104 E2+Gb2+Gb3@57>1^56
+@75 [Bbm7]
+  Bright Acoustic Piano  : Bb3+Db4+F4@17>4^104 Bb3+Db4+F4@25>5^80 Bb3+Db4+F4@49>8^104
+  Electric Bass (pick)   : Bb1@1>14^104 Db2@17>15^104 F2@33>15^104 Db2@49>12^104
+  Electric Guitar (jazz) : Bb3@9>3^104 Bb3@17>2^80 Bb3@25>3^104 Bb3@33>4^104 Db4@41>8^104 C4@49>6^104 Bb3@57>5^104
+  Electric Guitar (muted): Bb2@1>4^104 Bb2@9>4^104 Bb3@17>3^104 Bb3@25>4^104 Bb2@41>3^104 Bb3@49>4^104 Bb2@57>2^104
+  Alto Sax               : F3@9>4^104 F3@25>8^104 E3@33>5^104 F3@41>6^104 E3@49>5^104 F3@57>5^104
+  Tenor Sax              : Ab3@9>4^104 Ab3@25>8^104 G3@33>6^104 Ab3@41>8^104 G3@49>6^104 Ab3@57>5^104
+  Drums                  : B1+Gb2+Gb3@1>1^104 Gb2+B2+Gb3@9>1^56 Eb2+E2+Gb2+B2+Gb3@17>1^104 B1+Eb2+Gb2+A2+Gb3@25>1^104 Gb2+A2+Gb3@33>1^80 B1+Gb2+G2+Gb3@41>1^104 Eb2+E2+Gb2+G2+Gb3@49>1^104 E2+Gb2+G2+Gb3@57>1^80
+@76 [F | Eb7]
+  Bright Acoustic Piano  : F2+F3@1>8^104 F2+F3@17>8^104 Eb2+Eb3@25>9^104 Db2+Db3@41>6^104 Eb2+Eb3@49>10^104
+  Electric Bass (pick)   : F2@1>9^104 F2@17>8^104 Eb2@25>10^104 Db2@41>7^104 Eb2@49>12^104
+  Electric Guitar (jazz) : C4@1>10^104
+  Brass Section          : F3+F4@1>7^104 F3+F4@17>12^104 Eb3+Eb4@25>8^104 Db3+Db4@41>8^104 Eb3+Eb4@49>8^104
+  Trumpet                : F4@1>6^104 F4@17>8^104 Eb4@25>8^104 Db4@41>6^104 Eb4@49>8^104
+  Drums                  : E2+Ab2+G3@1>1^104 E2+Ab2@17>1^104 E2@25>1^104 Ab2@33>1^80 E2@41>1^104 E2+Ab2@49>1^104
+  Trombone               : F4@1>8^104 F4@17>6^104 Eb4@25>8^104 Db4@41>6^104 Eb4@49>7^104
+@77 [F | Eb7]
+  Bright Acoustic Piano  : F2+F3@1>7^104 F2+F3@17>7^104 Eb2+Eb3@25>7^104 Db2+Db3@41>6^104 Eb2+Eb3@49>8^104
+  Electric Bass (pick)   : F2@1>8^104 F2@17>8^104 Eb2@25>9^104 Db2@41>6^104 Eb2@49>9^104
+  Brass Section          : F3+F4@1>9^104 F3+F4@17>12^104 Eb3+Eb4@25>9^104 Db3+Db4@41>8^104 Eb3+Eb4@49>10^104
+  Trumpet                : F4@1>6^104 F4@17>6^104 Eb4@25>11^104 Db4@41>5^104 Eb4@49>6^104
+  Drums                  : E2+Ab2+A3@1>1^104 E2+Ab2@17>1^104 E2@25>1^104 Ab2@33>1^80 E2@41>1^104 E2+Ab2@49>1^104
+  Trombone               : F4@1>8^104 F4@17>6^104 Eb4@25>8^104 Db4@41>5^104 Eb4@49>7^104
+@78 [Fm | Eb7]
+  Bright Acoustic Piano  : F2+F3@1>6^104 F2+F3@17>8^104 Eb2+Eb3@25>7^104 Db2+Db3@41>6^104 Eb2+Eb3@49>10^104
+  Electric Bass (pick)   : F2@1>7^104 F2@17>8^104 Eb2@25>9^104 Db2@41>8^104 Eb2@49>10^104
+  Alto Sax               : F4@1>6^104 F4@17>8^104 Eb4@25>6^104 Db4@41>5^104 Eb4@49>7^104
+  Tenor Sax              : Ab4@1>5^104 Ab4@17>8^104 G4@25>6^104 F4@41>6^104 G4@49>9^104
+  Brass Section          : F3+F4+F5@1>8^104 F3+F4+F5@17>12^104 Eb3+Eb4+Eb5@25>8^104 Db3+Db4+Db5@41>8^104 Eb3+Eb4+Eb5@49>10^104
+  Trumpet                : F5@1>7^104 F5@17>6^104 Eb5@25>12^104 Db5@41>4^104 Eb5@49>6^104
+  Drums                  : E2+Ab2@1>1^104 G3@9>1^56 E2+Ab2@17>1^104 E2@25>1^104 Ab2@33>1^80 E2@41>1^104 E2+Ab2@49>1^104
+  Trombone               : F4@1>6^104 F4@17>6^104 Eb4@25>6^104 Db4@41>6^104 Eb4@49>7^104
+@79 [Fm] (grid:4)
+  Bright Acoustic Piano  : F2+F3@1>1^104
+  Electric Bass (pick)   : F2@1>1^104
+  Alto Sax               : F4@1>1^104
+  Tenor Sax              : Ab4@1>1^104
+  Brass Section          : F3+F4+F5@1>1^104
+  Trumpet                : F5@1>1^104
+  Drums                  : B1+E2+Bb2+Db3@1>1^104
+  Trombone               : F4@1>1^104
+@80 [Fm] (grid:4)
+  Bright Acoustic Piano  : F2+C4+G4@1>4^104
+  Electric Bass (pick)   : F1@1>4^104
+  Alto Sax               : F4@1>1^104
+  Tenor Sax              : Ab4@1>4^104
+  Brass Section          : F3+F4+F5@1>4^104
+  Trumpet                : F5@1>4^104
+  Drums                  : B1+E2+Bb2+A3@1>1^104
+  Trombone               : F4@1>4^104
+@81 [-]

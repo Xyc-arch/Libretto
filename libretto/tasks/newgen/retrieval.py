@@ -31,14 +31,17 @@ _FPS = None
 # Genre -> KB concept IDs, derived from composing-kb/SKILL.md MAP 1 (umbrella corpus genres unioned from the
 # sub-genres listed there). These are the idiom's default building blocks; each entry has EXAMPLE + COMPOSE.
 GENRE_CONCEPTS = {
-    "latin_reggae_world": ["R-SYNCO", "R-OSTINATO", "H-PEDAL", "R-ROOTPULSE"],
-    "core_pop_rock":      ["V-ROLES", "R-SYNCO", "R-STRAIGHT", "M-MOTIF", "F-REPRISE", "H-FOURTHS", "R-OSTINATO"],
+    "pop_rock":           ["V-ROLES", "R-SYNCO", "R-STRAIGHT", "M-MOTIF", "F-REPRISE", "H-FOURTHS", "R-OSTINATO"],
     "funk_soul_rnb":      ["R-SYNCO", "R-OSTINATO", "R-ROOTPULSE", "H-PEDAL", "H-DOM7", "H-DIM", "M-SIGH"],
     "jazz":               ["J-IIVI", "J-SWING", "J-COMP", "J-WALK", "J-EXT", "H-DOM7", "M-GAPFILL"],
     "classical":          ["M-STEP", "M-SIGH", "H-PALETTE", "H-DIM", "H-AUG", "V-WIDE", "F-SECTIONS"],
     "electronic_dance":   ["R-ROOTPULSE", "R-STRAIGHT", "R-OSTINATO", "H-PEDAL", "V-WIDE"],
-    "film_score":         ["F-SECTIONS", "F-INTRO", "H-PALETTE", "V-WIDE", "H-PEDAL", "M-RANGE"],
     "folk_country":       ["M-STEP", "R-ROOTPULSE", "V-PARALLEL", "V-ROLES", "R-STRAIGHT", "M-SIGH"],
+    "metal":              ["R-STRAIGHT", "R-OSTINATO", "R-DENSITY", "H-FOURTHS", "H-PEDAL", "V-DOUBLE"],
+    "hiphop_rap":         ["R-OSTINATO", "R-SYNCO", "R-ROOTPULSE", "H-PEDAL", "M-MOTIF", "R-DENSITY"],
+    "reggae_ska":         ["R-SYNCO", "R-OSTINATO", "H-PEDAL", "R-ROOTPULSE"],
+    "latin":              ["R-SYNCO", "R-OSTINATO", "R-ROOTPULSE", "H-DOM7", "R-TRIPLET"],
+    "blues_gospel":       ["H-DOM7", "R-TRIPLET", "M-SIGH", "H-DESCBASS", "R-SYNCO"],
 }
 _CONCEPT_FILE = {  # which topic file each ID lives in (prefix -> file, J-* in jazz.txt)
     "R": "rhythm_groove.txt", "H": "harmony.txt", "M": "melody.txt",

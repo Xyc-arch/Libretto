@@ -18,6 +18,19 @@ by which `kb_theory` concepts you combine + the level/length.
    novelty check failed, append corrective feedback and regenerate (≤ max_iter, pick best). Leakage-free.
 7. **measure** (`measure.py`) — the gate below.  8. **render** — `core.decode_to_midi`.
 
+## Comprehensive by DEFAULT (2026-07-09)
+Every drill is now comprehensive unless the caller opts out — driven by the standard reading a learner meets:
+- **VARIED tempo + meter** — `tempo`/`meter` default to a level-appropriate ladder cycled by `variant`, so a
+  batch covers the MAJOR speed range and several time signatures (not one fixed 4/4). Explicit `tempo`/`meter`
+  still win. (`curriculum.TEMPO_LADDER` / `METER_LADDER`.)
+- **MIXED rhythms** — `rhythm_mix` defaults **True**: several interleaved rhythmic figures with different note
+  durations in every drill (set `rhythm_mix=False` to opt out).
+- **FULL pitch coverage** — `clef` defaults to `changing`, so the single line roams the whole reading range =
+  the 5 staff lines + 3 ledger LINES and 3 ledger SPACES above AND below each clef. That rule is exactly
+  **bass A1(33)→g′ G4(67)**, **treble f F3(53)→e‴ E6(88)**, union **A1..E6**. `STAFF_BANDS` scales how much of
+  that range a drill must span+cover by level (advanced reaches the full A1↔E6 extremes). Pin `clef=treble|bass`
+  for a single-clef study.
+
 ## RequirementSpec (user-specific control)
 Only `level` + `key` required; the rest optional — the system verifies the ones you set:
 `level`, `key` ("D harmonic minor"), `meter` ("3/4" time signature), `tempo` ("fast" | 138 | [120,156]),

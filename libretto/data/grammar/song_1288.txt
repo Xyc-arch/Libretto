@@ -1,0 +1,181 @@
+KEY: Ab major | METER: 4/4 | TEMPO: 38 | GRID: 16th (adaptive) | BARS: 32
+VOICES: Flute[prog=72], Organ[prog=16], Harp[prog=46], Solo Soprano[prog=79], Solo Boy[prog=78], Choir[prog=50], Strings[prog=48]
+@1 [Ab]
+  Flute       : Ab4@1>2^56 Ab4@3>2^56 Ab4@5>2^56 Ab4@7>2^56 G4@9>2^56 G4@11>2^56 G4@13>2^56 G4@15>2^56
+  Organ       : Ab2@1>16^32 C5@13>2^32 Eb5@15>2^32
+  Harp        : Ab2@1>3^80 Eb3@4>1^80 C4@5>2^80 Ab3@7>2^80 Eb4@9>2^80 C4@11>2^80 Ab3@13>4^80
+  Strings     : Ab2@1>16^56
+@2 [Fm | Ab]
+  Flute       : F4@1>2^56 F4@3>2^56 F4@5>2^56 F4@7>2^56 Eb4@9>2^56 Eb4@11>2^56 Eb4@13>2^56 Eb4@15>2^56
+  Organ       : Ab2+C5@1>16^32 Bb4@2>1^32 Ab4@3>10^32 C5@13>2^32 Eb5@15>2^32
+  Harp        : Ab2@1>3^80 Eb3@4>1^80 C4@5>2^80 Ab3@7>2^80 Eb4@9>2^80 C4@11>2^80 Eb3@13>4^80
+  Strings     : Ab2@1>16^56
+@3 [Db]
+  Flute       : F4@1>16^56
+  Organ       : Db2+C5@1>16^32 Bb4@2>1^32 Ab4@3>10^32
+  Harp        : Db2@1>2^80 Ab2@3>1^80 F3@4>1^80 Ab3@5>2^80 C4@7>2^80 Db4@9>4^80
+  Solo Soprano: C5@13>2^80 C5@15>2^80
+  Strings     : Db2@1>12^56
+@4 [Bbm] (grid:12t)
+  Organ       : Db2@1>12^56
+  Solo Soprano: Db5@1>3^80 Bb4@4>4^80 F4@10>1^80 Db5@11>1^80
+  Strings     : Db2@1>12^56
+@5 [Eb | Cm7] (grid:12t)
+  Organ       : Eb2@1>12^56
+  Solo Soprano: C5@1>3^80 Bb4@4>4^80 C5@10>1^80 C5@11>1^80
+  Strings     : Eb2@1>12^56
+@6 [Bbm] (grid:12t)
+  Organ       : Db2@1>12^56
+  Solo Soprano: Db5@1>3^80 Bb4@4>4^80 F4@10>1^80 Db5@11>1^80
+  Strings     : Db2@1>12^56
+@7 [Eb] (grid:12t)
+  Organ       : Eb2@1>12^56
+  Solo Soprano: C5@1>3^80 Bb4@4>6^80 Eb5@11>1^80
+  Strings     : Eb2@1>12^56
+@8 [Db | Cm] (grid:8)
+  Organ       : Db2@1>4^56 Eb2@5>4^56
+  Solo Soprano: Ab5@1>2^80 G5@3>1^80 F5@4>1^80 Eb5@5>1^80 Db5@6>1^80 C5@7>1^80 Db5@8>1^80
+  Strings     : Db2@1>4^56 Eb2@5>4^56
+@9 [Cm | Fm] (grid:24t)
+  Organ       : C2@1>12^56 F2@13>12^56
+  Solo Soprano: Eb5@1>3^80 Eb5@4>3^80 Eb5@7>3^80 C5@10>3^80 Eb5@13>3^80 C5@16>1^80 Ab5@17>7^80
+  Strings     : C2@1>12^56 F2@13>12^56
+@10 [Db | Cm] (grid:8)
+  Organ       : Db2@1>4^56 Eb2@5>4^56
+  Solo Soprano: G5@3>1^80 F5@4>1^80 Eb5@5>1^80 Db5@6>1^80 C5@7>1^80 Eb5@8>1^80
+  Strings     : Db2@1>4^56 Eb2@5>4^56
+@11 [Ab]
+  Organ       : Ab1@1>16^56
+  Harp        : Ab2@1>2^56 Eb3@3>2^56 C4@5>2^56 Eb3@7>2^56 C4@9>2^56 Eb3@11>2^56 C4@13>2^56 Eb3@15>2^56
+  Solo Soprano: C5@1>1^80 Bb4@2>1^80 Ab4@3>6^80
+  Solo Boy    : C5@13>2^80 C5@15>2^80
+  Strings     : Ab1@1>16^56
+@12 [Bbm]
+  Flute       : Ab3@1>2^56 F4@3>1^56 Bb4@4>1^56 Db5@5>2^56 Bb4@7>2^56 F4@9>2^56 Bb4@11>2^56 Db5@13>4^56
+  Organ       : Db2@1>16^56
+  Harp        : Ab2+Ab3@1>2^56 F3+F4@3>1^56 Bb3+Bb4@4>1^56 Db4+Db5@5>2^56 Bb3+Bb4@7>2^56 F3+F4@9>2^56 Bb3+Bb4@11>2^56 Db4+Db5@13>4^56
+  Solo Boy    : Db5@1>4^80 Bb4@5>6^80 F4@13>2^80 Db5@15>2^80
+  Strings     : Db2@1>16^56
+@13 [Eb | Cm7]
+  Flute       : Ab3@1>2^56 Eb4@3>1^56 Bb4@4>1^56 Db5@5>2^56 Bb4@7>2^56 Eb4@9>2^56 Bb4@11>2^56 C5@13>2^56 Eb4@15>2^56
+  Organ       : Eb2@1>16^56
+  Harp        : Ab2+Bb3@1>2^56 Eb3+Eb4@3>1^56 Bb3+Bb4@4>1^56 Db4+Db5@5>2^56 Bb3+Bb4@7>2^56 Eb3+Eb4@9>2^56 Bb3+Bb4@11>2^56 C4+C5@13>2^56 Eb3+Eb4@15>2^56
+  Solo Boy    : C5@1>4^80 Bb4@5>6^80 C5@13>2^80 C5@15>2^80
+  Strings     : Eb2@1>16^56
+@14 [Bbm]
+  Flute       : Ab3@1>2^56 F4@3>1^56 Bb4@4>1^56 Db5@5>2^56 Bb4@7>2^56 F4@9>2^56 Bb4@11>2^56 Db5@13>4^56
+  Organ       : Db2@1>16^56
+  Harp        : Db2+Ab3@1>2^56 Ab2+F4@3>1^56 F3+Bb4@4>1^56 Bb3+Db5@5>2^56 F3+Bb4@7>2^56 Db3+F4@9>2^56 F3+Bb4@11>2^56 Bb3+Db5@13>4^56
+  Solo Boy    : Db5@1>4^80 Bb4@5>6^80 F4@13>2^80 Db5@15>2^80
+  Strings     : Db2@1>16^56
+@15 [Eb]
+  Flute       : Ab3@1>2^56 Eb4@3>1^56 Bb4@4>1^56 Db5@5>2^56 Bb4@7>2^56 Eb4@9>2^56 Bb4@11>2^56 C5@13>2^56 Eb4@15>2^56
+  Organ       : Eb2@1>16^56
+  Harp        : Eb2+Ab3@1>2^56 Db3+Eb4@3>1^56 F3+Bb4@4>1^56 G3+Db5@5>2^56 Eb3+Bb4@7>2^56 Db3+Eb4@9>2^56 Eb3+Bb4@11>2^56 G3+C5@13>4^56 Eb4@15>2^56
+  Solo Soprano: Eb5@15>2^80
+  Solo Boy    : C5@1>4^80 Bb4@5>8^80 C5@15>2^80
+  Strings     : Eb2@1>16^56
+@16 [Db | Eb]
+  Organ       : Db2@1>8^56 Eb2@9>8^56
+  Harp        : Db2@1>2^56 Ab2@3>1^56 Db3@4>1^56 F3@5>4^56 Eb2@9>2^56 Bb2@11>1^56 Eb3@12>1^56 Bb3@13>4^56
+  Solo Soprano: Ab5@1>4^80 G5@5>2^80 F5@7>2^80 Eb5@9>2^80 Db5@11>2^80 C5@13>2^80 Db5@15>2^80
+  Solo Boy    : F5@1>4^80 Eb5@5>2^80 Db5@7>2^80 C5@9>2^80 Bb4@11>2^80 Ab4@13>2^80 Bb4@15>2^80
+  Choir       : Ab2+F3+Db4@1>8^80 Bb2+G3+Eb4@9>8^80
+  Strings     : Db2@1>8^56 Eb2@9>8^56
+@17 [Ab | Fm]
+  Organ       : C2@1>8^56 F2@9>8^56
+  Harp        : Ab2@1>2^56 Eb3@3>1^56 Ab3@4>1^56 C4@5>2^56 Ab3@7>2^56 F2@9>2^56 C3@11>2^56 Ab3@13>2^56 F3@15>2^56
+  Solo Soprano: Eb5@1>2^80 Eb5@3>2^80 Eb5@5>2^80 C5@7>2^80 Eb5@9>2^80 C5@11>1^80 Ab5@12>5^80
+  Solo Boy    : C5@1>2^80 C5@3>2^80 C5@5>2^80 Ab4@7>2^80 C5@9>2^80 Ab4@11>1^80 Eb5@12>5^80
+  Choir       : Eb3+Ab3+C4@1>10^80 C3@9>2^80 C3+Ab3+C4@13>4^80
+  Strings     : C2@1>8^56 F2@9>8^56
+@18 [Bbm | Eb] (grid:8)
+  Organ       : Db2+Bb2@1>4^56 Eb2+Eb3@5>4^32
+  Harp        : Bb1+Bb2@1>4^56 Eb2+Eb3@5>4^56
+  Solo Soprano: G5@3>1^80 F5@4>1^80 Eb5@5>1^80 Db5@6>1^80 C5@7>1^80 Eb5@8>1^80
+  Solo Boy    : Eb5@3>1^80 Db5@4>1^80 C5@5>1^80 Bb4@6>1^80 Ab4@7>1^80 Bb4@8>1^80
+  Choir       : Bb2+F3+Db4@1>4^80 Eb3+G3+Eb4@5>4^80
+  Strings     : Db2@1>4^56 Eb2@5>4^56
+@19 [Ab7]
+  Flute       : Ab4@1>2^56 Ab4@3>2^56 Ab4@5>2^56 Ab4@7>2^56 G4@9>2^56 G4@11>2^56 G4@13>2^56 G4@15>2^56
+  Organ       : Ab2@1>16^32 C5@13>2^56 Eb5@15>2^56
+  Harp        : Ab2@1>2^56 Eb3@3>2^56 Ab3@5>2^56 Eb3@7>2^56 Ab2+G3@9>2^56 Eb3@11>2^56 G3@13>2^56 Eb3@15>2^56
+  Solo Soprano: C5@1>1^80 Bb4@2>1^80 Ab4@3>8^80
+  Solo Boy    : Ab4@1>1^80 Eb4@2>1^80 C4@3>8^80
+  Choir       : Ab2+Eb3+C4@1>10^80
+  Strings     : Ab1@1>16^56
+@20 [Fm | Ab]
+  Flute       : F4@1>2^56 F4@3>2^56 F4@5>2^56 F4@7>2^56 Eb4@9>2^56 Eb4@11>2^56 Eb4@13>2^56 Eb4@15>2^56
+  Organ       : Ab2+C5@1>16^56 Bb4@2>1^56 Ab4@3>8^56 C5@13>2^56 Eb5@15>2^56
+  Harp        : Ab2+F3@1>2^56 Eb3@3>2^56 F3@5>2^56 Eb3@7>2^56 Ab2@9>2^56 Eb3@11>2^56 C4@13>2^56 Eb3@15>2^56
+  Strings     : Db2+C4@1>16^56 Eb4@13>2^56 Ab4@15>2^56
+@21 [Db7 | Ab]
+  Flute       : F4@1>8^56
+  Organ       : Ab2+C5@1>16^56 Bb4@2>1^56 Ab4@3>6^56 Db4+F4+Ab4@9>4^56 Db4+F4+Ab4@13>4^56
+  Harp        : Db2@1>2^56 Ab2@3>2^56 F3@5>2^80 Ab2@7>2^80 Eb2+Eb3@9>2^104 Eb2+Eb3@11>2^104 Eb2+Eb3@13>4^104
+  Solo Soprano: C5@13>2^80 C5@15>2^80
+  Solo Boy    : Eb4@13>2^80 Eb4@15>2^80
+  Choir       : Eb3+Ab3+C4+Eb4@13>2^80 Eb3+Ab3+C4+Eb4@15>2^80
+  Strings     : Db2+C4+F4@1>8^56 Eb2+Bb3+Db4+F4@9>8^104 Bb3+Db4+F4@13>4^104
+@22 [Db] (grid:12t)
+  Organ       : Ab2@1>12^56
+  Solo Soprano: Db5@1>3^80 Bb4@4>4^80 F4@10>1^80 Db5@11>1^80
+  Solo Boy    : F4@1>3^80 Db4@4>4^80 Db4@10>1^80 F4@11>1^80
+  Choir       : Ab2+Bb3+Db4+F4@1>3^80 Ab2+F3+Bb3+Db4@4>4^80 Ab2+F3+Bb3+Db4@10>1^80 Ab2+Bb3+Db4+F4@11>1^80
+  Strings     : Ab2+Bb3+Db4+F4@1>12^104 Db4+F4+Bb4@4>3^104 F4+Bb4+Db5@7>3^104 Bb3+Db4+F4@10>3^104
+@23 [Eb | Ab] (grid:12t)
+  Organ       : Eb1+Eb2@1>12^56
+  Solo Soprano: C5@1>3^80 Bb4@4>4^80 C5@10>1^80 C5@11>1^80
+  Solo Boy    : Eb4@1>3^80 Db4@4>4^80 Eb4@10>1^80 Eb4@11>1^80
+  Choir       : Bb2+G3+C4+Eb4@1>3^80 Bb2+G3+Bb3+Db4@4>4^80 Ab2+Eb3+Ab3+C4+Eb4@10>1^80 Ab2+Eb3+Ab3+C4+Eb4@11>1^80
+  Strings     : Eb1+Eb2+G3+Db4+Eb4@1>12^104 Bb3+Db4+G4@4>3^104 Db4+Eb4+Bb4@7>3^104 Ab3+C4+Eb4@10>3^104
+@24 [Db] (grid:12t)
+  Organ       : Ab1+Ab2@1>12^56
+  Solo Soprano: Db5@1>3^80 Bb4@4>4^80 F4@10>1^80 Db5@11>1^80
+  Solo Boy    : F4@1>3^80 Db4@4>4^80 Db4@10>1^80 F4@11>1^80
+  Choir       : Ab2+F3+Bb3+Db4+F4@1>3^80 Ab2+F3+Bb3+Db4@4>4^80 Ab2+F3+Db4@10>1^80 Ab2+Bb3+Db4+F4@11>1^80
+  Strings     : Ab1+Ab2+Bb3+Db4+F4@1>12^104 Db4+F4+Bb4@4>3^104 F4+Bb4+Db5@7>3^104 Bb3+Db4+F4@10>3^104
+@25 [Eb] (grid:8)
+  Organ       : Eb1+Eb2@1>8^56
+  Harp        : Eb2@1>1^104 Bb2@2>1^80 Eb3@3>1^80 Bb2@4>1^80 G3@5>1^80 Bb2@6>1^80 Eb3@7>1^56 Bb2@8>1^56
+  Solo Soprano: C5@1>2^80 Bb4@3>4^80 Eb5@8>1^80
+  Solo Boy    : Eb4@1>2^80 Db4@3>4^80 C5@8>1^80
+  Choir       : Eb2+G3+C4+Eb4@1>2^80 Eb2+G3+Bb3+Db4@3>4^80
+  Strings     : Eb1+Eb2+G3+Db4+Eb4@1>8^104 Bb3+Db4+G4@3>2^104 Db4+Eb4+Bb4@5>2^104 G3+Db4+Eb4@7>2^80
+@26 [Db | Gdim] (grid:8)
+  Organ       : Db3@1>8^56
+  Solo Soprano: Ab5@1>2^80 G5@3>1^80 F5@4>1^80 Eb5@5>1^80 Db5@6>1^80 C5@7>1^80 Db5@8>1^80
+  Solo Boy    : F5@1>2^80 Eb5@3>1^80 Db5@4>1^80 C5@5>1^80 Bb4@6>1^80 Ab4@7>1^80 Bb4@8>1^80
+  Strings     : Db3+F4+Ab4@1>8^80 Bb3+Eb4+G4@5>2^80 G4+C5+Eb5@7>1^80 Bb4+Db5@8>1^80
+@27 [Ab] (grid:24t)
+  Organ       : C3@1>12^56 C3@13>12^56
+  Solo Soprano: Eb5@1>3^80 Eb5@4>3^80 Eb5@7>3^80 C5@10>3^80 Eb5@13>3^80 C5@16>1^80 Ab5@17>7^80
+  Solo Boy    : C5@1>3^80 C5@4>3^80 C5@7>3^80 Ab4@10>3^80 C5@13>3^80 Ab4@16>1^80 C5@17>7^80
+  Strings     : C3+Ab4+C5@1>12^80 C5+Eb5@4>3^80 C5+Eb5@7>3^80 Ab4+C5@10>3^80 C3+Ab3+C4@13>12^80
+@28 [Bbm | Eb] (grid:8)
+  Organ       : Bb1+Bb2@1>4^80 Eb2+Eb3@5>4^56
+  Solo Soprano: G5@3>1^80 F5@4>1^80 Eb5@5>1^80 Db5@6>1^80 C5@7>1^80 Eb5@8>1^80
+  Solo Boy    : Eb5@3>1^80 Db5@4>1^80 C5@5>1^80 Bb4@6>1^56 Ab4@7>1^56 G4@8>1^32
+  Strings     : Bb1+Bb2+Ab3+Db4+F4@1>4^80 Eb2+Eb3+Bb3+Db4+G4@5>4^56
+@29 [Ab7]
+  Organ       : Ab2@1>16^32
+  Solo Soprano: C5@1>1^80 Bb4@2>1^80 Ab4@3>6^80 C5@13>2^80 Eb5@15>2^80
+  Solo Boy    : Ab4@1>1^80 Eb4@2>1^80 C4@3>6^80 Ab4@13>2^80 C5@15>2^80
+  Choir       : Ab3@1>2^80 Ab3@3>2^80 Ab3@5>2^80 Ab3@7>2^80 G3@9>2^80 G3@11>2^80 G3@13>2^80
+  Strings     : Ab2+Eb4+C5@1>16^32
+@30 [Fm7 | Ab]
+  Organ       : Ab2@1>16^32
+  Solo Soprano: C5@1>1^80 Bb4@2>1^80 Ab4@3>6^80 C5@13>2^80 Eb5@15>2^80
+  Solo Boy    : Eb4@1>1^80 Db4@2>1^80 C4@3>6^80 Ab4@13>2^80 C5@15>2^80
+  Choir       : F3@1>2^80 F3@3>2^80 F3@5>2^80 F3@7>2^80 Eb3@9>2^80 Eb3@11>2^80 Eb3@13>2^80
+  Strings     : Ab2+Eb4+C5@1>16^32
+@31 [Db | Eb]
+  Organ       : Db2@1>8^32 Bb1+Bb2@9>4^32 Eb1+Eb2@13>4^32
+  Solo Soprano: C5@1>1^80 Bb4@2>1^80 Ab4@3>4^80 Ab5@9>4^80 G4@13>4^80
+  Solo Boy    : Ab4@1>1^80 G4@2>1^80 F4@3>4^80 C5@13>2^56 Eb5@15>2^56
+  Strings     : Db2+Ab3+Db4+F4@1>8^32 Bb1+Bb2+Ab3+Db4+F4@9>4^32 Eb1+Eb2+Bb3+Db4+G4@13>4^32
+@32 [Db | Ab]
+  Organ       : Ab1+Ab2@1>4^32 Ab1+Ab2@5>4^32 Ab1+Ab2@9>4^32 Ab1@13>2^32
+  Solo Soprano: Ab4@1>12^80
+  Solo Boy    : C5@1>1^56 Bb4@2>1^56 Ab4@3>10^56
+  Strings     : Ab1+Ab2+Ab3+Db4+F4+Ab4@1>4^32 Ab1+Ab2+F3+Bb3+Db4+F4@5>4^32 Ab1+Ab2+Eb3+Ab3+C4+Eb4@9>4^32 Ab1@13>2^32

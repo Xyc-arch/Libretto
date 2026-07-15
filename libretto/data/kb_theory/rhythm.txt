@@ -521,3 +521,23 @@ VOICES: Piano
 @1 [C] (grid:12t)
   Piano: C3+C4@1>6 E4@5>4 G3@7>6 G4@9>4
 GRAMMAR-END
+================================================================================
+CONCEPT: Short-long-short & the syncopated-cell family
+ID: TR-SHORT-LONG-SHORT
+CATEGORY: rhythm
+LEVEL: intermediate
+WHAT: A FAMILY of syncopated figures built on one idea: a longer note that ATTACKS on the off-beat (an "and")
+and is HELD across the next beat, flanked by shorter notes. The base is short–LONG–short (0.5–1–0.5 =
+eighth-quarter-eighth, `>2 >4 >2`). It scales (sixteenth-eighth-sixteenth `>1 >2 >1`, quarter-half-quarter
+`>4 >8 >4`) and COMBINES with variants — e.g. short–LONG–short–short (0.5–1–0.25–0.25, `>2 >4 >1 >1`), or dotted
+variants. Use these freely and MIXED; what matters is the off-beat long note tied over the beat, not one rigid
+ratio — it is one of the common rhythm patterns a real piece should touch, among many.
+CHALLENGE: Attack a longer note on the "and" and hold it over the next beat, flanked by shorter notes — and vary the shape (different scales, or add an extra short note).
+GRAMMAR-BEGIN
+KEY: C major | METER: 4/4 | TEMPO: 96 | GRID: 16th | BARS: 2
+VOICES: Piano
+@1 [C]
+  Piano: C4@1>2 E4@3>4 G4@7>2 C5@9>4 G4@13>4
+@2 [C]
+  Piano: C4@1>2 E4@3>4 G4@7>1 A4@8>1 C5@9>4 G4@13>4
+GRAMMAR-END

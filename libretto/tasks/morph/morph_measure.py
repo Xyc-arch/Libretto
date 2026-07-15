@@ -12,13 +12,14 @@ non-degenerate (genre-aware-free C1 with the short-segment length-axis exemption
 import json, sys, re
 from pathlib import Path
 import numpy as np
-import metric_discovery as md
-from understanding_probe import Song
-import copy_risk as cr
+from libretto.core import metric_discovery as md
+from libretto.core import Song
+from libretto.core import copy_risk as cr
 
-SCRIPT = Path(__file__).resolve().parent
-GRAMMAR = SCRIPT / "grammar"; OUT = SCRIPT / "compositions" / "morph"
-CANON = json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+import libretto
+DATA = libretto.data_root()
+GRAMMAR = DATA / "grammar"; OUT = Path("compositions") / "morph"
+CANON = json.loads((DATA/"corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 LENGTH_AXES = {"form_distinct_bar_frac","form_section_per100bars","form_novelty_rate",
                "form_self_similarity","rhy_density_variability"}

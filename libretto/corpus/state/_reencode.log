@@ -1,0 +1,238 @@
+re-encoding 1612 songs with 3 workers -> /Users/yichen_xu/Desktop/D_disk/startup_business/code/clean_midi/000music0score000/libretto/data/grammar
+watch: wc -l /Users/yichen_xu/Desktop/D_disk/startup_business/code/clean_midi/000music0score000/libretto/corpus/state/reencode_progress.jsonl
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'qu\xe9,'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b's\xed,'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b't\xe1s,'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'd\xed'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'qu\xed '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b's\xed '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'c\xed,'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'r\xe1s '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b't\xed'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'll\xe1 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'gr\xed'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'\xe9,'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'ch\xe8 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'l\xec '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'ch\xe8 in'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'r\xe0! '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'r\xf2 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'n\xf2 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'r\xe0... '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'\xe8 un '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'r\xe0 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b't\xe0 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'\xe8 arri'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'\xae(Adamo)'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b' <(\xb0L\xb0)>'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+  ...50/1612  ok=50 err=0
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...100/1612  ok=100 err=0
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'say\x85 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b're pi\xf9 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'pi\xf9 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'n\xe9 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2008: TranslateWarning: Unable to determine instrument from <music21.midi.MidiEvent SEQUENCE_TRACK_NAME, track=0, data=b'\x82c\x82n\x82m\x81f\x82s\x81@\x82b\x82q\x82x / \x82`\x82r\x82h\x82`                                   '>; getting generic Instrument
+  metaObj = midiEventToInstrument(e, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'say\x85'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+  ...150/1612  ok=150 err=0
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...200/1612  ok=200 err=0
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...250/1612  ok=250 err=0
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b"in'\x85 "> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...300/1612  ok=300 err=0
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...350/1612  ok=349 err=1
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...400/1612  ok=398 err=2
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...450/1612  ok=448 err=2
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...500/1612  ok=498 err=2
+  ...550/1612  ok=548 err=2
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...600/1612  ok=598 err=2
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...650/1612  ok=648 err=2
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...700/1612  ok=698 err=2
+  ...750/1612  ok=748 err=2
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...800/1612  ok=798 err=2
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...850/1612  ok=848 err=2
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...900/1612  ok=896 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...950/1612  ok=946 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...1000/1612  ok=996 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2008: TranslateWarning: Unable to determine instrument from <music21.midi.MidiEvent SEQUENCE_TRACK_NAME, track=0, data=b'Fala Serio - Zez\xe9 & Luciano'>; getting generic Instrument
+  metaObj = midiEventToInstrument(e, encoding=encoding)
+  ...1050/1612  ok=1046 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...1100/1612  ok=1096 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...1150/1612  ok=1146 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...1200/1612  ok=1196 err=4
+  ...1250/1612  ok=1246 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'tion\x85 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'soon\x85 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'hills\x85 '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...1300/1612  ok=1296 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...1350/1612  ok=1346 err=4
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2008: TranslateWarning: Unable to determine instrument from <music21.midi.MidiEvent SEQUENCE_TRACK_NAME, track=0, data=b'NoKiO \xa9 2000'>; getting generic Instrument
+  metaObj = midiEventToInstrument(e, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...1400/1612  ok=1395 err=5
+  ...1450/1612  ok=1445 err=5
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'caf\xe9s'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+  ...1500/1612  ok=1495 err=5
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b' you\x92re'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b' I\x92m'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b' who\x92s'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b' it\x92s'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'It\x92s'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'Can\x92t'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'You\x92re'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'in\x92'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'in\x92,'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+  ...1550/1612  ok=1545 err=5
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/pretty_midi/pretty_midi.py:100: RuntimeWarning: Tempo, Key or Time signature change events found on non-zero tracks.  This is not a valid type 0 or type 1 MIDI file.  Tempo, Key or Time Signature may be wrong.
+  warnings.warn(
+  ...1600/1612  ok=1594 err=6
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'wei\xdf '> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+/Users/yichen_xu/anaconda3/lib/python3.11/site-packages/music21/midi/translate.py:2136: TranslateWarning: Unable to decode lyrics from <music21.midi.MidiEvent LYRIC, track=0, data=b'm\xfcs'> as utf-8
+  lyricsDict = lyricTimingsFromEvents(timedEvents, encoding=encoding)
+  ...1612/1612  ok=1606 err=6
+
+DONE: 1606 re-encoded, 6 failed (existing grammar kept). progress log: /Users/yichen_xu/Desktop/D_disk/startup_business/code/clean_midi/000music0score000/libretto/corpus/state/reencode_progress.jsonl
+  failures: [('song_0348', 'no pitched content'), ('song_0382', 'no pitched content'), ('song_0891', 'no pitched content'), ('song_0895', 'no pitched content'), ('song_1369', 'no pitched content'), ('song_1597', 'no pitched content')]

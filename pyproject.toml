@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "libretto"
-version = "2.2.0"
-description = "Descriptive symbolic-music fingerprint environment (29-axis, frozen 314-song corpus)"
+version = "3.0.0"
+description = "Descriptive symbolic-music fingerprint environment (39-axis, frozen genre-balanced 1523-song corpus)"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

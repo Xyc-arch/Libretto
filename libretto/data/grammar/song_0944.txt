@@ -1,0 +1,704 @@
+KEY: D major | METER: 3/4 | TEMPO: 160 | GRID: 64th (adaptive) | BARS: 103
+VOICES: AnniesSongGS[drums], AnniesSongGS#2[prog=0], AnniesSongGS#3[prog=0], AnniesSongGS#4[prog=89], AnniesSongGS#5[prog=89], AnniesSongGS#6[prog=35], AnniesSongGS#7[prog=11], AnniesSongGS#8[prog=48], AnniesSongGS#9[prog=46]
+@1 [-]
+@2 [-] (grid:4)
+  AnniesSongGS  : F#2@1>1^104 F#2@2>1^80 F#2@3>1^80
+@3 [D] (grid:4)
+  AnniesSongGS  : F#2@1>1^104 F#2@2>1^80
+  AnniesSongGS#2: D5@3>1^80
+@4 [D | G]
+  AnniesSongGS  : D#3@48>1^80
+  AnniesSongGS#2: D5@1>17^80 C#5@17>17^104 B4@33>17^104
+  AnniesSongGS#4: B3+D4+G4@47>51^56 G3@48>48^56
+  AnniesSongGS#5: B3+D4+G4@47>51^56 G3@48>49^56
+  AnniesSongGS#6: G1@47>50^104
+@5 [G]
+  AnniesSongGS#2: D5@1>47^104
+  AnniesSongGS#3: G3@1>29^80 D4@17>16^80 B3@33>15^80
+  AnniesSongGS#4: A4@46>47^56 A3+C#4+E4@47>48^56
+  AnniesSongGS#5: C#4+A4@46>48^56 A3+E4@47>48^56
+@6 [A | Bm]
+  AnniesSongGS  : D#3@32>1^56 D#3@48>1^80
+  AnniesSongGS#2: C#5@1>53^104
+  AnniesSongGS#3: A3@1>14^56 E4@16>16^80 C#4@32>16^80
+  AnniesSongGS#4: D4@44>339^56 F#4+B4@45>100^80
+  AnniesSongGS#5: D4@44>339^56 F#4+B4@45>100^80
+  AnniesSongGS#6: A1@1>43^104 B1@44>35^104
+@7 [D | G7] (grid:24t)
+  AnniesSongGS#2: B4@13>1^80 B4@16>1^80
+  AnniesSongGS#3: B3@1>15^80 D4@7>11^80 B3@13>6^80
+  AnniesSongGS#4: G4@17>18^56 G3@18>19^56
+  AnniesSongGS#5: G4@17>18^56 G3@18>19^56
+  AnniesSongGS#6: F#1@12>6^104 G1@18>12^104
+@8 [D7]
+  AnniesSongGS  : D#3@48>1^80
+  AnniesSongGS#2: B4@1>6^80 C#5@17>16^80 D5@32>17^104
+  AnniesSongGS#3: G3@1>9^80 D4@16>17^80 B3@33>5^56
+  AnniesSongGS#4: A3+F#4@46>194^56
+  AnniesSongGS#5: A3+F#4@46>194^56
+  AnniesSongGS#6: C#2@31>18^80
+@9 [F#m | D] (grid:4)
+  AnniesSongGS#2: A4@1>16^80 F#4@2>5^80
+  AnniesSongGS#3: D3@1>14^56 A3@2>1^80 D3@3>1^80
+  AnniesSongGS#6: D2@1>48^104
+@10 [A | C#aug] (grid:4)
+  AnniesSongGS  : D#3@3>1^56
+  AnniesSongGS#3: C#3@1>1^80 A3@2>1^80 C#3@3>1^80
+  AnniesSongGS#4: C#4@1>3^56
+  AnniesSongGS#5: C#4@1>3^56
+  AnniesSongGS#6: C#2@1>2^104 C#2@3>1^104
+@11 [B] (grid:8)
+  AnniesSongGS  : D#3@1>1^80
+  AnniesSongGS#2: A4@5>1^80 A4@6>1^80
+  AnniesSongGS#3: B2@1>1^80 A3@3>2^80 B2@5>2^56
+  AnniesSongGS#4: B3@1>3^56
+  AnniesSongGS#5: B3@1>3^56
+  AnniesSongGS#6: B1@1>6^104
+@12 [A]
+  AnniesSongGS  : D#3@17>1^80 B3@32>1^56
+  AnniesSongGS#2: A4@1>3^80 B4@16>17^104 C#5@32>17^80 D5@48>46^104
+  AnniesSongGS#3: A2@1>3^80 A3@17>30^80
+  AnniesSongGS#4: A3@1>6^56 B3+G4@46>49^80 G3@47>48^80
+  AnniesSongGS#5: A3@1>6^56 B3+G4@46>49^80 G3@47>48^80
+  AnniesSongGS#6: A1@1>23^104 A1@31>16^104 G1@47>49^104
+@13 [D | Bm]
+  AnniesSongGS  : D#3@1>1^56
+  AnniesSongGS#2: C#5@48>52^80
+  AnniesSongGS#3: G3@1>14^80 D4@16>14^80 B3@32>16^80 F#3@48>19^80
+  AnniesSongGS#4: A3+C#4+F#4@45>51^80
+  AnniesSongGS#5: A3+C#4+F#4@45>51^80
+@14 [C# | A7]
+  AnniesSongGS  : D#3@32>1^56 D#3@48>1^80
+  AnniesSongGS#3: C#4@16>16^80 A3@32>15^80
+  AnniesSongGS#4: G3+G4@46>99^80 E4@47>52^56
+  AnniesSongGS#5: G3+E4+G4@46>99^80
+  AnniesSongGS#6: F#1@1>46^104 E1@46>33^104
+@15 [E | Bm] (grid:16)
+  AnniesSongGS#2: B4@9>1^80 B4@11>1^80
+  AnniesSongGS#3: E3@1>7^80 B3@5>4^80 G3@9>1^80
+  AnniesSongGS#4: D4@12>13^80
+  AnniesSongGS#5: D4@12>12^80
+  AnniesSongGS#6: F#1@9>4^104
+@16 [G]
+  AnniesSongGS  : D#3@48>1^80
+  AnniesSongGS#2: B4@1>5^80 C#5@16>16^80 D5@32>17^104 C#5@48>101^80
+  AnniesSongGS#3: G3@1>14^80 D4@16>17^80 B3@33>16^56
+  AnniesSongGS#4: B3@1>12^56 A3+C#4+E4+A4@47>196^80
+  AnniesSongGS#5: B3@1>12^56 A3+C#4+E4+A4@47>196^80
+  AnniesSongGS#6: G1@1>7^104 G1@31>17^104 A1@47>46^104
+@17 [A | C#dim] (grid:12t)
+  AnniesSongGS#3: A3@1>3^80 E4@4>3^56 C#4@7>3^56
+  AnniesSongGS#4: G4@9>9^80
+  AnniesSongGS#5: G4@9>9^80
+  AnniesSongGS#6: A1@9>9^104
+@18 [G | Em] (grid:4)
+  AnniesSongGS#3: A3@1>3^80 G4@2>1^80 E4@3>1^80
+@19 [A | D] (grid:8)
+  AnniesSongGS  : D#3@1>1^80
+  AnniesSongGS#2: D5@5>1^80 D5@6>1^104
+  AnniesSongGS#3: A3@1>8^80
+  AnniesSongGS#6: A1@1>3^104
+@20 [C# | Bm]
+  AnniesSongGS#2: D5@1>2^104 C#5@17>18^80 B4@33>16^80
+  AnniesSongGS#4: D4+G4@47>51^56 G3+B3@48>48^56
+  AnniesSongGS#5: D4+G4@47>52^56 G3+B3@48>48^56
+  AnniesSongGS#6: F#1@31>16^104 G1@48>49^104
+@21 [G | Bm7]
+  AnniesSongGS  : D#3@1>1^80
+  AnniesSongGS#2: D5@1>47^80
+  AnniesSongGS#3: G3@1>23^80 D4@17>16^80 B3@32>16^80
+  AnniesSongGS#4: A3+C#4+E4+A4@47>59^80
+  AnniesSongGS#5: A3+C#4+E4+A4@47>59^80
+@22 [E | C#m] (grid:32)
+  AnniesSongGS  : D#3@17>1^80
+  AnniesSongGS#2: C#5@1>57^80
+  AnniesSongGS#3: A3@1>14^80 E4@9>8^56 C#4@17>8^80
+  AnniesSongGS#4: D4@24>169^56
+  AnniesSongGS#5: D4@24>169^56
+  AnniesSongGS#6: A1@1>48^104
+@23 [Bm] (grid:16)
+  AnniesSongGS  : D#3@1>1^80
+  AnniesSongGS#2: B4@9>1^80 B4@11>1^80
+  AnniesSongGS#3: B3@1>6^80 D4@5>4^80 B3@9>4^80
+  AnniesSongGS#4: F#4+B4@1>12^80 G3@12>13^56
+  AnniesSongGS#5: F#4+B4@1>24^80 G3@12>13^56
+  AnniesSongGS#6: B1@1>16^104 F#1@9>4^104 G1@12>8^104
+@24 [Gdim | G]
+  AnniesSongGS  : D#3@48>1^80
+  AnniesSongGS#2: B4@1>5^80 C#5@16>16^80 D5@32>17^104 A4@48>16^80
+  AnniesSongGS#3: G3@1>4^56 D4@16>18^80 B3@33>12^56
+  AnniesSongGS#4: G4@1>48^80 A3+F#4@47>192^56
+  AnniesSongGS#5: G4@1>12^80 A3+F#4@47>192^56
+  AnniesSongGS#6: C#2@31>16^104 D2@47>50^104
+@25 [F#m | D] (grid:24t)
+  AnniesSongGS#2: F#4@7>30^80
+  AnniesSongGS#3: D3@1>15^56 A3@7>7^80 D3@13>6^80
+  AnniesSongGS#4: C#4@18>19^56
+  AnniesSongGS#5: C#4@18>19^56
+@26 [A | C#aug] (grid:24t)
+  AnniesSongGS#3: C#3@1>5^56 A3@7>6^80 C#3@13>6^56
+  AnniesSongGS#4: B3@18>19^56
+  AnniesSongGS#5: B3@18>19^56
+  AnniesSongGS#6: C#2@1>17^104 B1@18>11^104
+@27 [A | B7] (grid:4)
+  AnniesSongGS  : D#3@1>1^80
+  AnniesSongGS#2: A4@3>1^80
+  AnniesSongGS#3: B2@1>5^80 A3@2>1^56 B2@3>1^80
+  AnniesSongGS#6: B1@3>1^104
+@28 [B7 | F#m]
+  AnniesSongGS  : D#3@16>1^80 D#3@32>1^80 D#3@48>1^80
+  AnniesSongGS#2: A4@1>1^80 B4@16>17^80 C#5@33>15^80
+  AnniesSongGS#3: A2@1>1^80 A3@17>27^56
+  AnniesSongGS#4: A3@1>3^80 G3+B3+G4@46>50^80
+  AnniesSongGS#5: A3@1>3^80 G3+B3+G4@46>50^80
+  AnniesSongGS#6: A1@1>2^104 F#1@31>16^104 G1@47>47^104
+@29 [D | Bm]
+  AnniesSongGS#2: D5@1>47^80
+  AnniesSongGS#3: G3@1>20^56 D4@16>39^56 B3@32>16^80
+  AnniesSongGS#4: A3+C#4+F#4@46>53^80
+  AnniesSongGS#5: A3+C#4+F#4@46>52^80
+  AnniesSongGS#6: F#1@46>48^104
+@30 [C# | A]
+  AnniesSongGS  : D#3@1>1^56 D#3@32>1^80
+  AnniesSongGS#2: C#5@1>79^80
+  AnniesSongGS#3: F#3@1>19^80 C#4@17>17^80 A3@33>14^80
+  AnniesSongGS#4: B3+E4+G4@47>51^80
+  AnniesSongGS#5: B3+E4+G4@47>51^80
+  AnniesSongGS#6: E1@46>33^104
+@31 [B | Em]
+  AnniesSongGS  : D#3@1>1^80
+  AnniesSongGS#2: B4@32>18^80
+  AnniesSongGS#3: E3@1>44^56 B3@17>16^80 G3@32>16^80
+  AnniesSongGS#4: G4@45>80^56 A3+C#4+A4@47>51^80
+  AnniesSongGS#5: G4@45>49^56 A3+C#4+A4@47>51^80
+  AnniesSongGS#6: E1@35>13^104 G1@48>4^104
+@32 [D | A]
+  AnniesSongGS  : D#3@1>1^80
+  AnniesSongGS#2: G4+C#5@1>22^104 D5@17>16^104 E5@33>15^104
+  AnniesSongGS#3: A3@1>48^80
+  AnniesSongGS#6: A1@5>19^104 A1@32>16^104 D1@48>69^104
+@33 [D] (grid:4)
+  AnniesSongGS  : C2+D#3@1>1^80
+  AnniesSongGS#2: F#4+D5@1>130^80
+  AnniesSongGS#3: D3@1>1^56 A3@2>1^80 D3@3>2^80
+  AnniesSongGS#4: A3+D4+F#4@1>12^56
+  AnniesSongGS#5: A3+D4+F#4@1>48^56
+@34 [G]
+  AnniesSongGS  : D#3@1>1^80 C2@33>1^56
+  AnniesSongGS#2: G4@1>2^80
+  AnniesSongGS#3: A3@17>16^56 D3@32>8^56 D3@48>15^80
+  AnniesSongGS#4: G4@1>48^56
+  AnniesSongGS#5: G4@1>3^56
+  AnniesSongGS#6: D1@32>10^104 D1@48>59^104
+@35 [A | D] (grid:4)
+  AnniesSongGS  : C2+D#3@1>1^80
+  AnniesSongGS#2: F#4@1>35^80
+  AnniesSongGS#3: A3@2>1^80 D3@3>1^80
+  AnniesSongGS#4: F#4@1>48^32
+  AnniesSongGS#5: F#4@1>48^32
+@36 [G]
+  AnniesSongGS  : D#3@1>1^80 C2@32>1^32 C2+D#3@48>1^80
+  AnniesSongGS#2: G4+D5@1>44^80 C#5@17>18^104 B4@33>9^104
+  AnniesSongGS#3: D3@1>2^80
+  AnniesSongGS#4: G4@1>48^56
+  AnniesSongGS#5: G4@1>48^56
+  AnniesSongGS#6: D1@16>14^104 F#1@30>17^104 G1@47>50^104
+@37 [G]
+  AnniesSongGS  : D#3@17>1^56 D#3@33>1^56
+  AnniesSongGS#2: B4+D5@1>46^80
+  AnniesSongGS#3: G3@1>16^80 D4@17>16^80 G3@33>14^56
+  AnniesSongGS#4: A4@46>47^56 A3+C#4+E4@47>48^56
+  AnniesSongGS#5: A4@46>47^56 A3+C#4+E4@47>48^56
+  AnniesSongGS#6: A1@48>45^104
+@38 [A]
+  AnniesSongGS  : C#2+D#3@1>1^80 C2@32>1^56 C2@48>1^56
+  AnniesSongGS#2: A4+C#5@1>65^80
+  AnniesSongGS#3: A3@1>15^80 E4@17>25^80 A3@32>15^80
+  AnniesSongGS#4: D4@44>339^56 F#4+B4@45>100^80
+  AnniesSongGS#5: D4@44>339^56 F#4+B4@45>100^80
+  AnniesSongGS#6: B1@46>34^104
+@39 [D | G7]
+  AnniesSongGS  : D#3@1>1^80 D#3@16>1^56 D#3@32>1^56 D#3@48>1^80
+  AnniesSongGS#2: B4@32>3^104 B4@40>4^80 B4@48>19^80
+  AnniesSongGS#3: B3@1>15^80 D4@17>19^80 B3@33>16^80
+  AnniesSongGS#4: G3+G4@45>50^56
+  AnniesSongGS#5: G3+G4@45>50^56
+  AnniesSongGS#6: F#1@32>15^104 G1@47>33^104
+@40 [Gdim | F#m]
+  AnniesSongGS  : C#2@1>1^56 C2+D#3@48>1^80
+  AnniesSongGS#2: G4@1>8^80 A4+C#5@17>12^104 B4+D5@32>4^104
+  AnniesSongGS#3: G3@1>29^80
+  AnniesSongGS#4: A3+F#4@46>194^56
+  AnniesSongGS#5: A3+F#4@46>194^56
+  AnniesSongGS#6: C#2@32>16^104 D2@48>26^104
+@41 [D]
+  AnniesSongGS  : D#3@16>1^56 D#3@24>1^56 D#3@33>1^56
+  AnniesSongGS#2: F#4+A4@1>22^80 D4+F#4@17>61^80
+  AnniesSongGS#3: D3@1>15^80 A3@17>16^56 D3@33>14^56
+  AnniesSongGS#4: C#4@45>50^56
+  AnniesSongGS#5: C#4@45>50^56
+  AnniesSongGS#6: C#2@48>28^80
+  AnniesSongGS#7: E5@33>28^56
+@42 [D | C#aug]
+  AnniesSongGS  : C#2+D#3@1>1^80 C2+D#3@48>1^80
+  AnniesSongGS#3: C#3@1>15^80 A3@17>14^56 C#3@32>14^80 B2@48>16^80
+  AnniesSongGS#4: B3@46>50^56
+  AnniesSongGS#5: B3@46>50^56
+  AnniesSongGS#6: C#2@32>15^104 B1@48>46^104
+  AnniesSongGS#7: D5@17>6^80 C#5@25>6^80 B4@33>6^80 C#5@41>6^80
+@43 [F#m | D]
+  AnniesSongGS  : D#3@16>1^56 D#3@25>1^56 D#3@32>1^80 D#3@48>1^80
+  AnniesSongGS#2: A4@32>3^80 A4@40>4^80
+  AnniesSongGS#3: A3@16>30^56 B2@32>17^80
+  AnniesSongGS#4: A3@47>48^56
+  AnniesSongGS#5: A3@47>48^56
+  AnniesSongGS#6: A1@45>34^104
+  AnniesSongGS#7: B4@1>12^80 A4@17>6^56 F#4@25>6^80 E4@33>7^80 D4@41>7^80
+@44 [D | F#m]
+  AnniesSongGS  : C#2@1>1^56 C2+D#3@48>1^80
+  AnniesSongGS#2: F#4+A4@1>15^80 G4+B4@16>14^80 C#5@32>10^104 A4@33>10^56 B4+D5@48>46^80
+  AnniesSongGS#3: A2@1>22^56 A3@17>29^56 G3@48>17^80
+  AnniesSongGS#4: B3+G4@46>49^80 G3@47>48^80
+  AnniesSongGS#5: B3+G4@46>49^80 G3@47>48^80
+  AnniesSongGS#6: F#1@32>15^104 G1@47>48^104
+  AnniesSongGS#7: A3@1>8^80 D4@9>8^80 G4@17>8^104 F#4@25>8^80 E4@33>8^80 D4@41>8^80
+@45 [D | F#m]
+  AnniesSongGS#2: C#5@48>46^80
+  AnniesSongGS#3: D4@16>15^56 G3@32>16^56 F#3@48>16^80
+  AnniesSongGS#4: A3+C#4+F#4@45>51^80
+  AnniesSongGS#5: A3+C#4+F#4@45>51^80
+  AnniesSongGS#7: B4@1>19^80 E5@33>6^56 F#5@41>6^80
+@46 [A | F#m]
+  AnniesSongGS  : C#2@1>1^80 C2@32>1^56 C2+D#3@48>1^80
+  AnniesSongGS#2: A4@1>45^56
+  AnniesSongGS#3: C#4@16>15^80 F#3@32>17^80
+  AnniesSongGS#4: G3+G4@46>99^80 E4@47>52^56
+  AnniesSongGS#5: G3+G4@46>99^80 E4@47>52^56
+  AnniesSongGS#6: F#1@1>46^80 E1@46>32^104
+  AnniesSongGS#7: A5@1>12^80 E5@17>12^56 F#5@33>12^80
+@47 [Bm | Em7]
+  AnniesSongGS  : D#3@32>1^56 C#2+D#3@48>1^80
+  AnniesSongGS#2: B4@32>3^80 G4@33>3^80 G4+B4@40>4^80 B4@48>18^80
+  AnniesSongGS#3: E3@1>14^80 B3@16>18^80 E3@32>17^80
+  AnniesSongGS#4: B3+D4@47>50^80
+  AnniesSongGS#5: B3+D4@47>50^80
+  AnniesSongGS#6: F#1@31>15^80 G1@46>49^104
+  AnniesSongGS#7: G5@1>19^80 D5@25>6^80 B4@33>6^80 A4@41>6^80
+@48 [Gdim | G]
+  AnniesSongGS  : D#3@16>1^56 D#3@32>1^80
+  AnniesSongGS#2: G4@1>6^80 A4+C#5@17>10^80 B4+D5@33>13^80
+  AnniesSongGS#3: G3@1>34^80
+  AnniesSongGS#4: A3+C#4+E4+A4@47>196^80
+  AnniesSongGS#5: A3+C#4+E4+A4@47>196^80
+  AnniesSongGS#6: A1@47>47^104
+  AnniesSongGS#7: G4@1>12^56 A4@17>12^56 B4@33>12^80
+@49 [A7]
+  AnniesSongGS  : C2+D#3@1>1^80 D#3@17>1^56 D#3@33>1^56
+  AnniesSongGS#2: C#5+E5@1>98^80
+  AnniesSongGS#3: A3@1>16^80 E4@17>14^56 A3@32>15^80 A3@48>18^80
+  AnniesSongGS#4: G4@45>48^80
+  AnniesSongGS#5: G4@45>48^80
+  AnniesSongGS#6: G1@47>25^104
+  AnniesSongGS#7: A4@1>12^80 C#4@17>6^56 E4@25>6^56 A4@33>6^80 B4@41>6^80
+@50 [G | C#dim]
+  AnniesSongGS  : C#2+D#3@1>1^80 D#3@16>1^56 D#3@32>1^80 C2+D#3@48>1^80
+  AnniesSongGS#3: G4@16>16^80 E4@32>18^80 A3@48>64^80
+  AnniesSongGS#6: G1@29>17^104 A1@46>68^104
+  AnniesSongGS#7: C#5@1>6^80 A4@9>6^56 B4@17>6^56 C#5@25>6^80 E5@33>6^80 C#5@41>6^80
+@51 [A | Bm]
+  AnniesSongGS  : D#3@48>1^80
+  AnniesSongGS#2: B4+D5@33>3^80 B4+D5@41>4^80
+  AnniesSongGS#7: A4@1>25^56 D5@33>7^80 D5@41>7^80
+@52 [Bm | G7]
+  AnniesSongGS  : F2@16>1^56 F2@17>1^56 C2@32>1^32
+  AnniesSongGS#2: B4+D5@1>19^80 A4+C#5@17>13^104 G4+B4@33>16^80 B4+D5@48>50^104
+  AnniesSongGS#3: G3@48>15^56
+  AnniesSongGS#4: D4+G4@47>51^56 G3+B3@48>48^56
+  AnniesSongGS#5: D4+G4@47>51^56 G3+B3@48>48^56
+  AnniesSongGS#6: F#1@33>16^104
+  AnniesSongGS#7: D5@1>12^80 C#5@17>12^80 B4@33>12^80
+@53 [G]
+  AnniesSongGS  : C2+D#3@1>1^104 D#3@17>1^80 D#3@25>1^80 D#3@32>1^80 C#2+D#3@48>1^104
+  AnniesSongGS#2: A4+C#5@48>48^80
+  AnniesSongGS#3: D4@16>15^80 G3@32>17^80
+  AnniesSongGS#4: A3+C#4+E4+A4@47>59^80
+  AnniesSongGS#5: A3+C#4+E4+A4@47>59^80
+  AnniesSongGS#6: G1@1>46^104 A1@47>47^104
+  AnniesSongGS#7: B4@1>37^80
+@54 [E | A]
+  AnniesSongGS  : D#3@16>1^56 C2+D#3@32>1^56 C2+D#3@48>1^80
+  AnniesSongGS#3: A3@1>13^80 E4@16>16^80 A3@32>18^80
+  AnniesSongGS#4: D4@48>338^56
+  AnniesSongGS#5: D4@48>338^56
+  AnniesSongGS#6: B1@46>34^104
+  AnniesSongGS#7: A4@1>38^80
+@55 [Bm]
+  AnniesSongGS  : D#3@16>1^56 D#3@32>1^56 C#2+D#3@48>1^104
+  AnniesSongGS#2: B4+D5@33>2^80 B4+D5@40>3^80
+  AnniesSongGS#3: B3@1>17^80 D4@17>16^80 B3@33>15^80
+  AnniesSongGS#4: F#4+B4@1>48^80 G3@46>52^56
+  AnniesSongGS#5: F#4+B4@1>48^80 G3@45>52^56
+  AnniesSongGS#6: F#1@33>15^104 G1@48>32^104
+  AnniesSongGS#7: F#4@1>38^56
+@56 [G]
+  AnniesSongGS  : D#3@16>1^80 D#3@32>1^80
+  AnniesSongGS#2: B4+D5@1>18^80 A4+C#5@17>12^104 G4+B4@32>14^80 F#4@48>11^80
+  AnniesSongGS#3: G3@1>27^80 D4@17>15^56 B3@33>3^80
+  AnniesSongGS#4: G4@1>48^80 A3+F#4@47>192^56
+  AnniesSongGS#5: G4@1>48^80 A3+F#4@47>192^56
+  AnniesSongGS#6: C#1@33>11^104 D1@47>27^104
+  AnniesSongGS#7: G4@1>12^56 A4@17>12^80 B4@33>12^80
+@57 [D]
+  AnniesSongGS  : C2+D#3@1>1^104 D#3@17>1^80 D#3@33>1^80
+  AnniesSongGS#2: A4@1>20^80 D4+F#4@17>77^80
+  AnniesSongGS#3: D3@1>15^80 A3@17>15^80 D3@32>15^80 C#3@48>15^80
+  AnniesSongGS#4: C#4@47>50^56
+  AnniesSongGS#5: C#4@47>50^56
+  AnniesSongGS#6: D1@31>16^104
+  AnniesSongGS#7: A4@1>12^56 F#4@17>12^56 E5@33>28^80
+@58 [C#aug]
+  AnniesSongGS  : C#2+D#3@1>1^104 D#3@17>1^80 C2@32>1^56 D#3@33>1^80
+  AnniesSongGS#3: A3@16>22^80 C#3@32>16^56 B2@48>14^80
+  AnniesSongGS#4: B3@45>52^56
+  AnniesSongGS#5: B3@45>52^56
+  AnniesSongGS#6: D2@1>4^104 C#2@5>24^104 C#2@33>12^104 B1@47>30^104
+  AnniesSongGS#7: D5@17>6^80 C#5@25>6^80 B4@33>6^80 C#5@41>6^56
+@59 [A | D]
+  AnniesSongGS  : C2+D#3@1>1^104 D#3@17>1^56 D#3@24>1^56 D#3@32>1^104 D#3@48>1^104
+  AnniesSongGS#2: F#4+A4@33>10^80 F#4+A4@48>19^80
+  AnniesSongGS#3: A3@16>31^80 B2@32>7^80 A2@48>23^80
+  AnniesSongGS#4: A3@48>47^80
+  AnniesSongGS#5: A3@47>47^80
+  AnniesSongGS#6: B1@32>15^104 A1@48>31^104
+  AnniesSongGS#7: B4@1>12^56 A4@17>6^80 F#4@25>6^80 E4@33>6^80 D4@41>6^80
+@60 [G | F#m]
+  AnniesSongGS  : C#2@1>1^80 D#3@17>1^56 C#2@25>1^32 D#3@32>1^80 C2@40>1^56 C2+D#3@48>1^104
+  AnniesSongGS#2: G4+B4@16>14^104 A4+C#5@32>10^104 B4@48>45^80
+  AnniesSongGS#3: A3@17>23^80 G3@48>24^80
+  AnniesSongGS#4: G3+B3+G4@46>50^80
+  AnniesSongGS#5: G3+B3+G4@46>50^80
+  AnniesSongGS#6: F#1@31>17^104 G1@48>47^104
+  AnniesSongGS#7: A3@1>8^80 D4@9>8^80 G4@17>8^80 F#4@25>8^80 E4@33>8^80 D4@41>8^56
+@61 [Bm | D7]
+  AnniesSongGS  : D#3@17>1^56 D#3@24>1^56 D#3@32>1^80 C#2+D#3@48>1^104
+  AnniesSongGS#2: D5@1>47^80 C#5@48>50^80
+  AnniesSongGS#3: D4@17>15^80 G3@32>17^80
+  AnniesSongGS#4: A3+C#4+F#4@46>52^80
+  AnniesSongGS#5: A3+C#4+F#4@46>52^80
+  AnniesSongGS#6: F#1@47>28^104
+  AnniesSongGS#7: B4@1>19^56 D5@25>6^56 E5@33>7^56 F#5@41>6^80
+@62 [F#m7]
+  AnniesSongGS  : D#3@16>1^80 D#3@32>1^80 D#3@48>1^104
+  AnniesSongGS#2: A4@1>61^80
+  AnniesSongGS#3: F#3@1>14^56 C#4@16>15^80 F#3@32>16^80 E3@48>16^80
+  AnniesSongGS#4: B3+E4+G4@47>50^80
+  AnniesSongGS#5: B3+E4+G4@47>51^80
+  AnniesSongGS#6: F#1@31>17^104
+  AnniesSongGS#7: A5@1>12^80 E5@17>12^56 F#5@33>12^80
+@63 [Em]
+  AnniesSongGS  : C2@1>1^80 D#3@17>1^80 D#3@24>1^80 D#3@33>1^104 C#2@48>1^80
+  AnniesSongGS#2: B4@32>6^80 G4@33>5^80
+  AnniesSongGS#3: B3@16>16^80 E3@32>16^80
+  AnniesSongGS#4: G4@45>81^56 A3+C#4+A4@47>51^80
+  AnniesSongGS#5: G4@45>49^56 A3+C#4+A4@47>51^80
+  AnniesSongGS#6: E1@1>29^104 G1@31>16^104 A1@47>27^104
+  AnniesSongGS#7: G5@1>19^80 D5@25>7^80 B4@33>6^56 G4@41>6^56
+@64 [D | A]
+  AnniesSongGS  : D#3@1>1^104 D#3@16>1^80 D#3@32>1^80 C2@48>1^80
+  AnniesSongGS#2: A4+C#5@1>17^80 D5@16>14^104 B4@17>12^80 C#5+E5@40>4^104
+  AnniesSongGS#3: A3@1>41^80
+  AnniesSongGS#6: A1@31>18^104
+  AnniesSongGS#7: A4@1>12^56 B4@17>12^80 C#5@33>12^80
+@65 [D]
+  AnniesSongGS  : D#3@1>1^104 D#3@16>1^56 D#3@25>1^80 D#3@32>1^80 D2+D#3@48>1^80
+  AnniesSongGS#2: F#4+D5@1>119^80 G4@48>31^80
+  AnniesSongGS#3: D3@1>14^56 A3@17>16^80 D3@32>31^80
+  AnniesSongGS#4: A3+D4+F#4@1>192^56
+  AnniesSongGS#5: A3+D4+F#4@1>192^56
+  AnniesSongGS#6: D1@1>32^104 A1@33>16^104
+  AnniesSongGS#7: F#5@1>12^80 A4@17>6^80 D5@25>7^80 E5@33>7^80 F#5@41>6^56
+@66 [G]
+  AnniesSongGS  : D#3@16>1^56 C2+D#3@32>1^80 C2+D#3@48>1^104
+  AnniesSongGS#2: F#4@48>39^80
+  AnniesSongGS#3: A3@16>16^80 D3@32>6^80
+  AnniesSongGS#4: G4@1>48^56
+  AnniesSongGS#5: G4@1>48^56
+  AnniesSongGS#6: D2@1>31^104 A1@32>16^104 D1@48>25^104
+  AnniesSongGS#7: G5@1>12^80 D5@17>6^80 B4@25>6^80 A4@33>6^56 G4@41>6^56
+@67 [F#m | D]
+  AnniesSongGS  : C3@32>1^104 C3@41>1^104 B2@48>1^104
+  AnniesSongGS#2: D5@32>7^80 D5@48>17^80
+  AnniesSongGS#3: D3@1>14^56 A3@16>17^80 D3@32>60^80
+  AnniesSongGS#4: F#4@1>48^32
+  AnniesSongGS#5: F#4@1>48^32
+  AnniesSongGS#6: D1@29>8^104 A1@38>10^104 D2@48>31^104
+  AnniesSongGS#7: F#4@1>12^80 A4@17>6^80 D5@25>6^80 E5@33>6^104 F#5@41>6^56
+  AnniesSongGS#8: D6@31>12^56 D5@32>12^56 D5+D6@47>16^80
+@68 [Gdim | G]
+  AnniesSongGS  : A2@16>1^104 A2@17>1^104 F2@33>1^104
+  AnniesSongGS#2: G4@1>35^80 C#5@16>16^104 B4@32>12^80
+  AnniesSongGS#4: G4@1>48^56
+  AnniesSongGS#5: G4@1>48^56
+  AnniesSongGS#6: A1@31>15^80
+  AnniesSongGS#7: A5@1>12^56
+  AnniesSongGS#8: C#6@13>16^80 C#5@14>17^56 B4+B5@29>17^80 D6@45>52^56 D5@46>51^56
+@69 [G]
+  AnniesSongGS  : C2+D#3@1>1^104 D#3@17>1^56 D#3@25>1^56 D#3@33>1^104 D2+D#3@48>1^104
+  AnniesSongGS#2: B4+D5@1>46^104
+  AnniesSongGS#3: G3@1>16^80 D4@16>16^80 G3@32>16^80
+  AnniesSongGS#4: A4@46>47^56 A3+C#4+E4@47>48^56
+  AnniesSongGS#6: G1@1>24^104 G1@31>15^104 A1@46>27^104
+  AnniesSongGS#8: C#5+C#6@48>80^56
+  AnniesSongGS#9: G3@5>28^56 B3@9>25^80 D4@16>25^80 G4@24>14^56 B4@32>18^80 D5@41>10^80 A3@48>28^80
+@70 [A]
+  AnniesSongGS  : D#3@16>1^104 C2+D#3@32>1^104 C2+D#3@48>1^104
+  AnniesSongGS#2: A4+C#5@1>66^80
+  AnniesSongGS#3: A3@1>14^80 E4@17>16^80 A3@33>12^80
+  AnniesSongGS#4: D4+F#4+B4@45>339^80
+  AnniesSongGS#6: A1@32>16^104 B1@48>31^104
+  AnniesSongGS#9: C#4@8>31^56 E4@16>20^56 A4@25>11^80 C#5@33>10^56 E5@41>9^80
+@71 [G7]
+  AnniesSongGS  : D#3@17>1^56 D#3@24>1^80 D#3@33>1^104 D2+D#3@48>1^104
+  AnniesSongGS#2: B4@32>2^104 B4@40>3^80
+  AnniesSongGS#3: B3@1>15^80 D4@17>16^80 B3@33>17^80
+  AnniesSongGS#4: G4@45>48^56 G3@46>50^56
+  AnniesSongGS#6: F#1@31>15^104 G1@46>33^104
+  AnniesSongGS#8: B4+B5@31>14^56 B4+B5@47>16^80
+  AnniesSongGS#9: B3@1>34^80 D4@9>30^80 G4@17>19^80 B4@24>21^56 D5@32>9^80 G5@40>8^56 G3@48>31^80
+@72 [Gdim | G]
+  AnniesSongGS  : D#3@17>1^104 D#3@32>1^104 D#3@48>1^104
+  AnniesSongGS#2: G4+B4@1>17^104 C#5@16>9^104 A4@17>7^80 B4+D5@32>12^104
+  AnniesSongGS#3: G3@1>28^80
+  AnniesSongGS#4: A3+F#4@46>194^56
+  AnniesSongGS#6: C#2@31>14^104 D2@46>50^104
+  AnniesSongGS#8: C#5+C#6@14>17^56 D6@29>17^56 D5@30>17^56 A4@45>19^56 A5@46>18^56
+  AnniesSongGS#9: B3@9>24^80 D4@17>19^80 G4@25>14^56 B4@32>12^80 D5@41>10^56
+@73 [D]
+  AnniesSongGS  : C2@1>1^104 D#3@17>1^80 D#3@24>1^80 D#3@32>1^104 D2@48>1^104
+  AnniesSongGS#2: F#4+A4@1>11^104 D4+F#4@17>95^104
+  AnniesSongGS#3: D3@1>11^56 A3@17>14^80 D3@32>15^80
+  AnniesSongGS#4: C#4@45>50^56
+  AnniesSongGS#6: C#2@48>30^104
+  AnniesSongGS#8: F#5@14>105^56 F#4@15>105^32
+  AnniesSongGS#9: D4@1>35^80 F#4@9>32^56 A4@17>22^80 D5@25>11^80 F#5@33>9^56 A5@41>11^80 C#4@48>30^80
+@74 [D | F#m]
+  AnniesSongGS  : D#3@1>1^104 D#3@16>1^80 C2+D#3@32>1^104 C2+D#3@48>1^104
+  AnniesSongGS#3: C#3@1>16^80 A3@17>16^80 C#3@32>11^80 B2@48>18^80
+  AnniesSongGS#4: B3@46>50^56
+  AnniesSongGS#6: C#2@33>14^104 B1@47>47^104
+  AnniesSongGS#9: F#4@9>25^56 A4@17>16^80 D5@25>12^56 F#5@33>9^56 A5@41>9^80
+@75 [D] (grid:32)
+  AnniesSongGS  : D#3@9>1^80 D#3@12>1^80 D#3@16>1^104
+  AnniesSongGS#2: A4@17>1^56 A4@21>1^80
+  AnniesSongGS#3: A3@9>15^104 B2@17>8^80
+  AnniesSongGS#4: A3@24>24^56
+  AnniesSongGS#6: A1@24>16^104
+  AnniesSongGS#8: A4@15>2^56 A5@16>2^56 A4+A5@21>2^80
+  AnniesSongGS#9: B3@1>10^80 F#4@5>11^56 A4@9>8^56 D5@13>5^56 F#5@16>4^56 A5@21>5^56
+@76 [D | F#m]
+  AnniesSongGS  : D2+D#3@1>1^104 D#3@17>1^104 D2@24>1^104 D#3@32>1^104 C2@40>1^80 C2+D#3@48>1^104
+  AnniesSongGS#2: F#4+A4@1>8^104 G4+B4@16>15^104 A4@32>9^104 C#5@33>8^104 B4+D5@48>50^104
+  AnniesSongGS#3: A2@1>20^80 A3@17>27^80 G3@48>17^80
+  AnniesSongGS#4: B3@46>49^80 G3+G4@47>48^80
+  AnniesSongGS#6: F#1@31>15^104 G1@46>48^104
+  AnniesSongGS#8: A4+A5@1>18^56 B4+B5@17>18^56 C#5@32>16^32 C#6@33>16^56
+  AnniesSongGS#9: A3@1>5^56 F#4@8>9^56 A4@16>11^80 D5@25>11^56 F#5@33>14^56 A5@40>8^80 G4@48>22^80
+@77 [G]
+  AnniesSongGS  : D#3@16>1^80 D#3@25>1^104 D#3@32>1^104
+  AnniesSongGS#3: D4@17>17^80 G3@33>12^80
+  AnniesSongGS#4: A3+C#4+F#4@45>51^80
+  AnniesSongGS#6: F#1@47>46^104
+  AnniesSongGS#8: D5+D6@1>51^80 C#5+C#6@47>72^56
+  AnniesSongGS#9: B4@9>21^56 D5@17>9^56 G5@25>20^56 D5@33>11^56 B4@40>9^56
+@78 [A | F#m]
+  AnniesSongGS  : D2+D#3@1>1^104 D#3@16>1^80 C2+D#3@32>1^104 C2@48>1^104
+  AnniesSongGS#2: A4+C#5@1>66^104
+  AnniesSongGS#3: F#3@1>22^80 C#4@16>17^80 F#3@33>15^80
+  AnniesSongGS#4: G3+G4@46>99^80 E4@47>52^56
+  AnniesSongGS#6: E1@45>28^104
+  AnniesSongGS#9: F#4@1>15^56 A4@9>19^56 C#5@17>9^56 F#5@25>25^56 C#5@33>17^56 A4@41>7^56
+@79 [Em7]
+  AnniesSongGS  : D#3@1>1^104 D#3@17>1^80 D#3@25>1^104 D#3@33>1^104
+  AnniesSongGS#2: G4+B4@33>3^104 G4+B4@41>4^104
+  AnniesSongGS#3: E3@1>14^80 B3@17>17^104 E3@32>15^104
+  AnniesSongGS#4: B3+D4@47>50^80
+  AnniesSongGS#6: F#1@25>4^104 G1@29>18^104
+  AnniesSongGS#8: B4+B5@31>6^56 B4+B5@39>6^80 B4+B5@47>16^80
+  AnniesSongGS#9: E4@1>18^56 G4@9>26^56 B4@17>6^56 D5@25>4^56 E5@33>5^56 D5@41>5^56
+@80 [Gdim | G]
+  AnniesSongGS  : D2+D#3@1>1^104 D#3@17>1^104 D#3@32>1^104 D#3@48>1^104
+  AnniesSongGS#2: G4+B4@1>16^104 A4+C#5@17>13^104 B4@32>13^104 D5@33>13^104
+  AnniesSongGS#3: G3@1>40^80
+  AnniesSongGS#4: A3+C#4+E4+A4@47>196^80
+  AnniesSongGS#6: G1@1>26^104 G1@29>10^80 A1@44>43^104
+  AnniesSongGS#8: C#6@14>16^56 C#5@15>18^56 D6@29>17^80 D5@30>17^56 E5+E6@45>130^80
+  AnniesSongGS#9: G4@1>14^80 B4@9>10^56 D5@17>8^80 G5@25>10^80 D5@33>8^80 B4@41>8^56 A4@48>33^80
+@81 [A]
+  AnniesSongGS  : C2@1>1^104 D#3@16>1^104 D#3@24>1^104 D#3@32>1^104 D2+D#3@48>1^104
+  AnniesSongGS#2: C#5+E5@1>100^104
+  AnniesSongGS#3: A3@1>12^80 E4@17>16^80 A3@32>6^104 A3@48>18^104
+  AnniesSongGS#4: G4@45>48^80
+  AnniesSongGS#6: A1@43>34^104
+  AnniesSongGS#9: C#5@9>24^56 E5@17>8^80 A5@24>10^80 C#6@33>11^56 E6@40>6^56
+@82 [C#dim]
+  AnniesSongGS  : D#3@16>1^104 C2+D#3@32>1^104 C2+D#3@48>1^104
+  AnniesSongGS#3: G4@16>14^104 E4@32>16^104
+  AnniesSongGS#6: G1@30>15^104 A1@45>64^104
+  AnniesSongGS#9: A4@1>14^56 C#5@9>26^56 E5@17>10^56 G5@25>18^56 C#6@33>10^56 E6@40>10^56
+@83 [Bm]
+  AnniesSongGS  : D#3@16>1^104 D#3@32>1^104 A2@48>1^80
+  AnniesSongGS#2: B4+D5@33>3^104 B4+D5@41>3^104
+  AnniesSongGS#3: A3@1>64^104
+  AnniesSongGS#8: D5+D6@31>6^80 D5+D6@39>6^80 D5+D6@47>17^80
+  AnniesSongGS#9: A4@1>38^56
+@84 [Bm]
+  AnniesSongGS  : A2@1>1^80 G2@16>1^104 F2@32>1^104
+  AnniesSongGS#2: B4+D5@1>22^104 A4+C#5@17>17^104 G4+B4@33>8^104
+  AnniesSongGS#4: D4+G4@47>51^56 G3+B3@48>48^56
+  AnniesSongGS#6: F#1@31>17^104 G1@48>46^104
+  AnniesSongGS#8: C#5+C#6@15>18^56 B4+B5@32>17^80 D6@47>49^80 D5@48>49^56
+@85 [Bm | G]
+  AnniesSongGS  : C2+D#3@1>1^104 D#3@17>1^104 D#3@25>1^104 D#3@33>1^104
+  AnniesSongGS#2: B4+D5@1>50^104
+  AnniesSongGS#3: G3@1>18^104 D4@17>15^104 G3@32>14^104
+  AnniesSongGS#4: A3+C#4+E4+A4@47>59^80
+  AnniesSongGS#6: A1@47>47^104
+  AnniesSongGS#8: C#5+C#6@47>89^56
+  AnniesSongGS#9: G4@1>27^56 B4@9>32^56 D5@17>31^56 G5@25>7^56 B5@33>4^56 D6@40>3^56
+@86 [A]
+  AnniesSongGS  : D2+D#3@1>1^104 D#3@17>1^104 C2+D#3@32>1^104 C2@48>1^104
+  AnniesSongGS#2: A4+C#5@1>52^104
+  AnniesSongGS#3: A3@1>15^104 E4@17>15^80 A3@33>16^104
+  AnniesSongGS#4: D4@48>338^56
+  AnniesSongGS#6: B1@45>33^104
+  AnniesSongGS#9: A4@1>42^56 C#5@9>33^56 E5@17>8^56 A5@25>8^56 C#6@33>10^56 A5@41>8^80
+@87 [Bm]
+  AnniesSongGS  : D#3@1>1^104 D#3@17>1^104 D#3@25>1^104 D#3@32>1^104 D2+D#3@48>1^104
+  AnniesSongGS#2: B4+D5@32>2^104 B4+D5@40>4^104 D5@48>20^104
+  AnniesSongGS#3: B3@1>16^104 D4@17>19^80 B3@33>15^80
+  AnniesSongGS#4: F#4+B4@1>48^80 G3@46>52^56
+  AnniesSongGS#6: F#1@31>16^104 G1@47>34^104
+  AnniesSongGS#8: D5+D6@29>7^56 D6@37>6^80 D5@38>4^56 D6@45>17^80 D5@46>17^56
+  AnniesSongGS#9: B4@1>46^80 D5@9>10^56 G5@17>8^80 B5@24>12^80 G5@33>10^80 D5@40>8^56
+@88 [G]
+  AnniesSongGS  : D#3@17>1^104 D2+D#3@32>1^104 C2@48>1^104
+  AnniesSongGS#2: B4@1>16^104 C#5@16>17^104 A4@17>5^80 B4@32>5^104 G4@33>16^80
+  AnniesSongGS#3: G3@1>14^104 D4@17>18^80 B3@33>14^104
+  AnniesSongGS#4: G4@1>48^80 A3+F#4@47>192^56
+  AnniesSongGS#6: C#2@33>15^104
+  AnniesSongGS#8: C#6@13>18^56 C#5@14>16^56 B4+B5@29>18^80 A4+A5@45>19^80
+  AnniesSongGS#9: G4@1>46^56 B4@8>34^80 D5@16>30^56 G5@24>8^80 B5@32>4^56 D6@41>11^56
+@89 [D]
+  AnniesSongGS  : D#3@1>1^104 D#3@17>1^80 D#3@24>1^104 D#3@32>1^104 D2+D#3@48>1^104
+  AnniesSongGS#2: F#4+A4@1>21^104 F#4@16>90^104 D4@17>80^80
+  AnniesSongGS#3: D3@1>15^80 A3@17>15^80 D3@32>10^80 C#3@48>16^80
+  AnniesSongGS#4: C#4@47>50^56
+  AnniesSongGS#6: D2@1>46^104 C#2@47>26^104
+  AnniesSongGS#8: F#5@14>99^56 F#4@15>106^56
+  AnniesSongGS#9: D5@1>40^80 F#5@9>9^56 A5@17>8^56 D6@25>9^56 A5@33>9^80 F#5@40>9^56 C#5@48>40^80
+@90 [D | F#m]
+  AnniesSongGS  : D#3@16>1^104 C2+D#3@32>1^104 C2+D#3@48>1^104
+  AnniesSongGS#3: A3@17>16^80 C#3@32>16^80 B2@48>16^104
+  AnniesSongGS#4: B3@45>51^56
+  AnniesSongGS#6: C#2@30>17^104 B1@47>48^104
+  AnniesSongGS#9: F#5@8>15^56 A5@17>9^80 D6@24>9^80 A5@32>14^80 F#5@41>9^56
+@91 [F#m | D]
+  AnniesSongGS  : D#3@16>1^104 D#3@25>1^104 D#3@32>1^104 D2+D#3@48>1^104
+  AnniesSongGS#2: F#4+A4@32>9^104 F#4+A4@48>17^104
+  AnniesSongGS#3: A3@17>15^80 B2@33>6^104
+  AnniesSongGS#4: A3@48>47^80
+  AnniesSongGS#6: A1@47>32^104
+  AnniesSongGS#8: A4+A5@30>14^56 A4@45>16^80 A5@46>18^56
+  AnniesSongGS#9: B4@1>50^80 F#5@9>12^56 A5@16>9^56 D6@25>10^56 A5@33>13^80 F#5@41>8^56
+@92 [Bm7 | F#m]
+  AnniesSongGS  : D#3@16>1^104 D#3@32>1^104
+  AnniesSongGS#2: G4+B4@16>16^104 A4+C#5@32>12^104
+  AnniesSongGS#3: A2@1>26^80 A3@16>31^104
+  AnniesSongGS#4: G3+G4@46>50^80 B3@47>50^56
+  AnniesSongGS#6: F#1@31>14^104 G1@46>49^104
+  AnniesSongGS#8: B4@13>17^56 B5@14>17^56 C#5+C#6@29>19^56 D6@46>50^80 D5@47>51^56
+  AnniesSongGS#9: A4@1>49^80 F#5@9>10^56 A5@17>9^80 D6@25>8^56 A5@33>11^56 F#5@40>10^56
+@93 [G]
+  AnniesSongGS  : C2+D#3@1>1^104 D#3@17>1^104 D#3@25>1^104 D#3@32>1^104 D#3@48>1^104
+  AnniesSongGS#2: B4+D5@1>50^104
+  AnniesSongGS#3: G3@1>20^80 D4@17>16^80 G3@32>15^80 F#3@48>18^80
+  AnniesSongGS#4: A3+C#4+F#4@46>52^80
+  AnniesSongGS#6: F#1@47>47^104
+  AnniesSongGS#8: C#5+C#6@47>71^56
+  AnniesSongGS#9: G4@1>39^80 B4@9>36^56 D5@17>13^56 G5@25>8^80 B5@33>15^56 D6@41>7^56 F#4@48>50^56
+@94 [A | F#m]
+  AnniesSongGS  : D2@1>1^104 D#3@17>1^104 C2+D#3@33>1^104
+  AnniesSongGS#2: A4+C#5@1>66^104
+  AnniesSongGS#3: C#4@17>15^104 F#3@33>14^104 E3@48>19^104
+  AnniesSongGS#4: B3+E4+G4@47>50^80
+  AnniesSongGS#6: E1@46>32^104
+  AnniesSongGS#9: A4@9>38^56 D5@17>5^56 F#5@25>10^56 A5@33>9^80 C#6@41>8^56
+@95 [Em]
+  AnniesSongGS  : C2+D#3@1>1^104 D#3@16>1^80 D#3@24>1^104 D#3@32>1^104 D2+D#3@48>1^104
+  AnniesSongGS#2: B4@32>5^104 G4@33>4^104
+  AnniesSongGS#3: B3@16>21^104 E3@32>17^80
+  AnniesSongGS#4: G4@45>49^56 A3+C#4+A4@47>51^80
+  AnniesSongGS#6: G1@30>17^104 A1@47>26^104
+  AnniesSongGS#8: B4+B5@29>18^56 C#5+C#6@45>17^56
+  AnniesSongGS#9: E4@1>49^80 G4@9>31^80 B4@16>30^56 E5@24>17^56 G5@32>10^80 B5@41>8^80 A4@48>46^80
+@96 [D | A]
+  AnniesSongGS  : D#3@16>1^104 D#3@32>1^104
+  AnniesSongGS#2: A4+C#5@1>15^104 B4+D5@17>14^104 C#5+E5@41>4^104
+  AnniesSongGS#3: A3@1>46^80
+  AnniesSongGS#6: A1@32>16^104 D1@48>31^104
+  AnniesSongGS#8: D5+D6@13>26^80 E5+E6@38>10^56 D5+D6@47>338^80
+  AnniesSongGS#9: C#5@9>8^56 E5@17>19^80 A5@25>9^80 C#6@33>13^56 A5@40>8^80
+@97 [D]
+  AnniesSongGS  : C2+C#3@1>1^80 D#3@17>1^80 D#3@25>1^80 D#3@33>1^104
+  AnniesSongGS#2: F#4+D5@1>274^104 G4@48>31^104
+  AnniesSongGS#3: D3@1>13^80 A3@17>16^80 D3@32>30^104
+  AnniesSongGS#4: A3+D4+F#4@1>192^56
+  AnniesSongGS#6: A1@31>14^104 C#2@46>2^104
+  AnniesSongGS#8: F#5@33>16^56 G5@47>27^32
+  AnniesSongGS#9: D4@1>34^56 A4@8>30^80 D5@17>31^56 F#5@24>22^56 A5@33>11^56 D6@41>8^56
+@98 [G]
+  AnniesSongGS  : D2+E3@1>1^104 D#3@16>1^80 D#3@32>1^104 C2@48>1^80
+  AnniesSongGS#2: F#4@48>43^104
+  AnniesSongGS#3: A3@16>16^80 D3@32>33^80
+  AnniesSongGS#4: G4@1>48^56
+  AnniesSongGS#6: D2@1>31^104 A1@32>16^104 D1@48>29^104
+  AnniesSongGS#8: G5@29>18^56 F#5@45>31^56
+  AnniesSongGS#9: D4@1>36^56 G4@8>32^56 D5@17>20^56 G5@25>9^56 D6@32>16^56 G5@41>8^56 D4@48>41^56
+@99 [D]
+  AnniesSongGS  : C#3@1>1^56 D#3@17>1^56 D#3@25>1^80 D#3@33>1^104
+  AnniesSongGS#3: A3@17>16^80 D3@32>32^80
+  AnniesSongGS#4: F#4@1>48^32
+  AnniesSongGS#6: A1@32>14^104 C#2@46>2^104
+  AnniesSongGS#8: F#5@31>15^56 G5@45>27^56
+  AnniesSongGS#9: F#4@9>26^56 A4@16>26^56 D5@25>27^56 F#5@32>17^56 D6@41>10^56 D4@48>38^80
+@100 [G]
+  AnniesSongGS  : D2+E3@1>1^80 D#3@16>1^56 D#3@32>1^104 C2+C#3@48>1^80
+  AnniesSongGS#2: G4@1>50^104
+  AnniesSongGS#3: A3@17>15^80 D3@32>29^104
+  AnniesSongGS#4: G4@1>48^56
+  AnniesSongGS#6: D2@1>33^104 A1@31>16^104 D1@48>30^104
+  AnniesSongGS#8: G5@30>18^56 F#5@47>28^56
+  AnniesSongGS#9: G4@9>35^56 D5@17>24^56 G5@24>9^80 D6@33>16^80 G5@41>8^80
+@101 [D] (grid:32)
+  AnniesSongGS  : D#3@9>1^56 D#3@16>1^56 D2@24>1^80
+  AnniesSongGS#2: F#4@1>23^104
+  AnniesSongGS#3: A3@9>7^80 D3@17>16^80
+  AnniesSongGS#4: F#4@1>24^56
+  AnniesSongGS#6: A1@15>8^104 C#2@23>1^104
+  AnniesSongGS#8: F#5@15>8^56 G5@23>16^56
+  AnniesSongGS#9: D4@1>42^56 F#4@5>18^56 D5@9>16^56 F#5@13>8^56 D6@21>5^56
+@102 [G]
+  AnniesSongGS  : E3@1>1^32 D#3@17>1^56 D#3@33>1^56
+  AnniesSongGS#2: G4@1>18^104 F#4@48>49^80
+  AnniesSongGS#3: A3@17>16^80 D3@32>6^80
+  AnniesSongGS#4: G4@1>48^56
+  AnniesSongGS#6: D2@1>18^104 C#1@47>2^104
+  AnniesSongGS#8: G5@32>17^56 F#5@48>49^56
+  AnniesSongGS#9: D4@1>18^56 G4@9>34^56 D5@17>18^80 G5@25>8^80 D6@33>12^80 G5@40>5^80 D4@44>53^56 F#4@46>50^56 A4+D5@48>49^56
+@103 [D] (grid:32)
+  AnniesSongGS  : C2+C#3@2>1^56
+  AnniesSongGS#2: D5@1>48^104
+  AnniesSongGS#3: D3+A3@1>48^80
+  AnniesSongGS#4: F#4@1>24^56
+  AnniesSongGS#6: D1@1>48^104
+  AnniesSongGS#9: F#5@1>24^56 A5@2>21^80 D6@3>22^80

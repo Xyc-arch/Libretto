@@ -1,514 +1,468 @@
-KEY: C# major | METER: 4/4 | TEMPO: 120 | GRID: 16th (adaptive) | BARS: 88
-VOICES: Electric Piano, Electric Bass, Electric Piano#2, Electric Piano#3, Brass, Electric Guitar, Part7
-@1 [-]
-@2 [G#]
-  Electric Bass   : F1@3>1 F1@5>1 F#1@7>1 F#1@9>2 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@3 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>6
-  Brass           : C5+G#5@13>4
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@4 [G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>1 F#1@9>1 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Brass           : C5+G#5@1>3
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@5 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>7
-  Electric Piano#3: G#4@3>1 Bb4+B4+Eb5@5>1 C5@6>1 C#5+F5@7>1 Bb4+B4+Eb5@9>1 C5@11>1 G#4@12>5
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@6 [C# | G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>1 F#1@9>2 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Electric Piano#3: G#4@1>12
-  Brass           : Bb4+F#5@1>1 G#4+F5@5>1 F#4+Eb5@9>1 F4+C#5@13>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@7 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>6
-  Brass           : Eb4+C5@1>2 F4+C#5@3>1 F#4+Eb5@5>1 Eb4+G#4@7>10 C5+G#5@13>4
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@8 [G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>1 F#1@9>2 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Brass           : Eb4+G#4+C5+G#5@1>3
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@9 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>7
-  Electric Piano#3: G#4@3>2 Bb4+B4+C5+Eb5@5>1 C#5+F5@7>1 Bb4+B4+Eb5@9>1 C5@10>1 G#4@12>3 G#4@15>2
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@10 [G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>1 F#1@9>2 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Electric Piano#3: G#4@1>1 F#5@5>8 F5@13>2
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@11 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>6
-  Electric Piano#3: F#5@1>2 F#5+G#5@4>1 F5@5>1 Eb5@9>1 G#4+G#5@13>1 G#4+G#5@15>2
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@12 [G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>1 F#1@9>2 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Electric Piano#3: G#4+G#5@1>16
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@13 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>7
-  Electric Piano#3: G#4@3>1 Bb4+Eb5@5>1 C5@6>1 C#5+F5@7>1 Bb4+B4+Eb5@9>1 C5@10>1 G#4@12>2 G#4@15>2
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@14 [G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>1 F#1@9>2 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Electric Piano#3: F#5@5>7 F#5+G#5@12>1 F5@13>2
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@15 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>6
-  Electric Piano#3: F#5@1>3 F#5+G#5@4>1 F5@5>2 Eb5@9>2 G#4+G#5@13>2 G#4+G#5@15>2
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@16 [G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>1 F#1@9>2 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Electric Piano#3: G#4+G#5@1>15
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@17 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>7
-  Electric Piano#3: Bb4+B4+Eb5@1>5 Bb4@2>1 G#4@5>1 G#4+Eb5@7>9 Eb5@13>1 F5@14>1 Eb5@15>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@18 [C#m | C#]
-  Electric Piano  : G#2+Bb3+C#4+F#4@1>15 G#2@3>1 G#2@5>1 G#2@7>1 G#2@9>1 G#2@13>1
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@9>1 G#1@13>1
-  Electric Piano#3: G#5@1>1 Eb5+E5+G#5@3>1 F5@4>1 Eb5+G#5@5>1 G#4@7>2 Bb4+B4+Eb5@9>1 G#4@13>2 F4@15>1
-  Part7           : G#6@1>16
-@19 [C# | G#]
-  Electric Piano  : G#2+G#3+C#4+F4@1>5 G#2@3>1 G#2@5>1 G#2+G#3+C4+Eb4@7>9
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@8>4
-  Electric Piano#3: G#4@1>2 G#4@4>2 G#4@7>4 F4@11>1 G#4@13>1 Bb4@14>1 Bb4+Eb5@16>1
-  Part7           : G#6@1>16
-@20 [F#] (grid:8)
-  Electric Piano  : G#2+Bb3+C#4+F#4@1>8 G#2@2>1 G#2@3>1 G#2@4>1 G#2@5>1 G#2@7>1
-  Electric Bass   : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1 G#1@5>1 G#1@7>1
-  Electric Piano#3: Bb4+B4+Eb5@1>1 Bb4+Eb5@2>4 Bb4+B4+Eb5@6>1 G#4+Bb4@7>1 F4@8>1
-  Part7           : G#6@1>8
-@21 [C# | G#]
-  Electric Piano  : G#2+G#3+C#4+F4@1>5 G#2@3>1 G#2@5>1 G#2+G#3+C4+Eb4@7>9
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@8>4
-  Electric Piano#3: G#4@1>2 Eb4+E4+F4+G#4@3>2 Eb4+G#4@7>4 Eb5@13>1 F5@14>1 Eb5@15>1
-  Part7           : G#6@1>16
-@22 [C#] (grid:8)
-  Electric Piano  : G#2+Bb3+C#4+F#4@1>7 G#2@2>1 G#2@3>1 G#2@4>1 G#2@5>1 G#2@7>1
-  Electric Bass   : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1 G#1@5>1 G#1@7>1
-  Electric Piano#3: G#5@1>1 Eb5+E5+F5+G#5@2>1 G#5@4>1 Eb5+E5+F5+G#5@7>1 Eb5@8>1
-  Part7           : G#6@1>8
-@23 [C# | G#]
-  Electric Piano  : G#2+G#3+C#4+F4@1>5 G#2@3>1 G#2@5>1 G#2+G#3+C4+Eb4@7>9
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@8>4
-  Electric Piano#3: Eb5+E5+G#5@1>3 F5@2>1 Eb5+F5+G#5@4>1 Eb5+G#5@7>10
-  Part7           : G#6@1>16
-@24 [C#] (grid:8)
-  Electric Piano  : G#2+Bb3+C#4+F#4@1>8 G#2@2>1 G#2@3>1 G#2@4>1 G#2@5>1 G#2@7>1
-  Electric Bass   : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1 G#1@5>1 G#1@7>1
-  Electric Piano#3: G#4@2>1 Bb4+C5+Eb5@3>1 C#5+F5@4>1 Bb4+B4+Eb5@5>1 G#4+Bb4@6>1 G#4@7>1 Eb4+F4@8>1
-  Part7           : G#6@1>8
-@25 [C# | G#] (grid:8)
-  Electric Piano  : G#2+G#3+C#4+F4@1>2 G#2@2>1 G#2@3>1 G#2+G#3+C4+Eb4@4>4
-  Electric Bass   : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1 G#1@5>2
-  Electric Piano#3: G#4@1>1 G#4@2>1 G#4@4>3 G#4@7>1 Eb4@8>1
-  Part7           : G#6@1>8
-@26 [F#]
-  Electric Piano  : G#2+Bb3+C#4+F#4@1>15 G#2@3>1 G#2@5>1 G#2@7>1 G#2@9>1 G#2@13>1
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@9>2 G#1@13>2
-  Electric Piano#3: Bb4+C#5@1>11 Bb4+C#5@13>2
-  Brass           : F#4+C#5+Bb5@1>10 F#4+C#5+Bb5@13>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@4>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@10>1 Eb4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1
-  Part7           : G#6@1>16
-@27 [C# | G#] (grid:8)
-  Electric Piano  : G#2+G#3+C#4+F4@1>2 G#2@2>1 G#2@3>1 G#2+G#3+C4+Eb4@4>4
-  Electric Bass   : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1 G#1@5>2
-  Electric Piano#3: C#5+F5@1>2 C5+Eb5@4>5
-  Brass           : Bb4+F5+C#6@1>3 G#4+Eb5+C6@4>4
-  Part7           : G#6@1>8
-@28 [G#m | C#]
-  Electric Piano  : G#2+Bb3+C#4+F#4@1>15 G#2@3>1 G#2@5>1 G#2@7>1 G#2@9>1 G#2@13>1
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@9>2 G#1@13>2
-  Electric Piano#3: C5+Eb5@1>1 G#4@3>1 Bb4@5>1 B4@6>2 Bb4@9>1 G#4@10>1 G#4@12>2 Eb4+F4@15>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@4>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@10>1 Eb4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1
-  Part7           : G#6@1>16
-@29 [C# | G#] (grid:8)
-  Electric Piano  : G#2+G#3+C#4+F4@1>3 G#2@2>1 G#2@3>1 G#2+G#3+C4+Eb4@4>4
-  Electric Bass   : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1 G#1@5>2
-  Electric Piano#3: G#4@1>1 Eb4@2>1 G#4@3>1 Eb4+E4+F4+G#4@4>1 Eb4+G#4@6>2
-  Part7           : G#6@1>8
-@30 [F#]
-  Electric Piano  : G#2+Bb3+C#4+F#4@1>15 G#2@3>1 G#2@5>1 G#2@7>1 G#2@9>1 G#2@13>1
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@9>1 G#1@13>2
-  Electric Piano#3: Bb4+C#5@1>11 Bb4+C#5@13>1
-  Brass           : F#4+C#5+Bb5@1>8 F#4+C#5+Bb5@13>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@4>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@10>1 Eb4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1
-  Part7           : G#6@1>16
-@31 [C# | G#] (grid:8)
-  Electric Piano  : G#2+G#3+C#4+F4@1>3 G#2@2>1 G#2@3>1 G#2+G#3+C4+Eb4@4>4
-  Electric Bass   : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1 G#1@5>2
-  Electric Piano#3: C#5+F5@1>2 C5+Eb5@4>5
-  Brass           : Bb4+F5+C#6@1>2 G#4+Eb5+C6@4>4
-  Part7           : G#6@1>8
-@32 [G# | C#]
-  Electric Piano  : G#2+Bb3+C#4+F#4@1>15 G#2@3>1 G#2@5>1 G#2@7>1 G#2@9>1 G#2@13>1
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@9>1 G#1@13>2
-  Electric Piano#3: C5+Eb5@1>1 Eb5@3>1 Bb4+B4+Eb5@5>1 G#4+Eb5@8>1 F4@11>1 G#4@13>2 F4@15>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@4>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@10>1 Eb4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1
-  Part7           : G#6@1>16
-@33 [C# | G#]
-  Electric Piano  : G#2+G#3+C#4+F4@1>5 G#2@3>1 G#2@5>1 G#2+G#3+C4+Eb4@7>9
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@7>1 G#1@8>4
-  Electric Piano#3: Bb4+Eb5@1>1 B4@2>1 Bb4+Eb5@3>1 G#4+Eb5@5>1 G#4+Eb5@7>9
-  Part7           : G#6@1>7
-@34 [A#m7]
-  Electric Piano  : C#2+C#3+G#3+Bb3+Eb4+F4@1>8
-  Electric Bass   : C#2@1>1 C#2@3>1 C#2@5>1 C#2@7>1 C#2@9>2 C#2@13>2
-  Electric Piano#3: G#4@3>1 Bb4+C5+Eb5@5>1 Bb4+B4+C5+Eb5@7>3 Bb4+B4+Eb5@11>1 Bb4+C5+Eb5@12>1 G#4@13>1 Bb4@15>2
-  Part7           : C#5+F5+C6@1>11
-@35 [D# | Cm7] (grid:24t)
-  Electric Piano  : C2+C3+Bb3+Eb4+F4+G4+Bb4@1>20 G4@16>3 Bb3+Bb4@21>3
-  Electric Bass   : C2@1>2 C2@4>2 C2@7>2 C2@10>2 C2@11>3
-  Electric Piano#3: Bb4@1>9 Eb5@7>2 Eb5@10>4 Bb4@16>2 C5@17>8
-  Part7           : C5+Eb5+Bb5@1>21
-@36 [D#] (grid:8)
-  Electric Piano  : F1+F2+Bb3+Eb4+F#4+G4+Bb4@1>6
-  Electric Bass   : F1@1>1 F1@2>1 F1@3>1 F1@4>1 F1@5>1 F1@7>1
-  Electric Piano#3: C5@1>1 Bb4@2>1 C5@3>1 Bb4@4>1 C5@5>1 F4@8>1
-  Part7           : Bb4+Eb5+G5@1>6
-@37 [F]
-  Electric Piano  : F1+F2+C4+F4+A4@1>11
-  Electric Bass   : F1@1>1 F1@3>1 F1@5>1 F1@7>1 F1@8>2
-  Electric Piano#3: Eb5@1>1 F5@2>2 Eb5@5>3 C5@9>1 C#5@10>1 C5@11>1 G#4@13>4
-  Part7           : C5+F5+A5@1>11
-@38 [A#m7] (grid:8)
-  Electric Piano  : Bb1+Bb2+G#3+Bb3+C#4+F4@1>8
-  Electric Bass   : Bb1@1>1 Bb1@2>1 Bb1@3>1 Bb1@4>1 Bb1@5>1 Bb1@7>1
-  Electric Piano#3: G#4@1>1
-  Brass           : C#4+C#5+C#6@1>2 C4+C5+C6@3>2 G#3+G#4+G#5@5>2 F3+F4+F5@7>1
-  Part7           : Bb4+C#5+F5+G#5@1>8
-@39 [C#] (grid:8)
-  Electric Piano  : Eb2+Eb3+G#3+C#4+F4@1>2 Eb2+Eb3+G#3+C#4+F4@3>2 Eb2+Eb3+G#3+C#4+F4@5>1 Eb2+Eb3+G#3+C#4+F4@6>1 Eb2+Eb3+G#3+C#4+F4@7>1
-  Electric Bass   : Eb2@1>1 Eb2@3>1 Eb2@5>1 Eb2@6>1 Eb2@7>1
-  Brass           : C#4+C#5+C#6@1>2 C4+C5+C6@3>2 G#3+G#4+G#5@5>1 G#3+G#4+G#5@6>1 G#3+G#4+G#5@7>1
-  Part7           : G#4+C#5+F5+G#5@1>6
-@40 [G#]
-  Electric Bass   : F1@3>1 F1@5>1 F#1@7>1 F#1@9>2 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@41 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>6
-  Brass           : C5+G#5@13>4
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@12>1 Eb4+G4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@42 [G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>1 F#1@9>1 F1@13>2
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>1 Bb3+C#4+F#4@9>1 G#3+C#4+F4@13>1
-  Brass           : C5+G#5@1>3
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@43 [G#]
-  Electric Bass   : F#1@1>2 F1@4>1 G#1@7>3 G#1@11>1 G#1@13>1 G#1@15>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@1>1 G#3+C#4+F4@4>1 G#3+C4+Eb4@7>7
-  Electric Piano#3: G#4@3>1 Bb4+B4+Eb5@5>1 C5@6>1 C#5+F5@7>1 Bb4+B4+Eb5@9>1 C5@11>1 G#4@12>5
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@44 [C# | G#]
-  Electric Bass   : G#1@1>1 F1@3>1 F1@5>1 F#1@7>4 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@3>1 G#3+C#4+F4@5>1 Bb3+C#4+F#4@7>4 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: G#4@1>15
-  Brass           : Bb4+F#5@1>1 G#4+F5@5>1 F#4+Eb5@12>1 F4+C#5@16>1
-  Electric Guitar : Eb4+G4+G#4@1>1 Eb4+G#4@2>1 Eb4@3>1 Eb4+G#4@4>1 Eb4+G#4@6>1 Eb4+G#4@7>3 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@45 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>6
-  Brass           : Eb4+C5@4>2 F4+C#5@6>1 F#4+Eb5@8>1 Eb4+G#4@10>7 C5+G#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@46 [G#]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Brass           : Eb4+G#4+C5+G#5@1>4 C5+G#5@4>3
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@47 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>7
-  Electric Piano#3: G#4@6>2 Bb4+B4+C5+Eb5@8>1 C#5+F5@10>1 Bb4+B4+Eb5@12>1 C5@13>1 G#4@15>2
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@48 [C# | G#7]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: G#4@1>1 G#4@2>3 F#5@8>8 F5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@49 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>6
-  Electric Piano#3: F5@1>1 F#5@4>3 F#5+G#5@6>1 F5@8>1 Eb5@12>1 G#4+G#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@50 [C# | G#]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: G#4+G#5@2>15
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@51 [G#] (grid:32)
-  Electric Bass   : F1@1>1 F#1@6>4 F1@13>2 G#1@19>6 G#1@27>3 G#1@30>3
-  Electric Piano#2: Bb3+C#4+F#4@6>3 G#3+C#4+F4@13>2 G#3+C4+Eb4@19>14
-  Electric Piano#3: G#4+G#5@1>6 G#4@11>3 Bb4+Eb5@14>3 C5@17>2 C#5+F5@19>3 Bb4+B4@22>2 B4+Eb5@23>2 C5@25>2 G#4@29>4
-  Electric Guitar : Eb4+G#4@1>2 Eb4+G#4@3>2 Eb4+G#4@5>2 Eb4+G4+G#4@6>3 Eb4+G#4@9>2 Eb4+G#4@11>2 Eb4+G#4@13>2 G#4@14>3 Eb4+G#4@17>2 Eb4+G#4@19>2 Eb4+G#4@21>2 Eb4+G#4@22>3 Eb4+G#4@25>2 Eb4+G#4@27>2 Eb4+G#4@29>2 Eb4+G#4@30>3
-  Part7           : G#6@1>32
-@52 [C# | G#7]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: G#4@2>3 F#5@8>7 F#5+G#5@15>1 F5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@53 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>6
-  Electric Piano#3: F5@1>1 F#5@4>3 F#5+G#5@7>1 F5@8>2 Eb5@12>2 G#4+G#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@54 [C# | G#]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: G#4+G#5@1>1 G#4+G#5@2>15
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@55 [G#m | G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>7
-  Electric Piano#3: G#4@1>2 Bb4+B4+Eb5@4>5 Bb4@5>1 G#4@8>1 G#4+Eb5@10>7
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@56 [C# | F#]
-  Electric Piano  : G#2+Bb3+C#4+F#4@4>13 G#2@6>1 G#2@8>1 G#2@10>1 G#2@12>1 G#2@16>1
-  Electric Bass   : G#1@2>1 G#1@3>1 G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@12>1 G#1@16>1
-  Electric Piano#3: G#4+Eb5@1>1 Bb4@4>2 Bb4@6>1 Bb4@8>1 C#5@10>1 Bb4+B4+Eb5@12>3 Bb4+C5@13>1 G#4@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1
-  Part7           : G#6@1>16
-@57 [C# | G#]
-  Electric Piano  : Bb3+C#4+F#4@1>2 G#2+G#3+C#4+F4@4>5 G#2@6>1 G#2@8>1 G#2+G#3+C4+Eb4@10>7
-  Electric Bass   : G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@11>4
-  Electric Piano#3: G#4@1>1 F4@2>1 G#4@3>1 Eb4@13>1 F4@14>1 Eb4@15>1 G#4@16>1
-  Part7           : G#6@1>16
-@58 [C#] (grid:12t)
-  Electric Piano  : G#2+G#3+C4+Eb4@1>2 G#2+Bb3+C#4+F#4@3>10 G#2@5>1 G#2@6>1 G#2@8>1 G#2@9>1 G#2@12>1
-  Electric Bass   : G#1@3>1 G#1@5>1 G#1@6>1 G#1@8>1 G#1@9>1 G#1@12>1
-  Electric Piano#3: G#4@1>1 G#4@3>1 Eb4+F4@10>1 G#4@12>1
-  Part7           : G#6@1>12
-@59 [C# | G#] (grid:12t)
-  Electric Piano  : Bb3+C#4+F#4@1>1 G#2+G#3+C#4+F4@3>4 G#2@5>1 G#2@6>1 G#2+G#3+C4+Eb4@8>5
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@6>1 G#1@8>1 G#1@9>3
-  Electric Piano#3: Eb4+E4+F4+G#4@2>2 Eb4+G#4@5>5
-  Part7           : G#6@1>12
-@60 [C# | F#]
-  Electric Piano  : G#2+G#3+C4+Eb4@1>2 G#2+Bb3+C#4+F#4@4>13 G#2@6>1 G#2@8>1 G#2@10>1 G#2@12>1 G#2@16>1
-  Electric Bass   : G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@12>1 G#1@16>1
-  Electric Piano#3: Bb4@4>1 Bb4@6>1 Bb4@8>1 C#5@10>1 Bb4+B4+Eb5@12>1 Bb4+C5@13>1 G#4+Eb5@16>1
-  Part7           : G#6@1>16
-@61 [C# | G#]
-  Electric Piano  : Bb3+C#4+F#4@1>1 G#2+G#3+C#4+F4@4>5 G#2@6>1 G#2@8>1 G#2+G#3+C4+Eb4@10>7
-  Electric Bass   : G#1@1>1 G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@11>4
-  Electric Piano#3: G#4+Eb5@1>1 F4@2>1 G#4@3>3 Eb4@13>1 F4@14>1 Eb4@15>1 G#4@16>1
-  Part7           : G#6@1>16
-@62 [G# | C#]
-  Electric Piano  : G#2+G#3+C4+Eb4@1>2 G#2+Bb3+C#4+F#4@4>13 G#2@6>1 G#2@8>1 G#2@10>1 G#2@12>1 G#2@16>1
-  Electric Bass   : G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@12>1 G#1@16>1
-  Electric Piano#3: G#4@1>1 Bb4+B4+Eb5@3>1 Bb4+Eb5@5>3 G#4+Eb5@12>1 Bb4@13>1 F4@14>1 G#4+Eb5@16>1
-  Part7           : G#6@1>16
-@63 [C# | G#] (grid:12t)
-  Electric Piano  : Bb3+C#4+F#4@1>1 G#2+G#3+C#4+F4@3>4 G#2@5>1 G#2@6>1 G#2+G#3+C4+Eb4@8>5
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@6>1 G#1@8>1 G#1@9>3
-  Electric Piano#3: G#4@2>2 Eb4+E4+F4+G#4@6>1 Eb4+G#4@8>5
-  Part7           : G#6@1>12
-@64 [F#]
-  Electric Piano  : G#2+G#3+C4+Eb4@1>2 G#2+Bb3+C#4+F#4@4>13 G#2@6>1 G#2@8>1 G#2@10>1 G#2@12>1 G#2@16>1
-  Electric Bass   : G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@12>2 G#1@16>1
-  Electric Piano#3: Bb4@4>2 Bb4@6>1 Bb4@8>1 C#5@10>1 Bb4+B4+Eb5@12>1 G#4@16>1
-  Brass           : F#4+C#5+Bb5@4>10 F#4+C#5+Bb5@16>1
-  Electric Guitar : Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@7>1 Eb4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@13>1 Eb4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@65 [C# | G#]
-  Electric Piano  : Bb3+C#4+F#4@1>2 G#2+G#3+C#4+F4@4>5 G#2@6>1 G#2@8>1 G#2+G#3+C4+Eb4@10>7
-  Electric Bass   : G#1@1>1 G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@11>4
-  Electric Piano#3: F4@2>1 G#4@3>1 Eb4@13>1 F4@14>1 Eb4+G#4@15>1
-  Brass           : Bb4+F5+C#6@4>6 G#4+Eb5+C6@10>7
-  Electric Guitar : Eb4+G#4@1>1
-  Part7           : G#6@1>16
-@66 [G# | C#]
-  Electric Piano  : G#2+G#3+C4+Eb4@1>2 G#2+Bb3+C#4+F#4@4>13 G#2@6>1 G#2@8>1 G#2@10>1 G#2@12>1 G#2@16>1
-  Electric Bass   : G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@12>2 G#1@16>1
-  Electric Piano#3: G#4@1>1 G#4@3>2 Eb4@13>1 F4@14>1 Eb4@15>1 G#4@16>1
-  Brass           : G#4+Eb5+C6@1>1
-  Electric Guitar : Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@7>1 Eb4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@13>1 Eb4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@67 [C# | G#] (grid:12t)
-  Electric Piano  : Bb3+C#4+F#4@1>1 G#2+G#3+C#4+F4@3>4 G#2@5>1 G#2@6>1 G#2+G#3+C4+Eb4@8>5
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@6>1 G#1@8>1 G#1@9>3
-  Electric Piano#3: Eb4+E4+F4+G#4@2>5 Eb4+G#4@8>4
-  Electric Guitar : Eb4+G#4@1>1
-  Part7           : G#6@1>12
-@68 [F#]
-  Electric Piano  : G#2+G#3+C4+Eb4@1>2 G#2+Bb3+C#4+F#4@4>13 G#2@6>1 G#2@8>1 G#2@10>1 G#2@12>1 G#2@16>1
-  Electric Bass   : G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@12>1 G#1@16>1
-  Electric Piano#3: Bb4@4>2 Bb4@6>1 Bb4@8>1 C#5@10>1 Bb4+B4+Eb5@12>1 Bb4+C5@14>1 G#4+Eb5@16>1
-  Brass           : F#4+C#5+Bb5@4>8 F#4+C#5+Bb5@16>1
-  Electric Guitar : Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@7>1 Eb4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@13>1 Eb4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@69 [C# | G#]
-  Electric Piano  : Bb3+C#4+F#4@1>1 G#2+G#3+C#4+F4@4>5 G#2@6>1 G#2@8>1 G#2+G#3+C4+Eb4@10>7
-  Electric Bass   : G#1@1>1 G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@11>4
-  Electric Piano#3: F4@2>1 G#4@3>2 Eb4@13>1 F4@14>1 Eb4@15>1 G#4@16>1
-  Brass           : Bb4+F5+C#6@4>5 G#4+Eb5+C6@10>7
-  Electric Guitar : Eb4+G#4@1>1
-  Part7           : G#6@1>16
-@70 [G# | C#]
-  Electric Piano  : G#2+G#3+C4+Eb4@1>2 G#2+Bb3+C#4+F#4@4>13 G#2@6>1 G#2@8>1 G#2@10>1 G#2@12>1 G#2@16>1
-  Electric Bass   : G#1@4>1 G#1@6>1 G#1@8>1 G#1@10>1 G#1@12>1 G#1@16>1
-  Electric Piano#3: Bb4@1>1 Bb4+B4+Eb5@2>1 Bb4+Eb5@5>2 G#4@12>1 G#4@16>1
-  Brass           : G#4+Eb5+C6@1>1
-  Electric Guitar : Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@7>1 Eb4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@13>1 Eb4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@71 [C# | G#] (grid:12t)
-  Electric Piano  : Bb3+C#4+F#4@1>1 G#2+G#3+C#4+F4@3>4 G#2@5>1 G#2@6>1 G#2+G#3+C4+Eb4@8>5
-  Electric Bass   : G#1@1>1 G#1@3>1 G#1@5>1 G#1@6>1 G#1@8>1 G#1@9>3
-  Electric Piano#3: Eb4+G#4@2>2 F4@3>2 Eb4+G#4@5>8
-  Electric Guitar : Eb4+G#4@1>1
-  Part7           : G#6@1>8
-@72 [G#7]
-  Electric Piano  : G#2+G#3+C4+Eb4@1>2
-  Electric Bass   : F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: F#5@8>7 F5@16>1
-  Electric Guitar : Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@4>13
-@73 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>6
-  Electric Piano#3: F5@1>2 F#5@4>2 Eb5+E5+G#5@8>3 F5@9>1 Eb5@12>3 G#4+G#5@16>1
-  Brass           : C5+G#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@74 [G# | G#m]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>1 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: G#4+G#5@1>2 G#4+G#5@4>2 G#4@10>2 Bb4+B4+C5+Eb5@12>1 C#5+F5@14>1 Bb4+B4+Eb5@16>1
-  Brass           : C5+G#5@1>3 C5+G#5@4>3
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@75 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>7
-  Electric Piano#3: C5@1>1 G#4@3>1 G#4@5>1 F4@6>1 Eb4@7>1 G#4@8>2 F4@10>1 Eb4@11>1 B4@12>1 C5@13>1 C#5@14>1 D5+Eb5@15>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@76 [C# | G#7]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: G#4@1>1 B4@2>1 C5@3>1 G#4@4>1 F#5@8>8 F5@16>1
-  Brass           : Bb4+F#5@4>1 G#4+F5@8>1 F#4+Eb5@12>1 F4+C#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@77 [G#] (grid:32)
-  Electric Bass   : F1@1>1 F#1@6>4 F1@13>2 G#1@19>6 G#1@27>3 G#1@30>3
-  Electric Piano#2: Bb3+C#4+F#4@6>3 G#3+C#4+F4@13>2 G#3+C4+Eb4@19>12
-  Electric Piano#3: F5@1>3 F#5@7>6 G#5@14>5 Eb5+E5@15>2 F5@17>3 Eb5@22>6 G#4+G#5@30>3
-  Brass           : Eb4+C5@6>4 F4+C#5@11>3 F#4+Eb5@14>3 Eb4+G#4@19>14 C5+G#5@30>3
-  Electric Guitar : Eb4+G#4@1>2 Eb4+G#4@3>2 Eb4+G#4@5>2 Eb4+G#4@6>3 Eb4+G#4@9>2 Eb4+G#4@11>2 Eb4+G#4@13>2 Eb4+G#4@17>2 Eb4+G#4@19>2 Eb4+G#4@21>2 Eb4+G#4@22>3 Eb4+G#4@25>2 Eb4+G#4@29>2 Eb4+G4+G#4@30>3
-  Part7           : G#6@1>32
-@78 [G# | G#m]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: G#4+G#5@1>2 G#4+G#5@4>4 G#5@10>2 Bb5+B5+Eb6@12>1 C6@13>1 C#6+F6@14>1 Bb5+B5+Eb6@16>1
-  Brass           : Eb4+G#4+C5+G#5@1>4 C5+G#5@4>3
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@79 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>7
-  Electric Piano#3: C6@1>1 G#5@3>1 G#5@5>1 F5@6>1 Eb5@7>1 B5@8>1 B5@11>1 C6@13>1 G#5@14>1 F5@15>1 G#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@80 [C# | G#7] (grid:32)
-  Electric Bass   : G#1@3>2 G#1@5>4 F1@11>3 F1@14>3 F#1@19>3 F#1@22>4 F1@30>3
-  Electric Piano#2: G#3+C#4+F4@11>3 G#3+C#4+F4@14>3 Bb3+C#4+F#4@19>3 Bb3+C#4+F#4@22>2 G#3+C#4+F4@30>2
-  Electric Piano#3: F5+G#5@3>3 F#5@14>14 Eb5+E5@30>2 F5@31>2
-  Electric Guitar : Eb4+G#4@1>2 Eb4+G#4@3>2 Eb4+G#4@5>2 Eb4+G4+G#4@6>3 Eb4+G#4@9>2 Eb4@11>2 Eb4+G#4@13>2 Eb4+G#4@17>2 Eb4+G#4@19>2 Eb4+G#4@21>2 Eb4+G#4@22>3 Eb4+G#4@25>2 Eb4+G#4@27>2 Eb4+G#4@29>2 Eb4+G#4@30>3
-  Part7           : G#6@1>32
-@81 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>6
-  Electric Piano#3: F5@1>2 F#5@4>3 Eb5+E5+F5+G#5@8>2 Eb5@12>2 G#4+G#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@82 [G# | G#m] (grid:32)
-  Electric Bass   : G#1@3>2 G#1@5>4 F1@11>3 F1@14>3 F#1@19>3 F#1@22>4 F1@30>3
-  Electric Piano#2: G#3+C#4+F4@11>3 G#3+C#4+F4@14>3 Bb3+C#4+F#4@19>3 Bb3+C#4+F#4@22>2 G#3+C#4+F4@30>2
-  Electric Piano#3: G#4+G#5@1>4 G#4+G#5@7>4 B5@14>2 C6+Eb6@15>2 C#6+F6@19>2 B5+Eb6@23>3 C6@25>2 G#5@29>2
-  Electric Guitar : Eb4+G#4@1>2 Eb4+G#4@3>2 Eb4+G#4@5>2 Eb4+G#4@6>3 Eb4+G#4@9>2 Eb4+G#4@11>2 Eb4+G#4@13>2 Eb4+G#4@17>2 Eb4+G#4@19>2 Eb4+G#4@21>2 Eb4+G#4@22>3 Eb4+G#4@25>2 Eb4+G#4@27>2 Eb4+G#4@29>2 Eb4+G#4@30>3
-  Part7           : G#6@1>32
-@83 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>7
-  Electric Piano#3: G#5@1>1 F5@2>1 Eb5@3>1 C#6+D6+G#6@8>1 C#6+Eb6@9>1 B5@11>1 G#5+C6@12>1 F5@14>1 Eb5@15>1 D5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@84 [C# | G#7]
-  Electric Bass   : G#1@2>1 G#1@3>2 F1@6>1 F1@8>1 F#1@10>1 F#1@12>2 F1@16>1
-  Electric Piano#2: G#3+C#4+F4@6>1 G#3+C#4+F4@8>1 Bb3+C#4+F#4@10>1 Bb3+C#4+F#4@12>1 G#3+C#4+F4@16>1
-  Electric Piano#3: B4+C#5@1>1 C5@2>1 G#4@4>2 F#5@8>7 Eb5+E5+F5+G#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>16
-@85 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>6
-  Electric Piano#3: F5+G#5@1>1 F#5@4>3 Eb5+E5+G#5@8>2 F5@9>1 Eb5@12>2 G#4+G#5@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@15>1 Eb4+G4+G#4@16>1
-  Part7           : G#6@1>16
-@86 [C# | G#] (grid:32)
-  Electric Bass   : G#1@3>2 G#1@5>4 F1@11>3 F1@14>3 F#1@19>3 F#1@22>4 F1@30>3
-  Electric Piano#2: G#3+C#4+F4@11>3 G#3+C#4+F4@14>3 Bb3+C#4+F#4@19>3 Bb3+C#4+F#4@22>2 G#3+C#4+F4@30>2
-  Electric Piano#3: G#4+G#5@1>3 G#4+G#5@7>20 Eb5+E5+G#5@23>2 F5@25>2 G#4+G#5@27>6 E5+G#5@30>2 Eb5+E5@31>2
-  Electric Guitar : Eb4+G#4@1>2 Eb4+G#4@3>2 Eb4+G#4@5>2 Eb4+G#4@6>3 Eb4+G#4@9>2 Eb4+G#4@11>2 Eb4+G#4@13>2 Eb4+G#4@17>2 Eb4+G#4@19>2 Eb4+G#4@21>2 Eb4+G#4@22>3 Eb4+G#4@25>2 Eb4+G#4@27>2 Eb4+G#4@29>2 Eb4+G#4@30>3
-  Part7           : G#6@1>32
-@87 [G#]
-  Electric Bass   : F1@1>1 F#1@4>2 F1@7>1 G#1@10>3 G#1@14>1 G#1@16>1
-  Electric Piano#2: Bb3+C#4+F#4@4>1 G#3+C#4+F4@7>1 G#3+C4+Eb4@10>6
-  Electric Piano#3: Eb5+F5@1>1 G#4@3>1 Bb4+B4+Eb5@4>2 G#4+Bb4+C5@5>1 F4@8>2 Eb4+G#4@10>3 Eb4@14>1
-  Brass           : G#3+G#4+G#5+G#6@16>1
-  Electric Guitar : Eb4+G#4@1>1 Eb4+G#4@2>1 Eb4+G#4@3>1 Eb4+G4+G#4@4>1 Eb4+G#4@5>1 Eb4+G#4@6>1 Eb4+G#4@7>1 G#4@8>1 Eb4+G#4@9>1 Eb4+G#4@10>1 Eb4+G#4@11>1 Eb4+G#4@12>1 Eb4+G#4@13>1 Eb4+G#4@14>1 Eb4+G#4@15>1 Eb4+G#4@16>1
-  Part7           : G#6@1>5
-@88 [G#] (grid:4)
-  Electric Bass   : G#1@1>1
+KEY: E major | METER: 4/4 | TEMPO: 85 | GRID: 16th (adaptive) | BARS: 108
+VOICES: Eyes without a Face[drums], Eyes without a Face#2[prog=35], Eyes without a Face#3[prog=49], Eyes without a Face#4[prog=49], Eyes without a Face#5[prog=10], Eyes without a Face#6[prog=53], Eyes without a Face#7[prog=52], Eyes without a Face#8[prog=46], Eyes without a Face#9[prog=36]
+@1 [-] (grid:4)
+  Eyes without a Face  : G#2@1>1^104 G#2@2>1^104 G#2@3>1^104 G#2@4>1^104
+@2 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 F#2+A4@45>3^104 D2+F#2@49>5^104 F#2@53>3^80 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E1@1>4^104 E1@5>4^104 E1@9>4^104 E1@13>4^104 E1@17>4^104 E1@21>4^104 E1@25>4^104 E1@29>4^104 E1@33>4^104 E1@37>4^104 E1@41>4^104 E1@45>4^104 E1@49>4^104 E1@53>4^104 E1@57>4^104 E1@61>4^104
+  Eyes without a Face#3: B4+E5+G#5@1>122^56
+  Eyes without a Face#4: E5+G#5+B5@1>240^104
+@3 [-]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D2+F#2+B2@13>1^104 F#2+B2@14>1^104 F#2+A2+A4@15>1^104 F#2+A2+A4@16>1^104
+@4 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>3^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 F#2+A4@45>3^104 D2+F#2@49>4^104 F#2@53>3^80 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: E1@1>4^104 E1@5>4^104 E1@9>4^104 E1@13>4^104 E1@17>4^104 E1@21>4^104 E1@25>4^104 E1@29>4^104 E1@33>4^104 E1@37>4^104 E1@41>4^104 E1@45>4^104 E1@49>4^104 E1@53>4^104 E1@57>4^104 E1@61>4^104
+  Eyes without a Face#3: B4+E5+G#5@1>122^56
+@5 [E] (grid:32)
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@3>1^80 F#2+A4@5>1^104 F#2+A4@7>1^104 D2+F#2@9>2^104 F#2@11>1^80 C2+F#2+A4@13>1^104 C2+F#2+A4@15>2^104 F#2@17>1^104 F#2@19>1^80 F#2+A4@21>1^104 D#2+F#2+A4@23>2^104 D2+F#2+B2@25>2^104 D#2+F#2+B2@27>2^104 F#2+A2+A4@29>1^104 F#2+A2+A4@31>1^104
+  Eyes without a Face#5: E5@31>4^80 G#5@32>3^32
+@6 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A#3+A4@25>39^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E2@1>4^104 E2@5>4^104 E2@9>4^104 E2@13>8^104 E2@53>12^104
+  Eyes without a Face#4: E4+G#4+B4@1>64^104
+  Eyes without a Face#5: B5@1>5^80 E5+G#5+B5@9>3^56 E5+G#5+B5@17>3^80 C#5@61>9^80 E5+G#5@64>6^80
+@7 [C#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>3^80 F#2+A4@9>3^80 F#2+A4@13>3^104 D2+F#2@17>5^104 F#2@21>3^80 C2+F#2+A#3+A4@25>44^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^80
+  Eyes without a Face#2: C#2@1>4^104 C#2@5>4^104 C#2@9>4^104 C#2@13>4^104 C#2@17>4^104 C#2@53>12^104
+  Eyes without a Face#4: C#4+E4+G#4@1>64^104
+  Eyes without a Face#5: C#5+E5+G#5@9>3^80 C#5+E5+G#5@17>2^80 G#4@61>9^56 B4@64>6^32
+@8 [G#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A#3+A4@25>39^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: G#1@1>4^104 G#1@5>4^104 G#1@9>4^104 G#1@13>8^104 G#1@53>12^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>64^104
+  Eyes without a Face#5: D#5@1>5^56 G#4+B4+D#5@9>3^56 G#4+B4+D#5@17>2^80 B4@61>5^80 D#5@64>5^56
+@9 [B] (grid:64)
+  Eyes without a Face  : C2+F#2@1>2^104 F#2@5>3^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A#3+A4@25>49^104 C2+F#2+A4@29>4^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: B1@1>4^104 B1@5>4^104 B1@9>4^104 B1@13>8^104 B1@53>8^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>64^104
+  Eyes without a Face#5: F#5@1>5^80 B4+D#5+F#5@9>3^80 B4+D#5+F#5@17>2^80 E5@61>9^80 G#5@64>6^32
+@10 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E2@1>4^104 E2@5>4^104 E2@9>4^104 E2@13>8^104 E2@53>12^104
+  Eyes without a Face#4: E4+G#4+B4@1>64^104
+  Eyes without a Face#5: B5@1>5^80 E5+G#5+B5@9>3^56 E5+G#5+B5@17>3^80 C#5@61>9^80 E5+G#5@64>6^80
+@11 [C#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>3^80 F#2+A4@9>3^80 F#2+A4@13>3^104 D2+F#2@17>5^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^80
+  Eyes without a Face#2: C#2@1>4^104 C#2@5>4^104 C#2@9>4^104 C#2@13>4^104 C#2@17>4^104 C#2@53>12^104
+  Eyes without a Face#4: C#4+E4+G#4@1>64^104
+  Eyes without a Face#5: C#5+E5+G#5@9>3^80 C#5+E5+G#5@17>2^80 G#4@61>9^56 B4@64>6^32
+@12 [G#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>3^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: G#1@1>4^104 G#1@5>4^104 G#1@9>4^104 G#1@13>8^104 G#1@53>12^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>64^104
+  Eyes without a Face#5: D#5@1>5^56 G#4+B4+D#5@9>3^56 G#4+B4+D#5@17>2^80 B4@61>5^80 D#5@64>5^56
+@13 [B] (grid:64)
+  Eyes without a Face  : C2+F#2@1>2^104 F#2@5>3^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>4^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: B1@1>4^104 B1@5>4^104 B1@9>4^104 B1@13>8^104 B1@53>8^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>64^104
+  Eyes without a Face#5: F#5@1>5^80 B4+D#5+F#5@9>3^80 B4+D#5+F#5@17>2^80 E5@61>8^80 G#5@64>5^56
+@14 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E2@1>4^104 E2@5>4^104 E2@9>4^104 E2@13>8^104 E2@53>12^104
+  Eyes without a Face#4: E4+G#4+B4@1>64^104
+  Eyes without a Face#5: B5@1>5^56 E5+G#5+B5@9>2^56 E5+G#5+B5@17>2^80 C#5@61>8^80 E5+G#5@64>5^80
+@15 [C#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>3^80 F#2+A4@9>3^80 F#2+A4@13>3^104 D2+F#2@17>5^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^80
+  Eyes without a Face#2: C#2@1>4^104 C#2@5>4^104 C#2@9>4^104 C#2@13>4^104 C#2@17>4^104 C#2@53>12^104
+  Eyes without a Face#4: C#4+E4+G#4@1>64^104
+  Eyes without a Face#5: C#5+E5+G#5@8>3^56 C#5+E5+G#5@16>2^80 G#4@61>8^80 B4@64>5^56
+@16 [G#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>3^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: G#1@1>4^104 G#1@5>4^104 G#1@9>4^104 G#1@13>8^104 G#1@53>12^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>64^104
+  Eyes without a Face#5: D#5@1>5^80 G#4+B4+D#5@9>3^56 B4@16>2^80 G#4+D#5@17>2^56 B4@61>8^80 D#5+F#5@64>5^80
+@17 [B] (grid:64)
+  Eyes without a Face  : C2+F#2@1>2^104 F#2@5>3^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>4^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: B1@1>4^104 B1@5>4^104 B1@9>4^104 B1@13>8^104 B1@53>8^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>64^104
+  Eyes without a Face#5: B4+D#5+F#5@9>3^56 B4+D#5+F#5@17>2^80 E5@61>9^80 G#5@64>5^56
+@18 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E2@1>4^104 E2@5>4^104 E2@9>4^104 E2@13>8^104 E2@53>12^104
+  Eyes without a Face#4: E4+G#4+B4@1>64^104
+  Eyes without a Face#5: B5@1>4^32 E5+G#5+B5@9>3^56 E5+G#5+B5@17>2^80 C#5@61>8^80 E5@64>5^56
+@19 [C#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>3^80 F#2+A4@9>3^80 F#2+A4@13>3^104 D2+F#2@17>5^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^80
+  Eyes without a Face#2: C#2@1>4^104 C#2@5>4^104 C#2@9>4^104 C#2@13>4^104 C#2@17>4^104 C#2@53>12^104
+  Eyes without a Face#4: C#4+E4+G#4@1>64^104
+  Eyes without a Face#5: G#5@1>5^56 C#5+E5+G#5@9>3^56 C#5+E5+G#5@17>2^80 G#4@61>8^80 B4+D#5@64>6^80
+@20 [G#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>3^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: G#1@1>4^104 G#1@5>4^104 G#1@9>4^104 G#1@13>8^104 G#1@53>12^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>64^104
+  Eyes without a Face#5: G#4+B4+D#5@9>3^56 G#4+B4+D#5@17>2^80 B4@61>10^80 D#5+F#5@64>3^80
+@21 [B] (grid:64)
+  Eyes without a Face  : C2+F#2@1>2^104 F#2@5>3^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>4^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: B1@1>4^104 B1@5>4^104 B1@9>4^104 B1@13>8^104 B1@53>8^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>64^104
+  Eyes without a Face#5: D#5+F#5@5>2^80 D#5@8>2^56 F#5@9>1^56 B4+D#5+F#5@17>1^80
+@22 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>1^104 A1@7>1^104 C#2@12>2^104 E2@14>1^104 A1@15>1^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+  Eyes without a Face#7: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+@23 [G#m7 | B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 D#3@12>2^104 B2@14>1^104 F#2@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>8^104 F#4@9>8^80
+  Eyes without a Face#7: G#4@1>8^104 F#4@9>8^80
+@24 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>2^104 A1@7>1^104 B1@12>3^104 E2@15>2^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>4^80 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+  Eyes without a Face#7: C#4@1>4^80 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+@25 [G#m7]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 B1@5>1^104 B2@12>2^104 F#2@14>1^104 B1@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>13^104
+  Eyes without a Face#7: G#4@1>13^104
+@26 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>2^104 E2@14>1^104 A1@15>1^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^80
+  Eyes without a Face#7: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^80
+@27 [G#m7 | B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 B1@5>1^104 D#3@12>1^104 B2@14>1^104 F#2@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>8^80 F#4@9>7^80
+  Eyes without a Face#7: G#4@1>8^80 F#4@9>7^80
+@28 [F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: F#1@1>1^104 F#1@2>1^104 F#1@3>1^104 F#1@4>1^104 F#1@5>1^104 E2@12>2^104 C#2@14>1^104 F#1@15>2^104
+  Eyes without a Face#4: F#3+A3+C#4@1>16^104
+@29 [G#m] (grid:32)
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@3>1^80 F#2+A4@5>1^104 F#2+A4@7>1^104 D2+F#2@9>2^104 F#2@11>1^80 C2+F#2+A#3+A4@13>19^104 C2+F#2+A4@15>2^104 F#2@17>1^104 F#2@19>1^80 F#2+A4@21>1^104 D#2+F#2+A4@23>2^104 D2+F#2@25>2^104 D#2+F#2@27>2^104 F#2+A4@29>1^104 F#2+A4@31>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@3>1^104 G#1@5>1^104 G#1@7>1^104 G#1@9>2^104 F#2@23>4^104 D#2@27>2^104 G#1@29>4^104
+  Eyes without a Face#4: G#3+B3+D#4@1>32^104
+  Eyes without a Face#5: E5@31>4^80 G#5@32>3^32
+@30 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A#3+A4@25>44^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E2@1>4^104 E2@5>4^104 E2@9>4^104 E2@13>8^104 E2@53>12^104
+  Eyes without a Face#4: E4+G#4+B4@1>64^104
+  Eyes without a Face#5: B5@1>5^80 E5+G#5+B5@9>3^56 E5+G#5+B5@17>3^80 C#5@61>9^80 E5+G#5@64>6^80
+@31 [C#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>3^80 F#2+A4@9>3^80 F#2+A4@13>3^104 D2+F#2@17>5^104 F#2@21>3^80 C2+F#2+A#3+A4@25>39^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^80
+  Eyes without a Face#2: C#2@1>4^104 C#2@5>4^104 C#2@9>4^104 C#2@13>4^104 C#2@17>4^104 C#2@53>12^104
+  Eyes without a Face#4: C#4+E4+G#4@1>64^104
+  Eyes without a Face#5: C#5+E5+G#5@9>3^80 C#5+E5+G#5@17>2^80 G#4@61>9^56 B4@64>6^32
+@32 [G#m] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A#3+A4@25>49^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: G#1@1>4^104 G#1@5>4^104 G#1@9>4^104 G#1@13>8^104 G#1@53>12^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>64^104
+  Eyes without a Face#5: D#5@1>5^56 G#4+B4+D#5@9>3^56 G#4+B4+D#5@17>2^80 B4@61>5^80 D#5@64>5^56
+@33 [B] (grid:64)
+  Eyes without a Face  : C2+F#2@1>2^104 F#2@5>3^80 F#2+A4@9>3^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>4^104 F#2@33>2^104 F#2@37>3^80 F#2+A4@41>2^104 D#2+F#2+A4@45>4^104 D2+F#2@49>4^104 D#2+F#2@53>4^104 F#2+A4@57>2^104 F#2+A4@61>3^104
+  Eyes without a Face#2: B1@1>4^104 B1@5>4^104 B1@9>4^104 B1@13>8^104 B1@53>8^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>64^104
+  Eyes without a Face#5: F#5@1>5^80 B4+D#5+F#5@9>3^80 B4+D#5+F#5@17>2^80 E5@61>9^80 G#5@64>6^32
+@34 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 D#2+F#2+A4@45>4^104 D2+F#2@49>5^104 D#2+F#2@53>4^104 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E2@1>4^104 E2@5>4^104 E2@9>4^104 E2@13>8^104 E2@53>12^104
+  Eyes without a Face#4: E4+G#4+B4@1>64^104
+  Eyes without a Face#5: B5@1>5^80 E5+G#5+B5@9>3^56 E5+G#5+B5@17>3^80 B5@57>4^80
+  Eyes without a Face#8: B5@57>4^80
+@35 [C#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: C#2@1>1^104 C#2@2>1^104 C#2@3>1^104 C#2@4>1^104 C#2@5>1^104 C#2@14>3^104
+  Eyes without a Face#4: C#4+E4+G#4@1>16^104
+  Eyes without a Face#5: F#5@1>2^80 E5@4>1^104 B4@7>1^104 B5@15>1^104
+  Eyes without a Face#8: F#5@1>2^80 E5@4>1^104 B4@7>1^104 B5@15>1^104
+@36 [G#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@2>1^104 G#1@3>1^104 G#1@4>2^104 G#1@14>3^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>16^104
+  Eyes without a Face#5: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+  Eyes without a Face#8: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+@37 [B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>2^104 B1@14>2^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>16^104
+  Eyes without a Face#5: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+  Eyes without a Face#8: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+@38 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E2@1>1^104 E2@2>1^104 E2@3>1^104 E2@4>2^104 E2@14>3^104
+  Eyes without a Face#4: E4+G#4+B4@1>16^104
+  Eyes without a Face#5: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+  Eyes without a Face#8: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+@39 [C#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: C#2@1>1^104 C#2@2>1^104 C#2@3>1^104 C#2@4>1^104 C#2@5>1^104 C#2@14>3^104
+  Eyes without a Face#4: C#4+E4+G#4@1>16^104
+  Eyes without a Face#5: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+  Eyes without a Face#8: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+@40 [G#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@2>1^104 G#1@3>1^104 G#1@4>2^104 G#1@14>3^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>16^104
+  Eyes without a Face#5: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+  Eyes without a Face#8: F#5@1>1^104 E5@4>1^104 B4@7>1^104 B5@15>1^104
+@41 [B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>2^104 B1@14>2^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>16^104
+  Eyes without a Face#5: F#5@1>1^104 E5@4>1^104 B4@7>1^104
+  Eyes without a Face#8: F#5@1>1^104 E5@4>1^104 B4@7>1^104
+@42 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A#3+A4@7>10^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>1^104 A1@7>1^104 C#2@12>2^104 E2@14>1^104 A1@15>1^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+  Eyes without a Face#7: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+@43 [G#m7 | B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A#3+A4@7>11^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 D#3@12>2^104 B2@14>1^104 F#2@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>8^104 F#4@9>8^80
+  Eyes without a Face#7: G#4@1>8^104 F#4@9>8^80
+@44 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A#3+A4@7>10^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>2^104 A1@7>1^104 B1@12>3^104 E2@15>2^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+  Eyes without a Face#7: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+@45 [G#m7]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A#3+A4@7>12^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 B1@5>1^104 B2@12>2^104 F#2@14>1^104 B1@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>16^80
+  Eyes without a Face#7: G#4@1>16^80
+@46 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>2^104 E2@14>1^104 A1@15>1^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>6^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+  Eyes without a Face#7: C#4@1>6^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+@47 [G#m7 | B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 B1@5>1^104 D#3@12>1^104 B2@14>1^104 F#2@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>8^80 F#4@9>7^80
+  Eyes without a Face#7: G#4@1>8^80 F#4@9>7^80
+@48 [F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: F#1@1>1^104 F#1@2>1^104 F#1@3>1^104 F#1@4>1^104 F#1@5>1^104 E2@12>2^104 C#2@14>1^104 F#1@15>2^104
+  Eyes without a Face#4: F#3+A3+C#4@1>16^104
+@49 [G#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@2>1^104 G#1@3>1^104 G#1@4>1^104 G#1@5>1^104 F#2@12>2^104 D#2@14>1^104 G#1@15>2^104
+  Eyes without a Face#4: G#3+B3+D#4@1>16^104
+@50 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 C2+F#2@2>1^104 C2+F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 D2+F#2+A4@8>1^104 F#2@9>1^104 C2+F#2@10>1^80 C2+F#2+A4@11>1^104 F#2+A4@12>1^104 D2+F#2@13>1^104 F#2@14>1^80 C2+F#2+A4@15>1^104 D2+F#2+A4@16>1^80
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@3>1^104 E1@4>1^104 E1@5>1^104 E1@6>1^104 E1@7>1^104 E1@8>1^104 E1@9>1^104 E1@10>1^104 E1@11>1^104 E1@12>1^104 E1@13>1^104 E1@14>1^104 E1@15>1^104 E1@16>1^104
+@51 [-]
+  Eyes without a Face  : C2+F#2@1>1^104 C2+F#2@2>1^80 C2+F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 D2+F#2+A4@8>1^104 F#2@9>1^104 C2+F#2@10>1^104 C2+F#2+A4@11>1^104 F#2+A4@12>1^104 D2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 D2+F#2+A4@16>1^80
+@52 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 C2+F#2@2>1^80 C2+F#2+A4@3>1^104 C2+F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 D2+F#2+A4@8>1^104 F#2@9>1^104 C2+F#2@10>1^104 C2+F#2+A4@11>1^104 F#2+A4@12>1^104 D2+F#2@13>1^104 F#2@14>1^80 C2+F#2+A4@15>1^104 D2+F#2+A4@16>1^104
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@3>1^104 E1@4>1^104 E1@5>1^104 E1@6>1^104 E1@7>1^104 E1@8>1^104 E1@9>1^104 E1@10>1^104 E1@11>1^104 E1@12>1^104 E1@13>1^104 E1@14>1^104 E1@15>1^104 E1@16>1^104
+@53 [-]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 C2+F#2+A4@3>1^104 C2+F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 D2+F#2+A4@8>1^104 F#2@9>1^104 C2+F#2@10>1^104 C2+F#2+A4@11>1^104 F#2+A4@12>1^104 D2+F#2@13>1^104 F#2@14>1^80 C2+F#2+A4@15>1^104 D2+F#2+A4@16>1^104
+@54 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2+A#3@5>10^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@55 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 E2+F#2+A#3@5>11^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@56 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2+A#3@5>10^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@57 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2+A#3@5>12^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@58 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@59 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^80 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@60 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@61 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@62 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@63 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^80 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@64 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@65 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@66 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@67 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@68 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@69 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@70 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@71 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@72 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@73 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^80 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@74 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@75 [D | F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+@76 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 E2+F#2@13>1^104 F#2@14>1^80 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: E1@1>1^104 E1@2>1^104 E1@7>1^104 E1@8>1^104 B1@12>1^104 C#2@13>1^104 E2@16>1^104
+  Eyes without a Face#9: E3@14>1^104
+@77 [Ddim | D]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 E2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D#2+E2+F#2@13>1^104 D#2+F#2@14>1^104 D#2+F#2+A4@15>1^104 D#2+F#2+A4@16>1^104
+  Eyes without a Face#2: D2@1>1^104 D2@2>1^104 D2@7>1^104 D2@8>1^104 F#1@10>3^104 G1@13>2^104 A1@15>2^104
+  Eyes without a Face#9: C#3@4>2^104 G#2@6>2^104 D2@8>3^104
+@78 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E2@1>1^104 E2@2>1^104 E2@3>1^104 E2@4>2^104 E2@14>3^104
+  Eyes without a Face#4: E4+G#4+B4@1>16^104
+@79 [C#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: C#2@1>1^104 C#2@2>1^104 C#2@3>1^104 C#2@4>1^104 C#2@5>1^104 C#2@14>3^104
+  Eyes without a Face#4: C#4+E4+G#4@1>16^104
+@80 [G#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@2>1^104 G#1@3>1^104 G#1@4>2^104 G#1@14>3^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>16^104
+@81 [B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>2^104 B1@14>2^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>16^104
+@82 [E]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: E2@1>1^104 E2@2>1^104 E2@3>1^104 E2@4>2^104 E2@14>3^104
+  Eyes without a Face#4: E4+G#4+B4@1>16^104
+@83 [C#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: C#2@1>1^104 C#2@2>1^104 C#2@3>1^104 C#2@4>1^104 C#2@5>1^104 C#2@14>3^104
+  Eyes without a Face#4: C#4+E4+G#4@1>16^104
+@84 [G#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@2>1^104 G#1@3>1^104 G#1@4>2^104 G#1@14>3^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>16^104
+@85 [B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>2^104 B1@14>2^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>16^104
+@86 [G#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@2>1^104 G#1@3>1^104 G#1@4>2^104 G#1@14>3^104
+  Eyes without a Face#4: G#3+B3+D#4+G#4@1>16^104
+@87 [B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>2^104 B1@14>2^104
+  Eyes without a Face#4: B3+D#4+F#4+B4@1>16^104
+@88 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A#3+A4@7>10^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>1^104 A1@7>1^104 C#2@12>2^104 E2@14>1^104 A1@15>1^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+  Eyes without a Face#7: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+@89 [G#m7 | B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A#3+A4@7>11^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 D#3@12>2^104 B2@14>1^104 F#2@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>8^104 F#4@9>7^80
+  Eyes without a Face#7: G#4@1>8^104 F#4@9>7^80
+@90 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A#3+A4@7>10^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>2^104 A1@7>1^104 B1@12>3^104 E2@15>2^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+  Eyes without a Face#7: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+@91 [G#m7]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A#3+A4@7>12^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 B1@5>1^104 B2@12>2^104 F#2@14>1^104 B1@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>16^104
+  Eyes without a Face#7: G#4@1>16^104
+@92 [A]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: A1@1>1^104 A1@2>1^104 A1@3>1^104 A1@4>1^104 A1@5>2^104 E2@14>1^104 A1@15>1^104
+  Eyes without a Face#4: A3+C#4+E4@1>16^104
+  Eyes without a Face#6: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+  Eyes without a Face#7: C#4@1>4^104 D#4@5>4^104 E4@9>4^104 F#4@13>4^104
+@93 [G#m7 | B]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^80
+  Eyes without a Face#2: B1@1>1^104 B1@2>1^104 B1@3>1^104 B1@4>1^104 B1@5>1^104 D#3@12>1^104 B2@14>1^104 F#2@15>1^104
+  Eyes without a Face#4: B3+D#4+F#4@1>16^104
+  Eyes without a Face#6: G#4@1>8^104 F#4@9>8^104
+  Eyes without a Face#7: G#4@1>8^104 F#4@9>8^104
+@94 [F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: F#1@1>1^104 F#1@2>1^104 F#1@3>1^104 F#1@4>1^104 F#1@5>1^104 E2@12>2^104 C#2@14>1^104 F#1@15>2^104
+  Eyes without a Face#4: F#3+A3+C#4@1>16^104
+@95 [G#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@2>1^104 G#1@3>1^104 G#1@4>1^104 G#1@5>1^104 F#2@12>2^104 D#2@14>1^104 G#1@15>2^104
+  Eyes without a Face#4: G#3+B3+D#4@1>16^104
+@96 [F#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: F#1@1>1^104 F#1@2>1^104 F#1@3>1^104 F#1@4>1^104 F#1@5>1^104 E2@12>2^104 C#2@14>1^104 F#1@15>2^104
+  Eyes without a Face#4: F#3+A3+C#4@1>16^104
+@97 [G#m]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^104 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 D#2+F#2+A4@12>1^104 D2+F#2@13>1^104 D#2+F#2@14>1^104 F#2+A4@15>1^104 F#2+A4@16>1^104
+  Eyes without a Face#2: G#1@1>1^104 G#1@2>1^104 G#1@3>1^104 G#1@4>1^104 G#1@5>1^104 F#2@12>2^104 D#2@14>1^104 G#1@15>2^104
+  Eyes without a Face#4: G#3+B3+D#4@1>16^104
+@98 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 F#2+A4@45>3^104 D2+F#2@49>5^104 F#2@53>3^80 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E1@1>4^104 E1@5>4^104 E1@9>4^104 E1@13>4^104 E1@17>4^104 E1@21>4^104 E1@25>4^104 E1@29>4^104 E1@33>4^104 E1@37>4^104 E1@41>4^104 E1@45>4^104 E1@49>4^104 E1@53>4^104 E1@57>4^104 E1@61>4^104
+  Eyes without a Face#3: B4+E5+G#5@1>122^56
+  Eyes without a Face#4: E5+G#5+B5@1>280^104
+@99 [-]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D2+F#2+B2@13>1^104 F#2+B2@14>1^104 F#2+A2+A4@15>1^104 F#2+A2+A4@16>1^104
+@100 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 F#2@37>2^80 F#2+A4@41>3^104 F#2+A4@45>3^104 D2+F#2@49>5^104 F#2@53>3^80 F#2+A4@57>3^104 F#2+A4@61>3^80
+  Eyes without a Face#2: E1@1>4^104 E1@5>4^104 E1@9>4^104 E1@13>4^104 E1@17>4^104 E1@21>4^104 E1@25>4^104 E1@29>4^104 E1@33>4^104 E1@37>4^104 E1@41>4^104 E1@45>4^104 E1@49>4^104 E1@53>4^104 E1@57>4^104 E1@61>4^104
+  Eyes without a Face#3: B4+E5+G#5@1>122^56
+  Eyes without a Face#4: E5+G#5+B5@1>152^104
+@101 [-]
+  Eyes without a Face  : C2+F#2@1>1^104 F#2@2>1^80 F#2+A4@3>1^80 F#2+A4@4>1^104 D2+F#2@5>1^104 F#2@6>1^80 C2+F#2+A4@7>1^104 C2+F#2+A4@8>1^104 F#2@9>1^104 F#2@10>1^80 F#2+A4@11>1^104 F#2+A4@12>1^104 D2+F#2+B2@13>1^104 F#2+B2@14>1^104 F#2+A2+A4@15>1^104 F#2+A2+A4@16>1^104
+@102 [E] (grid:64)
+  Eyes without a Face  : C2+F#2@1>3^104 F#2@5>2^80 F#2+A4@9>2^104 F#2+A4@13>3^104 D2+F#2@17>4^104 F#2@21>3^80 C2+F#2+A4@25>2^104 C2+F#2+A4@29>3^104 F#2@33>2^104 D#2+F#2@37>6^104 F#2+A4@41>3^104 F#2+A4@45>3^104 D2+D#2+F#2@49>5^104 F#2@53>3^80 D2+D#2+F#2+A4@57>3^104 D2+D#2+F#2+A4@61>3^104
+  Eyes without a Face#2: E1@1>4^104 E1@5>4^104 E1@9>4^104 E1@13>4^104 E1@17>4^104 E1@21>4^104 E1@25>4^104 E1@29>4^104 E1@33>4^104 E1@37>4^104 E1@41>4^104 E1@45>4^104 E1@49>4^104 E1@53>4^104 E1@57>4^104 E1@61>4^104
+  Eyes without a Face#3: E5+G#5@2>208^56 B5@3>204^56
+  Eyes without a Face#4: E5+G#5+B5@1>24^104
+@103 [-]
+@104 [E] (grid:4)
+  Eyes without a Face#4: E4+G#4+B4@2>18^104
+@105 [-]
+@106 [-]
+@107 [-]
+@108 [-]

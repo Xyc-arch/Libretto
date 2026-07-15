@@ -1,0 +1,886 @@
+KEY: D major | METER: 4/4 | TEMPO: 134 | GRID: 8th (adaptive) | BARS: 160
+VOICES: Synth Choir[prog=54], Synth Brass 2[prog=63], Voice Oohs[prog=53], String Ensemble 2[prog=49], Drums[drums], Lead 3 (calliope)[prog=82], Fretless Bass[prog=35], Choir Aahs[prog=52]
+@1 [A] (grid:4)
+@2 [A] (grid:4)
+  Synth Choir      : A3+C#4+E4@3>7^80 G#3+B3@4>2^56
+  Voice Oohs       : A2+A3+C#4+E4@1>8^80
+  String Ensemble 2: A3+C#4+E4@1>16^32
+@3 [A]
+  Synth Choir      : A3+C#4@3>8^56
+  Synth Brass 2    : E4@5>1^80 D4@6>1^80 C#4@7>2^80
+@4 [F#m7] (grid:4)
+  Synth Choir      : A3+C#4@3>1^80 G#3+B3+E4@4>2^80
+  Synth Brass 2    : B3@1>6^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>8^80
+  String Ensemble 2: F#3@1>1^56 F#3@2>7^32
+@5 [F#m]
+  Synth Choir      : A3+C#4+F#4@3>6^56
+  Synth Brass 2    : C#4@5>1^104 B3@6>1^80 A3@7>1^56
+  Voice Oohs       : G#2@6>1^56 A2@7>2^80
+@6 [D] (grid:16)
+  Synth Brass 2    : B3@1>5^80 C#4@7>1^80 B3@8>1^80 A3@9>8^80
+  Voice Oohs       : B2+A3+D4+F#4+A4@1>16^56
+  String Ensemble 2: B2+B3+D4+F#4+A4@1>32^56
+@7 [Bm7] (grid:4)
+  Synth Choir      : B3+D4@1>1^56 C#4+E4@2>1^56 D4+F#4@3>1^104 E4+G#4@4>1^80
+  Synth Brass 2    : B3@1>1^80 C#4@2>1^80 D4@3>1^80 E4@4>1^80
+  Voice Oohs       : D3+A3+D4+F#4@1>11^104 C#3+C#4@2>1^80 A2+B3@3>1^80 F#2+C#4@4>1^80
+@8 [D] (grid:24t)
+  Synth Choir      : D4+E4+F#4+A4@1>48^80
+  Synth Brass 2    : F#4@2>42^80
+  Voice Oohs       : E2+A3+B3+D4@1>44^80
+  String Ensemble 2: E2@1>8^56
+@9 [A] (grid:4)
+@10 [A]
+  Synth Choir      : C#4+E4@1>12^56
+  Synth Brass 2    : A3@7>2^80
+  Voice Oohs       : A2+A3+C#4+E4@1>16^80
+  String Ensemble 2: A3+C#4+E4@1>23^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@11 [C# | A] (grid:12t)
+  Synth Choir      : B3+D4@7>4^56 A3+C#4@10>3^56
+  Synth Brass 2    : C#4@1>4^80 D4@6>4^80 E4@10>3^80
+  Voice Oohs       : G#3+B3+E4@7>3^80 A3+C#4+E4@10>3^56
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@12 [F#m7]
+  Synth Choir      : G#3+B3@1>3^56 G#3+B3@5>2^80 F#3+A3+C#4@7>5^80
+  Synth Brass 2    : A3@1>13^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>11^56
+  String Ensemble 2: F#3@2>14^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@13 [C#7]
+  Synth Choir      : G#3+B3@6>1^56 A3+C#4@7>2^56
+  Voice Oohs       : A3+B3@6>1^56 G#3+C#4@7>2^56
+  Drums            : F#2@1>1^56 C#2+F#2@5>1^80
+@14 [F#m | D7]
+  Synth Choir      : A3+C#4@1>5^56 B3+D4@7>9^56
+  Synth Brass 2    : A3@4>1^56 D4@5>2^80 D4@7>1^80 D4@8>3^104
+  Voice Oohs       : B2+A3+C#4+D4+F#4@1>16^56
+  String Ensemble 2: B2+D4+F#4@1>16^56 A3@2>14^32
+  Drums            : C2+F#2@1>1^104 D#5@4>1^80 C#2+F#2@5>1^80 C2@7>1^104
+@15 [C# | A] (grid:4)
+  Synth Brass 2    : C#4@2>1^80 A3@3>1^80 C#4@4>1^80
+  Voice Oohs       : A3+B3@3>2^32
+  Drums            : F#2@1>1^56 C#2+F#2@3>1^80
+@16 [Bm7]
+  Synth Choir      : B3+D4+E4@1>14^56
+  Synth Brass 2    : B3@1>12^80
+  Voice Oohs       : E2+A3+B3+D4+F#4+A4@1>14^56 A3@4>1^80 A3@5>2^104 G#3@7>1^56 E3+A3@8>8^56
+  String Ensemble 2: E2+F#3+B3+D4+E4@1>7^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@17 [A] (grid:4)
+  Drums            : F#2@1>1^56 C#2+F#2@3>1^80
+@18 [A]
+  Synth Choir      : C#4+E4@1>12^56
+  Synth Brass 2    : A3@7>2^80
+  Voice Oohs       : A2+A3+C#4+E4@1>16^80
+  String Ensemble 2: A3+C#4+E4@1>23^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@19 [C# | A] (grid:12t)
+  Synth Choir      : B3+D4@7>4^56 A3+C#4@10>3^56
+  Synth Brass 2    : C#4@1>4^80 D4@6>4^80 E4@10>3^80
+  Voice Oohs       : G#3+B3+E4@7>3^80 A3+C#4+E4@10>3^56
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@20 [F#m7]
+  Synth Choir      : G#3+B3@1>3^56 G#3+B3@5>2^80 F#3+A3+C#4@7>5^80
+  Synth Brass 2    : A3@1>13^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>11^56
+  String Ensemble 2: F#3@2>14^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@21 [C#7]
+  Synth Choir      : G#3+B3@6>1^56 A3+C#4@7>2^56
+  Voice Oohs       : A3+B3@6>1^56 G#3+C#4@7>2^56
+  Drums            : F#2@1>1^56 C#2+F#2@5>1^80
+@22 [F#m | D7]
+  Synth Choir      : A3+C#4@1>5^56 B3+D4@7>9^56
+  Synth Brass 2    : A3@4>1^56 D4@5>2^80 D4@7>1^80 D4@8>3^104
+  Voice Oohs       : B2+A3+C#4+D4+F#4@1>16^56
+  String Ensemble 2: B2+D4+F#4@1>16^56 A3@2>14^32
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@23 [C# | A] (grid:4)
+  Synth Brass 2    : C#4@2>1^80 A3@3>1^80 C#4@4>1^80
+  Voice Oohs       : A3+B3@3>2^32
+  Drums            : F#2@1>1^56 C#2+F#2@3>1^80
+@24 [Bm7]
+  Synth Choir      : B3+D4+E4@1>14^56
+  Synth Brass 2    : B3@1>12^80
+  Voice Oohs       : E2+A3+B3+D4+F#4+A4@1>14^56 A3@4>1^80 A3@5>2^104 G#3@7>1^56 E3+A3@8>8^56
+  String Ensemble 2: E2+F#3+B3+D4+E4@1>7^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@25 [Fdim] (grid:4)
+  Synth Choir      : B3+E4@3>1^56
+  Voice Oohs       : F2+G#3+B3@3>2^80
+  Drums            : F#2@1>1^56 C#2+F#2@3>1^80
+@26 [A]
+  Synth Choir      : B3+E4@1>15^80 A3+C#4@3>13^56
+  Synth Brass 2    : C#4@4>1^80 F#4@5>1^104 F#4@7>1^104 F#4@8>7^104
+  Voice Oohs       : F#2+G#3+B3+E4@1>2^80 F#2+A3+C#4+E4@3>13^56
+  String Ensemble 2: F#2+A3+C#4+E4@1>8^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^80 C#2+F#2@5>1^80 C2@7>1^104
+@27 [E | C#dim] (grid:12t)
+  Synth Choir      : E2@1>10^80
+  Synth Brass 2    : C#4@10>1^104 D4@12>1^104
+  Voice Oohs       : E2@1>12^80
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@28 [Em | Dm]
+  Synth Choir      : E4+G4@1>3^80 D4+F4@4>3^80 C#4@7>1^80 E4@8>1^56
+  Synth Brass 2    : E4@1>3^104 D4@4>3^80 C#4@7>2^80
+  Voice Oohs       : E3+B3+E4+G4@1>3^80 D3+A3+D4+F4@4>4^80 C#3+C#4+E4@7>2^80
+  String Ensemble 2: G3+E4@1>4^56 F3+D4@4>3^56 E3+C#4@7>2^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@29 [Bm7 | A] (grid:12t)
+  Synth Choir      : A3+B3+D4@1>10^80
+  Synth Brass 2    : B3@1>1^104 A3@3>8^80
+  Voice Oohs       : B2+A3+B3+D4+F4@1>9^80 E3+E4@10>2^80
+  String Ensemble 2: B2+A3+B3+D4+F4@1>8^56
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+  Lead 3 (calliope): E3@10>3^56
+@30 [A | D]
+  Synth Choir      : A3+C#4+E4@1>3^80 D3+F#3+A3@4>13^80
+  Synth Brass 2    : C#4@4>1^80 F#4@5>2^80 F#4@7>1^104 F#4@8>3^80
+  Voice Oohs       : E3+A3+C#4+E4@1>3^80 D3+F#3+A3@4>12^80
+  String Ensemble 2: E2+C#4+E4@1>4^56 D2+D4+F#4@4>13^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): C#4@1>3^80 A3@4>13^56
+@31 [C#m] (grid:12t)
+  Synth Brass 2    : E4@4>1^80 C#4@6>4^80 D4@10>3^80
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@32 [D | A]
+  Synth Choir      : D2+A3+D4+F#4@1>4^56 E2+A3+D4+F#4@5>8^56
+  Synth Brass 2    : E4@1>14^80 F#3@2>1^80 A3@3>1^80 F#3@4>1^80 B3@5>2^80 A3@7>2^80
+  Voice Oohs       : F#3@2>1^80 A3@3>1^80 F#3@4>1^56 B3@5>2^80 A3@7>2^80
+  String Ensemble 2: E2+F#4@1>18^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@33 [F#m | E]
+  Synth Choir      : F2+B3+E4@5>3^80
+  Synth Brass 2    : F#3@1>1^80 A3@2>1^80 B3@3>1^80 A3@4>4^104
+  Voice Oohs       : F#3@1>1^56 A3@2>1^56 B3@3>1^80 A3@4>2^80 F#2+G#3+B3+E4@7>2^80
+  String Ensemble 2: F2+G#3+B3+E4@5>3^56
+  Drums            : F#2@1>1^56 C#2+F#2@5>1^80
+@34 [F#m7]
+  Synth Choir      : F#2+G#3+B3+E4@1>2^80 F#2+A3+C#4@3>13^80
+  Synth Brass 2    : A3@4>1^80 F#4@5>2^104 F#4@7>1^80 F#4@8>7^80
+  Voice Oohs       : F#2+G#3+B3+E4@1>2^80 F#2+A3+C#4+E4@3>11^80
+  String Ensemble 2: F#2+A3+C#4+F#4@1>16^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@35 [G] (grid:12t)
+  Synth Brass 2    : C#4@10>1^104 D4@12>1^104
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@36 [Em | Dm]
+  Synth Choir      : E4+G4@1>3^80 D4+F4@4>3^80 C#4@7>1^80 E4@8>1^56
+  Synth Brass 2    : E4@1>3^104 D4@4>3^80 C#4@7>2^80
+  Voice Oohs       : E3+B3+E4+G4@1>3^80 D3+A3+D4+F4@4>4^80 C#3+C#4+E4@7>2^80
+  String Ensemble 2: G3+E4@1>4^56 F3+D4@4>3^56 E3+C#4@7>2^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@37 [Bm7 | Dm] (grid:12t)
+  Synth Choir      : A3+B3+D4@1>10^80
+  Synth Brass 2    : B3@1>1^104 A3@3>8^80
+  Voice Oohs       : B2+A3+B3+D4+F4@1>9^80 E3+E4@10>2^80
+  String Ensemble 2: B2+A3+B3+D4+F4@1>8^56
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+  Lead 3 (calliope): E3@10>3^104
+@38 [A | D]
+  Synth Choir      : A3+C#4+E4@1>3^80 D3+F#3+A3@4>13^80
+  Synth Brass 2    : C#4@8>1^80
+  Voice Oohs       : E3+A3+C#4+E4@1>3^80 D3+F#3+A3@4>12^80
+  String Ensemble 2: A2+A3+C#4+E4@1>24^56 D2+D4+F#4@5>12^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): C#4@1>3^80 A3@4>13^56
+@39 [F#7 | D] (grid:12t)
+  Synth Brass 2    : F#4@1>2^104 E4@4>1^104 C#4@6>3^104 D4@9>4^80
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@40 [D | A] (grid:24t)
+  Synth Choir      : E2+D4+F#4+A4@1>45^56
+  Synth Brass 2    : F#4@1>9^80 E4@10>2^80 C#4@12>2^80 E4@15>26^80
+  Voice Oohs       : E2@1>9^80 E2+A3+B3+C#4@13>11^80 D4@19>6^80
+  String Ensemble 2: E2+A3+D4+F#4@1>24^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@10>1^104 C#2+F#2@13>1^80 C2@19>1^104
+@41 [E | A] (grid:4)
+  Voice Oohs       : E2+A3+B3+E4@1>3^104 C#4@3>1^80
+  Drums            : F#2@1>1^56 C#2+F#2@3>1^80
+@42 [A]
+  Synth Choir      : A3+C#4+E4@5>14^80 G#3+B3@7>4^56
+  Voice Oohs       : A2+A3+C#4+E4@1>16^80
+  String Ensemble 2: A3+C#4+E4@1>16^32
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+D2+F#2@5>1^104 C2@7>1^104
+  Lead 3 (calliope): C#4@5>2^56 B3@7>4^80
+  Fretless Bass    : A1@1>16^80
+@43 [C#aug | A]
+  Synth Choir      : A3+C#4@3>8^56
+  Synth Brass 2    : E4@5>1^80 D4@6>1^80 C#4@7>2^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Lead 3 (calliope): C#4@3>7^80
+@44 [F#m]
+  Synth Choir      : A3+C#4@5>2^80 G#3+B3+E4@7>4^80
+  Synth Brass 2    : B3@1>12^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>16^80
+  String Ensemble 2: F#3@1>1^56 F#3@3>14^32
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): C#4@5>2^80 B3@7>4^80
+  Fretless Bass    : F#1@1>16^80
+@45 [F#m]
+  Synth Choir      : A3+C#4+F#4@3>6^56
+  Synth Brass 2    : C#4@5>1^104 B3@6>1^80 A3@7>1^56
+  Voice Oohs       : G#2@6>1^56 A2@7>2^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Lead 3 (calliope): C#4@3>5^56
+@46 [Bm7 | D] (grid:16)
+  Synth Brass 2    : B3@1>5^80 C#4@7>1^80 B3@8>1^80 A3@9>8^80
+  Voice Oohs       : B2+A3+D4+F#4+A4@1>16^56
+  String Ensemble 2: B2+B3+D4+F#4+A4@1>32^56
+  Drums            : C2+F#2@1>1^104 D#5@7>1^56 C#2+D2+F#2@9>1^104 C2@13>1^104
+  Lead 3 (calliope): B3@9>3^104 C#4@13>4^56
+  Fretless Bass    : B1@1>32^80
+@47 [Bm7] (grid:4)
+  Synth Choir      : B3+D4@1>1^56 C#4+E4@2>1^56 D4+F#4@3>1^104 E4+G#4@4>1^80
+  Synth Brass 2    : B3@1>1^80 C#4@2>1^80 D4@3>1^80 E4@4>1^80
+  Voice Oohs       : D3+A3+D4+F#4@1>11^104 C#3+C#4@2>1^80 A2+B3@3>1^80 F#2+C#4@4>1^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@3>1^80
+  Lead 3 (calliope): D4@1>1^80 E4@2>1^80 F#4@3>1^80 G#4@4>1^56
+@48 [D | A]
+  Synth Choir      : D4+E4+F#4+A4@1>16^80
+  Synth Brass 2    : C#4@5>2^80 C#4@7>1^80 B3@8>1^80
+  Voice Oohs       : E2+A3+B3+D4@1>15^80
+  String Ensemble 2: E2@1>8^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): A4@1>14^80
+  Fretless Bass    : E1@1>15^80
+@49 [A | E]
+  Synth Brass 2    : C#4@1>1^80 B3@2>1^80 A3@3>2^80 B3@5>2^80 C#4@7>1^104
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+@50 [A]
+  Synth Choir      : A3+C#4+E4@5>14^80 G#3+B3@7>4^56
+  Voice Oohs       : A2+A3+C#4+E4@1>16^80
+  String Ensemble 2: A3+C#4+E4@1>32^32
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+D2+F#2@5>1^104 C2@7>1^104
+  Lead 3 (calliope): C#4@5>2^56 B3@7>4^80
+  Fretless Bass    : A1@1>16^80
+@51 [C#aug | A]
+  Synth Choir      : A3+C#4@3>8^56
+  Synth Brass 2    : E4@5>1^80 D4@6>1^80 C#4@7>2^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Lead 3 (calliope): C#4@3>7^80
+@52 [F#m]
+  Synth Choir      : A3+C#4@5>2^80 G#3+B3+E4@7>4^80
+  Synth Brass 2    : B3@1>12^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>16^80
+  String Ensemble 2: F#3@1>1^56 F#3@3>14^32
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): C#4@5>2^80 B3@7>4^80
+  Fretless Bass    : F#1@1>16^80
+@53 [F#m]
+  Synth Choir      : A3+C#4+F#4@3>6^56
+  Synth Brass 2    : C#4@5>1^104 B3@6>1^80 A3@7>1^56
+  Voice Oohs       : G#2@6>1^56 A2@7>2^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Lead 3 (calliope): C#4@3>5^56
+@54 [Bm7 | D] (grid:16)
+  Synth Brass 2    : B3@1>5^80 C#4@7>1^80 B3@8>1^80 A3@9>8^80
+  Voice Oohs       : B2+A3+D4+F#4+A4@1>16^56
+  String Ensemble 2: B2+B3+D4+F#4+A4@1>32^56
+  Drums            : C2+F#2@1>1^104 D#5@7>1^56 C#2+D2+F#2@9>1^104 C2@13>1^104
+  Lead 3 (calliope): B3@9>3^104 C#4@13>4^56
+  Fretless Bass    : B1@1>32^80
+@55 [Bm7] (grid:4)
+  Synth Choir      : B3+D4@1>1^56 C#4+E4@2>1^56 D4+F#4@3>1^104 E4+G#4@4>1^80
+  Synth Brass 2    : B3@1>1^80 C#4@2>1^80 D4@3>1^80 E4@4>1^80
+  Voice Oohs       : D3+A3+D4+F#4@1>11^104 C#3+C#4@2>1^80 A2+B3@3>1^80 F#2+C#4@4>1^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@3>1^80
+  Lead 3 (calliope): D4@1>1^80 E4@2>1^80 F#4@3>1^80 G#4@4>1^56
+@56 [D | A] (grid:12t)
+  Synth Choir      : D4+E4+F#4+A4@1>24^80
+  Voice Oohs       : E2+A3+B3+D4@1>22^80
+  String Ensemble 2: E2@1>8^56
+  Drums            : C2+D#3@1>1^104 B3@4>1^32 B3@7>1^56 D#3@11>1^56
+  Lead 3 (calliope): A4@1>21^80
+  Fretless Bass    : E1@1>23^80
+@57 [A] (grid:12t)
+  Drums            : D#3@3>1^32 D#3@4>1^56 D#3@7>1^56
+@58 [A]
+  Synth Choir      : C#4+E4@1>12^56
+  Synth Brass 2    : A3@7>2^80
+  Voice Oohs       : A2+A3+C#4+E4@1>16^80
+  String Ensemble 2: A3+C#4+E4@1>70^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@59 [C# | A] (grid:12t)
+  Synth Choir      : B3+D4@7>4^56 A3+C#4@10>3^56
+  Synth Brass 2    : C#4@1>4^80 D4@6>4^80 E4@10>3^80
+  Voice Oohs       : G#3+B3+E4@7>3^80 A3+C#4+E4@10>3^56
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@60 [F#m7]
+  Synth Choir      : G#3+B3@1>3^56 G#3+B3@5>2^80 F#3+A3+C#4@7>5^80
+  Synth Brass 2    : A3@1>13^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>11^56
+  String Ensemble 2: F#3@2>14^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@61 [C#7]
+  Synth Choir      : G#3+B3@6>1^56 A3+C#4@7>2^56
+  Voice Oohs       : A3+B3@6>1^56 G#3+C#4@7>2^56
+  Drums            : F#2@1>1^56 C#2+F#2@5>1^80
+@62 [F#m | D7]
+  Synth Choir      : A3+C#4@1>5^56 B3+D4@7>9^56
+  Synth Brass 2    : A3@4>1^56 D4@5>2^80 D4@7>1^80 D4@8>3^104
+  Voice Oohs       : B2+A3+C#4+D4+F#4@1>16^56
+  String Ensemble 2: B2+D4+F#4@1>16^56 A3@2>14^32
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@63 [C# | A] (grid:4)
+  Synth Brass 2    : C#4@2>1^80 A3@3>1^80 C#4@4>1^80
+  Voice Oohs       : A3+B3@3>2^32
+  Drums            : F#2@1>1^56 C#2+F#2@3>1^80
+@64 [Bm7]
+  Synth Choir      : B3+D4+E4@1>14^56
+  Synth Brass 2    : B3@1>12^80
+  Voice Oohs       : E2+A3+B3+D4+F#4+A4@1>14^56 A3@4>1^80 A3@5>2^104 G#3@7>1^56 E3+A3@8>8^56
+  String Ensemble 2: E2+F#3+B3+D4+E4@1>7^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@65 [A] (grid:4)
+  Drums            : F#2@1>1^56 C#2+F#2@3>1^80
+@66 [A]
+  Synth Choir      : C#4+E4@1>12^56
+  Synth Brass 2    : A3@7>2^80
+  Voice Oohs       : A2+A3+C#4+E4@1>16^80
+  String Ensemble 2: A3+C#4+E4@1>23^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@67 [C# | A] (grid:12t)
+  Synth Choir      : B3+D4@7>4^56 A3+C#4@10>3^56
+  Synth Brass 2    : C#4@1>4^80 D4@6>4^80 E4@10>3^80
+  Voice Oohs       : G#3+B3+E4@7>3^80 A3+C#4+E4@10>3^56
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@68 [F#m7]
+  Synth Choir      : G#3+B3@1>3^56 G#3+B3@5>2^80 F#3+A3+C#4@7>5^80
+  Synth Brass 2    : A3@1>13^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>11^56
+  String Ensemble 2: F#3@2>14^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@69 [C#7]
+  Synth Choir      : G#3+B3@6>1^56 A3+C#4@7>2^56
+  Voice Oohs       : A3+B3@6>1^56 G#3+C#4@7>2^56
+  Drums            : F#2@1>1^56 C#2+F#2@5>1^80
+@70 [F#m | D7]
+  Synth Choir      : A3+C#4@1>5^56 B3+D4@7>9^56
+  Synth Brass 2    : D4@5>1^104 D4@7>1^80 D4@8>3^80
+  Voice Oohs       : B2+A3+C#4+D4+F#4@1>16^56
+  String Ensemble 2: B2+D4+F#4@1>16^56 A3@2>14^32
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@71 [F#7 | F#m] (grid:12t)
+  Synth Brass 2    : E4@4>1^104 F#4@6>4^80 C#4@10>3^104
+  Voice Oohs       : A3+B3@7>5^32
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@72 [Bm7]
+  Synth Choir      : B3+D4+E4@1>14^56
+  Synth Brass 2    : E4@1>1^80 C#4@2>1^80 B3@3>10^80
+  Voice Oohs       : E2+A3+B3+D4+F#4+A4@1>14^56 A3@4>1^80 A3@5>2^104 G#3@7>1^56 E3+A3@8>8^56
+  String Ensemble 2: E2+F#3+B3+D4+E4@1>22^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@73 [Fdim] (grid:4)
+  Synth Choir      : B3+E4@3>1^56
+  Voice Oohs       : F2+G#3+B3@3>2^80
+  Drums            : F#2@1>1^56 C#2+F#2@3>1^80
+@74 [A]
+  Synth Choir      : B3+E4@1>15^80 A3+C#4@3>13^56
+  Synth Brass 2    : C#4@4>1^80 F#4@5>1^104 F#4@7>1^104 F#4@8>7^104
+  Voice Oohs       : F#2+G#3+B3+E4@1>2^80 F#2+A3+C#4+E4@3>13^56
+  String Ensemble 2: F#2+A3+C#4+E4@1>8^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+@75 [E | C#dim] (grid:12t)
+  Synth Choir      : E2@1>10^80
+  Synth Brass 2    : C#4@10>1^104 D4@12>1^104
+  Voice Oohs       : E2@1>12^80
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@76 [Em | Dm]
+  Synth Choir      : E4+G4@1>3^80 D4+F4@4>3^80 C#4@7>1^80 E4@8>1^56
+  Synth Brass 2    : E4@1>3^104 D4@4>3^80 C#4@7>2^80
+  Voice Oohs       : E3+B3+E4+G4@1>3^80 D3+A3+D4+F4@4>4^80 C#3+C#4+E4@7>2^80
+  String Ensemble 2: G3+E4@1>4^56 F3+D4@4>3^56 E3+C#4@7>2^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@77 [Bm7 | A] (grid:12t)
+  Synth Choir      : A3+B3+D4@1>10^80
+  Synth Brass 2    : B3@1>1^104 A3@3>8^80
+  Voice Oohs       : B2+A3+B3+D4+F4@1>9^80 E3+E4@10>2^80
+  String Ensemble 2: B2+A3+B3+D4+F4@1>8^56
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+  Lead 3 (calliope): E3@10>3^80
+@78 [A | D]
+  Synth Choir      : A3+C#4+E4@1>3^80 D3+F#3+A3@4>13^80
+  Synth Brass 2    : C#4@4>1^80 F#4@5>2^80 F#4@7>1^104 F#4@8>3^80
+  Voice Oohs       : E3+A3+C#4+E4@1>3^80 D3+F#3+A3@4>12^80
+  String Ensemble 2: A2+A3+C#4+E4@1>41^56 D2+D4+F#4@5>23^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): C#4@1>3^80 A3@4>13^56
+@79 [C#m] (grid:12t)
+  Synth Brass 2    : E4@4>1^80 C#4@6>4^80 D4@10>3^80
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@80 [D | A]
+  Synth Choir      : D2+A3+D4+F#4@1>4^56 E2+A3+D4+F#4@5>8^56
+  Synth Brass 2    : E4@1>14^80 F#3@2>1^80 A3@3>1^80 F#3@4>1^80 B3@5>2^80 A3@7>2^80
+  Voice Oohs       : F#3@2>1^80 A3@3>1^80 F#3@4>1^56 B3@5>2^80 A3@7>2^80
+  String Ensemble 2: E2+F#4@1>18^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@81 [F#m | E]
+  Synth Choir      : F2+B3+E4@5>3^80
+  Synth Brass 2    : F#3@1>1^80 A3@2>1^80 B3@3>1^80 A3@4>4^104
+  Voice Oohs       : F#3@1>1^56 A3@2>1^56 B3@3>1^80 A3@4>2^80 F#2+G#3+B3+E4@7>2^80
+  String Ensemble 2: F2+G#3+B3+E4@5>3^56
+  Drums            : F#2@1>1^56 C#2+F#2@5>1^80
+@82 [F#m7]
+  Synth Choir      : F#2+G#3+B3+E4@1>2^80 F#2+A3+C#4@3>13^80
+  Synth Brass 2    : A3@4>1^80 F#4@5>2^104 F#4@7>1^80 F#4@8>7^80
+  Voice Oohs       : F#2+G#3+B3+E4@1>2^80 F#2+A3+C#4+E4@3>11^80
+  String Ensemble 2: F#2+A3+C#4+F#4@1>16^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^80 C#2+F#2@5>1^80 C2@7>1^104
+@83 [G] (grid:12t)
+  Synth Brass 2    : C#4@10>1^104 D4@12>1^104
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+@84 [Em | Dm]
+  Synth Choir      : E4+G4@1>3^80 D4+F4@4>3^80 C#4@7>1^80 E4@8>1^56
+  Synth Brass 2    : E4@1>3^104 D4@4>3^80 C#4@7>2^80
+  Voice Oohs       : E3+B3+E4+G4@1>3^80 D3+A3+D4+F4@4>4^80 C#3+C#4+E4@7>2^80
+  String Ensemble 2: G3+E4@1>4^56 F3+D4@4>3^56 E3+C#4@7>2^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@85 [Bm7 | Dm] (grid:12t)
+  Synth Choir      : A3+B3+D4@1>10^80
+  Synth Brass 2    : B3@1>1^104 A3@3>8^80
+  Voice Oohs       : B2+A3+B3+D4+F4@1>9^80 E3+E4@10>2^80
+  String Ensemble 2: B2+A3+B3+D4+F4@1>8^56
+  Drums            : F#2@1>1^56 C#2+F#2@7>1^80
+  Lead 3 (calliope): E3@10>3^56
+@86 [A | D]
+  Synth Choir      : A3+C#4+E4@1>3^80 D3+F#3+A3@4>13^80
+  Synth Brass 2    : F#4@7>1^104 E4@8>1^80
+  Voice Oohs       : E3+A3+C#4+E4@1>3^80 D3+F#3+A3@4>12^80
+  String Ensemble 2: A2+A3+C#4+E4@1>24^56 D2+D4+F#4@5>12^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): C#4@1>3^80 A3@4>13^56
+@87 [E | D]
+  Synth Brass 2    : F#4@1>1^104 E4@2>1^80 F#4@3>1^80 E4@4>1^80 F#4@5>2^80 E4@7>1^80 E4@8>2^80
+  Drums            : F#2@1>1^56 C#2+F#2@5>1^80
+@88 [D]
+  Synth Choir      : E2+D4+F#4+A4@1>15^56
+  Synth Brass 2    : F#4@2>1^104
+  Voice Oohs       : E2@1>3^80 E2+A3+B3+C#4@5>4^80 D4@7>2^80
+  String Ensemble 2: E2+A3+D4+F#4@1>16^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+F#2@5>1^80 C2@7>1^104
+@89 [A]
+  Synth Brass 2    : F#4@1>1^104 E4@2>1^80 D4@3>1^80 C#4@4>2^104 B3@6>1^80 A3@7>2^80
+  Voice Oohs       : E2+A3+B3+E4@1>7^104 C#4@5>3^80
+  Drums            : F#2@1>1^56 C#2+F#2@5>1^80
+@90 [A] (grid:16)
+  Synth Choir      : A3+C#4+E4@9>27^80 G#3+B3@13>8^56
+  Synth Brass 2    : B3@1>2^80 C#4@3>1^80 B3@4>1^56 A3@5>13^80
+  Voice Oohs       : A2+A3+C#4+E4@1>32^80
+  String Ensemble 2: A3+C#4+E4@1>32^32
+  Drums            : C2+F#2@1>1^104 D#5@7>1^56 C#2+D2+F#2@9>1^80 C2@13>1^104
+  Lead 3 (calliope): C#4@9>4^56 B3@13>7^80
+  Fretless Bass    : A1@1>32^80
+@91 [C#aug | A]
+  Synth Choir      : A3+C#4@3>8^56
+  Synth Brass 2    : E4@5>1^80 D4@6>1^80 C#4@7>2^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Lead 3 (calliope): C#4@3>7^80
+@92 [F#m]
+  Synth Choir      : A3+C#4@5>2^80 G#3+B3+E4@7>4^80
+  Synth Brass 2    : B3@1>12^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>16^80
+  String Ensemble 2: F#3@1>1^56 F#3@3>14^32
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): C#4@5>2^80 B3@7>4^80
+  Fretless Bass    : F#1@1>16^80
+@93 [F#m]
+  Synth Choir      : A3+C#4+F#4@3>6^56
+  Synth Brass 2    : C#4@5>1^104 B3@6>1^80 A3@7>1^56
+  Voice Oohs       : G#2@6>1^56 A2@7>2^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Lead 3 (calliope): C#4@3>5^56
+@94 [Bm7 | D] (grid:16)
+  Synth Brass 2    : B3@1>5^80 C#4@7>1^80 B3@8>1^80 A3@9>8^80
+  Voice Oohs       : B2+A3+D4+F#4+A4@1>16^56
+  String Ensemble 2: B2+B3+D4+F#4+A4@1>32^56
+  Drums            : C2+F#2@1>1^104 D#5@7>1^56 C#2+D2+F#2@9>1^104 C2@13>1^104
+  Lead 3 (calliope): B3@9>3^104 C#4@13>4^56
+  Fretless Bass    : B1@1>32^80
+@95 [Bm7] (grid:4)
+  Synth Choir      : B3+D4@1>1^56 C#4+E4@2>1^56 D4+F#4@3>1^104 E4+G#4@4>1^80
+  Synth Brass 2    : B3@1>1^80 C#4@2>1^80 D4@3>1^80 E4@4>1^80
+  Voice Oohs       : D3+A3+D4+F#4@1>11^104 C#3+C#4@2>1^80 A2+B3@3>1^80 F#2+C#4@4>1^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@3>1^80
+  Lead 3 (calliope): D4@1>1^80 E4@2>1^80 F#4@3>1^80 G#4@4>1^56
+@96 [D | A]
+  Synth Choir      : D4+E4+F#4+A4@1>16^80
+  Synth Brass 2    : C#4@5>2^80 C#4@7>1^80 B3@8>1^80
+  Voice Oohs       : E2+A3+B3+D4@1>15^80
+  String Ensemble 2: E2@1>8^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): A4@1>14^80
+  Fretless Bass    : E1@1>15^80
+@97 [A | E]
+  Synth Brass 2    : C#4@1>1^80 B3@2>1^80 A3@3>2^80 B3@5>2^80 C#4@7>1^104
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+@98 [A]
+  Synth Choir      : A3+C#4+E4@5>14^80 G#3+B3@7>4^56
+  Voice Oohs       : A2+A3+C#4+E4@1>16^80
+  String Ensemble 2: A3+C#4+E4@1>32^32
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+D2+F#2@5>1^104 C2@7>1^104
+  Lead 3 (calliope): C#4@5>2^56 B3@7>4^80
+  Fretless Bass    : A1@1>16^80
+@99 [C#aug | A]
+  Synth Choir      : A3+C#4@3>8^56
+  Synth Brass 2    : E4@5>1^80 D4@6>1^80 C#4@7>2^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Lead 3 (calliope): C#4@3>7^80
+@100 [F#m]
+  Synth Choir      : A3+C#4@5>2^80 G#3+B3+E4@7>4^80
+  Synth Brass 2    : B3@1>12^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>16^80
+  String Ensemble 2: F#3@1>1^56 F#3@3>14^32
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): C#4@5>2^80 B3@7>4^80
+  Fretless Bass    : F#1@1>16^80
+@101 [F#m]
+  Synth Choir      : A3+C#4+F#4@3>6^56
+  Synth Brass 2    : C#4@5>1^104 B3@6>1^80 A3@7>1^56
+  Voice Oohs       : G#2@6>1^56 A2@7>2^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Lead 3 (calliope): C#4@3>5^56
+@102 [Bm7 | D] (grid:16)
+  Synth Brass 2    : B3@1>5^80 C#4@7>1^80 B3@8>1^80 A3@9>8^80
+  Voice Oohs       : B2+A3+D4+F#4+A4@1>16^56
+  String Ensemble 2: B2+B3+D4+F#4+A4@1>32^56
+  Drums            : C2+F#2@1>1^104 D#5@7>1^56 C#2+D2+F#2@9>1^104 C2@13>1^104
+  Lead 3 (calliope): B3@9>3^104 C#4@13>4^56
+  Fretless Bass    : B1@1>32^80
+@103 [Bm7] (grid:4)
+  Synth Choir      : B3+D4@1>1^56 C#4+E4@2>1^56 D4+F#4@3>1^104 E4+G#4@4>1^80
+  Synth Brass 2    : B3@1>1^80 C#4@2>1^80 D4@3>1^80 E4@4>1^80
+  Voice Oohs       : D3+A3+D4+F#4@1>4^104 C#3+C#4@2>1^80 A2+B3@3>1^80 F#2+C#4@4>1^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@3>1^80
+  Lead 3 (calliope): D4@1>1^80 E4@2>1^80 F#4@3>1^80 G#4@4>1^56
+@104 [D]
+  Synth Choir      : D4+E4+F#4+A4@1>16^80
+  Voice Oohs       : E2+A3+B3+D4+F#4@1>7^56 A3+C#4@8>1^80
+  String Ensemble 2: E2@1>8^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): A4@1>14^80
+  Fretless Bass    : E1@1>15^80
+@105 [C#aug | Bm] (grid:4)
+  Voice Oohs       : A3+C#4@1>1^80 A3+C#4@2>1^80 B3+D4@3>1^104 C#4+E4@4>1^104
+  Drums            : F#2@1>1^56 C#2+D2+F#2@3>1^80
+@106 [D]
+  Synth Choir      : C#2+A3+D4+F#4@1>19^56
+  Synth Brass 2    : F#4@5>1^80 F#4@7>1^80 F#4@8>6^80
+  Voice Oohs       : D2+A3+D4+F#4@1>16^80
+  String Ensemble 2: D2+A3+D4@1>8^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+D2+F#2@5>1^104 C2@7>1^104
+@107 [A | Bm] (grid:12t)
+  Synth Brass 2    : F#4@10>3^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@7>1^80
+  Lead 3 (calliope): A3@1>3^56 B3@4>2^80 C#4@6>4^80 D4@10>3^56
+@108 [A | C#m7]
+  Synth Choir      : C#2+B3+E4@1>16^56 G#3+B3@5>4^56
+  Synth Brass 2    : E4@1>1^80 E4@3>2^104 D4@5>2^80 C#4@7>1^80 B3@8>2^80
+  Voice Oohs       : C#2+A3+B3+E4@1>4^56 C#2+G#3+B3+E4@5>4^80
+  String Ensemble 2: C#2+B3+E4@1>12^80
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): A3+C#4@1>2^56 A3+C#4@3>2^56 B3+D4@5>2^56 A3+C#4@7>2^80
+@109 [F#m] (grid:12t)
+  Synth Choir      : F#2+A3+C#4@1>12^56
+  Synth Brass 2    : A3@3>9^80
+  Voice Oohs       : F#2+A3+C#4+E4@1>12^80
+  String Ensemble 2: F#2+A3+C#4@1>8^56
+  Drums            : F#2@1>1^56 C#2+D2+F#2@7>1^80
+  Lead 3 (calliope): G#3+B3@1>2^56 F#3+A3@3>8^56 B3+D4@7>2^80 C#4+E4@10>1^56 A3+D4+F#4@12>7^80
+@110 [D]
+  Synth Choir      : D2+D4+F#4@1>16^56
+  Synth Brass 2    : F#4@5>2^80 F#4@7>1^80 F#4@8>2^80
+  Voice Oohs       : D2+A3+D4+F#4@1>11^56
+  String Ensemble 2: D2+A3+D4+F#4@1>24^80
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+D2+F#2@5>1^104 C2@7>1^104
+  Lead 3 (calliope): A3+D4+F#4@5>2^80 B3+D4+F#4@7>1^80 C#4+D4+F#4@8>2^80
+@111 [D7] (grid:12t)
+  Synth Brass 2    : D4@3>4^80 E4@7>3^80 F#4@10>3^80
+  Voice Oohs       : D2@1>7^56 A3@4>2^32 A3+D4+F#4@7>4^56 D2@10>3^56
+  Drums            : F#2@1>1^56 C#2+D2+F#2@7>1^80
+  Lead 3 (calliope): A3+B3+D4@3>4^56 B3+C#4+E4@7>3^80 C#4+D4+F#4@10>3^80
+@112 [C#m7]
+  Synth Choir      : C#2+B3+E4@1>8^80 A3+C#4@4>3^56 B3+E4@7>2^56
+  Synth Brass 2    : E4+G#4@1>3^80 E4+F#4@4>5^104 G#4@6>3^80
+  Voice Oohs       : C#2+G#3+B3+E4@1>8^80 A3+C#4+E4@4>5^80 G#3+B3@6>3^80
+  String Ensemble 2: C#2+A3+C#4+E4@1>12^56 G#3+B3+E4@4>3^56 A3+C#4+E4@7>2^80
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+  Lead 3 (calliope): B3+E4+G#4@1>7^56 A3+C#4+F#4@4>2^80 B3+G#4@6>3^80
+@113 [F#m] (grid:4)
+  Synth Choir      : F#3+A3@1>3^80
+  Synth Brass 2    : F#4+A4@1>3^80
+  Voice Oohs       : F#2+A3+C#4+F#4+A4@1>4^56 D2+B3+E4+G#4@4>1^80
+  String Ensemble 2: F#2+A3+C#4+F#4@1>8^56
+  Drums            : F#2@1>1^56 C#2+D2+F#2@3>1^80
+  Lead 3 (calliope): C#4+A4@1>3^56
+@114 [E7 | D]
+  Synth Choir      : D2+E4+G#4@1>5^56 D2+D4+F#4@7>8^80
+  Synth Brass 2    : A3@3>1^80 A3@4>1^104 F#4@5>1^104 F#4@7>1^104 F#4@8>2^104
+  Voice Oohs       : D2+B3+E4+G#4@1>6^80 D2+A3+D4+F#4@7>9^80
+  String Ensemble 2: D2+B3+E4+G#4@1>8^56 A3+D4+F#4@7>10^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+D2+F#2@5>1^104 C2@7>1^104
+@115 [C#m]
+  Synth Brass 2    : E4@2>1^80 C#4@3>3^80 C#4@7>1^80 D4@8>1^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+@116 [C#m | E7]
+  Synth Choir      : E4+G#4@1>3^56 C#4+F#4@4>3^56 E4+G#4@7>2^80
+  Synth Brass 2    : E4@1>2^104 D4@3>1^80 C#4@4>1^80 B3@6>1^80 A3@7>2^80
+  Voice Oohs       : C#2+B3+E4+G#4@1>3^80 D2+A3+C#4+D4+F#4@4>3^104 E2+B3+E4+G#4@7>2^80
+  String Ensemble 2: C#2+B3+E4+G#4@1>3^56 D2+A3+D4+F#4@4>3^56 E2+B3+E4+G#4@7>2^80
+  Drums            : C2+F#2@1>1^104 C2+D#5@4>1^104 C#2+D2+F#2@5>1^80 C2@7>1^104
+@117 [F#m]
+  Synth Choir      : F#4+A4@1>6^56
+  Synth Brass 2    : A3@6>1^104 A3@7>1^104 A3@8>1^104
+  Voice Oohs       : F#2+C#4+F#4+A4@1>7^80
+  String Ensemble 2: F#2+A3+C#4+F#4@1>8^56
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+@118 [Bm7]
+  Synth Choir      : B2+A3+D4+F#4@1>8^80
+  Synth Brass 2    : F#4@1>1^80 E4@3>1^104 C#4@4>1^80 E4@5>4^104
+  Voice Oohs       : F#3+F#4@5>2^104 E3+E4@7>5^80
+  String Ensemble 2: B2+A3+D4+F#4@1>8^56
+  Drums            : C2+F#2@1>1^104 D#5@4>1^56 C#2+D2+F#2@5>1^104 C2@7>1^104
+  Fretless Bass    : B1@1>8^104
+  Choir Aahs       : F#3+F#4@5>2^80 E3+E4@7>6^56
+@119 [C#m7]
+  Synth Choir      : C#3+B3+E4+G#4@1>8^80
+  Synth Brass 2    : F#4@1>1^80 E4@3>1^80 C#4@4>1^80 E4@5>4^80
+  Voice Oohs       : F#3+F#4@5>2^104 E3+E4@7>3^80
+  String Ensemble 2: C#3+B3+E4+G#4@1>8^56
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Fretless Bass    : C#2@1>8^80
+  Choir Aahs       : F#3+F#4@5>2^56 E3+E4@7>6^56
+@120 [D] (grid:24t)
+  Synth Choir      : D3+D4+F#4+A4@1>48^56
+  Synth Brass 2    : F#4@1>1^80 E4@5>4^80 C#4@9>3^80 E4@12>12^80
+  Voice Oohs       : F#3+F#4@13>6^80 E3+E4@19>17^80
+  String Ensemble 2: D3+D4+F#4+A4@1>8^32 F#4@16>8^32
+  Drums            : C2+F#2@1>1^104 C2+D#5@10>1^104 C#2+D2+F#2@13>1^80 C2@19>1^104
+  Fretless Bass    : D2@1>24^80
+  Choir Aahs       : F#3+F#4@13>5^56 E3+E4@19>18^56
+@121 [C#m | A]
+  Synth Choir      : E2+E4+F#4@1>8^56
+  Synth Brass 2    : F#4@1>3^104 E4@4>1^80 C#4@5>1^104 B3@6>1^104 A3@7>1^104
+  Voice Oohs       : F#3+F#4@5>2^80 E3+E4@7>2^80
+  String Ensemble 2: E2+D4+E4+F#4+A4@1>24^56 E3@3>6^56
+  Drums            : F#2@1>1^56 C#2+D2+F#2@5>1^80
+  Fretless Bass    : E1@1>8^80
+  Choir Aahs       : F#3+F#4@5>2^80 E3+E4@7>2^80
+@122 [Bm7] (grid:64)
+  Synth Choir      : B2+A3+D4+F#4@1>64^80
+  Synth Brass 2    : F#4@1>10^104 E4@13>9^104 C#4@24>7^104 E4@33>31^104
+  Voice Oohs       : F#3@33>10^80 F#4@34>11^80 E3+E4@45>11^80 C#3+C#4@56>8^80
+  String Ensemble 2: B2+A3+D4+F#4@1>8^56
+  Drums            : C2+F#2@1>1^104 D#5@25>1^56 C#2+D2+F#2@33>1^80 C2@49>1^104
+  Fretless Bass    : B1@1>64^80
+  Choir Aahs       : F#3@33>10^80 F#4@34>11^80 E3+E4@45>11^80 C#3+C#4@56>8^80
+@123 [C#m] (grid:64)
+  Synth Choir      : C#3+B3+E4+G#4@1>64^56
+  Synth Brass 2    : F#4@1>13^104 E4@15>11^104 C#4@26>8^104 E4@34>30^104
+  Voice Oohs       : E4@1>33^80 E3@2>33^56 F#3+F#4@35>11^80 E3+E4@46>12^104 C#3@57>8^56 C#4@58>7^80
+  String Ensemble 2: C#3+B3+E4+G#4@1>64^56
+  Drums            : F#2@1>1^56 C#2+D2+F#2@33>1^80
+  Fretless Bass    : C#2@1>63^80
+  Choir Aahs       : E3+E4@2>33^80 F#3+F#4@35>11^80 E4@46>12^104 E3@47>10^80 C#3+C#4@58>8^80
+@124 [D] (grid:16)
+  Synth Choir      : E2+A3+D4+F#4@1>29^80
+  Synth Brass 2    : F#4@1>2^104 F#4@4>2^104 F#4@7>1^104 F#4@9>4^104 E4@14>1^80 D4@15>1^104
+  Voice Oohs       : F#3+B3+F#4+A4@1>28^56
+  String Ensemble 2: E2+A3+B3+D4+F#4+A4@1>101^56
+  Drums            : C2+F#2@1>1^104 C2+D#5@7>1^104 C#2+D2+F#2@9>1^80 C2@13>1^104
+  Fretless Bass    : E1@1>31^104
+  Choir Aahs       : B3+F#4+A4@1>28^56
+@125 [D#] (grid:4)
+  Synth Brass 2    : E4@1>16^80
+  Drums            : F#2@1>1^56 C#2+D2+F#2@3>1^80
+@126 [D# | Cm] (grid:64)
+  Synth Choir      : D#2+A#3+D#4+G4@1>128^80 F2+C4@50>74^56 F4@63>64^32
+  Synth Brass 2    : G4@1>9^104 G4@14>7^80 G4@24>6^104 G4@33>13^104 F4@49>72^80
+  Voice Oohs       : D#2+A#3+D#4+G4@1>10^104 D#2+A#3+D#4+G4@13>9^104 D#2+A#3+D#4+G4@24>6^80 D#2+G4@33>15^80 A#3+D#4@34>10^80 F2@48>42^104 A3+D#4+F4@49>79^56 C4@50>78^56
+  String Ensemble 2: D#2+A#3+D#4+G4@1>8^56 F2+C4+F4@49>78^56
+  Drums            : C2+F#2@1>1^104 D#5@25>1^80 C#2+D2+F#2@33>1^80 C2@49>1^104
+@127 [F | A#]
+  Voice Oohs       : F2@5>1^104 G2@6>1^56 A#2@7>1^56 C3@8>1^80
+  Drums            : D#3@1>1^56
+@128 [A#]
+  Synth Choir      : A#3+D4+F4@5>14^80 A3+C4@7>4^56
+  Voice Oohs       : A#2+A#3+D4+F4@1>16^80
+  String Ensemble 2: A#3+D4+F4@1>32^32
+  Drums            : B3@1>1^56 D#3@4>1^56 D#3+D#5@5>1^80 B3@7>1^56
+@129 [A# | Gm]
+  Synth Choir      : A#3+D4@3>8^56
+  Synth Brass 2    : D4@5>1^80 D4@7>3^80
+  Drums            : B3@3>1^56 D#5@5>1^56 D#3@6>1^32 D#3@7>1^56
+@130 [Gm7] (grid:24t)
+  Synth Choir      : A#3+D4@13>7^80 A3+C4+F4@19>12^80
+  Synth Brass 2    : C4@3>3^80 A#3@7>19^56
+  Voice Oohs       : G2+A#3+D4+F4@1>48^80
+  String Ensemble 2: G3@1>1^56 G3@7>41^32
+  Drums            : A#2+D#3@1>1^56 D#3@10>1^32 B3+D#5@13>1^56 B3@19>1^56
+@131 [Gm]
+  Synth Choir      : A#3+D4+G4@3>6^56
+  Synth Brass 2    : D4@5>1^104 D4@7>3^80
+  Voice Oohs       : A2@6>1^56 A#2@7>2^80
+  Drums            : D#3@3>1^56 D#3+D#5@5>1^80 B3@8>1^56
+@132 [A# | D#] (grid:24t)
+  Synth Brass 2    : C4@4>2^80 A#3@9>3^80
+  Voice Oohs       : D#3+A#3+D#4+G4@13>2^104 D#3+A#3+D#4+G4@16>4^80 D#3+A#3+D#4+G4@22>9^80
+  String Ensemble 2: C3+C4+D#4+G4+A#4@1>32^56
+  Drums            : B3@1>1^56 D#3+D#5@13>1^56 D#3@22>1^32
+@133 [Dm | Cm]
+  Synth Choir      : C4+D#4@1>2^56 D4+F4@3>2^56 D#4+G4@5>2^104 F4+A4@7>2^80
+  Synth Brass 2    : C4@1>2^80 D4@3>2^80 D#4@5>2^80 F4@7>2^80
+  Voice Oohs       : D3+A3+D4+F4@3>2^80 D#3+G3+C4+D#4@5>2^80 F3+A3+D4+F4@7>2^80
+  Drums            : D#3@1>1^56 D#3@3>1^32 A#2@4>1^56 D#3+D#5@5>1^80 B3@7>1^56
+@134 [D#]
+  Synth Choir      : D#4+F4+G4+A#4@1>16^80
+  Synth Brass 2    : D4@2>1^80 D4@3>1^80 D4@4>1^80 F4@5>2^80 D4@7>1^80 D4@8>2^80
+  Voice Oohs       : F2+A#3+C4+D#4@1>15^80
+  String Ensemble 2: F2@1>16^56
+  Drums            : B3@1>1^56 D#3+D#5@5>1^80 D#3@8>1^56
+@135 [D# | A#] (grid:24t)
+  Synth Brass 2    : D#4@3>9^80 D4@13>2^80 C4@16>3^80 A#3@19>5^56
+  Drums            : D#3@1>1^56 D#3@7>1^32 A#2@10>1^56 D#3+D#5@13>1^56 A#2@16>1^32 D#3@19>1^56
+@136 [A#]
+  Synth Choir      : A#3+D4+F4@5>14^80 A3+C4@7>4^56
+  Voice Oohs       : A#2+A#3+D4+F4@1>16^80
+  String Ensemble 2: A#3+D4+F4@1>96^32
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 F#2+D#5@4>1^80 C#2+D2+F#2@5>1^80 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): D4@5>2^56 C4@7>4^80
+  Fretless Bass    : A#1@1>16^80
+@137 [Daug | A#]
+  Synth Choir      : A#3+D4@3>8^56
+  Synth Brass 2    : F4@5>4^80
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): D4@3>7^80
+@138 [Gm]
+  Synth Choir      : A#3+D4@5>2^80 A3+C4+F4@7>4^80
+  Synth Brass 2    : D4@1>1^104 C4@2>1^80 A#3@3>8^80
+  Voice Oohs       : G2+A#3+D4+F4@1>16^80
+  String Ensemble 2: G3@1>1^56 G3@3>14^32
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 C2+F#2+D#5@4>1^104 C#2+D2+F#2@5>1^80 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): D4@5>2^80 C4@7>4^80
+  Fretless Bass    : G1@1>16^80
+@139 [Gm | A#]
+  Synth Choir      : A#3+D4+G4@3>6^56
+  Synth Brass 2    : F4@5>4^104
+  Voice Oohs       : A2@6>1^56 A#2@7>2^80
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): D4@3>5^56
+@140 [C | Cm7]
+  Synth Brass 2    : D4@1>1^104 C4@2>1^80 A#3@3>5^56
+  Voice Oohs       : G3@4>1^104 D#3+A#3+C4+D#4+G4@5>1^104 D#3+A#3+C4+D#4+G4@6>1^80 D#3+A#3+C4+D#4+G4@8>3^80
+  String Ensemble 2: C3+C4+D#4+G4+A#4@1>32^56
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 F#2+D#5@4>1^56 C#2+D2+F#2@5>1^104 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): D#4+G4@5>1^56 D#4+G4@6>1^56 D#4+G4@8>3^56
+  Fretless Bass    : C2@1>16^80
+@141 [Dm | Cm]
+  Synth Choir      : C4+D#4@1>2^56 D4+F4@3>2^56 D#4+G4@5>2^104 F4+A4@7>2^80
+  Synth Brass 2    : C4@1>2^80 D4@3>2^80 D#4@5>2^80 F4@7>2^80
+  Voice Oohs       : D3+D4+F4@3>2^80 D#3+C4+D#4@5>2^80 F3+D4+F4@7>2^104
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): D4+F4@3>2^80 C4+D#4@5>2^56 D4+F4@7>2^56
+@142 [D# | Cm7] (grid:24t)
+  Synth Choir      : D#4+F4+G4+A#4@1>48^80
+  Synth Brass 2    : D4@13>5^80 D4@19>2^80 C4@22>2^80
+  Voice Oohs       : F2+A#3+C4+D#4@1>44^80
+  String Ensemble 2: F2@1>16^56
+  Drums            : C2+F#2@1>1^104 F#2@4>1^32 F#2@7>1^32 C2+F#2+D#5@10>1^104 C#2+D2+F#2@13>1^80 F#2@16>1^32 C2+F#2@19>1^104 F#2@22>1^32
+  Lead 3 (calliope): F4@1>3^80 D4@3>2^56 C4+D#4@6>24^56
+  Fretless Bass    : F1@1>46^80
+@143 [A# | F]
+  Synth Brass 2    : D4@1>1^80 C4@2>1^80 A#3@3>2^80 C4@5>2^80 D4@7>1^104
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+@144 [A#]
+  Synth Choir      : A#3+D4+F4@5>14^80 A3+C4@7>4^56
+  Voice Oohs       : A#2+A#3+D4+F4@1>16^80
+  String Ensemble 2: A#3+D4+F4@1>32^32
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 F#2+D#5@4>1^56 C#2+D2+F#2@5>1^104 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): D4@5>2^56 C4@7>4^80
+  Fretless Bass    : A#1@1>16^80
+@145 [Daug | A#]
+  Synth Choir      : A#3+D4@3>8^56
+  Synth Brass 2    : A#3@3>2^80 F4@5>2^80 D4@7>3^104
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): D4@3>7^80
+@146 [Gm]
+  Synth Choir      : A#3+D4@5>2^80 A3+C4+F4@7>4^80
+  Synth Brass 2    : C4@2>1^104 A#3@3>7^80
+  Voice Oohs       : G2+A#3+D4+F4@1>16^80
+  String Ensemble 2: G3@1>1^56 G3@3>14^32
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 C2+F#2+D#5@4>1^104 C#2+D2+F#2@5>1^80 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): D4@5>2^80 C4@7>4^80
+  Fretless Bass    : G1@1>16^80
+@147 [Gm]
+  Synth Choir      : A#3+D4+G4@3>6^56
+  Synth Brass 2    : D4@5>3^104 C4@8>1^80
+  Voice Oohs       : A2@6>1^56 A#2@7>2^80
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): D4@3>5^56
+@148 [C | Cm]
+  Synth Choir      : D#4@5>1^80 D4@6>1^56 C4@8>3^80
+  Synth Brass 2    : C4@1>7^104
+  Voice Oohs       : G3+A#3@4>1^80 D#4+G4@5>1^104 D4+F4@6>1^80 C4+D#4@8>3^104
+  String Ensemble 2: C3+C4+D#4+G4+A#4@1>32^56
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 F#2+D#5@4>1^56 C#2+D2+F#2@5>1^104 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): G4@5>1^104 F4@6>1^80 D#4@8>3^80
+  Fretless Bass    : C2@1>16^80
+@149 [A# | D#7]
+  Synth Choir      : D4@3>1^80 D#4@4>1^80 F4@6>1^104 G4@8>17^80
+  Voice Oohs       : A#3+D4@3>1^104 C4+D#4@4>1^104 D4+F4@6>1^104 D#4+G4@8>17^80
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): F4@3>1^80 G4@4>1^56 A4@6>1^80 A#4@8>17^56
+@150 [F]
+  Synth Brass 2    : C4@4>1^80 G4@5>1^104 G4@6>1^80 F4@7>1^104 F4@8>1^80
+  String Ensemble 2: F2@1>16^56
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 C2+F#2+D#5@4>1^104 C#2+D2+F#2@5>1^80 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Fretless Bass    : F1@1>15^80
+@151 [Cm | A#]
+  Synth Brass 2    : D#4@1>1^80 D4@3>1^80 C4@4>2^104 A#3@6>1^80
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+@152 [A#]
+  Synth Choir      : A#3+D4+F4@5>14^80 A3+C4@7>4^56
+  Voice Oohs       : A#2+A#3+D4+F4@1>16^80
+  String Ensemble 2: A#3+D4+F4@1>32^32
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 F#2+D#5@4>1^56 C#2+D2+F#2@5>1^80 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): D4@5>2^56 C4@7>4^80
+  Fretless Bass    : A#1@1>16^80
+@153 [Daug | A#]
+  Synth Choir      : A#3+D4@3>8^56
+  Synth Brass 2    : G4@5>1^104 F4@7>4^104
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): D4@3>7^80
+@154 [Gm]
+  Synth Choir      : A#3+D4@5>2^80 A3+C4+F4@7>4^80
+  Synth Brass 2    : G4@3>1^104
+  Voice Oohs       : G2+A#3+D4+F4@1>16^80
+  String Ensemble 2: G3@1>1^56 G3@3>14^32
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 C2+F#2+D#5@4>1^104 C#2+D2+F#2@5>1^80 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): D4@5>2^80 C4@7>4^80
+  Fretless Bass    : G1@1>16^80
+@155 [Gm]
+  Synth Choir      : A#3+D4+G4@3>6^56
+  Synth Brass 2    : G4@5>3^104 F4@8>1^104
+  Voice Oohs       : A2@6>1^56 A#2@7>2^80
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): D4@3>5^56
+@156 [F | Cm]
+  Synth Choir      : D#4@5>1^80 D4@6>1^56 C4@8>3^80
+  Synth Brass 2    : F4@1>2^104 G4@3>1^104
+  Voice Oohs       : G3+A#3@4>1^80 D#4+G4@5>1^104 D4+F4@6>1^80 C4+D#4@8>3^104
+  String Ensemble 2: C3+C4+D#4+G4+A#4@1>24^56
+  Drums            : C2+F#2@1>1^104 F#2@2>1^32 F#2@3>1^32 F#2+D#5@4>1^56 C#2+D2+F#2@5>1^104 F#2@6>1^32 C2+F#2@7>1^104 F#2@8>1^32
+  Lead 3 (calliope): G4@5>1^104 F4@6>1^80 D#4@8>3^80
+  Fretless Bass    : C2@1>16^80
+@157 [A# | D#7]
+  Synth Choir      : D4@3>1^80 D#4@4>1^80 F4@6>1^104 G4@8>17^80
+  Voice Oohs       : A#3+D4@3>1^104 C4+D#4@4>1^104 D4+F4@6>1^104 D#4+G4@8>17^80
+  Drums            : F#2@1>1^32 F#2@2>1^32 F#2@3>1^32 F#2@4>1^32 C#2+D2+F#2@5>1^80 F#2@6>1^32 F#2@7>1^32 F#2@8>1^32
+  Lead 3 (calliope): F4@3>1^80 G4@4>1^56 A4@6>1^80 A#4@8>17^56
+@158 [F] (grid:4)
+  String Ensemble 2: F2+D#4+G4@1>16^56
+  Drums            : C2+D#3@1>1^104
+  Fretless Bass    : F1@1>8^104
+@159 [-]
+@160 [-]

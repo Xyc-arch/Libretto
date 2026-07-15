@@ -72,6 +72,33 @@ TEMPO_WORDS = {"largo": 50, "very slow": 50, "adagio": 66, "slow": 66, "andante"
                "moderato": 100, "moderate": 100, "allegro": 138, "fast": 138, "vivace": 156, "lively": 156,
                "presto": 176, "very fast": 176}
 
+# Tempo + meter VARIETY: a drill batch should cover the MAJOR speed range (not one fixed tempo) and varied
+# time signatures (not only 4/4). Cycled by the spec's `variant`, so successive drills (variant 0,1,2,…) walk
+# the ladder — a batch of N drills spans slow→fast and several meters. Each level's window stays
+# level-appropriate (beginners never land on presto/12-8; advanced never sits at largo/2-4).
+TEMPO_LADDER = {
+    "beginner":     ["adagio", "andante", "moderato", "allegro"],
+    "intermediate": ["andante", "moderato", "allegro", "vivace"],
+    "advanced":     ["moderato", "allegro", "vivace", "presto"],
+}
+METER_LADDER = {
+    "beginner":     ["4/4", "3/4", "2/4"],
+    "intermediate": ["4/4", "3/4", "6/8", "2/4"],
+    "advanced":     ["4/4", "3/4", "6/8", "12/8"],
+}
+
+
+def tempo_for_variant(level, variant=0):
+    """A level-appropriate tempo word, cycled by variant so a batch covers the major speed range."""
+    lad = TEMPO_LADDER.get(level, TEMPO_LADDER["beginner"])
+    return lad[int(variant) % len(lad)]
+
+
+def meter_for_variant(level, variant=0):
+    """A level-appropriate time signature, cycled by variant so a batch is not all 4/4."""
+    lad = METER_LADDER.get(level, METER_LADDER["beginner"])
+    return lad[int(variant) % len(lad)]
+
 
 def autoscale(level, dimensions=None, n=3, offset=0):
     """Deterministically pick `n` kb_theory concept IDs for a level, rotating across `dimensions`."""

@@ -31,7 +31,11 @@ from typing import Callable
 
 from libretto.core.understanding_probe import parse_pitch_midi, _midi_name
 
-_TOKEN_RE = re.compile(r"^(.+)@(\d+)>(\d+)$")
+# match Pitch@slot>dur with an OPTIONAL ^velocity suffix — the current (enriched) grammar carries velocity
+# (e.g. A3+C4@1>4^80); without this the token fails to parse, tokens() returns empty, and edit_tokens
+# DROPS the whole voice line -> the grammar collapses. Velocity is not captured here (levers hold the render
+# fixed and only perturb structure, so velocity is uniform across doses); it is simply no longer a parse-blocker.
+_TOKEN_RE = re.compile(r"^(.+)@(\d+)>(\d+)(?:\^\d+)?$")
 _GRID_RE = re.compile(r"\(grid:\d+t?\)")
 
 

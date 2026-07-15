@@ -1,809 +1,768 @@
-KEY: A major | METER: 4/4 | TEMPO: 175 | GRID: 8th (adaptive) | BARS: 148
-VOICES: Part1, Part2, Synth Pad, Synth Pad#2, Part5, Part6, Part7, Harp, Part9, Part10, Part11
+KEY: C major | METER: 4/4 | TEMPO: 120 | GRID: 64th (adaptive) | BARS: 106
+VOICES: CHORDS | CLAVIUM  I-A4[prog=25], VOCAL LINE | BigChordEpP1-B6[prog=63], A.CHORDS | SYNCORD I-A14[prog=25], BASS | FRETLESS P2-A10[prog=34], BASS[drums], SNARE & TOMS[drums], CRASH & RIDE[drums]
 @1 [-]
 @2 [-]
 @3 [-]
 @4 [-]
-@5 [F# | C#] (grid:16)
-  Part2      : D4@1>1 F#4@2>1 C#5@3>1 D5@4>1 F#5@5>1 C#6@6>11
-@6 [C#] (grid:4)
-  Part2      : C#6@1>4
-@7 [C#aug | A] (grid:6t)
-  Part2      : C#5@1>2 A4@3>4
-@8 [A] (grid:12t)
-  Part2      : A4@1>12
-  Part6      : B1@10>2 B2@11>2
-@9 [B]
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B2@1>1 B2@2>1 B2@3>1 B1@4>1 B2@7>1 B1@8>1
-@10 [B]
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B2@1>1 B2@2>1 B2@3>1 B1@4>1 B2@7>1 B1@8>1
-@11 [B]
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B2@1>1 B2@2>1 B2@3>1 B1@4>1 B2@7>1 B1@8>1
-@12 [B]
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B2@1>1 B2@2>1 B2@3>1 B1@4>1 B2@7>1 B1@8>1
-@13 [Bm | B]
-  Part2      : F#5@1>1 F#5@2>1 D5@3>1 B4@4>1 B4@6>1 E5@8>1
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B1@1>1 B1@2>1 B1@4>1 E2@8>1
-@14 [E]
-  Part2      : E5@2>1 E5@4>1 G#5@5>1 G#5@6>1 A5@7>1 B5@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: B4@1>8
-  Part6      : E2@2>1 E2@5>1 E2@6>1
-@15 [A]
-  Part2      : A5@1>1 A5@2>1 A5@3>1 E5@4>1 D5@6>1 F#5@8>1
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@4>1 D2@8>1
-@16 [D | C#m]
-  Part2      : F#5@2>1 F#5@4>1 E5@5>1 E5@6>1 F#5@7>1 E5@8>1
-  Synth Pad  : D4@1>4 C#4@5>4
-  Synth Pad#2: A4@1>4 G#4@5>4
-  Part6      : D2@2>1 C#2@5>1 C#2@6>1
-@17 [Bm | B]
-  Part2      : F#5@1>1 F#5@2>1 D5@3>1 B4@4>1 B4@6>1 E5@8>1
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B1@1>1 B1@2>1 B1@4>1 E2@8>1
-@18 [E]
-  Part2      : E5@2>1 E5@4>1 G#5@5>1 G#5@6>1 A5@7>1 B5@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: B4@1>8
-  Part6      : E2@2>1 E2@5>1 E2@6>1
-@19 [A]
-  Part2      : A5@1>1 A5@2>1 A5@3>1 E5@4>1 D5@6>1 F#5@8>1
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@4>1 D2@8>1
-@20 [D | C#m]
-  Part2      : F#5@2>1 F#5@4>1 E5@5>1 E5@6>1 F#5@7>1 E5@8>1
-  Synth Pad  : D4@1>4 C#4@5>4
-  Synth Pad#2: A4@1>4 G#4@5>4
-  Part6      : D2@2>1 C#2@5>1 C#2@6>1
-@21 [Bm | B]
-  Part2      : F#5@1>1 F#5@2>1 D5@3>1 B4@4>1 B4@6>1 E5@8>1
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part5      : F#5@1>8
-  Part6      : B1@1>1 B1@2>1 B1@4>1 E2@8>1
-@22 [E]
-  Part2      : E5@2>1 E5@4>1 G#5@5>1 G#5@6>1 A5@7>1 B5@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : G5@1>8
-  Part6      : E2@2>1 E2@5>1 E2@6>1
-@23 [B7 | Bm7]
-  Part2      : A5@1>1 A5@2>1 A5@3>1 E5@4>1 D5@6>1 F#5@8>1
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part5      : A5@1>8
-  Part6      : B1@1>1 B1@2>1 B1@4>1 E2@8>1
-@24 [E]
-  Part1      : B4@8>1
-  Part2      : F#5@2>1 F#5@4>1 E5@5>1 E5@6>1 E5@7>2
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : B5@1>8
-  Part6      : E2@2>1 E2@5>1 E2@6>1 E2@7>2
-@25 [Bm]
-  Part1      : D5@1>3 D5@4>2 C#5@6>1 B4@7>2
-  Synth Pad  : B4@1>8
-  Synth Pad#2: F#5@1>8
-  Part5      : B3@2>1 F#4@4>1 A4@5>1 F#4@6>1 D4@7>1 A3@8>1
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@26 [E]
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : B3@2>1 E4@4>1 B4@5>1 G#4@6>1 E4@7>1 B3@8>1
-  Part6      : E2@2>1 E2@4>1 E2@5>2
-@27 [A]
-  Part1      : C#5@1>1 C#5@2>2 C#5@4>1 A4@7>2
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part5      : A3@2>1 E4@4>1 A4@5>1 E4@6>1 C#4@7>1 A3@8>1
-  Part6      : A1@1>1 A1@2>1 A1@3>2 D2@8>1
-@28 [D | A]
-  Part1      : F#5@2>1 F#5@4>1 F#5@5>2 E5@7>2
-  Synth Pad  : F#4@1>4 A3@5>4
-  Synth Pad#2: A4@1>4 E4@5>4
-  Part6      : D2@2>1 D2@4>1 C#2@5>2 C#2@8>1
-@29 [Bm]
-  Part1      : D5@1>3 D5@4>1 D5@5>1 C#5@6>2 B4@8>1
-  Synth Pad  : B4@1>8
-  Synth Pad#2: F#5@1>8
-  Part5      : B3@2>1 F#4@4>1 A4@5>1 F#4@6>1 D4@7>1 A3@8>1
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@30 [E]
-  Part1      : B4@1>2 E4@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : B3@2>1 E4@4>1 B4@5>1 G#4@6>1 E4@7>1 B3@8>1
-  Part6      : E2@2>1 E2@4>1 E2@5>2
-@31 [A]
-  Part1      : C#5@1>3 C#5@4>2 B4@6>1 A4@7>1 A4@8>1
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part5      : A3@2>1 E4@4>1 A4@5>1 E4@6>1 C#4@7>1 A3@8>1
-  Part6      : A1@1>1 A1@2>1 A1@3>2 D2@8>1
-@32 [D7 | A] (grid:16)
-  Part1      : A4@1>2 B4@3>2 C#5@7>2 B4@9>2 C#5@11>1 B4@12>1 A4@13>4
-  Synth Pad  : F#4@1>8 A3@9>8
-  Synth Pad#2: A4@1>8 E4@9>8
-  Part6      : D2@3>2 D2@7>2 C#2@9>4 C#2@15>2
-@33 [Bm]
-  Part1      : D5@3>2 D5@5>1 D5@6>1 D5@7>2
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@34 [E]
-  Part1      : D5@1>2
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part6      : E2@2>1 E2@4>1 E2@5>2 E2@8>1
-@35 [F#m]
-  Part1      : A4@3>1 A4@4>1 A4@5>1 A4@6>1 A4@7>1 A4@8>1
-  Synth Pad  : F#4@1>8
-  Synth Pad#2: C#5@1>8
-  Part6      : F#2@1>1 F#2@2>1 F#2@3>2 F#2@8>1
-@36 [D]
-  Part1      : A4@1>1 G#4@2>3 G#4@5>1 F#4@6>3
-  Synth Pad  : D4@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : D2@2>1 D2@4>1 D2@5>2 C#2@8>1
-@37 [A]
-  Part1      : A3@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@38 [C#] (grid:4)
-  Part1      : G#4@1>4
-  Part2      : G#4@1>4
-  Synth Pad  : C#4@1>4
-  Synth Pad#2: G#4@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@39 [F#m] (grid:4)
-  Part1      : A4@1>4
-  Part2      : F#4@1>4
-  Synth Pad  : F#4@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1
-@40 [D] (grid:12t)
-  Part1      : A4@1>12
-  Part2      : D4@1>12
-  Synth Pad  : D4@1>12
-  Synth Pad#2: A4@1>12
-  Part6      : D2@1>3 D2@4>3 D2@7>3 D2@10>3
-  Part10     : E5@1>4 F#5@5>4 E5@10>3
-@41 [A]
-  Part1      : A4@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@42 [C#m] (grid:4)
-  Part1      : E5@1>4
-  Part2      : G#4@1>4
-  Synth Pad  : C#4@1>4
-  Synth Pad#2: G#4@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@43 [F#] (grid:4)
-  Part1      : F#5@1>4
-  Part2      : F#4@1>4
-  Synth Pad  : F#4@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1
-@44 [D] (grid:12t)
-  Part1      : F#5@1>12
-  Part2      : D4@1>12
-  Synth Pad  : D4@1>12
-  Synth Pad#2: A4@1>12
-  Part6      : D2@1>3 D2@4>3 D2@7>3 D2@10>3
-  Part10     : E5@1>4 F#5@5>4 E5@10>3
-@45 [A]
-  Part1      : A4@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@8>1
-  Part10     : C#5@1>8
-@46 [C#]
-  Part1      : G#5@1>8
-  Part2      : G#4@1>8
-  Synth Pad  : C#4@1>8
-  Synth Pad#2: G#4@1>8
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>2 G#1@8>1
-@47 [F#m]
-  Part1      : A5@1>8
-  Part2      : F#4@1>8
-  Synth Pad  : F#4@1>8
-  Synth Pad#2: C#5@1>8
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>2 F#1@8>1
-@48 [D]
-  Part1      : B5@3>1 C#6@4>2 B5@6>1 A5@7>2
-  Part2      : F#4@1>8
-  Synth Pad  : D4@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : D2@1>1 D2@2>1 D2@3>1 D2@4>1 D2@5>1 D2@6>1 D2@7>1 D2@8>1
-  Part10     : E5@1>3 F#5@4>3 E5@7>2
-@49 [A]
-  Part1      : E6@1>8
-  Synth Pad  : E5@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@50 [C#m] (grid:4)
-  Part1      : E6@1>4
-  Synth Pad  : F#5@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@51 [D]
-  Part1      : E6@1>8
-  Synth Pad  : A5@1>8
-  Synth Pad#2: D5@1>8
-  Part6      : D2@1>1 D2@2>1 D2@3>2 D2@5>2 D2@7>2
-@52 [E]
-  Part1      : E6@1>4 E5@7>2
-  Synth Pad  : G#5@1>8
-  Synth Pad#2: E5@1>8
-  Part6      : E2@1>1 E2@2>1 E2@3>2 E2@5>2 E2@7>2
-@53 [Bm]
-  Part1      : D5@1>3 D5@4>2 C#5@6>1 B4@7>2
-  Synth Pad  : B4@1>8
-  Synth Pad#2: F#5@1>8
-  Part5      : B3@2>1 F#4@4>1 A4@5>1 F#4@6>1 D4@7>1 A3@8>1
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@54 [E]
-  Part1      : E4@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : B3@2>1 E4@4>1 B4@5>1 G#4@6>1 E4@7>1 B3@8>1
-  Part6      : E2@2>1 E2@4>1 E2@5>2
-@55 [A]
-  Part1      : C#5@1>1 C#5@2>2 C#5@4>1 A4@7>2
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part5      : A3@2>1 E4@4>1 A4@5>1 E4@6>1 C#4@7>1 A3@8>1
-  Part6      : A1@1>1 A1@2>1 A1@3>2 D2@8>1
-@56 [D | A]
-  Part1      : F#5@2>1 F#5@4>1 F#5@5>2 E5@7>2
-  Synth Pad  : F#4@1>4 A3@5>4
-  Synth Pad#2: A4@1>4 E4@5>4
-  Part6      : D2@2>1 D2@4>1 C#2@5>2 C#2@8>1
-@57 [Bm]
-  Part1      : D5@1>3 D5@4>1 D5@5>1 C#5@6>2 B4@8>1
-  Synth Pad  : B4@1>8
-  Synth Pad#2: F#5@1>8
-  Part5      : B3@2>1 F#4@4>1 A4@5>1 F#4@6>1 D4@7>1 A3@8>1
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@58 [E]
-  Part1      : B4@1>2 E4@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : B3@2>1 E4@4>1 B4@5>1 G#4@6>1 E4@7>1 B3@8>1
-  Part6      : E2@2>1 E2@4>1 E2@5>2
-@59 [A]
-  Part1      : C#5@1>3 C#5@4>2 B4@6>1 A4@7>1 A4@8>1
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part5      : A3@2>1 E4@4>1 A4@5>1 E4@6>1 C#4@7>1 A3@8>1
-  Part6      : A1@1>1 A1@2>1 A1@3>2 D2@8>1
-@60 [D7 | A] (grid:16)
-  Part1      : A4@1>2 B4@3>2 C#5@7>2 B4@9>2 C#5@11>1 B4@12>1 A4@13>4
-  Synth Pad  : F#4@1>8 A3@9>8
-  Synth Pad#2: A4@1>8 E4@9>8
-  Part6      : D2@3>2 D2@7>2 C#2@9>4 C#2@15>2
-@61 [Bm]
-  Part1      : D5@3>2 D5@5>1 D5@6>1 D5@7>2
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@62 [E]
-  Part1      : D5@1>2
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part6      : E2@2>1 E2@4>1 E2@5>2 E2@8>1
-@63 [F#m]
-  Part1      : A4@3>1 A4@4>1 A4@5>1 A4@6>1 A4@7>1 A4@8>1
-  Synth Pad  : F#4@1>8
-  Synth Pad#2: C#5@1>8
-  Part6      : F#2@1>1 F#2@2>1 F#2@3>2 F#2@8>1
-@64 [D]
-  Part1      : A4@1>1 G#4@2>3 G#4@5>1 F#4@6>3
-  Synth Pad  : D4@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : D2@2>1 D2@4>1 D2@5>2 C#2@8>1
-@65 [A]
-  Part1      : A3@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-  Part7      : A2@1>8
-@66 [C#] (grid:4)
-  Part1      : G#4@1>4
-  Part2      : G#4@1>4
-  Synth Pad  : C#4@1>4
-  Synth Pad#2: G#4@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-  Part7      : G#3@1>4
-@67 [F#m] (grid:4)
-  Part1      : A4@1>4
-  Part2      : F#4@1>4
-  Synth Pad  : F#4@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1
-  Part7      : A3@1>4
-@68 [D] (grid:12t)
-  Part1      : A4@1>12
-  Part2      : D4@1>12
-  Synth Pad  : D4@1>12
-  Synth Pad#2: A4@1>12
-  Part6      : D2@1>3 D2@4>3 D2@7>3 D2@10>3
-  Part7      : A3@1>12
-  Part10     : E5@1>4 F#5@5>4 E5@10>3
-@69 [A]
-  Part1      : A4@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-  Part7      : A3@1>8
-@70 [C#m] (grid:4)
-  Part1      : E5@1>4
-  Part2      : G#4@1>4
-  Synth Pad  : C#4@1>4
-  Synth Pad#2: G#4@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-  Part7      : E4@1>4
-@71 [F#] (grid:4)
-  Part1      : F#5@1>4
-  Part2      : F#4@1>4
-  Synth Pad  : F#4@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1
-  Part7      : F#4@1>4
-@72 [D] (grid:12t)
-  Part1      : F#5@1>12
-  Part2      : D4@1>12
-  Synth Pad  : D4@1>12
-  Synth Pad#2: A4@1>12
-  Part6      : D2@1>3 D2@4>3 D2@7>3 D2@10>3
-  Part7      : F#4@1>12
-  Part10     : E5@1>4 F#5@5>4 E5@10>3
-@73 [A]
-  Part1      : A4@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@8>1
-  Part7      : A3@1>8
-  Part10     : C#5@1>8
-@74 [C#]
-  Part1      : G#5@1>8
-  Part2      : G#4@1>8
-  Synth Pad  : C#4@1>8
-  Synth Pad#2: G#4@1>8
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>2 G#1@8>1
-  Part7      : G#4@1>8
-@75 [F#m]
-  Part1      : A5@1>8
-  Part2      : F#4@1>8
-  Synth Pad  : F#4@1>8
-  Synth Pad#2: C#5@1>8
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>2 F#1@8>1
-  Part7      : A4@1>8
-@76 [D]
-  Part1      : B5@3>1 C#6@4>2 B5@6>1 A5@7>2
-  Part2      : F#4@1>8
-  Synth Pad  : D4@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : D2@1>1 D2@2>1 D2@3>1 D2@4>1 D2@5>1 D2@6>1 D2@7>1 D2@8>1
-  Part7      : B4@3>1 C#5@4>2 B4@6>1 A4@7>2
-  Part10     : E5@1>3 F#5@4>3 E5@7>2
-@77 [A]
-  Part1      : E6@1>8
-  Synth Pad  : E5@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@78 [C#m] (grid:4)
-  Part1      : E6@1>4
-  Synth Pad  : F#5@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@79 [D]
-  Part1      : E6@1>8
-  Synth Pad  : A5@1>8
-  Synth Pad#2: D5@1>8
-  Part6      : D2@1>1 D2@2>1 D2@3>2 D2@5>2 D2@7>2
-@80 [E]
-  Part1      : E6@1>4
-  Synth Pad  : G#5@1>8
-  Synth Pad#2: E5@1>8
-  Part6      : E2@1>1 E2@2>1 E2@3>2 E2@5>2 E2@7>2
-@81 [E]
-  Part1      : B4@1>8
-  Part2      : E5@1>8
-  Synth Pad  : G#5@1>8
-  Part6      : E2@1>1 E2@2>1 E2@3>1 E1@4>1 E2@7>1 E1@8>1
-@82 [E]
-  Part1      : B4@1>8
-  Part2      : E5@1>8
-  Synth Pad  : G#5@1>8
-  Part6      : E2@1>1 E2@2>1 E2@3>1 E1@4>1 E2@7>1 E1@8>1
-@83 [G]
-  Part1      : B4@1>8
-  Part2      : D5@1>8
-  Synth Pad  : G5@1>8
-  Synth Pad#2: B5@1>8
-  Part6      : G2@1>1 G2@2>1 G2@3>1 G1@4>1 G2@7>1 G1@8>1
-@84 [G]
-  Part1      : B4@1>8
-  Part2      : D5@1>8
-  Synth Pad  : G5@1>8
-  Synth Pad#2: B5@1>8
-  Part6      : G2@1>1 G2@2>1 G2@3>1 G1@4>1 G2@7>1 G1@8>1
-@85 [E] (grid:16)
-  Part1      : B4@1>16
-  Part2      : E5@1>16
-  Synth Pad  : G#5@1>16
-  Part6      : E2@1>2 E2@3>2 E2@5>2 E1@7>2 E2@13>2 E1@15>2
-  Harp       : G#5@1>1 G5@2>1 F#5@3>1 F5@4>1 E5@5>1 F5@6>1 F#5@7>1 G5@8>1 G#5@9>1 G5@10>1 F#5@11>1 F5@12>1 E5@13>1 F5@14>1 F#5@15>1 G5@16>1
-@86 [E] (grid:16)
-  Part1      : B4@1>16
-  Part2      : E5@1>16
-  Synth Pad  : G#5@1>16
-  Part6      : E2@1>2 E2@3>2 E2@5>2 E1@7>2 E2@13>2 E1@15>2
-  Harp       : G#5@1>1 G5@2>1 F#5@3>1 F5@4>1 E5@5>1 F5@6>1 F#5@7>1 G5@8>1 G#5@9>1 G5@10>1 F#5@11>1 F5@12>1 E5@13>1 F5@14>1 F#5@15>1 G5@16>1
-@87 [G] (grid:16)
-  Part1      : B4@1>16
-  Part2      : D5@1>16
-  Synth Pad  : G5@1>16
-  Synth Pad#2: B5@1>16
-  Part6      : G2@1>2 G2@3>2 G2@5>2 G1@7>2 G2@13>2 G1@15>2
-  Harp       : G#5@1>1 G5@2>1 F#5@3>1 F5@4>1 E5@5>1 F5@6>1 F#5@7>1 G5@8>1 G#5@9>1 G5@10>1 F#5@11>1 F5@12>1 E5@13>1 F5@14>1 F#5@15>1 G5@16>1
-@88 [G] (grid:16)
-  Part1      : B4@1>16
-  Part2      : D5@1>16
-  Synth Pad  : G5@1>16
-  Synth Pad#2: B5@1>16
-  Part6      : G2@1>2 G2@3>2 G2@5>2 G1@7>2 G2@13>2 G1@15>2
-  Harp       : G#5@1>1 G5@2>1 F#5@3>1 F5@4>1 E5@5>1 F5@6>1 F#5@7>1 G5@8>1 G#5@9>1 G5@10>1 F#5@11>1 F5@12>1 E5@13>1 F5@14>1 F#5@15>1 G5@16>1
-@89 [E] (grid:16)
-  Part1      : E5@1>16
-  Synth Pad  : G#5@1>16
-  Synth Pad#2: B4@1>16
-  Part6      : B2@1>2 B2@3>2 B2@5>2 B1@7>2 B2@13>2 B1@15>2
-  Part9      : G#5@1>1 G5@2>1 F#5@3>1 F5@4>1 E5@5>1 F5@6>1 F#5@7>1 G5@8>1 G#5@9>1 G5@10>1 F#5@11>1 F5@12>1 E5@13>1 F5@14>1 F#5@15>1 G5@16>1
-@90 [E] (grid:16)
-  Part1      : E5@1>16
-  Synth Pad  : G#5@1>16
-  Synth Pad#2: B4@1>16
-  Part6      : B2@1>2 B2@3>2 B2@5>2 B1@7>2 B2@13>2 B1@15>2
-  Part9      : G#5@1>1 G5@2>1 F#5@3>1 F5@4>1 E5@5>1 F5@6>1 F#5@7>1 G5@8>1 G#5@9>1 G5@10>1 F#5@11>1 F5@12>1 E5@13>1 F5@14>1 F#5@15>1 G5@16>1
-@91 [Em7 | G] (grid:16)
-  Part1      : G5@1>16
-  Synth Pad  : B5@1>16
-  Synth Pad#2: D5@1>16
-  Part6      : E2@1>2 E2@3>2 E2@5>2 E1@7>2 E2@13>2 E1@15>2
-  Part9      : G#5@1>1 G5@2>1 F#5@3>1 F5@4>1 E5@5>1 F5@6>1 F#5@7>1 G5@8>1 G#5@9>1 G5@10>1 F#5@11>1 F5@12>1 E5@13>1 F5@14>1 F#5@15>1 G5@16>1
-@92 [Em7] (grid:16)
-  Part1      : G5@1>16
-  Synth Pad  : B5@1>16
-  Synth Pad#2: D5@1>16
-  Part6      : E2@1>2 E2@3>2 E1@5>4 E1@9>4 E1@13>4
-  Part9      : G#5@1>1 G5@2>1 F#5@3>1 F5@4>1 E5@5>1 F5@6>1 F#5@7>1 G5@8>1 G#5@9>1 G5@10>1 F#5@11>1 F5@12>1 E5@13>1 F5@14>1 F#5@15>1 G5@16>1
-@93 [G#m7 | E]
-  Part2      : F#5@1>1 F#5@2>1 D5@3>1 B4@4>1 B4@6>1 E5@8>1
-  Part11     : G#2@3>2 G#2@7>2
-@94 [E | G#m]
-  Part2      : E5@2>1 E5@4>1 G#5@5>1 G#5@6>1 A5@7>1 B5@8>1
-  Part11     : G#2@3>2 G#2@7>2
-@95 [G#m7 | E]
-  Part2      : F#5@1>1 F#5@2>1 D5@3>1 B4@4>1 B4@6>1 E5@8>1
-  Part11     : G#2@3>2 G#2@7>2
-@96 [E | G#m]
-  Part2      : E5@2>1 E5@4>1 G#5@5>1 G#5@6>1 A5@7>1 B5@8>1
-  Part11     : G#2@3>2 G#2@7>2
-@97 [Bm | B]
-  Part2      : F#5@1>1 F#5@2>1 D5@3>1 B4@4>1 B4@6>1 E5@8>1
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B1@1>1 B1@2>1 B1@4>1 E2@8>1
-@98 [E]
-  Part2      : E5@2>1 E5@4>1 G#5@5>1 G#5@6>1 A5@7>1 B5@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: B4@1>8
-  Part6      : E2@2>1 E2@5>1 E2@6>1
-@99 [A]
-  Part2      : A5@1>1 A5@2>1 A5@3>1 E5@4>1 D5@6>1 F#5@8>1
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@4>1 D2@8>1
-@100 [D | C#m]
-  Part2      : F#5@2>1 F#5@4>1 E5@5>1 E5@6>1 F#5@7>1 E5@8>1
-  Synth Pad  : D4@1>4 C#4@5>4
-  Synth Pad#2: A4@1>4 G#4@5>4
-  Part6      : D2@2>1 C#2@5>1 C#2@6>1
-@101 [Bm | B]
-  Part2      : F#5@1>1 F#5@2>1 D5@3>1 B4@4>1 B4@6>1 E5@8>1
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part5      : F#5@1>8
-  Part6      : B1@1>1 B1@2>1 B1@4>1 E2@8>1
-@102 [E]
-  Part2      : E5@2>1 E5@4>1 G#5@5>1 G#5@6>1 A5@7>1 B5@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : G5@1>8
-  Part6      : E2@2>1 E2@5>1 E2@6>1
-@103 [B7 | Bm7]
-  Part2      : A5@1>1 A5@2>1 A5@3>1 E5@4>1 D5@6>1 F#5@8>1
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part5      : A5@1>8
-  Part6      : B1@1>1 B1@2>1 B1@4>1 E2@8>1
-@104 [E]
-  Part1      : B4@8>1
-  Part2      : F#5@2>1 F#5@4>1 E5@5>1 E5@6>1 E5@7>2
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : B5@1>8
-  Part6      : E2@2>1 E2@5>1 E2@6>1 E2@7>2
-@105 [Bm]
-  Part1      : D5@1>3 D5@4>2 C#5@6>1 B4@7>2
-  Synth Pad  : B4@1>8
-  Synth Pad#2: F#5@1>8
-  Part5      : B3@2>1 F#4@4>1 A4@5>1 F#4@6>1 D4@7>1 A3@8>1
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@106 [E]
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : B3@2>1 E4@4>1 B4@5>1 G#4@6>1 E4@7>1 B3@8>1
-  Part6      : E2@2>1 E2@4>1 E2@5>2
-@107 [A]
-  Part1      : C#5@1>1 C#5@2>2 C#5@4>1 A4@7>2
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part5      : A3@2>1 E4@4>1 A4@5>1 E4@6>1 C#4@7>1 A3@8>1
-  Part6      : A1@1>1 A1@2>1 A1@3>2 D2@8>1
-@108 [D | A]
-  Part1      : F#5@2>1 F#5@4>1 F#5@5>2 E5@7>2
-  Synth Pad  : F#4@1>4 A3@5>4
-  Synth Pad#2: A4@1>4 E4@5>4
-  Part6      : D2@2>1 D2@4>1 C#2@5>2 C#2@8>1
-@109 [Bm]
-  Part1      : D5@1>3 D5@4>1 D5@5>1 C#5@6>2 B4@8>1
-  Synth Pad  : B4@1>8
-  Synth Pad#2: F#5@1>8
-  Part5      : B3@2>1 F#4@4>1 A4@5>1 F#4@6>1 D4@7>1 A3@8>1
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@110 [E]
-  Part1      : B4@1>2 E4@8>1
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part5      : B3@2>1 E4@4>1 B4@5>1 G#4@6>1 E4@7>1 B3@8>1
-  Part6      : E2@2>1 E2@4>1 E2@5>2
-@111 [A]
-  Part1      : C#5@1>3 C#5@4>2 B4@6>1 A4@7>1 A4@8>1
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part5      : A3@2>1 E4@4>1 A4@5>1 E4@6>1 C#4@7>1 A3@8>1
-  Part6      : A1@1>1 A1@2>1 A1@3>2 D2@8>1
-@112 [D7 | A] (grid:16)
-  Part1      : A4@1>2 B4@3>2 C#5@7>2 B4@9>2 C#5@11>1 B4@12>1 A4@13>4
-  Synth Pad  : F#4@1>8 A3@9>8
-  Synth Pad#2: A4@1>8 E4@9>8
-  Part6      : D2@3>2 D2@7>2 C#2@9>4 C#2@15>2
-@113 [Bm]
-  Part1      : D5@3>2 D5@5>1 D5@6>1 D5@7>2
-  Synth Pad  : B3@1>8
-  Synth Pad#2: F#4@1>8
-  Part6      : B1@1>1 B1@2>1 B1@3>2 E2@8>1
-@114 [E]
-  Part1      : D5@1>2
-  Synth Pad  : E4@1>8
-  Synth Pad#2: G#4@1>8
-  Part6      : E2@2>1 E2@4>1 E2@5>2 E2@8>1
-@115 [F#m]
-  Part1      : A4@3>1 A4@4>1 A4@5>1 A4@6>1 A4@7>1 A4@8>1
-  Synth Pad  : F#4@1>8
-  Synth Pad#2: C#5@1>8
-  Part6      : F#2@1>1 F#2@2>1 F#2@3>2 F#2@8>1
-@116 [D]
-  Part1      : A4@1>1 G#4@2>3 G#4@5>1 F#4@6>3
-  Synth Pad  : D4@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : D2@2>1 D2@4>1 D2@5>2 C#2@8>1
-@117 [A]
-  Part1      : A3@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@118 [C#] (grid:4)
-  Part1      : G#4@1>4
-  Part2      : G#4@1>4
-  Synth Pad  : C#4@1>4
-  Synth Pad#2: G#4@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@119 [F#m] (grid:4)
-  Part1      : A4@1>4
-  Part2      : F#4@1>4
-  Synth Pad  : F#4@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1
-@120 [D] (grid:12t)
-  Part1      : A4@1>12
-  Part2      : D4@1>12
-  Synth Pad  : D4@1>12
-  Synth Pad#2: A4@1>12
-  Part6      : D2@1>3 D2@4>3 D2@7>3 D2@10>3
-  Part10     : E5@1>4 F#5@5>4 E5@10>3
-@121 [A]
-  Part1      : A4@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@122 [C#m] (grid:4)
-  Part1      : E5@1>4
-  Part2      : G#4@1>4
-  Synth Pad  : C#4@1>4
-  Synth Pad#2: G#4@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@123 [F#] (grid:4)
-  Part1      : F#5@1>4
-  Part2      : F#4@1>4
-  Synth Pad  : F#4@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1
-@124 [D] (grid:12t)
-  Part1      : F#5@1>12
-  Part2      : D4@1>12
-  Synth Pad  : D4@1>12
-  Synth Pad#2: A4@1>12
-  Part6      : D2@1>3 D2@4>3 D2@7>3 D2@10>3
-  Part10     : E5@1>4 F#5@5>4 E5@10>3
-@125 [A]
-  Part1      : A4@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@8>1
-  Part10     : C#5@1>8
-@126 [C#]
-  Part1      : G#5@1>8
-  Part2      : G#4@1>8
-  Synth Pad  : C#4@1>8
-  Synth Pad#2: G#4@1>8
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>2 G#1@8>1
-@127 [F#m]
-  Part1      : A5@1>8
-  Part2      : F#4@1>8
-  Synth Pad  : F#4@1>8
-  Synth Pad#2: C#5@1>8
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>2 F#1@8>1
-@128 [D]
-  Part1      : B5@3>1 C#6@4>2 B5@6>1 A5@7>2
-  Part2      : F#4@1>8
-  Synth Pad  : D4@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : D2@1>1 D2@2>1 D2@3>1 D2@4>1 D2@5>1 D2@6>1 D2@7>1 D2@8>1
-  Part10     : E5@1>3 F#5@4>3 E5@7>2
-@129 [A]
-  Part1      : E6@1>8
-  Synth Pad  : E5@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@130 [C#m] (grid:4)
-  Part1      : E6@1>4
-  Synth Pad  : F#5@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@131 [D]
-  Part1      : E6@1>8
-  Synth Pad  : A5@1>8
-  Synth Pad#2: D5@1>8
-  Part6      : D2@1>1 D2@2>1 D2@3>2 D2@5>2 D2@7>2
-@132 [E]
-  Part1      : E6@1>4
-  Synth Pad  : G#5@1>8
-  Synth Pad#2: E5@1>8
-  Part6      : E2@1>1 E2@2>1 E2@3>2 E2@5>2 E2@7>2
-@133 [A]
-  Part1      : A3@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@134 [C#] (grid:4)
-  Part1      : G#4@1>4
-  Part2      : G#4@1>4
-  Synth Pad  : C#4@1>4
-  Synth Pad#2: G#4@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@135 [F#m] (grid:4)
-  Part1      : A4@1>4
-  Part2      : F#4@1>4
-  Synth Pad  : F#4@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1
-@136 [D] (grid:12t)
-  Part1      : A4@1>12
-  Part2      : D4@1>12
-  Synth Pad  : D4@1>12
-  Synth Pad#2: A4@1>12
-  Part6      : D2@1>3 D2@4>3 D2@7>3 D2@10>3
-  Part10     : E5@1>4 F#5@5>4 E5@10>3
-@137 [A]
-  Part1      : A4@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@138 [C#m] (grid:4)
-  Part1      : E5@1>4
-  Part2      : G#4@1>4
-  Synth Pad  : C#4@1>4
-  Synth Pad#2: G#4@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@139 [F#] (grid:4)
-  Part1      : F#5@1>4
-  Part2      : F#4@1>4
-  Synth Pad  : F#4@1>4
-  Synth Pad#2: C#5@1>4
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>1 F#1@4>1
-@140 [D] (grid:12t)
-  Part1      : F#5@1>12
-  Part2      : D4@1>12
-  Synth Pad  : D4@1>12
-  Synth Pad#2: A4@1>12
-  Part6      : D2@1>3 D2@4>3 D2@7>3 D2@10>3
-  Part10     : E5@1>4 F#5@5>4 E5@10>3
-@141 [A]
-  Part1      : A4@1>8
-  Part2      : A4@1>8
-  Synth Pad  : A3@1>8
-  Synth Pad#2: E4@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@8>1
-  Part10     : C#5@1>8
-@142 [C#]
-  Part1      : G#5@1>8
-  Part2      : G#4@1>8
-  Synth Pad  : C#4@1>8
-  Synth Pad#2: G#4@1>8
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>2 G#1@8>1
-@143 [F#m]
-  Part1      : A5@1>8
-  Part2      : F#4@1>8
-  Synth Pad  : F#4@1>8
-  Synth Pad#2: C#5@1>8
-  Part6      : F#1@1>1 F#1@2>1 F#1@3>2 F#1@8>1
-@144 [D]
-  Part1      : B5@3>1 C#6@4>2 B5@6>1 A5@7>2
-  Part2      : F#4@1>8
-  Synth Pad  : D4@1>8
-  Synth Pad#2: A4@1>8
-  Part6      : D2@1>1 D2@2>1 D2@3>1 D2@4>1 D2@5>1 D2@6>1 D2@7>1 D2@8>1
-  Part10     : E5@1>3 F#5@4>3 E5@7>2
-@145 [A]
-  Part1      : E6@1>8
-  Part6      : A1@1>1 A1@2>1 A1@3>2 A1@5>2 A1@7>2
-@146 [E] (grid:4)
-  Part1      : E6@1>4
-  Part6      : G#1@1>1 G#1@2>1 G#1@3>1 G#1@4>1
-@147 [D]
-  Part1      : E6@1>8
-  Part6      : D2@1>1 D2@2>1 D2@3>2 D2@5>2 D2@7>2
-@148 [E]
-  Part1      : E6@1>4
-  Part6      : E2@1>1 E2@2>1 E2@3>2 E2@5>2 E2@7>2
+@5 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@2>14^56 C3+E3+G3@18>14^56 C3+E3+G3@34>14^56 C3+E3+G3@50>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3+C4@1>14^80 E3+G3+C4@17>14^80 C3+E3+G3@41>14^80 A2+C3+F3@57>20^80
+  BASS | FRETLESS P2-A10      : C3@2>14^56 C3@18>14^56 G2@42>14^56 F2@58>20^56
+  BASS                        : B1@2>5^104 B1@34>5^80 B1@41>5^80 B1@57>5^104
+  SNARE & TOMS                : D2@18>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@3>5^80 A3@19>5^80 D#3@34>5^104 D#3@42>5^80 D#3@50>5^104 D#3@58>5^104
+@6 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@2>14^56 F3+A3+C4@18>14^56 G3+B3+D4@34>14^56 G3+B3+D4@50>14^56
+  A.CHORDS | SYNCORD I-A14    : A2+C3+F3@17>14^80 B2+D3+G3@41>14^80
+  BASS | FRETLESS P2-A10      : F2@18>14^56 G2@42>14^56
+  BASS                        : B1@9>5^104 B1@34>5^104 B1@42>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@50>5^80 D2@58>4^80 D2@61>1^80
+  CRASH & RIDE                : D#3@2>5^104 D#3@10>5^104 D#3@19>5^104 D#3@26>5^104 D#3@34>5^104 D#3@42>5^104 D#3@50>5^104 D#3@58>5^104
+@7 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@2>14^56 C3+E3+G3@18>14^56 C3+E3+G3@34>14^56 C3+E3+G3@50>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3+C4@1>14^80 E3+G3+C4@17>14^80 C3+E3+G3@41>14^80 A2+C3+F3@57>20^80
+  BASS | FRETLESS P2-A10      : C3@2>14^56 C3@18>14^56 G2@42>14^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@34>5^104 B1@41>5^104 B1@56>5^104
+  SNARE & TOMS                : D2@18>5^80 D2@50>5^80
+  CRASH & RIDE                : C#3@2>5^104 A3@18>5^80 D#3@34>5^104 D#3@41>5^104 D#3@49>5^104 D#3@57>5^104
+@8 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@2>14^56 F3+A3+C4@18>14^56 G3+B3+D4@34>14^56 G3+B3+D4@50>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@57>7^56
+  A.CHORDS | SYNCORD I-A14    : A2+C3+F3@17>14^80 B2+D3+G3@41>14^80 G3@57>6^80
+  BASS | FRETLESS P2-A10      : F2@18>14^56 G2@41>14^56
+  BASS                        : B1@8>5^104 B1@33>5^104 B1@40>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@24>4^56 D2@28>1^56 D2@32>1^80 D2@36>1^80 C3@39>4^80 C3@44>1^80 B2@47>4^104 B2@51>1^104 A2@55>3^80 A2@58>2^80 A2@62>1^104
+  CRASH & RIDE                : D#3@1>5^104 D#3@9>5^104 D#3@17>5^104 D#3@25>5^104
+@9 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@2>14^56 C3@17>14^56 E3+G3@18>14^56 C3+E3+G3@34>14^56 C3@49>14^56 E3+G3@50>14^56
+  VOCAL LINE | BigChordEpP1-B6: E3@1>14^56 G3@17>14^56 G3@33>14^56 G3@49>14^56
+  A.CHORDS | SYNCORD I-A14    : C3+E3@1>57^80
+  BASS | FRETLESS P2-A10      : C3@2>14^56 C3@18>14^56 G2@41>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@2>5^104 B1@33>5^104 B1@41>5^80 B1@57>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80
+  CRASH & RIDE                : C#3@1>5^104 F#2@18>5^104 F#2@26>5^104 F#2@34>5^104 F#2@41>5^104 F#2@50>5^104 F#2@57>5^104
+@10 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3@1>14^56 A3+C4@2>14^56 F3+A3+C4@18>14^56 G3@33>14^56 B3+D4@34>14^56 G3+B3@49>14^56 D4@50>14^56
+  VOCAL LINE | BigChordEpP1-B6: A3@1>7^56 G3@9>14^56 E3@25>7^56 G3@33>7^56 A3@41>14^56 E3@57>13^56
+  A.CHORDS | SYNCORD I-A14    : C3@1>29^80 B2@33>21^80 G2+C3+E3@57>13^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>7^56 A#2@49>7^56 B2@58>7^56
+  BASS                        : B1@9>5^104 B1@34>5^80 B1@42>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@49>5^80
+  CRASH & RIDE                : F#2@2>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@50>5^104 F#2@57>5^104
+@11 [C]
+  CHORDS | CLAVIUM  I-A4      : C3@1>14^56 E3+G3@2>14^56 C3+E3@17>14^56 G3@18>14^56 C3+E3+G3@34>14^56 C3@49>14^56 E3+G3@50>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@9>21^56
+  A.CHORDS | SYNCORD I-A14    : C3+E3+G3@9>21^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@33>5^104 B1@40>5^104 B1@56>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80
+  CRASH & RIDE                : A3@1>5^80 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 A#2@42>5^80 F#2@50>5^104 F#2@57>5^104
+@12 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3@1>14^56 C4@2>14^56 F3@17>14^56 A3+C4@18>14^56 G3+B3@33>14^56 D4@34>14^56 G3+B3@49>14^56 D4@50>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@41>7^56 C4@49>7^56 A3@57>7^56
+  A.CHORDS | SYNCORD I-A14    : C4@41>7^80 D3+F3+C4@49>7^80 A3@57>7^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@9>5^104 B1@34>5^104 B1@42>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@49>5^80 D2@57>4^56 D2@61>1^80
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@40>5^104 F#2@49>5^104 F#2@57>5^104
+@13 [C]
+  CHORDS | CLAVIUM  I-A4      : C3@1>14^56 E3+G3@2>14^56 C3+E3@17>14^56 G3@18>14^56 C3+E3@33>14^56 G3@34>14^56 C3+E3@49>14^56 G3@50>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@1>14^56 A3@17>7^56 C4@25>20^56 A3@49>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3+C4@1>14^80 A3@17>7^80 E3+G3+C4@25>20^80 A3@49>14^80
+  BASS | FRETLESS P2-A10      : C3@2>13^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@33>5^80 B1@41>5^80 B1@57>5^104
+  SNARE & TOMS                : D2@18>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@57>5^104
+@14 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3@1>14^56 C4@2>14^56 F3+A3@17>14^56 C4@18>14^56 G3+B3@33>14^56 D4@34>14^56 G3+B3@49>14^56 D4@50>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@1>21^56 G3@25>7^56 G3@33>7^56 G3@41>14^56 A3@57>7^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3+C4@1>21^80 G3@25>7^80 B2+F3@33>29^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@9>5^104 B1@33>5^80 B1@41>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : F#2@2>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@57>5^104
+@15 [C]
+  CHORDS | CLAVIUM  I-A4      : C3@1>14^56 E3+G3@2>14^56 C3+E3@17>14^56 G3@18>14^56 C3+E3+G3@33>14^56 C3+E3@49>14^56 G3@50>14^56
+  VOCAL LINE | BigChordEpP1-B6: E3@1>7^56 G3@9>14^56 A3@25>13^56 G3@41>21^56
+  A.CHORDS | SYNCORD I-A14    : C3+E3@1>57^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@33>5^80 B1@40>5^80 B1@56>5^80
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80
+  CRASH & RIDE                : A3@1>5^80 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 A#2@40>5^80 F#2@48>5^104 F#2@57>5^104
+@16 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3@1>14^56 C4@2>14^56 F3+A3+C4@17>14^56 G3+B3@33>14^56 D4@34>14^56 G3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@57>7^56
+  A.CHORDS | SYNCORD I-A14    : C4@57>7^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@9>5^80 B1@34>5^80 B1@41>5^80
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80 D2@57>4^80 D2@61>1^32
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@57>5^80
+@17 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3@17>14^56 G3@18>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@1>7^56 D4@9>7^56 C4@17>7^56 C4@25>7^56 C4@33>7^56 C4@41>14^56 C4@57>20^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3@1>47^80 F3+A3@57>33^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@34>5^80 B1@41>5^104 B1@58>5^104
+  SNARE & TOMS                : D2@18>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 F#2@18>5^104 F#2@26>5^104 F#2@34>5^104 F#2@41>5^104 F#2@50>5^104 F#2@57>5^104
+@18 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3@1>14^56 C4@2>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@17>14^56 C4@33>7^56 C4@41>21^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3@33>29^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@10>5^104 B1@34>5^80 B1@42>5^104
+  SNARE & TOMS                : D2@18>5^80 D2@50>5^80
+  CRASH & RIDE                : F#2@2>5^104 F#2@10>5^104 F#2@18>5^104 F#2@26>5^104 F#2@34>5^104 F#2@42>5^104 F#2@50>5^104 F#2@58>5^104
+@19 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3+G3@17>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@1>14^56
+  A.CHORDS | SYNCORD I-A14    : C3+E3+G3@1>14^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@2>5^80 B1@33>5^104 B1@40>5^80 B1@56>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80
+  CRASH & RIDE                : A3@2>5^80 F#2@18>5^104 F#2@26>5^104 F#2@34>5^104 A#2@41>5^56 F#2@49>5^104 F#2@57>5^104
+@20 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@49>7^56 C4@57>7^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3+C4@49>7^80 C4@57>7^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>7^56 A#2@50>6^56 B2@57>7^56
+  BASS                        : B1@9>5^104 B1@33>5^104 B1@41>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80 D2@56>4^80 D2@60>1^80
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@57>5^104
+@21 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3+G3@17>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@1>7^56 D4@9>7^56 E4@17>14^56 C4@49>7^56 C4@57>7^56
+  A.CHORDS | SYNCORD I-A14    : C3+E3@1>57^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@34>5^80 B1@42>5^104 B1@58>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 F#2@18>5^104 F#2@25>5^104 F#2@34>5^104 F#2@41>5^104 F#2@50>5^104 F#2@57>5^104
+@22 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@1>7^56 D4@9>7^56 E4@17>14^56 C4@33>7^56 C4@41>21^56 C4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@1>29^80 D3+F3@33>29^80 E3@64>14^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@9>5^104 B1@33>5^104 B1@41>5^80
+  SNARE & TOMS                : D2@18>5^80 D2@50>5^80
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@34>5^104 F#2@41>5^104 F#2@50>5^104 F#2@57>5^104
+@23 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3+G3@17>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: A3@9>7^56 C4@17>14^56
+  A.CHORDS | SYNCORD I-A14    : G3@1>14^80 E3+G3@17>14^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@33>5^104 B1@41>5^104 B1@57>5^104
+  SNARE & TOMS                : D2@18>5^80 D2@49>5^80
+  CRASH & RIDE                : A3@2>5^80 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 A#2@40>5^80 F#2@49>5^104 F#2@57>5^104
+@24 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@48>7^56 C4@56>7^56 A3@64>7^56
+  A.CHORDS | SYNCORD I-A14    : C4@48>7^80 C4@56>7^80 F3@64>57^80
+  BASS | FRETLESS P2-A10      : G2@17>7^56 G2@25>7^56 A#2@33>7^56 B2@41>7^56 C3@49>7^56 D#3@57>7^56
+  BASS                        : B1@9>5^104 B1@33>5^104 B1@41>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@25>4^80 D2@29>1^80 D2@32>2^80 C3@36>3^32 C3@40>2^80 C3@44>1^80 B2@47>4^104 B2@51>1^104 A2@55>4^80 A2@59>1^104 A2@63>1^104
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104
+@25 [F]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 F3+A3+C4@33>14^56 F3+A3+C4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@8>7^56 D4@16>7^56 C4@24>7^56 D4@32>7^56 C4@40>14^56 D#4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : A3@1>57^80 F3@64>57^80
+  BASS | FRETLESS P2-A10      : F3@1>6^56 F3@9>7^56 F3@17>7^56 C3@25>7^56 F3@33>7^56 C3@41>7^56 D#3@49>7^56 E3@57>7^56
+  BASS                        : B1@2>5^104 B1@33>5^104 B1@41>5^104
+  SNARE & TOMS                : D2@16>5^104 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 D#3@16>5^104 D#3@24>5^104 D#3@33>5^104 D#3@41>5^104 D#3@49>5^104 D#3@57>5^104
+@26 [F]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 F3+A3+C4@33>14^56 F3+A3+C4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@8>14^56 C4@24>13^56 D4@40>14^56
+  A.CHORDS | SYNCORD I-A14    : A3@1>57^80 D3@64>57^80
+  BASS | FRETLESS P2-A10      : F3@1>6^56 F3@9>7^56 A3@17>7^56 A3@25>7^56 C4@33>7^56 C4@41>7^56 D4@49>7^56 C4@57>7^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@41>5^80
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : A3@1>5^80 D#3@2>5^104 D#3@9>5^104 D#3@18>5^104 D#3@25>5^104 D#3@34>5^104 D#3@41>5^104 D#3@49>5^104 D#3@57>5^104
+@27 [E7]
+  CHORDS | CLAVIUM  I-A4      : E3+G#3+B3+D4@1>14^56 E3+G#3+B3+D4@17>14^56 E3+G#3+B3+D4@33>14^56 E3+G#3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@8>7^56 E4@16>7^56 B3@24>7^56 E4@32>7^56 E4@40>21^56 C4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : G#3@1>57^80 E3+C4@64>7^80
+  BASS | FRETLESS P2-A10      : B3@1>7^56 B3@9>7^56 B3@17>7^56 B3@25>7^56 B3@33>7^56 B3@41>7^56 B3@49>7^56 B3@57>7^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@41>5^104 B1@57>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : C#3@1>5^104 D#3@17>5^104 D#3@25>5^104 D#3@33>5^104 D#3@41>5^104 D#3@49>5^104 D#3@57>5^104
+@28 [Am]
+  CHORDS | CLAVIUM  I-A4      : A3+C4+E4@1>14^56 A3+C4+E4@17>14^56 A3+C4+E4@33>14^56 A3+C4+E4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: A3@8>21^56
+  A.CHORDS | SYNCORD I-A14    : A3@8>21^80
+  BASS | FRETLESS P2-A10      : A3@9>7^56 E4@17>7^56 A3@25>7^56 G3@33>7^56 D4@41>7^56 G3@49>7^56 F3@57>13^56
+  BASS                        : B1@9>5^104 B1@33>5^104 B1@41>5^104 B1@57>5^104
+  SNARE & TOMS                : D2@18>5^80 D2@49>5^80
+  CRASH & RIDE                : D#3+A3@1>5^104 D#3@9>5^104 D#3@18>5^104 D#3@26>5^104 C#3@33>5^104 D#3@41>5^80 D#3@49>5^104 D#3@56>5^104 D#3@64>5^104
+@29 [F7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 F3+A3+C4@33>14^56 F3+A3+C4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@40>7^56 D4@48>7^56 C4@56>7^56 D4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : C4@40>7^80 E4@48>7^80 C4@56>7^80 F3+B3@64>57^80
+  BASS | FRETLESS P2-A10      : F3@9>7^56 E3@17>7^56 E3@25>7^56 D3@33>7^56 D3@41>7^56 C3@49>7^56 A2@57>7^56
+  BASS                        : B1@8>5^80 B1@33>5^104 B1@41>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80 D2@57>4^80 D2@61>1^80
+  CRASH & RIDE                : D#3@8>5^104 D#3@16>5^104 D#3@24>5^104 D#3@33>5^104 D#3@40>5^104 D#3@48>5^104 D#3@56>5^104 D#3+A3@64>5^104
+@30 [G7]
+  CHORDS | CLAVIUM  I-A4      : G3+B3+D4+F4@1>14^56 G3+B3+D4+F4@17>14^56 G3+B3+D4+F4@33>14^56 G3+B3+D4+F4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@16>14^56 D4@32>14^56 D4@48>7^56 C4@56>7^56 D#4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : E3+A3@64>57^80
+  BASS | FRETLESS P2-A10      : G2@1>7^56 G2@9>7^56 B2@17>7^56 B2@25>7^56 D3@33>7^56 D3@41>7^56 E3@49>7^56 E3@57>7^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@41>5^80
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : D#3@8>5^104 D#3@17>5^104 D#3@25>5^104 D#3@34>5^104 D#3@41>5^104 D#3@50>5^104 D#3@57>5^104
+@31 [Adim | F7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4+D#4@1>14^56 F3+A3+C4+D#4@17>14^56 F3+A3+C4+D#4@33>14^56 F3+A3+C4+D#4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@8>14^56 C4@24>7^56 A3@32>14^56 C4@56>7^56 D4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : D#4@1>6^80 D4@8>14^80 C4@24>7^80 A3@32>14^80 C4@56>7^80 F3+B3@64>29^80
+  BASS | FRETLESS P2-A10      : F3@2>6^56 F3@9>7^56 C3@17>7^56 C3@25>7^56 A2@33>7^56 A2@41>7^56 F2@49>7^56 F2@57>7^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@41>5^80
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 D#3@17>5^104 D#3@24>5^104 D#3@33>5^104 D#3@41>5^104 D#3@49>5^104 D#3@57>5^104
+@32 [Bdim | Adim]
+  CHORDS | CLAVIUM  I-A4      : G3+B3+D4+F4@1>14^56 G3+B3+D4+F4@17>14^56 F3+A3+C4+D#4@33>14^56 F3+A3+C4+D#4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@16>14^56 D#4@32>7^56 D4@40>7^56 C4@48>14^56 C4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : D#3+A3@32>29^80 E3+G3@64>14^80
+  BASS | FRETLESS P2-A10      : G2@1>7^56 G2@9>7^56 D3@17>7^56 G2@25>7^56 F2@33>7^56 F2@41>7^56 C3@49>7^56 F2@57>7^56
+  BASS                        : B1@1>5^104 B1@32>5^104 B1@40>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : D#3+A3@1>5^104 D#3@9>5^104 D#3@18>5^104 D#3@25>5^104 D#3@33>5^104 D#3@41>5^104 D#3@49>5^104 D#3@56>5^104
+@33 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3+G3@17>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  A.CHORDS | SYNCORD I-A14    : C4@1>14^80 E3+G3+C4@16>14^80 C3+E3+G3@40>14^80 A2+C3+F3@56>20^80
+  BASS | FRETLESS P2-A10      : C3@1>13^56 C3@17>14^56 G2@41>14^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@33>5^104 B1@41>5^80 B1@57>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 A3@18>5^104 D#3@33>5^104 D#3@41>5^104 D#3@58>5^104
+@34 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3+B3+D4@49>14^56
+  A.CHORDS | SYNCORD I-A14    : A2+C3+F3@16>14^80 B2+D3+G3@40>14^80 E3+G3+C4@64>14^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>14^56
+  BASS                        : B1@8>5^104 B1@32>5^104 B1@40>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80 D2@56>4^80 D2@60>1^80
+  CRASH & RIDE                : D#3@1>5^104 D#3@9>5^104 D#3@17>5^104 D#3@24>5^104 D#3@33>5^104 D#3@41>5^104 D#3@49>5^104 D#3@56>5^104
+@35 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3+G3@17>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3+C4@16>14^80 C3+E3+G3@40>14^80 A2+C3+F3@56>20^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@17>14^56 G2@41>14^56 F2@57>20^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@40>5^80 B1@56>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : C#3@1>5^104 A3@18>5^104 D#3@33>5^104 D#3@41>5^104 D#3@48>5^104 D#3+A3@57>5^104 D#3@64>5^104
+@36 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: E3@64>7^56
+  A.CHORDS | SYNCORD I-A14    : A2+C3+F3@16>14^80 B2+D3+G3@40>14^80 C3+E3@64>29^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>14^56
+  BASS                        : B1@8>5^80 B1@33>5^80 B1@41>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@26>5^56 D2@31>1^104 D2@35>1^80 C3@38>5^80 C3@43>1^80 C3@46>1^80 B2@49>4^104 B2@53>4^104 A2@57>4^104 A2@61>4^104
+  CRASH & RIDE                : D#3@9>5^104 D#3@17>5^104 D#3@24>5^104
+@37 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3+G3@17>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@8>21^56 G3@32>7^56 G3@40>14^56 A3@56>13^56
+  A.CHORDS | SYNCORD I-A14    : C3+E3@32>21^80 C3+F3@56>33^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@2>5^104 B1@33>5^80 B1@41>5^104 B1@57>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 F#2@18>5^104 F#2@26>5^104 F#2@34>5^104 F#2@42>5^104 F#2@50>5^104 F#2@58>5^104
+@38 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@8>7^56 C4@16>14^56 C4@32>7^56 C4@40>21^56 A3@64>7^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3@32>29^80 C3+E3+A3@64>7^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@41>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@9>5^104 B1@32>5^104 B1@40>5^80
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : F#2@2>5^104 F#2@10>5^104 F#2@18>5^104 F#2@25>5^104 F#2@34>5^104 F#2@41>5^104 F#2@50>5^104 F#2@57>5^104
+@39 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3+G3@17>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@8>7^56
+  A.CHORDS | SYNCORD I-A14    : G3@8>7^80
+  BASS | FRETLESS P2-A10      : C3@1>13^56 C3@17>14^56 G2@41>7^56 A#2@49>7^56 F2@57>20^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@40>5^80 B1@57>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : A3@2>5^80 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 A#2@40>5^80 F#2@49>5^104 F#2@57>5^104
+@40 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3+B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@48>7^56 C4@56>7^56 E4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3+C4@48>7^80 C4@56>7^80 E3+G3@64>57^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@40>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@9>5^80 B1@33>5^80 B1@41>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80 D2@57>4^80 D2@60>1^56
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@57>5^104
+@41 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3+E3+G3@17>14^56 C3+E3+G3@33>14^56 C3+E3+G3@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@8>7^56 C4@16>7^56 C4@24>20^56 C4@48>7^56 A3@56>7^56 C4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@64>29^80
+  BASS | FRETLESS P2-A10      : C3@1>14^56 C3@16>14^56 G2@41>7^56 A#2@49>7^56 F2@56>20^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@40>5^104 B1@56>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@56>5^104
+@42 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@1>14^56 F3+A3+C4@17>14^56 G3+B3+D4@33>14^56 G3@48>14^56 B3+D4@49>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@16>14^56 C4@32>7^56 A3@40>7^56 E4@48>14^56 C4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3@32>14^80 F3+G3@48>14^80 E3+G3+C4@64>14^80
+  BASS | FRETLESS P2-A10      : F2@17>14^56 G2@40>7^56 A#2@49>7^56 B2@57>7^56
+  BASS                        : B1@8>5^104 B1@32>5^80 B1@40>5^104 B1@64>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@49>5^80
+  CRASH & RIDE                : F#2@1>5^104 F#2@8>5^104 F#2@17>5^104 F#2@24>5^104 F#2@32>5^104 F#2@40>5^104 F#2@49>5^104 F#2@56>5^104 A3@64>5^80
+@43 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@1>14^56 C3@16>14^56 E3+G3@17>14^56 C3+E3@32>14^56 G3@33>14^56 C3@48>14^56 E3+G3@49>14^56 F3@64>14^56
+  BASS | FRETLESS P2-A10      : C3@1>13^56 C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@32>5^104 B1@40>5^104 B1@55>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@17>5^104 F#2@24>5^104 F#2@33>5^104 A#2@40>5^80 F#2@48>5^104 F#2@56>5^104 F#2@64>5^104
+@44 [F | G]
+  CHORDS | CLAVIUM  I-A4      : A3+C4@1>14^56 F3+A3+C4@17>14^56 G3@32>14^56 B3+D4@33>14^56 G3+B3@48>14^56 D4@49>14^56 C3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@56>7^56 E3@64>14^56
+  A.CHORDS | SYNCORD I-A14    : G3@56>6^80 C3+E3@64>57^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>7^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@7>5^80 B1@32>5^80 B1@40>5^104 B1@64>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80 D2@56>4^80 D2@60>1^80
+  CRASH & RIDE                : F#2@8>5^104 F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 F#2@40>5^104 F#2@48>5^104 F#2@56>5^104 C#3@64>5^104
+@45 [C]
+  CHORDS | CLAVIUM  I-A4      : E3+G3@1>14^56 C3+E3@16>14^56 G3@17>14^56 C3+E3@32>14^56 G3@33>14^56 C3@48>14^56 E3+G3@49>14^56 F3+A3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@16>14^56 G3@32>14^56 G3@48>14^56 A3@64>7^56
+  A.CHORDS | SYNCORD I-A14    : C3+F3@64>29^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@33>5^80 B1@41>5^80 B1@57>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@16>5^104 F#2@24>5^104 F#2@33>5^104 F#2@40>5^104 F#2@49>5^104 F#2@56>5^104
+@46 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : C4@1>14^56 F3+A3@16>14^56 C4@17>14^56 G3+B3@32>14^56 D4@33>14^56 G3+B3@48>14^56 D4@49>14^56 C3+E3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@8>21^56 G3@32>14^56 A3@48>14^56 E3@64>14^56
+  A.CHORDS | SYNCORD I-A14    : B2+F3@32>29^80 G2+C3+E3@64>14^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>7^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@9>5^104 B1@33>5^80 B1@41>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@56>5^104 A3@64>5^80
+@47 [C]
+  CHORDS | CLAVIUM  I-A4      : G3@1>14^56 C3+E3@16>14^56 G3@17>14^56 C3+E3@32>14^56 G3@33>14^56 C3+E3+G3@48>14^56 F3+A3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@16>14^56
+  A.CHORDS | SYNCORD I-A14    : C3+E3+G3@16>14^80
+  BASS | FRETLESS P2-A10      : C3@17>13^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@1>5^80 B1@32>5^80 B1@40>5^104 B1@56>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@16>5^104 F#2@24>5^104 F#2@33>5^104 A#2@40>5^80 F#2@48>5^104 F#2@56>5^104 F#2@64>5^104
+@48 [F | G]
+  CHORDS | CLAVIUM  I-A4      : C4@1>14^56 F3+A3@16>14^56 C4@17>14^56 G3+B3@32>14^56 D4@33>14^56 G3+B3@48>14^56 D4@49>14^56 C3+E3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@48>7^56 C4@56>7^56 E4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3+C4@48>7^80 C4@56>7^80 E3+G3@64>57^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@49>6^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@8>5^104 B1@33>5^104 B1@41>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@49>8^104 D2@57>1^80 D2@61>1^104
+  CRASH & RIDE                : F#2@9>5^104 F#2@17>5^104 F#2@24>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@57>5^104
+@49 [C]
+  CHORDS | CLAVIUM  I-A4      : G3@1>14^56 C3+E3@16>14^56 G3@17>14^56 C3+E3@32>14^56 G3@33>14^56 C3+E3+G3@48>14^56 F3+A3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@8>21^56 E4@32>7^56 D4@40>14^56 A3@56>7^56 E4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@64>29^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@1>5^104 B1@33>5^104 B1@40>5^80 B1@56>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3@1>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@57>5^104
+@50 [F | Em7]
+  CHORDS | CLAVIUM  I-A4      : C4@1>14^56 F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3@48>14^56 D4@49>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@8>7^56 E4@16>7^56 C4@24>7^56 E4@32>7^56 E4@40>14^56 C4@56>20^56
+  A.CHORDS | SYNCORD I-A14    : F3+B3@32>21^80 E3+G3+C4@56>20^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>7^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@8>5^104 B1@32>5^80 B1@41>5^104 B1@64>5^80
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@41>5^104 F#2@49>5^104 F#2@56>5^104
+@51 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3@64>14^56
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@32>5^104 B1@40>5^80 B1@56>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@49>5^80
+  CRASH & RIDE                : A3@1>5^80 F#2@17>5^104 F#2@24>5^104 F#2@33>5^104 F#2@41>8^104 F#2@50>5^104 F#2@57>5^104
+@52 [F | G]
+  CHORDS | CLAVIUM  I-A4      : C4@1>14^56 F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@24>7^56 G4@32>14^56 G4@48>14^56 A3@64>7^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@64>57^80
+  BASS | FRETLESS P2-A10      : G2@16>7^56 G2@24>7^56 A#2@32>7^56 B2@40>7^56 C3@48>7^56 D#3@56>7^56 F3@64>6^56
+  BASS                        : B1@8>5^80 B1@32>5^80 B1@40>5^80
+  SNARE & TOMS                : D2@17>5^80 D2@24>4^56 D2@28>1^80 D2@32>1^80 D2@35>1^80 C3@39>4^104 C3@43>1^80 C3@47>1^104 B2@51>5^56 A2@54>5^104 B2@58>5^32
+  CRASH & RIDE                : F#2@1>5^104 F#2@9>5^104 F#2@17>5^104 F#2@24>5^80 C#3@64>5^104
+@53 [F]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 F3+A3+C4@32>14^56 F3+A3+C4@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@8>7^56 D4@16>7^56 C4@24>7^56 D4@32>7^56 C4@40>14^56 D#4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@64>57^80
+  BASS | FRETLESS P2-A10      : F3@8>7^56 F3@16>7^56 C3@24>7^56 F3@32>7^56 C3@40>7^56 D#3@48>7^56 E3@56>7^56 F3@64>7^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@41>5^104
+  SNARE & TOMS                : D2@15>5^80 D2@48>5^80
+  CRASH & RIDE                : D#3@16>5^104 D#3@23>5^104 D#3@32>5^104 D#3@39>5^104 D#3@48>5^104 D#3@56>5^104
+@54 [F]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 F3+A3+C4@32>14^56 F3+A3+C4@48>14^56 E3+G#3+B3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@8>14^56 C4@24>13^56 D4@40>14^56
+  A.CHORDS | SYNCORD I-A14    : D3+G#3@64>57^80
+  BASS | FRETLESS P2-A10      : F3@8>7^56 A3@16>7^56 A3@24>7^56 C4@32>7^56 C4@40>7^56 D4@48>7^56 C4@56>7^56 B3@64>7^56
+  BASS                        : B1@1>5^104 B1@33>5^80 B1@41>5^80 B1@64>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@49>5^80
+  CRASH & RIDE                : D#3+A3@1>5^104 D#3@8>5^104 D#3@17>5^104 D#3@24>5^104 D#3@33>5^104 D#3@40>5^104 D#3@49>5^104 D#3@56>5^104
+@55 [E]
+  CHORDS | CLAVIUM  I-A4      : D4@1>14^56 E3+G#3+B3+D4@16>14^56 E3+G#3+B3+D4@32>14^56 E3+G#3+B3+D4@48>14^56 A3+C4+E4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@8>7^56 E4@16>7^56 B3@24>7^56 E4@32>7^56 E4@40>21^56 C4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : E3+C4@64>7^80
+  BASS | FRETLESS P2-A10      : B3@8>7^56 B3@16>7^56 B3@24>7^56 B3@32>7^56 B3@40>7^56 B3@48>7^56 B3@56>7^56
+  BASS                        : B1@33>5^104 B1@40>5^80 B1@57>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@49>5^80
+  CRASH & RIDE                : C#3+D#3@1>5^104 D#3@9>5^104 D#3@17>5^104 D#3@25>5^104 D#3@33>5^104 D#3@41>5^104 D#3@49>5^104 D#3@57>5^104
+@56 [Am]
+  CHORDS | CLAVIUM  I-A4      : A3+C4+E4@16>14^56 A3+C4+E4@32>14^56 A3+C4+E4@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: A3@8>21^56
+  A.CHORDS | SYNCORD I-A14    : A3@8>21^80
+  BASS | FRETLESS P2-A10      : A3@8>7^56 E4@16>7^56 A3@24>7^56 G3@32>7^56 D4@40>7^56 G3@48>7^56 F3@56>13^56
+  BASS                        : B1@8>5^104 B1@33>5^104 B1@41>5^80 B1@56>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80
+  CRASH & RIDE                : A3@1>5^104 D#3@2>5^104 D#3@9>5^104 D#3@17>5^104 D#3@24>5^104 C#3@32>5^104 D#3@33>5^104 D#3@40>5^104 D#3@48>5^104 D#3@55>5^104 A3@57>5^104 D#3@64>5^104
+@57 [F7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 F3+A3+C4@32>14^56 F3+A3+C4@48>14^56 G3+B3+D4+F4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@40>7^56 D4@48>7^56 C4@56>7^56 D4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : C4@40>7^80 D4@48>7^80 C4@56>7^80 F3+B3@64>57^80
+  BASS | FRETLESS P2-A10      : F3@8>7^56 E3@16>7^56 E3@24>7^56 D3@32>7^56 D3@40>7^56 C3@48>7^56 A2@56>7^56 G2@64>7^56
+  BASS                        : B1@8>5^80 B1@32>5^80 B1@40>5^80 B1@64>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80 D2@56>4^80 D2@60>1^56
+  CRASH & RIDE                : D#3@8>5^104 D#3@16>5^104 D#3@24>5^104 D#3@32>5^104 D#3@40>5^104 D#3@48>5^104 D#3@56>5^104 C#3@64>5^104
+@58 [G7 | Bdim]
+  CHORDS | CLAVIUM  I-A4      : G3+B3+D4+F4@16>14^56 G3+B3+D4+F4@32>14^56 G3+B3+D4+F4@48>14^56 F3+A3+C4+D#4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@16>14^56 D4@32>14^56 D4@48>7^56 C4@56>7^56 D#4@64>7^56
+  A.CHORDS | SYNCORD I-A14    : D#3+A3+D#4@64>57^80
+  BASS | FRETLESS P2-A10      : G2@8>7^56 B2@16>7^56 B2@24>7^56 D3@32>7^56 D3@40>7^56 E3@48>7^56 E3@56>7^56
+  BASS                        : B1@32>5^80 B1@41>5^80 B1@64>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : D#3@16>5^104 D#3@23>5^104 D#3@32>5^104 D#3@40>5^104 D#3@48>5^104 D#3@56>5^104
+@59 [F7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4+D#4@16>14^56 F3+A3+C4+D#4@32>14^56 F3+A3+C4+D#4@48>14^56 G3+B3+D4+F4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@8>14^56 C4@24>7^56 A3@32>14^56 C4@55>7^56 D4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : D4@7>14^80 C4@24>7^80 A3@32>14^80 C4@55>7^80 F3+B3@64>29^80
+  BASS | FRETLESS P2-A10      : F3@1>6^56 F3@8>7^56 C3@16>7^56 C3@24>7^56 A2@32>7^56 A2@40>7^56 F2@48>7^56 F2@56>7^56 G2@64>7^56
+  BASS                        : B1@33>5^80 B1@40>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : D#3+A3@1>5^104 D#3@8>5^104 D#3@17>5^104 D#3@24>5^104 D#3@32>5^104 D#3@40>5^104 D#3@49>5^104 D#3@56>5^104 C#3@64>5^104
+@60 [G7 | Adim]
+  CHORDS | CLAVIUM  I-A4      : G3+B3+D4+F4@16>14^56 F3+A3+C4+D#4@32>14^56 F3+A3+C4+D#4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@16>14^56 D#4@31>7^56 D4@39>7^56 C4@48>14^56 C4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : D#3+A3@32>28^80 E3+G3+C4@64>14^80
+  BASS | FRETLESS P2-A10      : G2@8>7^56 D3@16>7^56 G2@24>7^56 F2@32>6^56 F2@40>7^56 C3@48>7^56 F2@56>7^56
+  BASS                        : B1@1>5^104 B1@32>5^80 B1@40>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : D#3@16>5^104 D#3@23>5^104 D#3@32>5^104 D#3@40>5^104 D#3@49>5^104 D#3@56>5^104
+@61 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3@15>14^80 C4@16>14^80 C3@39>14^80 E3+G3@40>14^80 A2+C3@55>20^80 F3@56>20^80
+  BASS | FRETLESS P2-A10      : C3@1>13^56 C3@16>14^56 G2@40>14^56 F2@56>20^56
+  BASS                        : B1@1>5^104 B1@32>5^80 B1@40>5^80 B1@55>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : C#3@2>5^80 D#3+A3@17>8^104 D#3@26>5^104 D#3@34>5^104 D#3@41>5^104 D#3@49>5^104 D#3@57>5^104
+@62 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  A.CHORDS | SYNCORD I-A14    : A2@15>14^80 C3+F3@16>14^80 B2+D3@39>14^80 G3@40>14^80 E3@63>14^80 G3+C4@64>14^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>14^56 C3@64>14^56
+  BASS                        : B1@7>5^104 B1@31>5^80 B1@39>5^104 B1@64>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80 D2@55>4^80 D2@59>1^80
+  CRASH & RIDE                : D#3+A3@1>5^104 D#3@8>5^104 D#3@17>5^104 D#3@24>5^104 D#3@33>5^104 D#3@40>5^104 D#3@48>5^104 D#3@56>5^104 C#3@64>5^104
+@63 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3@15>14^80 C4@16>14^80 C3+E3@39>14^80 G3@40>14^80 A2+C3@55>20^80 F3@56>20^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>14^56 F2@56>20^56
+  BASS                        : B1@32>5^80 B1@40>5^80 B1@55>5^104
+  SNARE & TOMS                : D2@15>5^80 D2@48>5^80
+  CRASH & RIDE                : A3@17>5^104 D#3@32>5^104 D#3@40>5^104 D#3@48>5^104 C#3@55>5^104
+@64 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@55>7^56 E3@63>14^56
+  A.CHORDS | SYNCORD I-A14    : A2+C3@15>14^80 F3@16>14^80 B2+D3@39>14^80 G3@40>14^80 G3@55>7^80 C3@63>57^80 E3@64>57^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>14^56 C3@64>14^56
+  BASS                        : B1@7>5^104 B1@32>5^80 B1@40>5^80 B1@64>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@23>4^56 D2@27>1^80 D2@31>1^80 D2@35>1^80 C3@39>4^80 C3@43>1^80 C3@46>1^56 B2@50>4^80 B2@54>1^32 A2@58>5^104 A2@61>2^104
+  CRASH & RIDE                : D#3@8>5^104 D#3@16>5^104 D#3@23>5^104 D#3@32>5^104 C#3@64>5^104
+@65 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@15>14^56 G3@31>14^56 G3@47>14^56 A3@63>7^56
+  A.CHORDS | SYNCORD I-A14    : C3@63>29^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@33>5^80 B1@41>5^80 B1@56>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@17>5^104 F#2@25>5^104 F#2@33>5^104 F#2@40>5^104 F#2@49>5^104 F#2@57>5^104
+@66 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@7>14^56 E3@23>7^56 G3@31>7^56 A3@39>14^56 E3@55>13^56
+  A.CHORDS | SYNCORD I-A14    : B2@31>21^80 G2+C3+E3@55>13^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>7^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@8>5^104 B1@32>5^80 B1@40>5^80 B1@64>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@1>5^104 F#2@8>5^104 F#2@17>5^104 F#2@24>5^104 F#2@33>5^104 F#2@40>5^104 F#2@48>5^104 F#2@56>5^104 A3@64>5^80
+@67 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@7>21^56
+  A.CHORDS | SYNCORD I-A14    : C3+E3@7>21^80 G3@8>21^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@32>5^80 B1@40>5^80 B1@55>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 A#2@39>5^80 F#2@47>5^104 F#2@55>5^104 F#2@64>5^104
+@68 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@39>7^56 C4@47>7^56 A3@55>7^56 C4@63>14^56
+  A.CHORDS | SYNCORD I-A14    : C4@39>7^80 D3+F3@47>7^80 C4@48>6^80 A3@55>7^80 E3+G3+C4@63>14^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>6^56 B2@56>7^56 C3@64>13^56
+  BASS                        : B1@7>5^104 B1@31>5^80 B1@39>5^80 B1@64>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80 D2@56>4^56 D2@60>1^80
+  CRASH & RIDE                : F#2@8>5^104 F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 F#2@40>5^104 F#2@48>5^104 F#2@56>5^104 C#3@64>5^104
+@69 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: A3@15>7^56 C4@23>20^56 A3@47>14^56 C4@63>21^56
+  A.CHORDS | SYNCORD I-A14    : A3@15>7^80 E3+G3@23>20^80 C4@24>19^80 A3@47>14^80 F3+A3+C4@63>21^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@32>5^80 B1@40>5^80 B1@55>5^80
+  SNARE & TOMS                : D2@15>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@16>5^104 F#2@23>5^104 F#2@32>5^104 F#2@39>5^104 F#2@48>5^104 F#2@55>5^104 F#2@63>5^104
+@70 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@23>6^56 G3@31>7^56 G3@39>14^56 A3@55>7^56 E3@63>7^56
+  A.CHORDS | SYNCORD I-A14    : G3@23>6^80 B2+F3@31>29^80 C3+E3@63>57^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>7^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@8>5^80 B1@31>5^80 B1@39>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@7>5^104 F#2@16>5^104 F#2@23>5^104 F#2@32>5^104 F#2@39>5^104 F#2@48>5^104 F#2@55>5^104 A3@63>5^80
+@71 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: G3@7>14^56 A3@23>13^56 G3@39>21^56
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@1>5^104 B1@32>5^80 B1@40>5^80 B1@56>5^80
+  SNARE & TOMS                : D2@16>5^56 D2@47>5^80
+  CRASH & RIDE                : F#2@16>5^104 F#2@24>5^104 F#2@31>5^104 A#2@39>5^80 F#2@48>5^104 F#2@55>5^104 F#2@63>5^104
+@72 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@55>7^56 E4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : C4@55>6^80 E3+G3@63>47^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>7^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@8>5^104 B1@32>5^80 B1@40>5^80
+  SNARE & TOMS                : D2@15>5^80 D2@47>5^80 D2@55>4^80 D2@59>1^80
+  CRASH & RIDE                : F#2@8>5^104 F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 F#2@40>5^104 F#2@48>5^104 F#2@56>5^104 C#3@64>5^104
+@73 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@7>7^56 C4@15>7^56 C4@23>7^56 C4@31>7^56 C4@39>14^56 C4@55>20^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@55>33^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@1>5^104 B1@32>5^80 B1@40>5^80 B1@55>5^80
+  SNARE & TOMS                : D2@15>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 F#2@39>5^104 F#2@48>5^104 F#2@56>5^104 F#2@64>5^104
+@74 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@15>14^56 C4@31>7^56 C4@39>21^56 G3@63>14^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3@31>29^80 C3+E3+G3@63>14^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>7^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@7>5^104 B1@31>5^80 B1@39>5^104 B1@64>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@8>5^104 F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 F#2@39>5^104 F#2@48>5^104 F#2@55>5^104 A3@64>5^80
+@75 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@32>5^80 B1@40>5^80 B1@55>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@15>5^104 F#2@23>5^104 F#2@31>5^104 A#2@39>5^80 F#2@48>5^104 F#2@56>5^104 F#2@64>5^104
+@76 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@47>7^56 C4@55>7^56 E4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3+C4@47>7^80 C4@55>7^80 C3+E3@63>57^80
+  BASS | FRETLESS P2-A10      : F2@16>14^56 G2@40>7^56 A#2@48>6^56 B2@56>7^56 C3@64>14^56
+  BASS                        : B1@7>5^104 B1@31>5^80 B1@39>5^80
+  SNARE & TOMS                : D2@15>5^80 D2@48>5^80 D2@55>4^80 D2@60>1^80
+  CRASH & RIDE                : F#2@8>5^104 F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 F#2@40>5^104 F#2@48>5^104 F#2@56>5^104 C#3@64>5^104
+@77 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@7>7^56 E4@15>14^56 C4@47>7^56 C4@55>7^56 E4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@63>29^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@40>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@1>5^104 B1@32>5^80 B1@40>5^104 B1@64>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@16>5^104 F#2@23>5^104 F#2@32>5^104 F#2@39>5^104 F#2@48>5^104 F#2@56>5^104 F#2@64>5^104
+@78 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 G3+B3+D4@32>14^56 G3+B3+D4@48>14^56 C3+E3+G3@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@7>7^56 E4@15>14^56 C4@31>7^56 C4@39>21^56 C4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : D3+F3@31>29^80 E3+G3@63>14^80
+  BASS | FRETLESS P2-A10      : F2@15>14^56 G2@40>7^56 A#2@48>7^56 B2@55>7^56 C3@64>14^56
+  BASS                        : B1@33>5^104 B1@40>5^104 B1@63>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@8>5^104 F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 F#2@40>5^104 F#2@48>5^104 F#2@56>5^104 A3@64>5^80
+@79 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@16>14^56 C3+E3+G3@32>14^56 C3+E3+G3@48>14^56 F3+A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: A3@7>7^56 C4@15>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3@15>14^80
+  BASS | FRETLESS P2-A10      : C3@16>14^56 G2@39>7^56 A#2@48>7^56 F2@56>20^56
+  BASS                        : B1@32>5^80 B1@40>5^104 B1@56>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : F#2@16>5^104 F#2@24>5^104 F#2@32>5^104 A#2@39>5^80 F#2@47>5^104 F#2@55>5^104 F#2@63>5^104
+@80 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3@15>14^56 A3+C4@16>14^56 G3+B3+D4@32>14^56 G3@47>14^56 B3+D4@48>14^56 F3@63>14^56 A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@47>7^56 C4@55>7^56 A3@63>7^56
+  A.CHORDS | SYNCORD I-A14    : C4@47>7^80 C4@55>7^80 F3+A3@63>57^80
+  BASS | FRETLESS P2-A10      : G2@15>7^56 G2@23>7^56 A#2@32>7^56 B2@39>7^56 C3@47>7^56 D#3@55>7^56 F3@64>7^56
+  BASS                        : B1@8>5^104 B1@31>5^80 B1@39>5^80 B1@64>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@24>4^80 D2@28>1^56 D2@31>1^104 C3@35>3^80 C3@39>2^80 C3@43>1^80 B2@47>4^104 B2@51>1^80 A2@54>4^104 A2@58>1^80
+  CRASH & RIDE                : F#2@7>5^104 F#2@16>5^104 F#2@23>5^104 C#3@64>5^80
+@81 [F]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@16>14^56 F3@31>14^56 A3+C4@32>14^56 F3+A3@47>14^56 C4@48>14^56 F3@63>14^56 A3+C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@7>7^56 D4@15>7^56 C4@23>7^56 D4@31>7^56 C4@39>14^56 D#4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@63>57^80
+  BASS | FRETLESS P2-A10      : F3@7>7^56 F3@15>7^56 C3@23>7^56 F3@31>7^56 C3@39>7^56 D#3@47>7^56 E3@55>7^56 F3@63>7^56
+  BASS                        : B1@32>5^104 B1@40>5^80 B1@64>5^104
+  SNARE & TOMS                : D2@15>5^80 D2@47>5^80
+  CRASH & RIDE                : D#3@16>5^104 D#3@23>5^104 D#3@32>5^104 D#3@39>5^104 D#3@48>5^104 D#3@56>5^104 D#3+A3@64>5^104
+@82 [F]
+  CHORDS | CLAVIUM  I-A4      : F3+A3@15>14^56 C4@16>14^56 F3+A3+C4@32>14^56 F3@47>14^56 A3+C4@48>14^56 E3+G#3@63>14^56 B3+D4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@7>14^56 C4@23>13^56 D4@39>14^56
+  A.CHORDS | SYNCORD I-A14    : D3+G#3@63>57^80
+  BASS | FRETLESS P2-A10      : F3@7>7^56 A3@15>7^56 A3@23>7^56 C4@31>7^56 C4@39>7^56 D4@47>7^56 C4@55>7^56 B3@63>7^56
+  BASS                        : B1@32>5^80 B1@39>5^104 B1@63>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : D#3@7>5^104 D#3@16>5^104 D#3@24>5^104 D#3@32>5^104 D#3@40>5^104 D#3@48>5^104 D#3@56>5^104 C#3@64>5^104
+@83 [E]
+  CHORDS | CLAVIUM  I-A4      : E3@15>14^56 G#3+B3+D4@16>14^56 E3+G#3@31>14^56 B3+D4@32>14^56 E3+G#3@47>14^56 B3+D4@48>14^56 A3@63>14^56 C4+E4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@7>7^56 E4@15>7^56 B3@23>7^56 E4@31>7^56 E4@39>21^56 C4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : E3+C4@63>7^80
+  BASS | FRETLESS P2-A10      : B3@7>7^56 B3@15>7^56 B3@23>7^56 B3@31>7^56 B3@39>7^56 B3@47>7^56 B3@55>7^56
+  BASS                        : B1@32>5^80 B1@40>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : D#3@16>5^104 D#3@23>5^104 D#3+A3@32>5^104 D#3@39>5^104 D#3@48>5^104 C#3+D#3@55>5^104 D#3@64>5^104
+@84 [Am]
+  CHORDS | CLAVIUM  I-A4      : A3+C4@15>14^56 E4@16>14^56 A3+C4@31>14^56 E4@32>14^56 A3+C4@47>14^56 E4@48>14^56 F3+A3@63>14^56 C4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: A3@7>21^56
+  A.CHORDS | SYNCORD I-A14    : A3@7>21^80
+  BASS | FRETLESS P2-A10      : A3@7>7^56 E4@15>7^56 A3@23>7^56 G3@31>7^56 D4@39>7^56 G3@47>7^56 F3@55>13^56
+  BASS                        : B1@1>5^104 B1@32>5^104 B1@40>5^104 B1@55>5^104
+  SNARE & TOMS                : D2@17>5^80 D2@48>5^80
+  CRASH & RIDE                : D#3@8>5^104 D#3@16>5^104 D#3@24>5^104 D#3@32>5^104 D#3@40>5^104 D#3@48>5^104 D#3@55>5^104 D#3@64>5^104
+@85 [F7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3@15>14^56 C4@16>14^56 F3+A3@31>14^56 C4@32>14^56 F3+A3@47>14^56 C4@48>14^56 G3+B3@63>14^56 D4+F4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@39>7^56 D4@47>7^56 C4@55>7^56 D4@63>14^56
+  A.CHORDS | SYNCORD I-A14    : C4@39>7^80 D4@47>7^80 C4@55>7^80 F3+B3@63>57^80
+  BASS | FRETLESS P2-A10      : F3@7>7^56 E3@15>7^56 E3@23>7^56 D3@31>7^56 D3@39>7^56 C3@47>7^56 A2@55>7^56 G2@63>7^56
+  BASS                        : B1@7>5^104 B1@31>5^80 B1@39>5^80 B1@63>5^104
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80 D2@55>4^80 D2@60>1^80
+  CRASH & RIDE                : D#3@7>5^104 D#3@15>5^104 D#3@23>5^104 D#3@31>5^104 D#3@39>5^104 D#3@47>5^104 D#3@55>5^104 C#3@64>5^104
+@86 [G7 | Bdim]
+  CHORDS | CLAVIUM  I-A4      : G3+B3@15>14^56 D4+F4@16>14^56 G3+B3@31>14^56 D4+F4@32>14^56 G3+B3@47>14^56 D4+F4@48>14^56 F3+A3@63>14^56 C4+D#4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@15>14^56 D4@31>14^56 D4@47>7^56 C4@55>7^56 D#4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : D#3@63>57^80
+  BASS | FRETLESS P2-A10      : G2@7>7^56 B2@15>7^56 B2@23>7^56 D3@31>7^56 D3@39>7^56 E3@47>7^56 E3@55>7^56 F3@63>7^56
+  BASS                        : B1@31>5^80 B1@39>5^80 B1@64>5^104
+  SNARE & TOMS                : D2@15>5^80 D2@47>5^80
+  CRASH & RIDE                : D#3@16>5^104 D#3@23>5^104 D#3@31>5^104 D#3@39>5^104 D#3@47>5^104 D#3@55>5^104 D#3+A3@64>5^104
+@87 [F7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@15>14^56 D#4@16>14^56 F3+A3@31>14^56 C4+D#4@32>14^56 F3+A3@47>14^56 C4+D#4@48>14^56 G3+B3+D4@63>14^56 F4@64>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@7>14^56 C4@23>7^56 A3@31>14^56 C4@55>7^56 D4@63>14^56
+  A.CHORDS | SYNCORD I-A14    : F3+B3@63>29^80
+  BASS | FRETLESS P2-A10      : F3@7>7^56 C3@15>7^56 C3@23>7^56 A2@31>7^56 A2@39>7^56 F2@47>7^56 F2@55>7^56 G2@63>6^56
+  BASS                        : B1@32>5^80 B1@40>5^80 B1@64>5^104
+  SNARE & TOMS                : D2@15>5^80 D2@47>5^80
+  CRASH & RIDE                : D#3@7>5^104 D#3@16>5^104 D#3@24>5^104 D#3@32>5^104 D#3@39>5^104 D#3@48>5^104 D#3@55>5^104 C#3@64>5^104
+@88 [G7 | Adim]
+  CHORDS | CLAVIUM  I-A4      : G3+B3@15>14^56 D4+F4@16>14^56 F3+A3+C4@31>14^56 D#4@32>14^56 F3+A3+C4+D#4@47>14^56 C3+E3+G3@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@15>14^56 D#4@31>7^56 D4@39>7^56 C4@47>14^56 C4@63>14^56
+  A.CHORDS | SYNCORD I-A14    : D#3+A3@31>28^80 E3+G3+C4@63>14^80
+  BASS | FRETLESS P2-A10      : G2@7>7^56 D3@15>7^56 G2@23>7^56 F2@31>7^56 F2@39>7^56 C3@47>7^56 F2@55>7^56 C3@64>13^56
+  BASS                        : B1@31>5^80 B1@39>5^80 B1@64>5^80
+  SNARE & TOMS                : D2@16>5^80 D2@48>5^80
+  CRASH & RIDE                : D#3@15>5^104 D#3@23>5^104 D#3@32>5^104 D#3@39>5^104 D#3@48>5^104 D#3@56>5^104
+@89 [F | G]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@15>14^56 G3+B3+D4@31>14^56 G3+B3+D4@47>14^56 F3+A3+C4@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@47>7^56 C4@55>7^56 A3@63>7^56
+  A.CHORDS | SYNCORD I-A14    : C4@47>7^80 C4@55>7^80 F3+A3@63>57^80
+  BASS | FRETLESS P2-A10      : G2@15>7^56 G2@23>7^56 A#2@31>7^56 B2@39>7^56 C3@47>7^56 D#3@55>7^56 F3@63>7^56
+  BASS                        : B1@30>4^80 B1@40>4^80 B1@62>4^80
+  SNARE & TOMS                : D2@16>4^80 D2@17>3^56 D2@47>4^80
+  CRASH & RIDE                : D#3+A3@1>5^104 D#3@16>4^104 D#3@25>4^80 D#3@30>4^104 D#3@41>4^104 D#3@47>4^104 D#3@55>4^104 C#3@60>4^80 D#3@62>4^104
+@90 [F]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@15>14^56 F3+A3+C4@31>14^56 F3+A3+C4@47>14^56 F3+A3+C4@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@7>7^56 D4@15>7^56 C4@23>7^56 D4@31>7^56 C4@39>14^56 D#4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : F3+A3@63>57^80
+  BASS | FRETLESS P2-A10      : F3@7>7^56 F3@15>7^56 C3@23>7^56 F3@31>7^56 C3@39>7^56 D#3@47>7^56 E3@55>7^56 F3@63>7^56
+  BASS                        : B1@30>4^80 B1@40>4^104 B1@62>4^104
+  SNARE & TOMS                : D2@15>4^56 D2@47>4^80
+  CRASH & RIDE                : D#3@8>4^104 D#3@14>4^104 D#3@24>4^104 D#3@30>4^104 D#3@40>4^80 D#3@47>4^104 D#3@56>4^104 D#3@62>4^104
+@91 [F]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@15>14^56 F3+A3+C4@31>14^56 F3+A3+C4@47>14^56 E3+G#3+B3+D4@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@7>14^56 C4@23>13^56 D4@39>14^56
+  A.CHORDS | SYNCORD I-A14    : D3+G#3@63>57^80
+  BASS | FRETLESS P2-A10      : F3@7>7^56 A3@15>7^56 A3@23>7^56 C4@31>7^56 C4@39>7^56 D4@47>7^56 C4@55>7^56 B3@63>7^56
+  BASS                        : B1@31>4^104 B1@42>4^104 B1@63>4^80
+  SNARE & TOMS                : D2@15>4^80 D2@48>4^56 D2@57>4^56
+  CRASH & RIDE                : D#3@9>4^104 D#3@15>4^104 D#3@25>4^104 D#3@30>4^104 D#3@40>4^104 D#3@46>4^104 D#3@56>4^104 D#3@62>4^104
+@92 [E]
+  CHORDS | CLAVIUM  I-A4      : E3+G#3+B3+D4@15>14^56 E3+G#3+B3+D4@31>14^56 E3+G#3+B3+D4@47>14^56 A3+C4+E4@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: E4@7>7^56 E4@15>7^56 B3@23>7^56 E4@31>7^56 E4@38>21^56 C4@63>7^56
+  A.CHORDS | SYNCORD I-A14    : E3+C4@63>7^80
+  BASS | FRETLESS P2-A10      : B3@7>7^56 B3@15>7^56 B3@23>7^56 B3@31>7^56 B3@39>7^56 B3@47>7^56 B3@55>7^56
+  BASS                        : B1@31>4^80 B1@41>4^80 B1@62>4^80
+  SNARE & TOMS                : D2@16>4^80 D2@48>4^80
+  CRASH & RIDE                : D#3@9>4^104 D#3@14>4^104 D#3@25>4^104 D#3@30>4^104 D#3@40>4^104 D#3@46>4^104 D#3@55>4^104 C#3+D#3@62>4^104
+@93 [Am]
+  CHORDS | CLAVIUM  I-A4      : A3+C4+E4@15>14^56 A3+C4+E4@31>14^56 A3+C4+E4@47>14^56 F3+A3+C4@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: A3@7>21^56
+  A.CHORDS | SYNCORD I-A14    : A3@6>21^80
+  BASS | FRETLESS P2-A10      : A3@7>7^56 E4@15>7^56 A3@23>7^56 G3@31>7^56 D4@39>7^56 G3@47>7^56 F3@55>13^56
+  BASS                        : B1@30>4^80 B1@40>4^80 B1@62>4^104
+  SNARE & TOMS                : D2@16>4^80 D2@46>4^80 D2@56>4^56
+  CRASH & RIDE                : D#3@8>4^104 D#3@14>4^104 D#3@24>4^104 D#3@30>4^104 D#3@39>4^104 D#3@46>4^104 D#3@55>4^104 D#3@61>4^104
+@94 [F7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@15>14^56 F3+A3+C4@31>14^56 F3+A3+C4@47>14^56 G3+B3+D4+F4@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: C4@38>7^56 D4@46>7^56 C4@55>6^56 D4@63>14^56
+  A.CHORDS | SYNCORD I-A14    : C4@38>7^80 D4@46>7^80 C4@54>7^80 F3+B3@63>57^80
+  BASS | FRETLESS P2-A10      : F3@7>7^56 E3@15>7^56 E3@23>7^56 D3@31>7^56 D3@39>7^56 C3@47>7^56 A2@55>7^56 G2@63>7^56
+  BASS                        : B1@30>4^104 B1@41>4^80 B1@61>4^80
+  SNARE & TOMS                : D2@15>4^80 D2@47>4^56 D2@56>4^80
+  CRASH & RIDE                : D#3@7>4^104 D#3@13>4^104 D#3@23>4^104 D#3@30>4^104 D#3@40>4^104 D#3@46>4^104 D#3@56>4^104 A3@62>4^80
+@95 [G7 | Bdim]
+  CHORDS | CLAVIUM  I-A4      : G3+B3+D4+F4@15>14^56 G3+B3+D4+F4@31>14^56 G3+B3+D4+F4@47>14^56 F3+A3+C4+D#4@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@14>14^56 D4@30>14^56 D4@46>7^56 C4@54>7^56 D#4@62>7^56
+  A.CHORDS | SYNCORD I-A14    : D#3@62>57^80 A3+D#4@63>7^80
+  BASS | FRETLESS P2-A10      : G2@7>7^56 B2@15>7^56 B2@23>7^56 D3@31>7^56 D3@39>7^56 E3@47>7^56 E3@55>7^56 F3@64>6^56
+  BASS                        : B1@31>4^80 B1@41>4^104 B1@63>4^80
+  SNARE & TOMS                : D2@15>4^56 D2@47>4^80 D2@56>4^80
+  CRASH & RIDE                : D#3@15>4^104 D#3@24>4^104 D#3@30>4^104 D#3@40>4^104 D#3@46>4^104 D#3@56>4^104 C#3@62>4^80 D#3@63>4^104
+@96 [F7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4+D#4@15>14^56 F3+A3+C4+D#4@31>14^56 F3+A3+C4+D#4@47>14^56 G3+B3+D4+F4@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@6>14^56 C4@22>7^56 A3@30>14^56 C4@54>7^56 D4@62>14^56
+  A.CHORDS | SYNCORD I-A14    : D4@6>14^80 C4@22>7^80 A3@30>14^80 C4@54>7^80 F3@62>29^80 B3@63>28^80
+  BASS | FRETLESS P2-A10      : F3@7>7^56 C3@15>7^56 C3@23>7^56 A2@31>7^56 A2@39>7^56 F2@47>7^56 F2@55>7^56 G2@63>6^56
+  BASS                        : B1@30>4^80 B1@40>4^80 B1@62>4^80
+  SNARE & TOMS                : D2@16>4^80 D2@46>4^80 D2@56>4^80
+  CRASH & RIDE                : D#3@9>4^104 D#3@14>4^104 D#3@23>4^104 D#3@29>4^104 D#3@40>4^104 D#3@45>4^104 D#3@55>4^104 D#3+A3@61>4^104
+@97 [G7 | Adim]
+  CHORDS | CLAVIUM  I-A4      : G3+B3+D4+F4@15>14^56 F3+A3+C4+D#4@31>14^56 F3+A3+C4+D#4@47>14^56 C3+E3+G3@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: D4@14>14^56 D#4@30>7^56 D4@38>7^56 C4@46>14^56 C4@62>14^56
+  A.CHORDS | SYNCORD I-A14    : D#3@30>29^80 A3@31>29^80 E3+G3@62>14^80 C4@63>14^80
+  BASS | FRETLESS P2-A10      : G2@7>7^56 D3@15>7^56 G2@23>7^56 F2@31>7^56 F2@39>7^56 C3@47>7^56 F2@55>7^56 C3@64>13^56
+  BASS                        : B1@30>4^80 B1@40>4^80 B1@63>4^80
+  SNARE & TOMS                : D2@14>4^80 D2@48>4^80 D2@58>4^56
+  CRASH & RIDE                : D#3@9>4^104 D#3@15>4^104 D#3@24>4^104 D#3@30>4^104 D#3@40>4^104 D#3@46>4^104 D#3@56>4^104 C#3@62>4^80
+@98 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@15>14^56 C3+E3+G3@31>14^56 C3+E3+G3@47>14^56 F3+A3+C4@63>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3@14>14^80 C4@15>14^80 C3+E3@38>14^80 G3@39>14^80 A2+C3@54>33^80 F3@55>20^80
+  BASS | FRETLESS P2-A10      : C3@15>14^56 G2@39>14^56 F2@55>33^56
+  BASS                        : B1@31>4^80 B1@39>4^80 B1@55>4^80
+  SNARE & TOMS                : D2@15>4^80 D2@47>4^80
+  CRASH & RIDE                : D#3@14>4^104 D#3@22>4^104 D#3@30>4^104 D#3@37>4^104 D#3@45>4^104 D#3+A3@54>4^104 D#3@62>4^104
+@99 [F | G7]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@15>14^56 G3+B3+D4+F4@31>14^56 G3+B3+D4+F4@47>14^56 C3+E3+G3@63>14^56
+  VOCAL LINE | BigChordEpP1-B6: D#4@30>7^56 D4@38>7^56 C4@46>14^56 C4@62>29^56
+  A.CHORDS | SYNCORD I-A14    : F3@14>14^80 F3+D#4@30>29^80 G3@31>28^80 D4@38>6^80 C4@46>14^80 E3@62>14^80 G3+C4@63>14^80
+  BASS | FRETLESS P2-A10      : G2@31>28^56 C3@63>13^56
+  BASS                        : B1@30>4^80 B1@39>4^80 B1@62>4^80
+  SNARE & TOMS                : D2@16>4^80 D2@47>4^80
+  CRASH & RIDE                : D#3@6>4^104 D#3@14>4^104 D#3@22>4^104 D#3@30>4^104 D#3@38>4^104 D#3@46>4^104 D#3@54>4^104 C#3@63>4^104
+@100 [C]
+  CHORDS | CLAVIUM  I-A4      : C3+E3+G3@15>14^56 C3+E3+G3@31>14^56 C3+E3+G3@47>14^56 F3+A3+C4@63>14^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3@14>14^80 C4@15>14^80 G3+C4@38>14^80 E4+G4@39>14^80 F3+A3@54>33^80 C4+F4@55>33^80
+  BASS | FRETLESS P2-A10      : C3@15>14^56 G2+G3@39>14^56 F2+F3@55>33^56
+  BASS                        : B1@32>4^80 B1@40>4^80 B1@55>4^104
+  SNARE & TOMS                : D2@16>4^80 D2@47>4^80
+  CRASH & RIDE                : A3@15>4^104 D#3@30>4^104 D#3@38>4^104 D#3@46>4^104 D#3+A3@54>4^104 D#3@62>4^80
+@101 [F | C]
+  CHORDS | CLAVIUM  I-A4      : F3+A3+C4@15>14^56 C3+E3+G3@31>315^56
+  A.CHORDS | SYNCORD I-A14    : E3+G3@30>315^80 C4@31>315^80
+  BASS | FRETLESS P2-A10      : C3+G3+C4@31>315^56
+  BASS                        : B1@31>4^104
+  SNARE & TOMS                : D2@13>4^80
+  CRASH & RIDE                : D#3@6>4^104 D#3@14>4^104 D#3@21>4^104 C#3@30>4^104
+@102 [-]
+@103 [-]
+@104 [-]
+@105 [-]
+@106 [-]

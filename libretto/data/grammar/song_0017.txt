@@ -1,406 +1,584 @@
-KEY: G major | METER: 4/4 | TEMPO: 124 | GRID: 8th (adaptive) | BARS: 92
-VOICES: Part1, Lead - Flute, Harmony 1 - Clarinet, Harmony 2 - Clarinet, Part5, Part6, Part7
-@1 [G] (grid:6t)
-  Part7               : G2+B2+D3+G3+D4+G4@6>1
-@2 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-  Part7               : G2+B2+D3+G3+D4+G4@1>7 G2+B2+D3+G3+D4+G4@8>1
-@3 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-  Part7               : G2+B2+D3+G3+D4+G4@1>7 G2+B2+D3+G3+D4+G4@8>1
-@4 [G | C]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : D4@1>1 G5@2>2 E5@4>2 D5@6>2 C5@8>1
-  Harmony 1 - Clarinet: D5@2>2 C5@4>2 B4@6>2 A4@8>1
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G3+D4+G4@4>1 C3+E3+G3+D4+G4@5>3 G3+D4+G4@6>1 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>1
-  Part7               : G2+B2+D3+G3+D4+G4@1>4
-@5 [G]
-  Part1               : D2@1>2 D2@3>2 G2@5>2 G2@7>2
-  Lead - Flute        : C5@1>1 B4@2>2 B4@4>3
-  Harmony 1 - Clarinet: A4@1>1 G4@2>2 G4@4>3
-  Part6               : C3+E3+G3+D4+G4@2>1 D3+A3+D4+F#4@3>2 A3+D4+F#4@4>1 D3+A3+D4+F#4@5>2 G2+B2+D3+G3+D4+G4@7>3 G3+D4+G4@8>1
-@6 [G | C]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : E4@1>1 D4@2>2 G4@4>3 B4@7>1 B4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>2 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>2
-@7 [G]
-  Part1               : G2@1>2 G2@3>2 D2@5>2 D2@7>2
-  Lead - Flute        : B4@1>4
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-  Part7               : G2+B2+D3+G3+D4+G4@8>1
-@8 [G | C]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : D4@1>1 G5@2>2 E5@4>2 D5@6>2 C5@8>1
-  Harmony 1 - Clarinet: D5@2>2 C5@4>2 B4@6>2 A4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>3 G3+D4+G4@7>1 G3+D4+G4@8>1
-  Part7               : G2+B2+D3+G3+D4+G4@1>4
-@9 [G]
-  Part1               : D2@1>2 D2@3>2 G2@5>2 G2@7>2
-  Lead - Flute        : C5@1>1 B4@2>2 B4@4>3
-  Harmony 1 - Clarinet: A4@1>1 G4@2>2 G4@4>3
-  Part6               : C3+E3+G3+D4+G4@1>1 C3+E3+G3+D4+G4@3>1 D3+A3+D4+F#4@4>2 A3+D4+F#4@5>1 D3+A3+D4+F#4@6>2 G2+B2+D3+G3+D4+G4@8>3
-@10 [C | G]
-  Part1               : C2@1>2 C2@3>2 D2@5>2 D2@7>2
-  Lead - Flute        : A4@1>1 G4@2>2 Bb4@4>1 A4@5>1 G4@6>2 G4@8>1
-  Part6               : G3+D4+G4@1>1 G3+D4+G4@2>1 C3+E3+G3+D4+G4@3>3 G3+D4+G4@4>1 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>2 D3+A3+D4+F#4@8>2
-@11 [G]
-  Part1               : G2@1>2 G2@3>2 D2@5>2 G2@7>1 D2@8>1
-  Lead - Flute        : G4@1>4
-  Part6               : A3+D4+F#4@1>1 D3+A3+D4+F#4@2>1 D3+A3+D4+F#4@4>1 G2+B2+D3+G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>3
-@12 [G | C]
-  Part1               : C2@1>3 C2@4>1 G1@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 E4@4>2 C4@6>2 D4@8>1
-  Part6               : G2+B2+D3+G3+D4+G4@1>3 G3+D4+G4@2>1 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>2 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>2 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>2
-@13 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : D4@1>3 D4@4>3
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@14 [G | C]
-  Part1               : C2@1>3 C2@4>1 G1@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 B4@4>2 G4@6>2 G4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>2 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>2 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>2
-@15 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : G4@1>4
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@16 [G | C]
-  Part1               : C2@1>3 C2@4>1 G1@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 E4@4>2 C4@6>2 D4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>2 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>2 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>2
-@17 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : D4@1>3 D4@4>3
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@18 [G]
-  Part1               : C2@1>3 C2@4>1 D2@5>3 D2@8>1
-  Lead - Flute        : A4@1>1 G4@2>2 B4@4>2 G4@6>2 G4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>3 G3+D4+G4@5>1 G3+D4+G4@6>1 C3+E3+G3+D4+G4@7>2
-@19 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : G4@1>4
-  Part6               : D3+A3+D4+F#4@1>2 A3+D4+F#4@2>1 D3+A3+D4+F#4@3>1 D3+A3+D4+F#4@5>1 G2+B2+D3+G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2
-  Part7               : G2+B2+D3+G3+D4+G4@8>1
-@20 [G]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : D4@1>1 G5@2>2 E5@4>2 D5@6>2 C5@8>1
-  Harmony 1 - Clarinet: D5@2>2 C5@4>2 B4@6>2 A4@8>1
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-  Part7               : G2+B2+D3+G3+D4+G4@1>4
-@21 [G]
-  Part1               : D2@1>2 D2@3>2 G2@5>2 G2@7>2
-  Lead - Flute        : C5@1>1 B4@2>2 B4@4>3
-  Harmony 1 - Clarinet: A4@1>1 G4@2>2 G4@4>3
-  Part6               : C3+E3+G3+D4+G4@1>3 G3+D4+G4@2>1 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>1 C3+E3+G3+D4+G4@6>1 D3+A3+D4+F#4@7>2 A3+D4+F#4@8>1
-@22 [G]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : E4@1>1 D4@2>2 G4@4>3 B4@7>1 B4@8>1
-  Part6               : D3+A3+D4+F#4@1>2 G2+B2+D3+G3+D4+G4@3>3 G3+D4+G4@4>1 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@23 [G]
-  Part1               : G2@1>2 G2@3>2 D2@5>2 D2@7>2
-  Lead - Flute        : B4@1>4
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@24 [G]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : D4@1>1 G5@2>2 E5@4>2 D5@6>2 C5@8>1
-  Harmony 1 - Clarinet: D5@2>2 C5@4>2 B4@6>2 A4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@25 [G]
-  Part1               : D2@1>2 D2@3>2 G2@5>2 G2@7>2
-  Lead - Flute        : C5@1>1 B4@2>2 B4@4>3
-  Harmony 1 - Clarinet: A4@1>1 G4@2>2 G4@4>3
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>3 G3+D4+G4@3>1 G3+D4+G4@4>1 C3+E3+G3+D4+G4@5>1 C3+E3+G3+D4+G4@7>1 D3+A3+D4+F#4@8>2
-@26 [D7 | G]
-  Part1               : C2@1>2 C2@3>2 D2@5>2 D2@7>2
-  Lead - Flute        : A4@1>1 G4@2>2 Bb4@4>1 A4@5>1 G4@6>2 G4@8>1
-  Part6               : A3+D4+F#4@1>1 D3+A3+D4+F#4@2>2 G2+B2+D3+G3+D4+G4@4>3 G3+D4+G4@5>1 G3+D4+G4@6>1 C3+E3+G3+D4+G4@7>3 G3+D4+G4@8>1
-@27 [G | D]
-  Part1               : G2@1>2 G2@3>2 D2@5>2 D2@7>2
-  Lead - Flute        : G4@1>4
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 D3+A3+D4+F#4@4>2 A3+D4+F#4@5>1 D3+A3+D4+F#4@6>1 D3+A3+D4+F#4@8>1
-@28 [G]
-  Part1               : C2@1>3 C2@4>1 G1@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 E4@4>2 C4@6>2 D4@8>1
-  Part6               : G2+B2+D3+G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>3 G2+B2+D3+G3+D4+G4@5>3 G3+D4+G4@6>1 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>2
-@29 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : D4@1>3 D4@4>3
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>2 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@30 [G]
-  Part1               : C2@1>3 C2@4>1 G1@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 B4@4>2 G4@6>2 G4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>2
-@31 [C | G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : G4@1>4
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>2 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@32 [G]
-  Part1               : C2@1>3 C2@4>1 G1@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 E4@4>2 C4@6>2 D4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>2
-@33 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : D4@1>3 D4@4>3
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>2 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>2 G3+D4+G4@7>1 G2+B2+D3+G3+D4+G4@8>2
-@34 [G]
-  Part1               : C2@1>3 C2@4>1 D2@5>3 D2@8>1
-  Lead - Flute        : A4@1>1 G4@2>2 B4@4>2 G4@6>2 G4@8>1
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>3
-@35 [G | D]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : G4@1>4
-  Part6               : G3+D4+G4@1>1 G3+D4+G4@2>1 C3+E3+G3+D4+G4@3>2 D3+A3+D4+F#4@5>2 A3+D4+F#4@6>1 D3+A3+D4+F#4@7>1
-@36 [G]
-  Part1               : F#2+G2@1>2 G2@3>2 F#2+G2@5>2 G2@7>2
-  Lead - Flute        : F#5@1>4 F#5@5>4
-  Harmony 1 - Clarinet: D5@1>4 D5@5>4
-  Harmony 2 - Clarinet: A4@1>4 A4@5>4
-  Part6               : D3+A3+D4+F#4@1>1 G2+B2+D3+G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@37 [G] (grid:12t)
-  Part1               : F#2+G2@1>2 G2@4>3 F#2+G2@7>2 G2@10>3
-  Lead - Flute        : F#5@1>6 F#5@7>6
-  Harmony 1 - Clarinet: D5@1>6 D5@7>6
-  Harmony 2 - Clarinet: A4@1>6 A4@7>6
-  Part6               : G2+B2+D3+G3+D4+G4@1>3 G2+B2+D3+G3+D4+G4@4>4 G2+B2+D3+G3+D4+G4@9>4 G3+D4+G4@10>2 G3+D4+G4@11>2
-@38 [G]
-  Part1               : C2@1>8
-  Lead - Flute        : F#5@1>1 E5@2>3
-  Harmony 1 - Clarinet: D5@1>1 C5@2>3
-  Harmony 2 - Clarinet: A4@1>1 G4@2>3
-  Part5               : B3@6>1 C4+E4@7>1 D4+F4@8>1
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G2+B2+D3+G3+D4+G4@3>3 G2+B2+D3+G3+D4+G4@6>3 G3+D4+G4@7>1 G3+D4+G4@8>1
-@39 [C] (grid:12t)
-  Part1               : C2@1>12
-  Part5               : E4+G4@1>2 D4+F4@3>2 C4+E4@5>2 D4+F4@7>3 C4+E4@10>3
-  Part6               : C3+E3+G3+C4+E4@1>12
-@40 [G] (grid:24t)
-  Part1               : G2@1>9 G2@10>3 G2@13>10
-  Part5               : C4+E4@1>3 B3+D4@4>14 C4+E4@17>4 B3+D4@21>4
-  Part6               : C3+E3+G3+C4+E4@23>22
-@41 [D7] (grid:24t)
-  Part1               : D2@1>9 D2@10>3 D2@13>10
-  Part5               : B3+D4@1>3 A3+C4@4>14 B3+D4@17>4 A3+C4@21>4
-@42 [G] (grid:16)
-  Part1               : G2@1>6 G2@7>2 G2@9>7
-  Part5               : A3+C4@1>6 G3+B3@7>10
-  Part7               : G2+B2+D3+G3@1>15 D4+G4@2>14
-@43 [G] (grid:16)
-  Part1               : G2@1>6 G2@7>2 G2@9>7
-  Part5               : G3@1>16 D4@3>1 G4+B4@4>13
-  Part6               : G2+B2+D3+G3+D4+G4@16>12
-  Part7               : G2+B2+D3+G3@1>15 D4+G4@2>14
-@44 [G] (grid:16)
-  Part1               : G2@1>4 G2@5>4 C2@9>4 C2@13>4
-  Lead - Flute        : D4@1>2 G5@3>4 E5@7>4 D5@11>4 C5@15>2
-  Harmony 1 - Clarinet: D5@3>4 C5@7>4 B4@11>4 A4@15>2
-  Part6               : G3+D4+G4@10>2 G2+B2+D3+G3+D4+G4@12>4 G3+D4+G4@14>2 G2+B2+D3+G3+D4+G4@16>4
-  Part7               : G2+B2+D3+G3+D4+G4@1>7
-@45 [G] (grid:16)
-  Part1               : D2@1>4 D2@5>4 G2@9>4 G2@13>4
-  Lead - Flute        : C5@1>2 B4@3>4 B4@7>6
-  Harmony 1 - Clarinet: A4@1>2 G4@3>4 G4@7>6
-  Part6               : G2+B2+D3+G3+D4+G4@4>6 G2+B2+D3+G3+D4+G4@10>6 G3+D4+G4@12>2 G3+D4+G4@14>2 G2+B2+D3+G3+D4+G4@16>4
-@46 [G | C] (grid:16)
-  Part1               : G2@1>4 G2@5>4 C2@9>4 C2@13>4
-  Lead - Flute        : E4@1>2 D4@3>4 G4@7>6 B4@13>2 B4@15>2
-  Part6               : G3+D4+G4@2>2 G2+B2+D3+G3+D4+G4@4>4 G3+D4+G4@6>2 C3+E3+G3+D4+G4@8>6 G3+D4+G4@10>2 G3+D4+G4@12>2 C3+E3+G3+D4+G4@14>2
-@47 [G] (grid:16)
-  Part1               : G2@1>4 G2@5>4 D2@9>4 D2@13>4
-  Lead - Flute        : B4@1>8
-  Part6               : C3+E3+G3+D4+G4@2>2 D3+A3+D4+F#4@4>4 A3+D4+F#4@6>2 D3+A3+D4+F#4@8>4 G2+B2+D3+G3+D4+G4@12>6 G3+D4+G4@14>2 G3+D4+G4@16>2
-@48 [G | C] (grid:16)
-  Part1               : G2@1>4 G2@5>4 C2@9>4 C2@13>4
-  Lead - Flute        : D4@1>2 G5@3>4 E5@7>4 D5@11>4 C5@15>2
-  Harmony 1 - Clarinet: D5@3>4 C5@7>4 B4@11>4 A4@15>2
-  Part6               : G2+B2+D3+G3+D4+G4@2>4 G3+D4+G4@4>2 G2+B2+D3+G3+D4+G4@6>4 G3+D4+G4@8>2 C3+E3+G3+D4+G4@10>4 G3+D4+G4@12>2 C3+E3+G3+D4+G4@14>4 G3+D4+G4@16>2
-@49 [G] (grid:16)
-  Part1               : D2@1>4 D2@5>4 G2@9>4 G2@13>4
-  Lead - Flute        : C5@1>2 B4@3>4 B4@7>6
-  Harmony 1 - Clarinet: A4@1>2 G4@3>4 G4@7>6
-  Part6               : G2+B2+D3+G3+D4+G4@2>4 G3+D4+G4@4>2 G2+B2+D3+G3+D4+G4@6>4 G3+D4+G4@8>2 G2+B2+D3+G3+D4+G4@10>4 G3+D4+G4@12>2 G2+B2+D3+G3+D4+G4@14>4 G3+D4+G4@16>2
-@50 [G] (grid:16)
-  Part1               : C2@1>4 C2@5>4 D2@9>4 D2@13>4
-  Lead - Flute        : A4@1>2 G4@3>4 Bb4@7>2 A4@9>2 G4@11>4 G4@15>2
-  Part6               : G2+B2+D3+G3+D4+G4@2>4 G3+D4+G4@4>2 G2+B2+D3+G3+D4+G4@6>4 G3+D4+G4@8>2 C3+E3+G3+D4+G4@10>6 G3+D4+G4@12>2 G3+D4+G4@14>2 C3+E3+G3+D4+G4@16>2
-@51 [G] (grid:16)
-  Part1               : G2@1>4 G2@5>4 D2@9>4 G2@13>2 D2@15>2
-  Lead - Flute        : G4@1>8
-  Part6               : C3+E3+G3+D4+G4@4>2 D3+A3+D4+F#4@6>4 A3+D4+F#4@8>2 D3+A3+D4+F#4@10>4 G2+B2+D3+G3+D4+G4@14>6 G3+D4+G4@16>2
-@52 [C] (grid:16)
-  Part1               : C2@1>6 C2@7>2 G1@9>7
-  Lead - Flute        : A4@1>2 G4@3>4 E4@7>4 C4@11>4 D4@15>2
-  Part6               : G3+D4+G4@2>2 C3+E3+G3+D4+G4@4>6 G3+D4+G4@6>2 G3+D4+G4@8>2 C3+E3+G3+D4+G4@10>4 D3+A3+D4+F#4@14>4 A3+D4+F#4@16>2
-@53 [G] (grid:16)
-  Part1               : G2@1>6 G2@7>2 D2@9>7
-  Lead - Flute        : D4@1>6 D4@7>6
-  Part6               : D3+A3+D4+F#4@2>2 D3+A3+D4+F#4@6>2 G2+B2+D3+G3+D4+G4@8>2 G2+B2+D3+G3+D4+G4@10>6 G2+B2+D3+G3+D4+G4@16>6
-@54 [C] (grid:16)
-  Part1               : C2@1>6 C2@7>2 G1@9>7
-  Lead - Flute        : A4@1>2 G4@3>4 B4@7>4 G4@11>4 G4@15>2
-  Part6               : G3+D4+G4@2>2 G3+D4+G4@4>2 C3+E3+G3+D4+G4@6>4 G3+D4+G4@8>2 C3+E3+G3+D4+G4@10>4 G3+D4+G4@12>2 C3+E3+G3+D4+G4@14>4 G3+D4+G4@16>2
-@55 [G] (grid:16)
-  Part1               : G2@1>6 G2@7>2 D2@9>7
-  Lead - Flute        : G4@1>8
-  Part6               : C3+E3+G3+D4+G4@2>4 G3+D4+G4@4>2 G2+B2+D3+G3+D4+G4@6>4 G3+D4+G4@8>2 G2+B2+D3+G3+D4+G4@10>4 G3+D4+G4@12>2 G2+B2+D3+G3+D4+G4@14>4 G3+D4+G4@16>2
-@56 [C] (grid:16)
-  Part1               : C2@1>6 C2@7>2 G1@9>7
-  Lead - Flute        : A4@1>2 G4@3>4 E4@7>4 C4@11>4 D4@15>2
-  Part6               : G2+B2+D3+G3+D4+G4@2>4 G3+D4+G4@4>2 C3+E3+G3+D4+G4@6>4 G3+D4+G4@8>2 C3+E3+G3+D4+G4@10>4 G3+D4+G4@12>2 C3+E3+G3+D4+G4@14>4 G3+D4+G4@16>2
-@57 [G] (grid:16)
-  Part1               : G2@1>6 G2@7>2 D2@9>7
-  Lead - Flute        : D4@1>6 D4@7>6
-  Part6               : C3+E3+G3+D4+G4@2>4 G3+D4+G4@4>2 G2+B2+D3+G3+D4+G4@6>4 G3+D4+G4@8>2 G2+B2+D3+G3+D4+G4@10>4 G3+D4+G4@12>2 G2+B2+D3+G3+D4+G4@14>4 G3+D4+G4@16>2
-@58 [G] (grid:16)
-  Part1               : C2@1>6 C2@7>2 D2@9>6 D2@15>2
-  Lead - Flute        : A4@1>2 G4@3>4 B4@7>4 G4@11>4 G4@15>2
-  Part6               : G2+B2+D3+G3+D4+G4@2>4 G3+D4+G4@4>2 C3+E3+G3+D4+G4@6>4 G3+D4+G4@8>2 C3+E3+G3+D4+G4@10>4 G3+D4+G4@12>2 C3+E3+G3+D4+G4@14>4 G3+D4+G4@16>2
-@59 [G] (grid:16)
-  Part1               : G2@1>6 G2@7>2 D2@9>7
-  Lead - Flute        : G4@1>8
-  Part6               : C3+E3+G3+D4+G4@2>4 G3+D4+G4@4>2 G2+B2+D3+G3+D4+G4@6>4 G3+D4+G4@8>2 G2+B2+D3+G3+D4+G4@10>4 G3+D4+G4@12>2 G2+B2+D3+G3+D4+G4@14>4 G3+D4+G4@16>2
-@60 [G] (grid:16)
-  Part1               : F#2+G2@1>3 G2@5>4 F#2+G2@9>3 G2@13>4
-  Lead - Flute        : F#5@1>8 F#5@9>8
-  Harmony 1 - Clarinet: D5@1>8 D5@9>8
-  Harmony 2 - Clarinet: A4@1>8 A4@9>8
-  Part6               : G2+B2+D3+G3+D4+G4@2>4 G3+D4+G4@4>2 C3+E3+G3+D4+G4@6>6 G3+D4+G4@8>2 G3+D4+G4@10>2 C3+E3+G3+D4+G4@12>4 D3+A3+D4+F#4@16>4
-  Part7               : G2+B2+D3+G3@1>15 D4+G4@2>14
-@61 [G] (grid:16)
-  Part1               : F#2+G2@1>3 G2@5>4 F#2+G2@9>3 G2@13>4
-  Lead - Flute        : F#5@1>8 F#5@9>8
-  Harmony 1 - Clarinet: D5@1>8 D5@9>8
-  Harmony 2 - Clarinet: A4@1>8 A4@9>8
-  Part6               : A3+D4+F#4@2>2 D3+A3+D4+F#4@4>2 D3+A3+D4+F#4@8>2 G2+B2+D3+G3+D4+G4@10>2 G2+B2+D3+G3+D4+G4@12>4 G2+B2+D3+G3+D4+G4@16>4
-  Part7               : G2+B2+D3+G3@1>15 D4+G4@2>14
-@62 [C] (grid:16)
-  Part1               : C2@1>16
-  Lead - Flute        : F#5@1>2 E5@3>6
-  Harmony 1 - Clarinet: D5@1>2 C5@3>6
-  Harmony 2 - Clarinet: A4@1>2 G4@3>6
-  Part5               : B3@11>2 C4+E4@13>2 D4+F4@15>2
-  Part6               : G3+D4+G4@2>2 G2+B2+D3+G3+D4+G4@4>4 G3+D4+G4@6>2 G2+B2+D3+G3+D4+G4@8>12
-  Part7               : C3+E3+G3+C4+E4@1>16
-@63 [G] (grid:16)
-  Part1               : C2@1>16
-  Part5               : E4+G4@1>3 D4+F4@4>3 C4+E4@6>3 D4+F4@9>4 C4+E4@13>4
-  Part6               : G3+D4+G4@2>2 G2+B2+D3+G3+D4+G4@4>4 G3+D4+G4@6>2 G2+B2+D3+G3+D4+G4@8>12
-  Part7               : C3+E3+G3+C4+E4@16>15
-@64 [G | C] (grid:16)
-  Part1               : G2@1>6 G2@7>2 G2@9>7
-  Part5               : C4+E4@1>2 B3+D4@3>9 C4+E4@12>3 B3+D4@14>3
-  Part6               : G3+D4+G4@2>2 G2+B2+D3+G3+D4+G4@4>4 G3+D4+G4@6>2 C3+E3+G3+C4+E4@8>16
-@65 [D7 | Bm]
-  Part1               : D2@1>3 D2@4>1 D2@5>4
-  Part5               : B3+D4@1>1 A3+C4@2>4 B3+D4@6>3
-@66 [C7]
-  Part1               : G2@1>3 G2@4>1 G2@5>4
-  Part5               : A3+C4@1>1 G3+B3@2>2 G3+B3@4>5
-  Part6               : C3+E3+G3+C4+E4@4>8
-@67 [G] (grid:24t)
-  Part1               : G2@1>9 G2@10>3 D2@13>10
-  Part5               : G3@1>24 D4@4>2 G4+B4@5>20
-  Part7               : G2+B2+D3+G3@23>22
-@68 [G]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : D4@1>1 G5@2>2 E5@4>2 D5@6>2 C5@8>1
-  Harmony 1 - Clarinet: D5@2>2 C5@4>2 B4@6>2 A4@8>1
-  Part7               : D4+G4@1>7
-@69 [G]
-  Part1               : D2@1>2 D2@3>2 G2@5>2 G2@7>2
-  Lead - Flute        : C5@1>1 B4@2>2 B4@4>3
-  Harmony 1 - Clarinet: A4@1>1 G4@2>2 G4@4>3
-  Part7               : G2+B2+D3+G3+D4+G4@1>4
-@70 [G]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : E4@1>1 D4@2>2 G4@4>3 B4@7>1 B4@8>1
-  Part6               : G2+B2+D3+G3+D4+G4@4>3 G2+B2+D3+G3+D4+G4@7>3
-@71 [G]
-  Part1               : G2@1>2 G2@3>2 D2@5>2 D2@7>2
-  Lead - Flute        : B4@1>4
-  Part6               : G3+D4+G4@1>1 G2+B2+D3+G3+D4+G4@2>2 G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>2 G3+D4+G4@5>1 G2+B2+D3+G3+D4+G4@6>2 G3+D4+G4@7>1 C3+E3+G3+D4+G4@8>3
-@72 [G | D7]
-  Part1               : G2@1>2 G2@3>2 C2@5>2 C2@7>2
-  Lead - Flute        : D4@1>1 G5@2>2 E5@4>2 D5@6>2 C5@8>1
-  Harmony 1 - Clarinet: D5@2>2 C5@4>2 B4@6>2 A4@8>1
-  Part6               : G3+D4+G4@1>1 G3+D4+G4@2>1 C3+E3+G3+D4+G4@3>1 C3+E3+G3+D4+G4@5>1 D3+A3+D4+F#4@6>2 A3+D4+F#4@7>1 D3+A3+D4+F#4@8>2
-@73 [G]
-  Part1               : D2@1>2 D2@3>2 G2@5>2 G2@7>2
-  Lead - Flute        : C5@1>1 B4@2>2 B4@4>3
-  Harmony 1 - Clarinet: A4@1>1 G4@2>2 G4@4>3
-  Part6               : G2+B2+D3+G3+D4+G4@2>3 G3+D4+G4@3>1 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@74 [C | G]
-  Part1               : C2@1>2 C2@3>2 D2@5>2 D2@7>2
-  Lead - Flute        : A4@1>1 G4@2>2 Bb4@4>1 A4@5>1 G4@6>2 G4@8>1
-  Part6               : C3+E3+G3+D4+G4@1>2 G3+D4+G4@2>1 C3+E3+G3+D4+G4@3>2 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@75 [G]
-  Part1               : G2@1>2 G2@3>2 D2@5>2 G2@7>1 D2@8>1
-  Lead - Flute        : G4@1>4
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@76 [C]
-  Part1               : C2@1>3 C2@4>1 C2@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 E4@4>2 C4@6>2 D4@8>1
-  Part6               : C3+E3+G3+D4+G4@1>3 G3+D4+G4@2>1 G3+D4+G4@3>1 C3+E3+G3+D4+G4@4>1 C3+E3+G3+D4+G4@6>1 D3+A3+D4+F#4@7>2 A3+D4+F#4@8>1
-@77 [G]
-  Part1               : G2@1>3 G2@4>1 G2@5>4
-  Lead - Flute        : D4@1>3 D4@4>3
-  Part6               : D3+A3+D4+F#4@1>2 G2+B2+D3+G3+D4+G4@3>3 G3+D4+G4@4>1 G3+D4+G4@5>1 C3+E3+G3+D4+G4@6>3 G3+D4+G4@7>1 G3+D4+G4@8>1
-@78 [C | G]
-  Part1               : C2@1>3 C2@4>1 C2@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 B4@4>2 G4@6>2 G4@8>1
-  Part6               : C3+E3+G3+D4+G4@1>2 D3+A3+D4+F#4@3>2 A3+D4+F#4@4>1 D3+A3+D4+F#4@5>1 D3+A3+D4+F#4@7>1 G2+B2+D3+G3+D4+G4@8>1
-@79 [G]
-  Part1               : G2@1>3 G2@4>1 G2@5>4
-  Lead - Flute        : G4@1>4
-  Part6               : G2+B2+D3+G3+D4+G4@1>3 G2+B2+D3+G3+D4+G4@4>3 G3+D4+G4@5>1 G3+D4+G4@6>1 C3+E3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@80 [C]
-  Part1               : C2@1>3 C2@4>1 C2@5>4
-  Lead - Flute        : A4@1>1 G4@2>2 E4@4>2 C4@6>2 D4@8>1
-  Part6               : C3+E3+G3+D4+G4@1>2 G3+D4+G4@2>1 C3+E3+G3+D4+G4@3>2 G3+D4+G4@4>1 C3+E3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@81 [G]
-  Part1               : G2@1>3 G2@4>1 G2@5>4
-  Lead - Flute        : D4@1>3 D4@4>3
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 C3+E3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@82 [C | G]
-  Part1               : C2@1>3 C2@4>1 D2@5>3 D2@8>1
-  Lead - Flute        : A4@1>1 G4@2>2 B4@4>2 G4@6>2 G4@8>1
-  Part6               : C3+E3+G3+D4+G4@1>2 G3+D4+G4@2>1 C3+E3+G3+D4+G4@3>2 G3+D4+G4@4>1 C3+E3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@83 [G]
-  Part1               : G2@1>3 G2@4>1 D2@5>4
-  Lead - Flute        : G4@1>4
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 C3+E3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@84 [G]
-  Part1               : F#2+G2@1>2 G2@3>2 F#2+G2@5>2 G2@7>2
-  Lead - Flute        : F#5@1>4 F#5@5>4
-  Harmony 1 - Clarinet: D5@1>4 D5@5>4
-  Harmony 2 - Clarinet: A4@1>4 A4@5>4
-  Part6               : C3+E3+G3+D4+G4@1>2 G3+D4+G4@2>1 C3+E3+G3+D4+G4@3>2 G3+D4+G4@4>1 C3+E3+G3+D4+G4@5>2 G3+D4+G4@6>1 G2+B2+D3+G3+D4+G4@7>2 G3+D4+G4@8>1
-@85 [G]
-  Part1               : F#2+G2@1>2 G2@3>2 F#2+G2@5>2 G2@7>2
-  Lead - Flute        : F#5@1>4 F#5@5>4
-  Harmony 1 - Clarinet: D5@1>4 D5@5>4
-  Harmony 2 - Clarinet: A4@1>4 A4@5>4
-  Part6               : G2+B2+D3+G3+D4+G4@1>2 G3+D4+G4@2>1 G2+B2+D3+G3+D4+G4@3>2 G3+D4+G4@4>1 G2+B2+D3+G3+D4+G4@5>2 G3+D4+G4@6>1 C3+E3+G3+D4+G4@7>3 G3+D4+G4@8>1
-@86 [C]
-  Part1               : C2@1>8
-  Lead - Flute        : E5@1>8
-  Harmony 1 - Clarinet: C5@1>8
-  Harmony 2 - Clarinet: G4@1>8
-  Part5               : B3@6>1 C4+E4@7>1 D4+F4@8>1
-  Part6               : G3+D4+G4@1>1 C3+E3+G3+D4+G4@2>2 D3+A3+D4+F#4@4>2 A3+D4+F#4@5>1 D3+A3+D4+F#4@6>1 D3+A3+D4+F#4@8>1
-@87 [G] (grid:24t)
-  Part1               : C2@1>24
-  Part5               : E4+G4@1>4 D4+F4@5>4 C4+E4@9>4 D4+F4@13>6 C4+E4@19>6
-  Part6               : G2+B2+D3+G3+D4+G4@1>3 G2+B2+D3+G3+D4+G4@4>6 G2+B2+D3+G3+D4+G4@10>6 G3+D4+G4@13>3 G2+B2+D3+G3+D4+G4@16>6 G3+D4+G4@19>3 G2+B2+D3+G3+D4+G4@22>12
-@88 [G] (grid:12t)
-  Part5               : G3+B3+D4@1>12
-  Part6               : G3+D4+G4@4>2 G2+B2+D3+G3+D4+G4@5>6 G3+D4+G4@10>2 G2+B2+D3+G3+D4+G4@11>6
-@89 [G]
-  Part5               : G3+B3+D4@1>8
-  Part6               : G3+D4+G4@3>1 G2+B2+D3+G3+D4+G4@4>4 G3+D4+G4@6>2 C3+E3+G3+C4+E4@8>8
-@90 [G] (grid:4)
-  Part5               : G3+B3+D4@1>4
-@91 [G] (grid:6t)
-  Part5               : G3+B3+D4@1>6
-  Part6               : C3+E3+G3+C4+E4@6>6
-@92 [-]
+KEY: F major | METER: 4/4 | TEMPO: 92 | GRID: 64th (adaptive) | BARS: 91
+VOICES: ANDRA' TUTTO BENE[drums], ANDRA' TUTTO BENE#2[prog=33], ANDRA' TUTTO BENE#3[prog=26], ANDRA' TUTTO BENE#4[prog=1], ANDRA' TUTTO BENE#5[prog=50], ANDRA' TUTTO BENE#6[prog=73], ANDRA' TUTTO BENE#7[prog=49]
+@1 [F] (grid:4)
+@2 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>15^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: F3@1>1^104 A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>63^80
+@3 [Am7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^56 Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Gb2+Gb3+Eb5@57>1^104
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+@4 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>15^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 D3@41>8^104 F3@49>8^104 G3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>15^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+@5 [Bb | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Bb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@9>7^104 Bb2@17>15^104 C3@33>7^104 C3@41>15^104 F2@57>7^104
+  ANDRA' TUTTO BENE#3: A3@1>7^104 A3@9>8^104 G3@17>7^104 G3@25>8^104 F3@33>7^104 D3@41>7^104 C3@49>7^104 F3@57>22^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+@6 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>15^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+@7 [Am7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+@8 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>15^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 F3@41>8^104 G3@49>7^104 A3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^80 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+@9 [Bb | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@9>7^104 Bb2@17>7^104 Bb2@25>7^104 C3@33>7^104 C3@41>7^104 C3@49>7^104
+  ANDRA' TUTTO BENE#3: Bb3@1>7^104 Bb3@9>7^104 A3@17>7^104 A3@25>8^104 G3@33>7^104 F3@41>8^104 E3@49>7^104 F3@57>39^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+@10 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>23^104 F2@25>15^104 F2@41>15^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>39^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>117^80
+  ANDRA' TUTTO BENE#6: C5@17>15^104 A4@33>15^104 A4@49>7^104 Bb4@57>7^104
+@11 [Dm | Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Gb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: D2@1>23^104 D2@25>15^104 C2@41>7^104 D2@49>7^104 Eb2@57>7^104
+  ANDRA' TUTTO BENE#4: D3@1>15^80 A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>7^104 D3@25>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>7^104 D3@49>7^104 Bb3+Eb4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: D4@1>53^80 F4+Bb4@57>254^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 G4@9>7^104 F4@17>7^104 F4@25>15^104 G4@41>7^104 A4@49>7^104 Bb4@57>15^104
+@12 [Eb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: Eb2@1>7^104 Eb3@9>7^104 Eb3@17>7^104 Eb2@25>7^104 Eb3@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Eb3@9>7^104 Bb3+Eb4+G4+Bb4@17>7^104 Eb3@25>7^104 Bb3+Eb4+G4+Bb4@33>23^104 Eb3@41>15^104
+  ANDRA' TUTTO BENE#6: Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 A4@41>15^104 F4@57>24^104
+@13 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Bb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb1@17>7^104 Bb1@25>7^104 Bb1@33>7^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^56 Bb2@9>23^104 Bb3+D4+F4+Bb4@17>15^104 Bb2@33>31^104 Bb3+D4+F4+Bb4@41>23^104
+  ANDRA' TUTTO BENE#6: C4@25>7^104 D4@33>7^104 F4@41>7^104 D4@49>7^104 C4@57>7^104
+@14 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>23^104 F2@25>15^104 F2@41>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>39^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>23^104
+  ANDRA' TUTTO BENE#5: C4+A4@1>119^80
+  ANDRA' TUTTO BENE#6: C5@17>15^104 A4@33>15^104 A4@49>7^104 Bb4@57>7^104
+@15 [Dm | Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: D2@1>23^104 D2@25>15^104 C2@41>7^104 D2@49>7^104 Eb2@57>15^104
+  ANDRA' TUTTO BENE#4: D3@1>15^80 A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>7^104 D3@25>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>7^104 D3@49>7^104 Bb3+Eb4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: D4@1>55^80 F4+Bb4@57>133^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 G4@9>7^104 F4@17>7^104 F4@25>15^104 G4@41>7^104 A4@49>7^104 Bb4@57>15^104
+@16 [Eb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Eb2@9>7^104 Eb2@17>7^104 Eb2@25>7^104 Eb2@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Eb3@9>7^104 Bb3+Eb4+G4+Bb4@17>7^104 Eb3@25>7^104 Eb3+Bb3+Eb4+G4+Bb4@33>7^104 Eb3+Bb3+Eb4+G4+Bb4@41>15^104
+  ANDRA' TUTTO BENE#6: Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 A4@41>15^104 F4@57>24^104
+@17 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Bb1@17>23^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^56 Bb2@9>23^104 Bb3+D4+F4+Bb4@17>15^104 Bb2@33>31^104 Bb3+D4+F4+Bb4@41>23^104
+  ANDRA' TUTTO BENE#6: C4@25>7^104 D4@33>7^104 F4@41>7^104 D4@49>7^104 C4@57>7^104
+@18 [F | Dm7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>23^104 F2@41>15^104 Eb2@57>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>15^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>7^104 F2@49>7^104 Bb3+D4+G4+Bb4@57>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>55^80 D4+G4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@1>7^104 D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D5@57>15^104
+@19 [Cm7 | Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Gb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Eb2@17>15^104 Eb2@33>7^104 Eb2@41>7^104 Eb2@49>7^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Bb3+D4+G4+Bb4@17>7^104 Eb3@25>15^104 A3+D4+G4+A4@33>7^80 Bb3+D4+G4+Bb4@41>7^104 Bb3+D4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: F4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 F4@57>23^104
+@20 [Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: Bb1@17>15^104 Bb1@33>7^104 Bb1@41>7^104 Bb1@49>7^104 F2@57>23^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^104 Bb2@9>7^104 Bb3+D4+F4+Bb4@17>7^104 Bb2@25>15^104 A3+D4+F4+A4@33>7^104 Bb3+D4+F4+Bb4@41>15^104 Bb2@49>7^104 A3+C4+F4+A4@57>15^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@57>71^80
+  ANDRA' TUTTO BENE#6: F4@25>7^104 D5@33>7^104 C5@41>7^104 A4@49>7^104 C5@57>7^104
+@21 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Bb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: F2@17>23^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: F3@1>15^104 A3+C4+F4+A4@17>15^104 F3@25>15^104 G3+C4+F4+G4@33>31^104 A3+A4@41>23^104 F3@49>15^104
+  ANDRA' TUTTO BENE#6: A4@1>15^104 A4@25>7^104 A4@33>7^104 A4@41>7^104 G4@49>7^104 F4@57>7^104
+@22 [F | Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>23^104 F2@41>7^104 F2@49>7^104 Eb2@57>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>15^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>7^104 F2@49>7^104 Bb3+D4+G4+Bb4@57>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>55^80 D4+G4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@1>7^104 D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D5@57>15^104
+@23 [Eb7 | Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: Eb2@17>15^104 Eb2@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Bb3+D4+G4+Bb4@17>7^104 Eb3@25>15^104 A3+D4+G4+A4@33>7^80 Bb3+D4+G4+Bb4@41>7^104 Bb3+D4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: F4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D4@57>15^104
+@24 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Bb1@17>23^104 Bb1@41>7^104 Bb1@49>7^104 Eb2@57>15^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^104 Bb2@9>7^104 Bb3+D4+F4+Bb4@17>7^104 Bb2@25>15^104 A3+D4+F4+A4@33>7^104 Bb3+D4+F4+Bb4@41>15^104 Bb2@49>7^104 Bb3+Eb4+G4@57>15^104
+  ANDRA' TUTTO BENE#5: Bb3+Eb4+G4@57>71^80
+  ANDRA' TUTTO BENE#6: F4@9>15^104 D4@41>7^104 F4@49>7^104 Bb4@57>15^104
+@25 [Eb | F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Eb2@9>7^104 Eb2@17>7^104 Bb1@25>7^104 Bb1@33>7^104 Bb1@41>7^104 Bb1@49>7^104 Bb1@57>7^104
+  ANDRA' TUTTO BENE#4: Eb3@9>15^104 Bb3+Eb4+G4@17>15^104 Bb3+F4+A4@25>7^104 Bb3+Eb4+F4+A4@33>7^104 Bb3+Eb4+F4+A4@41>7^104 Bb3+Eb4+F4+A4@49>15^104 Eb3@57>7^104
+  ANDRA' TUTTO BENE#5: F4+A4@25>39^80
+  ANDRA' TUTTO BENE#6: Bb4@9>7^104 Bb4@17>7^104 C5@25>7^104 Ab4@33>7^104 G4@41>7^104 F4@49>15^104
+@26 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 Gb2@45>1^32 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>7^104 F2@25>7^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: F3@1>16^104 A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+  ANDRA' TUTTO BENE#6: F4@1>15^104 A4@17>7^104 F4@25>7^104 G4@33>7^104 A4@41>15^104 D5@57>15^104
+  ANDRA' TUTTO BENE#7: C5+F5+A5@1>191^80
+@27 [Am7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^56 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Gb2+Gb3+Eb5@57>1^104
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>15^104 A4@33>7^104 G4@41>15^104 G4@57>11^104
+  ANDRA' TUTTO BENE#7: E5+C6@1>63^80
+@28 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 D3@41>8^104 F3@49>8^104 G3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>15^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+  ANDRA' TUTTO BENE#6: A4@5>3^104 F4@9>23^104 D4@41>7^104 F4@49>7^104 G4@57>7^104
+  ANDRA' TUTTO BENE#7: D5+F5@1>95^80
+@29 [Gm7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Bb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@17>15^104 C3@33>7^104 C3@41>7^104 C3@49>7^104 F2@57>7^104
+  ANDRA' TUTTO BENE#3: A3@1>7^104 A3@9>8^104 G3@17>7^104 G3@25>8^104 F3@33>7^104 D3@41>7^104 C3@49>7^104 F3@57>22^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 A4@9>7^104 G4@17>7^104 G4@25>7^104 F4@33>7^104 D4@41>7^104 C4@49>7^104 G4@57>15^104
+  ANDRA' TUTTO BENE#7: Bb4@1>31^80 C5+E5+G5@33>95^80
+@30 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>7^104 F2@25>7^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+  ANDRA' TUTTO BENE#6: F4@9>8^104 A4@17>7^104 F4@25>7^104 G4@33>7^104 A4@41>15^104 D5@57>15^104
+  ANDRA' TUTTO BENE#7: F5+A5@1>191^80
+@31 [Am | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>15^104 A4@33>7^104 G4@41>15^104 G4@57>11^104
+  ANDRA' TUTTO BENE#7: E5+C6@1>63^80
+@32 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 F3@41>8^104 G3@49>7^104 A3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^80 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+  ANDRA' TUTTO BENE#6: A4@5>3^104 F4@9>23^104 F4@41>7^104 G4@49>7^104 A4@57>7^104
+  ANDRA' TUTTO BENE#7: D5+F5@1>95^80
+@33 [Bb | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@17>15^104 C3@33>7^104 C3@41>7^104 C3@49>7^104 F3@57>7^104
+  ANDRA' TUTTO BENE#3: Bb3@1>7^104 Bb3@9>7^104 A3@17>7^104 A3@25>8^104 G3@33>7^104 F3@41>8^104 E3@49>7^104 F3@57>39^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+  ANDRA' TUTTO BENE#6: Bb4@1>7^104 Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 F4@41>7^104 E4@49>7^104 F4@57>15^104
+  ANDRA' TUTTO BENE#7: Bb4@1>31^80 C5+E5+G5@33>31^80
+@34 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>23^104 F2@25>15^104 F2@41>15^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>39^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>117^80
+  ANDRA' TUTTO BENE#6: C5@17>15^104 A4@33>15^104 A4@49>7^104 Bb4@57>7^104
+@35 [Dm | Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Gb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: D2@1>23^104 D2@25>15^104 C2@41>7^104 D2@49>7^104 Eb2@57>7^104
+  ANDRA' TUTTO BENE#4: D3@1>15^80 A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>7^104 D3@25>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>7^104 D3@49>7^104 Bb3+Eb4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: D4@1>53^80 F4+Bb4@57>254^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 G4@9>7^104 F4@17>7^104 F4@25>15^104 G4@41>7^104 A4@49>7^104 Bb4@57>15^104
+@36 [Eb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: Eb2@1>7^104 Eb3@9>7^104 Eb3@17>7^104 Eb2@25>7^104 Eb3@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Eb3@9>7^104 Bb3+Eb4+G4+Bb4@17>7^104 Eb3@25>7^104 Bb3+Eb4+G4+Bb4@33>23^104 Eb3@41>15^104
+  ANDRA' TUTTO BENE#6: Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 A4@41>15^104 F4@57>24^104
+@37 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Bb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb1@17>7^104 Bb1@25>7^104 Bb1@33>7^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^56 Bb2@9>23^104 Bb3+D4+F4+Bb4@17>15^104 Bb2@33>31^104 Bb3+D4+F4+Bb4@41>23^104
+  ANDRA' TUTTO BENE#6: C4@25>7^104 D4@33>7^104 F4@41>7^104 D4@49>7^104 C4@57>7^104
+@38 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>23^104 F2@25>15^104 F2@41>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>39^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>23^104
+  ANDRA' TUTTO BENE#5: C4+A4@1>119^80
+  ANDRA' TUTTO BENE#6: C5@17>15^104 A4@33>15^104 A4@49>7^104 Bb4@57>7^104
+@39 [Dm | Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: D2@1>23^104 D2@25>15^104 C2@41>7^104 D2@49>7^104 Eb2@57>15^104
+  ANDRA' TUTTO BENE#4: D3@1>15^80 A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>7^104 D3@25>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>7^104 D3@49>7^104 Bb3+Eb4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: D4@1>55^80 F4+Bb4@57>133^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 G4@9>7^104 F4@17>7^104 F4@25>15^104 G4@41>7^104 A4@49>7^104 Bb4@57>15^104
+@40 [Eb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Eb2@9>7^104 Eb2@17>7^104 Eb2@25>7^104 Eb2@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Eb3@9>7^104 Bb3+Eb4+G4+Bb4@17>7^104 Eb3@25>7^104 Eb3+Bb3+Eb4+G4+Bb4@33>7^104 Eb3+Bb3+Eb4+G4+Bb4@41>15^104
+  ANDRA' TUTTO BENE#6: Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 A4@41>15^104 F4@57>24^104
+@41 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Bb1@17>23^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^56 Bb2@9>23^104 Bb3+D4+F4+Bb4@17>15^104 Bb2@33>31^104 Bb3+D4+F4+Bb4@41>23^104
+  ANDRA' TUTTO BENE#6: C4@25>7^104 D4@33>7^104 F4@41>7^104 D4@49>7^104 C4@57>7^104
+@42 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>23^104 F2@41>15^104 Eb2@57>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>15^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>7^104 F2@49>7^104 Bb3+D4+G4+Bb4@57>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>55^80 D4+G4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@1>7^104 D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D5@57>15^104
+@43 [Eb7 | Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Gb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Eb2@17>15^104 Eb2@33>7^104 Eb2@41>7^104 Eb2@49>7^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Bb3+D4+G4+Bb4@17>7^104 Eb3@25>15^104 A3+D4+G4+A4@33>7^80 Bb3+D4+G4+Bb4@41>7^104 Bb3+D4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: F4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 F4@57>23^104
+@44 [Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: Bb1@17>15^104 Bb1@33>7^104 Bb1@41>7^104 Bb1@49>7^104 F2@57>23^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^104 Bb2@9>7^104 Bb3+D4+F4+Bb4@17>7^104 Bb2@25>15^104 A3+D4+F4+A4@33>7^104 Bb3+D4+F4+Bb4@41>15^104 Bb2@49>7^104 A3+C4+F4+A4@57>15^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@57>71^80
+  ANDRA' TUTTO BENE#6: F4@25>7^104 D5@33>7^104 C5@41>7^104 A4@49>7^104 C5@57>7^104
+@45 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Bb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: F2@17>23^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: F3@1>15^104 A3+C4+F4+A4@17>15^104 F3@25>15^104 G3+C4+F4+G4@33>31^104 A3+A4@41>23^104 F3@49>15^104
+  ANDRA' TUTTO BENE#6: A4@1>15^104 A4@25>7^104 A4@33>7^104 A4@41>7^104 G4@49>7^104 F4@57>7^104
+@46 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>23^104 F2@41>7^104 F2@49>7^104 Eb2@57>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>15^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>7^104 F2@49>7^104 Bb3+D4+G4+Bb4@57>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>55^80 D4+G4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@1>7^104 D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D5@57>15^104
+@47 [Eb7 | Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: Eb2@17>15^104 Eb2@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Bb3+D4+G4+Bb4@17>7^104 Eb3@25>15^104 A3+D4+G4+A4@33>7^80 Bb3+D4+G4+Bb4@41>7^104 Bb3+D4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: F4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D4@57>15^104
+@48 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Bb1@17>23^104 Bb1@41>7^104 Bb1@49>7^104 Eb2@57>15^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^104 Bb2@9>7^104 Bb3+D4+F4+Bb4@17>7^104 Bb2@25>15^104 A3+D4+F4+A4@33>7^104 Bb3+D4+F4+Bb4@41>15^104 Bb2@49>7^104 Bb3+Eb4+G4@57>15^104
+  ANDRA' TUTTO BENE#5: Bb3+Eb4+G4@57>71^80
+  ANDRA' TUTTO BENE#6: F4@9>15^104 D4@41>7^104 F4@49>7^104 Bb4@57>15^104
+@49 [Eb | F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 E2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Eb2@9>7^104 Eb2@17>7^104 Bb1@25>7^104 Bb1@33>7^104 Bb1@41>7^104 Bb1@49>7^104 Bb1@57>7^104
+  ANDRA' TUTTO BENE#4: Eb3@9>15^104 Bb3+Eb4+G4@17>15^104 Bb3+F4+A4@25>7^104 Bb3+Eb4+F4+A4@33>7^104 Bb3+Eb4+F4+A4@41>7^104 Bb3+Eb4+F4+A4@49>15^104 Eb3@57>7^104
+  ANDRA' TUTTO BENE#5: F4+A4@25>39^80
+  ANDRA' TUTTO BENE#6: Bb4@9>7^104 Bb4@17>7^104 C5@25>7^104 Ab4@33>7^104 G4@41>7^104 F4@49>15^104
+@50 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 Gb2@45>1^32 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>7^104 F2@25>7^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: F3@1>16^104 A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+  ANDRA' TUTTO BENE#6: F4@1>15^104 A4@17>7^104 F4@25>7^104 G4@33>7^104 A4@41>15^104 D5@57>15^104
+  ANDRA' TUTTO BENE#7: C5+F5+A5@1>191^80
+@51 [Am7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^56 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Gb2+Gb3+Eb5@57>1^104
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>15^104 A4@33>7^104 G4@41>15^104 G4@57>11^104
+  ANDRA' TUTTO BENE#7: E5+C6@1>63^80
+@52 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 D3@41>8^104 F3@49>8^104 G3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>15^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+  ANDRA' TUTTO BENE#6: A4@5>3^104 F4@9>23^104 D4@41>7^104 F4@49>7^104 G4@57>7^104
+  ANDRA' TUTTO BENE#7: D5+F5@1>95^80
+@53 [Gm7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Bb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@17>15^104 C3@33>7^104 C3@41>7^104 C3@49>7^104 F2@57>7^104
+  ANDRA' TUTTO BENE#3: A3@1>7^104 A3@9>8^104 G3@17>7^104 G3@25>8^104 F3@33>7^104 D3@41>7^104 C3@49>7^104 F3@57>22^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 A4@9>7^104 G4@17>7^104 G4@25>7^104 F4@33>7^104 D4@41>7^104 C4@49>7^104 G4@57>15^104
+  ANDRA' TUTTO BENE#7: Bb4@1>31^80 C5+E5+G5@33>95^80
+@54 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>7^104 F2@25>7^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+  ANDRA' TUTTO BENE#6: F4@9>8^104 A4@17>7^104 F4@25>7^104 G4@33>7^104 A4@41>15^104 D5@57>15^104
+  ANDRA' TUTTO BENE#7: F5+A5@1>191^80
+@55 [Am7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>15^104 A4@33>7^104 G4@41>15^104 G4@57>11^104
+  ANDRA' TUTTO BENE#7: E5+C6@1>63^80
+@56 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 F3@41>8^104 G3@49>7^104 A3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^80 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+  ANDRA' TUTTO BENE#6: A4@5>3^104 F4@9>23^104 F4@41>7^104 G4@49>7^104 A4@57>7^104
+  ANDRA' TUTTO BENE#7: D5+F5@1>95^80
+@57 [Bb | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@17>15^104 C3@33>7^104 C3@41>7^104 C3@49>7^104 F3@57>7^104
+  ANDRA' TUTTO BENE#3: Bb3@1>7^104 Bb3@9>7^104 A3@17>7^104 A3@25>8^104 G3@33>7^104 F3@41>8^104 E3@49>7^104 F3@57>39^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+  ANDRA' TUTTO BENE#6: Bb4@1>7^104 Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 F4@41>7^104 E4@49>7^104 F4@57>15^104
+  ANDRA' TUTTO BENE#7: Bb4@1>31^80 C5+E5+G5@33>31^80
+@58 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 Db2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Db2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>23^104 F2@25>15^104 F2@41>15^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>39^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>117^80
+  ANDRA' TUTTO BENE#6: C5@17>15^104 A4@33>15^104 A4@49>7^104 Bb4@57>7^104
+@59 [Dm | Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 Db2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Db2+Gb2+Gb3@49>1^104 B1+Gb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: D2@1>23^104 D2@25>15^104 C2@41>7^104 D2@49>7^104 Eb2@57>7^104
+  ANDRA' TUTTO BENE#4: D3@1>15^80 A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>7^104 D3@25>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>7^104 D3@49>7^104 Bb3+Eb4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: D4@1>53^80 F4+Bb4@57>254^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 G4@9>7^104 F4@17>7^104 F4@25>15^104 G4@41>7^104 A4@49>7^104 Bb4@57>15^104
+@60 [Eb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 Db2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Db2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: Eb2@1>7^104 Eb3@9>7^104 Eb3@17>7^104 Eb2@25>7^104 Eb3@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Eb3@9>7^104 Bb3+Eb4+G4+Bb4@17>7^104 Eb3@25>7^104 Bb3+Eb4+G4+Bb4@33>23^104 Eb3@41>15^104
+  ANDRA' TUTTO BENE#6: Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 G4@41>7^104 A4@49>7^104 F4@57>24^104
+@61 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 Db2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Bb2+Gb3@41>1^104 Db2+Gb2+Gb3@49>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb1@17>7^104 Bb1@25>7^104 Bb1@33>7^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^56 Bb2@9>23^104 Bb3+D4+F4+Bb4@17>15^104 Bb2@33>31^104 Bb3+D4+F4+Bb4@41>23^104
+  ANDRA' TUTTO BENE#6: C4@25>7^104 D4@33>7^104 F4@41>7^104 D4@49>7^104 C4@57>7^104
+@62 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 Db2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Db2+Gb2+Gb3@49>1^104 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>23^104 F2@25>15^104 F2@41>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>39^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>23^104
+  ANDRA' TUTTO BENE#5: C4+A4@1>119^80
+  ANDRA' TUTTO BENE#6: C5@17>15^104 A4@33>15^104 A4@49>7^104 Bb4@57>7^104
+@63 [Dm | Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 Db2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Db2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: D2@1>23^104 D2@25>15^104 C2@41>7^104 D2@49>7^104 Eb2@57>15^104
+  ANDRA' TUTTO BENE#4: D3@1>15^80 A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>7^104 D3@25>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>7^104 D3@49>7^104 Bb3+Eb4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: D4@1>55^80 F4+Bb4@57>133^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 G4@9>7^104 F4@17>7^104 F4@25>15^104 G4@41>7^104 A4@49>7^104 Bb4@57>15^104
+@64 [Eb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 Db2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Db2+Gb2+Gb3@49>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Eb2@9>7^104 Eb2@17>7^104 Eb2@25>7^104 Eb2@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Eb3@9>7^104 Bb3+Eb4+G4+Bb4@17>7^104 Eb3@25>7^104 Eb3+Bb3+Eb4+G4+Bb4@33>7^104 Eb3+Bb3+Eb4+G4+Bb4@41>15^104
+  ANDRA' TUTTO BENE#6: Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 A4@41>15^104 F4@57>24^104
+@65 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 Db2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3@41>1^104 Db2+Gb2+Gb3@49>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Bb1@17>23^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^56 Bb2@9>23^104 Bb3+D4+F4+Bb4@17>15^104 Bb2@33>31^104 Bb3+D4+F4+Bb4@41>23^104
+  ANDRA' TUTTO BENE#6: C4@25>7^104 D4@33>7^104 F4@41>7^104 D4@49>7^104 C4@57>7^104
+@66 [F | Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Gb2+Gb3@49>1^80 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>23^104 F2@41>15^104 Eb2@57>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>15^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>7^104 F2@49>7^104 Bb3+D4+G4+Bb4@57>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>55^80 D4+G4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@1>7^104 D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D5@57>15^104
+@67 [Eb7 | Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^56 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Gb2+Gb3@49>1^80 B1+Gb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Eb2@17>15^104 Eb2@33>7^104 Eb2@41>7^104 Eb2@49>7^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Bb3+D4+G4+Bb4@17>7^104 Eb3@25>15^104 A3+D4+G4+A4@33>7^80 Bb3+D4+G4+Bb4@41>7^104 Bb3+D4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: F4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 F4@57>23^104
+@68 [Bb7]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Gb2+Gb3@49>1^80 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: Bb1@17>15^104 Bb1@33>7^104 Bb1@41>7^104 Bb1@49>7^104 F2@57>23^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^104 Bb2@9>7^104 Bb3+D4+F4+Bb4@17>7^104 Bb2@25>15^104 A3+D4+F4+A4@33>7^104 Bb3+D4+F4+Bb4@41>15^104 Bb2@49>7^104 A3+C4+F4+A4@57>15^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@57>71^80
+  ANDRA' TUTTO BENE#6: F4@17>7^104 F4@25>7^104 D5@33>7^104 C5@41>7^104 A4@49>7^104 C5@57>7^104
+@69 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+E2+Bb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: F2@17>23^104 C2@41>7^104 D2@49>7^104 C2@57>7^104
+  ANDRA' TUTTO BENE#4: F3@1>15^104 A3+C4+F4+A4@17>15^104 F3@25>15^104 G3+C4+F4+G4@33>31^104 A3+A4@41>23^104 F3@49>15^104
+  ANDRA' TUTTO BENE#6: A4@1>15^104 A4@25>7^104 A4@33>7^104 A4@41>7^104 G4@49>7^104 F4@57>7^104
+@70 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Gb2+Gb3@49>1^80 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>23^104 F2@41>7^104 F2@49>7^104 Eb2@57>23^104
+  ANDRA' TUTTO BENE#4: F2@1>15^104 A3+C4+F4+A4@17>7^104 F2@25>15^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>7^104 F2@49>7^104 Bb3+D4+G4+Bb4@57>23^104
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>55^80 D4+G4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@1>7^104 D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D5@57>15^104
+@71 [Cm7 | Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+Gb2+Gb3@41>1^104 Gb2+Gb3@49>1^80 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: Eb2@17>15^104 Eb2@33>7^104 Eb2@41>15^104 Bb1@57>23^104
+  ANDRA' TUTTO BENE#4: Bb3+D4+G4+Bb4@17>7^104 Eb3@25>15^104 A3+D4+G4+A4@33>7^80 Bb3+D4+G4+Bb4@41>7^104 Bb3+D4+F4+Bb4@57>15^104
+  ANDRA' TUTTO BENE#5: F4+Bb4@57>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>7^104 C5@25>7^104 A4@33>7^104 G4@41>7^104 F4@49>7^104 D4@57>15^104
+@72 [Bb]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3@9>1^32 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3@41>1^104 Gb2+Gb3@49>1^80 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: Bb1@17>23^104 Bb1@41>7^104 Bb1@49>7^104 Eb2@57>15^104
+  ANDRA' TUTTO BENE#4: Bb2@1>7^104 Bb2@9>7^104 Bb3+D4+F4+Bb4@17>7^104 Bb2@25>15^104 A3+D4+F4+A4@33>7^104 Bb3+D4+F4+Bb4@41>15^104 Bb2@49>7^104 Bb3+Eb4+G4@57>15^104
+  ANDRA' TUTTO BENE#5: Bb3+Eb4+G4@57>71^80
+  ANDRA' TUTTO BENE#6: F4@9>15^104 C4@41>7^104 D4@49>7^104 F4@57>7^104
+@73 [Eb | F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 E2+Gb2+Gb3@9>1^104 E2+Gb2+Gb3@17>1^104 B1+Gb2+Gb3@25>1^104 Gb2+Gb3@33>1^80 B1+E2+Gb2+Gb3@41>1^104 E2+Gb2+Gb3@49>1^104 B1+E2+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Eb2@9>7^104 Eb2@17>7^104 Bb1@25>7^104 Bb1@33>7^104 Bb1@41>7^104 Bb1@49>7^104 Bb1@57>7^104
+  ANDRA' TUTTO BENE#4: Eb3@9>15^104 Bb3+Eb4+G4@17>15^104 Bb3+F4+A4@25>7^104 Bb3+Eb4+F4+A4@33>7^104 Bb3+Eb4+F4+A4@41>7^104 Bb3+Eb4+F4+A4@49>15^104 Eb3@57>7^104
+  ANDRA' TUTTO BENE#5: F4+A4@25>39^80
+  ANDRA' TUTTO BENE#6: Bb4@1>7^104 Bb4@9>7^104 Bb4@17>7^104 C5@25>7^104 Ab4@33>7^104 G4@41>7^104 F4@49>15^104
+@74 [F]
+  ANDRA' TUTTO BENE  : B1+Db3+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 Gb2@45>1^32 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>7^104 F2@25>7^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: F3@1>16^104 A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+  ANDRA' TUTTO BENE#6: F4@1>15^104 A4@17>7^104 F4@25>7^104 G4@33>7^104 A4@41>15^104 D5@57>15^104
+  ANDRA' TUTTO BENE#7: C5+F5+A5@1>191^80
+@75 [Am | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^56 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Gb2+Gb3+Eb5@57>1^104
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>15^104 A4@33>7^104 G4@41>15^104 G4@57>11^104
+  ANDRA' TUTTO BENE#7: E5+C6@1>63^80
+@76 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 D3@41>8^104 F3@49>8^104 G3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>15^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+  ANDRA' TUTTO BENE#6: A4@5>3^104 F4@9>23^104 D4@41>7^104 F4@49>7^104 G4@57>7^104
+  ANDRA' TUTTO BENE#7: D5+F5@1>95^80
+@77 [Gm7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Bb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@17>15^104 C3@33>7^104 C3@41>7^104 C3@49>7^104 F2@57>7^104
+  ANDRA' TUTTO BENE#3: A3@1>7^104 A3@9>8^104 G3@17>7^104 G3@25>8^104 F3@33>7^104 D3@41>7^104 C3@49>7^104 F3@57>22^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 A4@9>7^104 G4@17>7^104 G4@25>7^104 F4@33>7^104 D4@41>7^104 C4@49>7^104 G4@57>15^104
+  ANDRA' TUTTO BENE#7: Bb4@1>31^80 C5+E5+G5@33>95^80
+@78 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>7^104 F2@25>7^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+  ANDRA' TUTTO BENE#6: F4@9>8^104 A4@17>7^104 F4@25>7^104 G4@33>7^104 A4@41>15^104 D5@57>15^104
+  ANDRA' TUTTO BENE#7: F5+A5@1>191^80
+@79 [Am7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>15^104 A4@33>7^104 G4@41>15^104 G4@57>11^104
+  ANDRA' TUTTO BENE#7: E5+C6@1>63^80
+@80 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 F3@41>8^104 G3@49>7^104 A3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^80 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+  ANDRA' TUTTO BENE#6: A4@5>3^104 F4@9>23^104 F4@41>7^104 G4@49>7^104 A4@57>7^104
+  ANDRA' TUTTO BENE#7: D5+F5@1>95^80
+@81 [Bb | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@17>15^104 C3@33>7^104 C3@41>7^104 C3@49>7^104 F3@57>7^104
+  ANDRA' TUTTO BENE#3: Bb3@1>7^104 Bb3@9>7^104 A3@17>7^104 A3@25>8^104 G3@33>7^104 F3@41>8^104 E3@49>7^104 F3@57>23^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+  ANDRA' TUTTO BENE#6: Bb4@1>7^104 Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 F4@41>7^104 E4@49>7^104 F4@57>15^104
+  ANDRA' TUTTO BENE#7: Bb4@1>31^80 C5+E5+G5@33>31^80
+@82 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 Gb2@45>1^32 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>7^104 F2@25>7^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: F3@1>16^104 A3@17>7^104 F3@25>7^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+  ANDRA' TUTTO BENE#6: A4@17>7^104 F4@25>7^104 G4@33>7^104 A4@41>15^104 D5@57>15^104
+  ANDRA' TUTTO BENE#7: C5+F5+A5@1>191^80
+@83 [Am | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^56 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Gb2+Gb3+Eb5@57>1^104
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>15^104 A4@33>7^104 G4@41>15^104 G4@57>11^104
+  ANDRA' TUTTO BENE#7: E5+C6@1>63^80
+@84 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 D3@41>8^104 F3@49>8^104 G3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^104 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>15^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+  ANDRA' TUTTO BENE#6: A4@5>3^104 F4@9>23^104 D4@41>7^104 F4@49>7^104 G4@57>7^104
+  ANDRA' TUTTO BENE#7: D5+F5@1>95^80
+@85 [Gm7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Bb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@17>15^104 C3@33>7^104 C3@41>7^104 C3@49>7^104 F2@57>7^104
+  ANDRA' TUTTO BENE#3: A3@1>7^104 A3@9>8^104 G3@17>7^104 G3@25>8^104 F3@33>7^104 D3@41>7^104 C3@49>7^104 F3@57>22^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+  ANDRA' TUTTO BENE#6: A4@1>7^104 A4@9>7^104 G4@17>7^104 G4@25>7^104 F4@33>7^104 D4@41>7^104 C4@49>7^104 G4@57>15^104
+  ANDRA' TUTTO BENE#7: Bb4@1>31^80 C5+E5+G5@33>95^80
+@86 [F]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3@57>1^56
+  ANDRA' TUTTO BENE#2: F2@1>15^104 F2@17>7^104 F2@25>7^104 F2@33>7^104 F2@41>15^104 A2@57>15^104
+  ANDRA' TUTTO BENE#3: A3@17>7^104 F3@25>8^104 G3@33>7^104 A3@41>15^104 D4@57>15^104
+  ANDRA' TUTTO BENE#4: F2@1>55^80 A3+C4+F4+A4@17>7^104 A3+C4+F4+A4@25>7^104 G3+C4+F4+G4@33>7^104 A3+C4+F4+A4@41>15^104 A2@57>63^80
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>191^80
+  ANDRA' TUTTO BENE#6: F4@9>8^104 A4@17>7^104 F4@25>7^104 G4@33>7^104 A4@41>15^104 D5@57>15^104
+  ANDRA' TUTTO BENE#7: F5+A5@1>191^80
+@87 [Am7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 Gb2@53>1^32 Bb2+Gb3+Eb5@57>1^56
+  ANDRA' TUTTO BENE#2: A2@9>7^104 A2@17>15^104 G2@33>7^104 A2@41>15^104 D3@57>15^104
+  ANDRA' TUTTO BENE#3: D4@9>8^104 C4@17>15^104 A3@33>7^104 G3@41>14^104 G3@57>11^104
+  ANDRA' TUTTO BENE#4: C4+E4+G4+A4+C5@9>7^104 C4+E4+G4+A4+C5@17>15^104 A3+E4+G4+A4@33>7^104 C4+E4+G4+A4+C5@41>15^104 D3@57>63^104
+  ANDRA' TUTTO BENE#5: E4+C5@1>63^80
+  ANDRA' TUTTO BENE#6: D5@9>7^104 C5@17>15^104 A4@33>7^104 G4@41>15^104 G4@57>11^104
+  ANDRA' TUTTO BENE#7: E5+C6@1>63^80
+@88 [Dm]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 Gb2@37>1^32 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3@57>1^104
+  ANDRA' TUTTO BENE#2: D3@9>7^104 D3@17>15^104 C3@33>7^104 D3@41>15^104 Bb2@57>15^104
+  ANDRA' TUTTO BENE#3: A3@5>4^104 F3@9>30^104 F3@41>8^104 G3@49>7^104 A3@57>8^104
+  ANDRA' TUTTO BENE#4: A3+D4+F4+A4@9>7^80 A3+D4+F4+A4@17>15^104 G3+D4+F4+G4@33>7^104 A3+D4+F4+A4@41>15^104 Bb2@57>23^104
+  ANDRA' TUTTO BENE#5: D4+F4@1>95^80
+  ANDRA' TUTTO BENE#6: A4@5>3^104 F4@9>23^104 F4@41>7^104 G4@49>7^104 A4@57>7^104
+  ANDRA' TUTTO BENE#7: D5+F5@1>95^80
+@89 [Bb7 | C]
+  ANDRA' TUTTO BENE  : B1+Gb2+Gb3@1>1^104 Gb2+Gb3+Db6@9>1^32 Gb2+Db6@13>1^56 E2+Gb2+Gb3@17>1^104 Eb5@21>1^56 B1+Gb2+Gb3@25>1^104 Db6@29>1^56 Gb2+Gb3@33>1^80 B1+Gb2+Gb3+Db6@41>1^104 E2+Gb2+Gb3@49>1^104 E2+Gb2@53>1^104 B1+Bb2+Gb3+Eb5@57>1^104 Eb5@61>1^32
+  ANDRA' TUTTO BENE#2: Bb2@9>7^104 A2@17>7^104 A2@25>7^104 G2@33>7^104 F2@41>7^104 E2@49>7^104 F2@57>103^104
+  ANDRA' TUTTO BENE#3: Bb3@1>7^104 Bb3@9>7^104 A3@17>7^104 A3@25>8^104 G3@33>7^104 F3@41>8^104 E3@49>7^104 F3@57>102^104
+  ANDRA' TUTTO BENE#4: F3+Bb3+D4+F4@9>7^104 F3+Bb3+D4+F4@17>7^104 Bb2@25>7^104 G3+C4+E4+G4@33>7^104 G3+C4+E4+G4@41>7^104 C3@49>7^104 F2@57>7^80
+  ANDRA' TUTTO BENE#5: Bb3@1>31^80 C4+E4+G4@33>31^80
+  ANDRA' TUTTO BENE#6: Bb4@1>7^104 Bb4@9>7^104 A4@17>7^104 A4@25>7^104 G4@33>7^104 F4@41>7^104 E4@49>7^104 F4@57>31^104
+  ANDRA' TUTTO BENE#7: Bb4@1>31^80 C5+E5+G5@33>31^80
+@90 [F]
+  ANDRA' TUTTO BENE#5: C4+F4+A4@1>95^80
+  ANDRA' TUTTO BENE#7: C5+F5+A5@1>95^80
+@91 [-]

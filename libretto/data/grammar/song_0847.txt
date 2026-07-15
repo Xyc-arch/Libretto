@@ -1,0 +1,751 @@
+KEY: B minor | METER: 4/4 | TEMPO: 175 | GRID: 64th (adaptive) | BARS: 127
+VOICES: Harmonica[prog=22], Acoustic Grand Piano[prog=0], Acoustic Bass[prog=32], String Ensemble 2[prog=49], Trombone[prog=57], Vibraphone[prog=11]
+@1 [A | B7] (grid:12t)
+  Acoustic Grand Piano: E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : A2@1>7^80 A2@10>2^80
+  String Ensemble 2   : E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Trombone            : E4@1>5^56 A4@7>1^56 B4@9>9^56
+@2 [G# | C#m] (grid:8)
+  Acoustic Grand Piano: E5@5>1^56 C#5@6>6^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80
+  String Ensemble 2   : E5@5>1^56 C#5@6>6^56
+  Trombone            : E5@5>1^56 C#5@6>6^56
+@3 [F#m | B] (grid:12t)
+  Acoustic Grand Piano: A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : F#2@1>7^80 F#2@10>2^80
+  String Ensemble 2   : A4@7>1^56 B4@9>9^56
+  Trombone            : A4@7>1^56 B4@9>9^56
+@4 [C#m] (grid:4)
+  Acoustic Grand Piano: C#5@3>1^56 E4@4>3^56
+  Acoustic Bass       : E2@1>2^80 E2@4>1^80
+  String Ensemble 2   : C#5@3>1^56 E4@4>3^56
+  Trombone            : C#5@3>1^56 E4@4>3^56
+@5 [A | B7] (grid:8)
+  Acoustic Grand Piano: A4@5>1^56 B4@6>6^56
+  Acoustic Bass       : A2@1>2^80 A2@4>1^80 A2@5>2^80 A2@7>2^80
+  String Ensemble 2   : A4@5>1^56 B4@6>6^56
+  Trombone            : A4@5>1^56 B4@6>6^56
+@6 [G# | C#m] (grid:8)
+  Acoustic Grand Piano: E5@5>1^56 C#5@6>6^56
+  Acoustic Bass       : G#2@1>2^80 G#2@4>1^80 G#2@5>2^80 G#2@7>2^80
+  String Ensemble 2   : E5@5>1^56 C#5@6>6^56
+  Trombone            : E5@5>1^56 C#5@6>6^56
+@7 [F# | B] (grid:8)
+  Acoustic Grand Piano: A4@5>1^56 B4@6>6^56
+  Acoustic Bass       : F#2@1>2^80 F#2@4>1^80 F#2@5>2^80 F#2@7>2^80
+  String Ensemble 2   : A4@5>1^56 B4@6>6^56
+  Trombone            : A4@5>1^56 B4@6>6^56
+@8 [E] (grid:8)
+  Acoustic Grand Piano: E4@5>3^56
+  Acoustic Bass       : E2@1>2^80 E2@4>1^80 E2@5>3^80
+  String Ensemble 2   : E4@5>3^56
+  Trombone            : E4@5>3^56
+@9 [A] (grid:8)
+  Harmonica           : C#5@1>1^80 C#5@2>1^80 C#5@3>1^80 C#5@4>1^80 C#5@5>2^80 E5@7>2^80
+  Acoustic Grand Piano: A4@1>6^56
+  Acoustic Bass       : A2@1>2^80 A2@4>1^80 A2@5>2^80
+  String Ensemble 2   : A4@1>6^56
+  Trombone            : A4@1>6^56
+@10 [G#m | E] (grid:16)
+  Harmonica           : B4@1>2^80 B4@4>1^80 B4@5>2^80 B4@7>2^80 B4@9>2^80 B4@11>2^80 E5@13>3^80
+  Acoustic Grand Piano: G#4@1>13^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80 G#2@9>3^80
+  String Ensemble 2   : G#4@1>13^56
+  Trombone            : G#4@1>13^56
+@11 [F#m] (grid:16)
+  Harmonica           : A4@1>2^80 A4@4>1^80 A4@5>2^80 A4@7>2^80 A4@9>2^80 A4@11>2^80 C#5@13>3^80
+  Acoustic Grand Piano: F#4@1>13^56
+  Acoustic Bass       : F#2@1>5^80 F#2@7>2^80 F#2@9>3^80
+  String Ensemble 2   : F#4@1>13^56
+  Trombone            : F#4@1>13^56
+@12 [E | C#m] (grid:16)
+  Harmonica           : G#4@1>2^80 G#4@4>1^80 G#4@5>2^80 B4@7>2^80 C#4@9>3^80 D4@13>3^80
+  Acoustic Grand Piano: E4@1>13^56
+  Acoustic Bass       : E2@1>5^80 E2@7>2^80 E2@9>3^80
+  String Ensemble 2   : E4@1>13^56
+  Trombone            : E4@1>13^56
+@13 [A | B7] (grid:12t)
+  Harmonica           : E4@1>5^80
+  Acoustic Grand Piano: E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : A2@1>7^80 A2@10>2^80
+  String Ensemble 2   : E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Trombone            : E4@1>5^56 A4@7>1^56 B4@9>9^56
+@14 [G# | C#m] (grid:8)
+  Acoustic Grand Piano: E5@5>1^56 C#5@6>6^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80
+  String Ensemble 2   : E5@5>1^56 C#5@6>6^56
+  Trombone            : E5@5>1^56 C#5@6>6^56
+@15 [F# | B] (grid:12t)
+  Acoustic Grand Piano: A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : F#2@1>7^80 F#2@10>2^80
+  String Ensemble 2   : A4@7>1^56 B4@9>9^56
+  Trombone            : A4@7>1^56 B4@9>9^56
+@16 [E | C#m] (grid:8)
+  Acoustic Grand Piano: C#5@5>1^56 E4@6>2^56
+  Acoustic Bass       : E2@1>3^80 E2@5>3^80
+  String Ensemble 2   : C#5@5>1^56 E4@6>2^56
+  Trombone            : C#5@5>1^56 E4@6>2^56
+@17 [A] (grid:16)
+  Harmonica           : C#5@1>2^80 C#5@4>1^80 C#5@5>2^80 C#5@7>2^80 C#5@9>2^80 C#5@11>2^80 C#5@13>2^80 E5@15>2^80
+  Acoustic Grand Piano: A4@1>13^56
+  Acoustic Bass       : A2@1>5^80 A2@7>2^80 A2@9>3^80
+  String Ensemble 2   : A4@1>13^56
+  Trombone            : A4@1>13^56
+@18 [G#m | E] (grid:16)
+  Harmonica           : B4@1>3^80 B4@4>1^80 B4@5>2^80 B4@7>2^80 B4@9>2^80 B4@11>2^80 E5@13>3^80
+  Acoustic Grand Piano: G#4@1>13^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80 G#2@9>3^80
+  String Ensemble 2   : G#4@1>13^56
+  Trombone            : G#4@1>13^56
+@19 [F#m] (grid:16)
+  Harmonica           : A4@1>2^80 A4@4>1^80 A4@5>2^80 A4@7>2^80 A4@9>2^80 A4@11>2^80 C#5@13>3^80
+  Acoustic Grand Piano: F#4@1>13^56
+  Acoustic Bass       : F#2@1>5^80 F#2@7>2^80 F#2@9>3^80
+  String Ensemble 2   : F#4@1>13^56
+  Trombone            : F#4@1>13^56
+@20 [E | C#m] (grid:16)
+  Harmonica           : G#4@1>2^80 G#4@4>1^80 B4@5>3^80 C#4@9>3^80 D4@13>3^80
+  Acoustic Grand Piano: E4@1>13^56
+  Acoustic Bass       : E2@1>5^80 E2@7>2^80 E2@9>3^80
+  String Ensemble 2   : E4@1>13^56
+  Trombone            : E4@1>13^56
+@21 [A | B7] (grid:12t)
+  Harmonica           : E4@1>5^80
+  Acoustic Grand Piano: E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : A2@1>7^80 A2@10>2^80
+  String Ensemble 2   : E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Trombone            : E4@1>5^56 A4@7>1^56 B4@9>9^56
+@22 [G# | C#m] (grid:8)
+  Acoustic Grand Piano: E5@5>1^56 C#5@6>6^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80
+  String Ensemble 2   : E5@5>1^56 C#5@6>6^56
+  Trombone            : E5@5>1^56 C#5@6>6^56
+@23 [F# | F#m] (grid:8)
+  Acoustic Grand Piano: A4@5>1^56 F#4@6>6^56
+  Acoustic Bass       : F#2@1>5^80 F#2@7>2^80
+  String Ensemble 2   : A4@5>1^56 F#4@6>6^56
+  Trombone            : A4@5>1^56 F#4@6>6^56
+@24 [F# | Bm] (grid:6t)
+  Acoustic Grand Piano: E4@4>1^56 D4@5>2^56
+  Acoustic Bass       : F#2@1>2^80 B1@4>2^80
+  String Ensemble 2   : E4@4>1^56 D4@5>2^56
+  Trombone            : E4@4>1^56 D4@5>2^56
+@25 [Bm]
+  Harmonica           : D5@1>10^80 D5@13>3^80 D5@17>7^80 D5@25>7^80 D5@33>7^80 D5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+B4@1>13^56 D5@2>13^56 F#4+B4@49>13^56 D5@50>12^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>13^80
+  String Ensemble 2   : F#4@1>12^56 B4+D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+  Trombone            : F#4@1>12^56 B4+D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+@26 [A#dim]
+  Harmonica           : C#5@1>13^80 F#4@57>7^80
+  Acoustic Grand Piano: E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Acoustic Bass       : F#2@2>19^80 F#2@25>7^80 F#2@33>13^80
+  String Ensemble 2   : E4@1>13^56 A#4+C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Trombone            : E4@1>13^56 A#4+C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+@27 [Bm]
+  Harmonica           : B4@1>10^80 B4@13>3^80 B4@17>7^80 B4@25>7^80 B4@33>7^80 B4@41>7^80 B4@49>13^80
+  Acoustic Grand Piano: D4+F#4@1>13^56 B4@2>13^56 D4+F#4@49>13^56 B4@50>12^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>12^80
+  String Ensemble 2   : D4+F#4@1>12^56 B4@2>12^56 D4@49>12^56 F#4+B4@50>12^56
+  Trombone            : D4+F#4@1>12^56 B4@2>12^56 D4@49>12^56 F#4+B4@50>12^56
+@28 [A#dim]
+  Harmonica           : A#4@1>13^80 F#4@57>7^80
+  Acoustic Grand Piano: E4@1>13^56 A#4+C#5@2>12^56 E4+A#4@49>13^56 C#5@50>13^56
+  Acoustic Bass       : F#2@2>19^80 F#2@25>7^80 F#2@33>13^80
+  String Ensemble 2   : E4+A#4@1>12^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Trombone            : E4+A#4@1>12^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+@29 [Bm]
+  Harmonica           : D5@1>10^80 D5@13>3^80 D5@17>7^80 D5@25>7^80 D5@33>7^80 D5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+B4+D5@1>13^56 F#4+B4@49>13^56 D5@50>13^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>12^80
+  String Ensemble 2   : F#4+B4@1>12^56 D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+  Trombone            : F#4+B4@1>12^56 D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+@30 [B7 | D#dim]
+  Harmonica           : C#5@1>13^80 B4@17>13^80 A4@33>13^80 F#4@49>13^80
+  Acoustic Grand Piano: A4+C#5@1>13^56 D#4+B4@17>13^56 D#4+A4@33>13^56 D#4+F#4@49>12^56
+  Acoustic Bass       : B2@2>12^80 B2@34>12^80
+  String Ensemble 2   : A4+C#5@1>12^56 D#4@17>12^56 B4@18>12^56 D#4@33>12^56 A4@34>12^56 D#4@49>12^56 F#4@50>12^56
+  Trombone            : A4+C#5@1>12^56 D#4@17>12^56 B4@18>12^56 D#4@33>12^56 A4@34>12^56 D#4@49>12^56 F#4@50>12^56
+@31 [A | Bm7] (grid:12t)
+  Harmonica           : C#5@1>7^80 D5@10>1^80 C#5@12>1^80
+  Acoustic Grand Piano: E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : A2@1>7^80 A2@10>2^80
+  String Ensemble 2   : E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Trombone            : E4@1>5^56 A4@7>1^56 B4@9>9^56
+@32 [G#m | C#m] (grid:12t)
+  Harmonica           : B4@1>5^80
+  Acoustic Grand Piano: E5@7>1^56 C#5@9>9^56
+  Acoustic Bass       : G#2@1>7^80 G#2@10>2^80
+  String Ensemble 2   : E5@7>1^56 C#5@9>9^56
+  Trombone            : E5@7>1^56 C#5@9>9^56
+@33 [F# | B] (grid:12t)
+  Acoustic Grand Piano: A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : F#2@1>7^80 F#2@10>2^80
+  String Ensemble 2   : A4@7>1^56 B4@9>9^56
+  Trombone            : A4@7>1^56 B4@9>9^56
+@34 [E | C#m] (grid:6t)
+  Acoustic Grand Piano: C#5@4>1^56 E4@5>2^56
+  Acoustic Bass       : E2@1>2^80 E2@4>2^80
+  String Ensemble 2   : C#5@4>1^56 E4@5>2^56
+  Trombone            : C#5@4>1^56 E4@5>2^56
+@35 [A] (grid:8)
+  Harmonica           : C#5@1>1^80 C#5@2>1^80 C#5@3>1^80 C#5@4>1^80 C#5@5>2^80 E5@7>2^80
+  Acoustic Grand Piano: A4@1>6^56
+  Acoustic Bass       : A2@1>2^80 A2@4>1^80 A2@5>2^80
+  String Ensemble 2   : A4@1>6^56
+  Trombone            : A4@1>6^56
+@36 [G#m | E] (grid:16)
+  Harmonica           : B4@1>2^80 B4@4>1^80 B4@5>2^80 B4@7>2^80 B4@9>2^80 B4@11>2^80 E5@13>3^80
+  Acoustic Grand Piano: G#4@1>13^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80 G#2@9>3^80
+  String Ensemble 2   : G#4@1>13^56
+  Trombone            : G#4@1>13^56
+@37 [F#m] (grid:16)
+  Harmonica           : A4@1>3^80 A4@4>1^80 A4@5>2^80 A4@7>2^80 A4@9>2^80 A4@11>2^80 C#5@13>3^80
+  Acoustic Grand Piano: F#4@1>13^56
+  Acoustic Bass       : F#2@1>5^80 F#2@7>2^80 F#2@9>3^80
+  String Ensemble 2   : F#4@1>13^56
+  Trombone            : F#4@1>13^56
+@38 [E | C#m] (grid:16)
+  Harmonica           : G#4@1>2^80 G#4@4>1^80 G#4@5>2^80 B4@7>2^80 C#4@9>3^80 D4@13>3^80
+  Acoustic Grand Piano: E4@1>13^56
+  Acoustic Bass       : E2@1>5^80 E2@7>2^80 E2@9>3^80
+  String Ensemble 2   : E4@1>13^56
+  Trombone            : E4@1>13^56
+@39 [A | B7] (grid:8)
+  Harmonica           : E4@1>3^80
+  Acoustic Grand Piano: E4@1>3^56 A4@5>1^56 B4@6>6^56
+  Acoustic Bass       : A2@1>5^80 A2@7>2^80
+  String Ensemble 2   : E4@1>3^56 A4@5>1^56 B4@6>6^56
+  Trombone            : E4@1>3^56 A4@5>1^56 B4@6>6^56
+@40 [G# | C#m] (grid:8)
+  Acoustic Grand Piano: E5@5>1^56 C#5@6>6^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80
+  String Ensemble 2   : E5@5>1^56 C#5@6>6^56
+  Trombone            : E5@5>1^56 C#5@6>6^56
+@41 [F# | B] (grid:12t)
+  Acoustic Grand Piano: A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : F#2@1>7^80 F#2@10>2^80
+  String Ensemble 2   : A4@7>1^56 B4@9>9^56
+  Trombone            : A4@7>1^56 B4@9>9^56
+@42 [E | C#m] (grid:6t)
+  Acoustic Grand Piano: C#5@4>1^56 E4@5>2^56
+  Acoustic Bass       : E2@1>2^80 E2@4>2^80
+  String Ensemble 2   : C#5@4>1^56 E4@5>2^56
+  Trombone            : C#5@4>1^56 E4@5>2^56
+@43 [A] (grid:16)
+  Harmonica           : C#5@1>2^80 C#5@4>1^80 C#5@5>2^80 C#5@7>2^80 C#5@9>2^80 C#5@11>2^80 C#5@13>2^80 E5@15>2^80
+  Acoustic Grand Piano: A4@1>13^56
+  Acoustic Bass       : A2@1>5^80 A2@7>2^80 A2@9>3^80
+  String Ensemble 2   : A4@1>13^56
+  Trombone            : A4@1>13^56
+@44 [G#m | E] (grid:16)
+  Harmonica           : B4@1>2^80 B4@4>1^80 B4@5>2^80 B4@7>2^80 B4@9>2^80 B4@11>2^80 E5@13>3^80
+  Acoustic Grand Piano: G#4@1>13^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80 G#2@9>3^80
+  String Ensemble 2   : G#4@1>13^56
+  Trombone            : G#4@1>13^56
+@45 [F#m] (grid:16)
+  Harmonica           : A4@1>2^80 A4@4>1^80 A4@5>2^80 A4@7>2^80 A4@9>2^80 A4@11>2^80 C#5@13>3^80
+  Acoustic Grand Piano: F#4@1>13^56
+  Acoustic Bass       : F#2@1>5^80 F#2@7>2^80 F#2@9>3^80
+  String Ensemble 2   : F#4@1>13^56
+  Trombone            : F#4@1>13^56
+@46 [E | C#m] (grid:16)
+  Harmonica           : G#4@1>3^80 G#4@4>1^80 B4@5>3^80 C#4@9>3^80 D4@13>3^80
+  Acoustic Grand Piano: E4@1>13^56
+  Acoustic Bass       : E2@1>5^80 E2@7>2^80 E2@9>3^80
+  String Ensemble 2   : E4@1>13^56
+  Trombone            : E4@1>13^56
+@47 [A | B7] (grid:12t)
+  Harmonica           : E4@1>5^80
+  Acoustic Grand Piano: E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : A2@1>7^80 A2@10>2^80
+  String Ensemble 2   : E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Trombone            : E4@1>5^56 A4@7>1^56 B4@9>9^56
+@48 [G# | C#m] (grid:12t)
+  Acoustic Grand Piano: E5@7>1^56 C#5@9>9^56
+  Acoustic Bass       : G#2@1>7^80 G#2@10>2^80
+  String Ensemble 2   : E5@7>1^56 C#5@9>9^56
+  Trombone            : E5@7>1^56 C#5@9>9^56
+@49 [F# | F#m] (grid:12t)
+  Acoustic Grand Piano: A4@7>1^56 F#4@9>9^56
+  Acoustic Bass       : F#2@1>7^80 F#2@10>2^80
+  String Ensemble 2   : A4@7>1^56 F#4@9>9^56
+  Trombone            : A4@7>1^56 F#4@9>9^56
+@50 [F# | Bm] (grid:6t)
+  Acoustic Grand Piano: E4@4>1^56 D4@5>2^56
+  Acoustic Bass       : F#2@1>2^80 B1@4>2^80
+  String Ensemble 2   : E4@4>1^56 D4@5>2^56
+  Trombone            : E4@4>1^56 D4@5>2^56
+@51 [Bm]
+  Harmonica           : D5@1>10^80 D5@13>3^80 D5@17>6^80 D5@25>7^80 D5@33>7^80 D5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+B4@1>13^56 D5@2>12^56 F#4+B4@49>13^56 D5@50>13^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>12^80
+  String Ensemble 2   : F#4+B4@1>12^56 D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+  Trombone            : F#4+B4@1>12^56 D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+@52 [A#dim]
+  Harmonica           : C#5@1>13^80 F#4@57>7^80
+  Acoustic Grand Piano: E4+A#4+C#5@1>13^56 E4+A#4@49>13^56 C#5@50>13^56
+  Acoustic Bass       : F#2@2>19^80 F#2@25>7^80 F#2@33>13^80
+  String Ensemble 2   : E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Trombone            : E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+@53 [Bm]
+  Harmonica           : B4@1>10^80 B4@13>3^80 B4@17>7^80 B4@25>7^80 B4@33>7^80 B4@41>7^80 B4@49>13^80
+  Acoustic Grand Piano: D4+F#4@1>13^56 B4@2>12^56 D4@49>13^56 F#4+B4@50>13^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>12^80
+  String Ensemble 2   : D4+F#4@1>12^56 B4@2>12^56 D4+F#4@49>12^56 B4@50>12^56
+  Trombone            : D4+F#4@1>12^56 B4@2>12^56 D4+F#4@49>12^56 B4@50>12^56
+@54 [A#dim]
+  Harmonica           : A#4@1>13^80 F#4@57>7^80
+  Acoustic Grand Piano: E4+A#4@1>12^56 C#5@2>12^56 E4@49>13^56 A#4+C#5@50>12^56
+  Acoustic Bass       : F#2@2>19^80 F#2@25>7^80 F#2@33>13^80
+  String Ensemble 2   : E4+A#4@1>12^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Trombone            : E4+A#4@1>12^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+@55 [Bm]
+  Harmonica           : D5@1>10^80 D5@13>3^80 D5@17>7^80 D5@25>7^80 D5@33>7^80 D5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+B4@1>13^56 D5@2>13^56 F#4+B4@49>13^56 D5@50>12^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>12^80
+  String Ensemble 2   : F#4+B4@1>12^56 D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+  Trombone            : F#4+B4@1>12^56 D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+@56 [B7 | D#dim]
+  Harmonica           : C#5@1>13^80 B4@17>13^80 A4@33>13^80 F#4@49>13^80
+  Acoustic Grand Piano: A4+C#5@1>13^56 D#4+B4@17>13^56 D#4@33>13^56 A4@34>12^56 D#4+F#4@49>13^56
+  Acoustic Bass       : B2@2>12^80 B2@34>12^80
+  String Ensemble 2   : A4+C#5@1>12^56 D#4@17>12^56 B4@18>12^56 D#4+A4@33>12^56 D#4@49>12^56 F#4@50>12^56
+  Trombone            : A4+C#5@1>12^56 D#4@17>12^56 B4@18>12^56 D#4+A4@33>12^56 D#4@49>12^56 F#4@50>12^56
+@57 [A]
+  Harmonica           : C#5@1>102^80
+  Acoustic Grand Piano: E4@1>25^56 A4+C#5@2>25^56 E4+A4@33>25^56 C#5@34>25^56
+  Acoustic Bass       : A2@2>19^80 A2@25>7^80 A2@34>12^80
+  String Ensemble 2   : E4@1>25^56 A4+C#5@2>25^56 E4+A4+C#5@33>25^56
+  Trombone            : E4@1>25^56 A4+C#5@2>25^56 E4+A4+C#5@33>25^56
+@58 [C#m]
+  Harmonica           : D5@57>7^80
+  Acoustic Grand Piano: E4+G#4@1>25^56 C#5@2>25^56 E4+G#4@33>26^56 C#5@34>25^56
+  Acoustic Bass       : C#3@2>19^80 C#3@25>7^80 C#3@34>12^80
+  String Ensemble 2   : E4+G#4+C#5@1>25^56 E4+G#4+C#5@33>25^56
+  Trombone            : E4+G#4+C#5@1>25^56 E4+G#4+C#5@33>25^56
+@59 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+A4@1>13^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>13^80 D2@34>13^80
+  String Ensemble 2   : F#4@1>12^56 A4+D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+  Trombone            : F#4@1>12^56 A4+D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+@60 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4@1>13^56 A4+D5@2>13^56 F#4@33>13^56 A4+D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>13^80
+  String Ensemble 2   : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+  Trombone            : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+@61 [D7]
+  Harmonica           : D5@1>13^80 D5@17>13^80 D5@33>7^80 E5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>12^56 F#4@33>13^56 C5+D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 F#2@34>12^80
+  String Ensemble 2   : F#4+C5@1>12^56 D5@2>12^56 F#4+C5@33>12^56 D5@34>12^56
+  Trombone            : F#4+C5@1>12^56 D5@2>12^56 F#4+C5@33>12^56 D5@34>12^56
+@62 [D7]
+  Harmonica           : F5@1>10^80 F5@13>3^80 E5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4@1>13^56 C5+D5@2>12^56 F#4+C5@33>13^56 D5@34>13^56
+  Acoustic Bass       : D2@2>12^80 D2@34>12^80
+  String Ensemble 2   : F#4+C5@1>12^56 D5@2>12^56 F#4+C5@33>12^56 D5@34>12^56
+  Trombone            : F#4+C5@1>12^56 D5@2>12^56 F#4+C5@33>12^56 D5@34>12^56
+@63 [G | D]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4+B4@1>7^56 D5@2>7^56 G4+B4@9>19^56 D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+  String Ensemble 2   : G4+B4@1>6^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Trombone            : G4+B4@1>6^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Vibraphone          : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+@64 [E | G] (grid:8)
+  Harmonica           : D5@8>1^80
+  Acoustic Grand Piano: D5@8>1^56
+  Acoustic Bass       : F2@1>2^80 E2@3>2^80 D2@5>2^80 B1@7>2^80
+  String Ensemble 2   : D5@8>1^56
+  Trombone            : D5@8>1^56
+  Vibraphone          : F2@1>2^80 E2@3>2^80 D2@5>2^80 B1@7>2^80
+@65 [G | D]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4+B4@1>1^56 D5@2>7^56 G4+B4@9>19^56 D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+  String Ensemble 2   : G4@1>6^56 B4+D5@2>6^56 G4@9>19^56 B4+D5@10>19^56
+  Trombone            : G4@1>6^56 B4+D5@2>6^56 G4@9>19^56 B4+D5@10>19^56
+  Vibraphone          : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+@66 [F7 | Bm] (grid:12t)
+  Harmonica           : D5@11>1^80
+  Acoustic Grand Piano: D5@12>1^56
+  Acoustic Bass       : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+  String Ensemble 2   : D5@12>1^56
+  Trombone            : D5@12>1^56
+  Vibraphone          : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+@67 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+A4@1>13^56 D5@2>13^56 F#4+A4@33>12^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>12^80
+  String Ensemble 2   : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+  Trombone            : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+@68 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+A4@1>13^56 D5@2>13^56 F#4+A4@33>13^56 D5@34>13^56
+  Acoustic Bass       : D2@2>12^80 D2@34>12^80
+  String Ensemble 2   : F#4@1>12^56 A4+D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+  Trombone            : F#4@1>12^56 A4+D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+@69 [D7]
+  Harmonica           : D5@1>13^80 D5@17>13^80 D5@33>7^80 E5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>13^56
+  Acoustic Bass       : D2@2>13^80 F#2@34>12^80
+  String Ensemble 2   : F#4@1>12^56 C5+D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+  Trombone            : F#4@1>12^56 C5+D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+@70 [D7]
+  Harmonica           : F5@1>10^80 F5@13>3^80 E5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>13^56 F#4+C5@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>13^80
+  String Ensemble 2   : F#4+C5@1>12^56 D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+  Trombone            : F#4+C5@1>12^56 D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+@71 [G | D]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4@1>7^56 B4+D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+  String Ensemble 2   : G4+B4@1>6^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Trombone            : G4+B4@1>6^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Vibraphone          : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+@72 [E | Bm] (grid:12t)
+  Harmonica           : D5@11>1^80
+  Acoustic Grand Piano: D5@12>1^56
+  Acoustic Bass       : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+  String Ensemble 2   : D5@12>1^56
+  Trombone            : D5@12>1^56
+  Vibraphone          : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+@73 [G | D]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4@1>7^56 B4+D5@2>6^56 G4@9>19^56 B4+D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>12^80 D2@33>13^80 E2@49>12^80
+  String Ensemble 2   : G4@1>6^56 B4+D5@2>6^56 G4@9>19^56 B4+D5@10>19^56
+  Trombone            : G4@1>6^56 B4+D5@2>6^56 G4@9>19^56 B4+D5@10>19^56
+  Vibraphone          : G1@2>12^80 B1@17>12^80 D2@33>13^80 E2@49>12^80
+@74 [E | D] (grid:8)
+  Acoustic Grand Piano: D5@6>1^56 E5@7>1^56 D5@8>1^56
+  Acoustic Bass       : F2@1>2^80 E2@3>2^80 D2@5>3^80
+  String Ensemble 2   : D5@6>1^56 E5@7>1^56 D5@8>1^56
+  Trombone            : D5@6>1^56 E5@7>1^56 D5@8>1^56
+  Vibraphone          : F2@1>2^80 E2@3>2^80 D2@5>3^80
+@75 [C]
+  Acoustic Grand Piano: E5@1>7^56 F5@9>6^56 E5@17>7^56 D5@25>7^56 E4+G4@33>13^56 C5@34>12^56 E5@49>7^56 F5@57>7^56
+  Acoustic Bass       : C3@1>19^80 G2@25>7^80 C3@34>12^80
+  String Ensemble 2   : E5@1>7^56 F5@9>7^56 E5@17>7^56 D5@25>7^56 E4+G4+C5@33>13^56 E5@49>7^56 F5@57>7^56
+  Trombone            : E5@1>7^56 F5@9>7^56 E5@17>7^56 D5@25>7^56 E4+G4+C5@33>13^56 E5@49>7^56 F5@57>7^56
+@76 [C | Ddim]
+  Acoustic Grand Piano: E5@1>7^56 D5@9>7^56 E4+G4@17>13^56 C5@18>12^56 D5@33>13^56 G#4+D5@49>29^56 E5@50>28^56
+  Acoustic Bass       : C3@1>13^80 C3@18>12^80 E2@50>29^80
+  String Ensemble 2   : E5@1>7^56 D5@9>7^56 E4+G4@17>13^56 C5@18>12^56 D5@33>13^56 G#4+D5+E5@49>29^56
+  Trombone            : E5@1>7^56 D5@9>7^56 E4+G4@17>13^56 C5@18>12^56 D5@33>13^56 G#4+D5+E5@49>29^56
+@77 [D# | D7]
+  Acoustic Grand Piano: D#4+D#5@17>13^56 D4+D5@33>13^56 C#4+C#5@49>13^56
+  String Ensemble 2   : D#4+D#5@17>12^56 D4+D5@33>13^56 C#4+C#5@49>13^56
+  Trombone            : D#4+D#5@17>12^56 D4+D5@33>13^56 C#4+C#5@49>13^56
+@78 [E7]
+  Acoustic Grand Piano: E4+G#4@1>25^56 B4+D5@2>25^56
+  Acoustic Bass       : E2@2>19^80 E2@25>7^80 E2@33>13^80 E2@49>13^80
+  String Ensemble 2   : E4+G#4+B4@1>25^56 D5@2>25^56
+  Trombone            : E4+G#4+B4@1>25^56 D5@2>25^56
+@79 [A] (grid:8)
+  Harmonica           : C#5@1>1^80 C#5@2>1^80 C#5@3>1^80 C#5@4>1^80 C#5@5>2^80 E5@7>2^80
+  Acoustic Grand Piano: A4@1>6^56
+  Acoustic Bass       : A2@1>2^80 A2@4>1^80 A2@5>2^80
+  String Ensemble 2   : A4@1>6^56
+  Trombone            : A4@1>6^56
+@80 [G#m | E] (grid:16)
+  Harmonica           : B4@1>3^80 B4@4>1^80 B4@5>2^80 B4@7>2^80 B4@9>2^80 B4@11>2^80 E5@13>3^80
+  Acoustic Grand Piano: G#4@1>13^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80 G#2@9>3^80
+  String Ensemble 2   : G#4@1>13^56
+  Trombone            : G#4@1>13^56
+@81 [F#m] (grid:16)
+  Harmonica           : A4@1>3^80 A4@4>1^80 A4@5>2^80 A4@7>2^80 A4@9>2^80 A4@11>2^80 C#5@13>3^80
+  Acoustic Grand Piano: F#4@1>13^56
+  Acoustic Bass       : F#2@1>5^80 F#2@7>2^80 F#2@9>3^80
+  String Ensemble 2   : F#4@1>13^56
+  Trombone            : F#4@1>13^56
+@82 [E | C#m] (grid:16)
+  Harmonica           : G#4@1>3^80 G#4@4>1^80 G#4@5>2^80 B4@7>2^80 C#4@9>3^80 D4@13>3^80
+  Acoustic Grand Piano: E4@1>13^56
+  Acoustic Bass       : E2@1>5^80 E2@7>2^80 E2@9>3^80
+  String Ensemble 2   : E4@1>13^56
+  Trombone            : E4@1>13^56
+@83 [A | B7] (grid:12t)
+  Harmonica           : E4@1>5^80
+  Acoustic Grand Piano: E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : A2@1>7^80 A2@10>2^80
+  String Ensemble 2   : E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Trombone            : E4@1>5^56 A4@7>1^56 B4@9>9^56
+@84 [G# | C#m] (grid:12t)
+  Acoustic Grand Piano: E5@7>1^56 C#5@9>9^56
+  Acoustic Bass       : G#2@1>7^80 G#2@10>2^80
+  String Ensemble 2   : E5@7>1^56 C#5@9>9^56
+  Trombone            : E5@7>1^56 C#5@9>9^56
+@85 [F#m | B] (grid:12t)
+  Acoustic Grand Piano: A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : F#2@1>7^80 F#2@10>2^80
+  String Ensemble 2   : A4@7>1^56 B4@9>9^56
+  Trombone            : A4@7>1^56 B4@9>9^56
+@86 [E | C#m] (grid:8)
+  Acoustic Grand Piano: C#5@5>1^56 E4@6>2^56
+  Acoustic Bass       : E2@1>3^80 E2@5>3^80
+  String Ensemble 2   : C#5@5>1^56 E4@6>2^56
+  Trombone            : C#5@5>1^56 E4@6>2^56
+@87 [A] (grid:16)
+  Harmonica           : C#5@1>3^80 C#5@4>1^80 C#5@5>2^80 C#5@7>2^80 C#5@9>2^80 C#5@11>2^80 C#5@13>2^80 E5@15>2^80
+  Acoustic Grand Piano: A4@1>13^56
+  Acoustic Bass       : A2@1>5^80 A2@7>2^80 A2@9>3^80
+  String Ensemble 2   : A4@1>13^56
+  Trombone            : A4@1>13^56
+@88 [G#m | E] (grid:16)
+  Harmonica           : B4@1>3^80 B4@4>1^80 B4@5>2^80 B4@7>2^80 B4@9>2^80 B4@11>2^80 E5@13>3^80
+  Acoustic Grand Piano: G#4@1>13^56
+  Acoustic Bass       : G#2@1>5^80 G#2@7>2^80 G#2@9>3^80
+  String Ensemble 2   : G#4@1>13^56
+  Trombone            : G#4@1>13^56
+@89 [F#m] (grid:16)
+  Harmonica           : A4@1>2^80 A4@4>1^80 A4@5>2^80 A4@7>2^80 A4@9>2^80 A4@11>2^80 C#5@13>3^80
+  Acoustic Grand Piano: F#4@1>13^56
+  Acoustic Bass       : F#2@1>5^80 F#2@7>2^80 F#2@9>3^80
+  String Ensemble 2   : F#4@1>13^56
+  Trombone            : F#4@1>13^56
+@90 [E | C#m] (grid:16)
+  Harmonica           : G#4@1>2^80 G#4@4>1^80 B4@5>3^80 C#4@9>3^80 D4@13>3^80
+  Acoustic Grand Piano: E4@1>13^56
+  Acoustic Bass       : E2@1>5^80 E2@7>2^80 E2@9>3^80
+  String Ensemble 2   : E4@1>13^56
+  Trombone            : E4@1>13^56
+@91 [A | B7] (grid:12t)
+  Harmonica           : E4@1>5^80
+  Acoustic Grand Piano: E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Acoustic Bass       : A2@1>7^80 A2@10>2^80
+  String Ensemble 2   : E4@1>5^56 A4@7>1^56 B4@9>9^56
+  Trombone            : E4@1>5^56 A4@7>1^56 B4@9>9^56
+@92 [G#aug | C#m] (grid:12t)
+  Acoustic Grand Piano: E5@7>1^56 C#5@9>9^56
+  Acoustic Bass       : G#2@1>7^80 G#2@10>2^80
+  String Ensemble 2   : E5@7>1^56 C#5@9>9^56
+  Trombone            : E5@7>1^56 C#5@9>9^56
+@93 [F# | F#m] (grid:12t)
+  Acoustic Grand Piano: A4@7>1^56 F#4@9>9^56
+  Acoustic Bass       : F#2@1>7^80 F#2@10>2^80
+  String Ensemble 2   : A4@7>1^56 F#4@9>9^56
+  Trombone            : A4@7>1^56 F#4@9>9^56
+@94 [F# | Bm] (grid:6t)
+  Acoustic Grand Piano: E4@4>1^56 D4@5>2^56
+  Acoustic Bass       : F#2@1>2^80 B1@4>2^80
+  String Ensemble 2   : E4@4>1^56 D4@5>2^56
+  Trombone            : E4@4>1^56 D4@5>2^56
+@95 [Bm]
+  Harmonica           : D5@1>10^80 D5@13>3^80 D5@17>7^80 D5@25>7^80 D5@33>7^80 D5@41>7^80 D5@49>12^80
+  Acoustic Grand Piano: F#4+B4@1>13^56 D5@2>12^56 F#4+B4@49>13^56 D5@50>12^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>12^80
+  String Ensemble 2   : F#4+B4@1>12^56 D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+  Trombone            : F#4+B4@1>12^56 D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+@96 [A#dim]
+  Harmonica           : C#5@1>13^80 F#4@57>7^80
+  Acoustic Grand Piano: E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Acoustic Bass       : F#2@2>19^80 F#2@25>7^80 F#2@33>13^80
+  String Ensemble 2   : E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Trombone            : E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+@97 [Bm]
+  Harmonica           : B4@1>10^80 B4@13>3^80 B4@17>7^80 B4@25>7^80 B4@33>7^80 B4@41>7^80 B4@49>13^80
+  Acoustic Grand Piano: D4@1>13^56 F#4+B4@2>12^56 D4+F#4@49>13^56 B4@50>12^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>12^80
+  String Ensemble 2   : D4@1>12^56 F#4+B4@2>12^56 D4@49>12^56 F#4+B4@50>12^56
+  Trombone            : D4@1>12^56 F#4+B4@2>12^56 D4@49>12^56 F#4+B4@50>12^56
+@98 [A#dim]
+  Harmonica           : A#4@1>13^80 F#4@57>7^80
+  Acoustic Grand Piano: E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Acoustic Bass       : F#2@2>19^80 F#2@25>7^80 F#2@33>13^80
+  String Ensemble 2   : E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+  Trombone            : E4+A#4@1>13^56 C#5@2>12^56 E4+A#4@49>13^56 C#5@50>12^56
+@99 [Bm]
+  Harmonica           : D5@1>10^80 D5@13>3^80 D5@17>7^80 D5@25>7^80 D5@33>7^80 D5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+B4@1>13^56 D5@2>12^56 F#4+B4@49>13^56 D5@50>13^56
+  Acoustic Bass       : B2@2>19^80 B2@25>6^80 B2@33>12^80
+  String Ensemble 2   : F#4@1>12^56 B4+D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+  Trombone            : F#4@1>12^56 B4+D5@2>12^56 F#4@49>12^56 B4+D5@50>12^56
+@100 [B7 | D#dim]
+  Harmonica           : C#5@1>13^80 B4@17>13^80 A4@33>13^80 F#4@49>13^80
+  Acoustic Grand Piano: A4+C#5@1>13^56 D#4+B4@17>13^56 D#4+A4@33>13^56 D#4+F#4@49>13^56
+  Acoustic Bass       : B2@2>12^80 B2@34>12^80
+  String Ensemble 2   : A4+C#5@1>13^56 D#4@17>12^56 B4@18>12^56 D#4+A4@33>13^56 D#4@49>12^56 F#4@50>12^56
+  Trombone            : A4+C#5@1>13^56 D#4@17>12^56 B4@18>12^56 D#4+A4@33>13^56 D#4@49>12^56 F#4@50>12^56
+@101 [A]
+  Harmonica           : C#5@1>102^80
+  Acoustic Grand Piano: E4+A4@1>25^56 C#5@2>25^56 E4@33>26^56 A4+C#5@34>25^56
+  Acoustic Bass       : A2@2>19^80 A2@25>7^80 A2@34>12^80
+  String Ensemble 2   : E4+A4@1>25^56 C#5@2>25^56 E4+A4+C#5@33>25^56
+  Trombone            : E4+A4@1>25^56 C#5@2>25^56 E4+A4+C#5@33>25^56
+@102 [C#m]
+  Harmonica           : D5@57>7^80
+  Acoustic Grand Piano: E4+G#4@1>25^56 C#5@2>25^56 E4+G#4@33>25^56 C#5@34>25^56
+  Acoustic Bass       : C#3@2>19^80 C#3@25>7^80 C#3@34>12^80
+  String Ensemble 2   : E4+G#4+C#5@1>25^56 E4+G#4+C#5@33>25^56
+  Trombone            : E4+G#4+C#5@1>25^56 E4+G#4+C#5@33>25^56
+@103 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4@1>12^56 A4+D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>13^80
+  String Ensemble 2   : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+  Trombone            : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+@104 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+A4@1>13^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>12^80
+  String Ensemble 2   : F#4+A4@1>12^56 D5@2>12^56 F#4@33>12^56 A4+D5@34>12^56
+  Trombone            : F#4+A4@1>12^56 D5@2>12^56 F#4@33>12^56 A4+D5@34>12^56
+@105 [D7]
+  Harmonica           : D5@1>13^80 D5@17>13^80 D5@33>7^80 E5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 F#2@34>12^80
+  String Ensemble 2   : F#4@1>12^56 C5+D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+  Trombone            : F#4@1>12^56 C5+D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+@106 [D7]
+  Harmonica           : F5@1>10^80 F5@13>3^80 E5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>13^80
+  String Ensemble 2   : F#4+C5@1>12^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Trombone            : F#4+C5@1>12^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+@107 [G | D]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>12^80 D2@33>13^80 E2@49>13^80
+  String Ensemble 2   : G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Trombone            : G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+@108 [E | Bm] (grid:12t)
+  Harmonica           : D5@12>1^80
+  Acoustic Grand Piano: D5@11>1^56
+  Acoustic Bass       : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+  String Ensemble 2   : D5@12>1^56
+  Trombone            : D5@12>1^56
+  Vibraphone          : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+@109 [G | D]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+  String Ensemble 2   : G4@1>7^56 B4+D5@2>6^56 G4@9>19^56 B4+D5@10>19^56
+  Trombone            : G4@1>7^56 B4+D5@2>6^56 G4@9>19^56 B4+D5@10>19^56
+  Vibraphone          : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+@110 [F7 | Bm] (grid:12t)
+  Harmonica           : D5@11>1^80
+  Acoustic Grand Piano: D5@12>1^56
+  Acoustic Bass       : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+  String Ensemble 2   : D5@12>1^56
+  Trombone            : D5@12>1^56
+  Vibraphone          : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+@111 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>13^80
+  String Ensemble 2   : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Trombone            : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Vibraphone          : D2@2>12^80 D2@34>13^80
+@112 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+A4@1>13^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>13^80
+  String Ensemble 2   : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+  Trombone            : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>12^56 D5@34>12^56
+@113 [D7]
+  Harmonica           : D5@1>13^80 D5@17>13^80 D5@33>7^80 E5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 F#2@34>12^80
+  String Ensemble 2   : F#4+C5@1>12^56 D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+  Trombone            : F#4+C5@1>12^56 D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+@114 [D7]
+  Harmonica           : F5@1>10^80 F5@13>3^80 E5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>13^80 D2@34>13^80
+  String Ensemble 2   : F#4@1>12^56 C5+D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Trombone            : F#4@1>12^56 C5+D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+@115 [G | E7]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+  String Ensemble 2   : G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Trombone            : G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Vibraphone          : G1@1>12^80 B1@17>12^80 D2@33>13^80 E2@49>13^80
+@116 [E | Bm] (grid:12t)
+  Harmonica           : D5@12>1^80
+  Acoustic Grand Piano: D5@12>1^56
+  Acoustic Bass       : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+  String Ensemble 2   : D5@12>1^56
+  Trombone            : D5@12>1^56
+  Vibraphone          : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+@117 [G | D]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+  String Ensemble 2   : G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Trombone            : G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Vibraphone          : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+@118 [F7 | D] (grid:8)
+  Harmonica           : D5@7>1^80 D5@8>1^80
+  Acoustic Grand Piano: D5@6>1^56 E5@7>1^56 D5@8>1^56
+  Acoustic Bass       : F2@1>2^80 E2@3>2^80 D2@5>3^80
+  String Ensemble 2   : D5@6>1^56 E5@7>1^56 D5@8>1^56
+  Trombone            : D5@6>1^56 E5@7>1^56 D5@8>1^56
+  Vibraphone          : F2@1>2^80 E2@3>2^80 D2@5>3^80
+@119 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@49>6^80 D5@57>7^80
+  Acoustic Grand Piano: F#4@1>12^56 A4+D5@2>12^56 F#4+A4@33>13^56 D5@34>13^56
+  Acoustic Bass       : D2@2>12^80 D2@34>13^80
+  String Ensemble 2   : F#4@1>12^56 A4+D5@2>12^56 F#4@33>13^56 A4+D5@34>12^56
+  Trombone            : F#4@1>12^56 A4+D5@2>12^56 F#4@33>13^56 A4+D5@34>12^56
+  Vibraphone          : D2@2>12^80 D2@34>13^80
+@120 [D]
+  Harmonica           : D5@1>7^80 D5@9>7^80 D5@17>13^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+A4@1>13^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>13^80 D2@34>13^80
+  String Ensemble 2   : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+  Trombone            : F#4+A4@1>12^56 D5@2>12^56 F#4+A4@33>13^56 D5@34>12^56
+@121 [D7]
+  Harmonica           : D5@1>13^80 D5@17>13^80 D5@33>7^80 E5@41>7^80 D5@49>13^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>13^80 F#2@34>12^80
+  String Ensemble 2   : F#4+C5@1>12^56 D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+  Trombone            : F#4+C5@1>12^56 D5@2>12^56 F#4@33>12^56 C5+D5@34>12^56
+@122 [D7]
+  Harmonica           : F5@1>10^80 F5@13>3^80 E5@17>12^80 D5@33>13^80 D5@57>7^80
+  Acoustic Grand Piano: F#4+C5@1>13^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Acoustic Bass       : D2@2>12^80 D2@34>13^80
+  String Ensemble 2   : F#4+C5@1>12^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Trombone            : F#4+C5@1>12^56 D5@2>12^56 F#4+C5@33>13^56 D5@34>12^56
+  Vibraphone          : G1@63>12^80
+@123 [G | Dm]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4+B4@1>7^56 D5@2>7^56 G4+B4@9>19^56 D5@10>19^56
+  Acoustic Bass       : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>12^80
+  String Ensemble 2   : G4+B4@1>6^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Trombone            : G4+B4@1>6^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56
+  Vibraphone          : B1@15>13^80 D2@31>13^80 E2@47>12^80 F2@63>13^80
+@124 [E | G] (grid:12t)
+  Harmonica           : D5@11>1^80
+  Acoustic Grand Piano: D5@11>1^56
+  Acoustic Bass       : F2@1>2^80 E2@4>2^80 D2@7>2^80 B1@10>2^80
+  String Ensemble 2   : D5@12>1^56
+  Trombone            : D5@12>1^56
+  Vibraphone          : E2@4>2^80 D2@7>2^80 B1@10>2^80
+@125 [G | D]
+  Harmonica           : D5@1>7^80 D5@9>19^80
+  Acoustic Grand Piano: G4+B4@1>7^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56 D4+D5@57>7^56
+  Acoustic Bass       : G1@2>12^80 B1@17>13^80 D2@33>13^80 E2@49>13^80
+  String Ensemble 2   : G4+B4@1>6^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56 D4+D5@57>7^56
+  Trombone            : G4+B4@1>6^56 D5@2>6^56 G4+B4@9>19^56 D5@10>19^56 D4+D5@57>7^56
+  Vibraphone          : G1@1>2^80 B1@15>13^80 D2@31>13^80 E2@47>13^80 D2@63>12^80
+@126 [D | Em]
+  Acoustic Grand Piano: D4+D5@1>13^56 D4+D5@17>13^56 E4+E5@33>13^56 F#4+F#5@49>13^56
+  Acoustic Bass       : D2@1>12^80 D2@18>12^80 E2@33>12^80 F#2@49>12^80
+  String Ensemble 2   : D4+D5@1>13^56 D4+D5@17>13^56 E4+E5@33>13^56 F#4+F#5@49>13^56
+  Trombone            : D4+D5@1>13^56 D4+D5@17>13^56 E4+E5@33>13^56 F#4+F#5@49>13^56
+  Vibraphone          : D2@15>12^80 E2@31>12^80 F#2@47>12^80 G2@63>12^80
+@127 [G]
+  Acoustic Grand Piano: G4+G5@1>12^56 G3+G4@33>25^56
+  Acoustic Bass       : G2@1>12^80 G2@33>25^80
+  String Ensemble 2   : G4+G5@1>13^56 G3+G4@33>25^56
+  Trombone            : G4+G5@1>13^56 G3+G4@33>25^56
+  Vibraphone          : G2@31>25^80

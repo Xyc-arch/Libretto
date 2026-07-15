@@ -28,12 +28,17 @@ from libretto.core import Song, metrics_for
 from libretto.core.copy_risk import piece_notes, slide_overlap, load_corpus
 
 DATA = libretto.data_root()
-CANON = json.loads((DATA / "corpus_distribution_314.json").read_text())
+CANON = json.loads((DATA / "corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]
 COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 GC = CANON["genre_conditioned"]
 SPLIT = list(GC.keys())
 CACHE = DATA / "newgen_calibration.json"
+# FIXED per-genre sample size: every genre is calibrated on the SAME number of real songs (= the smallest
+# genre) sampled deterministically, so the copy-risk ceiling / c1-budget / fit quantiles are comparable
+# across genres and sampling variance is uniform (no genre gets tighter estimates just for having more songs).
+SAMPLE_N = 30
+SAMPLE_SEED = 0
 ADMIT_FRACTION = 0.85           # a generated piece need only be as clean as the worst ~15% of real songs
 BUDGET_FLOOR, BUDGET_CAP = 3, 6
 FIT_FLOOR, FIT_CAP = 3, 6
@@ -92,8 +97,13 @@ def _copy_vs_corpus_excl_self(sid):
     return best
 
 
-def compute(admit=ADMIT_FRACTION, write=True):
-    """Compute per-genre calibration from the labeled corpus grammar files. One-time / on demand."""
+def compute(admit=ADMIT_FRACTION, write=True, sample_n=SAMPLE_N):
+    """Compute per-genre calibration from the labeled corpus grammar files. One-time / on demand.
+
+    Each genre is calibrated on a FIXED deterministic sample of `sample_n` real songs (equal N per genre),
+    so copy-risk ceilings / budgets / fit thresholds are comparable across genres and sampling variance is
+    uniform. (Prefer the parallel pre-builder; the copy step is ~16s/song.)"""
+    import random
     key = json.loads((DATA / "answer_key" / "grammar_truth.json").read_text())
     by_genre = {}
     for s, v in key.items():
@@ -101,10 +111,13 @@ def compute(admit=ADMIT_FRACTION, write=True):
         p = DATA / "grammar" / f"{s}.txt"
         if g and g in GC[SPLIT[0]] and p.exists():
             by_genre.setdefault(g, []).append(p)
-    out = {"admit_fraction": admit, "copy_tolerance": COPY_TOLERANCE, "genres": {}}
+    out = {"admit_fraction": admit, "copy_tolerance": COPY_TOLERANCE, "sample_n": sample_n, "genres": {}}
     for g, paths in sorted(by_genre.items()):
+        ps = sorted(paths, key=lambda x: x.stem)
+        if len(ps) > sample_n:                          # fixed equal-N sample per genre (deterministic)
+            ps = random.Random(f"{SAMPLE_SEED}-{g}").sample(ps, sample_n)   # str seed => reproducible
         exts, occ, copies = [], [], []
-        for p in paths:
+        for p in ps:
             prof, m = _profile(p)
             exts.append(_extreme_count(prof, m, g))
             occ.append(_band_occupancy(m, g))
@@ -121,9 +134,38 @@ def compute(admit=ADMIT_FRACTION, write=True):
             "real_extreme_counts": sorted(exts), "real_band_occupancy": sorted(occ),
             "real_copy_risk": sorted(copies),
         }
+    _add_clf_rank_thresholds(out, admit)
     if write:
         CACHE.write_text(json.dumps(out, indent=2))
     return out
+
+
+def _add_clf_rank_thresholds(out, admit):
+    """Genre-calibrated classifier-rank tolerance: for each genre, the ceil(quantile@admit) of the true-genre
+    RANK that real songs achieve under the balanced-LogReg genre classifier (5-fold CV). A generated piece
+    must classify at least this well. Uses the same balanced classifier as newgen_measure.classify()."""
+    import numpy as _np
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.preprocessing import StandardScaler
+    from sklearn.pipeline import make_pipeline
+    from sklearn.model_selection import cross_val_predict, StratifiedKFold
+    fps = json.loads((DATA / "corpus_fps.json").read_text())
+    key = json.loads((DATA / "answer_key" / "grammar_truth.json").read_text())
+    X, y = [], []
+    for s, v in fps.items():
+        g = key.get(s, {}).get("genre")
+        if g and g in out["genres"]:
+            X.append(v); y.append(g)
+    X = _np.array(X, float); y = _np.array(y)
+    pipe = make_pipeline(StandardScaler(), LogisticRegression(max_iter=3000, C=1.0, class_weight="balanced"))
+    proba = cross_val_predict(pipe, X, y, cv=StratifiedKFold(5, shuffle=True, random_state=0), method="predict_proba")
+    pipe.fit(X, y); classes = list(pipe.classes_)
+    for g in out["genres"]:
+        gi = classes.index(g); idx = _np.where(y == g)[0]
+        ranks = [list(_np.argsort(proba[i])[::-1]).index(gi) + 1 for i in idx]
+        out["genres"][g]["clf_rank_threshold"] = int(_np.ceil(_np.quantile(ranks, admit)))
+        out["genres"][g]["clf_rank_median"] = int(_np.median(ranks))
+    out["clf"] = "balanced LogReg; clf_rank_threshold = ceil(quantile@%.2f of real-song true-genre CV ranks)" % admit
 
 
 def calibration():
@@ -141,10 +183,21 @@ def c1_budget(genre):
 
 
 def fit_threshold(genre):
-    """Min # of split axes in the genre band (loose floor; the classifier OR is the primary genre test)."""
+    """Min # of split axes in the genre band (AND'd with the genre-calibrated classifier-rank gate)."""
     if not genre:
         return FIT_FLOOR
     return calibration()["genres"].get(genre, {}).get("fit_threshold", FIT_FLOOR)
+
+
+RANK_DEFAULT = 99   # unknown genre => no rank gate
+def clf_rank_threshold(genre):
+    """Max acceptable rank of the target genre in the balanced classifier's ranking — genre-calibrated to
+    how real songs of the genre classify (ceil of the ADMIT_FRACTION quantile of real-song true-genre ranks).
+    Genres structure separates cleanly (electronic/jazz) => top-1..2; ambiguous genres (latin/blues) tolerate
+    more. A generated piece need only classify as well as the worst ~15% of real songs of its genre."""
+    if not genre:
+        return RANK_DEFAULT
+    return calibration()["genres"].get(genre, {}).get("clf_rank_threshold", RANK_DEFAULT)
 
 
 def copy_threshold(genre):

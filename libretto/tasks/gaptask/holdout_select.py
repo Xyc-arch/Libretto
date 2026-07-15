@@ -10,16 +10,17 @@ import json, random, re
 from collections import defaultdict
 from pathlib import Path
 import numpy as np
-import midi_to_grammar as mtg
-import metric_discovery as md
-from understanding_probe import Song
+from libretto.core import midi_to_grammar as mtg
+from libretto.core import metric_discovery as md
+from libretto.core import Song
 import expand_corpus as ec
 
-SCRIPT = Path(__file__).resolve().parent
+import libretto
+DATA = libretto.data_root()
 ROOT = ec.ROOT
-OUT = SCRIPT / "compositions" / "holdout42"; (OUT/"grammar").mkdir(parents=True, exist_ok=True)
-KEY = json.loads((SCRIPT/"answer_key"/"grammar_truth.json").read_text())
-CANON = json.loads((SCRIPT/"corpus_distribution_314.json").read_text())
+OUT = Path("compositions") / "holdout42"; (OUT/"grammar").mkdir(parents=True, exist_ok=True)
+KEY = json.loads((DATA/"answer_key"/"grammar_truth.json").read_text())
+CANON = json.loads((DATA/"corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; DBF = np.array(CANON["axes"]["form_distinct_bar_frac"]["values"], float)
 CORPUS_SRC = {v.get("source") for v in KEY.values()}          # the 314 (+gen) source paths — to exclude
 RNG = random.Random(4242)
@@ -60,7 +61,7 @@ for g, need in TARGETS.items():
         if got>=need or tries>=ENCODE_TRIES: break
         tries+=1
         try:
-            text = mtg.encode(f, "adaptive", False, None, anonymize=True)
+            text = mtg.encode(f, "adaptive", True, None, anonymize=False)
         except Exception:
             continue
         if not text: continue

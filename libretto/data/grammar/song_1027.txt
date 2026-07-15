@@ -1,0 +1,440 @@
+KEY: Eb major | METER: 4/4 | TEMPO: 79 | GRID: 32th (adaptive) | BARS: 72
+VOICES: MLII Productions[prog=39], FX 1 (rain)[prog=96], Acoustic Grand Piano[prog=0], Electric Piano 1[prog=4], Acoustic Guitar (nylon)[prog=24], Acoustic Guitar (steel)[prog=25], Drums[drums]
+@1 [Eb | Ddim]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>16^56
+  Electric Piano 1       : Ab4@13>10^104 G4@23>1^80 F4@24>1^80 Ab4@25>6^104 G4@31>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@2 [Eb | Bb] (grid:8)
+  MLII Productions       : Ab1@1>1^104 C2@4>5^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>3^56 Bb3+D4+F4@4>4^80
+  Electric Piano 1       : F4@1>1^104 G4@3>1^104 Eb4@4>4^104
+  Drums                  : B1+Bb2+Bb4@1>1^104 Ab2+Bb4@2>1^80 Eb2+E2+Bb4@3>1^104 B1+Bb4@4>1^80 Gb2+Bb4@5>1^104 Gb2+Bb4@6>1^104 E2+Gb2+Bb4@7>1^104 Gb2+Bb4@8>1^104
+@3 [Eb | Ddim]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>16^56
+  Electric Piano 1       : Ab4@13>10^104 G4@23>1^80 F4@24>1^80 Ab4@25>6^104 G4@31>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@4 [Eb | Bb] (grid:8)
+  MLII Productions       : Ab1@1>1^104 C2@4>5^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>3^56 Bb3+D4+F4@4>4^80
+  Electric Piano 1       : F4@1>1^104 G4@3>1^104 Eb4@4>4^104
+  Drums                  : B1+Bb2+Bb4@1>1^104 Ab2+Bb4@2>1^80 Eb2+E2+Bb4@3>1^104 B1+Bb4@4>1^80 Gb2+Bb4@5>1^104 Gb2+Bb4@6>1^104 E2+Gb2+Bb4@7>1^104 Gb2+Bb4@8>1^104
+@5 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@6 [Eb | Bb] (grid:24t)
+  MLII Productions       : Ab1@1>2^104 C2@10>14^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>9^56 Bb3+D4+F4@10>11^80
+  Electric Piano 1       : G4@9>1^80 Eb4@10>4^104 F4@15>1^80 Bb3@16>11^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@7 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>14^56
+  Electric Piano 1       : Bb3@5>4^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>18^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@8 [Eb7 | Bb] (grid:16)
+  MLII Productions       : Db2@1>3^104 Db2@5>3^104 C2@9>3^104 C2@13>3^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>7^56 Bb3+D4+F4@9>7^80
+  Acoustic Grand Piano   : Bb3@13>1^104 C4@14>1^104 Eb4@15>1^104 Eb4@16>2^104
+  Electric Piano 1       : Bb3@7>1^104 Eb4@9>1^104 G4@11>1^104 Bb4@13>4^104
+  Drums                  : B1+Bb2+Bb4@1>2^104 Ab2+Bb4@3>1^80 Db2@4>1^104 B1+Eb2+E2+Bb4@5>3^104 B1+Bb4@7>1^80 Db2@8>1^104 B1+Gb2+Bb4@9>3^104 Gb2+Bb4@11>1^104 Db2@12>1^104 B1+E2+Gb2+Bb4@13>2^104 Gb2+Bb4@15>1^104 Db2@16>1^104
+@9 [Eb | Bb] (grid:64)
+  FX 1 (rain)            : Eb4+G4+Bb4@1>22^56 D4+F4+Bb4@25>32^80
+  Acoustic Grand Piano   : C4@9>4^104 Bb3@49>3^104 Ab3@50>1^80 C4@53>2^104 Eb4@58>3^104 C4@61>2^104
+  Drums                  : F1+B1+Bb2+Bb4@1>16^104 Ab2+Bb4@9>4^80 E1@13>6^104 Eb2+E2+Bb4@17>3^104 A1+B1+Gb2+Bb4@25>3^104 Gb2+A4+Bb4@33>5^104 A4@37>2^80 A4+Bb4@41>4^80 E2+Bb4@49>3^104 B1+Bb4@57>2^80
+@10 [Eb | Bb]
+  FX 1 (rain)            : Bb3+Eb4+G4@1>11^56 Bb3+D4@13>16^80 F4@14>16^56
+  Acoustic Grand Piano   : Eb4@1>3^104 F4@5>2^104 C4@9>1^104 Bb3@21>4^104 C4@25>1^104 Eb4@27>2^104 C4@29>1^104 F4@31>1^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Eb2+E2+Bb4@9>2^104 B1+Bb4@13>2^80 Gb2+Bb4@17>1^104 Gb2+Bb4@21>1^104 E2+Gb2+Bb4@25>1^104 Gb2+Bb4@29>1^104
+@11 [Eb | Bb] (grid:16)
+  FX 1 (rain)            : Eb4+G4+Bb4@1>6^56 D4+F4+Bb4@7>8^56
+  Acoustic Grand Piano   : C4@1>1^104 Eb4@2>3^104 Bb3@13>1^104 C4@14>1^104 Eb4@15>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@3>1^80 E1@4>1^104 Eb2+E2+Bb4@5>1^104 A1+B1+Gb2+Bb4@7>1^104 Gb2+A4+Bb4@9>1^104 A4@10>1^80 A4+Bb4@11>1^80 E2+Bb4@13>1^104 B1+Bb4@15>1^80
+@12 [Eb | Bb] (grid:24t)
+  FX 1 (rain)            : Bb3+Eb4+G4@1>8^56 Bb3+D4+F4@10>12^80
+  Acoustic Grand Piano   : F4@1>1^104 G4@4>1^80 F4@6>1^104 Eb4@9>4^104 C4@13>1^104 G4@16>1^104 G4@19>1^104 G4@22>1^80 G4@24>2^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@13 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Acoustic Grand Piano   : F4@3>3^104 Eb4@7>2^104 Bb3@25>1^104 C4@27>1^104 Eb4@29>3^104
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@14 [Eb | Bb] (grid:64)
+  MLII Productions       : Ab1@1>5^104 C2@25>38^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>23^56 Bb3+D4+F4@25>29^80
+  Acoustic Grand Piano   : F4@1>2^104 Eb4@9>3^104 C4@17>2^104 G4@26>7^104 F4@33>2^104 C4@49>7^104 Eb4@58>1^104 Eb4@61>2^104 E4+F4@63>9^80
+  Electric Piano 1       : G4@21>2^80 Eb4@25>10^104 F4@37>2^80 Bb3@41>28^104
+  Drums                  : B1+Bb2+Bb4@1>7^104 Ab2+Bb4@9>4^80 Eb2+E2+Bb4@17>3^104 B1+Bb4@25>3^80 Gb2+Bb4@33>2^104 Gb2+Bb4@41>2^104 E2+Gb2+Bb4@49>2^104 Gb2+Bb4@57>2^104
+@15 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>14^56
+  Acoustic Grand Piano   : G4@5>1^104 F4@7>5^104 Eb4@13>1^104 C4@15>6^104 Bb3@21>1^104 C4@23>5^104 Eb4@29>1^104 F4@31>6^104
+  Electric Piano 1       : Bb3@5>4^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>18^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@16 [Eb7 | Bb] (grid:64)
+  MLII Productions       : Db2@1>13^104 Db2@17>13^104 C2@33>13^104 C2@49>11^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>29^56 Bb3+D4+F4@33>27^80
+  Acoustic Grand Piano   : G4@9>2^104 F4@13>11^104 Eb4@25>3^104 C4@29>7^104
+  Electric Piano 1       : Bb3@25>4^104 Eb4@33>4^104 G4@41>4^104 Bb4@49>14^104
+  Acoustic Guitar (steel): G4+G5+Bb5@57>2^104 Bb4@58>1^104 G4+Bb4+G5+Bb5@61>10^104
+  Drums                  : B1+Bb2+Bb4@1>7^104 Ab2+Bb4@9>4^80 Db2@13>2^104 B1+Eb2+E2+Bb4@17>10^104 B1+Bb4@25>3^80 Db2@29>2^104 B1+Gb2+Bb4@33>12^104 Gb2+Bb4@41>2^104 Db2@45>2^104 B1+E2+Gb2+Bb4@49>9^104 Gb2+Bb4@57>2^104 Db2@61>2^104
+@17 [Eb | Bb7] (grid:64)
+  MLII Productions       : F1@1>6^104 G1@25>6^104 F1@57>5^104 G1@61>5^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>22^56 D4+F4+Bb4@25>31^56
+  Acoustic Grand Piano   : Bb3@38>3^104 C4@41>2^104 C4@45>2^104 Eb4@49>4^104 Eb4@57>4^104
+  Electric Piano 1       : Ab4@25>20^104 G4@45>3^80 F4@47>1^80 Ab4@49>12^104 G4@61>3^104
+  Acoustic Guitar (steel): Ab5@9>1^104 F4+Ab4+F5@10>1^80 F4+Ab4+F5+Ab5@14>8^104 Eb5@25>1^104 Eb4+G4+G5@26>1^104 Eb4+Eb5+G5@29>6^104 G4@30>6^104
+  Drums                  : F1+B1+Bb2+Bb4@1>16^104 Ab2+Bb4@9>4^80 E1@13>6^104 Eb2+E2+Bb4@17>3^104 A1+B1+Gb2+Bb4@25>3^104 Gb2+A4+Bb4@33>5^104 A4@37>2^80 A4+Bb4@41>4^80 E2+Bb4@49>3^104 B1+Bb4@57>2^80
+@18 [Eb | Bb] (grid:24t)
+  MLII Productions       : Ab1@1>2^104 C2@10>14^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>8^56 Bb3+D4+F4@10>12^80
+  Acoustic Grand Piano   : F4@1>2^104 Eb4@4>4^104 C4@19>3^104 Eb4@22>1^104 F4@24>4^104
+  Electric Piano 1       : F4@1>4^104 G4@5>1^104 Eb4@10>12^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@19 [Eb | Ddim]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>16^56
+  Acoustic Grand Piano   : G4@5>1^80 F4@7>6^104 Eb4@13>1^104 C4@15>6^104 Bb3@21>1^104 C4@23>1^104 Eb4@27>1^104
+  Electric Piano 1       : Ab4@13>10^104 G4@23>1^80 F4@24>1^80 Ab4@25>6^104 G4@31>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@20 [Eb | Bb] (grid:24t)
+  MLII Productions       : Ab1@1>2^104 C2@10>14^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>8^56 Bb3+D4+F4@10>12^80
+  Acoustic Grand Piano   : F4@1>3^104 G4@4>1^80 F4@6>4^104 Eb4@10>8^104 Bb3@19>3^104 C4@22>1^104 Eb4@24>4^104
+  Electric Piano 1       : F4@1>4^104 G4@5>1^104 Eb4@10>12^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@21 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Acoustic Grand Piano   : C4@5>1^104 Eb4@7>4^104 C4@11>1^104 Eb4@13>2^104 C4@15>1^104 Eb4@17>3^104 C4@21>2^104 Bb3@25>4^104 C4@29>1^104 Eb4@31>5^104
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@22 [Eb | Bb] (grid:64)
+  MLII Productions       : Ab1@1>5^104 C2@25>38^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>23^56 Bb3+D4+F4@25>29^80
+  Acoustic Grand Piano   : C4@8>2^104 Eb4@12>7^104 C4@21>2^104 Eb4@25>5^104 C4@29>2^104 F4@33>6^104 G4@40>7^104 F4@49>5^104 Eb4@57>13^104
+  Electric Piano 1       : G4@21>2^80 Eb4@25>10^104 F4@37>2^80 Bb3@41>28^104
+  Acoustic Guitar (steel): G4+Bb4@49>2^104 G4+Bb4@53>2^104 G4+Bb4@57>5^104
+  Drums                  : B1+Bb2+Bb4@1>7^104 Ab2+Bb4@9>4^80 Eb2+E2+Bb4@17>3^104 B1+Bb4@25>3^80 Gb2+Bb4@33>2^104 Gb2+Bb4@41>2^104 E2+Gb2+Bb4@49>2^104 Gb2+Bb4@57>2^104
+@23 [Eb | Bb7] (grid:64)
+  MLII Productions       : F1@1>6^104 G1@25>6^104 F1@57>5^104 G1@61>5^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>22^56 D4+F4+Bb4@25>29^56
+  Acoustic Grand Piano   : Bb3@42>7^104 C4@50>2^104 Bb3@53>1^104 Eb4@57>6^104
+  Electric Piano 1       : Bb3@9>7^104 Eb4@17>1^104 Ab4@25>22^104 G4@47>2^80 F4@49>36^104
+  Acoustic Guitar (steel): C5@1>6^104 Gb4+Ab4@2>7^104 Bb4+Eb5@9>6^104 Ab4+C5@17>6^104 G4+Bb4@26>5^104
+  Drums                  : F1+B1+Bb2+Bb4@1>16^104 Ab2+Bb4@9>4^80 E1@13>6^104 Eb2+E2+Bb4@17>3^104 A1+B1+Gb2+Bb4@25>3^104 Gb2+A4+Bb4@33>5^104 A4@37>2^80 A4+Bb4@41>4^80 E2+Bb4@49>3^104 B1+Bb4@57>2^80
+@24 [Eb7 | Bb] (grid:16)
+  MLII Productions       : Db2@1>3^104 Db2@5>3^104 C2@9>3^104 C2@13>3^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>7^56 Bb3+D4+F4@9>7^80
+  Acoustic Grand Piano   : F4@1>1^104 C4@2>1^104 Eb4@3>6^104
+  Electric Piano 1       : Bb3@7>1^104 Eb4@9>1^104 G4@11>1^104 Bb4@13>4^104
+  Acoustic Guitar (nylon): C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): C4+Bb4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>2^104
+  Drums                  : B1+Bb2+Bb4@1>2^104 Ab2+Bb4@3>1^80 Db2@4>1^104 B1+Eb2+E2+Bb4@5>3^104 B1+Bb4@7>1^80 Db2@8>1^104 B1+Gb2+Bb4@9>3^104 Gb2+Bb4@11>1^104 Db2@12>1^104 B1+E2+Gb2+Bb4@13>2^104 Gb2+Bb4@15>1^104 Db2@16>1^104
+@25 [Eb | Bb] (grid:16)
+  MLII Productions       : F1@1>1^104 G1@7>1^104 F1@15>1^104 G1@16>1^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>5^56 D4+F4+Bb4@7>8^80
+  Acoustic Guitar (nylon): F4@1>2^104 G4@3>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>2^104 G4+C5@3>1^104 C4+G4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>2^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@3>1^80 E1@4>1^104 Eb2+E2+Bb4@5>1^104 A1+B1+Gb2+Bb4@7>1^104 Gb2+A4+Bb4@9>1^104 A4@10>1^80 A4+Bb4@11>1^80 E2+Bb4@13>1^104 B1+Bb4@15>1^80
+@26 [Eb | Bb]
+  MLII Productions       : Ab1@1>3^104 C2@13>19^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>11^56 Bb3+D4@13>16^80 F4@14>16^56
+  Acoustic Guitar (nylon): F4@1>2^104 Eb4@5>7^104 C4@21>4^104 Eb4@25>2^104 C4@27>1^80 Eb4@29>2^104
+  Acoustic Guitar (steel): F4+C5@1>3^104 G4+C5@5>2^80 F4+Bb4@7>5^104 C4+G4@21>3^80 Eb4+Bb4@25>2^104 C4@27>1^56 Eb4+Bb4@29>4^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Eb2+E2+Bb4@9>2^104 B1+Bb4@13>2^80 Gb2+Bb4@17>1^104 Gb2+Bb4@21>1^104 E2+Gb2+Bb4@25>1^104 Gb2+Bb4@29>1^104
+@27 [Eb | Bb] (grid:16)
+  MLII Productions       : F1@1>1^104 G1@7>1^104 F1@15>1^104 G1@16>1^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>6^56 D4+F4+Bb4@7>8^56
+  Acoustic Guitar (nylon): F4@1>2^104 G4@3>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>2^104 G4+C5@3>1^104 C4+Bb4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@3>1^80 E1@4>1^104 Eb2+E2+Bb4@5>1^104 A1+B1+Gb2+Bb4@7>1^104 Gb2+A4+Bb4@9>1^104 A4@10>1^80 A4+Bb4@11>1^80 E2+Bb4@13>1^104 B1+Bb4@15>1^80
+@28 [Eb | Bb] (grid:16)
+  MLII Productions       : Ab1@1>1^104 C2@7>10^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>6^56 Bb3+D4+F4@7>8^80
+  Acoustic Guitar (nylon): F4@1>1^104 G4@3>1^104 F4@4>1^104 Eb4@6>2^104 C4@9>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>2^104
+  Acoustic Guitar (steel): Eb4+Bb4@5>1^104 Eb4+Bb4@7>1^104 C4+D4+Bb4@11>2^104 Eb4+Bb4@13>1^104 Eb4+Bb4@15>2^104
+  Drums                  : B1+Bb2+Bb4@1>2^104 Ab2+Bb4@3>1^80 Eb2+E2+Bb4@5>1^104 B1+Bb4@7>1^80 Gb2+Bb4@9>1^104 Gb2+Bb4@11>1^104 E2+Gb2+Bb4@13>1^104 Gb2+Bb4@15>1^104
+@29 [Eb | Bb]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>3^104 C4@21>4^104 Eb4@25>2^104 C4@27>2^80 Eb4@29>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>3^104 C4+Bb4@21>4^104 Eb4+Bb4@25>2^104 Eb4+Bb4@29>4^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@30 [Eb | Bb]
+  MLII Productions       : Ab1@1>3^104 C2@13>19^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>12^56 Bb3+D4+F4@13>14^80
+  Electric Piano 1       : G4@11>1^80 Eb4@13>5^104 F4@19>1^80 Bb3@21>14^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>1^104 Eb4@7>13^104 C4@21>4^104 Eb4@25>2^104 C4@28>1^56 Eb4@29>3^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>2^104 F4+Bb4@7>5^104 C4+Bb4@21>4^104 Eb4+Bb4@25>2^104 Eb4+Bb4@29>4^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Eb2+E2+Bb4@9>2^104 B1+Bb4@13>2^80 Gb2+Bb4@17>1^104 Gb2+Bb4@21>1^104 E2+Gb2+Bb4@25>1^104 Gb2+Bb4@29>1^104
+@31 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>14^56
+  Electric Piano 1       : Bb3@5>4^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>18^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>2^104 C4@22>3^104 Eb4@25>2^104 C4@27>2^104 Eb4@29>3^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>2^104 Eb4+Bb4@25>2^104 C4@27>2^80 Eb4+Bb4@29>3^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@32 [Eb7 | Bb]
+  MLII Productions       : Db2@1>7^104 Db2@9>7^104 C2@17>7^104 C2@25>6^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>15^56 Bb3+D4+F4@17>13^80
+  Electric Piano 1       : Bb3@13>2^104 Eb4@17>2^104 G4@21>2^104 Bb4@25>7^104
+  Acoustic Guitar (nylon): Bb4@1>6^104 Ab4@7>1^104 G4@8>1^80 Ab4@9>5^104 G4@15>1^80 F4@16>1^104 G4@17>6^104 F4@23>1^104 Eb4@24>1^104 F4@25>6^104
+  Acoustic Guitar (steel): F4+Bb4@1>3^104 F4@7>8^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Db2@7>1^104 B1+Eb2+E2+Bb4@9>5^104 B1+Bb4@13>1^80 Db2@15>1^104 B1+Gb2+Bb4@17>6^104 Gb2+Bb4@21>1^104 Db2@23>1^104 B1+E2+Gb2+Bb4@25>5^104 Gb2+Bb4@29>1^104 Db2@31>1^104
+@33 [Eb | Bb] (grid:64)
+  FX 1 (rain)            : Eb4+G4+Bb4@1>22^56 D4+F4+Bb4@25>32^80
+  Acoustic Grand Piano   : Eb4@1>12^104 C4@9>4^104 Bb3@49>3^104 Ab3@50>1^80 C4@53>2^104 Eb4@58>3^104 C4@61>2^104
+  Drums                  : F1+B1+Bb2+Bb4@1>16^104 Ab2+Bb4@9>4^80 E1@13>6^104 Eb2+E2+Bb4@17>3^104 A1+B1+Gb2+Bb4@25>3^104 Gb2+A4+Bb4@33>5^104 A4@37>2^80 A4+Bb4@41>4^80 E2+Bb4@49>3^104 B1+Bb4@57>2^80
+@34 [Eb | Bb]
+  FX 1 (rain)            : Bb3+Eb4+G4@1>11^56 Bb3+D4@13>16^80 F4@14>16^56
+  Acoustic Grand Piano   : Eb4@1>3^104 F4@5>2^104 C4@9>1^104 Bb3@21>4^104 C4@25>1^104 Eb4@27>2^104 C4@29>1^104 F4@31>1^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Eb2+E2+Bb4@9>2^104 B1+Bb4@13>2^80 Gb2+Bb4@17>1^104 Gb2+Bb4@21>1^104 E2+Gb2+Bb4@25>1^104 Gb2+Bb4@29>1^104
+@35 [Eb | Bb] (grid:16)
+  FX 1 (rain)            : Eb4+G4+Bb4@1>6^56 D4+F4+Bb4@7>8^56
+  Acoustic Grand Piano   : C4@1>1^104 Eb4@2>3^104 Bb3@13>1^104 C4@14>1^104 Eb4@15>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@3>1^80 E1@4>1^104 Eb2+E2+Bb4@5>1^104 A1+B1+Gb2+Bb4@7>1^104 Gb2+A4+Bb4@9>1^104 A4@10>1^80 A4+Bb4@11>1^80 E2+Bb4@13>1^104 B1+Bb4@15>1^80
+@36 [Eb | Bb] (grid:24t)
+  FX 1 (rain)            : Bb3+Eb4+G4@1>8^56 Bb3+D4+F4@10>12^80
+  Acoustic Grand Piano   : F4@1>1^104 G4@4>1^80 F4@6>1^104 Eb4@9>4^104 C4@13>1^104 G4@16>1^104 G4@19>1^104 G4@22>1^80 G4@24>2^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@37 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Acoustic Grand Piano   : F4@3>3^104 Eb4@7>2^104 Bb3@25>1^104 C4@27>1^104 Eb4@29>3^104
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@38 [Eb | Bb] (grid:64)
+  MLII Productions       : Ab1@1>5^104 C2@25>38^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>23^56 Bb3+D4+F4@25>29^80
+  Acoustic Grand Piano   : F4@1>2^104 Eb4@9>3^104 C4@17>2^104 G4@26>7^104 F4@33>2^104 C4@49>7^104 Eb4@58>1^104 Eb4@61>2^104 E4+F4@63>9^80
+  Electric Piano 1       : G4@21>2^80 Eb4@25>10^104 F4@37>2^80 Bb3@41>28^104
+  Drums                  : B1+Bb2+Bb4@1>7^104 Ab2+Bb4@9>4^80 Eb2+E2+Bb4@17>3^104 B1+Bb4@25>3^80 Gb2+Bb4@33>2^104 Gb2+Bb4@41>2^104 E2+Gb2+Bb4@49>2^104 Gb2+Bb4@57>2^104
+@39 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>14^56
+  Acoustic Grand Piano   : G4@5>1^104 F4@7>5^104 Eb4@13>1^104 C4@15>6^104 Bb3@21>1^104 C4@23>5^104 Eb4@29>1^104 F4@31>6^104
+  Electric Piano 1       : Bb3@5>4^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>18^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@40 [Eb7 | Bb] (grid:64)
+  MLII Productions       : Db2@1>13^104 Db2@17>13^104 C2@33>13^104 C2@49>11^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>29^56 Bb3+D4+F4@33>27^80
+  Acoustic Grand Piano   : G4@9>2^104 F4@13>11^104 Eb4@25>3^104 C4@29>7^104 G4@61>9^104
+  Electric Piano 1       : Bb3@25>4^104 Eb4@33>4^104 G4@41>4^104 Bb4@49>14^104
+  Acoustic Guitar (steel): G4+G5+Bb5@57>2^104 Bb4@58>1^104 Bb4+G5+Bb5@61>10^104
+  Drums                  : B1+Bb2+Bb4@1>7^104 Ab2+Bb4@9>4^80 Db2@13>2^104 B1+Eb2+E2+Bb4@17>10^104 B1+Bb4@25>3^80 Db2@29>2^104 B1+Gb2+Bb4@33>12^104 Gb2+Bb4@41>2^104 Db2@45>2^104 B1+E2+Gb2+Bb4@49>9^104 Gb2+Bb4@57>2^104 Db2@61>2^104
+@41 [Eb | Bb7] (grid:64)
+  MLII Productions       : F1@1>6^104 G1@25>6^104 F1@57>5^104 G1@61>5^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>22^56 D4+F4+Bb4@25>31^56
+  Acoustic Grand Piano   : Bb3@38>3^104 C4@41>2^104 C4@45>2^104 Eb4@49>4^104 Eb4@57>4^104
+  Electric Piano 1       : Ab4@25>20^104 G4@45>3^80 F4@47>1^80 Ab4@49>12^104 G4@61>3^104
+  Acoustic Guitar (steel): Ab5@9>1^104 F4+Ab4+F5@10>1^80 F4+Ab4+F5+Ab5@14>8^104 Eb5@25>1^104 Eb4+G4+G5@26>1^104 Eb4+Eb5+G5@29>6^104 G4@30>6^104
+  Drums                  : F1+B1+Bb2+Bb4@1>16^104 Ab2+Bb4@9>4^80 E1@13>6^104 Eb2+E2+Bb4@17>3^104 A1+B1+Gb2+Bb4@25>3^104 Gb2+A4+Bb4@33>5^104 A4@37>2^80 A4+Bb4@41>4^80 E2+Bb4@49>3^104 B1+Bb4@57>2^80
+@42 [Eb | Bb] (grid:24t)
+  MLII Productions       : Ab1@1>2^104 C2@10>14^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>8^56 Bb3+D4+F4@10>12^80
+  Acoustic Grand Piano   : F4@1>2^104 Eb4@4>4^104 C4@19>3^104 Eb4@22>1^104 F4@24>4^104
+  Electric Piano 1       : F4@1>4^104 G4@5>1^104 Eb4@10>12^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@43 [Eb | Ddim]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>16^56
+  Acoustic Grand Piano   : G4@5>1^80 F4@7>6^104 Eb4@13>1^104 C4@15>6^104 Bb3@21>1^104 C4@23>1^104 Eb4@27>1^104
+  Electric Piano 1       : Ab4@13>10^104 G4@23>1^80 F4@24>1^80 Ab4@25>6^104 G4@31>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@44 [Eb | Bb] (grid:24t)
+  MLII Productions       : Ab1@1>2^104 C2@10>14^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>8^56 Bb3+D4+F4@10>12^80
+  Acoustic Grand Piano   : F4@1>3^104 G4@4>1^80 F4@6>4^104 Eb4@10>8^104 Bb3@19>3^104 C4@22>1^104 Eb4@24>4^104
+  Electric Piano 1       : F4@1>4^104 G4@5>1^104 Eb4@10>12^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@45 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Acoustic Grand Piano   : C4@5>1^104 Eb4@7>4^104 C4@11>1^104 Eb4@13>2^104 C4@15>1^104 Eb4@17>3^104 C4@21>2^104 Bb3@25>4^104 C4@29>1^104 Eb4@31>5^104
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@46 [Eb | Bb] (grid:64)
+  MLII Productions       : Ab1@1>5^104 C2@25>38^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>23^56 Bb3+D4+F4@25>29^80
+  Acoustic Grand Piano   : C4@8>2^104 Eb4@12>7^104 C4@21>2^104 Eb4@25>5^104 C4@29>2^104 F4@33>6^104 G4@40>7^104 F4@49>5^104 Eb4@57>13^104
+  Electric Piano 1       : G4@21>2^80 Eb4@25>10^104 F4@37>2^80 Bb3@41>28^104
+  Acoustic Guitar (steel): G4+Bb4@49>2^104 G4+Bb4@53>2^104 G4+Bb4@57>5^104
+  Drums                  : B1+Bb2+Bb4@1>7^104 Ab2+Bb4@9>4^80 Eb2+E2+Bb4@17>3^104 B1+Bb4@25>3^80 Gb2+Bb4@33>2^104 Gb2+Bb4@41>2^104 E2+Gb2+Bb4@49>2^104 Gb2+Bb4@57>2^104
+@47 [Eb | Bb7] (grid:64)
+  MLII Productions       : F1@1>6^104 G1@25>6^104 F1@57>5^104 G1@61>5^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>22^56 D4+F4+Bb4@25>29^56
+  Acoustic Grand Piano   : Bb3@42>7^104 C4@50>2^104 Bb3@53>1^104 Eb4@57>6^104
+  Electric Piano 1       : Bb3@9>7^104 Eb4@17>1^104 Ab4@25>22^104 G4@47>2^80 F4@49>36^104
+  Acoustic Guitar (steel): C5@1>6^104 Gb4+Ab4@2>7^104 Bb4+Eb5@9>6^104 Ab4+C5@17>6^104 G4+Bb4@26>5^104
+  Drums                  : F1+B1+Bb2+Bb4@1>16^104 Ab2+Bb4@9>4^80 E1@13>6^104 Eb2+E2+Bb4@17>3^104 A1+B1+Gb2+Bb4@25>3^104 Gb2+A4+Bb4@33>5^104 A4@37>2^80 A4+Bb4@41>4^80 E2+Bb4@49>3^104 B1+Bb4@57>2^80
+@48 [Eb7 | Bb] (grid:16)
+  MLII Productions       : Db2@1>3^104 Db2@5>3^104 C2@9>3^104 C2@13>3^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>7^56 Bb3+D4+F4@9>7^80
+  Acoustic Grand Piano   : F4@1>1^104 C4@2>1^104 Eb4@3>6^104
+  Electric Piano 1       : Bb3@7>1^104 Eb4@9>1^104 G4@11>1^104 Bb4@13>4^104
+  Acoustic Guitar (nylon): C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): C4+Bb4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>2^104
+  Drums                  : B1+Bb2+Bb4@1>2^104 Ab2+Bb4@3>1^80 Db2@4>1^104 B1+Eb2+E2+Bb4@5>3^104 B1+Bb4@7>1^80 Db2@8>1^104 B1+Gb2+Bb4@9>3^104 Gb2+Bb4@11>1^104 Db2@12>1^104 B1+E2+Gb2+Bb4@13>2^104 Gb2+Bb4@15>1^104 Db2@16>1^104
+@49 [Eb | Bb] (grid:16)
+  MLII Productions       : F1@1>1^104 G1@7>1^104 F1@15>1^104 G1@16>1^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>5^56 D4+F4+Bb4@7>8^80
+  Acoustic Guitar (nylon): F4@1>2^104 G4@3>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>2^104 G4+C5@3>1^104 C4+G4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>2^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@3>1^80 E1@4>1^104 Eb2+E2+Bb4@5>1^104 A1+B1+Gb2+Bb4@7>1^104 Gb2+A4+Bb4@9>1^104 A4@10>1^80 A4+Bb4@11>1^80 E2+Bb4@13>1^104 B1+Bb4@15>1^80
+@50 [Eb | Bb]
+  MLII Productions       : Ab1@1>3^104 C2@13>19^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>11^56 Bb3+D4@13>16^80 F4@14>16^56
+  Acoustic Guitar (nylon): F4@1>2^104 Eb4@5>7^104 C4@21>4^104 Eb4@25>2^104 C4@27>1^80 Eb4@29>2^104
+  Acoustic Guitar (steel): F4+C5@1>3^104 G4+C5@5>2^80 F4+Bb4@7>5^104 C4+G4@21>3^80 Eb4+Bb4@25>2^104 C4@27>1^56 Eb4+Bb4@29>4^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Eb2+E2+Bb4@9>2^104 B1+Bb4@13>2^80 Gb2+Bb4@17>1^104 Gb2+Bb4@21>1^104 E2+Gb2+Bb4@25>1^104 Gb2+Bb4@29>1^104
+@51 [Eb | Bb] (grid:16)
+  MLII Productions       : F1@1>1^104 G1@7>1^104 F1@15>1^104 G1@16>1^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>6^56 D4+F4+Bb4@7>8^56
+  Acoustic Guitar (nylon): F4@1>2^104 G4@3>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>2^104 G4+C5@3>1^104 C4+Bb4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@3>1^80 E1@4>1^104 Eb2+E2+Bb4@5>1^104 A1+B1+Gb2+Bb4@7>1^104 Gb2+A4+Bb4@9>1^104 A4@10>1^80 A4+Bb4@11>1^80 E2+Bb4@13>1^104 B1+Bb4@15>1^80
+@52 [Eb | Bb] (grid:16)
+  MLII Productions       : Ab1@1>1^104 C2@7>10^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>6^56 Bb3+D4+F4@7>8^80
+  Acoustic Guitar (nylon): F4@1>1^104 G4@3>1^104 F4@4>1^104 Eb4@6>2^104 C4@9>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>2^104
+  Acoustic Guitar (steel): Eb4+Bb4@5>1^104 Eb4+Bb4@7>1^104 C4+D4+Bb4@11>2^104 Eb4+Bb4@13>1^104 Eb4+Bb4@15>2^104
+  Drums                  : B1+Bb2+Bb4@1>2^104 Ab2+Bb4@3>1^80 Eb2+E2+Bb4@5>1^104 B1+Bb4@7>1^80 Gb2+Bb4@9>1^104 Gb2+Bb4@11>1^104 E2+Gb2+Bb4@13>1^104 Gb2+Bb4@15>1^104
+@53 [Eb | Bb]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>3^104 C4@21>4^104 Eb4@25>2^104 C4@27>2^80 Eb4@29>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>3^104 C4+Bb4@21>4^104 Eb4+Bb4@25>2^104 Eb4+Bb4@29>4^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@54 [Eb | Bb]
+  MLII Productions       : Ab1@1>3^104 C2@13>19^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>12^56 Bb3+D4+F4@13>14^80
+  Electric Piano 1       : G4@11>1^80 Eb4@13>5^104 F4@19>1^80 Bb3@21>14^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>1^104 Eb4@7>13^104 C4@21>4^104 Eb4@25>2^104 C4@28>1^56 Eb4@29>3^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>2^104 F4+Bb4@7>5^104 C4+Bb4@21>4^104 Eb4+Bb4@25>2^104 Eb4+Bb4@29>4^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Eb2+E2+Bb4@9>2^104 B1+Bb4@13>2^80 Gb2+Bb4@17>1^104 Gb2+Bb4@21>1^104 E2+Gb2+Bb4@25>1^104 Gb2+Bb4@29>1^104
+@55 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>14^56
+  Electric Piano 1       : Bb3@5>4^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>18^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>2^104 C4@22>3^104 Eb4@25>2^104 C4@27>2^104 Eb4@29>3^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>2^104 Eb4+Bb4@25>2^104 C4@27>2^80 Eb4+Bb4@29>3^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@56 [Eb7 | Bb] (grid:64)
+  MLII Productions       : Db2@1>13^104 Db2@17>13^104 C2@33>13^104 C2@49>11^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>29^56 Bb3+D4+F4@33>27^80
+  Electric Piano 1       : Bb3@25>4^104 Eb4@33>4^104 G4@41>4^104 Bb4@49>14^104
+  Acoustic Guitar (nylon): Bb4@1>11^104 Ab4@13>2^104 G4@15>2^80 Ab4@17>10^104 G4@29>2^80 F4@31>2^104 G4@33>12^104 F4@45>2^104 Eb4@47>2^104 F4@49>12^104
+  Acoustic Guitar (steel): F4+Bb4@1>6^104 F4@13>16^104 G4+G5+Bb5@57>2^104 Bb4@58>1^104 Bb4+G5+Bb5@61>10^104
+  Drums                  : B1+Bb2+Bb4@1>7^104 Ab2+Bb4@9>4^80 Db2@13>2^104 B1+Eb2+E2+Bb4@17>10^104 B1+Bb4@25>3^80 Db2@29>2^104 B1+Gb2+Bb4@33>12^104 Gb2+Bb4@41>2^104 Db2@45>2^104 B1+E2+Gb2+Bb4@49>9^104 Gb2+Bb4@57>2^104 Db2@61>2^104
+@57 [Eb | Bb7] (grid:64)
+  MLII Productions       : F1@1>6^104 G1@25>6^104 F1@57>5^104 G1@61>5^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>22^56 D4+F4+Bb4@25>31^56
+  Acoustic Grand Piano   : Bb3@38>3^104 C4@41>2^104 C4@45>2^104 Eb4@49>4^104 Eb4@57>4^104
+  Electric Piano 1       : Ab4@25>20^104 G4@45>3^80 F4@47>1^80 Ab4@49>12^104 G4@61>3^104
+  Acoustic Guitar (steel): Ab5@9>1^104 F4+Ab4+F5@10>1^80 F4+Ab4+F5+Ab5@14>8^104 Eb5@25>1^104 Eb4+G4+G5@26>1^104 Eb4+Eb5+G5@29>6^104 G4@30>6^104
+  Drums                  : F1+B1+Bb2+Bb4@1>16^104 Ab2+Bb4@9>4^80 E1@13>6^104 Eb2+E2+Bb4@17>3^104 A1+B1+Gb2+Bb4@25>3^104 Gb2+A4+Bb4@33>5^104 A4@37>2^80 A4+Bb4@41>4^80 E2+Bb4@49>3^104 B1+Bb4@57>2^80
+@58 [Eb | Bb] (grid:24t)
+  MLII Productions       : Ab1@1>2^104 C2@10>14^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>8^56 Bb3+D4+F4@10>12^80
+  Acoustic Grand Piano   : F4@1>2^104 Eb4@4>4^104 C4@19>3^104 Eb4@22>1^104 F4@24>4^104
+  Electric Piano 1       : F4@1>4^104 G4@5>1^104 Eb4@10>12^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@59 [Eb | Ddim]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>16^56
+  Acoustic Grand Piano   : G4@5>1^80 F4@7>6^104 Eb4@13>1^104 C4@15>6^104 Bb3@21>1^104 C4@23>1^104 Eb4@27>1^104
+  Electric Piano 1       : Ab4@13>10^104 G4@23>1^80 F4@24>1^80 Ab4@25>6^104 G4@31>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@60 [Eb | Bb] (grid:24t)
+  MLII Productions       : Ab1@1>2^104 C2@10>14^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>8^56 Bb3+D4+F4@10>12^80
+  Acoustic Grand Piano   : F4@1>3^104 G4@4>1^80 F4@6>4^104 Eb4@10>8^104 Bb3@19>3^104 C4@22>1^104 Eb4@24>4^104
+  Electric Piano 1       : F4@1>4^104 G4@5>1^104 Eb4@10>12^104
+  Drums                  : B1+Bb2+Bb4@1>3^104 Ab2+Bb4@4>1^80 Eb2+E2+Bb4@7>1^104 B1+Bb4@10>1^80 Gb2+Bb4@13>1^104 Gb2+Bb4@16>1^104 E2+Gb2+Bb4@19>1^104 Gb2+Bb4@22>1^104
+@61 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Acoustic Grand Piano   : C4@5>1^104 Eb4@7>4^104 C4@11>1^104 Eb4@13>2^104 C4@15>1^104 Eb4@17>3^104 C4@21>2^104 Bb3@25>4^104 C4@29>1^104 Eb4@31>5^104
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@62 [Eb | Bb] (grid:64)
+  MLII Productions       : Ab1@1>5^104 C2@25>38^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>23^56 Bb3+D4+F4@25>29^80
+  Acoustic Grand Piano   : C4@8>2^104 Eb4@12>7^104 C4@21>2^104 Eb4@25>5^104 C4@29>2^104 F4@33>6^104 G4@40>7^104 F4@49>5^104 Eb4@57>13^104
+  Electric Piano 1       : G4@21>2^80 Eb4@25>10^104 F4@37>2^80 Bb3@41>28^104
+  Acoustic Guitar (steel): G4+Bb4@49>2^104 G4+Bb4@53>2^104 G4+Bb4@57>5^104
+  Drums                  : B1+Bb2+Bb4@1>7^104 Ab2+Bb4@9>4^80 Eb2+E2+Bb4@17>3^104 B1+Bb4@25>3^80 Gb2+Bb4@33>2^104 Gb2+Bb4@41>2^104 E2+Gb2+Bb4@49>2^104 Gb2+Bb4@57>2^104
+@63 [Eb | Bb7] (grid:64)
+  MLII Productions       : F1@1>6^104 G1@25>6^104 F1@57>5^104 G1@61>5^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>22^56 D4+F4+Bb4@25>29^56
+  Acoustic Grand Piano   : Bb3@42>7^104 C4@50>2^104 Bb3@53>1^104 Eb4@57>6^104
+  Electric Piano 1       : Bb3@9>7^104 Eb4@17>1^104 Ab4@25>22^104 G4@47>2^80 F4@49>36^104
+  Acoustic Guitar (steel): C5@1>6^104 Gb4+Ab4@2>7^104 Bb4+Eb5@9>6^104 Ab4+C5@17>6^104 G4+Bb4@26>5^104
+  Drums                  : F1+B1+Bb2+Bb4@1>16^104 Ab2+Bb4@9>4^80 E1@13>6^104 Eb2+E2+Bb4@17>3^104 A1+B1+Gb2+Bb4@25>3^104 Gb2+A4+Bb4@33>5^104 A4@37>2^80 A4+Bb4@41>4^80 E2+Bb4@49>3^104 B1+Bb4@57>2^80
+@64 [Eb7 | Bb] (grid:16)
+  MLII Productions       : Db2@1>3^104 Db2@5>3^104 C2@9>3^104 C2@13>3^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>7^56 Bb3+D4+F4@9>7^80
+  Acoustic Grand Piano   : F4@1>1^104 C4@2>1^104 Eb4@3>6^104
+  Electric Piano 1       : Bb3@7>1^104 Eb4@9>1^104 G4@11>1^104 Bb4@13>4^104
+  Acoustic Guitar (nylon): C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): C4+Bb4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>2^104
+  Drums                  : B1+Bb2+Bb4@1>2^104 Ab2+Bb4@3>1^80 Db2@4>1^104 B1+Eb2+E2+Bb4@5>3^104 B1+Bb4@7>1^80 Db2@8>1^104 B1+Gb2+Bb4@9>3^104 Gb2+Bb4@11>1^104 Db2@12>1^104 B1+E2+Gb2+Bb4@13>2^104 Gb2+Bb4@15>1^104 Db2@16>1^104
+@65 [Eb | Bb] (grid:16)
+  MLII Productions       : F1@1>1^104 G1@7>1^104 F1@15>1^104 G1@16>1^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>5^56 D4+F4+Bb4@7>8^80
+  Acoustic Guitar (nylon): F4@1>2^104 G4@3>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>2^104 G4+C5@3>1^104 C4+G4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>2^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@3>1^80 E1@4>1^104 Eb2+E2+Bb4@5>1^104 A1+B1+Gb2+Bb4@7>1^104 Gb2+A4+Bb4@9>1^104 A4@10>1^80 A4+Bb4@11>1^80 E2+Bb4@13>1^104 B1+Bb4@15>1^80
+@66 [Eb | Bb]
+  MLII Productions       : Ab1@1>3^104 C2@13>19^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>11^56 Bb3+D4@13>16^80 F4@14>16^56
+  Acoustic Guitar (nylon): F4@1>2^104 Eb4@5>7^104 C4@21>4^104 Eb4@25>2^104 C4@27>1^80 Eb4@29>2^104
+  Acoustic Guitar (steel): F4+C5@1>3^104 G4+C5@5>2^80 F4+Bb4@7>5^104 C4+G4@21>3^80 Eb4+Bb4@25>2^104 C4@27>1^56 Eb4+Bb4@29>4^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Eb2+E2+Bb4@9>2^104 B1+Bb4@13>2^80 Gb2+Bb4@17>1^104 Gb2+Bb4@21>1^104 E2+Gb2+Bb4@25>1^104 Gb2+Bb4@29>1^104
+@67 [Eb | Bb] (grid:16)
+  MLII Productions       : F1@1>1^104 G1@7>1^104 F1@15>1^104 G1@16>1^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>6^56 D4+F4+Bb4@7>8^56
+  Acoustic Guitar (nylon): F4@1>2^104 G4@3>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>2^104 G4+C5@3>1^104 C4+Bb4@11>2^104 Eb4+Bb4@13>1^104 C4@14>1^80 Eb4+Bb4@15>1^104
+  Drums                  : F1+B1+Bb2+Bb4@1>4^104 Ab2+Bb4@3>1^80 E1@4>1^104 Eb2+E2+Bb4@5>1^104 A1+B1+Gb2+Bb4@7>1^104 Gb2+A4+Bb4@9>1^104 A4@10>1^80 A4+Bb4@11>1^80 E2+Bb4@13>1^104 B1+Bb4@15>1^80
+@68 [Eb | Bb] (grid:16)
+  MLII Productions       : Ab1@1>1^104 C2@7>10^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>6^56 Bb3+D4+F4@7>8^80
+  Acoustic Guitar (nylon): F4@1>1^104 G4@3>1^104 F4@4>1^104 Eb4@6>2^104 C4@9>1^104 C4@11>2^104 Eb4@13>1^104 C4@14>1^80 Eb4@15>2^104
+  Acoustic Guitar (steel): Eb4+Bb4@5>1^104 Eb4+Bb4@7>1^104 C4+D4+Bb4@11>2^104 Eb4+Bb4@13>1^104 Eb4+Bb4@15>2^104
+  Drums                  : B1+Bb2+Bb4@1>2^104 Ab2+Bb4@3>1^80 Eb2+E2+Bb4@5>1^104 B1+Bb4@7>1^80 Gb2+Bb4@9>1^104 Gb2+Bb4@11>1^104 E2+Gb2+Bb4@13>1^104 Gb2+Bb4@15>1^104
+@69 [Eb | Bb]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Ab4+Bb4@1>11^56 D4+F4+Bb4@13>16^80
+  Electric Piano 1       : Bb3@5>3^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>17^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>3^104 C4@21>4^104 Eb4@25>2^104 C4@27>2^80 Eb4@29>1^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>3^104 C4+Bb4@21>4^104 Eb4+Bb4@25>2^104 Eb4+Bb4@29>4^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@70 [Eb | Bb]
+  MLII Productions       : Ab1@1>3^104 C2@13>19^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>12^56 Bb3+D4+F4@13>14^80
+  Electric Piano 1       : G4@11>1^80 Eb4@13>5^104 F4@19>1^80 Bb3@21>14^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>1^104 Eb4@7>13^104 C4@21>4^104 Eb4@25>2^104 C4@28>1^56 Eb4@29>3^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>2^104 F4+Bb4@7>5^104 C4+Bb4@21>4^104 Eb4+Bb4@25>2^104 Eb4+Bb4@29>4^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Eb2+E2+Bb4@9>2^104 B1+Bb4@13>2^80 Gb2+Bb4@17>1^104 Gb2+Bb4@21>1^104 E2+Gb2+Bb4@25>1^104 Gb2+Bb4@29>1^104
+@71 [Eb | Bb7]
+  MLII Productions       : F1@1>3^104 G1@13>3^104 F1@29>2^104 G1@31>2^80
+  FX 1 (rain)            : Eb4+G4+Bb4@1>11^56 D4+F4+Bb4@13>14^56
+  Electric Piano 1       : Bb3@5>4^104 Eb4@9>1^104 Ab4@13>11^104 G4@24>1^80 F4@25>18^104
+  Acoustic Guitar (nylon): F4@1>3^104 G4@5>2^104 C4@22>3^104 Eb4@25>2^104 C4@27>2^104 Eb4@29>3^104
+  Acoustic Guitar (steel): F4+Bb4@1>4^104 G4+C5@5>2^104 Eb4+Bb4@25>2^104 C4@27>2^80 Eb4+Bb4@29>3^104
+  Drums                  : F1+B1+Bb2+Bb4@1>8^104 Ab2+Bb4@5>2^80 E1@7>3^104 Eb2+E2+Bb4@9>2^104 A1+B1+Gb2+Bb4@13>1^104 Gb2+A4+Bb4@17>3^104 A4@19>1^80 A4+Bb4@21>2^80 E2+Bb4@25>1^104 B1+Bb4@29>1^80
+@72 [Eb7 | Bb]
+  MLII Productions       : Db2@1>7^104 Db2@9>7^104 C2@17>7^104 C2@25>6^104
+  FX 1 (rain)            : Bb3+Eb4+G4@1>15^56 Bb3+D4+F4@17>13^80
+  Electric Piano 1       : Bb3@13>2^104 Eb4@17>2^104 G4@21>2^104 Bb4@25>7^104
+  Acoustic Guitar (nylon): Bb4@1>6^104 Ab4@7>1^104 G4@8>1^80 Ab4@9>5^104 G4@15>1^80 F4@16>1^104 G4@17>6^104 F4@23>1^104 Eb4@24>1^104 F4@25>6^104
+  Acoustic Guitar (steel): F4+Bb4@1>3^104 F4@7>8^104
+  Drums                  : B1+Bb2+Bb4@1>4^104 Ab2+Bb4@5>2^80 Db2@7>1^104 B1+Eb2+E2+Bb4@9>5^104 B1+Bb4@13>1^80 Db2@15>1^104 B1+Gb2+Bb4@17>6^104 Gb2+Bb4@21>1^104 Db2@23>1^104 B1+E2+Gb2+Bb4@25>5^104 Gb2+Bb4@29>1^104 Db2@31>1^104

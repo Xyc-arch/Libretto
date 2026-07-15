@@ -5,7 +5,7 @@ Criteria (no coherence/boundary — there is no source):
   NON-DEGENERATE  genre-aware C1 extremes (≤5/≥95 pct, split-axis genre-band exemption) ≤ c1_budget(genre)
   FULL-LENGTH     C2 bars in [64,179]
   GENUINELY-NEW   note-level copy_risk vs corpus < 0.30 (strict from-scratch gate)
-  GENRE-FIT       (genre mode) classifier top-genre == target  OR  split-axes-in-band ≥ fit_threshold(genre)
+  GENRE-FIT       (genre mode) classifier top-genre == target  AND  split-axes-in-band ≥ fit_threshold(genre)
 
 The C1 budget and band-fit floor are CALIBRATED per genre against real corpus songs (see calibrate.py): a
 generated piece need only be as non-degenerate / as in-band as a real song of the genre. The classifier
@@ -23,7 +23,7 @@ from libretto.core import Song, metrics_for, copy_risk
 from . import calibrate as cal
 
 DATA = libretto.data_root()
-CANON = json.loads((DATA / "corpus_distribution_314.json").read_text())
+CANON = json.loads((DATA / "corpus_distribution.json").read_text())
 AXES = CANON["axes_order"]; COLS = {a: np.array(CANON["axes"][a]["values"], float) for a in AXES}
 GC = CANON["genre_conditioned"]; SPLIT = list(GC.keys())
 KEY = json.loads((DATA / "answer_key" / "grammar_truth.json").read_text())
@@ -61,12 +61,24 @@ def classify(prof):
             if g:
                 X.append(vec); y.append(g)
         X = np.array(X, float); sc = StandardScaler().fit(X)
-        clf = LogisticRegression(max_iter=3000, C=1.0).fit(sc.transform(X), y)
+        # class_weight="balanced": the corpus is genre-imbalanced (pop_rock 395 ... latin 30); without it the
+        # classifier just predicts the big classes (0.00 recall on small genres). Balanced loss treats every
+        # genre equally (balanced-acc 0.34 vs 0.28), matching the genre-balanced distribution philosophy.
+        clf = LogisticRegression(max_iter=3000, C=1.0, class_weight="balanced").fit(sc.transform(X), y)
         _CLF = (sc, clf)
     sc, clf = _CLF
     v = sc.transform([[prof[a] for a in AXES]])
     probs = clf.predict_proba(v)[0]; order = np.argsort(probs)[::-1]
     return [(clf.classes_[i], round(float(probs[i]), 2)) for i in order[:3]]
+
+
+def genre_rank(prof, genre):
+    """1-indexed rank of `genre` in the balanced classifier's probability ranking (1 = top-1). Needs classify() first."""
+    classify(prof)                                   # ensure _CLF built
+    sc, clf = _CLF
+    probs = clf.predict_proba(sc.transform([[prof[a] for a in AXES]]))[0]
+    order = list(clf.classes_[np.argsort(probs)[::-1]])
+    return order.index(genre) + 1 if genre in order else 99
 
 
 def measure(piece, target):
@@ -83,7 +95,7 @@ def measure(piece, target):
     ext = ga_extremes(prof, m, c1_genre); c1 = len(ext) <= budget
     c2 = 64 <= bars <= 179
     risk = copy_risk(piece, vs_corpus=True, threshold=copy_thr); new = risk["copy_risk"] < copy_thr
-    fit = None; clf_match = None
+    fit = None; clf_match = None; rank = None; rank_thr = None
     if genre:
         inb = []
         for ax in SPLIT:
@@ -92,14 +104,20 @@ def measure(piece, target):
             inb.append((ax, ok))
         fit = sum(ok for _, ok in inb)
         clf_match = top[0][0] == genre
-        genre_ok = clf_match or fit >= fit_thr
+        # GENRE-CALIBRATED gate (v3.0.0): the target genre must rank within the genre's calibrated classifier
+        # rank (as well as the worst ~15% of real songs of the genre classify) AND meet the band-fit floor.
+        # Balanced classifier; rank tolerance is per-genre (electronic/jazz ~top-1, latin/blues ~top-7).
+        rank = genre_rank(prof, genre)
+        rank_thr = cal.clf_rank_threshold(genre)
+        rank_ok = rank <= rank_thr
+        genre_ok = rank_ok and fit >= fit_thr
         verdict = c1 and c2 and new and genre_ok
     else:
         verdict = c1 and c2 and new
     return dict(piece=Path(piece).name, target=target, bars=bars, c1_ext=len(ext), c1_budget=budget, c1=c1,
                 c2=c2, copy_risk=risk["copy_risk"], copy_threshold=copy_thr, copy_song=risk["max_corpus"]["song"],
-                new=new, classifier_top=top, clf_match=clf_match, genre_fit=fit, fit_threshold=fit_thr,
-                best_fit_genre=c1_genre, extremes=ext, verdict=bool(verdict))
+                new=new, classifier_top=top, clf_match=clf_match, clf_rank=rank, clf_rank_threshold=rank_thr,
+                genre_fit=fit, fit_threshold=fit_thr, best_fit_genre=c1_genre, extremes=ext, verdict=bool(verdict))
 
 
 def main(piece, target):
@@ -110,12 +128,13 @@ def main(piece, target):
     print(f"  GENUINELY-NEW  copy_risk={s['copy_risk']:.2f} ({s['copy_song']})  (<{s['copy_threshold']} genre-calibrated: {'Y' if s['new'] else 'N'})")
     print(f"  CLASSIFIER top-3: {s['classifier_top']}")
     if s["target"] != "brief":
-        print(f"  GENRE-FIT      split axes in band: {s['genre_fit']}/8 (floor {s['fit_threshold']})  | classifier match: {'Y' if s['clf_match'] else 'N'}")
+        print(f"  GENRE-FIT      split axes in band: {s['genre_fit']}/8 (floor {s['fit_threshold']})  | "
+              f"classifier rank {s['clf_rank']} (<= {s['clf_rank_threshold']} calibrated: {'Y' if s['clf_rank'] and s['clf_rank']<=s['clf_rank_threshold'] else 'N'})")
     why = []
     if not s["c1"]: why.append("non-degen")
     if not s["c2"]: why.append("length")
     if not s["new"]: why.append("new")
-    if s["target"] != "brief" and not (s["clf_match"] or s["genre_fit"] >= s["fit_threshold"]): why.append("genre")
+    if s["target"] != "brief" and not (s["clf_rank"] <= s["clf_rank_threshold"] and s["genre_fit"] >= s["fit_threshold"]): why.append("genre")
     print(f"  >>> {'PASS' if s['verdict'] else 'FAIL: ' + ', '.join(why)}")
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / f"{Path(piece).stem}_measure.json").write_text(json.dumps(s, indent=2, default=float))

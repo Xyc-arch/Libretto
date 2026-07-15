@@ -48,8 +48,11 @@ ANSWER_KEY = SCRIPT_DIR / "answer_key" / "grammar_truth.json"
 _PITCH_BASE = {"C": 0, "D": 2, "E": 4, "F": 5, "G": 7, "A": 9, "B": 11}
 _PITCH_RE = re.compile(r"^([A-Ga-g])([#b]*)(-?\d+)$")
 _BAR_RE = re.compile(r"^@(\d+)\s+\[(.*?)\](?:\s+\(grid:(\w+)\))?\s*$")
-_TOKEN_RE = re.compile(r"^(.+)@(\d+)>(\d+)$")
+# token: pitches @onset >dur  (optional ^velocity suffix, optional). velocity is coarse 1..127.
+_TOKEN_RE = re.compile(r"^(.+?)@(\d+)>(\d+)(?:\^(\d+))?$")
 _GRID_RE = re.compile(r"(\d+)")
+# a voice label in the VOICES header may carry an annotation: "Name[prog=33]" or "Name[drums]".
+_VOICE_ANNOT_RE = re.compile(r"^(.*?)\s*\[(.*?)\]\s*$")
 PC_NAMES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
 
 SCALE_INTERVALS = {
@@ -102,10 +105,28 @@ class Song:
         self.bar_ql = num * 4.0 / den           # beats (quarter-notes) per bar
         self.default_grid = grid_int(head.get("GRID", "16th"))
         self.n_bars = int(_GRID_RE.search(head.get("BARS", "0")).group(1)) if head.get("BARS") else 0
-        self.voices = ([v.strip() for v in lines[1].split(":", 1)[1].split(",")]
-                       if len(lines) > 1 and lines[1].startswith("VOICES") else [])
+        raw_voices = ([v.strip() for v in lines[1].split(":", 1)[1].split(",")]
+                      if len(lines) > 1 and lines[1].startswith("VOICES") else [])
+        # A voice label may carry a "[prog=N]" GM-program or "[drums]" annotation. Strip it to
+        # get the bare voice name (what note lines key off), and record it for the decoder.
+        self.voices = []                       # bare names (backward-compatible)
+        self.voice_programs = {}               # bare name -> GM program (0..127), if declared
+        self.drum_voices = set()               # bare names flagged [drums]
+        for rv in raw_voices:
+            am = _VOICE_ANNOT_RE.match(rv)
+            if am:
+                bare, annot = am.group(1).strip(), am.group(2).strip().lower()
+                if annot == "drums" or annot == "drum":
+                    self.drum_voices.add(bare)
+                else:
+                    pm2 = re.match(r"prog\s*=\s*(\d+)", annot)
+                    if pm2:
+                        self.voice_programs[bare] = int(pm2.group(1)) & 127
+                self.voices.append(bare)
+            else:
+                self.voices.append(rv)
         # events: one per sounding pitch
-        self.events = []        # dict(voice, bar, onb (beats in bar), abs (beats), dur (beats), midi, pc)
+        self.events = []        # dict(voice, bar, onb (beats in bar), abs (beats), dur (beats), midi, pc, vel)
         cur_bar, cur_grid = None, self.default_grid
         for ln in lines[2:]:
             bm = _BAR_RE.match(ln)
@@ -124,6 +145,7 @@ class Song:
                     continue
                 onb = (int(tm.group(2)) - 1) * slot_ql
                 dur = int(tm.group(3)) * slot_ql
+                vel = int(tm.group(4)) if tm.group(4) else None    # coarse velocity, if declared
                 ab = (cur_bar - 1) * self.bar_ql + onb
                 for p in tm.group(1).split("+"):
                     midi = parse_pitch_midi(p)
@@ -131,7 +153,7 @@ class Song:
                         continue
                     self.events.append(dict(voice=name, bar=cur_bar, onb=round(onb, 4),
                                             abs=round(ab, 4), dur=round(dur, 4),
-                                            midi=midi, pc=midi % 12))
+                                            midi=midi, pc=midi % 12, vel=vel))
 
     # --- helpers used by both ground-truth and grading ---
     def midis(self):

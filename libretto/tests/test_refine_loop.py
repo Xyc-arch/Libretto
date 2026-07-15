@@ -6,9 +6,10 @@ import libretto
 from libretto.core import axis_feedback as afb
 from libretto.generation.interface import EchoGenerator
 from libretto.tasks.newgen import refine_loop as nrl
+from libretto.tasks.gaptask import refine_loop as grl
 
 DATA = libretto.data_root()
-AXES = json.loads((DATA / "corpus_distribution_314.json").read_text())["axes_order"]
+AXES = json.loads((DATA / "corpus_distribution.json").read_text())["axes_order"]
 
 
 def test_axis_feedback_covers_all_axes():
@@ -43,6 +44,23 @@ def test_refinement_loop_runs_with_echo(tmp_path):
     assert 1 <= len(rounds) <= 2
     assert best is not None and "score" in best and "feedback" in best
     assert (tmp_path / "t_r1.txt").exists()
+
+
+def test_gaptask_region_budget_accessor():
+    # shipped data drives the accessor; unknown/None genre falls back to the region default (not 3)
+    shipped = json.loads((DATA / "gaptask_region_c1_budget.json").read_text())
+    for g, b in shipped.items():
+        assert grl.region_c1_budget(g) == b
+    assert grl.region_c1_budget("no_such_genre") == grl.REGION_BUDGET_DEFAULT
+    assert grl.region_c1_budget(None) == grl.REGION_BUDGET_DEFAULT
+
+
+def test_gaptask_region_budget_is_reproducible(tmp_path):
+    # the shipped budget must be exactly regenerable from the frozen core via the pkg calibrator
+    shipped = json.loads((DATA / "gaptask_region_c1_budget.json").read_text())
+    regen = grl.calibrate_region_budgets(out_path=str(tmp_path / "b.json"))
+    assert dict(sorted(regen.items())) == dict(sorted(shipped.items())), \
+        "calibrate_region_budgets() no longer reproduces the shipped gaptask region budget"
 
 
 if __name__ == "__main__":

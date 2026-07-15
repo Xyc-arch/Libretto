@@ -52,7 +52,16 @@ class AudioBoxJudge:
     def available(self) -> bool:
         return Path(self.python).exists()
 
-    def score(self, wav_paths: list[str]) -> list[dict]:
+    def _score_chunk(self, wav_paths: list[str]) -> list[dict]:
+        with tempfile.TemporaryDirectory(prefix="audiobox_") as td:
+            out = Path(td) / "scores.json"
+            subprocess.run([str(self.python), str(SCORER), str(out), *map(str, wav_paths)], check=True)
+            return json.loads(out.read_text())
+
+    def score(self, wav_paths: list[str], workers: int | None = None) -> list[dict]:
+        """Score every wav (one dict per wav, in input order). With workers>1 the wavs are split into that
+        many contiguous chunks scored by concurrent AudioBox processes (default $LIBRETTO_AUDIOBOX_WORKERS
+        or 1). Each worker re-loads the model, so use it when there are many clips."""
         if not wav_paths:
             return []
         if not self.available():
@@ -60,7 +69,13 @@ class AudioBoxJudge:
                 f"AudioBox interpreter not found at {self.python}. Create .venv_audiobox (see class docstring) "
                 f"or pass python=/path/to/venv/bin/python (or set $LIBRETTO_AUDIOBOX_PY)."
             )
-        with tempfile.TemporaryDirectory(prefix="audiobox_") as td:
-            out = Path(td) / "scores.json"
-            subprocess.run([str(self.python), str(SCORER), str(out), *map(str, wav_paths)], check=True)
-            return json.loads(out.read_text())
+        workers = workers or int(os.environ.get("LIBRETTO_AUDIOBOX_WORKERS", 1))
+        if workers <= 1 or len(wav_paths) <= workers:
+            return self._score_chunk(wav_paths)
+        # split into `workers` contiguous chunks, score concurrently, concatenate in order
+        from concurrent.futures import ThreadPoolExecutor
+        k = -(-len(wav_paths) // workers)                       # ceil chunk size
+        chunks = [wav_paths[i:i + k] for i in range(0, len(wav_paths), k)]
+        with ThreadPoolExecutor(max_workers=workers) as ex:
+            parts = list(ex.map(self._score_chunk, chunks))
+        return [d for part in parts for d in part]

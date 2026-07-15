@@ -1,0 +1,608 @@
+KEY: Eb major | METER: 4/4 | TEMPO: 76 | GRID: 8th (adaptive) | BARS: 85
+VOICES: Grand Piano[prog=4], Acoustic Bass[prog=32], Trombone[prog=57], Trumpet[prog=56], Instrument 15[drums], Alto Sax[prog=65], Baritone Sax[prog=67]
+@1 [Eb | Cm7]
+  Grand Piano  : Eb3+G3@1>4^56 Bb3@2>1^56 C4@3>1^56 D4@4>1^56 C3+Bb3+Eb4@5>4^56 F4@6>1^56 G4@7>1^56 Ab4@8>1^56
+  Acoustic Bass: Eb2@1>2^80 Eb2@3>2^80 C2@5>2^80 C2@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+@2 [Bb | Gm]
+  Grand Piano  : F3+Eb4+Bb4@1>4^56 Bb4@3>1^56 G4@4>4^56 Bb3+D4@5>4^56 G4@8>1^56
+  Acoustic Bass: F2@1>2^80 F2@3>2^80 Bb2@5>2^80 Ab2@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+@3 [Gm7 | Gbdim7]
+  Grand Piano  : G3+Bb3+D4+F4@1>4^56 D4+F4@4>1^56 Gb3+A3+C4+Eb4@5>4^56 C4+Eb4@8>1^56
+  Acoustic Bass: G2@1>2^80 G2@3>2^80 Gb2@5>2^80 Gb2@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+@4 [Fm | Bb] (grid:12t)
+  Grand Piano  : Eb3+F3+Ab3+C4@1>3^56 Eb3+F3+Ab3+C4@4>2^56 D3+F3+Ab3+Bb3@5>8^56
+  Acoustic Bass: F2@1>3^80 F2@4>3^80 Bb1@7>3^80 Bb2@10>3^80
+  Trumpet      : Bb3@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+@5 [Gm | Eb]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>4^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb3@1>2^80 D3@3>2^80 C3@5>2^80 Bb2@7>1^80 Ab2@8>1^80
+  Trombone     : Bb3@1>2^80 Bb3@3>2^80 G3@5>3^80 Bb3@8>1^80
+  Trumpet      : G4@1>2^80 G4@3>2^80 Eb4@5>3^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : D4@1>2^80 D4@3>2^80 Bb3@5>3^80 C4@8>1^80
+  Baritone Sax : Eb3@1>3^80 D3@4>1^80 C3@5>2^80 Bb2@7>1^80 Ab2@8>1^80
+@6 [Bb | Eb]
+  Grand Piano  : G3+Bb3+D4+F4@1>2^56 F3+Ab3+C4+Eb4@3>2^56 Eb3+G3+Bb3+D4@5>2^56 Eb3+Bb3+Db4+G4@7>2^56
+  Acoustic Bass: G2@1>2^80 F2@3>2^80 Eb2@5>2^80 G2@7>2^80
+  Trombone     : D4@1>2^80 C4@3>2^80 Bb3@5>2^80 Bb3@7>2^80
+  Trumpet      : Bb4@1>2^80 Bb4@3>2^80 G4@5>2^80 Eb4@7>1^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : F4@1>2^80 Eb4@3>2^80 D4@5>2^80 Db4@7>2^80
+  Baritone Sax : G2@1>1^80 G3@2>1^80 F3@3>2^80 Eb3@5>2^80 G3@7>2^80
+@7 [Ab | G7] (grid:6t)
+  Grand Piano  : Eb3+Ab3+C4+G4@1>3^56 D3+G3+B3+F4@4>3^56
+  Acoustic Bass: Ab2@1>3^80 G2@4>3^80
+  Trombone     : Eb4@1>1^80 Eb4@2>1^80 Eb4@3>1^80 F4@4>1^80 F4@5>1^80 F4@6>1^80
+  Trumpet      : C5@1>1^80 C5@2>1^80 C5@3>1^80 D5@4>1^80 D5@5>1^80 D5@6>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@4>2^56 D2+Bb2@5>2^56
+  Alto Sax     : G4@1>1^80 Gb4@2>1^80 F4@3>1^80 Ab4@4>1^80 Gb4@5>1^80 G4@6>1^80
+  Baritone Sax : Ab3@1>1^80 Ab3@2>1^80 Ab3@3>1^80 B3@4>1^80 B3@5>1^80 B3@6>1^80
+@8 [Cm7 | Db7] (grid:12t)
+  Grand Piano  : C3+G3+Bb3+Eb4@1>6^56 Db3+F3+B3+Eb4@7>6^56
+  Acoustic Bass: C3@1>3^80 C3@4>3^80 Db3@7>3^80 Db3@10>3^80
+  Trombone     : G4@1>6^80 F4@7>6^80
+  Trumpet      : Eb5@1>9^80 Eb5@10>2^80 Eb5@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : Bb4@1>6^80 Ab4@7>6^80
+  Baritone Sax : C4@1>6^80 B3@7>6^80
+@9 [Eb7 | Ddim] (grid:12t)
+  Grand Piano  : Eb3+Bb3+D4+G4@1>6^56 F3+Bb3+D4+Ab4@7>6^56
+  Acoustic Bass: Eb3@1>3^80 Eb2@4>3^80 F2@7>3^80 Bb2@10>3^80
+  Trombone     : Eb4@1>3^80 D4@4>3^80 D4@7>4^80 Bb3@11>2^80
+  Trumpet      : D5@1>3^80 Bb4@4>3^80 C5@7>4^80 Ab4@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : G4@1>3^80 F4@4>3^80 F4@7>4^80 D4@11>2^80
+  Baritone Sax : Bb3@1>3^80 G3@4>3^80 Ab3@7>4^80 F3@11>2^80
+@10 [Eb7 | Fm7] (grid:4)
+  Grand Piano  : F3+Bb3+Db4+Ab4@1>1^56 Eb3+Bb3+Db4+G4@2>1^56 Eb3+Ab3+B3+Gb4@3>1^56 Db3+Ab3+B3+F4@4>1^56
+  Acoustic Bass: Eb2@1>1^80 Eb2@2>1^80 Ab2@3>1^80 Db2@4>1^80
+  Trombone     : Db4@1>2^80 B3@3>2^80
+  Trumpet      : Bb4@1>1^80 Eb4@2>1^80 Bb4@3>1^80 Ab4@4>1^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : F4@1>1^80 Eb4@2>1^80 Gb4@3>1^80 F4@4>1^80
+  Baritone Sax : Ab3@1>1^80 G3@2>1^80 Ab3@3>1^80 Db3@4>1^80
+@11 [Gm7 | Cm7]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>1^56 F3+C4+Eb4+Ab4@2>1^56 G3+D4+F4+Bb4@3>2^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb2@1>1^80 F2@2>1^80 G2@3>2^80 C3@5>2^80 C2@7>2^80
+  Trombone     : Bb3@1>1^80 C4@2>1^80 D4@3>2^80 G3@5>2^80 Bb3@7>2^80
+  Trumpet      : G4+Ab4@1>1^80 Ab4@2>1^80 Bb4@3>2^80 Eb4@5>2^80 Eb4@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : D4@1>1^80 Eb4@2>1^80 F4@3>2^80 Bb3@5>2^80 D4@7>2^80
+  Baritone Sax : Eb3@1>1^80 F3@2>1^80 G3@3>2^80 C3@5>2^80 C3@7>2^80
+@12 [Fm7 | Bb7] (grid:4)
+  Grand Piano  : F3+C4+Eb4+Ab4@1>2^56 F3+Bb3+D4+Ab4@3>2^56
+  Acoustic Bass: F2@1>1^80 F2@2>1^80 Bb2@3>1^80 Bb1@4>1^80
+  Trombone     : Ab3@1>2^80 Ab3@3>2^80
+  Trumpet      : Eb4@1>2^80 F4@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : C4@1>2^80 D4@3>2^80
+  Baritone Sax : F2@1>2^80 Bb2@3>2^80
+@13 [Eb]
+  Grand Piano  : Eb3+G3+G4@1>4^56 Bb3@2>1^56 C4@3>1^56 D4@4>1^56 C3+Bb3+Eb4@5>4^56 F4@6>1^56 G4@7>1^56 Ab4@8>1^56
+  Acoustic Bass: Eb2@1>2^80 D3@3>2^80 C3@5>2^80 C3@7>2^80
+  Trombone     : G3@1>8^80
+  Trumpet      : Eb4@1>8^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : Bb3@1>8^80
+  Baritone Sax : Eb3@1>8^80
+@14 [Bb7 | Gm] (grid:12t)
+  Grand Piano  : F3+Ab3+Eb4+Bb4@1>3^56 F3+Ab3+Eb4+Bb4@4>2^56 Bb2+Ab3+D4+G4@5>8^56
+  Acoustic Bass: F2@1>3^80 F2@4>3^80 Bb2@7>3^80 Bb2@10>3^80
+  Trumpet      : Bb3@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+@15 [Gm | Eb]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>4^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb3@1>2^80 D3@3>2^80 C3@5>2^80 Bb2@7>1^80 Ab2@8>1^80
+  Trombone     : Bb3@1>2^80 Bb3@3>2^80 G3@5>3^80 Bb3@8>1^80
+  Trumpet      : G4@1>2^80 G4@3>2^80 Eb4@5>3^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : D4@1>2^80 D4@3>2^80 Bb3@5>3^80 C4@8>1^80
+  Baritone Sax : Eb3@1>3^80 D3@4>1^80 C3@5>2^80 Bb2@7>1^80 Ab2@8>1^80
+@16 [Bb | Eb]
+  Grand Piano  : G3+Bb3+D4+F4@1>2^56 F3+Ab3+C4+Eb4@3>2^56 Eb3+G3+Bb3+D4@5>2^56 Eb3+Bb3+Db4+G4@7>2^56
+  Acoustic Bass: G2@1>2^80 F2@3>2^80 Eb2@5>2^80 G2@7>2^80
+  Trombone     : D4@1>2^80 C4@3>2^80 Bb3@5>2^80 Bb3@7>2^80
+  Trumpet      : Bb4@1>2^80 Bb4@3>2^80 G4@5>2^80 Eb4@7>1^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : F4@1>2^80 Eb4@3>2^80 D4@5>2^80 Db4@7>2^80
+  Baritone Sax : G2@1>1^80 G3@2>1^80 F3@3>2^80 Eb3@5>2^80 G3@7>2^80
+@17 [Ab | G7] (grid:6t)
+  Grand Piano  : Eb3+Ab3+C4+G4@1>3^56 D3+G3+B3+F4@4>3^56
+  Acoustic Bass: Ab2@1>3^80 G2@4>3^80
+  Trombone     : Eb4@1>1^80 Eb4@2>1^80 Eb4@3>1^80 F4@4>1^80 F4@5>1^80 F4@6>1^80
+  Trumpet      : C5@1>1^80 C5@2>1^80 C5@3>1^80 D5@4>1^80 D5@5>1^80 D5@6>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@4>2^56 D2+Bb2@5>2^56
+  Alto Sax     : G4@1>1^80 Gb4@2>1^80 F4@3>1^80 Ab4@4>1^80 Gb4@5>1^80 G4@6>1^80
+  Baritone Sax : Ab3@1>1^80 Ab3@2>1^80 Ab3@3>1^80 B3@4>1^80 B3@5>1^80 B3@6>1^80
+@18 [Cm7 | Db7] (grid:4)
+  Grand Piano  : C3+G3+Bb3+Eb4@1>2^56 Db3+F3+B3+Eb4@3>2^56
+  Acoustic Bass: C3@1>1^80 C3@2>1^80 Db3@3>1^80 Db3@4>1^80
+  Trombone     : G4@1>2^80 F4@3>2^80
+  Trumpet      : Eb5@1>3^80 Eb5@4>1^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : Bb4@1>2^80 Ab4@3>2^80
+  Baritone Sax : C4@1>2^80 B3@3>2^80
+@19 [Eb7 | Ddim] (grid:12t)
+  Grand Piano  : Eb3+Bb3+D4+G4@1>6^56 F3+Bb3+D4+Ab4@7>6^56
+  Acoustic Bass: Eb3@1>3^80 Eb2@4>3^80 F2@7>3^80 Bb2@10>3^80
+  Trombone     : Eb4@1>3^80 D4@4>3^80 D4@7>4^80 Bb3@11>2^80
+  Trumpet      : D5@1>3^80 Bb4@4>3^80 C5@7>4^80 Ab4@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : G4@1>3^80 F4@4>3^80 F4@7>4^80 D4@11>2^80
+  Baritone Sax : Bb3@1>3^80 G3@4>3^80 Ab3@7>4^80 F3@11>2^80
+@20 [Eb7 | Fm7] (grid:4)
+  Grand Piano  : F3+Bb3+Db4+Ab4@1>1^56 Eb3+Bb3+Db4+G4@2>1^56 Eb3+Ab3+B3+Gb4@3>1^56 Db3+Ab3+B3+F4@4>1^56
+  Acoustic Bass: Eb2@1>1^80 Eb2@2>1^80 Ab2@3>1^80 Db2@4>1^80
+  Trombone     : Db4@1>2^80 B3@3>2^80
+  Trumpet      : Bb4@1>1^80 Eb4@2>1^80 Bb4@3>1^80 Ab4@4>1^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : F4@1>1^80 Eb4@2>1^80 Gb4@3>1^80 F4@4>1^80
+  Baritone Sax : Ab3@1>1^80 G3@2>1^80 Ab3@3>1^80 Db3@4>1^80
+@21 [Gm7 | Cm7]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>1^56 F3+C4+Eb4+Ab4@2>1^56 G3+D4+F4+Bb4@3>2^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb2@1>1^80 F2@2>1^80 G2@3>2^80 C3@5>2^80 C2@7>2^80
+  Trombone     : Bb3@1>1^80 C4@2>1^80 D4@3>2^80 G3@5>2^80 Bb3@7>2^80
+  Trumpet      : G4+Ab4@1>1^80 Ab4@2>1^80 Bb4@3>2^80 Eb4@5>2^80 Eb4@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : D4@1>1^80 Eb4@2>1^80 F4@3>2^80 Bb3@5>2^80 D4@7>2^80
+  Baritone Sax : Eb3@1>1^80 F3@2>1^80 G3@3>2^80 C3@5>2^80 C3@7>2^80
+@22 [Fm7 | Bb7] (grid:4)
+  Grand Piano  : F3+C4+Eb4+Ab4@1>2^56 F3+Bb3+D4+Ab4@3>2^56
+  Acoustic Bass: F2@1>1^80 F2@2>1^80 Bb2@3>1^80 Bb1@4>1^80
+  Trombone     : Ab3@1>2^80 Ab3@3>2^80
+  Trumpet      : Eb4@1>2^80 F4@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : C4@1>2^80 D4@3>2^80
+  Baritone Sax : F2@1>2^80 Bb2@3>2^80
+@23 [Eb]
+  Grand Piano  : Eb3+Eb4+G4@1>8^56 G3+Bb3@2>1^56 Ab3+C4@3>1^56 Bb3+D4@4>1^56 C4+Eb4@5>1^56 D4+F4@6>1^56 Eb4+G4@7>1^56 F4+Ab4@8>1^56
+  Acoustic Bass: Eb2@1>2^80 D3@3>2^80 C3@5>2^80 Bb2@7>2^80
+  Trombone     : G3@1>8^80
+  Trumpet      : Eb4@1>8^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : Bb3@1>8^80
+  Baritone Sax : Eb3@1>8^80
+@24 [Adim | D] (grid:12t)
+  Grand Piano  : A3+C4+Eb4+G4@1>3^56 A3+C4+Eb4+G4@4>2^56 D3+C4+D4+Gb4@5>8^56
+  Acoustic Bass: A2@1>3^80 A2@4>3^80 D3@7>3^80 D2@10>3^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+@25 [G | Em7]
+  Grand Piano  : G3+B3+D4+Gb4@1>4^56 G3+B3+D4+E4@5>4^56
+  Acoustic Bass: G2@1>2^80 G2@3>2^80 E2@5>2^80 E2@7>2^80
+  Trombone     : G3@2>1^80 B3@3>1^80 B3@4>1^80 D4@5>1^80 D4@6>1^80 E4@7>1^80 E4@8>1^80
+  Trumpet      : D4@2>1^80 E4@3>1^80 Gb4@4>1^80 G4@5>1^80 A4@6>1^80 B4@7>1^80 C5@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : B3@2>1^80 D4@3>1^80 D4@4>1^80 E4@5>1^80 Gb4@6>1^80 G4@7>1^80 G4@8>1^80
+  Baritone Sax : E3@2>1^80 G3@3>1^80 G3@4>1^80 B3@5>1^80 B3@6>1^80 D4@7>1^80 D4@8>1^80
+@26 [Am7 | Cdim]
+  Grand Piano  : A3+C4+E4+G4@1>4^56 D3+C4+D4+Gb4@5>4^56
+  Acoustic Bass: A2@1>2^80 A2@3>2^80 D3@5>2^80 C3@7>2^80
+  Trombone     : E4@1>1^80 E4@2>2^80 Eb4@4>4^80 Eb4@8>1^80
+  Trumpet      : D5@1>1^80 D5@2>2^80 B4@4>4^80 B4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : G4@1>1^80 G4@2>2^80 Gb4@4>4^80 Gb4@8>1^80
+  Baritone Sax : A3@1>1^80 A3@2>2^80 C4@4>4^80 C4@8>1^80
+@27 [Bm7 | Gdim7] (grid:12t)
+  Grand Piano  : Gb3+A3+B3+D4@1>6^56 E3+G3+Bb3+Db4@7>6^56
+  Acoustic Bass: B2@1>3^80 B2@4>3^80 Bb2@7>3^80 Bb2@10>3^80
+  Trombone     : D4@1>3^80 D4@4>3^80 G3@7>4^80 G3@11>2^80
+  Trumpet      : A4@1>3^80 A4@4>3^80 Gb4@7>4^80 Gb4@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : Gb4@1>3^80 Gb4@4>3^80 Db4@7>4^80 Db4@11>2^80
+  Baritone Sax : B3@1>3^80 B3@4>3^80 Bb3@7>4^80 Bb3@11>2^80
+@28 [Am7 | D7] (grid:4)
+  Grand Piano  : E3+G3+A3+C4@1>2^56 D3+Gb3+A3+C4@3>2^56
+  Acoustic Bass: A2@1>1^80 A2@2>1^80 D2@3>1^80 Gb2@4>1^80
+  Trombone     : G3@1>1^80 A3@2>1^80 A3@3>2^80
+  Trumpet      : E4@1>1^80 E4@2>1^80 D4@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : C4@1>1^80 C4@2>1^80 C4@3>2^80
+  Baritone Sax : A3@1>1^80 G3@2>1^80 Gb3@3>2^80
+@29 [G | Em7]
+  Grand Piano  : G3+B3+D4+Gb4@1>4^56 G3+B3+D4+E4@5>4^56
+  Acoustic Bass: G2@1>2^80 G2@3>2^80 E2@5>2^80 E2@7>2^80
+  Trombone     : G3@2>1^80 B3@3>1^80 B3@4>1^80 D4@5>1^80 D4@6>1^80 E4@7>1^80 E4@8>1^80
+  Trumpet      : D4@2>1^80 E4@3>1^80 Gb4@4>1^80 G4@5>1^80 A4@6>1^80 B4@7>1^80 C5@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : B3@2>1^80 D4@3>1^80 D4@4>1^80 E4@5>1^80 Gb4@6>1^80 G4@7>1^80 G4@8>1^80
+  Baritone Sax : E3@2>1^80 G3@3>1^80 G3@4>1^80 B3@5>1^80 B3@6>1^80 D4@7>1^80 D4@8>1^80
+@30 [Am7 | Cdim]
+  Grand Piano  : A3+C4+E4+G4@1>4^56 D3+C4+D4+Gb4@5>4^56
+  Acoustic Bass: A2@1>2^80 A2@3>2^80 D3@5>2^80 C3@7>2^80
+  Trombone     : E4@1>1^80 E4@2>2^80 Eb4@4>4^80 Eb4@8>1^80
+  Trumpet      : D5@1>1^80 D5@2>2^80 B4@4>4^80 B4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : G4@1>1^80 G4@2>2^80 Gb4@4>4^80 Gb4@8>1^80
+  Baritone Sax : A3@1>1^80 A3@2>2^80 C4@4>4^80 C4@8>1^80
+@31 [Bm7 | Bbdim7] (grid:12t)
+  Grand Piano  : Gb3+A3+B3+D4@1>6^56 E3+G3+Bb3+Db4@7>6^56
+  Acoustic Bass: B2@1>3^80 B2@4>3^80 Bb2@7>3^80 Bb2@10>3^80
+  Trombone     : D4@1>3^80 D4@4>3^80 Db4@7>4^80 Db4@11>2^80
+  Trumpet      : A4@1>3^80 A4@4>3^80 G4@7>4^80 G4@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : Gb4@1>3^80 Gb4@4>3^80 E4@7>4^80 E4@11>2^80
+  Baritone Sax : B3@1>3^80 B3@4>3^80 Bb3@7>4^80 Bb3@11>2^80
+@32 [Fm7 | Bb7] (grid:12t)
+  Grand Piano  : Eb3+F3+Ab3+C4@1>6^56 D3+F3+Ab3+Bb3@7>6^56
+  Acoustic Bass: F2@1>3^80 F2@4>3^80 Bb2@7>3^80 Bb1@10>3^80
+  Trombone     : Eb4@1>3^80 Eb4@4>3^80 D4@7>4^80
+  Trumpet      : C5@1>3^80 C5@4>3^80 Bb4@7>4^80 Bb3@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : F4@1>3^80 F4@4>3^80 F4@7>4^80
+  Baritone Sax : Ab3@1>3^80 Ab3@4>3^80 Ab3@7>4^80
+@33 [Gm | Eb]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>4^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb3@1>2^80 D3@3>2^80 C3@5>2^80 Bb2@7>1^80 Ab2@8>1^80
+  Trombone     : Bb3@1>2^80 Bb3@3>2^80 G3@5>3^80 Bb3@8>1^80
+  Trumpet      : G4@1>2^80 G4@3>2^80 Eb4@5>3^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : D4@1>2^80 D4@3>2^80 Bb3@5>3^80 C4@8>1^80
+  Baritone Sax : Eb3@1>3^80 D3@4>1^80 C3@5>2^80 Bb2@7>1^80 Ab2@8>1^80
+@34 [Bb | Eb]
+  Grand Piano  : G3+Bb3+D4+F4@1>2^56 F3+Ab3+C4+Eb4@3>2^56 Eb3+G3+Bb3+D4@5>2^56 Eb3+Bb3+Db4+G4@7>2^56
+  Acoustic Bass: G2@1>2^80 F2@3>2^80 Eb2@5>2^80 G2@7>2^80
+  Trombone     : D4@1>2^80 C4@3>2^80 Bb3@5>2^80 Bb3@7>2^80
+  Trumpet      : Bb4@1>2^80 Bb4@3>2^80 G4@5>2^80 Eb4@7>1^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : F4@1>2^80 Eb4@3>2^80 D4@5>2^80 Db4@7>2^80
+  Baritone Sax : G2@1>1^80 G3@2>1^80 F3@3>2^80 Eb3@5>2^80 G3@7>2^80
+@35 [Ab | G7] (grid:6t)
+  Grand Piano  : Eb3+Ab3+C4+G4@1>3^56 D3+G3+B3+F4@4>3^56
+  Acoustic Bass: Ab2@1>3^80 G2@4>3^80
+  Trombone     : Eb4@1>1^80 Eb4@2>1^80 Eb4@3>1^80 F4@4>1^80 F4@5>1^80 F4@6>1^80
+  Trumpet      : C5@1>1^80 C5@2>1^80 C5@3>1^80 D5@4>1^80 D5@5>1^80 D5@6>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@4>2^56 D2+Bb2@5>2^56
+  Alto Sax     : G4@1>1^80 Gb4@2>1^80 F4@3>1^80 Ab4@4>1^80 Gb4@5>1^80 G4@6>1^80
+  Baritone Sax : Ab3@1>1^80 Ab3@2>1^80 Ab3@3>1^80 B3@4>1^80 B3@5>1^80 B3@6>1^80
+@36 [Cm7 | Db7] (grid:4)
+  Grand Piano  : C3+G3+Bb3+Eb4@1>2^56 Db3+F3+B3+Eb4@3>2^56
+  Acoustic Bass: C3@1>1^80 C3@2>1^80 Db3@3>1^80 Db3@4>1^80
+  Trombone     : G4@1>2^80 F4@3>2^80
+  Trumpet      : Eb5@1>3^80 Eb5@4>1^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : Bb4@1>2^80 Ab4@3>2^80
+  Baritone Sax : C4@1>2^80 B3@3>2^80
+@37 [Eb7 | Ddim] (grid:12t)
+  Grand Piano  : Eb3+Bb3+D4+G4@1>6^56 F3+Bb3+D4+Ab4@7>6^56
+  Acoustic Bass: Eb3@1>3^80 Eb2@4>3^80 F2@7>3^80 Bb2@10>3^80
+  Trombone     : Eb4@1>3^80 D4@4>3^80 D4@7>4^80 Bb3@11>2^80
+  Trumpet      : D5@1>3^80 Bb4@4>3^80 C5@7>4^80 Ab4@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : G4@1>3^80 F4@4>3^80 F4@7>4^80 D4@11>2^80
+  Baritone Sax : Bb3@1>3^80 G3@4>3^80 Ab3@7>4^80 F3@11>2^80
+@38 [Eb7 | Fm7] (grid:4)
+  Grand Piano  : F3+Bb3+Db4+Ab4@1>1^56 Eb3+Bb3+Db4+G4@2>1^56 Eb3+Ab3+B3+Gb4@3>1^56 Db3+Ab3+B3+F4@4>1^56
+  Acoustic Bass: Eb2@1>1^80 Eb2@2>1^80 Ab2@3>1^80 Db2@4>1^80
+  Trombone     : Db4@1>2^80 B3@3>2^80
+  Trumpet      : Bb4@1>1^80 Eb4@2>1^80 Bb4@3>1^80 Ab4@4>1^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : F4@1>1^80 Eb4@2>1^80 Gb4@3>1^80 F4@4>1^80
+  Baritone Sax : Ab3@1>1^80 G3@2>1^80 Ab3@3>1^80 Db3@4>1^80
+@39 [Gm7 | Cm7]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>1^56 F3+C4+Eb4+Ab4@2>1^56 G3+D4+F4+Bb4@3>2^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb2@1>1^80 F2@2>1^80 G2@3>2^80 C3@5>2^80 C2@7>2^80
+  Trombone     : Bb3@1>1^80 C4@2>1^80 D4@3>2^80 G3@5>2^80 Bb3@7>2^80
+  Trumpet      : G4+Ab4@1>1^80 Ab4@2>1^80 Bb4@3>2^80 Eb4@5>2^80 Eb4@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : D4@1>1^80 Eb4@2>1^80 F4@3>2^80 Bb3@5>2^80 D4@7>2^80
+  Baritone Sax : Eb3@1>1^80 F3@2>1^80 G3@3>2^80 C3@5>2^80 C3@7>2^80
+@40 [Fm7 | Bb7] (grid:4)
+  Grand Piano  : F3+C4+Eb4+Ab4@1>2^56 F3+Bb3+D4+Ab4@3>2^56
+  Acoustic Bass: F2@1>1^80 F2@2>1^80 Bb2@3>1^80 Bb1@4>1^80
+  Trombone     : Ab3@1>2^80 Ab3@3>2^80
+  Trumpet      : Eb4@1>2^80 F4@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : C4@1>2^80 D4@3>2^80
+  Baritone Sax : F2@1>2^80 Bb2@3>2^80
+@41 [Eb]
+  Grand Piano  : Eb3@1>8^56 G3+Bb3@2>1^56 Ab3+C4@3>1^56 Bb3+D4@4>1^56 C4+Eb4@5>1^56 D4+F4@6>1^56 Eb4+G4@7>1^56 F4+Ab4@8>1^56
+  Acoustic Bass: Eb2@1>2^80 D3@3>2^80 C3@5>2^80 Bb2@7>2^80
+  Trombone     : G3@1>8^80
+  Trumpet      : Eb4@1>8^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : Bb3@1>8^80
+  Baritone Sax : Eb3@1>8^80
+@42 [Fm7 | Bb7] (grid:12t)
+  Grand Piano  : F3+Ab3+Eb4+G4@1>3^56 F3+Ab3+C4+Eb4@4>2^56 Bb2+Ab3+D4+F4@5>8^56
+  Acoustic Bass: Ab2@1>3^80 G2@4>3^80 F2@7>3^80 Bb2@10>3^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : Bb3@11>2^80
+@43 [Eb7 | Cm7] (grid:12t)
+  Grand Piano  : Eb3+Bb3+D4+G4@1>6^56 Eb3+Bb3+C4+G4@7>6^56
+  Acoustic Bass: Eb2@1>3^80 Bb2@4>3^80 C3@7>3^80 C3@10>3^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : G4@1>3^80 G4@4>3^80 Eb4@7>4^80 Eb4@11>2^80
+@44 [Gm7 | Eb] (grid:12t)
+  Grand Piano  : G3+Bb3+D4+F4@1>6^56 G3+Bb3+Db4+Eb4@7>6^56
+  Acoustic Bass: G2@1>3^80 Bb2@4>3^80 Eb3@7>3^80 Eb2@10>3^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : Bb4@1>3^80 Bb4@4>3^80 G4@7>3^80 Eb4@10>2^80 Eb4@11>2^80
+@45 [Ab7 | G7] (grid:12t)
+  Grand Piano  : Eb3+Ab3+C4+G4@1>6^56 D3+G3+B3+F4@7>6^56
+  Acoustic Bass: Ab2@1>3^80 Ab2@4>3^80 G2@7>3^80 G2@10>3^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : C5@1>2^80 C5@3>2^80 C5@5>2^80 D5@7>2^80 D5@9>2^80 D5@11>2^80
+@46 [Cm7 | Abm] (grid:12t)
+  Grand Piano  : C3+G3+Bb3+Eb4@1>6^56 B2+F3+Ab3+Eb4@7>6^56
+  Acoustic Bass: C2@1>3^80 C2@4>3^80 Db2@7>3^80 Db2@10>3^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : Eb5@1>9^80 Eb5@10>2^80 Eb5@11>2^80
+@47 [Eb7 | Fm] (grid:12t)
+  Grand Piano  : Eb3+Bb3+D4+G4@1>6^56 F3+C4+Eb4+Ab4@7>6^56
+  Acoustic Bass: Eb2@1>3^80 Eb2@4>3^80 F2@7>3^80 F2@10>3^80
+  Trombone     : Bb2@1>6^80 C3@7>6^80
+  Trumpet      : G3@1>6^80 Ab3@7>6^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : D5@1>3^80 Bb4@4>3^80 C5@7>4^80 Ab4@11>2^80
+  Baritone Sax : Eb2@1>6^80 F2@7>6^80
+@48 [Gm | Abm7] (grid:4)
+  Grand Piano  : G3+D4+F4+Bb4@1>2^56 Ab3+Eb4+Gb4+B4@3>1^56 Ab3+Db4+Gb4+B4@4>1^56
+  Acoustic Bass: G2@1>1^80 G2@2>1^80 Ab2@3>1^80 Db2@4>1^80
+  Trombone     : D3@1>1^80 Eb3@2>1^80 Gb3@3>1^80 F3@4>1^80
+  Trumpet      : Bb3@1>2^80 B3@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : Bb4@1>1^80 Eb4@2>1^80 Bb4@3>1^80 Ab4@4>1^80
+  Baritone Sax : G2@1>2^80 Ab2@3>1^80 Db3@4>1^80
+@49 [Eb7 | Cm]
+  Grand Piano  : G3+D4+F4+Bb4@1>4^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb2@1>2^80 Eb2@3>2^80 C2@5>2^80 C2@7>2^80
+  Trombone     : G3@1>6^80 Bb3@7>2^80
+  Trumpet      : Bb3@1>2^80 D4@3>4^80 C4@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : G4+Ab4@1>1^80 Ab4@2>1^80 Bb4@3>2^80 Eb4@5>2^80 Eb4@7>2^80
+  Baritone Sax : Eb3@1>4^80 C3@5>4^80
+@50 [Fm7 | Bb7] (grid:4)
+  Grand Piano  : F3+C4+Eb4+Ab4@1>2^56 Bb2+F3+Ab3+D4@3>2^56
+  Acoustic Bass: F2@1>1^80 F2@2>1^80 Bb1@3>1^80 Bb1@4>1^80
+  Trombone     : Ab3@1>4^80
+  Trumpet      : C4@1>1^80 Eb4@2>2^80 D4@4>1^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : Eb4@1>2^80 F4@3>2^80
+  Baritone Sax : F3@1>2^80 Bb2@3>2^80
+@51 [Eb | Cm] (grid:4)
+  Grand Piano  : Eb3+G3+Bb3+Eb4@1>3^56 Eb3+G3+C4+G4@4>1^56
+  Acoustic Bass: Eb2@1>1^80 Eb2@2>1^80 G2@3>1^80 Eb2@4>1^80
+  Trombone     : G3@1>4^80
+  Trumpet      : C4@1>4^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : Eb4@1>4^80
+  Baritone Sax : Eb3@1>4^80
+@52 [Fm7 | Bb7]
+  Grand Piano  : F3+C4+Eb4+Ab4@1>4^56 F3+Bb3+D4+Ab4@5>4^56
+  Acoustic Bass: F2@1>2^80 F2@3>2^80 Bb2@5>2^80 Bb1@7>2^80
+  Trombone     : F3@2>1^80 Ab3@3>1^80 Eb4@4>1^80 D4@5>1^80 C4@6>1^80 Bb3@7>1^80 Ab3@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+@53 [Eb7 | Fm7] (grid:12t)
+  Grand Piano  : Eb2+Bb2+G3+D4@1>6^56 F2+C3+Ab3+Eb4@7>6^56
+  Acoustic Bass: Eb2@1>3^80 Eb2@4>3^80 F2@7>3^80 F2@10>3^80
+  Trombone     : G3@1>3^80 G3@4>3^80 Eb3@7>4^80 Eb3@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+@54 [Bb | Eb] (grid:12t)
+  Grand Piano  : G2+D3+Bb3+F4@1>3^56 F2+C3+Ab3+Eb4@4>3^56 Eb2+Bb2+G3+D4@7>6^56 G3+Db4@10>3^56
+  Acoustic Bass: G2@1>3^80 F2@4>3^80 Eb2@7>3^80 G2@10>3^80
+  Trombone     : Bb3@1>3^80 Bb3@4>3^80 G3@7>3^80 Eb3@10>2^80 Eb3@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+@55 [Ab | G] (grid:12t)
+  Grand Piano  : Ab2+Eb3+G3+C4@1>6^56 F3+C4@4>3^56 G2+F3+Ab3+C4+D4@7>6^56 G3+B3+D4@10>3^56
+  Acoustic Bass: Ab2@1>3^80 Ab2@4>3^80 G2@7>3^80 G2@10>3^80
+  Trombone     : C4@1>2^80 C4@3>2^80 C4@5>2^80 D4@7>2^80 D4@9>2^80 D4@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+@56 [Eb | Abm7] (grid:12t)
+  Grand Piano  : C3+G3+Bb3+Eb4@1>3^56 Bb2+G3+C4+Eb4@4>3^56 Ab2+Gb3+B3+Eb4@7>3^56 Db3+F3+B3+Db4@10>3^56
+  Acoustic Bass: C3@1>3^80 Bb2@4>3^80 Ab2@7>3^80 Db2@10>3^80
+  Trombone     : Eb4@1>9^80 Eb4@10>2^80 Eb4@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+@57 [Eb7 | Fm7] (grid:12t)
+  Grand Piano  : Eb2+Bb2+G3+D4@1>3^56 Eb2+Bb2+G3+D4@4>3^56 F2+C3+Ab3+Eb4@7>3^56 F2+C3+Ab3+Eb4@10>3^56
+  Acoustic Bass: Eb2@1>3^80 Eb2@4>3^80 F2@7>3^80 F2@10>3^80
+  Trombone     : D4@1>3^80 Bb3@4>3^80 C4@7>4^80 Ab3@11>2^80
+  Trumpet      : G4@1>6^80 Ab4@7>6^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : D4@1>6^80 Eb4@7>6^80
+  Baritone Sax : Eb2@1>6^80 F2@7>6^80
+@58 [Gm7 | Fm7] (grid:4)
+  Grand Piano  : G2+D3+Bb3+F4@1>1^56 G2+D3+Bb3+F4@2>1^56 Ab2+Eb3+B3+Gb4@3>1^56 Db3+B3+F4@4>1^56
+  Acoustic Bass: G2@1>1^80 G2@2>1^80 Ab2@3>1^80 Db2@4>1^80
+  Trombone     : Bb3@1>1^80 Eb3@2>1^80 Bb3@3>1^80 Ab3@4>1^80
+  Trumpet      : Bb4@1>2^80 B4@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : F4@1>2^80 Gb4@3>1^80 F4@4>1^80
+  Baritone Sax : G2@1>2^80 Ab2@3>1^80 Db3@4>1^80
+@59 [Eb7 | Cm7]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>4^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb2@1>2^80 D3@3>2^80 C3@5>2^80 C3@7>2^80
+  Trombone     : G3+Ab3@1>1^80 Ab3@2>1^80 Bb3@3>2^80 Eb3@5>2^80 Eb3@7>2^80
+  Trumpet      : Bb4@1>4^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : F4@1>4^80
+  Baritone Sax : Eb3@1>4^80
+@60 [Fm7 | Bb7] (grid:4)
+  Grand Piano  : C3+F3+Ab3+Eb4@1>2^56 Bb2+F3+Ab3+D4@3>2^56
+  Acoustic Bass: F2@1>1^80 F2@2>1^80 Bb2@3>1^80 Bb2@4>1^80
+  Trombone     : Eb3@1>2^80 F3@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+@61 [Eb]
+  Grand Piano  : Eb3+G3+Bb3+C4+Eb4@1>8^56 Bb4@2>1^56 G4@3>1^56 F4@4>1^56 Eb4@5>1^56 F4@6>1^56 G4@7>2^56
+  Acoustic Bass: Eb3@1>2^80 D3@3>2^80 C3@5>2^80 Bb2@7>2^80
+  Trombone     : Eb3@1>8^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+@62 [Am7 | D7]
+  Grand Piano  : E3+G3+A3+C4@1>4^56 C5@2>1^56 A4@3>1^56 G4@4>1^56 D3+Gb3+A3+C4+Gb4@5>4^56 G4@6>1^56 A4@7>2^56
+  Acoustic Bass: A2@1>2^80 A2@3>2^80 D3@5>2^80 D2@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+@63 [G7 | Em]
+  Grand Piano  : D4+D5@2>1^56 E4+E5@3>1^56 Gb4+Gb5@4>1^56 G4+G5@5>1^56 A4+A5@6>1^56 B4+B5@7>1^56 C5+C6@8>1^56
+  Acoustic Bass: G2@1>3^80 Gb2@4>1^80 E2@5>2^80 E2@7>2^80
+  Trombone     : Gb3@1>4^80 E3@5>4^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : B3@1>8^80
+  Baritone Sax : G2@1>6^80 G2@7>2^80
+@64 [D7 | Bm] (grid:12t)
+  Grand Piano  : D5+D6@1>3^56 D5+D6@4>2^56 B4+B5@5>6^56 B4+B5@11>2^56
+  Acoustic Bass: A2@1>3^80 A2@4>3^80 D3@7>3^80 C3@10>3^80
+  Trombone     : G3@1>6^80 Gb3@7>6^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : C4@1>12^80
+  Baritone Sax : A2@1>6^80 D3@7>6^80
+@65 [D | Gb] (grid:12t)
+  Grand Piano  : A4+A5@1>3^56 A4+A5@4>3^56 Gb4+Gb5@7>4^56 Gb4+Gb5@11>2^56
+  Acoustic Bass: B2@1>3^80 B2@4>3^80 Bb2@7>3^80 Bb2@10>3^80
+  Trombone     : A3@1>6^80 G3@7>6^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : D4@1>6^80 Db4@7>6^80
+  Baritone Sax : B2@1>6^80 Bb2@7>6^80
+@66 [Am7 | D] (grid:4)
+  Grand Piano  : E4+E5@1>1^56 E4+E5@2>1^56 D4+D5@3>2^56
+  Acoustic Bass: A2@1>1^80 A2@2>1^80 D3@3>1^80 D2@4>1^80
+  Trombone     : G3@1>2^80 Gb3@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : C4@1>4^80
+  Baritone Sax : A2@1>2^80 D3@3>2^80
+@67 [G7 | Em]
+  Grand Piano  : D4+D5@2>1^56 E4+E5@3>1^56 Gb4+Gb5@4>1^56 G4+G5@5>1^56 A4+A5@6>1^56 B4+B5@7>1^56 C5+C6@8>1^56
+  Acoustic Bass: G2@1>3^80 Gb2@4>1^80 E2@5>2^80 E2@7>2^80
+  Trombone     : Gb3@1>4^80 E3@5>4^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : B3@1>8^80
+  Baritone Sax : G2@1>6^80 G2@7>2^80
+@68 [D7 | Bm] (grid:12t)
+  Grand Piano  : D5+D6@1>3^56 D5+D6@4>3^56 B4+B5@7>4^56 B4+B5@11>2^56
+  Acoustic Bass: A2@1>3^80 A2@4>3^80 D3@7>3^80 C3@10>3^80
+  Trombone     : G3@1>6^80 Gb3@7>6^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : C4@1>12^80
+  Baritone Sax : A2@1>6^80 D3@7>6^80
+@69 [D | Gdim] (grid:12t)
+  Grand Piano  : A4+A5@1>3^56 A4+A5@4>3^56 G4+G5@7>4^56 G4+G5@11>2^56
+  Acoustic Bass: B2@1>3^80 B2@4>3^80 Bb2@7>3^80 Bb2@10>3^80
+  Trombone     : A3@1>6^80 G3@7>6^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : D4@1>6^80 Db4@7>6^80
+  Baritone Sax : B2@1>6^80 Bb2@7>6^80
+@70 [Ab | Bb] (grid:12t)
+  Grand Piano  : C5+C6@1>3^56 C5+C6@4>3^56 Bb4+Bb5@7>4^56
+  Acoustic Bass: F2@1>3^80 F2@4>3^80 Bb2@7>3^80 Bb1@10>3^80
+  Trombone     : Ab3@1>12^80
+  Trumpet      : Bb3@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : C4@1>6^80 Bb3@7>6^80
+  Baritone Sax : Eb3@1>6^80 D3@7>6^80
+@71 [Gm | Eb]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>4^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb3@1>2^80 D3@3>2^80 C3@5>2^80 Bb2@7>1^80 Ab2@8>1^80
+  Trombone     : Bb3@1>2^80 Bb3@3>2^80 G3@5>3^80 Bb3@8>1^80
+  Trumpet      : G4@1>2^80 G4@3>2^80 Eb4@5>3^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : D4@1>2^80 D4@3>2^80 Bb3@5>3^80 C4@8>1^80
+  Baritone Sax : Eb3@1>3^80 D3@4>1^80 C3@5>2^80 Bb2@7>1^80 Ab2@8>1^80
+@72 [Bb | Eb]
+  Grand Piano  : G3+Bb3+D4+F4@1>2^56 F3+Ab3+C4+Eb4@3>2^56 Eb3+G3+Bb3+D4@5>2^56 Eb3+Bb3+Db4+G4@7>2^56
+  Acoustic Bass: G2@1>2^80 F2@3>2^80 Eb2@5>2^80 G2@7>2^80
+  Trombone     : D4@1>2^80 C4@3>2^80 Bb3@5>2^80 Bb3@7>2^80
+  Trumpet      : Bb4@1>2^80 Bb4@3>2^80 G4@5>2^80 Eb4@7>1^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : F4@1>2^80 Eb4@3>2^80 D4@5>2^80 Db4@7>2^80
+  Baritone Sax : G2@1>1^80 G3@2>1^80 F3@3>2^80 Eb3@5>2^80 G3@7>2^80
+@73 [Ab | G7] (grid:6t)
+  Grand Piano  : Eb3+Ab3+C4+G4@1>3^56 D3+G3+B3+F4@4>3^56
+  Acoustic Bass: Ab2@1>3^80 G2@4>3^80
+  Trombone     : Eb4@1>1^80 Eb4@2>1^80 Eb4@3>1^80 F4@4>1^80 F4@5>1^80 F4@6>1^80
+  Trumpet      : C5@1>1^80 C5@2>1^80 C5@3>1^80 D5@4>1^80 D5@5>1^80 D5@6>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@4>2^56 D2+Bb2@5>2^56
+  Alto Sax     : G4@1>1^80 Gb4@2>1^80 F4@3>1^80 Ab4@4>1^80 Gb4@5>1^80 G4@6>1^80
+  Baritone Sax : Ab3@1>1^80 Ab3@2>1^80 Ab3@3>1^80 B3@4>1^80 B3@5>1^80 B3@6>1^80
+@74 [Cm7 | Db7] (grid:4)
+  Grand Piano  : C3+G3+Bb3+Eb4@1>2^56 Db3+F3+B3+Eb4@3>2^56
+  Acoustic Bass: C3@1>1^80 C3@2>1^80 Db3@3>1^80 Db3@4>1^80
+  Trombone     : G4@1>2^80 F4@3>2^80
+  Trumpet      : Eb5@1>3^80 Eb5@4>1^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : Bb4@1>2^80 Ab4@3>2^80
+  Baritone Sax : C4@1>2^80 B3@3>2^80
+@75 [Eb7 | Ddim] (grid:12t)
+  Grand Piano  : Eb3+Bb3+D4+G4@1>6^56 F3+Bb3+D4+Ab4@7>6^56
+  Acoustic Bass: Eb3@1>3^80 Eb2@4>3^80 F2@7>3^80 Bb2@10>3^80
+  Trombone     : Eb4@1>3^80 D4@4>3^80 D4@7>4^80 Bb3@11>2^80
+  Trumpet      : D5@1>3^80 Bb4@4>3^80 C5@7>4^80 Ab4@11>2^80
+  Instrument 15: C2+Bb2@1>3^56 D2+Bb2@4>3^56 C2+Bb2@7>3^56 D2+Bb2@10>3^56
+  Alto Sax     : G4@1>3^80 F4@4>3^80 F4@7>4^80 D4@11>2^80
+  Baritone Sax : Bb3@1>3^80 G3@4>3^80 Ab3@7>4^80 F3@11>2^80
+@76 [Eb7 | Fm7] (grid:4)
+  Grand Piano  : F3+Bb3+Db4+Ab4@1>1^56 Eb3+Bb3+Db4+G4@2>1^56 Eb3+Ab3+B3+Gb4@3>1^56 Db3+Ab3+B3+F4@4>1^56
+  Acoustic Bass: Eb2@1>1^80 Eb2@2>1^80 Ab2@3>1^80 Db2@4>1^80
+  Trombone     : Db4@1>2^80 B3@3>2^80
+  Trumpet      : Bb4@1>1^80 Eb4@2>1^80 Bb4@3>1^80 Ab4@4>1^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : F4@1>1^80 Eb4@2>1^80 Gb4@3>1^80 F4@4>1^80
+  Baritone Sax : Ab3@1>1^80 G3@2>1^80 Ab3@3>1^80 Db3@4>1^80
+@77 [Gm7 | Cm7]
+  Grand Piano  : Eb3+Bb3+D4+G4@1>1^56 F3+C4+Eb4+Ab4@2>1^56 G3+D4+F4+Bb4@3>2^56 C3+G3+Bb3+Eb4@5>4^56
+  Acoustic Bass: Eb2@1>1^80 F2@2>1^80 G2@3>2^80 C3@5>2^80 C2@7>2^80
+  Trombone     : Bb3@1>1^80 C4@2>1^80 D4@3>2^80 G3@5>2^80 Bb3@7>2^80
+  Trumpet      : G4+Ab4@1>1^80 Ab4@2>1^80 Bb4@3>2^80 Eb4@5>2^80 Eb4@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : D4@1>1^80 Eb4@2>1^80 F4@3>2^80 Bb3@5>2^80 D4@7>2^80
+  Baritone Sax : Eb3@1>1^80 F3@2>1^80 G3@3>2^80 C3@5>2^80 C3@7>2^80
+@78 [Fm7 | Bb7] (grid:4)
+  Grand Piano  : F3+C4+Eb4+Ab4@1>2^56 F3+Bb3+D4+Ab4@3>2^56
+  Acoustic Bass: F2@1>1^80 F2@2>1^80 Bb2@3>1^80 Bb1@4>1^80
+  Trombone     : Ab3@1>2^80 Ab3@3>2^80
+  Trumpet      : Eb4@1>2^80 F4@3>2^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : C4@1>2^80 D4@3>2^80
+  Baritone Sax : F2@1>2^80 Bb2@3>2^80
+@79 [Eb]
+  Grand Piano  : Eb3+G3+Bb3+C4+Eb4@1>3^56 Eb3+G3+C4+Eb4@4>1^56 G3+Bb3+C4+Eb4+G4@5>2^56 Bb3+C4+Eb4+G4+Bb4@7>2^56
+  Acoustic Bass: Eb2@1>2^80 D3@3>2^80 C3@5>2^80 C3@7>2^80
+  Trombone     : G3@1>8^80
+  Trumpet      : Eb4@1>8^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : Bb3@1>8^80
+  Baritone Sax : Eb3@1>8^80
+@80 [Fm7 | Bb7]
+  Grand Piano  : F3+C4+Eb4+Ab4@1>4^56 Ab3+Bb3+D4+G4@5>2^56 Ab3+Bb3+D4+F4@7>2^56
+  Acoustic Bass: F2@1>2^80 F2@3>2^80 Bb2@5>2^80 Ab2@7>2^80
+  Trombone     : Eb4@2>1^80 D4@3>1^80 C4@4>1^80 Ab3@5>2^80 Ab3@7>2^80
+  Trumpet      : C5@2>1^80 Bb4@3>1^80 Ab4@4>1^80 G4@5>2^80 F4@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : F4@2>1^80 F4@3>1^80 Eb4@4>1^80 D4@5>2^80 D4@7>2^80
+  Baritone Sax : Ab3@2>1^80 G3@3>1^80 F3@4>1^80 Bb2@5>2^80 Bb2@7>2^80
+@81 [Db7 | C7] (grid:4)
+  Grand Piano  : Db3+F3+Ab3+B3+Eb4@1>2^56 C3+E3+G3+Bb3+D4@3>2^56
+  Acoustic Bass: Db2@1>1^80 Db2@2>1^80 C2@3>1^80 C2@4>1^80
+  Trombone     : B3@1>2^80 Bb3@3>2^80
+  Trumpet      : G4@1>4^80
+  Instrument 15: C2+Bb2@1>1^56 D2+Bb2@2>1^56 C2+Bb2@3>1^56 D2+Bb2@4>1^56
+  Alto Sax     : Eb4@1>2^80 D4@3>2^80
+  Baritone Sax : F3@1>2^80 E3@3>2^80
+@82 [Fm7 | Bb7]
+  Grand Piano  : F3+Ab3+B3+Eb4@1>4^56 F3+Ab3+C4+Eb4@5>2^56 F3+Ab3+Bb3+D4@7>2^56
+  Acoustic Bass: F2@1>2^80 B2@3>2^80 Bb2@5>2^80 Bb1@7>2^80
+  Trombone     : Ab3@1>1^80 F3@2>1^80 G3@3>1^80 Ab3@4>1^80 Ab3@5>2^80 Ab3@7>2^80
+  Trumpet      : Ab4@2>1^80 G4@3>1^80 F4@4>1^80 Eb4@5>2^80 D4@7>2^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : Eb4@1>4^80 C4@5>2^80 Bb3@7>2^80
+  Baritone Sax : B2@1>4^80 Bb2@5>2^80 Bb2@7>2^80
+@83 [Eb | Fm7]
+  Grand Piano  : G3+Bb3+C4+Eb4@1>4^56 F3+Ab3+B3+Eb4@5>4^56
+  Acoustic Bass: Eb2@1>2^80 Eb2@3>2^80 Ab1@5>2^80 Ab1@7>2^80
+  Trombone     : G3@1>4^80 F3@5>4^80
+  Trumpet      : Eb4@1>4^80 F4@5>1^80 G4@6>1^80 D4@7>1^80 Eb4@8>1^80
+  Instrument 15: C2+Bb2@1>2^56 D2+Bb2@3>2^56 C2+Bb2@5>2^56 D2+Bb2@7>2^56
+  Alto Sax     : Bb3@1>4^80 B3@5>4^80
+  Baritone Sax : Eb3@1>4^80 Eb3@5>4^80
+@84 [Cm7]
+  Grand Piano  : Eb3+G3+C4+F4@3>1^56 Eb3+G3+C4+F4@5>1^56 Eb3+G3+C4+F4@6>1^56 Eb3+G3+C4+F4@8>7^56
+  Acoustic Bass: Eb2@1>2^80 G2@3>2^80 Bb2@5>2^80 G2@7>2^80
+  Trombone     : C4@1>14^80
+  Trumpet      : Bb4@1>14^80
+  Instrument 15: C2+D2+Bb2@1>2^56 C2+D2+Bb2@3>2^56 C2+D2+Bb2@5>1^56 C2+D2+Bb2@6>1^56 C2+D2+Bb2@8>1^56
+  Alto Sax     : F4@1>14^80
+  Baritone Sax : G3@1>14^80
+@85 [Eb] (grid:12t)
+  Acoustic Bass: Eb2@1>3^80 Bb1@4>3^80 Eb2@7>3^80
+  Instrument 15: D2@3>2^56 C2@4>3^56 C2+D2@7>3^56

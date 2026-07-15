@@ -1,367 +1,888 @@
-KEY: E minor | METER: 4/4 | TEMPO: 95 | GRID: 16th (adaptive) | BARS: 100
-VOICES: Acoustic Bass, Electric Piano, Electric Piano#2, Electric Guitar 2
-@1 [-]
-@2 [-]
-@3 [E | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano   : E3+E4@1>8
-@4 [B | A] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : E3+E4@15>14
-@5 [E]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : E5@6>1 A5+B5@7>1 E6@9>1 B5@10>16
-@6 [B | A] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : B5@15>9
-@7 [Em | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G5@4>1 A5@5>1 G5@6>1 F#5@7>1 E5@8>1 F#5@9>1 G5@10>1 F#5@12>1 D5@16>1
-@8 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : D5@4>1 E5@5>5 E5@10>9
-@9 [B | A7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>1 C#3@13>2 A2@15>2
-  Electric Piano   : B6@10>1 G6@11>1 A6@12>1 F#6@13>1 G6@14>1 E6+F#6@15>1
-@10 [Em7 | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>1 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : D6@1>1 C#6+E6@2>1 D6@4>1 B5@5>1 C#6@6>1 A5@7>1 G5+B5@8>1 A5@10>1 F#5@11>1 G5@12>1 E5@13>1 D5+F#5@14>1 E5@16>1
-@11 [Bm | A]
-  Acoustic Bass    : E2@1>1 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : C#5@1>1 B4+D5@2>1 C#5@4>1 A4+B4@5>1 G4@7>1 A4@8>1 F#4@9>1 G4@10>1 E4+F#4@11>1 D4@13>1 E4@14>1 C#4@15>1 D4@16>1
-@12 [Em7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : B3+C#4@1>1 A3@3>1 G3+B3@4>1 A3@6>2 G3+D4@8>2 G3+B3+E4@10>12
-@13 [Bm7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : F#3+A3+D4@9>3 G3+B3+E4@15>18
-@14 [Bm7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : F#3+A3+D4@9>3 G3+B3+E4@15>18
-@15 [Bm7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : F#3+A3+D4@9>3 G3+B3+E4@15>18
-@16 [Em7 | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano   : F#3+A3+D4@3>1
-  Electric Piano#2 : E4@1>1 E4@2>1 G4@3>1 D4@4>1 E4@5>4
-  Electric Guitar 2: G3+B3@1>4 F#3+A3@7>1
-@17 [Em | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano#2 : E4@1>2
-  Electric Guitar 2: G3+B3@1>4 F#3+A3@7>1
-@18 [Em | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano#2 : E4@1>1 E4@2>1 G4@3>1 D4@4>1 E4@5>4
-  Electric Guitar 2: G3+B3@1>4 F#3+A3@7>1
-@19 [Em | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano#2 : E4@1>2 E4@8>1
-  Electric Guitar 2: G3+B3@1>3
-@20 [A | Am]
-  Acoustic Bass    : A2@1>3 A2@5>2 E2@7>2 A2@9>3 A2@13>2 E2@15>2
-  Electric Piano   : E4@2>2 D4@4>2 B3@6>2 G3@8>2 A3+C4@10>2 A3+C4@12>5
-  Electric Piano#2 : A4@1>2 A4@3>2 A4@5>2 G4@7>2 A4@9>6
-@21 [Bm7 | C] (grid:24t)
-  Acoustic Bass    : A2@1>4 A2@7>3 E2@10>3 A2@13>4 A2@19>3 D2@22>3
-  Electric Piano   : B3+D4@3>3 B3+D4@5>8 G3+C4+E4@15>3 G3+C4+E4@17>8
-  Electric Piano#2 : D4@22>3
-@22 [Em7] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : A3+D4+F#4@3>3 A3+D4+F#4@5>3 G3+B3@15>14
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>9
-@23 [B7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>2 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : F#3+A3@9>3 G3+B3@15>20
-  Electric Piano#2 : E4@19>3 E4@22>3
-@24 [D] (grid:24t)
-  Acoustic Bass    : D3@1>4 D3@7>4 D3@13>4 D3@19>4
-  Electric Piano   : E4+G4@15>4 D4+F#4@21>14
-  Electric Piano#2 : A4@1>3 A4@4>3 A4@7>3 G4@10>3 A4@13>4 A4@19>4
-@25 [C] (grid:24t)
-  Acoustic Bass    : C3@4>8 C3@13>4 C3@19>3 C3@22>3
-  Electric Piano   : D4+F#4@15>3 C4+E4@17>4 G3+C4@23>3
-  Electric Piano#2 : A4@1>3 G4@4>2 G4@7>3 E4@10>3 E4@13>9
-@26 [C7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+C4@3>9 G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>12
-@27 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>8
-  Electric Piano#2 : E4@1>3 E4@13>2 D4@15>2
-@28 [Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>12
-@29 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>8
-  Electric Piano#2 : E4@1>3 E4@11>2 E4@13>2 D4@15>2
-@30 [Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>12
-@31 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>4
-  Electric Piano#2 : E4@1>3 E4@15>2
-@32 [A | Am]
-  Acoustic Bass    : A2@1>3 A2@5>2 E2@7>2 A2@9>3 A2@13>2 E2@15>2
-  Electric Piano   : E3@4>2 A3+C#4@6>2 A3+C4@10>2 A3+C4@12>5
-  Electric Piano#2 : A4@1>2 A4@3>2 A4@5>2 G4@7>2 A4@9>6
-@33 [Bm7 | C] (grid:24t)
-  Acoustic Bass    : A2@1>4 A2@7>3 E2@10>3 A2@13>4 A2@19>3 D2@22>3
-  Electric Piano   : B3+D4@3>3 B3+D4@5>8 G3+C4+E4@15>3 G3+C4+E4@17>8
-@34 [D | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : A3+D4+F#4@3>3 A3+D4+F#4@5>8 G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>9
-@35 [Bm7 | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>4
-  Electric Piano#2 : E4@13>2 E4@15>2
-@36 [D7]
-  Acoustic Bass    : D3@1>3 D3@5>3 D3@9>3 D3@13>3
-  Electric Piano   : E3@4>2 A3+C#4@6>3 E4+G4@10>3 D4+F#4@14>9
-  Electric Piano#2 : A4@1>2 A4@3>2 A4@5>2 G4@7>2 A4@9>3 A4@13>3
-@37 [C] (grid:24t)
-  Acoustic Bass    : C3@4>8 C3@13>4 C3@19>3 C3@22>3
-  Electric Piano   : C4+E4@17>4 G3+C4@23>3
-  Electric Piano#2 : G4@1>3 G4@4>2 G4@7>3 E4@10>3 E4@13>9
-@38 [C7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+C4@3>9 G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>12
-@39 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>4
-  Electric Piano#2 : E4@1>3
-@40 [Em | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : E3@4>2 A3+C#4@6>3
-  Electric Guitar 2: G4@1>2 B3@3>2 B3+G4@5>2 C#4+A4@7>4 C#4@11>2 C#4+A4@13>2 D4+B4@15>2
-@41 [Bm | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: D4+B4@2>1 D4@3>1 D4+B4@4>1 C#4+A4@5>2 C#4@7>1 C#4+A4@8>2
-@42 [Em | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: G4@2>1 B3@3>1 B3+G4@4>1 C#4+A4@5>2 C#4@7>1 C#4+A4@8>1
-@43 [Bm | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: D4+B4@1>1 D4+B4@3>1 D4@4>1 D4+B4@5>1 C#4+A4@6>2 C#4@8>1
-@44 [Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>12
-  Electric Guitar 2: C#4@1>3 A3@4>3
-@45 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>8
-  Electric Piano#2 : E4@1>3 E4@11>2 E4@13>2 D4@15>2
-@46 [Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>12
-@47 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>4
-  Electric Piano#2 : E4@1>3 E4@15>2
-@48 [A | Am]
-  Acoustic Bass    : A2@1>3 A2@5>2 E2@7>2 A2@9>3 A2@13>2 E2@15>2
-  Electric Piano   : E3@4>2 A3+C#4@6>2 A3+C4@10>2 A3+C4@12>5
-  Electric Piano#2 : A4@1>2 A4@3>2 A4@5>2 G4@7>2 A4@9>6
-@49 [Bm7 | C] (grid:24t)
-  Acoustic Bass    : A2@1>4 A2@7>3 E2@10>3 A2@13>4 A2@19>3 D2@22>3
-  Electric Piano   : B3+D4@3>3 B3+D4@5>8 G3+C4+E4@15>3 G3+C4+E4@17>8
-@50 [D | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : A3+D4+F#4@3>3 A3+D4+F#4@5>8 G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>9
-@51 [Bm7 | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>4
-  Electric Piano#2 : E4@13>2 E4@15>2
-@52 [D7]
-  Acoustic Bass    : D3@1>3 D3@5>3 D3@9>3 D3@13>3
-  Electric Piano   : E3@4>2 A3+C#4@6>3 E4+G4@10>3 D4+F#4@14>9
-  Electric Piano#2 : A4@1>2 A4@3>2 A4@5>1 G4@7>2 A4@9>3 A4@13>3
-@53 [C] (grid:24t)
-  Acoustic Bass    : C3@4>8 C3@13>4 C3@19>3 C3@22>3
-  Electric Piano   : C4+E4@17>4 G3+C4@23>3
-  Electric Piano#2 : G4@1>3 G4@4>2 G4@7>3 E4@10>3 E4@13>9
-@54 [C7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+C4@3>9 G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>12
-@55 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>4
-  Electric Piano#2 : E4@1>3
-@56 [Em | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : E3@4>2 A3+C#4@6>3
-  Electric Guitar 2: G4@5>2 B3@7>2 B3+G4@9>2 C#4+A4@11>4 C#4@15>2
-@57 [Bm | A] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: C#4+A4@1>1 D4+B4@2>1 D4+B4@4>1 D4@5>1 D4+B4@6>1 C#4+A4@7>2
-@58 [A7] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: C#4@1>1 C#4+A4@2>2 G4@4>1 B3@5>1 B3+G4@6>1 C#4+A4@7>2
-@59 [Bm | D7] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: C#4@1>1 C#4+A4@2>1 D4+B4@3>1 D4+B4@5>1 D4@6>1 D4+B4@7>1 C#4+A4@8>2
-@60 [A7 | Em] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano#2 : E4@1>1 E4@2>1 G4@3>1 D4@4>1 E4@5>4
-  Electric Guitar 2: C#4@2>1 C#4+A4@3>2 G3+B3@5>4
-@61 [E | Em] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano#2 : E4@1>2
-  Electric Guitar 2: F#3+A3@3>1 G3+B3@5>4
-@62 [Em] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano#2 : E4@1>1 E4@2>1 G4@3>1 D4@4>1 E4@5>4
-  Electric Guitar 2: F#3+A3@3>1 G3+B3@5>4
-@63 [E | Em] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Piano#2 : E4@1>2 E4@8>1
-  Electric Guitar 2: F#3+A3@3>1 G3+B3@5>3
-@64 [A | Am]
-  Acoustic Bass    : A2@1>3 A2@5>2 E2@7>2 A2@9>3 A2@13>2 E2@15>2
-  Electric Piano   : E4@2>2 D4@4>2 B3@6>2 G3@8>2 A3+C4@10>2 A3+C4@12>5
-  Electric Piano#2 : A4@1>2 A4@3>2 A4@5>2 G4@7>2 A4@9>6
-@65 [Bm7 | C] (grid:24t)
-  Acoustic Bass    : A2@1>4 A2@7>3 E2@10>3 A2@13>4 A2@19>3 D2@22>3
-  Electric Piano   : B3+D4@3>3 B3+D4@5>8 G3+C4+E4@15>3 G3+C4+E4@17>8
-  Electric Piano#2 : D4@22>3
-@66 [Em7] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : A3+D4+F#4@3>3 A3+D4+F#4@5>3 G3+B3@15>14
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>9
-@67 [B7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>2 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : F#3+A3@9>3 G3+B3@15>20
-  Electric Piano#2 : E4@19>3 E4@22>3
-@68 [D] (grid:24t)
-  Acoustic Bass    : D3@1>4 D3@7>4 D3@13>4 D3@19>4
-  Electric Piano   : E4+G4@15>4 D4+F#4@21>14
-  Electric Piano#2 : A4@1>3 A4@4>3 A4@7>3 G4@10>3 A4@13>4 A4@19>4
-@69 [C] (grid:24t)
-  Acoustic Bass    : C3@4>8 C3@13>4 C3@19>3 C3@22>3
-  Electric Piano   : D4+F#4@15>3 C4+E4@17>4 G3+C4@23>3
-  Electric Piano#2 : A4@1>3 G4@4>3 G4@7>3 E4@10>3 E4@13>9
-@70 [C7 | Em] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+C4@3>9 G3+B3@15>8 A3+C#4@23>8
-  Electric Piano#2 : E4@1>3 E4@4>3 G4@7>3 G4@10>3 E4@13>12
-@71 [E | A]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : A3+C#4@6>2 B3+D4@8>2 B3+D4@10>2 E3@12>2 B3+D4@14>2 A3+C#4@16>4
-  Electric Piano#2 : E4@1>3
-@72 [A7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>1
-  Electric Piano   : E3@4>2 A3+C#4@6>3
-  Electric Guitar 2: G4@9>2 B3@11>2 B3+G4@13>2 C#4+A4@15>4
-@73 [Bm | D] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: C#4@2>1 C#4+A4@3>1 D4+B4@4>1 D4+B4@6>1 D4@7>1 D4+B4@8>1
-@74 [A7] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: C#4+A4@1>2 C#4@3>1 C#4+A4@4>2 G4@6>1 B3@7>1 B3+G4@8>1
-@75 [A | D] (grid:8)
-  Acoustic Bass    : E2@1>1 B2@2>1 F#2@3>1 B2@4>1 E2@5>1 A2@6>1 C#3@7>1 A2@8>1
-  Electric Guitar 2: C#4+A4@1>2 C#4@3>1 C#4+A4@4>1 D4+B4@5>1 D4+B4@7>1 D4@8>1
-@76 [Bm | D7] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : D4+F#4+B4@15>4 D4+F#4+B4@21>4
-  Electric Piano#2 : B4@1>4 B4@7>4 A4@13>4 G4@19>3 B4@22>3
-  Electric Guitar 2: D4+B4@1>3 C#4+A4@4>6 C#4@10>3 C#4+A4@13>4
-@77 [Em7 | D]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : C#4+E4+A4@2>3 B3+D4+G4@6>2 G3+D4+F#4@8>2 G3+D4+F#4@10>5 G3+B3+D4@16>4
-  Electric Piano#2 : B4@1>5
-@78 [G | Bm7] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+B3+D4@5>8 D4+F#4+B4@15>4 D4+F#4+B4@21>4
-  Electric Piano#2 : B4@1>4 B4@7>4 A4@13>4 G4@19>3 B4@22>3
-@79 [Em7 | D]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : C#4+E4+A4@2>3 B3+D4+G4@6>2 G3+D4+F#4@8>2 G3+D4+F#4@10>5 G3+B3+D4@16>4
-  Electric Piano#2 : B4@1>5
-@80 [G | Bm7] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+B3+D4@5>8 D4+F#4+B4@15>4 D4+F#4+B4@21>4
-  Electric Piano#2 : B4@1>4 B4@7>4 A4@13>4 G4@19>3 B4@22>3
-@81 [Em7 | D]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : C#4+E4+A4@2>3 B3+D4+G4@6>2 G3+D4+F#4@8>2 G3+D4+F#4@10>5 G3+B3+D4@16>4
-  Electric Piano#2 : B4@1>5
-@82 [G | Bm7] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>2 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+B3+D4@5>8 D4+F#4+B4@15>4 D4+F#4+B4@21>4
-  Electric Piano#2 : B4@1>4 B4@7>4 A4@13>4 G4@19>3 B4@22>3
-@83 [Em7 | D]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : C#4+E4+A4@2>3 B3+D4+G4@6>2 G3+D4+F#4@8>2 G3+D4+F#4@10>5 G3+B3+D4@16>4
-  Electric Piano#2 : B4@1>5
-@84 [G | Bm7] (grid:24t)
-  Acoustic Bass    : E2@1>3 B2@4>3 F#2@7>3 B2@10>3 E2@13>3 A2@16>3 C#3@19>3 A2@22>3
-  Electric Piano   : G3+B3+D4@5>8 B3+D4+G4@15>4 D4+F#4+B4@21>3 D4+F#4+B4@23>3
-  Electric Piano#2 : G4@1>4 B4@7>3 B4@10>3 D5@13>3 D5@16>3 B4@19>3 D5@22>3
-@85 [G7 | Bm]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4+D5@2>2 G4+B4+D5@4>2 G4+B4@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>4 G4+B4+D5@14>2 G4+B4@16>2
-  Electric Piano#2 : F#5@1>4 D5@5>2 B4@7>2 D5@9>2 D5@11>2 B4@13>2 D5@15>2
-@86 [G7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4+D5@2>2 G4+B4+D5@4>2 G4+B4@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>2 G4+B4+D5@12>2 G4+B4@14>2 G4+B4+D5@16>4
-  Electric Piano#2 : F#5@1>2 D5@3>2 B4@5>2 D5@7>4 B4@11>2 D5@13>2 D5@15>2
-@87 [Bm]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4@4>2 G4+B4+D5@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>4 G4+B4+D5@14>2 G4+B4@16>2
-  Electric Piano#2 : F#5@1>4 D5@5>2 B4@7>2 D5@9>2 D5@11>2 B4@13>2 D5@15>2
-@88 [G7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4+D5@2>2 G4+B4+D5@4>2 G4+B4@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>2 G4+B4+D5@12>2 G4+B4@14>2 G4+B4+D5@16>4
-  Electric Piano#2 : F#5@1>2 D5@3>2 B4@5>2 D5@7>4 B4@11>2 D5@13>2 D5@15>2
-@89 [Bm]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4@4>2 G4+B4+D5@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>4 G4+B4+D5@14>2 G4+B4@16>2
-  Electric Piano#2 : F#5@1>4 D5@5>2 B4@7>2 D5@9>2 D5@11>2 B4@13>2 D5@15>2
+KEY: B minor | METER: 2/4 | TEMPO: 115 | GRID: 8th (adaptive) | BARS: 197
+VOICES: Waves[prog=122], Piano[prog=0], Guitar[prog=27], Voice[prog=26], Bass Quiet[prog=35], Bass[prog=35], By Stellar Ice[drums]
+@1 [A] (grid:4)
+  Waves         : A4@1>4^80
+@2 [F#]
+  Waves         : C#5@1>4^80
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  By Stellar Ice: B1@1>2^104 B1@2>1^80
+@3 [F#]
+  Waves         : C#5@1>7^80
+  Piano         : G3@1>2^80 B3@2>1^80 G3@3>2^80 B3@4>1^80
+  Bass Quiet    : F#1@1>12^80
+  By Stellar Ice: D0+A1@1>3^80
+@4 [E]
+  Piano         : E3@1>3^80 B3@2>1^80 B3@3>1^80 E3@4>2^80
+@5 [A] (grid:12t)
+  Piano         : A2+A3@3>4^80 D3+D4@4>1^80 C#3+C#4@5>1^80
+@6 [F#m]
+  Waves         : A4@1>6^80
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Bass Quiet    : F#1@1>13^80
+  By Stellar Ice: B1@1>2^80 B1@2>2^80
+@7 [G]
+  Piano         : G3@1>2^80 B3@2>1^80 G3@3>2^80 B3@4>1^80
+  By Stellar Ice: D0+A1@1>1^80 D0+A1@2>2^80
+@8 [E]
+  Piano         : E3@1>3^80 B3@2>1^80 B3@3>1^80 E3@4>2^80
+@9 [A] (grid:12t)
+  Piano         : A2+A3@3>4^80 D3+D4@4>1^80 C#3+C#4@5>1^80
+@10 [F#m]
+  Waves         : A4@1>6^80
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Bass Quiet    : F#1@1>13^80
+  By Stellar Ice: B1@1>2^80 B1@2>2^80
+@11 [G]
+  Piano         : G3@1>2^80 B3@2>1^80 G3@3>2^80 B3@4>1^80
+  By Stellar Ice: D0+A1@1>1^80 D0+A1@2>2^80
+@12 [E]
+  Piano         : E3@1>3^80 B3@2>1^80 B3@3>1^80 E3@4>2^80
+@13 [A] (grid:12t)
+  Piano         : A2+A3@3>4^80 D3+D4@4>1^80 C#3+C#4@5>1^80
+@14 [F#m]
+  Waves         : A4@1>6^80
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Bass Quiet    : F#1@1>14^80
+  By Stellar Ice: B1@1>2^80 B1@2>2^80
+@15 [G]
+  Piano         : G3@1>2^80 B3@2>1^80 G3@3>2^80 B3@4>1^80
+  By Stellar Ice: D0+A1@1>1^80 D0+A1@2>2^80
+@16 [E] (grid:4)
+  Piano         : E3@1>4^80
+@17 [E] (grid:6t)
+  Voice         : E4@3>1^80
+@18 [B7]
+  Waves         : A4@1>6^80
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : F#4@2>3^80
+  Bass Quiet    : B1@1>4^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 F#2@3>2^80
+@19 [Bm]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : B3@2>5^80
+  Bass Quiet    : D2@1>10^80
+  By Stellar Ice: D0+F#2@1>4^80 F#2+D#3@3>1^80
+@20 [G]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@21 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@22 [B7]
+  Waves         : A4@1>6^80
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : E4@2>2^80 F#4@4>1^80
+  Bass Quiet    : B1@1>4^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 F#2@3>2^80
+@23 [D | Bm]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : A4@1>1^80 G4@2>2^80
+  Bass Quiet    : D2@1>10^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@24 [G | Baug]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Voice         : B3@2>4^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@25 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@26 [B7]
+  Waves         : A4@1>6^80
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : E4@3>1^80 F#4@4>1^80
+  Bass Quiet    : B1@1>4^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 F#2@3>2^80
+@27 [D | G7] (grid:24t)
+  Piano         : F#3@1>5^80 B3@4>2^80 F#3@7>5^80 B3@10>2^80
+  Voice         : A4@1>4^80 G4@5>15^80
+  Bass Quiet    : D2@1>31^80
+  By Stellar Ice: D0+F#2@1>2^80 D0@4>8^80 F#2+D#3@7>2^80
+@28 [G]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@29 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Voice         : F#4@4>1^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@30 [B7 | Bm7]
+  Waves         : A4@1>6^80
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : F#4@1>2^80 D4@3>1^80 F#4@4>2^80
+  Bass Quiet    : B1@1>4^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 F#2@3>2^80
+@31 [Bm]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : D4@2>1^80 C#4@3>1^80 B3@4>4^80
+  Bass Quiet    : D2@1>4^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@32 [E] (grid:4)
+  Piano         : E3@1>2^80
+  Bass Quiet    : B1@1>3^80
+  Bass          : B1@1>4^80
+  By Stellar Ice: F#2@1>1^80
+@33 [A] (grid:12t)
+  Piano         : A2+A3@3>4^80 D3+D4@4>1^80 C#3+C#4@5>1^80
+@34 [E]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Bass          : E1@1>8^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 F#2@3>2^80
+@35 [B]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : E4@4>2^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@36 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : F#4@2>3^80
+  Bass          : B1@1>4^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@37 [Bm]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : B3@2>5^80
+  Bass          : D2@1>8^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@38 [G]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 F#2@3>2^80
+@39 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Bass          : E2@1>4^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@40 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : E4@2>2^80 F#4@4>1^80
+  Bass          : B1@1>8^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@41 [F#m | B]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : A4@1>1^80 G4@2>2^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@42 [G]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Voice         : B3@2>4^80
+  Bass          : D2@1>4^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 F#2@3>2^80
+@43 [A]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Bass          : A1@1>4^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@44 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : E4@2>2^80 F#4@4>1^80
+  Bass          : B1@1>4^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@45 [D | Bm]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : A4@1>1^80 G4@2>2^80
+  Bass          : D2@1>8^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@46 [Em]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Voice         : E4@2>2^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 F#2@3>2^80
+@47 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Bass          : E2@1>4^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@48 [B | Bm]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : F#4@1>2^80 D4@3>1^80 F#4@4>2^80
+  Bass          : B1@1>8^80
+  By Stellar Ice: F#2@1>2^80 F#2@3>2^80
+@49 [Bm | B]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : D4@2>1^80 C#4@3>1^80 B3@4>6^80
+  By Stellar Ice: D0+F#2@1>1^80 D0@2>3^80 F#2+D#3@3>1^80
+@50 [E]
+  Piano         : E3@1>5^80
+  Bass          : E2@1>2^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80
+@51 [A] (grid:12t)
+  Piano         : A2+A3@3>4^80 D3+D4@4>1^80 C#3+C#4@5>1^80
+  Voice         : A3@3>1^80 D4@4>1^80 C#4@5>1^80
+@52 [B]
+  Piano         : B2+F#3+B3@1>1^80 B2+F#3+B3@2>1^80 B2+F#3+B3@3>1^80 B2+F#3+B3@4>1^80
+  Voice         : A3@2>1^80 B3@3>5^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@53 [B]
+  Piano         : B2+F#3+B3@1>1^80 B2+F#3+B3@2>1^80 B2+F#3+B3@3>1^80 B2+F#3+B3@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@54 [Baug | B]
+  Piano         : B2+G3+B3@1>1^80 B2+B3@2>1^80 B2+B3@3>1^80 B2+F#3+B3@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@55 [E]
+  Piano         : B2+B3@1>1^80 B2+E3+B3@2>3^80 B2+B3@3>1^80 B2+B3@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@56 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2+A3@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@57 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@58 [D]
+  Piano         : A3+D4@1>1^80 A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : E4@2>1^80 F#4@3>2^80
+  Bass          : F#2@1>1^80 B1@2>1^80 A1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@59 [D | G]
+  Piano         : A3+D4+A4@1>1^80 A3+D4+G4@2>2^80 F#4@3>1^80 A3+D4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : A1@1>1^80 B1@2>1^80 G2@3>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@60 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : F#4@2>1^80 A4@3>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@61 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@62 [D]
+  Piano         : A3+D4@1>1^80 A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : E4@2>1^80 F#4@3>2^80
+  Bass          : F#2@1>1^80 B1@2>1^80 A1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@63 [D | G]
+  Piano         : A3+D4+A4@1>1^80 A3+D4+G4@2>2^80 F#4@3>1^80 A3+D4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : A1@1>1^80 B1@2>1^80 G2@3>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@64 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : D5@3>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@65 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>3^80
+  Voice         : F#4@2>2^80 F#4@4>3^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@66 [F# | Em]
+  Piano         : B3+E4@3>1^80 B3+E4@4>2^80
+  Voice         : E4@4>1^80
+  Bass          : F#2@1>1^80 F#2@2>1^80 G2@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@67 [Em7 | Bm]
+  Piano         : B3+D4+F#4@2>1^80 B3+D4+F#4@3>1^80 B3+D4+F#4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>1^80 F#4@3>1^80 F#4@4>1^80
+  Bass          : G2@1>1^80 E2@2>1^80 D2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@68 [D]
+  Piano         : A3+D4+F#4@1>2^80 A3+D4+F#4@4>2^80
+  Voice         : E4@1>1^80 F#4@2>3^80
+  Bass          : B1@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@69 [Bm7 | D]
+  Piano         : A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : F#4@2>2^80 F#4@4>1^80
+  Bass          : B2@1>1^80 B2@2>1^80 E2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@70 [D]
+  Piano         : A3+D4+F#4@1>1^80 A3+D4+F#4@2>1^80 A3+D4+F#4@3>1^80 A3+D4+F#4@4>2^80
+  Voice         : F#4@1>1^80 F#4@2>2^80 F#4@4>2^80
+  Bass          : B1@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@71 [D]
+  Piano         : A3+D4+F#4@2>1^80 A3+D4@3>1^80 A3@4>1^80
+  Voice         : D4@2>1^80 D4@3>1^80 D4@4>1^80
+  Bass          : E2@1>1^80 E2@2>1^80 B1@3>1^80 A1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@72 [C#dim | F#aug]
+  Piano         : G3+C#4+E4@1>1^80 G3+D4+F#4@2>2^80 G3+D4+F#4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>3^80
+  Bass          : G1@1>1^80 G1@2>1^80 D2@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@73 [F#aug | G7]
+  Piano         : G3+D4+F#4@1>1^80 G3+D4+F#4@2>2^80 G3+D4+F#4@4>1^80
+  Voice         : F#4@2>2^80 F#4@4>1^80
+  Bass          : G1@1>1^80 D2@2>1^80 G1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@74 [F#aug]
+  Piano         : G3+D4+F#4@1>2^80 G3+D4+F#4@3>2^80
+  Voice         : F#4@1>1^80 F#4@2>2^80 F#4@4>2^80
+  Bass          : G1@1>1^80 G1@2>1^80 D2@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@75 [D]
+  Piano         : G3+D4+F#4@1>1^80 A3+D4@2>2^80
+  Voice         : F#4@2>1^80 D4@3>5^80
+  Bass          : G1@1>1^80 F#2@2>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@76 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Bass          : F#1@1>13^80
+  By Stellar Ice: D0+C#1+B1+F#2@1>2^80 C#1+F#2@3>2^80
+@77 [G]
+  Piano         : G3@1>2^80 B3@2>1^80 G3@3>2^80 B3@4>1^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 D0+C#1+A1+F#2@2>3^80 F#2@3>1^80
+@78 [E]
+  Piano         : E3@1>3^80 B3@2>1^80 B3@3>1^80 E3@4>1^80
+  By Stellar Ice: C#1+F#2@1>2^80 D0+A1+F#2@3>1^80 B3@4>3^80
+@79 [A]
+  Piano         : E3@1>1^80 A2+A3@2>3^80 D3+D4@3>1^80 C#3+C#4@4>1^80
+  By Stellar Ice: C#1+A1+F#2@1>1^80 C#1+F#2@2>2^80 C#1+F#2@3>1^80 C#1+A1+F#2@4>2^80
+@80 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 A1@2>1^80 C#1+A1+F#2@3>1^80
+@81 [G]
+  Piano         : G3@1>2^80 B3@2>1^80 G3@3>2^80 B3@4>1^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 D0+C#1@2>3^80 C#1+F#2@3>1^80
+@82 [E]
+  Piano         : E3@1>3^80 B3@2>1^80 B3@3>1^80 E3@4>1^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 C#1+A1+F#2@3>2^80
+@83 [E]
+  Piano         : E3@1>4^80 B3@2>1^80 B3@4>1^80
+  Voice         : E4@4>2^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 D0+C#1+A1+F#2@3>2^80
+@84 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : F#4@2>3^80
+  Bass          : B1@1>8^80
+  By Stellar Ice: D0+C#1+B1+F#2@1>2^80 C#1+F#2@3>2^80
+@85 [B]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : B3@2>5^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 D0+C#1+A1+F#2@2>3^80 F#2@3>1^80
+@86 [G]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Bass          : D2@1>8^80
+  By Stellar Ice: C#1+F#2@1>2^80 D0+A1+F#2@3>1^80 F#2@4>2^80
+@87 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  By Stellar Ice: C#1+A1+F#2@1>1^80 C#1+F#2@2>2^80 C#1+F#2@3>1^80 C#1+A1+F#2@4>2^80
+@88 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : E4@2>2^80 F#4@4>1^80
+  Bass          : B1@1>8^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 A1@2>1^80 C#1+A1+F#2@3>1^80
+@89 [F#m | B] (grid:24t)
+  Piano         : F#3@1>5^80 B3@4>2^80 F#3@7>5^80 B3@10>2^80
+  Voice         : A4@1>3^80 G4@5>3^80 F#4@9>9^80
+  By Stellar Ice: D0+C#1+F#2@1>2^80 D0+C#1@4>8^80 C#1+F#2@7>2^80
 @90 [G7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4+D5@2>2 G4+B4+D5@4>2 G4+B4@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>2 G4+B4+D5@12>2 G4+B4@14>2 G4+B4+D5@16>4
-  Electric Piano#2 : F#5@1>2 D5@3>2 B4@5>2 D5@7>4 B4@11>2 D5@13>2 D5@15>2
-@91 [Bm]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4@4>2 G4+B4+D5@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>4 G4+B4+D5@14>2 G4+B4@16>2
-  Electric Piano#2 : F#5@1>4 D5@5>2 B4@7>2 D5@9>2 D5@11>2 B4@13>2 D5@15>2
-@92 [G7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4+D5@2>2 G4+B4+D5@4>2 G4+B4@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>2 G4+B4+D5@12>2 G4+B4@14>2 G4+B4+D5@16>4
-  Electric Piano#2 : F#5@1>2 D5@3>2 B4@5>2 D5@7>4 B4@11>2 D5@13>2 D5@15>2
-@93 [Bm]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4@4>2 G4+B4+D5@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>4 G4+B4+D5@14>2 G4+B4@16>2
-  Electric Piano#2 : F#5@1>4 D5@5>2 B4@7>2 D5@9>2 D5@11>2 B4@13>2 D5@15>2
-@94 [G7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>1 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4+D5@2>2 G4+B4+D5@4>2 G4+B4@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>2 G4+B4+D5@12>2 G4+B4@14>2 G4+B4+D5@16>4
-  Electric Piano#2 : F#5@1>2 D5@3>2 B4@5>2 D5@7>4 B4@11>2 D5@13>2 D5@15>2
-@95 [Bm]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4@4>2 G4+B4+D5@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>4 G4+B4+D5@14>2 G4+B4@16>2
-  Electric Piano#2 : F#5@1>4 D5@5>2 B4@7>2 D5@9>2 D5@11>2 B4@13>2 D5@15>2
-@96 [G7]
-  Acoustic Bass    : E2@1>2 B2@3>2 F#2@5>2 B2@7>2 E2@9>2 A2@11>2 C#3@13>2 A2@15>2
-  Electric Piano   : G4+B4+D5@2>2 G4+B4+D5@4>2 G4+B4@6>2 G4+B4+D5@8>2 B4+D5+F#5@10>2 G4+B4+D5@12>2 G4+B4@14>2 G4+B4+D5@16>4
-  Electric Piano#2 : F#5@1>2 D5@3>2 B4@5>2 D5@7>4 B4@11>2 D5@13>2 D5@15>2
-@97 [G | D]
-  Acoustic Bass    : A2@1>14
-  Electric Piano   : G4+B4@4>2 G4+B4+D5@6>2 G4+B4+D5@8>2
-  Electric Piano#2 : D5@1>14
-@98 [G] (grid:12t)
-  Electric Piano   : G4+B4+D5@6>10
-@99 [-]
-@100 [-]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Bass          : D2@1>3^80 F#3@4>2^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 C#1+A1+F#2@3>2^80
+@91 [E | Em]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Bass          : G3@3>2^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 D0+C#1+A1+F#2@3>2^80
+@92 [B] (grid:16)
+  Piano         : F#3@1>7^80 B3@3>2^80 B3@5>3^80
+  Voice         : E4@5>1^80 F#4@6>2^80 A4@8>5^80
+  Bass          : B1@1>23^80
+  By Stellar Ice: D0+C#1+B1+F#2@1>3^80 C#1+F#2@5>3^80
+@93 [B]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : G4@3>1^80 F#4@4>4^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 D0+C#1+A1+F#2@2>3^80 F#2@3>1^80
+@94 [G]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  By Stellar Ice: C#1+F#2@1>2^80 D0+A1+F#2@3>1^80 F#2@4>2^80
+@95 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Voice         : F#4@4>1^80
+  Bass          : E2@1>4^80
+  By Stellar Ice: C#1+A1+F#2@1>1^80 C#1+F#2@2>2^80 C#1+F#2@3>1^80 C#1+A1+F#2@4>2^80
+@96 [B | Bm]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Guitar        : B4@2>4^80 B4@3>3^80
+  Voice         : F#4@1>2^80 D4@3>1^80 F#4@4>2^80
+  Bass          : B1@1>12^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 A1@2>1^80 C#1+A1+F#2@3>1^80
+@97 [Bm]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Guitar        : B4@2>1^80 B4@3>1^80 B4@4>1^80
+  Voice         : D4@2>1^80 F#4@3>1^80 D4@4>1^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 D0+C#1@2>3^80 C#1+F#2@3>1^80
+@98 [G7]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Guitar        : B4@4>2^80
+  Voice         : F#4@1>2^80 F#4@3>1^80 G4@4>3^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 C#1+A1+F#2@3>2^80
+@99 [B]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Guitar        : B4@2>1^80 B4@3>1^80 B4@4>1^80
+  Voice         : F#4@3>1^80 F#4@4>1^80
+  Bass          : F#2@1>4^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 D0+C#1+A1+F#2@3>2^80
+@100 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Guitar        : B4@4>2^80
+  Voice         : B4@1>2^80 C#5@4>2^80
+  Bass          : B1@1>8^80
+  By Stellar Ice: D0+C#1+B1+F#2@1>2^80 C#1+F#2@3>2^80
+@101 [B]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Guitar        : B4@2>2^80 B4@4>1^80
+  Voice         : F#4@3>1^80 F#4@4>3^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 D0+C#1+A1+F#2@2>3^80 F#2@3>1^80
+@102 [G]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Guitar        : B4@4>2^80
+  Bass          : D2@1>8^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 C#1+A1+F#2@3>2^80
+@103 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Guitar        : B4@2>1^80 B4@3>1^80 B4@4>1^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 D0+C#1+A1+F#2@3>2^80
+@104 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Guitar        : B4@4>2^80
+  Voice         : E4@2>2^80 F#4@4>1^80
+  Bass          : B1@1>16^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 A1@2>2^80 C#1+A1+F#2@3>1^80
+@105 [B7] (grid:24t)
+  Piano         : F#3@1>5^80 B3@4>2^80 F#3@7>5^80 B3@10>2^80
+  Guitar        : B4@4>5^80 B4@10>2^80
+  Voice         : A4@1>3^80 G4@5>3^80 F#4@9>9^80
+  By Stellar Ice: D0+C#1+F#2@1>2^80 D0+C#1@4>8^80 C#1+F#2@7>2^80
+@106 [G | Baug]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Guitar        : B4@4>2^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 C#1+A1+F#2@3>2^80
+@107 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Guitar        : B4@2>1^80 B4@3>1^80 B4@4>1^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 D0+C#1+A1+F#2@3>2^80
+@108 [B]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Guitar        : B4@4>2^80
+  Voice         : E4@3>1^80 F#4@4>1^80
+  Bass          : B1@1>7^80
+  By Stellar Ice: D0+C#1+B1+F#2@1>2^80 C#1+F#2@3>2^80
+@109 [B]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Guitar        : B4@2>2^80 B4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : C#3@4>3^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 D0+C#1+A1+F#2@2>3^80 F#2@3>1^80
+@110 [G7 | Bm]
+  Piano         : G3@1>3^80 B3@2>1^80 B3@3>1^80 G3@4>1^80
+  Guitar        : B4@4>2^80
+  Voice         : F#4@2>3^80
+  Bass          : D3@4>4^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 C#1+A1+F#2@3>2^80
+@111 [E]
+  Piano         : E3@1>2^80 B3@2>1^80 E3@3>2^80 B3@4>1^80
+  Guitar        : B4@2>1^80 B4@3>1^80 B4@4>1^80
+  Voice         : F#4@4>1^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 D0+C#1+A1+F#2@3>2^80
+@112 [B | Bm]
+  Piano         : F#3@1>4^80 B3@2>1^80 B3@3>2^80
+  Voice         : F#4@1>2^80 D4@3>1^80 F#4@4>2^80
+  Bass          : B1@1>8^80
+  By Stellar Ice: D0+C#1+A1+F#2@1>1^80 A1@2>2^80 C#1+A1+F#2@3>1^80
+@113 [Bm | B]
+  Piano         : F#3@1>2^80 B3@2>1^80 F#3@3>2^80 B3@4>1^80
+  Voice         : D4@2>1^80 C#4@3>1^80 B3@4>6^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 D0+C#1@2>3^80 C#1+F#2@3>1^80
+@114 [E]
+  Piano         : E3@1>5^80
+  Bass          : E2@1>6^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 C#1+A1+F#2@3>2^80
+@115 [A]
+  Piano         : A2+A3@2>3^80 D3+D4@3>1^80 C#3+C#4@4>1^80
+  Voice         : A3@2>1^80 D4@3>1^80 C#4@4>1^80
+  By Stellar Ice: D0+C#1+F#2@1>1^80 C#1+F#2@2>1^80 D0+C#1+A1+F#2@3>1^80 F#2@4>1^80
+@116 [B]
+  Piano         : B2+F#3+B3@1>1^80 B2+F#3+B3@2>1^80 B2+F#3+B3@3>1^80 B2+F#3+B3@4>1^80
+  Voice         : A3@2>1^80 B3@3>5^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@117 [B]
+  Piano         : B2+F#3+B3@1>1^80 B2+F#3+B3@2>1^80 B2+F#3+B3@3>1^80 B2+F#3+B3@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@118 [Baug | B]
+  Piano         : B2+G3+B3@1>1^80 B2+B3@2>1^80 B2+B3@3>1^80 B2+F#3+B3@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@119 [E]
+  Piano         : B2+B3@1>1^80 B2+E3+B3@2>3^80 B2+B3@3>1^80 B2+B3@4>1^80
+  Voice         : A3@2>1^80 D4@3>1^80 C#4@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@120 [B]
+  Piano         : B2+F#3+B3@1>1^80 B2+F#3+B3@2>1^80 B2+F#3+B3@3>1^80 B2+F#3+B3@4>1^80
+  Voice         : A3@2>1^80 B3@3>5^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@121 [B]
+  Piano         : B2+F#3+B3@1>1^80 B2+F#3+B3@2>1^80 B2+F#3+B3@3>1^80 B2+F#3+B3@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@122 [Baug | B]
+  Piano         : B2+G3+B3@1>1^80 B2+B3@2>1^80 B2+B3@3>1^80 B2+F#3+B3@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+@123 [E]
+  Piano         : B2+B3@1>1^80 B2+E3+B3@2>3^80 B2+B3@3>1^80 B2+B3@4>1^80
+  Bass          : B1@1>1^80 B1@2>1^80 B1@3>1^80 B1@4>1^80
+  By Stellar Ice: B1@1>1^80 B1+E2@2>1^80 B1+E2@3>1^80 B1+F#2+F3+B3@4>1^80
+@124 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2+A3@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@125 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@126 [D]
+  Piano         : A3+D4@1>1^80 A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : E4@2>1^80 F#4@3>2^80
+  Bass          : F#2@1>1^80 B1@2>1^80 A1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@127 [D | G]
+  Piano         : A3+D4+A4@1>1^80 A3+D4+G4@2>2^80 F#4@3>1^80 A3+D4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : A1@1>1^80 B1@2>1^80 G2@3>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@128 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : F#4@2>1^80 A4@3>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@129 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@130 [D]
+  Piano         : A3+D4@1>1^80 A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : E4@2>1^80 F#4@3>2^80
+  Bass          : F#2@1>1^80 B1@2>1^80 A1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@131 [D | G]
+  Piano         : A3+D4+A4@1>1^80 A3+D4+G4@2>2^80 F#4@3>1^80 A3+D4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : A1@1>1^80 B1@2>1^80 G2@3>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@132 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : D5@3>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@133 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>3^80
+  Voice         : F#4@2>2^80 F#4@4>3^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@134 [F# | Em]
+  Piano         : B3+E4@3>1^80 B3+E4@4>2^80
+  Voice         : E4@4>1^80
+  Bass          : F#2@1>1^80 F#2@2>1^80 G2@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@135 [Em7 | Bm]
+  Piano         : B3+D4+F#4@2>1^80 B3+D4+F#4@3>1^80 B3+D4+F#4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>1^80 F#4@3>1^80 F#4@4>1^80
+  Bass          : G2@1>1^80 E2@2>1^80 D2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@136 [D]
+  Piano         : A3+D4+F#4@1>2^80 A3+D4+F#4@4>2^80
+  Voice         : E4@1>1^80 F#4@2>3^80
+  Bass          : B1@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@137 [Bm7 | D]
+  Piano         : A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : F#4@2>2^80 F#4@4>1^80
+  Bass          : B2@1>1^80 B2@2>1^80 E2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@138 [D]
+  Piano         : A3+D4+F#4@1>1^80 A3+D4+F#4@2>1^80 A3+D4+F#4@3>1^80 A3+D4+F#4@4>2^80
+  Voice         : F#4@1>1^80 F#4@2>2^80 F#4@4>2^80
+  Bass          : B1@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@139 [D]
+  Piano         : A3+D4+F#4@2>1^80 A3+D4@3>1^80 A3@4>1^80
+  Voice         : D4@2>1^80 D4@3>1^80 D4@4>1^80
+  Bass          : E2@1>1^80 E2@2>1^80 B1@3>1^80 A1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@140 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2+A3@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@141 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@142 [D]
+  Piano         : A3+D4@1>1^80 A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : E4@2>1^80 F#4@3>2^80
+  Bass          : F#2@1>1^80 B1@2>1^80 A1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@143 [D | G]
+  Piano         : A3+D4+A4@1>1^80 A3+D4+G4@2>2^80 F#4@3>1^80 A3+D4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : A1@1>1^80 B1@2>1^80 G2@3>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@144 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : F#4@2>1^80 A4@3>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@145 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@146 [D]
+  Piano         : A3+D4@1>1^80 A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : E4@2>1^80 F#4@3>2^80
+  Bass          : F#2@1>1^80 B1@2>1^80 A1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@147 [D | G]
+  Piano         : A3+D4+A4@1>1^80 A3+D4+G4@2>2^80 F#4@3>1^80 A3+D4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : A1@1>1^80 B1@2>1^80 G2@3>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@148 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : D5@3>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@149 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>3^80
+  Voice         : F#4@2>2^80 F#4@4>3^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@150 [F# | Em]
+  Piano         : B3+E4@3>1^80 B3+E4@4>2^80
+  Voice         : E4@4>1^80
+  Bass          : F#2@1>1^80 F#2@2>1^80 G2@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@151 [Em7 | Bm]
+  Piano         : B3+D4+F#4@2>1^80 B3+D4+F#4@3>1^80 B3+D4+F#4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>1^80 F#4@3>1^80 F#4@4>1^80
+  Bass          : G2@1>1^80 E2@2>1^80 D2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@152 [D]
+  Piano         : A3+D4+F#4@1>2^80 A3+D4+F#4@4>2^80
+  Voice         : F#4@1>2^80 F#4@3>2^80
+  Bass          : B1@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@153 [Bm7 | D]
+  Piano         : A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : F#4@1>1^80 F#4@2>1^80 F#4@3>1^80 F#4@4>1^80
+  Bass          : B2@1>1^80 B2@2>1^80 E2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@154 [D]
+  Piano         : A3+D4+F#4@1>1^80 A3+D4+F#4@2>1^80 A3+D4+F#4@3>1^80 A3+D4+F#4@4>2^80
+  Voice         : F#4@1>1^80 F#4@2>2^80 F#4@4>2^80
+  Bass          : B1@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@155 [D]
+  Piano         : A3+D4+F#4@2>1^80 A3+D4@3>1^80 A3@4>1^80
+  Voice         : D4@2>1^80 D4@3>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 B1@3>1^80 A1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@156 [D]
+  Piano         : D4+F#4+A4@1>2^80 D4+F#4+A4@4>2^80
+  Voice         : D4@2>1^80 F#4@3>1^80 F#4@4>1^80
+  Bass          : G2@1>1^80 G2@2>1^80 G2@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@157 [D]
+  Piano         : D4+F#4+A4@2>2^80 D4+F#4+A4@4>1^80
+  Voice         : F#4@1>1^80 F#4@2>1^80 F#4@3>2^80
+  Bass          : G2@1>1^80 G2@2>1^80 D3@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@158 [D]
+  Piano         : D4+F#4+A4@1>1^80 D4+F#4+A4@2>1^80 D4+F#4+A4@3>1^80 D4+F#4+A4@4>2^80
+  Voice         : F#4@1>1^80 F#4@2>1^80 F#4@3>1^80 F#4@4>2^80
+  Bass          : G2@1>1^80 G2@2>1^80 G2@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@159 [D]
+  Piano         : D4+F#4+A4@2>1^80 D4+F#4@3>1^80 D4@4>1^80
+  Voice         : D4@2>1^80 D4@3>2^80
+  Bass          : G2@1>1^80 G2@2>1^80 D3@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@160 [D]
+  Piano         : A3+D4+F#4@1>2^80 A3+D4+F#4@4>2^80
+  Voice         : D4@2>1^80 F#4@3>1^80 F#4@4>1^80
+  Bass          : E2@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@161 [Bm7 | D]
+  Piano         : A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : F#4@1>1^80 F#4@2>1^80 F#4@3>1^80 F#4@4>1^80
+  Bass          : B2@1>1^80 B2@2>1^80 E2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@162 [D]
+  Piano         : A3+D4+F#4@1>1^80 A3+D4+F#4@2>1^80 A3+D4+F#4@3>1^80 A3+D4+F#4@4>2^80
+  Voice         : E4@1>1^80 F#4@2>1^80 E4@3>1^80 F#4@4>1^80
+  Bass          : E2@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@163 [D]
+  Piano         : A3+D4+F#4@2>1^80 A3+D4@3>1^80 A3@4>1^80
+  Voice         : E4@1>1^80 F#4@2>1^80 E4@3>1^80 F#4@4>1^80
+  Bass          : E2@1>1^80 E2@2>1^80 B1@3>1^80 A1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@164 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2+A3@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@165 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@166 [D]
+  Piano         : A3+D4@1>1^80 A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : E4@2>1^80 F#4@3>2^80
+  Bass          : F#2@1>1^80 B1@2>1^80 A1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@167 [D | G]
+  Piano         : A3+D4+A4@1>1^80 A3+D4+G4@2>2^80 F#4@3>1^80 A3+D4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : A1@1>1^80 B1@2>1^80 G2@3>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@168 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : F#4@2>1^80 A4@3>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@169 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@170 [D]
+  Piano         : A3+D4@1>1^80 A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : E4@2>1^80 F#4@3>2^80
+  Bass          : F#2@1>1^80 B1@2>1^80 A1@3>1^80 G1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@171 [D | G]
+  Piano         : A3+D4+A4@1>1^80 A3+D4+G4@2>2^80 F#4@3>1^80 A3+D4@4>1^80
+  Voice         : A4@2>1^80 G4@3>2^80
+  Bass          : A1@1>1^80 B1@2>1^80 G2@3>2^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@172 [D]
+  Piano         : A3+C#4@1>1^80 A3+D4@2>2^80 A3+D4@4>1^80
+  Voice         : D5@3>2^80
+  Bass          : D2@1>1^80 D2@2>1^80 D2@3>1^80 D2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@173 [A | D]
+  Piano         : A3+C#4+E5@1>1^80 A3+D4+D5@2>2^80 A3+D4@4>3^80
+  Voice         : F#4@2>2^80 F#4@4>3^80
+  Bass          : E2@1>1^80 E2@2>1^80 A1@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@174 [F# | Em]
+  Piano         : B3+E4@3>1^80 B3+E4@4>2^80
+  Voice         : E4@4>1^80
+  Bass          : F#2@1>1^80 F#2@2>1^80 G2@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@175 [Em7 | Bm]
+  Piano         : B3+D4+F#4@2>1^80 B3+D4+F#4@3>1^80 B3+D4+F#4@4>1^80
+  Voice         : E4@1>1^80 F#4@2>1^80 F#4@3>1^80 F#4@4>1^80
+  Bass          : G2@1>1^80 E2@2>1^80 D2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@176 [D]
+  Piano         : A3+D4+F#4@1>2^80 A3+D4+F#4@4>2^80
+  Voice         : E4@1>1^80 F#4@2>3^80
+  Bass          : B1@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@177 [Bm7 | D]
+  Piano         : A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : F#4@2>2^80 F#4@4>1^80
+  Bass          : B2@1>1^80 B2@2>1^80 E2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@178 [D]
+  Piano         : A3+D4+F#4@1>1^80 A3+D4+F#4@2>1^80 A3+D4+F#4@3>1^80 A3+D4+F#4@4>2^80
+  Voice         : F#4@1>1^80 F#4@2>2^80 B4@4>2^80
+  Bass          : B1@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@179 [D]
+  Piano         : A3+D4+F#4@2>1^80 A3+D4@3>1^80 A3@4>1^80
+  Voice         : D4@2>1^80 D4@3>1^80 D4@4>1^80
+  Bass          : E2@1>1^80 E2@2>1^80 B1@3>1^80 A1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@180 [D]
+  Piano         : D4+F#4+A4@1>2^80 D4+F#4+A4@4>2^80
+  Voice         : E4@1>1^80 F#4@2>3^80
+  Bass          : G2@1>1^80 G2@2>1^80 G2@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@181 [D]
+  Piano         : D4+F#4+A4@2>2^80 D4+F#4+A4@4>1^80
+  Voice         : F#4@2>2^80 F#4@4>1^80
+  Bass          : G2@1>1^80 G2@2>1^80 D3@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@182 [D]
+  Piano         : D4+F#4+A4@1>1^80 D4+F#4+A4@2>1^80 D4+F#4+A4@3>1^80 D4+F#4+A4@4>2^80
+  Voice         : F#4@1>1^80 F#4@2>2^80 F#4@4>2^80
+  Bass          : G2@1>1^80 G2@2>1^80 G2@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@183 [D]
+  Piano         : D4+F#4+A4@2>1^80 D4+F#4@3>1^80 D4@4>1^80
+  Voice         : D4@2>1^80 D4@3>1^80 D4@4>1^80
+  Bass          : G2@1>1^80 G2@2>1^80 D3@3>1^80 G2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@184 [D]
+  Piano         : A3+D4+F#4@1>2^80 A3+D4+F#4@4>2^80
+  Voice         : E4@1>1^80 F#4@2>3^80
+  Bass          : E2@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@185 [Bm7 | D]
+  Piano         : A3+D4+F#4@2>2^80 A3+D4+F#4@4>1^80
+  Voice         : F#4@2>2^80 F#4@4>1^80
+  Bass          : B2@1>1^80 B2@2>1^80 E2@3>1^80 B1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 F#2@3>1^80 F#2@4>1^80
+@186 [D]
+  Piano         : A3+D4+F#4@1>1^80 A3+D4+F#4@2>1^80 A3+D4+F#4@3>1^80 A3+D4+F#4@4>2^80
+  Voice         : F#4@1>1^80 F#4@2>2^80 F#4@4>2^80
+  Bass          : E2@1>1^80 E2@2>1^80 E2@3>1^80 E2@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@187 [D]
+  Piano         : A3+D4+F#4@2>1^80 A3+D4@3>1^80 A3@4>1^80
+  Voice         : D4@2>1^80 D4@3>1^80 D4@4>1^80
+  Bass          : E2@1>1^80 E2@2>1^80 B1@3>1^80 A1@4>1^80
+  By Stellar Ice: B1+F#2@1>1^80 E2+F#2@2>1^80 E2+F#2@3>1^80 F#2@4>1^80
+@188 [B]
+  Piano         : B3+F#4+B4@1>3^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : B1@1>4^80
+  By Stellar Ice: B1+F#2+F3@1>1^80 F3@2>1^80 F#2+F3@3>1^80 F3@4>1^80
+@189 [Bm]
+  Piano         : B3+F#4@1>2^80 B3+F#4@4>1^80
+  Voice         : B3@1>2^80 B3@4>1^80
+  Bass          : D2@1>4^80
+  By Stellar Ice: E2+F#2+F3@1>1^80 F3@2>1^80 F#2+F3@3>1^80 B1+F3@4>1^80
+@190 [E]
+  Piano         : B3+E4@1>3^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : E2@1>7^80
+  By Stellar Ice: B1+F#2+F3@1>1^80 F3@2>1^80 F#2+F3@3>1^80 F3@4>1^80
+@191 [E]
+  Piano         : B3+E4@1>2^80 B3+E4@4>1^80
+  Voice         : B3@1>2^80 B3@4>1^80
+  Bass          : E2@4>1^80
+  By Stellar Ice: E2+F#2+F3@1>1^80 F3@2>1^80 F#2+F3@3>1^80 B1+F3@4>1^80
+@192 [G]
+  Piano         : G3+D4@1>3^80
+  Voice         : E4@1>1^80 F#4@2>2^80
+  Bass          : G1@1>8^80
+  By Stellar Ice: B1+F#2+F3@1>1^80 F3@2>1^80 F#2+F3@3>1^80 F3@4>1^80
+@193 [G]
+  Piano         : G3+D4@1>2^80 G3+D4@4>1^80
+  Voice         : B3@1>2^80 B3@4>1^80
+  By Stellar Ice: E2+F#2+F3@1>1^80 F3@2>1^80 F#2+F3@3>1^80 F3@4>1^80
+@194 [E] (grid:6t)
+  Piano         : B3+E4@1>5^80
+  Voice         : E4@1>2^80 F#4@3>2^80
+  Bass          : E2@1>11^80
+  By Stellar Ice: B1+F#2+F3@1>5^80
+@195 [B] (grid:4)
+  Voice         : B3@2>4^80
+@196 [-]
+@197 [-]

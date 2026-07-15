@@ -3,7 +3,7 @@
 fingerprint.py — print any song's percentile profile against the frozen canonical distribution.
 
 Locates a song in the descriptive coordinate system discovered by metric_discovery.py: for each RETAINED
-axis (read dynamically from corpus_distribution_314.json — currently 29: the 28 validated axes + the
+axis (read dynamically from corpus_distribution.json — currently 29: the 28 validated axes + the
 within_song_variation axis added 2026-06-13) it computes the song's value and its PERCENTILE within the
 314 real corpus songs. DESCRIPTIVE only — a percentile is typicality/position, not quality.
 
@@ -26,11 +26,11 @@ from pathlib import Path
 
 import numpy as np
 
-from .metric_discovery import metrics_for          # the deterministic metric computations
+from .axes_v3 import metrics_for                    # v3: the 33 discovered axis computations
 from .understanding_probe import Song
 
 SCRIPT_DIR = Path(os.environ.get("LIBRETTO_DATA") or (Path(__file__).resolve().parent.parent / "data"))
-CANON = SCRIPT_DIR / "corpus_distribution_314.json"   # FROZEN canonical reference (build_canonical_distribution.py)
+CANON = SCRIPT_DIR / "corpus_distribution.json"   # FROZEN canonical reference (build_canonical_distribution.py)
 GRAMMAR_DIR = SCRIPT_DIR / "grammar"
 ANSWER_KEY = SCRIPT_DIR / "answer_key" / "grammar_truth.json"
 CAT_NAMES = {"rhy": "RHYTHM", "har": "HARMONY", "mel": "MELODY", "tex": "TEXTURE", "form": "FORM"}
